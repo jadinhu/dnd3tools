@@ -1,0 +1,36 @@
+<b>Safety</b>(Manual of the Planes)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal or touch
+ <b>Target:</b> You or creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None or Will negates (harmless)
+ <b>Spell Resistance:</b> No or Yes (harmless)
+
+ 	
+The recipient of this spell can find the shortest, most direct direction to a place of safety, with safety being defined as a location where the individual is not taking immediate damage from the environment, and immediate damage is not imminent.
+It does not provide the means for the subject to move in that direction.
+The safety spell points out the shortest distance out of a poisonous cloud, or the direction one should dig to reach the surface if entombed in earth.
+It does not function against the maze spell, for that spell does no physical damage.
+Nor does it have knowledge of or provide protection against the creatures that inhabit those safe places.
+In the D&amp;D cosmology, safety has the following effects on specific planes: Plane of Shadow: Shortest route out of darklands.
+Elemental Plane of Air:Nearest windproof shelter, shortest route out of smoke bank.
+Elemental Plane of Earth: Nearest air pocket or open cavern.
+Elemental Plane of Fire: Shortest route out of magma pools or other unusually hot places.
+Elemental Plane of Water:Nearest pocket of breathable air; shortest route out of hot spot, ice pocket, or red tide.
+Negative Energy Plane:Nearest doldrum area with the minor negative-dominant trait.
+Positive Energy Plane:Nearest edge zone with the minor positive-dominant trait.
+Limbo:Nearest area of stabilized Limbo.
+Pandemonium:Nearest shelter from a windstorm.
+Carceri: Shortest route out of a Minethys sandstorm.
+Gehenna:Nearest flat ledge, nearest shelter from Mungoth's acidic snow.
+Nine Hells:Nearest shelter from fireballs on Avernus, rockslides on Malbolge, or cold on Cania.
+Acheron:Nearest shelter from Ocanthus bladestorms.
+On planes you create yourself, safety may provide other information.
+This spell is mostly used in hostile environments such as the Inner Planes to locate the nearest pocket of habitable space.
+If safety is cast and then followed by a plane shift spell, the plane shift sends the caster to a place of relative safety on that plane.
+The caster is transported to a pocket of air on the Elemental Plane of Water, for example, or a cool spot on the Elemental Plane of Fire.
+ <b>Also appears in</b>   Spell Compendium     

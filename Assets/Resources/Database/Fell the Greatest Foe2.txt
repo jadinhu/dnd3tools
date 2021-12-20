@@ -1,0 +1,19 @@
+<b>Fell the Greatest Foe</b>(Spell Compendium, p. 90)
+
+Transmutation
+ <b>Level:</b>  Assassin 2,  Ranger 2,  Paladin 2,  Cleric 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You touch the creature, and its muscles ripple with yellow energy.</b>
+	
+The subject gains the ability to deal greater damage against larger creatures. For every size category of an opponent bigger than the subject of the spell, the subject deals an extra 1d6 points of damage on any successful melee attack. For example, a Medium creature would deal an extra 1d6 points of damage against a Large creature, 2d6 against Huge, 3d6 against Gargantuan, or 4d6 against a Colossal creature.
+	
+<b>Material Component:</b> A dragon's claw or a giant's fingernail.
+   

@@ -1,0 +1,17 @@
+<b>Iron Bones</b>(Tome of Battle: The Book of Nine Swords, p. 83)
+
+Stone Dragon (Strike)
+ <b>Level:</b>  Crusader 6 (Two Stone Dragon maneuvers),  Swordsage 6 (Two Stone Dragon maneuvers),  Warblade 6 (Two Stone Dragon maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>As you make a successful attack, you enter a meditative state that leaves you almost invulnerable to harm. For a few brief moments, arrows bounce off your skin, and sword blows barely draw any blood.</b>
+	
+This maneuver is an evolution of the techniques and abilities covered by the stone bones maneuver. Your meditative focus, ki, and training allow your mind to overcome matter. Weapons bounce from you skin and barely injure you.
+	
+When you use this maneuver, you make a single melee attack. If this attack hits, you gain damage reduction 10/adamantine for 1 round.
+ <b>Also appears in</b>   Spell Compendium  Ghostwalk  Magic of Faerun     

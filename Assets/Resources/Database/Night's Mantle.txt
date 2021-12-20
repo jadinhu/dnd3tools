@@ -1,0 +1,20 @@
+<b>Night's Mantle</b>(Lords of Darkness)
+
+Abjuration
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You imbue a creature with an invisible shield that protects it from all effects of sunlight.
+If cast on a vampire or other creature that is normally harmed or destroyed by exposure to sunlight, the spell allows that creature to function in sunlight without hindrance.
+The spell does not overcome any aversion the target creature may have for sunlight, however.
+Night's mantle is not countered or dispelled by any light spell of equal or lower level (such as the 3rd-level cleric spell daylight).
+It can be countered or dispelled by a light spell of greater level (such as the 8th-level cleric spell sunburst, which both counters night's mantle and inflicts its normal damage).
+Material Component: Powdered ruby (value no less than 1,000 gp).
+   

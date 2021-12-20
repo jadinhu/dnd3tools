@@ -1,0 +1,17 @@
+<b>Simbul's Spell Trigger</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>
+
+ 	
+As Simbul's spell sequencer, except that the spells to be held in the matrix may be as high as 7th level, and you may create a spell sequence of spells of 4th level or less.
+In addition, you may designate one spell or one spell sequence held in the matrix to come into effect under a condition you dictate when casting Simbul's spell trigger.
+This function works much like a contingency spell.
+The spell (or sequence of spells) to be brought into effect by the triggering condition must be of a type that affect your person, such as feather fall or levitate.
+The conditions needed to bring the matrix spells into effect must be clear, although they can be general.
+In all cases, Simbul's spell trigger immediately brings into effect the designated spell (or sequence of spells), which are
+&quot;cast&quot; instantaneously when the prescribed circumstances occur.
+You cannot choose to have the spell or spells not come into effect when the triggering event occurs.
+Focus: A diamond with a minimum value of 1,500 gp.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

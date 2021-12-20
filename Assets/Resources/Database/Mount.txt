@@ -1,0 +1,18 @@
+<b>Mount</b>(Player's Handbook v.3.5, p. 256)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,  Sha'ir 1,  Savant 1 (Arcane),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One mount
+ <b>Duration:</b> 2 hours/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You summon a light horse or a pony (your choice) to serve you as a mount.
+The steed serves willingly and well.
+The mount comes with a bit and bridle and a riding saddle.
+Material Component: A bit of horse hair.
+   

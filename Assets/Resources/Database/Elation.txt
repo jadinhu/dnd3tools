@@ -1,0 +1,17 @@
+<b>Elation</b>(Book of Exalted Deeds)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Cleric 2,  Emissary of Barachiel 2,  Sorcerer 3,  Wizard 3,   Joy 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 80 ft.
+ <b>Target:</b> Allies in an 80-ft.-radius spread of you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Your allies become elated, full of energy and joy.
+Affected creatures gain a +2 morale bonus to effective Strength and Dexterity, and their speed increases by +5 feet.
+Elation does not remove the condition of fatigue, but it does offset most of the penalties for being fatigued.
+   

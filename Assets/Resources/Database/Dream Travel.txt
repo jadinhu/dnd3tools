@@ -1,0 +1,28 @@
+<b>Dream Travel</b>(Manual of the Planes)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> You plus one additional creature touched per level
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You and any creature you touch are drawn along a crystal arc of reverie to the edge of conscious thought and into the Region of Dreams.
+You can take more than one creature along with you (subject to your level limit), but all must be touching each other when you cast the spell.
+You physically enter the plane of Dream, leaving nothing behind.
+In Dream, you move through a menagerie of thoughts, desires, and phantoms created by the minds of dreamers everywhere.
+For every minute you move through Dream (which is only a single round on the Material Plane), you can &quot;wake&quot; to find yourself five miles displaced in the waking world.
+Thus, a character can use this spell to travel rapidly by physically entering where only dreams prowl, moving the desired distance, and stepping back into the waking world.
+You know where you will come out in the waking world.
+Dream travel can also be used to travel to other planes that contain creatures who dream, but this requires crossing into the Dreamheart, where you are subject to the vagaries of violent dream realities.
+Transferring to another plane of existence requires 1d4 hours on Dream (which corresponds to 1d4x;6 minutes as time is measured on most other planes).
+Any creatures touched by you when dream travel is cast also makes the transition to the borders of unconscious thought.
+They may opt to follow you, wander into other dreamscapes, or stumble back into the waking world (50% chance for either of the latter results if they are lost or abandoned by you).
+Creatures unwilling to accompany you into the Region of Dreams receive a Will saving throw, negating the effect if successful.
+Note:Unlike the normal rules for dreaming, items you use, spells you cast, and other consumables are still gone when you return to the waking world after being under the effect of this spell.
+Likewise, items you gain and experience you accumulate while under the effect of this spell stay with you.
+   

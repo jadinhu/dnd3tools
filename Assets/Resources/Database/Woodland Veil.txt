@@ -1,0 +1,19 @@
+<b>Woodland Veil</b>(Races of the Wild)
+
+Illusion (Glamer)
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One or more creatures, no two of which can be more than 30 feet apart
+ <b>Duration:</b> 10 min./level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell makes its subjects blend in with natural surroundings, hiding them and quieting the sounds they make.
+All targets gain a +5 competence bonus on Hide and Move Silently checks while outdoors in a natural setting.
+The spell has no effect in urban settings or indoors (including dungeons).
+Those affected by this spell can see and hear each other and themselves as if unaffected by the spell.
+Any affected creature moving more than 30 feet from another target loses the bonuses the spell provides.
+   

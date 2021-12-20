@@ -1,0 +1,23 @@
+<b>Entomb</b>(Frostburn)
+
+Evocation [Cold]
+ <b>Level:</b>  Disciple of Thrym 5,  Druid 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> One creature/level, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> Instantaneous and 1 round/level; see text
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+An entomb spell traps living creatures in a block of ice, suffocating them.
+The spell entraps the targets with a thick layer of ice from head to toe.
+Those that make a successful Fortitude saving throw can shake off the ice immediately, though they still take 6d6 points of cold damage.
+If the creature fails its saving throw, it is held within the ice and immediately begins to suffocate per the drowning rules (see page 304 of the Dungeon Master's Guide).
+In addition, the creature takes 2d12 points of cold damage and 1 point of Constitution damage per round from contact
+with the ice.
+Other than attempting to escape, creatures entombed can perform actions that only require mental or verbal activity.
+Escaping from the ice block requires a DC 20 Strength check or the application of 20 points of fire damage.
+Material Component: A clear gemstone with a minimum value of 500 gp.
+   

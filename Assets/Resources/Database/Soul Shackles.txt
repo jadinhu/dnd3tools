@@ -1,0 +1,23 @@
+<b>Soul Shackles</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, Location
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster draws out the soul of a dead creature and imprisons it within a specially made talisman.
+The subject must have had the talisman in his possession when he died, or the spell cannot function.
+Henceforth, if the talisman is in the caster's possession, she can call forth the soul of the subject and question it about what it knew in life for up to 1 round/level each day, asking one question per round.
+The soul looks as it did in life, including the clothing and equipment it had with it on the day it died.
+Answers are clear, complete, and precise.
+If the subject is hostile, or if the answer to the question was an important secret to it in life, the subject gains a Will saving throw.
+A successful saving throw indicates that the spell ends and the soul departs to the afterlife.
+Focus: The talisman that will be the receptacle for the soul.
+Location Component: An area under the effect of a desecrate or unhallow spell.
+   

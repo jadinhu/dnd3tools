@@ -1,0 +1,14 @@
+<b>Camouflage</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+You change your coloring to match your environment, gaining a +10 competence bonus on Hide checks.
+Material Component:Mud painted on your face.
+ <b>Also appears in</b>   Ghostwalk  Savage Species  Spell Compendium  Underdark  Magic of Faerun  Complete Divine     

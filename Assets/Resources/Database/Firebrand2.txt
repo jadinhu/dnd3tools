@@ -1,0 +1,21 @@
+<b>Firebrand</b>(Spell Compendium, p. 93)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> One 5-ft.-radius burst/level (S)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>The flask of alchemist's fire vanishes from you hand and the ground erupts beneath your foes, shooting multiple fountains of fiery liquid upward.</b>
+	
+Each burst deals 1d6 points of damage per caster level (maximum 10d6) to all creatures within the area. All subjects hit by the burst in the round the spell is cast or within the area in the following round take 1d6 points of fire damage per two caster levels (maximum 5d6). A character struck in the round the spell is cast can attempt to extinguish the flames on itself as a full-round action with a successful DC 15 Reflex save.
+	
+Burst effects that overlap do not deal additional damage (a creature can be affected by only one burst).
+	
+<b>Material Component:</b> A flask of alchemist's fire (worth 20 gp).
+ <b>Also appears in</b>   Magic of Faerun     

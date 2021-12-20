@@ -1,0 +1,26 @@
+<b>Great Shout</b>(Forgotten Realms Campaign Setting)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 6,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> See text
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You emit a thunderous, devastating yell.
+The primary area affected is 5 feet high and 5 feet wide, extending out from you to the limit of the spell's range.
+Stone, crystal, and metal objects in the area take 20d6 points of damage.
+Creatures holding vulnerable objects can attempt Reflex saves to negate the damage.
+Objects that survive the spell's primary effect are not subject to the secondary effect.
+The spell's secondary effect is a cone of sound.
+Creatures within the cone take 10d6 points of damage, and are stunned for 1 round and deafened for 4d6 rounds.
+A successful Fortitude save negates the stunning and halves both the damage and the duration of the deafness.
+Any brittle or crystalline object or crystalline creature takes 1d6 points of damage per caster level (maximum 20d6).
+Creatures holding fragile objects can negate damage to them with successful Reflex saves.
+The great shout spell cannot penetrate the spell silence.
+Focus: A small metal or ivory horn.
+ <b>Also appears in</b>   Tome and Blood: A Guidebook to Wizards and Sorcerers     

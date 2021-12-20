@@ -1,0 +1,27 @@
+<b>Spirit Self</b>(Oriental Adventures)
+
+Necromancy
+ <b>Level:</b>  Wu Jen 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/2 levels (D)
+
+ 	
+This spell allows you to send your spirit outside your body in an incorporeal form, while maintaining some semblance of life in your physical body.
+Your spirit has a speed of 90 feet, but it cannot move more than 200 feet from your body.
+Your spirit can be blocked by any spell that wards incorporeal creatures, and it can be detected and attacked in the same way as incorporeal creatures can.
+A shaman can use commune with lesser spirit or commune with greater spirit (if you are higher than 4th level) to contact you, you cannot see creatures protected by invisibility to spirits, and you are warded by a protection from spirits spell.
+Your spirit can cast spells that have only verbal components, but it cannot otherwise attack or affect the physical world.
+Your body, meanwhile, assumes a half-awake state.
+In your spirit form, you can issue commands to your body as long as you are within 5 feet of it.
+It can take only simple actions � ;walking, talking (in a slow, slurred fashion), or eating.
+It is not helpless, but it can only take partial actions.
+It loses its Dexterity bonus to AC (if any), and foes gain a +2 bonus on attack rolls against it.
+Damage taken by either your spirit or your body is subtracted from your hit point total.
+If either your spirit or your body is destroyed, you die.
+If your body moves more than 200 feet from you, and your spirit is unable to follow (because of a protection from spirits spell or some other reason), you die.
+If you are otherwise prevented from returning to your body at the expiration of the spell, you die.
+Material Component: A small prayer wheel.
+ <b>Also appears in</b>   Complete Arcane     

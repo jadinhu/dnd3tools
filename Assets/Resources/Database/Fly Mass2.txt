@@ -1,0 +1,13 @@
+<b>Fly, Mass</b>(Spell Compendium, p. 96)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which are more than 30 ft. apart
+
+ 	
+<b>As your gestures point out which creatures receive the benefits of your spell, they seem lighter on their feet.</b>
+	
+This spell functions like <b>fly</b> (<b>PH</b> 232), except as noted here. This spell confers the power of flight upon all targeted creatures. Each recipient of the spell must remain within 30 feet of at least one other recipient, or the spell ends for the creature that is separated from the others. if only two individuals are affected, the spell ends for both if the distance between them exceeds 30 feet.
+ <b>Also appears in</b>   Complete Arcane     

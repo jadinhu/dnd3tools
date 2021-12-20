@@ -1,0 +1,17 @@
+<b>Healthful Rest</b>(Spell Compendium, p. 111)
+
+Conjuration (Healing)
+ <b>Level:</b>  Bard 1,  Cleric 1,  Druid 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>A diffuse glow of golden light spreads from you, wrapping those you have chosen in a soft nimbus. The subjects of your spell look relaxed and rested, the stresses of the day forgotten.</b>
+	
+Healthful rest doubles the subjects' natural healing rate. Each affected creature regains twice the hit points and ability damage it otherwise would have regained during that day, depending on its activity level (PH 76).
+ <b>Also appears in</b>   Complete Adventurer     

@@ -1,0 +1,21 @@
+<b>Master Air</b>(Spell Compendium, p. 139)
+
+Transmutation
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>You hold a feather aloft and intone the spell. Great translucent wings unfold from your back. You leap up and are airborne.</b>
+	
+You sprout a pair of insubstantial feathery or batlike (your choice) wings.
+	
+You can fly at a speed of 90 feet with good maneuverability (60 feet if you're wearing medium or heavy armor). Using master air requires as much concentration as walking, so you can attack or cast spells normally. You can charge but not run, and you cannot carry aloft more weight than your maximum load (PH 161), plus any armor you wear.
+	
+Should the spell duration expire while you are still aloft, the magic fails slowly. You drop 60 feet per round for 1d6 rounds. If you reach the ground in that amount of time, you land safely. If not, you fall the rest of the distance, taking falling damage normally. Since dispelling a spell effectively ends it, you also fall in this way if the master air spell is dispelled.
+	
+Focus: A wing feather from any bird or the wing bone of any bat.
+ <b>Also appears in</b>   Magic of Faerun     

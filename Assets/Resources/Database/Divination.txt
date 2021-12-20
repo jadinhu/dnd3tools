@@ -1,0 +1,21 @@
+<b>Divination</b>(Player's Handbook v.3.5, p. 224)
+
+Divination
+ <b>Level:</b>  Cleric 4,  Vassal of Bahamut 4,  Savant 4 (Divine),  Divine Bard 5,   Oracle 3,  Knowledge 4,  Pact 4,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+Similar to <b>augury</b> but more powerful, a <b>divination</b> spell can provide you with a useful piece of advice in reply to a question concerning a specific goal, event, or activity that is to occur within one week. The advice can be as simple as a short phrase, or it might take the form of a cryptic rhyme or omen.
+	
+For example, suppose the question is &quot;Will we do well if we venture into the ruined temple of Erythnul?&quot; The DM knows that a terrible troll guarding 10,000 gp and a <b>+1 shield</b> lurks near the entrance but estimates that your party could beat the troll after a hard fight. Therefore the divination response might be: &quot;Ready oil and open flame light your way to wealth.&quot; In all cases, the DM controls what information you receive. If your party doesn't act on the information, the conditions may change so that the information is no longer useful. (For example, the troll could move away and take the treasure with it.)
+	
+The base chance for a correct <b>divination</b> is 70% + 1% per caster level, to a maximum of 90%. The DM adjusts the chance if unusual circumstances require it (if, for example, unusual precautions against divination spells have been taken). If the dice roll fails, you know the spell failed, unless specific magic yielding false information is at work.
+	
+As with <b>augury</b>, multiple <b>divinations</b> about the same topic by the same caster use the same dice result as the first <b>divination</b> spell and yield the same answer each time.
+	
+<b>Material Component</b>: Incense and a sacrificial offering appropriate to your religion, together worth at least 25 gp.
+   

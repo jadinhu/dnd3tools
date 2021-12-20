@@ -1,0 +1,26 @@
+<b>Shadow Hand</b>(Magic of Faerun)
+
+Illusion (Shadow)
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 5-ft. hand
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a floating Medium-size hand out of shadow material.
+The shadow hand is an opaque gray color, 5 feet long, and that wide with its fingers outstretched.
+It can give cover as a Bigby's interposing hand spell (providing only one-half cover), carry materials as Tenser's floating disk, strike opponents, or point or gesture as a normal hand does.
+The hand is AC 18 (+6 natural, +2 deflection) and has half as many hit points as you have when undamaged.
+It can be damaged just as Bigby's interposing hand can, and makes all saving throws as if it were you.
+Changing the hand's task or target is a standard action, and it can move anywhere in range.
+If not given any commands, the hand follows you at your speed, maintaining the same distance from you.
+The spell ends if the hand ever exceeds its range.
+If it is carrying items and commanded to do something else, the hand drops whatever it is holding in order to complete its task (you can order the hand to rid itself of items gently as a standard action).
+Unlike Tenser's floating disk, it does not have to follow you at a fixed distance � ;you may direct where the hand goes.
+If commanded to attack, the hand makes a slam attack at your base attack bonus (+4 for its 18 Strength), dealing 1d6+4 points of damage, attacking from your direction.
+It cannot perform any special combat actions such as bull rush, grapple, or trip.
+ <b>Also appears in</b>   Spell Compendium     

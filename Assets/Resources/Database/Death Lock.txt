@@ -1,0 +1,16 @@
+<b>Death Lock</b>(Ghostwalk)
+
+Necromancy [Ectomancy]
+ <b>Level:</b>  Cleric 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+If the subject creature dies while the spell is in effect, its soul immediately passes on to the True Afterlife and cannot form a ghost.
+The subject can still be raised from the dead or even brought back as a ghost by magic (such as with the raise ghost spell); this spell only prevents a newly slain creature from forming a ghost of its own volition.
+   

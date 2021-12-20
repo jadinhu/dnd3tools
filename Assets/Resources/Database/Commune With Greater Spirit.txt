@@ -1,0 +1,12 @@
+<b>Commune With Greater Spirit</b>(Complete Arcane)
+
+Divination
+ <b>Level:</b>  Wu Jen 7,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Target:</b> One spirit
+
+ 	
+As commune with lesser spirit, except this spell can contact any spirit creature regardless of Hit Dice, and you can ask one question per caster level.
+Material Component: Incense and a small offering worth 25 gp.
+XP Cost: 100 XP.
+ <b>Also appears in</b>   Oriental Adventures     

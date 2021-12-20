@@ -1,0 +1,17 @@
+<b>Stone Fist</b>(Races of Stone)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Paladin 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Your fists turn into menacing, rocky lumps capable of inflicting deadly wounds.
+While this spell is in effect, your unarmed attacks do not provoke attacks of opportunity, and they deal lethal bludgeoning damage.
+The damage that your unarmed attacks deal increases as well, according to your size as given on the table below.
+If your unarmed strike already deals more damage than the indicated amount, you always use the higher value.
+In addition, if you are a dwarf or a goliath under the effects of this spell, your unarmed attacks overcome damage reduction as if they were cold iron weapons.
+   

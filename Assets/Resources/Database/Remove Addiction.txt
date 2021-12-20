@@ -1,0 +1,16 @@
+<b>Remove Addiction</b>(Book of Exalted Deeds)
+
+Conjuration (Healing)
+ <b>Level:</b>  Beloved of Valarian 2,  Cleric 2,  Druid 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Remove addiction cures all addictions that the target suffers from (see Drugs in the Book of Vile Darkness for more information about addictions).
+Since the spell's duration is instantaneous, it does not prevent new addiction to the same drug at a later date.
+   

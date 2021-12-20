@@ -1,0 +1,27 @@
+<b>Lightning Ring</b>(Player's Guide to FaerÃ»n)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal; see text
+ <b>Effect:</b> Two lightning bolts/round or eight lightning bolts all at once
+ <b>Duration:</b> 1 round/two levels or instantaneous; see text
+ <b>Saving Throw:</b> Reflex half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell conjures a crackling ring of bright white lightning that hovers around you at chest height.
+The ring moves with you and does not interfere with your spellcasting or attacks, or with others attacking you.
+As long as the lightning ring is in effect, you gain resistance to electricity 20.
+Each round on your action, the lightning ring emits two lightning bolts, exactly as the lightning bolt spell (caster level 5th), in any directions you choose.
+Each bolt may be aimed separately.
+A creature struck by one of these bolts may make a Reflex save for half damage.
+The DC for this save is calculated for an 8th-level spell, even though the bolts mimic a 3rd-level spell.
+Alternately, you may choose to release the lightning ring's power all at once.
+When you complete the casting of the spell, you unleash eight lightning bolts that travel in all directions.
+(See the diagram for missing with thrown weapons on page 158 of the Player's Handbook for an illustration of the directions these bolts travel).
+This use of the lightning ring spell has an instantaneous duration.
+You must choose whether to store the power of the lightning ring or release it all at once when you cast it.
+Material Components: A small glass ring and a bit of fur from any animal.
+ <b>Also appears in</b>   Spell Compendium     

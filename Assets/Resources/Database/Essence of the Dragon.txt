@@ -1,0 +1,22 @@
+<b>Essence of the Dragon</b>(Races of the Dragon)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,    
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing living creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+With the touch of your bloodied hand, your ally's appearance shifts.
+Her eyes become slitted, and a shimmer of scales ghosts momentarily across her skin.
+You confer the dragon type on the touched creature.
+For the duration of the spell, that creature counts as a dragon for the purpose of spell effects, magic item wielder requirements, favored enemy bonuses, and other factors that depend on a creature's type.
+The subject of the spell is immune to magic sleep and paralysis effects and ignores the frightful presence of dragons.
+The recipient also receives darkvision out to 60 feet and low-light vision.
+It is also now vulnerable to harmful effects that specify dragons, such as dragon bane weapons.
+Material Component: A drop of blood from a dragon or dragon-descended creature.
+   

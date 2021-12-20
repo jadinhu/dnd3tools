@@ -1,0 +1,9 @@
+<b>Inflict Serious Wounds</b>(Player's Handbook v.3.5, p. 244)
+
+Necromancy
+ <b>Level:</b>  Cleric 3, Blackguard 3,  Blighter 3,  Death Master 3,  Dread Necromancer 3,    
+<b>Components:</b>
+
+ 	
+This spell functions like inflict light wounds, except that you deal 3d8 points of damage +1 point per caster level (maximum +15).
+   

@@ -1,0 +1,17 @@
+<b>Lion's Charge</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You provide the subject with the powerful charging ability of the lion.
+When the subject charges, he can make a full attack in the same round.
+Material Component: A hair from a lion's mane.
+ <b>Also appears in</b>   Spell Compendium  Miniatures Handbook     

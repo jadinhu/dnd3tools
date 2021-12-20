@@ -1,0 +1,21 @@
+<b>Know Greatest Enemy</b>(Spell Compendium, p. 129)
+
+Divination
+ <b>Level:</b>  Blackguard 1,  Paladin 1,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped emanation
+ <b>Duration:</b> Concentration, up to 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your eyes flash green, turning golden as your survey your opponents. To your eyes, the weakest of them are limned with a pale green nimbus, which intensifies with power. The most powerful is wrapped in a brilliant, shimmering green aura.</b>
+	
+This spell evaluates the creatures in the area and determines the relative power level of each. Creatures are evaluated as follows:
+	<table>		<tr>			<th><b>CR</b> </th>			<th><b>Strength</b> </th>		</tr>		<tr>			<td> 4 or lower </td>			<td> Weak </td>		</tr>		<tr>			<td> 5 � ;10 </td>			<td> Moderate </td>		</tr>		<tr>			<td> 11 � ;15 </td>			<td> Strong </td>		</tr>		<tr>			<td> 16 or higher </td>			<td> Overwhelming </td>		</tr>	</table>	
+Among creatures within the same category, you know which is the most powerful, but not why. For example, among a group of ogres (CR 2), you would know one of them (an ogre with two levels of barbarian, CR 4) was the most powerful, but not know if it was because the ogre had class levels, a template (such as half-fiendish), or for another reason.
+	
+Any spell of 3rd level or higher that prevents scrying attempts on a creature (such as nondetection) or an area (such as false vision) thwarts this spell's ability to evaluate that creature or creatures within that area.
+ <b>Also appears in</b>   Magic of Faerun     

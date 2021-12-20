@@ -1,0 +1,22 @@
+<b>Towering Thunderhead</b>(Complete Mage)
+
+Conjuration (Creation) [Air]
+ <b>Level:</b>  Druid 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> Cylinder (40-ft. radius, 60 ft. high)
+ <b>Duration:</b> 3 rounds (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A cylinder of roiling clouds appears, shot through with punishing winds and sheets of lightning.
+This spell creates an enormous mass of dark clouds that provide concealment as fog cloud.
+Powerful and contrary currents of wind inside the cylinder have the effect of a wind wall spell.
+Movement within the cylinder is hampered; entering an affected square costs 2 squares of movement.
+You can see and move normally within your own towering thunderhead spell (though your ranged attacks are hindered as much as anyone else's).
+Any sonic or electricity spell of 7th level or lower cast by a creature within a towering thunderhead is automatically
+empowered (as if affected by the Empower Spell feat, but with no adjustment to the spell's level or casting time).
+Spells already affected by Empower Spell don't gain this benefit.
+   

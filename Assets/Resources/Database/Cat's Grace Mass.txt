@@ -1,0 +1,11 @@
+<b>Cat's Grace, Mass</b>(Player's Handbook v.3.5, p. 208)
+
+Transmutation
+ <b>Level:</b>  Bard 6,  Druid 6,  Sorcerer 6,  Wizard 6,  Sha'ir 6,  Urban Druid 6,   Celerity 7,   
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like cat's grace, except that it affects multiple creatures.
+   

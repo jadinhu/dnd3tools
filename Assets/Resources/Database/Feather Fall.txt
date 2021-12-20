@@ -1,0 +1,27 @@
+<b>Feather Fall</b>(Player's Handbook v.3.5, p. 229)
+
+Transmutation
+ <b>Level:</b>  Assassin 1, Bard 1,  Sorcerer 1,  Wizard 1,  Vigilante 1,  Jester 1,  Savant 1 (Arcane),  Sha'ir 1,  Assassin 1,  Court Herald 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 free action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One Medium or smaller freefalling object or creature/level, no two of which may be more than 20 ft. apart
+ <b>Duration:</b> Until landing or 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless) or Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+The affected creatures or objects fall slowly, though faster than feathers typically do.
+Feather fall instantly changes the rate at which the targets fall to a mere 60 feet per round (equivalent to the end of a
+fall froma few feet), and the subjects take no damage upon landing while the spell is in effect.
+However, when the spell duration expires, a normal rate of falling resumes.
+The spell affects one or more Medium or smaller creatures (including gear and carried objects up to each creature's maximum load) or objects, or the equivalent in larger creatures: A Large creature or object counts as two Medium creatures or objects, a Huge creature or object counts as two Large creatures or objects, and so forth.
+You can cast this spell with an instant utterance, quickly enough to save yourself if you unexpectedly fall.
+Casting the spell is a free action, like casting a quickened spell, and it counts toward the normal limit of one quickened spell per round.
+You may even cast this spell when it isn't your turn.
+This spell has no special effect on ranged weapons unless they are falling quite a distance.
+If the spell is cast on a falling item, such as a boulder dropped from the top of a castle wall, the object does half normal damage based on its weight, with no bonus for the height of the drop.
+(See the Dungeon Master's Guide for information on falling objects).
+Feather fall works only upon free-falling objects.
+It does not affect a sword blow or a charging or flying creature.
+   

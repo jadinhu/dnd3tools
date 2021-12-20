@@ -1,0 +1,19 @@
+<b>Undead Lieutenant</b>(Spell Compendium, p. 226)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One undead creature; see text
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You cast your spell on the foul creature, and for a brief moment your own face appears atop its ruined body.</b>
+	
+You empower the subject undead with the authority of command over undead in your control. The targeted undead must have Intelligence 5 or higher. Undead under your control obey the target undead as if it were you. You can give orders to the undead normally, superseding the orders of the subject of this spell. The number of undead you can control is increased by an amount equal to your caster level as long as the undead lieutenant is active. If the target undead creature is destroyed, the spell ends.
+	
+You can have only one undead lieutenant at any time.
+ <b>Also appears in</b>   Magic of Faerun     

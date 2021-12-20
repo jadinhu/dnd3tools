@@ -1,0 +1,12 @@
+<b>Heavenly Lightning Storm</b>(Book of Exalted Deeds)
+
+Evocation [Good]
+ <b>Level:</b>  Exalted Arcanist 7,   Celestial 7,   
+<b>Components:</b>
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 10-ft. wide to close range (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to one creature per caster level
+
+ 	
+As heavenly lightning, except it has a greater range, can strike more targets, and deals 5d6 points of special celestial electricity damage.
+   

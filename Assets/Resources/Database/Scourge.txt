@@ -1,0 +1,21 @@
+<b>Scourge</b>(Complete Divine)
+
+Necromancy
+ <b>Level:</b>   Pestilence 7,   
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One living creature/level, no two of which can be more than 50 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This nasty spell causes a major disease and weakness in those who fail their saving throws.
+Afflicted creatures are immediately stricken with a sickening scourge that quickly spreads to cover their entire bodies.
+The subject suffers excruciatingly painful and highly debilitating blackened boils, magenta blotches, violet lesions, seeping abscesses, and malignant cysts.
+The disease deals 1d3 points of temporary Strength and Dexterity damage per day, unless the creature makes a successful Fortitude save on a particular day.
+As with mummy rot, successful saves do not allow the creature to recover.
+The symptoms persist until the creature finds some magical means to cure the disease (such as remove disease, heal, or restoration).
+Focus: A black whip or riding crop, which is cracked in the direction of the intended victims during the casting of the spell.
+ <b>Also appears in</b>   Spell Compendium  Defenders of the Faith: A Guidebook to Clerics and Paladins     

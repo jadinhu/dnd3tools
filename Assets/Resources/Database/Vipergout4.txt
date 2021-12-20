@@ -1,0 +1,29 @@
+<b>Vipergout</b>(Spell Compendium, p. 230)
+
+Conjuration (Summoning) [see text]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 1d4+3 summoned creatures
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A churning in your stomach overtakes you as you complete the spell. Something slithers up your throat, and you vomit serpents.</b>
+	
+This spell summons 1d4+1 celestial or fiendish Medium vipers (<b>MM</b> 280), which leap forth from your mouth to attack your enemies.
+	
+A celestial viper summoned by this spell has resistance to acid 5, cold 5, and electricity 5; spell resistance 7; and a smite evil attack that provides a +2 bonus on one damage roll.
+	
+A fiendish viper summoned by this spell has resistance to acid 5 and fire 5; spell resistance 7; and a smite good attack that provides a +2 bonus on one damage roll.
+	
+Starting in the round you complete the spell, you can spit three vipers as a standard action or one viper as a move action. (Thus, if you move and then cast this spell, you cannot spit any vipers until your next turn, but if you cast this spell without moving, you can spit forth one viper as your move action in that round.) Spat vipers land at your feet in an adjacent square of your choice and act on the same round, on your turn, just as creatures summoned by a <b>summon monster</b> spell do.
+	
+The snakes are not actually present in your mouth, and they do not interfere with your breathing. However, until you have brought forth all the snakes summoned by the spell, you cannot speak, cast spells with verbal components, or activate items that require speech. When the spell's duration expires, all the vipers disappear, and any not yet brought forth are lost.
+	
+When you use a summoning spell to summon a good creature or an evil creature, it is a spell of that type.
+	
+<b>Material Component:</b> A snakeskin.
+ <b>Also appears in</b>   Magic of Faerun  Savage Species  Player's Guide to FaerÃ»n     

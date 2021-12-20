@@ -1,0 +1,17 @@
+<b>Ghorus Toth's Metal Melt</b>(Magic of Faerun)
+
+Transmutation [Fire]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Metal object weighing up to 5 lb./level
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You alter the physical properties of a metal object so that it runs like water.
+The melted metal does not change temperature but flows as a liquid for 1 round and then returns to its normal solid state, usually in a form resembling a puddle.
+If the object is a magic item, this renders it broken and nonfunctional, although a character with the appropriate item creation feat can repair it.
+Material Component: A drop of mercury in a vial.
+   

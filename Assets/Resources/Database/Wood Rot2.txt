@@ -1,0 +1,27 @@
+<b>Wood Rot</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 5 (Wood),   Maho 5,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One nonmagical wooden object (or the volume of the object within 3 ft. of the touched point) or one plant creature
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Any wood item or plant creature you touch becomes instantaneously rotted, decayed, and worthless, effectively destroyed.
+If the item is so large that it cannot fit within a 3-foot radius (a large wooden door), a 3-foot-radius volume of the wood is rotten and destroyed.
+Wooden magic items are immune to this spell.
+You may employ wood rot in combat with a successful melee touch attack.
+Wood rot used in this way instantaneously destroys 1d6 points of Armor Class gained from wooden armor or shields (up to the maximum amount of protection the armor offered).
+Weapons in use by an opponent targeted by the spell are more difficult to grasp.
+You must succeed at a melee touch attack against the weapon.
+A wooden or wooden-hafted weapon that is hit is destroyed.
+Note: Striking at an opponent's weapon provokes an attack of opportunity.
+Also, you must touch the weapon and not the other way around.
+Against plant creatures, wood rot instantaneously deals 3d6 points of damage +1 per caster level (maximum +15) per successful attack.
+The spell lasts for 1 round per level, and you can make one melee touch attack per round.
+Material Component: A live termite.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

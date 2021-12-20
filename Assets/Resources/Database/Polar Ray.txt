@@ -1,0 +1,18 @@
+<b>Polar Ray</b>(Player's Handbook v.3.5, p. 262)
+
+Evocation [Cold]
+ <b>Level:</b>  Duskblade 5,  Sorcerer 8,  Wizard 8,  Warmage 8,  Sha'ir 8,   Cold 8,   
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A blue-white ray of freezing air and ice springs from your hand.
+You must succeed on a ranged touch attack with the ray to deal damage to a target.
+The ray deals 1d6 points of cold damage per caster level (maximum 25d6).
+Focus: A small, white ceramic cone or prism.
+   

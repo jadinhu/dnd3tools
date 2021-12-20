@@ -1,0 +1,16 @@
+<b>Launch Bolt</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 0,  Wizard 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One crossbow bolt in your possession
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You cast this spell on a crossbow bolt, causing it to fly at a target of your choice as if you had fired it from a light crossbow.
+Any properties of the bolt (such as magical abilities, masterwork quality, and so on) or feats you possess (such as Point Blank Shot, Weapon Focus [light crossbow], and so on) apply.
+ <b>Also appears in</b>   Spell Compendium     

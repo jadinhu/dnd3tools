@@ -1,0 +1,21 @@
+<b>Enervating Shadow Strike</b>(Tome of Battle: The Book of Nine Swords, p. 77)
+
+Shadow Hand (Strike)
+ <b>Level:</b>  Swordsage 8 (Three Shadow Hand maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> Fortitude negates
+
+ 	
+<b>Your weapon becomes cloaked in an inky, black nimbus. As you strike your opponent, that energy flows into the wound and leaves him pale, weak, and shaking.</b>
+	
+As part of this maneuver, you make a single melee attack. If this attack hits, the target must make a successful Fortitude save (DC 18 + your Wis modifier) or gain 1d4 negative levels. You gain 5 temporary hit points for each negative level your enemy gains. Temporary hit points gained in this manner last until the end of the encounter. The effects of any negative levels bestowed by this
+strike disappear in 24 hours. 
+	
+If the target has at least as many negative levels as Hit Dice, it dies. Each negative level gives a creature a ?1 penalty on attack rolls, saving throws, skill checks, ability checks, and effective level (for determining the power, duration, DC, and other details of spells or special abilities). Additionally, a spellcaster loses one spell or spell slot from her highest available level. Negative levels stack.
+	
+In addition to the negative levels, your attack deals normal damage, even if the target succeeds on the saving throw.
+	
+This maneuver is a supernatural ability.</p   

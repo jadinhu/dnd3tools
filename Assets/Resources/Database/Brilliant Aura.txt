@@ -1,0 +1,19 @@
+<b>Brilliant Aura</b>(Complete Divine)
+
+Transmutation
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> 1 person per 2 levels, all of whom must be within 30 ft. of each other
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You limn your allies in a glowing nimbus, transforming their attacks into brilliant energy.
+Each person affected by this aura gives off light as a torch (20-foot radius).
+Their weapon attacks (melee or ranged) function as if their weapons were brilliant energy weapons: they ignore nonliving matter, and armor and enhancement AC bonuses do not count against them.
+The attacks cannot harm undead, constructs, or objects.
+In addition, all attacks gain an enhancement bonus on damage equal to one-half the caster's level (maximum +10).
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun     

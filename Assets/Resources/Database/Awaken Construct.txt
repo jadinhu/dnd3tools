@@ -1,0 +1,19 @@
+<b>Awaken Construct</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 8 hours
+ <b>Range:</b> Touch
+ <b>Target:</b> One construct
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell awakens a humanoid-shaped construct to humanlike sentience.
+The spell does not work on constructs that are only constructs temporarily (such as objects affected by an animate objects spell).
+The awakened creature is independent of both you and the being who originally made it, though it is initially friendly toward both you and its maker.
+Material Component: The brain of a humanoid that has been dead less than 8 hours.
+XP Cost: 5,000 XP.
+ <b>Also appears in</b>   Spell Compendium     

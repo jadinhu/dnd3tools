@@ -1,0 +1,21 @@
+<b>Force Ladder</b>(Magic of Faerun)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One ladder of force up to 60 ft. long
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a transparent ladder made of force.
+The ladder is two feet wide and anywhere from 10 to 60 feet long, with rungs spaced 1 foot apart.
+The ladder functions as a normal ladder.
+Because it is a force object, it can block or be used as a weapon against incorporeal or ethereal creatures (although they normally can move through the walls or floor to go around the ladder if used as a barricade, and only creatures capable of wielding a 10-foot-long or larger weapon could use the ladder offensively against such a creature).
+The ladder weighs 1 pound and can support 100 pounds of weight per caster level.
+It can be destroyed by anything that destroys a wall of force.
+Focus: A miniature silver ladder.
+ <b>Also appears in</b>   Spell Compendium     

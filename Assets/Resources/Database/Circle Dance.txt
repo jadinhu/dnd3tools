@@ -1,0 +1,17 @@
+<b>Circle Dance</b>(Magic of Faerun)
+
+Divination
+ <b>Level:</b>  Bard 2,  Cleric 3,  Druid 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Personal
+ <b>Duration:</b> Instantaneous
+
+ 	
+You divine the relative direction and condition of another individual.
+During the casting of the spell, you think of your target as you do a spinning dance around the compass.
+You must have firsthand knowledge of your target for the spell to function.
+If the target is alive and on the same plane as you, the spell leaves you facing in the direction of your target.
+You also get an impression of the target's physical and emotional conditions (unharmed, wounded, unconscious, dying, and so on).
+If the target is on a different plane or dead, you feel nothing.
+ <b>Also appears in</b>   Spell Compendium     

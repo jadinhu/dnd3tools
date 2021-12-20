@@ -1,0 +1,24 @@
+<b>Magnetism</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 3 (Metal),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+A shimmering magnetic ray springs from your hand and pulls iron or steel objects to your grasp.
+Once per round on a successful ranged touch attack, the magnetic ray can draw an object toward you with an effective Strength score of 30 (and so can target items weighing up to 8,000 pounds).
+Any unattended and unsecured item flies directly and safely to your hand (or to the edge of your space if too large to be wielded), but drawing an item toward you that another creature is holding (such as a weapon) requires a successful disarm attempt (see page 155 of the Player's Handbook).
+You use the ray's Strength modifier (+10) in place of your own, and such attempts do not provoke attacks of opportunity, even if you use magnetism against a creature in an adjacent square, although casting the spell might still provoke attacks of opportunity.
+If you succeed on the disarm attempt, the weapon flies from your opponent's hand to your own.
+If you target an item that is attended but not held, such as a weapon at someone's belt, the creature bearing the item gets a Reflex save to hang onto it, dropping whatever else is in one hand at the time unless it has a free hand.
+On a failed save, the item flies from the creature's hand to your own.
+Otherwise, make a disarm attempt as above.
+If an item is secured in some way, you can make a Strength check (using the ray's +10 bonus) to break or burst whatever holds it.
+Material Component: A piece of lodestone.
+ <b>Also appears in</b>   Oriental Adventures     

@@ -1,0 +1,22 @@
+<b>Decapitating Scarf</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 7 (metal),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast this spell, you flick a silk scarf at one creature within range, magically propelling it toward the target.
+The scarf assumes an ironlike hardness on the way, and then wraps around the creature's neck.
+You must have line of sight to the target and hit with a normal ranged attack.
+If you hit, the target must make a Fortitude saving throw; failure indicates that the scarf has decapitated the victim.
+A target creature that makes its save takes 1d4 points of damage per caster level (maximum 20d4) before freeing itself from the decapitating scarf.
+Constructs and most undead (except vampires) are not immediately killed by decapitation, and take only 6d4 points of damage whether they make their save or not.
+Oozes, aberrations, and other creatures without a head are immune to the spell's effects.
+Focus: The silk scarf.
+ <b>Also appears in</b>   Oriental Adventures     

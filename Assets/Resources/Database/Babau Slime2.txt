@@ -1,0 +1,19 @@
+<b>Babau Slime</b>(Spell Compendium, p. 22)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Sorcerer 1,  Wizard 1,   Abyss 3,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You press the viscous ball of demon sweat between your fingers and speak the eldritch words. Your flesh and equipment begin to weep hot red tears that quickly form a coating over your body.</b>
+	
+This demon-inspired transmutation causes the subject to secrete a slimy red layer of jelly that coats its skin, armor, and equipment. A creature that strikes a slime-protected subject with an unarmed strike, a touch attack (including a touch spell), or a natural weapon takes 1d8 points of acid damage. Any creature in a grapple with the target of babau slime takes 1d8 points of acid damage at the beginning of its turn.
+	
+<b>Arcane Material Component</b>: A drop of babau slime.
+ <b>Also appears in</b>   Planar Handbook     

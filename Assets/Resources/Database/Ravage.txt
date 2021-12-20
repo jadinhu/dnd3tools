@@ -1,0 +1,17 @@
+<b>Ravage</b>(Champions of Ruin)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 7,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 10-ft.-radius cylinder, 40 ft. high
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A terrible column of swirling black energy engulfs creatures and rips at their bodies and souls.
+All living creatures within the spell's area take 1d6 points of vile damage per two caster levels (maximum 10d6).
+Unlike regular damage, vile damage can only be healed by magic cast within the area of a consecrate or hallow spell.
+   

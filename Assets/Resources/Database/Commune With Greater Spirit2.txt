@@ -1,0 +1,16 @@
+<b>Commune With Greater Spirit</b>(Oriental Adventures)
+
+Divination
+ <b>Level:</b>  Shaman 5,  Shugenja 5 (Water),  Wu Jen 7,   Celestial 5,  Divination 5,  Nature 5,   
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Target:</b> One spirit
+
+ 	
+As commune with lesser spirit, but this spell can contact any spirit creature, whatever its Hit Dice.
+You can ask one question per level, but you must ask questions that can be answered by a simple yes or no.
+The answers given are correct within the limits of the spirit's knowledge.
+&quot;Unclear&quot; is a legitimate answer, because even the greatest spirits are not necessarily omniscient.
+In cases where a one-word answer would be misleading or contrary to the spirit's interests, the DM should give a short phrase (five words or less) as an answer instead.
+Material Component: Incense and a small offering worth 25 gp.
+XP Cost: 100 XP.
+ <b>Also appears in</b>   Complete Arcane     

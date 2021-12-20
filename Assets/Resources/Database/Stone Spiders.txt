@@ -1,0 +1,24 @@
+<b>Stone Spiders</b>(Forgotten Realms Campaign Setting)
+
+Transmutation
+ <b>Level:</b>   Spider 7,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> 1d3 pebbles or 1d3 vermin, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You transform 1d3 pebbles into stone constructs that resemble monstrous spiders.
+The constructs can be any size from Tiny to Huge as you decide, but all the constructs you create must be the same size.
+The constructs have the same statistics as monstrous spiders (see Appendix 2 in the Monster Manual) of the appropriate size, except as follows: Their natural armor increases by +6.
+They have damage reduction 30/+2.
+Their poison has a Fortitude save DC of 17 + your Wisdom modifier.
+Initial and secondary damage is 1d3 points of temporary Strength damage.
+If the constructs can hear your commands, you can direct them not to attack, to attack particular enemies, or to perform other actions.
+Otherwise, they simply attack your enemies to the best of their abilities.
+Alternatively, you can cast stone spiders on 1d3 vermin of any type or size.
+The affected vermin gain the benefits of a stoneskin spell (damage reduction 10/+5) for 1 round per caster level.
+ <b>Also appears in</b>   Spell Compendium     

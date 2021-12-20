@@ -1,0 +1,22 @@
+<b>Whip</b>(Oriental Adventures)
+
+Evocation
+ <b>Level:</b>  Wu Jen 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Effect:</b> A whip of force
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates a whip formed of magical force; the spell also grants you the ability to wield this whip with proficiency.
+Simply cracking the whip creates a sonic, mindaffecting effect that keeps normal animals (not beasts, magical beasts, or vermin) at bay unless they succeed at a Will saving throw.
+Affected animals stay at least 30 feet away from you for the duration of the spell.
+If you succeed at a normal ranged attack with the whip against any normal animal, the target animal must succeed at a Will saving throw or become frightened.
+Frightened creatures suffer a -2 morale penalty on attack rolls, weapon damage rolls, and saving throws, and flee from you as well as they can.
+If unable to flee, creatures may fight.
+You can use the whip in combat against other opponents as if it were a normal whip.
+Material Component: A small silk whip.
+   

@@ -1,0 +1,23 @@
+<b>Mestil's Acid Sheath</b>(Magic of Faerun)
+
+Conjuration (Creation) [Acid]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+You enclose yourself in a fluid sheath of acid that does not harm you.
+You can breathe normally and cast spells while the acid sheath is present.
+Any creature striking you with its body deals normal damage, but at the same time the attacker takes 1d6 points +2 points per caster level of acid damage.
+Weapons with exceptional reach, such as longspears, do not endanger their users in this way.
+The acid sheath does not protect you against other attack forms, such as fire.
+Any creature you are riding automatically takes damage every round as if you were touching it with a corrosive grasp.
+The mount tries to remove the source of pain, requiring a Ride check (DC 30) each round for you to remain mounted.
+You may make melee touch attacks as if you were using a corrosive grasp spell.
+A creature that swallows you does not take damage from this spell if its stomach inflicts acid damage.
+Material Component: A handful of fire ants (alive or dead).
+Focus: A glass sculpture of a humanoid.
+   

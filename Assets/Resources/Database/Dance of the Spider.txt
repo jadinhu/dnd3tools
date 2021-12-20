@@ -1,0 +1,15 @@
+<b>Dance of the Spider</b>(Tome of Battle: The Book of Nine Swords, p. 76)
+
+Shadow Hand (Stance)
+ <b>Level:</b>  Swordsage 3,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>Black, shadowy energy covers your hands and feet, allowing you to scuttle across the walls and ceiling like a lurking spider.</b>
+	
+While you are in this stance, you gain a benefit similar to the <b>spider climb</b> spell (PH 283). You gain a climb speed of 20 feet. You do not need to make a Climb check to traverse a vertical or horizontal surface, even if you attempt to move across a ceiling. You retain your Dexterity bonus to AC while climbing, and you must have at least one hand free to support yourself while you climb. You do not take any penalties, nor do your opponents gain any bonus when attacking you, while you climb. You cannot take a run action while climbing in this manner.
+   

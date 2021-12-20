@@ -1,0 +1,9 @@
+<b>Dispel Chaos</b>(Player's Handbook v.3.5, p. 222)
+
+Abjuration [Lawful]
+ <b>Level:</b>  Paladin 4,  Cleric 5,   Law 5,  Mechanus 5,   
+<b>Components:</b>
+
+ 	
+This spell functions like dispel evil, except that you are surrounded by constant, blue, lawful energy, and the spell affects chaotic creatures and spells rather than evil ones.
+   

@@ -1,0 +1,17 @@
+<b>Allegro</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Transmutation
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> Creatures within a 10-ft.-radius burst, centered on you
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell makes you and your companions extraordinarily fleet of foot by doubling each subject's speed and maximum jumping distance (treated as an enhancement bonus to both).
+Affected creatures retain these effects for the duration of the spell, even if they leave the original area.
+Material Component: A tail feather from a bird of prey.
+ <b>Also appears in</b>   Complete Adventurer  Spell Compendium     

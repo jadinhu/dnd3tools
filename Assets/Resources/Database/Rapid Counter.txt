@@ -1,0 +1,15 @@
+<b>Rapid Counter</b>(Tome of Battle: The Book of Nine Swords, p. 65)
+
+Diamond Mind (Counter)
+ <b>Level:</b>  Swordsage 5,  Warblade 5,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>You lash out, your weapon a blur, hammering at the slightest gap that appears in your foe?s defenses.</b>
+	
+This maneuver allows you to make a free attack against a reckless enemy. When a foe provokes an attack of opportunity from you, you can initiate this maneuver. As part of this maneuver, you make an immediate melee attack against the foe that provoked the attack of opportunity. This attack does not replace the normal attack of opportunity you receive. You can also use this maneuver before making your normal attack of opportunity when an opponent provokes (or vice versa).
+	
+The attack granted by the maneuver is not an extra attack of opportunity. You can initiate this maneuver before, after, in addition to, or instead of making an attack of opportunity against an opponent (thus possibly saving your attack of opportunity to use against another enemy later in the round).</p   

@@ -1,0 +1,21 @@
+<b>Steeldance</b>(Spell Compendium, p. 206)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Two daggers
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You place the two daggers in your outstretched palm and cast the spell. They rise from your hands, glowing with a dim blue radiance.</b>
+	
+The two daggers hover about you, attacking foes that come near. On your turn, each blade can make an attack at an adjacent opponent, with an attack bonus equal to your caster level + your relevant ability modifier. The damage they deal is equal to the normal weapon damage (1d4 for daggers) + your ability modifier (Intelligence for wizards and Charisma for sorcerers). The weapons are treated as magic for the purpose of overcoming damage reduction.
+	
+Your blades can be attacked with sunder or disarm attempts as if you were wielding them, and they use the above attack bonus to resolve such situations. Disarming a weapon under the effect of steeldance ends the spell for that weapon.
+	
+Focus: Two daggers
+ <b>Also appears in</b>   Magic of Faerun     

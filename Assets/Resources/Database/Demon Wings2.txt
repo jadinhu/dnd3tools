@@ -1,0 +1,16 @@
+<b>Demon Wings</b>(Fiendish Codex I: Hordes of the Abyss)
+
+Transmutation [Evil]
+ <b>Level:</b>  Blackguard 3,   Demonic 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+You raise your arms dramatically, whisper the name &quot;Pazuzu&quot;
+twice, and watch as demonic wings sprout from your back.
+Wings sprout from your back, allowing you to fly at your normal land speed with average maneuverability.
+You can carry weight while flying according to your normal carrying capacity, and greater burdens affect your fly speed as they would your land speed.
+ <b>Also appears in</b>   Book of Vile Darkness     

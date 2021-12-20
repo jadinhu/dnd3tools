@@ -1,0 +1,21 @@
+<b>Devil Blight</b>(Planar Handbook)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Living creature
+ <b>Duration:</b> Instantaneous or 1d6 rounds; see text
+ <b>Saving Throw:</b> None or Will partial; see text
+ <b>Spell Resistance:</b> Yes and no; see text
+
+ 	
+This spell was developed by demonic spellcasters ages ago for use against their ancient foes, the devils of Baator.
+It deals 2d6 points of damage to creatures that have both the lawful and evil subtypes (such as a barghest or a devil).
+No saving throw is allowed against this damage.
+If the target creature also possesses the baatezu subtype, the spell has a much more powerful effect.
+The target's mind reels, confusing it for 1d6 rounds and dealing 2d6 points of damage in each of those rounds.
+A successful Will save negates the confusion effect and reduces the duration to 1 round.
+Such creatures' spell resistance does not apply against this effect.
+ <b>Also appears in</b>   Spell Compendium     

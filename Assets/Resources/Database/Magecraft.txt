@@ -1,0 +1,15 @@
+<b>Magecraft</b>(Eberron Campaign Setting, p. 113)
+
+Divination
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 Day
+
+ 	
+You get a +5 competence bonus on one Craft check representing a day of work crafting an item. If you cast this spell every day for a week, you can make a Craft check representing the week's work and still gain the +5 competence bonus.
+	
+<b>Focus:</b> The tools and other equipment normally required to use the Craft skill to which you apply the bonus.
+   

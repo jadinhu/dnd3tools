@@ -1,0 +1,15 @@
+<b>Angry Ache</b>(Book of Vile Darkness)
+
+Necromancy
+ <b>Level:</b>  Assassin 1,  Cleric 1,   Pain 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster temporarily strains the subject's muscles in a very specific way. The subject feels a sharp pain whenever she makes an attack. All her attack rolls have a -2 circumstance penalty for every four caster levels (maximum penalty -10).
+   

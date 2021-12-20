@@ -1,0 +1,17 @@
+<b>Cloud of Bewilderment</b>(Magic of Faerun)
+
+Evocation
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> Cone
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You breathe out an invisible cloud of noxious air.
+Anyone in the area is stunned and blinded for 1d6 rounds.
+A moderate wind (11+ mph) disperses the cloud in 4 rounds; a strong wind (21+ mph) disperses the fog in 1 round.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

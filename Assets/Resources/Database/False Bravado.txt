@@ -1,0 +1,20 @@
+<b>False Bravado</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One humanoid
+ <b>Duration:</b> 3 rounds + the subject's Constitution modifier
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+False bravado causes the subject to grow overconfident, believing that he or she has gained the full effects of a barbarian's rage (Constitution and Strength bonuses as well as improved Will saves).
+In fact, however, the affected creature incurs all the penalties of a barbarian's rage but gains none of its advantages.
+The subject suffers a -2 penalty to AC and cannot use skills or abilities that require patience and concentration, such as moving silently or casting spells.
+At the end of the spell's duration, the creature is fatigued (-
+2 penalties to Strength and Dexterity, unable to charge or run) for the rest of that encounter.
+Focus: A small mirror with a sigil of bravery painted upon it, worth at least 25 gp.
+   

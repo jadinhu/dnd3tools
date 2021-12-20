@@ -1,0 +1,13 @@
+<b>Simbul's Spell Sequencer</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>
+
+ 	
+As Simbul's spell matrix, except that spells of up to 5th level may be placed in the matrix.
+In addition, you may decide to link two or more of the matrixed spells into a spell sequence.
+Spells to be linked into a sequence must be of 2nd level or lower.
+You may discharge all the spells linked into a single sequence with a free action, just as if you were casting one spell out of the Simbul's spell matrix.
+Focus: A sapphire with a minimum value of 1,000 gp.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

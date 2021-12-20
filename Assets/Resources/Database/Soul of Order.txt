@@ -1,0 +1,21 @@
+<b>Soul of Order</b>(Dragon Magic)
+
+Transmutation [Lawful]
+ <b>Level:</b>  Paladin 1,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour
+
+ 	
+A shimmering field of silver energy flows up your body from your feet to your head, giving your skin a metallic sheen.
+This spell infuses your body with energy drawn from the primal forces of law.
+You gain a +2 morale bonus on Will saves made to resist enchantment effects.
+Your natural weapons are treated as lawful-aligned for the purpose of overcoming damage reduction.
+Regardless of your normal alignment, you are considered lawful-aligned for the purpose of effects that rely on alignment (such as protection from law or order's wrath).
+If soul of order and soul of light are active on you at the same time, you gain damage reduction 3/chaotic or evil.
+If soul of order and soul of shadow are active on you at the same time, you gain damage reduction 3/chaotic or good.
+Soul of order counters and dispels soul of anarchy, and vice versa.
+Special: A lawful-aligned dragon capable of casting 4th-level sorcerer spells can cast this spell as a swift action.
+   

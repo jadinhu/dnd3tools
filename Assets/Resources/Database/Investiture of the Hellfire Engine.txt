@@ -1,0 +1,28 @@
+<b>Investiture of the Hellfire Engine</b>(Fiendish Codex II: Tyrants of the Nine Hells)
+
+Transmutation [Evil, Investiture]
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Upon the casting of this spell, the target's flesh transforms, assuming a dull metallic hue.
+Its eyes erupt with unholy flame, and when it opens its mouth, you see the fires of Hell roiling within.
+A creature affected by investiture of the hellfire engine gains all the benefits described under the iron body spell (PH 245), except that its flesh transforms into living cold iron.
+Its unarmed natural attacks count as cold iron for the purpose of overcoming damage reduction.
+In addition, the subject can breathe a 30-foot cone of hellfire that deals 8d10 points damage.
+This damage is not fire damage, and is not subject to being reduced by resistance to fire-based attacks, such as that granted by protection from energy (fire), fire shield (chill shield),
+and similar magic.
+All creatures in the area are entitled to a Reflex save against the spell's DC for half damage.
+The subject must wait 1d4 rounds between each use of this breath weapon.
+The subject also gains resistance to fire 20.
+This resistance stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the chain devil).
+While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture.
+After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute.
+Material Component: A fist-sized chunk of brimstone.
+   

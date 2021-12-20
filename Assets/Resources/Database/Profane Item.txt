@@ -1,0 +1,21 @@
+<b>Profane Item</b>(Complete Champion)
+
+Transmutation [Evil]
+ <b>Level:</b>  Cleric 4,  Blackguard 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched
+ <b>Duration:</b> Permanent until discharged
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+Negative forces flow through your hands and into the object you hold, filling it with a darkly glowing power that gleams for a moment, then subsides.
+You imbue a touched object with latent negative energy.
+If the item thereafter touches or is touched by an animal or plant of any alignment, or by an outsider or shapechanger of good alignment, the negative energy discharges with a loud snap, dealing 1d4 points of negative energy damage per caster level (maximum 10d4) to that creature.
+If the creature discharging the item is an animal or plant, it must save against fear or flee in terror (or cower, if it cannot move) for 1d4 minutes.
+On a successful save, the creature is merely shaken for the same length of time.
+If the creature discharging the item is a shapechanger, an image of its natural form or most common alternate form appears for 1d4 rounds, superimposed over its body, revealing its true nature to all witnesses.
+Profane item counters and dispels sacred item (see below).
+   

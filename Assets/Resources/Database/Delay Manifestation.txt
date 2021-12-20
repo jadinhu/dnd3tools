@@ -1,0 +1,17 @@
+<b>Delay Manifestation</b>(Ghostwalk)
+
+Abjuration [Ectomancy]
+ <b>Level:</b>  Cleric 2,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You prevent the subject creature from manifesting as a ghost for the duration of the spell.
+If the subject dies, it appears on the Ethereal Plane as normal, but cannot enter the Material Plane while the spell is in effect.
+This spell works only on an ethereal ghost or a living creature with a physical body; it cannot be cast upon the body of someone who is already dead, because this spell affects a creature's soul and a dead body has no soul to affect.
+   

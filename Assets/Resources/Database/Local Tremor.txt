@@ -1,0 +1,22 @@
+<b>Local Tremor</b>(Races of the Dragon)
+
+Evocation [Earth]
+ <b>Level:</b>  Cleric 2,  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> 30-ft. line
+ <b>Duration:</b> 1 minute/level or until expended; see text
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> No
+
+ 	
+The earth around your feet begins to ripple, and a directed shock wave of tectonic force is released that shoots through the ground.
+Immediately upon completion of the casting of this spell and as often as once per round thereafter, you can cause the ground to shake along a 30-foot line.
+You can produce a number of these tremors equal to your caster level (maximum five).
+The tremors begin at your location and extend in the direction you indicate; any creature caught standing within the area must make a Reflex save or fall prone.
+A spellcaster caught standing on one of these squares must make a Concentration check (DC 20 + spell level) or lose any spell that was being attempted.
+You need not produce a tremor immediately upon finishing the casting of this spell.
+You can perform other actions, even the casting of other spells, between producing new tremors.
+Calling up a new tremor in any round after the spell has been cast requires a standard action (as you refocus your concentration on the spell).
+   

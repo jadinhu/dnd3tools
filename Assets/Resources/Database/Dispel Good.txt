@@ -1,0 +1,9 @@
+<b>Dispel Good</b>(Player's Handbook v.3.5, p. 222)
+
+Abjuration [Evil]
+ <b>Level:</b>  Cleric 5,  Disciple of Thrym 5,  Nar Demonbinder 5,  Death Master 5,   Evil 5,  Hades 5,   
+<b>Components:</b>
+
+ 	
+This spell functions like dispel evil, except that you are surrounded by dark, wavering, unholy energy, and the spell affects good creatures and spells rather than evil ones.
+   

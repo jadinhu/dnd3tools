@@ -1,0 +1,23 @@
+<b>Subvert Planar Essence</b>(Spell Compendium, p. 211)
+
+Transmutation
+ <b>Level:</b>  Cleric 5,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius emanation centered on a point in space
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Taking command of the forces that connect your plane to others, you reach out with your will and deaden an area to the influence of the Outer Planes on its natives.</b>
+	
+Outsiders within the emanation of a subvert planar essence spell find their connection disrupted with the planar forces that created them. Outsiders that fail their saves have their damage reduction and spell resistance each reduced by 10.
+	
+For example, a barbed devil subject to subvert planar essence would have no damage reduction and spell resistance 13, while a pit fiend would have damage reduction 5/good and silver, and spell resistance 22.
+	
+An outsider attempts a Fortitude save and checks spell resistance when it first enter the spell's area. If it makes the save or the spell fails to overcome its spell resistance, that creature is thereafter unaffected by this casting of subvert planar essence and can enter and exit the spell area without making further saves. Outsiders that fail their saves and have their spell resistance overcome by the spell are affected as long as they remain within the spell's area, and they are automatically affected if they leave and reenter the area.
+	
+Arcane Material Component: A tuning fork made from cold iron.
+ <b>Also appears in</b>   Complete Divine     

@@ -1,0 +1,16 @@
+<b>Demoncall</b>(Fiendish Codex I: Hordes of the Abyss)
+
+Divination [Evil]
+ <b>Level:</b>  Blackguard 2,   Demonic 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+Your eyes roll back into your head as you call to Dagon for his unique insight.
+Suddenly you become aware of some fragment of forbidden lore previously lost to you.
+You tap into the forbidden knowledge of demons, gaining a +10 profane bonus on any one skill check involving Knowledge (arcana), Knowledge (the planes), or Knowledge (religion).
+The check must be made immediately, in the same turn as you cast the spell.
+ <b>Also appears in</b>   Book of Vile Darkness     

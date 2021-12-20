@@ -1,0 +1,17 @@
+<b>Call Mount</b>(Book of Exalted Deeds)
+
+Conjuration (Calling) [Good]
+ <b>Level:</b>  Paladin 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 10 ft.
+ <b>Effect:</b> Your special mount
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You summon your special mount from the celestial planes where it resides.
+This works exactly as your normal, spell-like class ability to summon the creature, except that the duration is shorter and you are not limited in how many times you can call the mount in a day (except by how many times you can cast call mount).
+You can cast this spell even if you have already called your mount using your class ability on the same day.
+   

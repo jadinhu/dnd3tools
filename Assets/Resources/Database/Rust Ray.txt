@@ -1,0 +1,22 @@
+<b>Rust Ray</b>(Spell Compendium, p. 178)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Target:</b> One nonmagical ferrous object or one ferrous creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None or Fortitude negates (object); see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You unleash a russet ray at a metallic object. The air around you smells of hot metal.</b>
+	
+This russet ray corrodes metal that it touches. You must succeed on a ranged touch attack with the ray to strike a target. It can effectively destroy any nonmagical iron or iron alloy object. Such objects struck by a rust ray take 2d6 points of damage +1 per two caster levels (maximum +10), ignoring hardness. You can also target a weapon being wielded or metal armor being worn. Metal armor affected by this ray takes normal damage from the spell and loses 1d4 points of Armor Class through corrosion. If an item is reduced to 0 hit points, it is destroyed. Ferrous creatures struck by the ray take the same damage as objects.
+	
+Magic items can negate the effect with a successful Fortitude saving throw.
+	
+Material Component: Rust particles or a piece of a rust monster.
+   

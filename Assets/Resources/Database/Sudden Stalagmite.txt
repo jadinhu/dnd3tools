@@ -1,0 +1,21 @@
+<b>Sudden Stalagmite</b>(Spell Compendium, p. 213)
+
+Conjuration (Creation) [Earth]
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You point your finger upward and utter a curt shout. Immediately, a razor-sharp stalagmite bursts from the ground to impale your foe.</b>
+	
+This spell creates a stalagmite about 1 foot wide at its base and up to 10 feet tall. If it encounters a ceiling before it reaches full size, it stops growing. The stalagmite grows from the ground under the target creature and shoots upward. An airborne creature within 10 feet of the ground gains a +4 bonus on its saving throw, and airborne creatures more than 10 feet above the ground cannot be harmed by this spell.
+	
+The stalagmite deals 1d6 points of piercing damage per caster level (maximum 10d6). In addition, a target that fails to make a saving throw against this spell and takes damage from it is impaled on the stalagmite and cannot move from its current location until it makes a DC 15 Escape Artist check. The stalagmite can be removed in other ways as well, such as with a stone shape spell. The victim can break free with a DC 25 Strength check, although doing this deals it 3d6 points of slashing damage.
+	
+A creature's damage reduction, if any, applies to the damage from this spell. The damage from sudden stalagmite is treated as piercing for the purpose of overcoming damage reduction.
+   

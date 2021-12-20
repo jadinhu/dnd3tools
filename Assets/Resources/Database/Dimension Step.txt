@@ -1,0 +1,22 @@
+<b>Dimension Step</b>(Player's Handbook II)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One willing creature/3 levels, no two of which are more than 30 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+All the creatures you target with this spell gain a dark, shimmering pattern of runes on their shoes and feet.
+The runes blaze with arcane light for a moment.
+Less than a second later, the targets have shifted position on the battlefield.
+This spell allows your allies to make a short teleport.
+All creatures targeted by this spell can teleport a distance equal to their base land speed.
+A target can teleport to any square within its line of sight.
+This movement does not provoke attacks of opportunity.
+A creature can teleport up to a ledge, down to the base of a flight of stairs, and so forth as long as it observes the restrictions and limits given above.
+   

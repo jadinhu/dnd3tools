@@ -1,0 +1,23 @@
+<b>Fortissimo</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Evocation
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature or item
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Fortissimo doubles the volume of one source of sound specified by the caster.
+Bards often use this spell to help their music carry to larger audiences � ;or just be heard over the din of a noisy tavern.
+When casting fortissimo on a creature, the caster may specify items that the creature is wearing or carrying for inclusion in the effect.
+For example, casting fortissimo on a singer and including her lute would make both her song and her accompaniment twice as loud.
+If the affected creature or item can generate a sonic or language-based attack, such as a command spell, a harpy's song, the fascinate effect of bardic music, or a horn of blasting,
+the saving throw DC against that attack increases by +2.
+If a sonic attack deals damage (like a shout), the spell increases that damage by +1d6 points.
+Fortissimo counters and dispels silence and is countered and dispelled by it.
+If cast at a target affected by silence, it negates the effect for that creature or item only.
+   

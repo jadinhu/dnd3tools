@@ -1,0 +1,21 @@
+<b>Necrotic Skull Bomb</b>(Champions of Ruin)
+
+Necromancy
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You imbue a humanoid skull with negative energy and hurl it.
+The skull detonates on impact, releasing the negative energy contained within.
+All creatures in the spell's area, except for undead, gain 1d4 negative levels (see Energy Drain, page 308 of the Monster Manual, for details about negative levels).
+Assuming a creature survives the effect of the spell, it regains lost levels after a number of hours equal to your caster level (maximum 15 hours).
+Usually, negative levels have a chance of draining a creature's levels, but the negative levels from necrotic skull bomb don't last long enough to do so.
+An undead creature in the spell's area gains 1d4x;5 temporary hit points for 1 hour.
+Material Component: A humanoid skull.
+   

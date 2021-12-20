@@ -1,0 +1,16 @@
+<b>Restful Slumber</b>(Heroes of Horror)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>   Oneiromancy 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You allow another creature to gain a full night's sleep, uninterrupted by nightmares.
+If you attempt to cancel the nightmares imposed by an outside source, such as a curse or another spellcaster, you must make a caster level check (1d20 + caster level) against a DC of 11 + the caster level of the nightmares' source.
+   

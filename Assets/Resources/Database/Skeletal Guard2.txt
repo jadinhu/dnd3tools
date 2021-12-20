@@ -1,0 +1,22 @@
+<b>Skeletal Guard</b>(Savage Species)
+
+Necromancy [Evil]
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One or more fingerbones
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a number of loyal skeletons from fingerbones.
+All skeletons are Medium-size, with the normal Monster Manual statistics for their kind, except that their effective Hit Dice as far as turning is concerned is equal to your caster level.
+You can create one skeleton per caster level.
+These skeletons count toward the number of Hit Dice of undead you can have in your control (2 HD worth per caster level, as with the animate dead spell).
+Unlike the animate dead spell, these skeletons try to remain within 60 feet of you.
+If this distance is exceeded, a skeleton becomes inert until you return to within 60 feet of it.
+Material Component:One fingerbone from a Medium-size creature and one onyx gem worth 50 gp per skeleton to be created.
+The skeleton that forms from the fingerbone is that type of creature.
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun     

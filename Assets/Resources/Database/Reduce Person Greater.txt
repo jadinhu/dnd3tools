@@ -1,0 +1,17 @@
+<b>Reduce Person, Greater</b>(Spell Compendium, p. 171)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One humanoid creature
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>The creature shrinks rapidly before your eyes.</b>
+	
+This spell functions like <b>reduce person</b> (PH 269), except as noted above.
+   

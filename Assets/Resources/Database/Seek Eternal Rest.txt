@@ -1,0 +1,14 @@
+<b>Seek Eternal Rest</b>(Magic of Faerun)
+
+Conjuration (Healing)
+ <b>Level:</b>  Paladin 4 (Jergal),    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+You improve your ability to turn undead.
+Your paladin level is treated as two levels higher for the purpose of turning or destroying undead.
+ <b>Also appears in</b>   Spell Compendium     

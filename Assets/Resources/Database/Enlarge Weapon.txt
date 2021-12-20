@@ -1,0 +1,21 @@
+<b>Enlarge Weapon</b>(Complete Scoundrel)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One touched melee weapon
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+With a shriek of warping wood and scraping metal, your weapon grows, becoming far more intimidating.
+A melee weapon you hold enlarges by one size category (Small weapons become Medium, Medium weapons become Large, and so on).
+As its size increases, the damage the weapon deals increases as well (PH 114).
+When your weapon is affected by this spell, you do not take a penalty for wielding an inappropriately sized weapon.
+If you drop the enlarged weapon, are disarmed, or hand the weapon to another creature, the spell ends.
+This spell does not grant you the ability to wield any other inappropriately sized weapon without penalty, only the one on which this spell is cast.
+This spell has no effect on a weapon that is already increased in size by some other effect (such as being held by a creature affected by enlarge person).
+   

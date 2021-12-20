@@ -1,0 +1,17 @@
+<b>Blade Storm</b>(Spell Compendium, p. 30)
+
+Transmutation
+ <b>Level:</b>  Ranger 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 Swift Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> no
+ <b>Spell Resistance:</b> no
+
+ 	
+<b>With a thought and a word you complete the spell. Your weapons shift color, becoming blue for a moment, and feel lighter in your hands. An unseen force guides them, pulling them toward your enemies.</b>
+	
+You can cast this spell only at the beginning of your turn, before you take any other actions. After casting blade storm, you can take a full-round action to make one attack with each melee weapon you are currently wielding against every foe within reach. If you wield more than one weapon, or a double weapon, you can attack each foe once with each weapon or end, using the normal rules for two-weapon fighting (PH 160). So, a ranger wielding a longsword and a short sword could attack each opponent he can reach with both weapons. If you choose not to spend a full-round action in this fashion after casting the spell, the spell has no effect.
+ <b>Also appears in</b>   Complete Adventurer     

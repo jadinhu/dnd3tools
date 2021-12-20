@@ -1,0 +1,17 @@
+<b>Claws of the Bear</b>(Spell Compendium, p. 47)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>Howling a curse at your enemies, pain explodes in your hands as they suddenly sport long claws. Almost instantly the pain fades. Too bad your foes won't be able to say the same.</b>
+	
+When you cast this spell, your hands become natural weapons that deal 1d8 points of damage each or your normal unarmed damage, whichever is greater. You are considered armed while this spell is in effect. If you are Small, your claws deal 1d6 points of damage, and if you are Large, they deal 2d6 points of damage. You add your Strength modifier to your claw damage rolls.
+	
+Your claws work just like the natural weapons of many monsters. You can make an attack with one claw or a full attack with two claws at your normal attack bonus, replacing your normal attack routine. You take no penalties for two-weapon fighting, and neither attack is a secondary attack. If your base attack bonus is +6 or higher, you do not gain any additional attacks � ;you simply have two claw attacks at your normal attack bonus.
+   

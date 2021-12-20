@@ -1,0 +1,23 @@
+<b>Wall of Water</b>(Spell Compendium, p. 235)
+
+Conjuration (Creation) [Water]
+ <b>Level:</b>  Druid 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> A straight wall whose area is up to one 10-ft. square/level (S)
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Reflex negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>A wall springs up in the area you designate. Composed of a sheet of water rising vertically, the transparent wall does not prevent you from seeing beyond it. The water of the wall is calm as a lake on a windless day.</b>
+	
+This spell creates a 10-foot-thick wall of fresh water or seawater (as selected by you). The water forms around objects and creatures in its area, plunging these creatures and objects underwater. A creature in the area where the water is created can make a Reflex save to move to a random side of the wall before it forms completely. This movement must occur on the creature's next turn, or it immediately suffers the full effect of being in the wall.
+	
+Creatures can move through a wall of water by making Swim checks, or can walk along the floor at half speed; the water itself is considered to be calm water. Any open flames in the area when the water forms are immediately extinguished. Creatures with the fire subtype take 2d6 points of damage +1 point per caster level each round they remain partially or wholly in the wall.
+	
+Although the wall is transparent, it provides cover to any targets inside against attacks launched from outside the wall. It cannot be destroyed by physical damage, nor can it be drained off to a different location. Water brought out of the wall in a container instantly evaporates as the wall itself forms more water to replace what was removed.
+	
+Material Component: A sponge.
+ <b>Also appears in</b>   Sandstorm     

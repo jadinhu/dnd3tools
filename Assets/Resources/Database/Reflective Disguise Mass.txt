@@ -1,0 +1,19 @@
+<b>Reflective Disguise, Mass</b>(Spell Compendium, p. 171)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 5,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/2 levels, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 12 hours (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You cast the spell, and your allies all suddenly appear to be members of the same orc tribe you plan to infiltrate.</b>
+	
+This spell functions like <b>reflective disguise</b>, except you can change the appearance of other creatures as well. Affected creatures resume their normal appearances if slain.
+	
+An unwilling target can negate the spell's effect on itself by making a successful Will save or with spell resistance.
+ <b>Also appears in</b>   Underdark     

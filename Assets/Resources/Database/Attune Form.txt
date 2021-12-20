@@ -1,0 +1,17 @@
+<b>Attune Form</b>(Manual of the Planes)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Druid 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One or more living creatures touched
+ <b>Duration:</b> 2 hours/level (see text)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell allows you to attune the affected creatures to the plane you are currently on, negating harmful and negative natural effects of that plane.
+Affected creatures gain the protections listed in the avoid planar effects spell.
+Arcane Material Component: A bit of stone or earth from your home plane.
+ <b>Also appears in</b>   Spell Compendium  Planar Handbook     

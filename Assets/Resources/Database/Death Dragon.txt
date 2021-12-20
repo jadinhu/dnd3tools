@@ -1,0 +1,19 @@
+<b>Death Dragon</b>(Draconomicon)
+
+Necromancy [Evil, Fear, Mind-Affecting]
+ <b>Level:</b>  Cleric 7,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Effect:</b> Dragon-shaped armor of energy and bones
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+You summon unholy power to gird yourself in a dragon-shaped cocoon of bones and negative energy.
+The cocoon gives you a +4 enhancement bonus to your natural armor and a +4 deflection bonus to Armor Class, plus 1 temporary hit point per caster level (maximum 20).
+You are treated as armed when you make unarmed attacks, and you deal damage as if your limbs were short swords of an appropriate size.
+You can use your off hand to attack, incurring the standard two-weapon fighting penalties (see page 160 of the Player's Handbook).
+The death dragon prevents you from casting spells with somatic, material, or focus (but not divine focus) components, but does not otherwise hinder your actions or movement.
+As a standard action, you may project a cone of fear or make a melee touch attack to use inflict critical wounds on the creature touched.
+These effects are otherwise identical to the spells of the same names.
+ <b>Also appears in</b>   Magic of Faerun  Spell Compendium     

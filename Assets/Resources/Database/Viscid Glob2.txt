@@ -1,0 +1,26 @@
+<b>Viscid Glob</b>(Underdark)
+
+Conjuration
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You conjure a 5-foot-diameter glob of incredibly sticky, greenish-gray goo and send it streaking toward the target creature.
+Make a ranged touch attack against the target.
+If you miss, the glob may strike a nearby square or creature.
+Roll 1d8 to determine its direction: 1 is backward toward you, and 2 through 8 are compass points determined by counting squares clockwise around the target square.
+Once you have established the direction of the miss, roll 1d4 to determine the number of squares away from the target square that the glob lands.
+A Medium or smaller creature struck by the glob must make a successful Reflex save or be instantly stuck in place.
+A stuck creature can speak but is otherwise limited to purely mental actions (such as casting spells with no somatic or material components) and attempts to free itself by means of a Strength check or Escape Artist check (DC 20 + caster level for either) made as a full-round action.
+A Large or larger creature stuck in the goo can't move from the spot where it is glued, but it can otherwise act normally.
+The glob dissipates when the spell duration expires.
+Until then, it remains sticky, and any creature touching it (for example, a creature attempting to pull out an ally) must make a successful Reflex save or become stuck itself.
+A creature stuck by such secondary contact is not trapped as thoroughly as a creature targeted by the glob, however, so the DC for the Strength or Escape Artist check required to get free is reduced by 5.
+Material Component: A tiny ball of spider silk.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,15 @@
+<b>Magic Stone</b>(Player's Handbook v.3.5, p. 251)
+
+Transmutation
+ <b>Level:</b>  Cleric 1,  Druid 1,  Hunter of the Dead 1,  Death Master 1,  Urban Druid 1,   Earth 1,  Halfling 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Up to three pebbles touched
+ <b>Duration:</b> 30 minutes or until discharged
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+You transmute as many as three pebbles, which can be no larger than sling bullets, so that they strike with great force when thrown or slung. If hurled, they have a range increment of 20 feet. If slung, treat them as sling bullets (range increment 50 feet). The spell gives them a +1 enhancement bonus on attack and damage rolls. The user of the stones makes a normal ranged attack. Each stone that hits deals 1d6+1 points of damage (including the spell's enhancement bonus), or 2d6+2 points against undead.
+   

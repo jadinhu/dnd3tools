@@ -1,0 +1,18 @@
+<b>Aspect of the Icy Hunter</b>(Complete Mage)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Thick ivory fur grows from your skin and your back hunches over
+until you stand on four paws.
+Cold, blue eyes stare out of your now-canine face.
+You take the form of a winter wolf (MM 256).
+You gain 20 temporary hit points, which disappear at the end of the spell's duration.
+See the Polymorph Subschool sidebar on page 91 for more details.
+   

@@ -1,0 +1,21 @@
+<b>Ghostly Reload</b>(Races of the Dragon)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Hand, light, or heavy crossbow
+ <b>Duration:</b> 1 hour or until expended; see text
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> No
+
+ 	
+Shimmering ghostly hands pull your crossbow's string back into the catch as you prepare to fire another bolt.
+After the wielder shoots a projectile from the crossbow affected by this spell, the magic immediately cocks the crossbow so that the weapon can be loaded again.
+Ghostly reload pulls the string of a hand crossbow or light crossbow into place once per caster level (maximum ten times at caster level 10th) and the string of a heavy crossbow into place once per two caster levels (maximum five times at caster level 10th).
+Cumulative castings of ghostly reload do not stack.
+This spell allows the crossbow's wielder to fire a light crossbow or heavy crossbow as a standard action and move in the same round.
+If the character benefits from a high base attack bonus, the crossbow can be fired multiple times as a full attack, but only if ghostly reload can be applied to each attack in that round.
+Focus: A crossbow.
+   

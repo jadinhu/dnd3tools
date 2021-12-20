@@ -1,0 +1,22 @@
+<b>Incarnum Arc</b>(Magic of Incarnum)
+
+Evocation [Incarnum]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Line from you to a point you designate within range
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you create a drifting &quot;lightning rod&quot; of incarnum that appears at the point you designate within range.
+Instantly, an arc of soul energy forms between you and the incarnum rod, creating a line.
+At the end of your turn, any living creature in that line takes 1d6 points of damage (Reflex negates).
+In subsequent rounds, incarnum arcs again between you and the rod at the end of your turn.
+You can move the rod up to 20 feet by an act of will as a move action, or you can leave it in place and move yourself if you wish to change the path of the arc.
+If the distance between you and the rod at the end of your turn is beyond the spell's range, no arc occurs but the spell remains active.
+Essentia: Every point of essentia invested in this spell increases the damage dealt by 1d6 points (2d6 points for 1 point of essentia, 3d6 points for 2 points of essentia, and so on).
+Material Component: A small brass rod.
+   

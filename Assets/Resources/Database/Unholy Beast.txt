@@ -1,0 +1,19 @@
+<b>Unholy Beast</b>(Champions of Ruin)
+
+Transmutation [Evil]
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One animal of up to 1 HD/level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, the subject creature temporarily transforms into a being of evil, serving you for the duration of the spell.
+The animal's limbs and face contort, it sprouts tusks and bone spurs through its skin, and its eyes turn completely black.
+The animal gains a +2 bonus to Strength, Dexterity, and Constitution, and a +2 bonus to natural armor.
+Furthermore, the damage of its natural attacks increases as if it were one size category larger.
+An unholy beast serves you as if it were under the influence of a dominate animal spell.
+   

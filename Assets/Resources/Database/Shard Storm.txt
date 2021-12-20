@@ -1,0 +1,21 @@
+<b>Shard Storm</b>(Spell Compendium, p. 187)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One or more 20-ft.-radius bursts of piercing force
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Tossing the shard from your grasp, you complete the spell. An instant later, translucent shards of arcane energy blast the area you designated. In addition to deadly shards, the area fills with the chiming sound of shattering glass.</b>
+	
+Immediately upon completion of this spell, and once per round thereafter, you can cause minuscule shards of magical force to explode out in a 20-foot-radius burst from the point of origin. The storm deals 3d6 points of force damage to all creatures within the radius. A successful Reflex save halves the damage.
+	
+Each round at the beginning of your turn, creatures in the area take an additional 3d6 points of force damage. You can use a free action to suppress the storm for that round.
+	
+Material Component: A small shard of clear glass or crystal.
+   

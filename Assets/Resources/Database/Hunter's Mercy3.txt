@@ -1,0 +1,15 @@
+<b>Hunter's Mercy</b>(Spell Compendium, p. 117)
+
+Transmutation
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>Your eyes glow red, but you see the world as normal except when you look at your target. A small glowing dot reveals the creature's weakest point.</b>
+	
+This transmutation makes a bow strike true. Your first hit with a bow (not including crossbows) in the next round is automatically a critical hit. If you don't hit in the round following the casting of this spell, the effect is wasted.
+ <b>Also appears in</b>   Ghostwalk  Magic of Faerun     

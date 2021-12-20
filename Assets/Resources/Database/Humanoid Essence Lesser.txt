@@ -1,0 +1,17 @@
+<b>Humanoid Essence, Lesser</b>(Races of Eberron, p. 187)
+
+Transmutation
+ <b>Level:</b>  Artificer 3,  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Construct touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+When this spell is cast upon a construct, it takes on more of the qualities of a living creature. The construct gains the full benefit of spells from the healing subschool.
+	
+This spell counters and dispels lesser construct essence. If this spell is cast on a creature under the effect of lesser construct essence, both spells are dispelled and have no effect. It has no effect if cast on a creature under the effect of construct essence or greater construct essence.
+   

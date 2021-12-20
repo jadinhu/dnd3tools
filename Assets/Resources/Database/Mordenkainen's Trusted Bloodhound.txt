@@ -1,0 +1,17 @@
+<b>Mordenkainen's Trusted Bloodhound</b>(Complete Mage)
+
+Conjuration (Creation)
+ <b>Level:</b>  Assassin 4,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>
+ <b>Effect:</b> Phantom bloodhound
+
+ 	
+You conjure a phantom hound, that can track and bring down your prey.
+This spell functions like Mordenkainen's faithful hound,
+except that the phantom bloodhound created can also track a creature as if it had the Track feat.
+Its Survival modifier is equal to your caster level for this purpose, but it can't use the Survival skill for any other tasks.
+A trusted bloodhound has a land speed equal to yours, and can move at full speed without taking a penalty on Survival checks to track.
+A trusted bloodhound can't attack, provide a flank, or have any other effect on combat.
+However, as a standard action, you can instruct a trusted bloodhound to serve as a watchdog; in this role it functions identically to Mordenkainen's faithful hound, except that its attack bonus equals your caster level.
+You can command a trusted bloodhound to resume its tracking again as a standard action.
+   

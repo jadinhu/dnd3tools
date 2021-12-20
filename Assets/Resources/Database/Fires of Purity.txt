@@ -1,0 +1,21 @@
+<b>Fires of Purity</b>(Complete Divine)
+
+Evocation [Fire]
+ <b>Level:</b>  Druid 6,  Sorcerer 6,  Wizard 6,   Purification 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless); see text
+
+ 	
+The creature you touch bursts into magical flames that do not harm the target, but are quite capable of harming anyone else who comes into contact with them.
+With a successful melee attack, the subject deals an extra 1d6 points of fire damage +1 point per caster level (maximum +15).
+If the defender has spell resistance, it applies to this effect.
+Creatures hitting the subject are susceptible to the same damage unless they attack with weapons that have exceptional reach, such as longspears.
+Any creature taking fire damage from fires of purity must succeed on a Reflex save or catch fire.
+Creatures on fire burn for 1d4 rounds and take 1d6 points of fire damage each round, unless they succeed on Reflex saves (at the spell's DC) in subsequent rounds or douse themselves in water (see Catching on Fire, page 303 of the Dungeon Master's Guide).
+The target takes only half damage from fire-based attacks.
+If such an attack allows a Reflex save for half damage, the target takes no damage on a successful save.
+ <b>Also appears in</b>   Oriental Adventures     

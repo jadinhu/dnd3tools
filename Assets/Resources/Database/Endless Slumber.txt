@@ -1,0 +1,21 @@
+<b>Endless Slumber</b>(Complete Mage)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 5,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As you utter the final syllable, your foe's eyes roll up in her head.
+She falls, snoring softly even as she hits the ground.
+You put a single subject into a magically induced slumber that lasts indefinitely.
+Normal stimuli, such as shouting or prodding, are insufficient to wake the subject, but any damage dealt to the subject causes her to rouse immediately.
+The subject can attempt a new save every 24 hours to awaken early.
+The subject does not need to eat or drink during this time.
+Material Component: A pinch of black sand.
+   

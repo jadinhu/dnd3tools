@@ -1,0 +1,15 @@
+<b>Wind Stride</b>(Tome of Battle: The Book of Nine Swords, p. 56)
+
+Desert Wind (Boost)
+ <b>Level:</b>  Swordsage 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> End of turn
+
+ 	
+<b>A warm breeze swirls about you as you move speedily away.</b>
+	
+The desert wind envelops you and carries you across the battlefield, giving you a burst of speed to move around and through your enemies. Until the end of your turn, you gain a +10-foot enhancement bonus to your land speed.
+   

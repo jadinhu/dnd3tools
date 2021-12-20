@@ -1,0 +1,17 @@
+<b>Ectoplasmic Enhancement</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One incorporeal undead/level
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The undead affected by this spell gain a +1 deflection bonus to Armor Class, +1d8 temporary hit points, a +1 enhancement bonus on attack rolls, and a +2 bonus to turn resistance.
+Each of these enhancements increases by +1 for every three caster levels.
+So a 12th-level caster grants a +5 deflection bonus to AC, an extra 1d8+4 temporary hit points, a +5 enhancement bonus on attack rolls, and a +6 bonus to turn resistance.
+   

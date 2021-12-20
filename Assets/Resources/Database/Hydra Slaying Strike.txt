@@ -1,0 +1,15 @@
+<b>Hydra Slaying Strike</b>(Tome of Battle: The Book of Nine Swords, p. 73)
+
+Setting Sun (Strike)
+ <b>Level:</b>  Swordsage 7 (Three Setting Sun maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You take stock of an opponent?s fighting style and make a single, carefully aimed attack that leaves the creature unable to make all of its attacks.</b>
+	
+You take careful aim at an enemy creature, striking it with the precise amount of force needed to push it off guard and leave it unable to bring all of its attacks to bear. Your opponent must spend critical seconds adjusting its guard and reevaluating its surroundings.
+	
+As part of this maneuver, make a single melee attack. If this attack hits, your target takes normal damage and cannot make a full attack on its next turn. Otherwise, it can act normally.</p   

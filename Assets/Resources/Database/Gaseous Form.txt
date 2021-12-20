@@ -1,0 +1,27 @@
+<b>Gaseous Form</b>(Player's Handbook v.3.5, p. 234)
+
+Transmutation
+ <b>Level:</b>  Trapsmith 1,  Bard 3,  Sorcerer 3,  Wizard 3,  Vigilante 3,  Wu Jen 3 (Water),  Sha'ir 3,  Death Master 3,  Jester 3,   Air 3,   
+<b>Components:</b>S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing corporeal creature touched
+ <b>Duration:</b> 2 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The subject and all its gear become insubstantial, misty, and translucent.
+Its material armor (including natural armor) becomes worthless, though its size, Dexterity, deflection bonuses, and armor bonuses from force effects (for example, from the mage armor spell) still apply.
+The subject gains damage reduction 10/magic and becomes immune to poison and critical hits.
+It can't attack or cast spells with verbal, somatic, material, or focus components while in gaseous form.
+(This does not rule out the use of certain spells that the subject may have prepared using the feats Silent Spell, Still Spell, and Eschew Materials).
+The subject also loses supernatural abilities while in gaseous form.
+If it has a touch spell ready to use, that spell is discharged harmlessly when the gaseous form spell takes effect.
+A gaseous creature can't run, but it can fly at a speed of 10 feet (maneuverability perfect).
+It can pass through small holes or narrow openings, even mere cracks, with all it was wearing or holding in its hands, as long as the spell persists.
+The creature is subject to the effects of wind, and it can't enter water or other liquid.
+It also can't manipulate objects or activate items, even those carried along with its gaseous form.
+Continuously active items remain active, though in some cases their effects may be moot (such as those that supply armor or natural armor bonuses).
+Arcane Material Component: A bit of gauze and a wisp of smoke.
+   

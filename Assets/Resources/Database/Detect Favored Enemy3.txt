@@ -1,0 +1,25 @@
+<b>Detect Favored Enemy</b>(Spell Compendium, p. 64)
+
+Divination
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Quarter circle emanating from you to the extreme of the range
+ <b>Duration:</b> Concentration, up to 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Using your passion for fighting your foe, you reach out with your magic and your mind to sense the presence of your enemies.</b>
+	
+You can sense the presence of a favored enemy. The amount of information revealed depends on how long you study a particular area.
+	
+1st Round: Presence or absence of a favored enemy in the area.
+	
+2nd Round: Types of favore enemies in the area and the number of each type.
+	
+3rd Round: The location and HD of each individual present.
+	
+<b>Note:</b> Each round you can turn to detect things in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks detection.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Divine     

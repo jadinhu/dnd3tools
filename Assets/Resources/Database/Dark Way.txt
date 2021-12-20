@@ -1,0 +1,23 @@
+<b>Dark Way</b>(Magic of Faerun)
+
+Illusion (Shadow)
+ <b>Level:</b>  Cleric 3 (Mask),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One bridge of force 2 ft. wide, 1 in. thick, and up to 20 ft./level long
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a ribbonlike, weightless, unbreakable bridge.
+The dark way must be anchored at both ends to solid objects, but otherwise can be at any angle.
+Like a wall of force, it must be continuous and unbroken when formed.
+It is typically used to cross a chasm or a hazardous space.
+Creatures can move on the dark way without penalty, since it is no more slippery than a typical dungeon floor.
+You (but not anyone else) gain a +5 competence bonus on all Balance checks while made on the dark way.
+The dark way can support a maximum of 200 pounds per caster level.
+Creatures that cause the total weight on the dark way to exceed this limit sink through it as if it weren't there.
+You never sink through the dark way unless your own weight exceeds the spell's maximum capacity.
+ <b>Also appears in</b>   Spell Compendium     

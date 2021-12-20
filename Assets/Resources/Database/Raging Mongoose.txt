@@ -1,0 +1,15 @@
+<b>Raging Mongoose</b>(Tome of Battle: The Book of Nine Swords, p. 89)
+
+Tiger Claw (Boost)
+ <b>Level:</b>  Swordsage 8 (Three Tiger Claw maneuvers),  Warblade 8 (Three Tiger Claw maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> End of turn
+
+ 	
+<b>You unleash a ferocious volley of attacks, setting aside all thoughts of caution and self-control.</b>
+	
+You make a flurry of deadly attacks. After initiating this boost, you can make two additional attacks with each weapon you wield (to a maximum of four extra attacks if you wield two or more weapons). These extra attacks are made at your highest attack bonus for each of your respective weapons. You can spread these attacks out among as many foes as you wish.
+   

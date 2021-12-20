@@ -1,0 +1,26 @@
+<b>Hero's Blad</b>(Eberron Campaign Setting, p. 112)
+
+Necromancy
+ <b>Level:</b>   Deathless 9,  Revered Ancestor 9,   
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Target:</b> Melee weapon touched
+ <b>Duration:</b> 1min./level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+You channel the spirit of a mighty elf hero of old into a melee weapon. For the duration of the spell, the weapon gains the following benefits.
+	
+The weapon deals an extra 2d6 points of damage to evil creatures, or an extra 2d8 points of damage to evil outsiders and undead. On a critical hit, the weapon deals an extra 2d10 points of damage to evil creatures or an extra 2d12 points of damage to evil outsiders and undead. (Against undead, the weapon damage is not multiplied on a critical hit, but the undead creature still takes increased damage from this effect. Other creatures immune to extra damage from critical hits do not take extra damage from this effect.)
+	
+The weapon becomes good-aligned, allowing it to overcome the damage reduction of certain evil creatures.
+	
+The weapon's threat range doubles, as though it were affected by a <b>keen edge</b> spell (this does not stack with the benefit of the keen special ability or the keen edge spell, but does stack with the benefit of the Improved Critical feat).
+When it scores a critical hit against an evil foe, the weapon blinds and deafens the opponent for 1d4 rounds (a successful Will save negates the blindness). Spell resistance applies to this effect.
+	
+When the weapon scores a critical hit against an evil extraplanar creature, the creature must make a successful Will save or be instantly banished back to its home plane. A creature so banished cannot return for at least 24 hours.
+	
+Spell resistance applies to this effect.
+   

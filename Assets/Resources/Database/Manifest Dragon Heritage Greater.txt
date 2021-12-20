@@ -1,0 +1,10 @@
+<b>Manifest Dragon Heritage, Greater</b>(Races of the Dragon)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 8,    
+<b>Components:</b>
+ <b>Effect:</b> One dragon turtle
+
+ 	
+As manifest dragon heritage, except that you create a dragon turtle.
+   

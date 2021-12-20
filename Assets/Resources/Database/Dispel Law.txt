@@ -1,0 +1,9 @@
+<b>Dispel Law</b>(Player's Handbook v.3.5, p. 223)
+
+Abjuration [Chaotic]
+ <b>Level:</b>  Cleric 5,  Disciple of Thrym 5,   Chaos 5,  Limbo 5,   
+<b>Components:</b>
+
+ 	
+This spell functions like dispel evil, except that you are surrounded by flickering, yellow, chaotic energy, and the spell affects lawful creatures and spells rather than evil ones.
+   

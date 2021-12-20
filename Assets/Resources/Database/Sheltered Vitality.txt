@@ -1,0 +1,15 @@
+<b>Sheltered Vitality</b>(Libris Mortis: The Book of the Dead)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,  Druid 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject gains immunity to fatigue, exhaustion, and ability damage or drain (regardless of the source).
+ <b>Also appears in</b>   Spell Compendium     

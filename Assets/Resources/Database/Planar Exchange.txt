@@ -1,0 +1,25 @@
+<b>Planar Exchange</b>(Planar Handbook)
+
+Conjuration (Calling) [see text]
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> One called creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast this spell, you call an extraplanar creature (specifically, an avoral guardinal, bone devil, or babau demon, at your option) to your precise location.
+At the same instant, you are transported to that creature's home plane, where you exist in stasis for the duration of the spell.
+To a casual observer, it appears that you have transformed into the called creature (though an onlooker who makes a DC 25 Spot check notices the slight gap between your disappearance and the creature's appearance).
+If the called creature would not fit in the place you occupied when you cast the spell, the spell fails.
+You have full control over the creature's actions and can perceive the environment around the called creature as if you were seeing through its eyes, hearing through its ears, and so on.
+The creature has full access to all of its abilities, with one exception: It can't summon other creatures.
+If the called creature is slain, you take 3d6 points of damage and the spell ends.
+While in stasis, you can't take any actions other than to control the called creature or to dismiss the spell, nor can anything on the creature's home plane affect you in any way.
+You also can't perceive anything around your body's location.
+When you dismiss the spell, or when the creature is slain, you appear in the creature's location, and it is returned to its home plane.
+When you use a calling spell that calls a chaotic, evil, good, or lawful creature, it is a spell of that type.
+ <b>Also appears in</b>   Spell Compendium     

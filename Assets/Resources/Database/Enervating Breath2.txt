@@ -1,0 +1,19 @@
+<b>Enervating Breath</b>(Spell Compendium, p. 82)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your breath weapon
+ <b>Duration:</b> 1 round
+
+ 	
+<b>Your breath weapon explodes from your mouth, brilliant but mixed with sharp spikes of living darkness.</b>
+	
+For this spell to function, you must have a breath weapon, either as a supernatural ability or as the result of casting a spell such as <b>dragon breath</b> (page 73). When you successfully cast this spell, you can modify your breath weapon so that it is laced with negative energy. In addition to the normal energy damage your breath weapon deals, creatures that fail their saving throws against the breath weapon gain 2d4 negative levels.
+	
+If the subject gains at least as many negative levels as it has Hit Dice, it dies. Each negative level gives a creature the following penalties: � ;1 penalty on attack rolls, saving throws, skill checks, ability checks, and effective level (for determining the power, duration, DC, and other details of spells or special abilities). Additionally, a spellcaster loses one spell or spell slot from her highest available level. Assuming the subjects survive, they regain lost levels after a number of hours equal to your caster level. Ordinarily, negative levels have a chance of permanently draining the subject's level, but the negative levels from <b>enervating breath</b> don't last long enough to do so.
+	
+If an undead creature is caught within the breath weapon, it gains 2d4Ã—5 temporary hit points before taking damage from the breath weapon. These temporary hit points last for up to 1 hour.
+ <b>Also appears in</b>   Draconomicon     

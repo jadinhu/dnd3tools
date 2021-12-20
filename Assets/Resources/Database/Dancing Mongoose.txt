@@ -1,0 +1,15 @@
+<b>Dancing Mongoose</b>(Tome of Battle: The Book of Nine Swords, p. 86)
+
+Tiger Claw (Boost)
+ <b>Level:</b>  Swordsage 5 (Two Tiger Claw maneuvers),  Warblade 5 (Two Tiger Claw maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> End of turn
+
+ 	
+<b>You swing your weapons about you in a blur of speed, making a series of devastating attacks in the space of a single breath.</b>
+	
+You make a flurry of deadly attacks. After initiating this boost, you can make one additional attack with each weapon you wield (to a maximum of two extra attacks if you wield two or more weapons). These extra attacks are made at your highest attack bonus for each of your respective weapons. All of these attacks must be directed against the same opponent.
+   

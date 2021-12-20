@@ -1,0 +1,11 @@
+<b>Spirit Binding, Greater</b>(Complete Arcane)
+
+Conjuration (Calling) [see text for lesser spirit binding]
+ <b>Level:</b>  Wu Jen 8,    
+<b>Components:</b>
+ <b>Target:</b> Up to 24 HD worth of spirits, no two of which can be more than 30 ft. apart when they appear
+
+ 	
+As lesser spirit binding, except you can attempt to call and trap one or more spirit creatures of the same type whose Hit Dice total no more than 24.
+If you call multiple spirits, each gets its own saving throw, makes independent attempts to escape, and must be individually persuaded to aid you.
+   

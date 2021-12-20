@@ -1,0 +1,17 @@
+<b>Loyal Vassal</b>(Spell Compendium, p. 134)
+
+Abjuration [Lawful]
+ <b>Level:</b>  Paladin 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One willing creature touched/3 levels
+ <b>Duration:</b> 10 minutes/level; see text
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Upon invoking the divine words, glowing silver runes encircle your allies' heads. The runes quickly fade, but the resolve they instilled remain.</b>
+	
+You protect the subjects against mind-affecting spells and abilities, giving them a +3 sacred bonus on saving throws against such effects. The spell also helps prevent them from being magically compelled to harm you or anyone else affected by this spell. Any attempt to make a loyal vassal do so (whether the originating effect occurred before or after this spell was cast) counts as a suicidal order, triggering appropriate responses and possibly ending the controlling spell. If the subjects willingly attempt to harm you, the spell is broken for them immediately.
+ <b>Also appears in</b>   Magic of Faerun     

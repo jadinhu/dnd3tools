@@ -1,0 +1,18 @@
+<b>Convert Wand</b>(Champions of Valor)
+
+Transmutation
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Wand touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell temporarily transforms a magic wand of any type into a healing wand with the same number of charges remaining.
+At the end of the spell's duration, the wand's original properties are restored, and any charges that were drained remain so.
+The spell level of the wand determines how powerful a healing instrument the wand becomes:
+For example, a 10th-level cleric can transform a wand of lightning bolt (3rd-level spell) into a wand of cure serious wounds for 10 minutes.
+ <b>Also appears in</b>   Book of Exalted Deeds     

@@ -1,0 +1,20 @@
+<b>Create Lantern Archon</b>(Champions of Valor)
+
+Conjuration (Creation) [Good, Light]
+ <b>Level:</b>   Sanctified 3,   
+<b>Components:</b>V, S, DF, Sacrifice
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One lantern archon
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You sacrifice a small part of your own life force to create a new lantern archon (see page 16 of the Monster Manual) in the service of your patron.
+The lantern archon is not under your control but is friendly to you.
+It willingly performs one nonhazardous task of your choice taking up to 1 hour without requiring any payment.
+Alternatively, you can request that it perform a hazardous or longer task, but in this case payment is required � ;see lesser planar ally, page 261 of the Player's Handbook, for details on tasks and payment.
+Upon completion of the task, the lantern archon is magically transported to your deity's home plane.
+Sacrifice Component: 1d2 points of Constitution drain.
+   

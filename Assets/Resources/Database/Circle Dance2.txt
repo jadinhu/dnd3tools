@@ -1,0 +1,17 @@
+<b>Circle Dance</b>(Spell Compendium, p. 46)
+
+Divination
+ <b>Level:</b>  Bard 2,  Cleric 3,  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+<b>You dance to each point of the compass rose, then finish the spell in a wide, circular sweep. At the end, you know that the creature you seek lies in the direction you face.</b>
+	
+You divine the relative direction and condition of another creature. You must have firsthand knowledge of the creature for the spell to function.
+	
+If the creature is alive and on the same plane as you, the spell leaves you facing in its direction. You also get an impression of its physical and emotional condition (unharmed, wounded, unconscious, dying, and so on). If the creature you seek is on a different plane or dead, you feel nothing.
+ <b>Also appears in</b>   Magic of Faerun     

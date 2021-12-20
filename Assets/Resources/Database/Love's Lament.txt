@@ -1,0 +1,18 @@
+<b>Love's Lament</b>(Champions of Ruin)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Effect:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With this spell, you create a cone of music that draws upon the sadness, guilt, and despair of those within its area of effect.
+All creatures in the area take a -4 penalty on Listen checks for 1 round.
+In addition, those who fail to save against love's lament are reminded of all their lost loves and disappointments in life.
+The music seizes upon these feelings and magnifies them, so that the victims of the spell take 1d6 points of Wisdom damage and are nauseated for 1d4 rounds.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,19 @@
+<b>Detect Scrying</b>(Player's Handbook v.3.5, p. 219)
+
+Divination
+ <b>Level:</b>  Court Herald 3,  Telflammar Shadowlord 3,  Wizard 4,  Ebonmar Infiltrator 4,  Vigilante 4,  Sorcerer 4,  Sha'ir 4,  Savant 4 (Arcane),  Death Master 4,  Bard 4,   Wealth 4,  Planning 5,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 40 ft.
+ <b>Area:</b> 40-ft.-radius emanation centered on you
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You immediately become aware of any attempt to observe you by means of a divination (scrying) spell or effect. The spell's area radiates from you and moves as you move. You know the location of every magical sensor within the spell's area.
+	
+If the scrying attempt originates within the area, you also know its location; otherwise, you and the scrier immediately make opposed caster level checks (1d20 + caster level). If you at least match the scrier's result, you get a visual image of the scrier and an accurate sense of his or her direction and distance from you.
+	
+<b>Material Component:</b> A small piece of mirror and a miniature brass hearing trumpet.
+   

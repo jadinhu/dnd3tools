@@ -1,0 +1,15 @@
+<b>Mirrored Pursuit</b>(Tome of Battle: The Book of Nine Swords, p. 73)
+
+Setting Sun (Counter)
+ <b>Level:</b>  Swordsage 5 (Two Setting Sun maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>Your movements perfectly match your foe?s, allowing you to move as she does. Try as she might to escape, you remain at her side.</b>
+	
+Your ability to study a foe and match her motions allows you to remain within arm?s reach at all times. Your opponent cannot hope to escape you.
+	
+When an opponent adjacent to you moves, you can initiate this maneuver to immediately move to any square adjacent to her as soon as she stops moving, as long as the distance you cover is less than or equal to your speed. This movement does not provoke attacks of opportunity.</   

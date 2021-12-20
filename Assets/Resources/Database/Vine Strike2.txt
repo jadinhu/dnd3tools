@@ -1,0 +1,17 @@
+<b>Vine Strike</b>(Spell Compendium, p. 230)
+
+Divination
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>As you intone the sounds of the spell, your sight temporarily dims under a green gloom. An eyeblink later, the dimness disappears, and you feel a new connection with the natural order, as if it were directing where to land your blow.</b>
+	
+While this spell is in effect, you have a special connection to the forces of nature that allows you to deliver sneak attacks on plant creatures as if they were not immune to sneak attacks. To attack a plant creature in this manner, you must still meet the other requirements for making a sneak attack.
+	
+This spell applies only to sneak attack damage. It gives you no ability to affect plant creatures with critical hits, nor does it confer any special ability to overcome the damage reduction or other defenses of plant creatures.
+ <b>Also appears in</b>   Complete Adventurer     

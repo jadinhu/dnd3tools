@@ -1,0 +1,17 @@
+<b>Expeditious Retreat</b>(Player's Handbook v.3.5, p. 228)
+
+Transmutation
+ <b>Level:</b>  Bard 1,  Death Master 1,  Jester 1,  Savant 1 (Arcane),  Beguiler 1,  Vigilante 1,  Fatemaker 1,  Ebonmar Infiltrator 1,  Hoardstealer 1,  Wizard 1,  Sorcerer 1,  Sha'ir 1,   Celerity 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level (D)
+
+ 	
+This spell increases your base land speed by 30 feet.
+(This adjustment is treated as an enhancement bonus).
+There is no effect on other modes of movement, such as burrow, climb, fly, or swim.
+As with any effect that increases your speed, this spell affects your jumping distance (see the Jump skill, page 77).
+This spell need not be used as part of a retreat; the name of the spell merely hints at the typical wizard's attitude towards combat.
+   

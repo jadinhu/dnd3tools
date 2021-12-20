@@ -1,0 +1,23 @@
+<b>Stonefire</b>(Shining South)
+
+Evocation [Fire]
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Area:</b> One 5-ft. square + one 5-ft. square/four levels
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause natural, nonliving stone to combust, emitting thick black smoke and sending forth waves of heat.
+Anyone touching the burning rock takes 2d6 points of fire damage each round, while the intense heat coming from the stone deals 2d4 points of fire damage to creatures within 10 feet and 1d4 points of fire damage to those past 10 feet but within 20 feet.
+The burning stone deals its damage to all creatures in the area when it appears and on your turn each round.
+Undead take double damage from stonefire.
+Ignited stone is consumed by the flames at the rate of 1 foot of thickness per round (so a 10-foot-thick wall covered with stonefire would require 10 rounds to burn through).
+Burning away load-bearing walls, columns, or other supports might cause cave-ins or collapses.
+See Cave-Ins and Collapses, page 66 of the Dungeon Master's Guide.
+If the burning stone takes 20 points of cold damage or more in 1 round, the flames go out.
+(Do not divide cold damage by 4, as normal for objects).
+   

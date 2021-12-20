@@ -1,0 +1,25 @@
+<b>Transcribe Symbol</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Magical symbol touched
+ <b>Duration:</b> Until discharged or 10 minutes
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> See text
+
+ 	
+You place a protective magic upon your hand that allows you to touch an untriggered magic symbol such as a glyph of warding or a symbol.
+The touched symbol is removed from its location and held as magical potential on your hand, like a touch spell.
+To pick up the spell, you must make a caster level check (DC 20 + spell level).
+Failure indicates the glyph or symbol has been triggered.
+If successfully transferred, you can place the symbol on a surface (not a creature) appropriate to the stored spell as a standard action.
+The transferred symbol works normally thereafter and retains all its original triggering conditions (although its current location may make its triggers difficult or impossible to achieve).
+You can maintain the symbol in its potential state as long as you concentrate.
+If your concentration lapses while the symbol is stored as potential, it immediately triggers upon you (and only you), even if you normally wouldn't meet the trigger conditions.
+Saving throw and spell resistance rolls are as for the original symbol.
+The only safe way to rid yourself of the stored spell is to place it on a suitable surface.
+Focus: A piece of slate that has been scoured bare and smooth on one side.
+ <b>Also appears in</b>   Sandstorm  Player's Guide to FaerÃ»n  Spell Compendium     

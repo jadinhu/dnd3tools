@@ -1,0 +1,21 @@
+<b>Eyes of the Zombie</b>(Book of Vile Darkness)
+
+Divination [Evil]
+ <b>Level:</b>  Cleric 2,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 30 minutes
+ <b>Range:</b> Personal
+ <b>Effect:</b> Caster and one zombie
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster replaces his eyes with the eyes of a zombie, allowing him to see through the zombie's eye sockets and control its actions directly.
+The zombie must be one that the caster animated.
+The magic of this spell allows the caster to remove his eyes (dealing 1d6 points of damage to him from the pain, but no permanent damage to his eyes) and take a zombie's eyes that he has removed and soaked in a special bath of brackish water.
+The caster's eyes are preserved by the spell while he controls the zombie and perceives the world through it.
+The caster's body remains motionless and is subject to harm normally.
+When the spell ends, the caster's eyes automatically return to him.
+Focus: Zombie eyes and a pint of brackish water.
+   

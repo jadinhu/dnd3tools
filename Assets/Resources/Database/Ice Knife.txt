@@ -1,0 +1,21 @@
+<b>Ice Knife</b>(Complete Arcane)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Assassin 2,  Wu Jen 2 (water),  Warmage 2,    
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> One icy missile
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A magical shard of ice blasts from your hand and speeds to its target.
+You must succeed on a normal ranged attack to hit (with a +2 bonus on the attack roll for every two caster levels).
+If it hits, an ice knife deals 2d8 points of cold damage plus 2 points of Dexterity damage (no Dexterity damage on a successful Fortitude save).
+Creatures that have immunity to cold damage also take no Dexterity damage automatically.
+A knife that misses creates a shower of ice crystals in a 10-foot-radius burst (see Missing with a Thrown Weapon, page 158 of the Player's Handbook, to determine where the shard hits).
+The icy burst deals 1d8 points of cold damage to all creatures within the area of the effect (Reflex half).
+Material Component: A drop of water or piece of ice.
+ <b>Also appears in</b>   Spell Compendium  Tome and Blood: A Guidebook to Wizards and Sorcerers  Oriental Adventures     

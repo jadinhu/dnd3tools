@@ -1,0 +1,19 @@
+<b>Wings of Air</b>(Spell Compendium, p. 240)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Winged creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> No (harmless)
+
+ 	
+<b>You place your hand on the creature's shoulders, and a warm yellow radiance infuses it, spreading out to the tips of its wings.</b>
+	
+The creature you touch becomes more agile in the air, able to make quicker turns, and more maneuverable when flying. The subject must be capable of flight using wings. The creature's maneuverability improves by one grade � ;from clumsy to poor, poor to average, average to good, or good to perfect.
+	
+A single creature cannot benefit from multiple applications of this spell at one time.
+ <b>Also appears in</b>   Draconomicon     

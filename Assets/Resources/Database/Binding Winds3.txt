@@ -1,0 +1,19 @@
+<b>Binding Winds</b>(Spell Compendium, p. 27)
+
+Evocation [Air]
+ <b>Level:</b>  Druid 2,   Windstorm 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One Creature
+ <b>Duration:</b> Concentration
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Calling upon the power of elemental air, you encircle the target in whipping winds.</b>
+	
+The subject can act normally, but it cannot move from its current location. The winds carry its voice away, so it can speak but cannot be heard, and it cannot hear anything but the roar of the winds. This spell distracts spellcasters, and so a Concentration check is required to successfully cast any spell (DC equal to this spell's DC + the level of the spell being cast).
+	
+Furthermore, no sonic or language dependent spells or effects can be cast into or out of the winds though spells cast by you upon yourself function normally). Ranged attacks made into or out of the winds take a � ;2 penalty. Binding winds holds flying creatures in midair.
+ <b>Also appears in</b>   Magic of Faerun  Complete Divine     

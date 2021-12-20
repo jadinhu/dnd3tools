@@ -1,0 +1,23 @@
+<b>Footsteps of the Divine</b>(Complete Champion)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Your body twists and reshapes itself, allowing you brief freedom from the confines of a wholly humanoid shape.
+Upon casting this spell, you briefly acquire a new movement mode and speed, as given on the table below.
+Unlike most deity-variable spells, footsteps of the divine does not limit you to the option offered by your own deity; you are free to choose any option presented on the table.
+If you choose an option offered by a deity other than your own, however, the spell duration is halved.
+You can choose only one option per casting.
+Your assumption of a new movement mode, if any, imposes certain physical changes on you.
+For instance, if footsteps of the divine grants you flight, you grow wings; if it grants you a burrow speed, you grow heavy digging claws; and so forth.
+A &quot; � ;&quot; entry indicates that you gain no new movement type, but your base speed increases by the amount indicated.
+At any point before the duration expires, you can choose to employ a burst of truly inhuman speed.
+Doing so adds an additional +10 feet to your speed per round remaining in the spell's duration.
+However, this effect lasts for only a single round, after which the spell ends.
+   

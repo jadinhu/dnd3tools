@@ -1,0 +1,17 @@
+<b>Telepathy Block</b>(Book of Exalted Deeds)
+
+Abjuration
+ <b>Level:</b>  Bard 5,  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 80-ft.-radius emanation centered on a creature, object, or point in space
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell blocks all telepathic communication within the affected area, making telepathic conversation impossible.
+The spell can be cast on a point in space, but the effect is stationary.
+The spell can be centered on a creature or mobile object, in which case the effect emanates from the creature or object and moves as it moves.
+   

@@ -1,0 +1,23 @@
+<b>Flaying Tendrils</b>(Complete Mage)
+
+Transmutation [Evil]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+A quartet of hideous, writhing tentacles sprouts from your face.
+You grow four tentacles from your face, similar to those of a mind flayer.
+For the duration of the spell, you can attack with one tentacle as a standard action, or all four as a full-round action.
+Each tentacle deals 1d4 points of damage, plus your Strength modifier.
+When using the tentacles, you are treated as though you have the Improved Grapple feat.
+You can latch a tentacle onto a foe's head with a successful grapple check, and if you begin your turn with one tentacle successfully attached, you can attach the remaining three with a single check, though doing this still requires a full-round action.
+Your foe can escape with a single grapple check or Escape Artist check, but you gain a +2 bonus for each tentacle that is attached at the beginning of your foe's turn.
+If you begin your turn with all four tentacles attached, you can attempt to remove your foe's brain, killing him instantly.
+The victim is entitled to a fortitude save to avoid this fate, though success indicates only that he evaded extraction; he is still grappled and must attempt to escape normally.
+You cannot use these tentacles to grapple foes more than one size category larger or smaller than you.
+Extracting the brain does nothing to constructs, elementals, oozes, plants, or undead, and is not instantly fatal to creatures with multiple heads.
+   

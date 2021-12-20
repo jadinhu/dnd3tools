@@ -1,0 +1,12 @@
+<b>Daltim's Fiery Tentacles</b>(Shining South)
+
+Conjuration (Creation) [Fire]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>
+ <b>Saving Throw:</b> None and Reflex half; see text
+
+ 	
+This spell functions similarly to Evard's black tentacles, except that the tentacles are limned in blue-white fire.
+Every creature within the area of the spell takes 1 point of fire damage per caster level (maximum 15 points) each round.
+A successful Reflex save halves this damage, but a character grappled by the tentacles cannot make the save.
+   

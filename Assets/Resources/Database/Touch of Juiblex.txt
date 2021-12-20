@@ -1,0 +1,18 @@
+<b>Touch of Juiblex</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>    Corrupt 3  
+<b>Components:</b>V, S, Corrupt, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject turns into green slime over the course of 4 rounds.
+If a remove curse, polymorph other, heal, greater restoration,
+limited wish,miracle, or wish spell is cast during the 4 rounds of transformation, the subject is restored to normal but still takes 3d6 points of damage.
+Corruption Cost: 1d6 points of Strength damage.
+   

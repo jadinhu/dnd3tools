@@ -1,0 +1,17 @@
+<b>Enlarge Person, Greater</b>(Spell Compendium, p. 82)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> One humanoid creature
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your intended subject begins to grow rapidly as you complete the spell.</b>
+	
+This spell functions like <b>enlarge person</b> (<b>PH</b> 226), except as noted above.
+   

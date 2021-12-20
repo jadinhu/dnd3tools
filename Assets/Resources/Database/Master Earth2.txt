@@ -1,0 +1,21 @@
+<b>Master Earth</b>(Spell Compendium, p. 139)
+
+Transmutation
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+<b>The ground below your feet suddenly seems insubstantial, and you sink below the surface, moving through dirt and stone as easily as if you were flying through the air.</b>
+	
+You travel straight through the earth itself to a destination you choose. The movement is instantaneous and has no distance limitations (though the location must be on the same world). You need only think of where you want to go. If you don't think of an exact location, the earth carries you to the periphery of the general area you imagine.
+	
+The earth never leaves you stranded inside it. It always puts you back to the surface even if it cannot deliver you to your chosen destination. It takes you as far as it can. Underground, creature-built structures don't hinder you as long as you can move around them.
+	
+This spell functions only on the Material Plane.
+	
+Focus: The fossil of any animal.
+ <b>Also appears in</b>   Magic of Faerun     

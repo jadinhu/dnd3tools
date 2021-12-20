@@ -1,0 +1,23 @@
+<b>Otiluke's Supressing Field</b>(Complete Mage)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> 20-ft.-radius emanation, centered on you
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Your skin tingles as you radiate a field of powerful magic.
+When you cast this spell, designate either a school of magic or a subtype of magic (such as evil spells or fire spells).
+Spells of that type are suppressed within the area of your spell.
+Anyone attempting to cast such a spell in (or into) the area must succeed on a caster level check against a DC of 11 + your caster level.
+(Abilities and feats that improve the ability to defeat spell resistance, such as Spell Penetration, apply here as well).
+Anyone attempting to activate an item that produces a spell or effect of that type must make a similar roll, using the item's caster level for the level check.
+Constant items or precast effects make this check when first exposed to your suppressing field.
+If they succeed, they remain unaffected for the duration.
+If they fail, they are suppressed for the duration, resuming function (if their duration has not expired) when they leave the area.
+   

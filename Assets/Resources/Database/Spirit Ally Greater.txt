@@ -1,0 +1,11 @@
+<b>Spirit Ally, Greater</b>(Oriental Adventures)
+
+Conjuration (Calling) [see text]
+ <b>Level:</b>  Shaman 8,   Celestial 8,   
+<b>Components:</b>
+ <b>Target:</b> Up to 24 HD worth of spirits, no two of which can be more than 30 ft. apart when they appear
+
+ 	
+As lesser spirit ally, except you may call a single spirit of up to 24 HD or a number of spirits of the same type whose HD total no more than 24.
+The spirits agree to help you and request your return favor together.
+   

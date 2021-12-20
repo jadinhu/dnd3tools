@@ -1,0 +1,21 @@
+<b>Black Bag</b>(Book of Vile Darkness)
+
+Conjuration (Creation) [Evil]
+ <b>Level:</b>  Assassin 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Effect:</b> A black leather bag
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates a bag full of knives, scalpels, and other small torture implements.
+If the implements are removed from the bag by anyone other than the caster, or if they leave the caster's possession after he removes them, they disintegrate after 1 round.
+The bag and its magically created contents weigh only 1 pound.
+Evil magic items, including items that deal unholy damage, and items with an evil spell as a prerequisite for their creation can be placed in the bag as if it had 10 cubic feet of space.
+These additional items add no weight to the bag.
+Nonevil items added to the black bag fall through as if the bag had no bottom, so they cannot be stored in the bag.
+Material Component: A strip of black leather soaked in the blood of a willing masochist.
+   

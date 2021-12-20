@@ -1,0 +1,10 @@
+<b>Dominate Monster</b>(Player's Handbook v.3.5, p. 224)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,  Beguiler 9,  Wu Jen 9,  Sha'ir 9,  Death Master 9,   Dragon 9,  Temptation 9,  Charm 9,  Tyranny 9,   
+<b>Components:</b>V, S, 
+ <b>Target:</b> One creature
+
+ 	
+This spell functions like dominate person, except that the spell is not restricted by creature type.
+   

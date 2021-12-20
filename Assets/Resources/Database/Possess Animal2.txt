@@ -1,0 +1,24 @@
+<b>Possess Animal</b>(Player's Guide to FaerÃ»n)
+
+Necromancy
+ <b>Level:</b>   Initiate of malar 3,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One animal
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You project your spirit into the body of an animal, forcing it to behave as you direct.
+The target must be a normal animal (not a magical beast, vermin, or other monster type), and your caster level must exceed its Hit Dice.
+The animal's soul remains in its body but has no control over it while your spirit is there.
+Your own body lies comatose for the duration of the spell.
+While in the animal's body, you keep your Intelligence, Wisdom, Charisma, level, classes, base attack bonus, base save bonuses, alignment, and mental abilities.
+You can cast spells while you possess the animal only if you have the Natural Spell feat or an equivalent ability, and you can't activate the body's extraordinary or supernatural abilities.
+Furthermore, for every 2 points of damage taken by the animal body while you are possessing it, you take 1 point of damage.
+If the animal body is killed while you are possessing it, you must make a DC 10 Fortitude save or die as well.
+If your body is destroyed while your spirit is in the animal's body, you die at the end of the spell's duration.
+Material Component: A bowl of incense and a morsel of food appealing to the target animal.
+ <b>Also appears in</b>   Oriental Adventures     

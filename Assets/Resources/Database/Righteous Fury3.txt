@@ -1,0 +1,15 @@
+<b>Righteous Fury</b>(Spell Compendium, p. 177)
+
+Transmutation
+ <b>Level:</b>  Paladin 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+<b>You pull a holy aura about you that glows a golden red.</b>
+	
+Summoning the power of your deity, you charge yourself with positive energy. This gives you 5 temporary hit points per caster level (maximum 50) and a +4 sacred bonus to Strength. These temporary hit points last for up to 1 hour.
+ <b>Also appears in</b>   Miniatures Handbook  Magic of Faerun     

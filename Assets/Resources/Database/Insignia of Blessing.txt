@@ -1,0 +1,14 @@
+<b>Insignia of Blessing</b>(Races of Destiny)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Cleric 3,  Paladin 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell functions just like insignia of alarm except that the insignia wearers are also filled with courage.
+Each insignia wearer gains a +1 morale bonus on attack rolls and on saving throws against fear effects.
+   

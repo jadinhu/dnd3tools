@@ -1,0 +1,19 @@
+<b>Bloodspear</b>(Champions of Ruin)
+
+Transmutation
+ <b>Level:</b>   Initiate of gruumsh 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Spear touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell allows you to channel the fury of Gruumsh into the god's favored weapon � ;a spear.
+The weapon's tip begins to drip blood, and the spear acts as if it had the wounding special ability (see Dungeon Master's Guide page 226) for the duration of the spell.
+The spell is automatically canceled 1 round after the weapon leaves your hand.
+You cannot have more than one bloodspear in effect at a time.
+This spell has no effect on a spear that already has the wounding special ability, and it does not work on artifacts.
+   

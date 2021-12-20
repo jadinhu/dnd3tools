@@ -1,0 +1,16 @@
+<b>Daunting Strike</b>(Tome of Battle: The Book of Nine Swords, p. 58)
+
+Devoted Spirit (Strike)
+ <b>Level:</b>  Crusader 5 (One Devoted Spirit maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute
+ <b>Saving Throw:</b> Will negates
+
+ 	
+<b>You attack your foe with an overwhelming strike, hammering through his shield and armor to cleave into his flesh. This display of raw power causes him to stumble backward, fear in his eyes.</b>
+	
+As part of this maneuver, you make a melee attack against an opponent you threaten. If this attack hits, your foe must make a Will save with a DC equal to the damage you deal or become shaken for 1 minute.
+   

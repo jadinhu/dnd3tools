@@ -1,0 +1,17 @@
+<b>Earth Reaver</b>(Savage Species)
+
+Transmutation [Fire]
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius spread, +10 ft./level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You point at a spot on the ground, and the earth at that point erupts in a shower of rock, dirt, and fire.
+Creatures and objects within the area take 7d6 points of damage; the damage is 4d6 impact and 3d6 fire.
+Those that fail the saving throw are knocked prone.
+ <b>Also appears in</b>   Spell Compendium     

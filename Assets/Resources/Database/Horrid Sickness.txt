@@ -1,0 +1,18 @@
+<b>Horrid Sickness</b>(Complete Mage)
+
+Necromancy
+ <b>Level:</b>  Hexblade 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature/3 levels, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your victim's eyes water and her flesh pales as a wave of sickness washes over her.
+Waves of pain and sickness wrack the subjects, rendering themnauseated.
+A successful Fortitude save negates this effect.
+If a subject fails the initial Fortitude save, she can attempt a Fortitude save as a move action each round on her turn; success indicates that she is instead sickened for the duration of the spell.
+   

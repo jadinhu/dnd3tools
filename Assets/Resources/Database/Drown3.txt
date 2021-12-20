@@ -1,0 +1,21 @@
+<b>Drown</b>(Spell Compendium, p. 74)
+
+Conjuration (Creation) [Water]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You speak the words and make the sign of the wave. Your foe sputters, water gushing from his mouth, them collapses.</b>
+	
+You create water in the lungs of the subject, causing it to begin drowning (<b>DMG</b> 304) as if it had failed to continue holding its breath. The subject's hit points immediately drop to 0, and it falls unconscious. In the next round, it loses another hitpoint (bringing its hit points to -1) and is dying. In the following round, it dies.
+	
+Coughing and other attempts by the subject to physically expel the water from its lungs are useless. However, another creature can stabilize the subject by making a DC 15 Heal check on the creature before it dies.
+	
+Undead, constructs, creatures that do not need to breathe, and creatures that can breathe water are unaffected by this spell.
+ <b>Also appears in</b>   Magic of Faerun  Book of Vile Darkness  Underdark     

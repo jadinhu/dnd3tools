@@ -1,0 +1,19 @@
+<b>Create Trap</b>(Races of the Dragon)
+
+Conjuration
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One trap; see text
+ <b>Duration:</b> 12 hours
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> No
+
+ 	
+You throw a small gear, and when it hits the ground a trap springs up at the place you designate.
+You create a CR 1 trap selected from the following list: basic arrow trap, fusillade of darts, scything blade trap, or spear trap (<span class="caps">DMG</span> 70-71).
+You can locate the 5-foot-by-5-foot trigger in any square of your choice within the range of this spell.
+Once create trap is cast, the trap is active and ready to be sprung, with every design feature installed.
+Material Component: A miniature bronze gear.
+   

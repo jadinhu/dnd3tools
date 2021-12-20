@@ -1,0 +1,17 @@
+<b>Iron Silence</b>(Spell Compendium, p. 125)
+
+Transmutation
+ <b>Level:</b>  Assassin 2,  Bard 2,  Cleric 2,  Vigilante 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One suit of armor touched/3 levels
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+<b>As you imitate a clanking noise you brush your hand over the armor you wish to silence. The armor glows softly orange for a moment before the glow fades. A closer look reveals what looks like orange grease in the joints of the armor.</b>
+	
+While this spell is in effect, the armor check penalty from the affected suit or suits of armor does not apply on Hide and Move Silently checks. Only wearers proficient in the armor's use get this benefit when wearing the affected armor. The armor check penalty still applies to other skill checks as normal.
+ <b>Also appears in</b>   Complete Adventurer     

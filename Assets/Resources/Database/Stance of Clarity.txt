@@ -1,0 +1,16 @@
+<b>Stance of Clarity</b>(Tome of Battle: The Book of Nine Swords, p. 66)
+
+Diamond Mind (Stance)
+ <b>Level:</b>  Swordsage 1,  Warblade 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You focus your efforts on a single opponent, studying his moves and preparing an attack. Your other opponents fade from sight as your mind locks onto your target.</b>
+	
+This stance allows you to focus on a single opponent to the exclusion of all others. You read your foe?s fighting stance, his favored attacks, and the methods he used to train. By combining these factors into a single analysis of his abilities, you see how to foil his attacks.
+	
+While you are in this stance, you must choose a single opponent as your target at the start of your turn. You gain a +2 insight bonus to AC against that foe until you change the target of this stance. You take a ?2 penalty to AC against all other opponents while using stance of clarity.</   

@@ -1,0 +1,18 @@
+<b>Unheavened</b>(Book of Vile Darkness)
+
+Abjuration [Evil]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, Drug
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The caster grants one creature a +4 profane bonus on saving throws made against any spell or spell-like effect from a good outsider.
+This protection manifests as a black and red nimbus of energy visible around the subject.
+All celestial beings can identify an unheavened nimbus on sight.
+Drug Component: Vodare.
+   

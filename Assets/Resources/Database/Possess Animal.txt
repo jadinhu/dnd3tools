@@ -1,0 +1,25 @@
+<b>Possess Animal</b>(Oriental Adventures)
+
+Necromancy
+ <b>Level:</b>  Shaman 3,   Nature 3,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One animal
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+By casting this spell, you project your spirit into the body of an animal, forcing the animal to behave as you direct it.
+Your own body lies lifeless for the duration of the spell.
+The animal must be a normal animal (not a beast, magical beast, vermin, or other monster type) and must have fewer Hit Dice than your level.
+The animal's soul remains in its body, but it has no control over that body while your spirit is there.
+While in the animal's body, you keep your Intelligence, Wisdom, Charisma, level, class, base attack bonus, base save bonuses, alignment, and mental abilities.
+The body retains its Strength, Dexterity, Constitution, hit points, natural abilities, and automatic abilities.
+You can't choose to activate the body's extraordinary or supernatural abilities.
+For every 2 points of damage taken by the animal body while you are possessing it, you take 1 point of damage as well.
+If the animal body is killed while you are possessing it, you must make a Fortitude save (DC 10) or die as well.
+If your body is destroyed while your spirit is in the animal's body, you die at the end of the spell's duration.
+Material Component: A bowl of incense and a morsel of food appealing to the animal.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

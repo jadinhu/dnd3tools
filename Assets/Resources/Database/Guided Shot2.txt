@@ -1,0 +1,17 @@
+<b>Guided Shot</b>(Spell Compendium, p. 108)
+
+Divination
+ <b>Level:</b>  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>With a guttural utterance made with unmoving lips, you magically focus your attention on a distant foe. Upon aiming your weapon, you note how clearly defined your intended target is.</b>
+	
+While this spell is in effect, your ranged attacks do not take a penalty due to distance. In addition, your ranged attacks ignore the AC bonus granted to targets by anything less than total cover, and also ignore the miss chance granted to targets by anything less than total concealment.
+	
+This spell does not provide any ability to exceed the maximum range of the weapon with which you are attacking, nor does it confer any ability to attack targets protected by total cover.
+ <b>Also appears in</b>   Complete Adventurer     

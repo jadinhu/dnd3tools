@@ -1,0 +1,16 @@
+<b>Harmony</b>(Player's Guide to FaerÃ»n)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Variable; see text
+
+ 	
+When you play your instrument, sing your song, recite your epic poem, or speak your words of encouragement, you fill your allies with greater confidence than normal.
+When you use the inspire courage function of your bardic music ability while this spell is in effect, the morale bonus on saving throws against charm and fear effects increases by 2, and the morale bonus on attack rolls and damage rolls increases by 1.
+This effect lasts until your inspire courage effect ends.
+If you don't begin to use your inspire courage ability within 1 minute of casting this spell, the harmony effect ends.
+ <b>Also appears in</b>   Ghostwalk  Magic of Faerun     

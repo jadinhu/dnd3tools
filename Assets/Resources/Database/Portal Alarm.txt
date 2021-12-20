@@ -1,0 +1,26 @@
+<b>Portal Alarm</b>(Manual of the Planes)
+
+Abjuration
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One interplanar portal
+ <b>Duration:</b> 2 hours/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Portal alarm sounds a mental or audible alarm each time a creature of Tiny or larger size passes through the magic portal the spell is cast upon.
+You decide at the time of casting whether the portal alarm will be mental or audible.
+Mental Alarm: A mental alarm alerts you (and only you) as long as you remain within one mile of the warded area and on the same plane.
+You notice a mental tremor that would awaken you from a normal sleep but does not otherwise disturb concentration (it would not interfere with spellcasting).
+A silence spell has no effect on a mental alarm.
+Audible Alarm: An audible portal alarm produces the sound of a hand bell, buzzer, or other similar repeating sound that can be heard quite clearly up to 60 feet away, and it pierces closed doors and extends onto other planes.
+The ringing may be heard faintly up to 180 feet away and lasts for 1 round.
+Creatures within the area of a silence spell cannot hear the ringing, and if the portal itself is within the area of a silence spell, no alarm is sounded.
+Ethereal and astral creatures trigger the portal alarm if they pass through the portal.
+You may set the portal alarm with a password, determined at the time of the casting, and this password may be discerned with the analyze portal spell.
+Those speaking the password before passing through the portal do not set off the alarm.
+Material Component: A tiny bell.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,19 @@
+<b>Stone Spiders</b>(Spell Compendium, p. 209)
+
+Transmutation
+ <b>Level:</b>   Spider 7,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Three pebbles, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You imbue three small stones with magical power, causing them to twist and grow into large stone spiders.</b>
+	
+This spell transforms three pebbles into stone constructs that resemble monstrous spiders. The constructs can be any size from Tiny to Huge as you decide, but all the constructs you create must be the same size. The constructs have the same statistics as monstrous spiders (MM 288) of the appropriate size, except as noted here.
+			Their natural armor bonus increases by 6.		They have damage reduction 10/magic.		Their poison has a Fortitude save DC of 10 + 1/2 your caster level + your Wis modifier. Initial and secondary damage is 1d3 points of Strength damage.		
+If the constructs can hear your commands, you can direct them not to attack, to attack particular enemies, or to perform other actions. Otherwise, they simply attack your enemies to the best of their ability.
+ <b>Also appears in</b>   Forgotten Realms Campaign Setting     

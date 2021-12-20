@@ -1,0 +1,19 @@
+<b>Protection from Arrows</b>(Player's Handbook v.3.5, p. 266)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Wu Jen 2 (Metal),  Sha'ir 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The warded creature gains resistance to ranged weapons.
+The subject gains damage reduction 10/magic against ranged weapons.
+(This spell doesn't grant you the ability to damage creatures with similar damage reduction).
+Once the spell has prevented a total of 10 points of damage per caster level (maximum 100 points), it is discharged.
+Focus: A piece of shell from a tortoise or a turtle.
+   

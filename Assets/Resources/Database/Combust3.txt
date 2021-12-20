@@ -1,0 +1,23 @@
+<b>Combust</b>(Spell Compendium, p. 50)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Touched creature or combustible object that weighs no more than 25 lb./level
+ <b>Duration:</b> Instantaneous; see text
+ <b>Saving Throw:</b> Reflex partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You rub the oil against the flint and murmur the ancient words, touching your target. It immediately smolders and then bursts into bright flames.</b>
+	
+This spell makes a combustible object or a creature's combustible equipment burst into flame, even if damp.
+	
+If the target is a creature, the initial eruption of flame causes 1d8 points of fire damage per caster level (maximum 10d8) with no saving throw. Further, the creature must make a DC 15 Reflex save or catch fire (<b>DMG</b> 303).
+	
+If the target is a combustible, unattended object, the initial eruption of flame deals fire damage to the object as noted above. The object catches fire and takes 1d6 points of fire damage each round until consumed or someone puts out the fire.
+	
+<b>Material Component:</b> A drop of oil and a piece of flint.
+ <b>Also appears in</b>   Magic of Faerun  Lords of Darkness     

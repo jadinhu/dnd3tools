@@ -1,0 +1,30 @@
+<b>Unbinding</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Abjuration
+ <b>Level:</b>  Wizard 9,  Sorcerer 9,   Exorcism 9,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 180 ft.
+ <b>Area:</b> 180-ft.-radius burst, centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast an unbinding spell, a burst of force erupts from your body and magically destroys any spells that contain, constrain, or seal, with the exceptions noted below.
+The unbinding negates charm and hold spells of all types, arcane locks and similar closures, spells that create physical or magical barriers (wall of stone, wall of force), guards and wards, temporal stasis, and slow spells, among others.
+The effect of a statue spell is ended.
+A magic jar is shattered � ;forever destroyed � ;and the life force within snuffed out.
+In addition, any spell that holds magical effects, including other spells, immediately releases them at a range of 0 feet (including magic mouth, imbue with spell ability, and so on).
+Protective spells such as protection from evil, shield, globe of invulnerability, and similar spells are not affected by an unbinding.
+Petrified creatures are neither revealed nor restored.
+Individuals bound to service are not freed (including creatures such as familiars, invisible stalkers, genies, and elementals).
+An antimagic field is not affected, nor will the effect of unbinding penetrate one.
+A magic circle against evil (or another alignment) that currently holds a creature imprisoned is dispelled.
+Curses and geas/quest spells are negated only if the caster is of a level equal to or greater than that of the original caster.
+All these effects occur without regard to the caster's wishes.
+Spell effects on the person of the caster or being carried or worn by the caster remain undisturbed, but any others within the burst are effective, including those of allies.
+The opening of locks or other closures triggers any alarms or traps attached to them.
+Any released creature may or may not be friendly to the caster.
+Material Components: A lodestone and a pinch of saltpeter.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

@@ -1,0 +1,19 @@
+<b>Minor Creation</b>(Player's Handbook v.3.5, p. 253)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,  Adept 4,  Wu Jen 4,  Sha'ir 4,  Jester 4,  Urban Druid 4,  Savant 4 (Arcane),  Court Herald 4,   Creation 4,  Craft 4,  Gnome 4,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a nonmagical, unattended object of nonliving, vegetable matter � ;linen clothes, a hemp rope, a wooden ladder, and so forth.
+The volume of the item created cannot exceed 1 cubic foot per caster level.
+You must succeed on an appropriate skill check to make a complex item, such as Craft (bowmaking) check to make straight arrow shafts.
+Attempting to use any created object as a material component causes the spell to fail.
+Material Component: A tiny piece of matter of the same sort of item you plan to create with minor creation � ;a bit of twisted hemp to create rope, and so forth.
+   

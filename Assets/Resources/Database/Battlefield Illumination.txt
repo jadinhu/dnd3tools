@@ -1,0 +1,18 @@
+<b>Battlefield Illumination</b>(Heroes of Battle)
+
+Evocation [Light]
+ <b>Level:</b>  Cleric 4,  Druid 4,  Paladin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 80-ft.-radius cylinder, 40 ft. high
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast battlefield illumination, a soft light illuminates the area.
+This effect improves the illumination in the area by one category (from darkness to shadowy, or from shadowy to bright light).
+It does not stack with other magical light effects.
+Unlike other spells with the light descriptor, battlefield illumination counters and dispels early twilight (see page 126) but does not affect other darkness spells.
+   

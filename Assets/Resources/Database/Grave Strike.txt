@@ -1,0 +1,17 @@
+<b>Grave Strike</b>(Complete Adventurer)
+
+Divination [Good]
+ <b>Level:</b>  Cleric 1,  Paladin 1,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+While this spell is in effect, you have a special connection to the forces of light and positive energy.
+For 1 round, you can deliver sneak attacks against undead as if they were not immune to sneak attacks.
+To attack an undead creature in this manner, you must still meet the other requirements for making a sneak attack.
+This spell applies only to sneak attack damage.
+It gives you no ability to affect undead with critical hits, nor does it confer any special ability to overcome the damage reduction or other defenses of undead creatures.
+ <b>Also appears in</b>   Spell Compendium     

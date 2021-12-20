@@ -1,0 +1,22 @@
+<b>Soulbleed</b>(Magic of Incarnum)
+
+Necromancy [Evil, Incarnum]
+ <b>Level:</b>  Assassin 4,  Blackguard 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> One melee weapon
+ <b>Duration:</b> 1 round/3 levels
+ <b>Saving Throw:</b> None (object) or Fortitude negates; see text
+ <b>Spell Resistance:</b> No (object) or yes; see text
+
+ 	
+You invest your weapon with the power to bleed away part of the victim's essentia.
+Each time you hit a living creature with a weapon affected by soulbleed wounding, that creature loses 1 point of essentia unless it succeeds on a Fortitude save.
+You don't gain the essentia; it is simply lost.
+Spell resistance applies against this effect.
+If any round of the spell's duration goes by in which no living creature is affected by the spell (either because you didn't hit a living creature or because no saving throw was failed), you take 1d6 points of damage from the spell.
+No save or spell resistance is allowed to resist this effect.
+This spell works only as long as you wield the weapon affected.
+Any other wielder gains no benefit from the effect.
+   

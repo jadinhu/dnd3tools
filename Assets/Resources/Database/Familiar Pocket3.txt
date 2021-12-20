@@ -1,0 +1,27 @@
+<b>Familiar Pocket</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Universal
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One container or garment with a pocket
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You enspell a garment or container so that it provides a safe haven for your familiar.
+The spell turns one of the target item's pockets into an extradimensional space that can hold your familiar (or about 1 cubic foot for a Tiny or smaller creature).
+The familiar fits inside without creating a noticeable bulge in the item.
+Whenever the familiar is touching you, you can whisk it inside the pocket as a free action by speaking a command word.
+If the familiar can speak, it can command itself inside.
+The familiar can leave the space as a free action, or you can call it forth as a free action.
+Once inside, the familiar has total cover and concealment.
+You or the familiar can seal the pocket, making it airtight and waterproof.
+The air supply inside the sealed pocket lasts an hour.
+With the pocket open, the familiar can remain inside indefinitely.
+If the spell ends with the familiar inside the pocket, it appears in your space, unharmed unless the area you occupy is hazardous.
+Creating an extradimensional space within or taking an extradimensional space into an existing extradimensional space is hazardous.
+Material Components: A tiny golden needle and a strip of fine cloth given a half-twist and fastened at the ends.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

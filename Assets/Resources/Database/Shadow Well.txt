@@ -1,0 +1,21 @@
+<b>Shadow Well</b>(Magic of Faerun)
+
+Illusion (Shadow)
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause the target's shadow to become a temporary gateway to a pocket realm within the Plane of Shadow.
+The target must make a Will save or be pulled into the gateway; inside the pocket realm he sees a deserted, gloomy duplicate of the real world, while shadowy phantasms stalk and taunt him without causing actual harm.
+When the duration ends, the victim returns to the real world and suffers a secondary fear effect.
+The victim is frightened for 1d4 rounds and must flee.
+On leaving the pocket realm, the subject reappears in the spot it had been in when the shadow well spell was cast.
+If this spot is filled with a solid object, the subject appears nearby.
+Spells and abilities that move a creature within a plane, such as teleport and dimension door, do not help a creature escape a shadow well spell, although a plane shift spell allows it to exit to whatever plane is designated in that spell as normal (but the target is still frightened upon leaving).
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,17 @@
+<b>Hunters of Hades</b>(Planar Handbook)
+
+Conjuration (Summoning) [Evil]
+ <b>Level:</b>  Cleric 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Two summoned pack fiends, which can be no more than 30 ft. apart
+ <b>Duration:</b> 10 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell summons a pair of pack fiends (see page 128) from the Gray Waste of Hades to serve you.
+The pack fiends magically understand your spoken commands (regardless of your language).
+The pack fiends are treated as trained hunting beasts, so you can command them to track if you so choose.
+ <b>Also appears in</b>   Spell Compendium     

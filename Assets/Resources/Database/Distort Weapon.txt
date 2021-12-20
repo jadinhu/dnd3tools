@@ -1,0 +1,19 @@
+<b>Distort Weapon</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>  Blackguard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell makes a weapon strike true against good foes. Any threat of a critical hit against a good foe is automatically confirmed, without a roll. The weapon can also harm good creatures that have damage reduction, as if the weapon had a +1 enhancement bonus. 
+	
+Individual arrows or bolts can be altered, but altered projectile weapons (such as bows) don't confer the benefit to the projectiles they shoot. 
+	
+This spell has no effect on any magic weapon that already has a special ability related to critical hits, such as a keen or vorpal weapon.
+   

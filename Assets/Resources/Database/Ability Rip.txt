@@ -1,0 +1,23 @@
+<b>Ability Rip</b>(Serpent Kingdoms)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Touch
+ <b>Target:</b> Two living creatures
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Fortitude negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You rip a supernatural ability of your choice away from one creature and transfer it to another.
+	
+The two creatures must be within 30 feet of each other and remain conscious throughout the casting of the spell. In exchange for this new ability, the recipient permanently loses a supernatural ability it already possesses. If it has none to exchange, it instead loses two class levels (or 2 Hit Dice if it has no class levels).
+	
+Class features cannot be transferred by means of this spell.
+	
+The spell fails if used to transfer an ability to a creature that lacks the proper body parts, size, or other criterion for its use, or if the target creature has fewer than 2 Hit Dice and no supernatural abilities to trade. Either subject may negate the transfer with a successful Fortitude save.
+	
+Material Component: A caterpillar in a cocoon.
+   

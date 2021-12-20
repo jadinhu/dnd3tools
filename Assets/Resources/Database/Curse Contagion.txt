@@ -1,0 +1,17 @@
+<b>Flashback</b>(Player's Guide to the Sovereign Lands)
+
+Transmutation
+<b>Level:</b> Ancestral Speaker 4, Arcane Disciple 4, Archivist 4, Aspirant 4Anagakok 5, Ancestral Speaker 4, Arcane Disciple 4, Archivist 4, Aspirant 4, Bard 5, Beholder Mage 5, Benevolent 4, Chameleon 4, Cleric 4, Crusader (base) 4, Deathwalker 5, Evangelist 4, Favored Soul 4, Fleshcrafter 5, Knight of the Chase 4, Mystic 4, Sha-ir 5, Sorcerer 5, Wizard 5, Soul Reaper 5, Sublime Chord 5, Suel Arcanamach 5, Ur-Priest 4
+<b>Components:</b> V, S
+<b>Casting Time:</b> 1 standard action
+<b>Range:</b> Medium (100 ft + 10 ft / level)
+<b>Effect:</b> 20ft-radius sphere
+<b>Duration:</b> 1 minute / level
+<b>Saving Throw:</b> No
+<b>Spell Resistance:</b> Yes
+
+You watch as the creature's shadow darkens, and his attacks seem to falter. Suddenly, the shadow lightens as he regains his vigor but, as you direct, another creature’s shadow darken and his attacks lose their accuracy.
+
+You bestow a curse that gives a single target in the area of effect a -4 luck penalty to all attacks for one round. After the initial round, curse contagion affects a different target of your choice within the original area of effect, changing targets on your initiative each round (choosing a new target is a free action) and continuing to do so for the duration of the spell. 
+
+If no creatures are in the spell's area of effect on your initiative of any round, the spell ends. If you do not choose a target, the curse randomly selects a new target at the beginning of each round.

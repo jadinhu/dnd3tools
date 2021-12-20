@@ -1,0 +1,19 @@
+<b>Chameleon</b>(Oriental Adventures)
+
+Illusion (Glamer)
+ <b>Level:</b>  Wu Jen 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell alters the coloration of the recipient to match that of the surrounding background.
+The creature gains a +10 circumstance bonus on its Hide check.
+When moving through areas where the background changes gradually (such as stepping from the edge of a forest into a green field), the coloration changes immediately.
+When the background changes abruptly (from forest to gray stone wall), 1 round is required to effect the change in coloration.
+Material Component: The shed skin of a small lizard.
+ <b>Also appears in</b>   Complete Arcane     

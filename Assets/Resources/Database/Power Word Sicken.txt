@@ -1,0 +1,18 @@
+<b>Power Word Sicken</b>(Races of the Dragon)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature with 100 hp or less
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You speak a mildly revolting word of power.
+You utter a single word of power that instantly causes one creature of your choice to become sickened, whether the creature can hear the word or not.
+The duration of the spell depends on the target's current hit point total, as shown below.
+Any creature that currently has 101 or more hit points is unaffected by power word sicken.
+   

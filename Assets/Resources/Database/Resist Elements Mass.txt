@@ -1,0 +1,10 @@
+<b>Resist Elements, Mass</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,  Druid 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>
+ <b>Target:</b> One creature/level, no two of which can be more than 30 ft. apart
+
+ 	
+As resist elements, except that it affects multiple creatures.
+   

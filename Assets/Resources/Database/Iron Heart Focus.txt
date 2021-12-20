@@ -1,0 +1,13 @@
+<b>Iron Heart Focus</b>(Tome of Battle: The Book of Nine Swords, p. 68)
+
+Iron Heart (Counter)
+ <b>Level:</b>  Warblade 5 (Two Iron Heart maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>With a last-second burst of speed, you summon reserves of mental and physical will and throw off the effects of your enemy?s attack.</b>
+	
+Your training in the Iron Heart discipline grants you excellent reflexes, mental toughness, and stamina. You can draw upon your training and focus to overcome a variety of deadly effects. As an immediate action, you can reroll a saving throw you have just made. You must accept the result of this second roll, even if the new result is lower than your initial roll.</p   

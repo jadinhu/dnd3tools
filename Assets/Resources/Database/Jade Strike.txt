@@ -1,0 +1,21 @@
+<b>Jade Strike</b>(Oriental Adventures)
+
+Evocation [Good]
+ <b>Level:</b>  Shugenja 4 (Earth),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You call up holy jade power to smite your enemies.
+Only Tainted creatures, undead, and creatures with the Shadowlands subtype are harmed by the spell; other creatures are unaffected.
+The spell deals 1d8 points of damage per two caster levels (maximum 5d8) to undead and creatures with the Shadowlands subtype, and blinds them for 1 round.
+A successful Reflex save reduces damage to half and negates the blinding effect.
+The spell deals only half damage against creatures with a Taint score (and without the Shadowlands subtype), and they are not blinded.
+They can reduce the damage in half again (down to one-quarter of the roll) with a successful Reflex save.
+In addition to the obvious effects, a blinded creature suffers a 50% miss chance in combat (all opponents have full concealment), loses any Dexterity bonus to AC, grants a +2 bonus on attackers' attack rolls (they are effectively invisible), moves at half speed, and suffers a <del>4 penalty on most Strength</del> and Dexterity-based skills.
+   

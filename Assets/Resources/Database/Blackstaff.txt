@@ -1,0 +1,24 @@
+<b>Blackstaff</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Staff or quarterstaff touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Created by the renowned archmage Khelben Arunsun and shared only with those whom he trusts implicitly, blackstaff has three principal effects:
+First, the spell gives the affected staff or quarterstaff a +4 enhancement bonus on attack and damage rolls.
+Second, any creature or object struck by a successful melee attack or melee touch attack with the blackstaff is subject to a dispel magic effect.
+This effect works exactly like a targeted dispel magic cast by the creator of the blackstaff.
+Third, any spellcaster struck by a successful melee or melee touch attack with the blackstaff loses one prepared spell (or one unused spell slot, for spellcasters who do not prepare spells) of the highest spell level available.
+A successful Will save negates the spell loss, but not any damage or dispel effects caused by a strike of the blackstaff.
+Blackstaff may be cast upon any nonmagical quarterstaff or on a magic staff in the caster's possession.
+If cast on a magic staff, the wielder of the staff must decide as a free action on his turn each round whether he will use the staff's normal abilities or the effects of the blackstaff spell.
+Nothing prevents the caster from giving a staff or quarterstaff under the effect of blackstaff to another character to wield after casting the spell.
+Focus: A nonmagical quarterstaff or a magic staff.
+   

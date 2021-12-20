@@ -1,0 +1,19 @@
+<b>Energy Surge, Lesser</b>(Player's Handbook II)
+
+Transmutation [see text]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One weapon
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+With a single utterance, you sheath the weapon in elemental energy � ;dripping acid, vaporous ice, crackling electricity, smoking flame, or thunderous air.
+You temporarily imbue a weapon with elemental energy.
+When you cast this spell, specify an energy type (acid, cold, electricity, fire, or sonic).
+This spell is a spell of that type, and the target weapon is sheathed in that energy.
+If the attack is successful, it deals an extra 1d6 points of damage of the specified energy type.
+   

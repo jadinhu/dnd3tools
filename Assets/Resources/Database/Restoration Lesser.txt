@@ -1,0 +1,15 @@
+<b>Restoration, Lesser</b>(Player's Handbook v.3.5, p. 272)
+
+Conjuration (Healing)
+ <b>Level:</b>  Paladin 1,  Knight of the Weave 1,  Death Delver 1,  Cleric 2,  Druid 2,  Healer 2,  Hunter of the Dead 2,  Death Master 2,  Urban Druid 2,   Renewal 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 3 rounds
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Lesser restoration dispels any magical effects reducing one of the subject's ability scores (such as ray of enfeeblement) or cures 1d4 points of temporary ability damage to one of the subject's ability scores (such as from a shadow's touch or from poison). It also eliminates any fatigue suffered by the character, and improves an exhausted condition to fatigued. It does not restore permanent ability drain.
+   

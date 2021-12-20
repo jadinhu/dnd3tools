@@ -1,0 +1,20 @@
+<b>Lingering Chorus</b>(Complete Mage)
+
+Illusion (Figment)
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> A chorus of phantasmal voices
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A chorus of glorious voices takes up your song.
+This spell continues any one bardic music effect you are currently maintaining or on which you are concentrating.
+It functions only on bardic music effects that can be maintained for longer than 1 round.
+This allows you to cast spells, make use of a second bardic music ability, or otherwise concentrate on other matters.
+You can cast lingering chorus even while maintaining a bardic music effect.
+If you cast a second lingering chorus while the first is still in effect, the duration of the first spell ends.
+   

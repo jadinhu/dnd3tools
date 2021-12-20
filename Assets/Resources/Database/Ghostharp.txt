@@ -1,0 +1,20 @@
+<b>Ghostharp</b>(Magic of Faerun)
+
+Divination
+ <b>Level:</b>  Bard 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> Any object
+ <b>Duration:</b> 5 minutes/level (D)
+
+ 	
+You prepare an object that records and replays a song previously played or sung in its vicinity.
+When cast, the spell searches a radius of 50 feet for the lingering notes of a tune played there within the last day.
+It records these notes and reverberations.
+If multiple songs have been played at that spot, ghostharp recalls the song most recently played, starting with the beginning of the piece recalled.
+At your verbal command, &quot;Play&quot;, the ghostharp replays the music.
+The tune repeats until you command it to stop, or until the spell's duration comes to an end.
+The ghostharp does not record conversations.
+Its imperfect replay can't reproduce bardic music or other magical effects, nor can it cast spells.
+ <b>Also appears in</b>   Spell Compendium     

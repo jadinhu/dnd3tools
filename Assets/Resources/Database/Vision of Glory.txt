@@ -1,0 +1,17 @@
+<b>Vision of Glory</b>(Magic of Faerun)
+
+Divination
+ <b>Level:</b>  Cleric 1,  Paladin 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute or until discharged
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You give the subject creature a brief vision of a divine entity giving it support and inspiring it to continue.
+The creature gets a +1 morale bonus on a single saving throw.
+It must choose to use the bonus before making the roll to which it applies.
+   

@@ -1,0 +1,18 @@
+<b>Drown</b>(Book of Vile Darkness)
+
+Conjuration (Creation) [Evil]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One humanoid
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject's lungs fill with water if the subject fails a Fortitude saving throw.
+To avoid drowning, the subject can hold his breath (see The Drowning Rule in Chapter 3 of the <span class="caps">DUNGEON</span> MASTER's Guide).
+The subject gains a new save (to expel the water) every 2 rounds after the first.
+While holding his breath with water-filled lungs, a character cannot talk or cast spells with verbal components, and he takes a -2 circumstance penalty on attack rolls, saving throws, ability checks, and skill checks.
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun  Underdark     

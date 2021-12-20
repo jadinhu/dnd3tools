@@ -1,0 +1,17 @@
+<b>Divest Essentia</b>(Magic of Incarnum)
+
+Necromancy
+ <b>Level:</b>  Assassin 2,  Hexblade 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+By delivering a jolt of magical energy to your target, you scramble his personal essence, causing all essentia he has currently invested (with some exceptions; see below) to return to his essentia pool as if the target had set his essentia investment to 0.
+This doesn't prevent the target from reinvesting essentia normally on his next turn, but it might make him vulnerable in the meantime.
+Essentia invested in an incarnum feat or other receptacle that can't be reallocated by the target as a swift action can't be affected by this spell.
+   

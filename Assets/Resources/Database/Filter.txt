@@ -1,0 +1,19 @@
+<b>Filter</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Abjuration
+ <b>Level:</b>  Cleric 2,  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates an invisible bubble of protection around the recipient's body that filters out all noxious and toxic elements in the air.
+The warded creature takes no damage and no penalties from inhaled natural or alchemical poisons.
+It is likewise protected against magical poisons created by spells of 4th level or lower (such as stinking cloud) cast by creatures of 8 or fewer Hit Dice.
+Against more powerful affects, the creature receives a +2 circumstance modifier on any saving throw allowed.
+Arcane Material Component: A strand of spider web and a scrap of cotton cloth.
+   

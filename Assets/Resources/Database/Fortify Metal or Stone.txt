@@ -1,0 +1,24 @@
+<b>Fortify Metal or Stone</b>(Secrets of Sarlona, p. 127)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One object touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (object; see text)
+
+ 	
+<b>The object you touch glows momentarily with a heatless light. In your hand, you feel a subtle change in the item's heft, and its surface gleams with new strength.</b>
+	
+Fortify metal or stone alters the internal structure of stone or metal in order to strengthen it. Any single object of up to 10 feet on a side (weapons, armor, chests, sarcophagi, doors, and so on) has its hardness and hit points doubled, and has its break DC increased by 10.
+	
+If cast on weapons, fortify metal or stone bestows an enhanceÂ­ment bonus of +1 on damage rolls. Armor or shields affected by this spell grant their wearer damage reduction 1/magic. Suits of armor are considered single objects for the purÂ­pose of being affected by this spell, but armor and shields must be targeted with separate castings.
+	
+You can use fortify metal or stone on masterwork weapons and armor, but magic items have an effective spell resisÂ­tance of 20 + caster level. Artifacts cannot be affected by this spell.
+	
+Metal or stone cannot be enhanced more than once by this spell.
+	
+Material Component: A mixture of coal dust and lime.<   

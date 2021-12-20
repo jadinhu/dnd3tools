@@ -1,0 +1,22 @@
+<b>Xorn Movement</b>(Manual of the Planes)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level or see below
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The target of this spell may move through natural, solid material such as earth and stone such as a xorn, burrowing through the earth but leaving behind no tunnel or sign of passage.
+The target cannot move through worked stone, brick, or metal.
+A move earth spell cast on an area containing a creature using xorn movement will fling the target back 30 feet and stun it for 1 round (a successful Fortitude save negates the stunning).
+The target of xorn movement is able to breathe normally while entombed in earth and natural rock.
+The xorn movement spell lasts a minimum of 1 round/level.
+If the target has not emerged into a significant volume of open air (a space large enough to contain the target comfortably) for the entire duration of the spell, xorn movement remains in effect until the target does move into such as area.
+In this fashion, characters who find themselves deep in the Elemental Plane of Earth can find their way to safety.
+Focus: A scale from a xorn's hide.
+ <b>Also appears in</b>   Spell Compendium     

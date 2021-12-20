@@ -1,0 +1,15 @@
+<b>Sonic Orb, Lesser</b>(Miniatures Handbook, p. 39)
+
+Conjuration (Creation) [Sonic]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,  Warmage 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One orb of sonic energy
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like lesser acid orb, except that it deals from 1d6 to 5d6 points of sonic damage instead of 1d8 to 5d8 points of acid damage.
+   

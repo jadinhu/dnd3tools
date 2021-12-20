@@ -1,0 +1,18 @@
+<b>Living Undeath</b>(Miniatures Handbook)
+
+Necromancy
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell imparts a physical transformation upon the subject, not unlike the process that produces a zombie.
+While the subject does not actually become undead, its vital processes are temporarily bypassed with no seeming ill effect.
+The subject becomes not subject to sneak attacks and critical hits, just as undead are.
+While the spell is in effect, the subject takes a -4 penalty to its Charisma score (to a minimum of 1).
+ <b>Also appears in</b>   Spell Compendium     

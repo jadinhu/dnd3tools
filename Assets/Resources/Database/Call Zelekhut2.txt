@@ -1,0 +1,22 @@
+<b>Call Zelekhut</b>(Spell Compendium, p. 42)
+
+Conjuration (Calling) [Lawful]
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One called zelekhut
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You make the necessary conjurations and the powers of Mechanus respond. The Zelekhut fades into view, its centaur form accompanied by the sound of rattling silver chains. &quot;Who seeks to escape justice?&quot; it asks with the solemn tones of a judge's gavel.</b>
+	
+By casting this spell, you receive the aid of a zelekhut inevi-table (<b>MM</b> 160). If you know an individual zelekhut's name, you can request that individual by speaking the name during the spell (though you might get a different creature, 
+anyway).
+	
+You can ask the zelekhut to perform one duty for you. The task must take no more than 1 hour to complete. The inevitable does not ask for any payment for the task.
+	
+<b>XP Cost:</b> 100 XP.
+ <b>Also appears in</b>   Planar Handbook     

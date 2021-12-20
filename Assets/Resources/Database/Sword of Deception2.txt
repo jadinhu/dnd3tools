@@ -1,0 +1,36 @@
+<b>Sword of Deception</b>(Oriental Adventures)
+
+Evocation
+ <b>Level:</b>  Wu Jen 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Pale green blade of force
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A blade made of pale green force appears and attacks opponents at a distance, as you direct it.
+It strikes the opponent you designate, starting with one attack in the round when the spell is cast and continuing each round thereafter.
+It strikes as a spell, not a weapon, so, for example, it can strike incorporeal creatures.
+The blade attacks with the base attack bonus of a fighter whose level is equal to your caster level, and it deals 1d4 points of damage per hit.
+It threatens a critical hit on a 19-20 and deals double damage with a critical hit.
+In addition, each hit on a single creature inflicts a -1 luck penalty on that creature's next saving throw roll (-2 with a critical hit).
+Successive hits increase this penalty, to a maximum of -5 on a single creature.
+This saving throw penalty lasts until the creature is forced to make a saving throw in a dangerous situation.
+Remove curse and similar spells can cancel the penalty.
+The weapon always strikes from your direction.
+It does not get a flanking bonus or help a combatant get one.
+Your feats (such as Weapon Focus) or combat actions (such as charge) do not affect the weapon.
+If the weapon goes beyond the spell range, if it goes out of your sight, or if you are not directing it, the weapon returns to you and hovers.
+Each round after the first, you can use a standard action to switch the weapon to a new target.
+If you do not, the weapon continues to attack the previous round's target.
+On any round that the weapon switches targets, it gets one attack (as it does in the round when the spell is cast).
+Subsequent rounds of attacking the same target allow the weapon to make multiple attacks if its base attack bonus would allow it to.
+The sword of deception cannot be attacked or damaged.
+If an attacked creature has spell resistance, the resistance is checked the first time the sword of deception strikes it.
+If the weapon is successfully resisted, the spell is dispelled.
+If not, the weapon has its normal full effect on that creature for the duration of the spell.
+Focus: A miniature replica of a sword and a set of loaded dice.
+ <b>Also appears in</b>   Complete Arcane     

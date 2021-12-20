@@ -1,0 +1,17 @@
+<b>Snowshoes, Mass</b>(Spell Compendium, p. 194)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Druid 3,  Ranger 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>The feet of all the designated creatures glow with an ice-blue aura. Each subject in turn rises slightly to the top of the snow, as if it were held aloft by the cold blue sheen.</b>
+	
+This spell functions like <b>snowshoes</b>, except as noted above.
+   

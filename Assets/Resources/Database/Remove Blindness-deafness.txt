@@ -1,0 +1,17 @@
+<b>Remove Blindness-deafness</b>(Player's Handbook v.3.5, p. 270)
+
+Conjuration (Healing)
+ <b>Level:</b>  Healer 2,  Cleric 3,  Paladin 3,  Death Delver 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Remove blindness/deafness cures blindness or deafness (your choice), whether the effect is normal or magical in nature.
+The spell does not restore ears or eyes that have been lost, but it repairs them if they are damaged.
+Remove blindness/deafness counters and dispels blindness/deafness.
+   

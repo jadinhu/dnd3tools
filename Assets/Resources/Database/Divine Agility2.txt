@@ -1,0 +1,16 @@
+<b>Divine Agility</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Transmutation
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> No
+
+ 	
+Calling on the divine power of your patron, you imbue a living creature with agility and skill in combat.
+You confer the base Reflex save bonus of a rogue of your total character level, an enhancement bonus to Dexterity sufficient to raise the target creature's Dexterity score to 18 (if it is not already 18 or higher), and the Spring Attack feat on the target creature for the duration of the spell.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

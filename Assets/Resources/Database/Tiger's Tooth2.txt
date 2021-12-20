@@ -1,0 +1,17 @@
+<b>Tiger's Tooth</b>(Spell Compendium, p. 221)
+
+Transmutation
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You speak quickly, and your animal companion glows briefly, the glow focusing around its natural weapons.</b>
+	
+This spell functions like <b>magic fang</b> (PH 250), except as noted above.
+ <b>Also appears in</b>   Miniatures Handbook     

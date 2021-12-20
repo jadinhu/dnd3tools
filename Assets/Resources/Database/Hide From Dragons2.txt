@@ -1,0 +1,17 @@
+<b>Hide From Dragons</b>(Dragonmarked, p. 152)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>S, Dragonmark
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+<b>You trace a pattern in the air, and a faint aura the same color as your dragonmark appears around you.</b>
+	
+While you are under the effect of this spell, dragons cannot see, hear, or smell you. Even extraordinary and supernatural sensory capabilities (including blindsense, blindsight, scent, and tremorsense) cannot detect or locate you. If you touch a dragon or attack any creature (even with a spell), this spell ends. If a dragon learns of your location by other means (for example, if another creature tells it where you are, or if you disturb its treasure hoard), it can attempt to attack you. However, you still have total concealment against it.
+	
+<b>Dragonmark:</b> Any true or aberrant dragonmark.
+   

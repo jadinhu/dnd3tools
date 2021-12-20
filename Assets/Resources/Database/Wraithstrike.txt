@@ -1,0 +1,14 @@
+<b>Wraithstrike</b>(Complete Adventurer)
+
+Transmutation
+ <b>Level:</b>  Assassin 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+When you cast this spell, your melee weapons or natural weapons become ghostly and nearly transparent for a brief time.
+While this spell is in effect, your melee attacks are resolved as melee touch attacks rather than normal melee attacks.
+ <b>Also appears in</b>   Spell Compendium     

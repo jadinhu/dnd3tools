@@ -1,0 +1,23 @@
+<b>Undead Bane Weapon</b>(Libris Mortis: The Book of the Dead)
+
+Transmutation
+ <b>Level:</b>  Paladin 3,  Cleric 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+You give a weapon the undead bane special ability in addition to any other properties it has.
+Against undead, your weapon's enhancement bonus (if any) is 2 higher than normal and it deals an extra 2d6 points of damage against undead.
+The spell has no effect if cast upon a weapon that already has the undead bane special ability.
+At caster level 9th (paladin level 18th) and above, the weapon gains a +1 enhancement bonus if it is not already a magic weapon.
+Alternatively, you can affect up to fifty arrows, bolts, or bullets.
+The projectiles must be of the same kind, and they have to be together, such as in the same quiver.
+Projectiles (but not thrown weapons) lose their transmutation when fired.
+The weapon is considered good-aligned for the purpose of overcoming damage reduction.
+Any weapon affected by this spell glows with a serene gray radiance that sheds as much light as a candle.
+ <b>Also appears in</b>   Magic of Faerun  Spell Compendium  Ghostwalk  Player's Guide to FaerÃ»n     

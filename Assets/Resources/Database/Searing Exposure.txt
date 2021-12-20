@@ -1,0 +1,22 @@
+<b>Searing Exposure</b>(Sandstorm)
+
+Evocation [Fire, Light]
+ <b>Level:</b>  Druid 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You expose the target to the effect of hours of exposure to severe heat and the desert sun in only a moment.
+The subject must make a Fortitude saving throw or take 1d4 points of nonlethal damage per caster level (maximum 15d4).
+Nonlethal damage that exceeds the subject's hit points is considered lethal damage.
+In addition, the subject is dazzled (as if by sun glare), dehydrated, and sunburned (see Chapter 1).
+Protection from heat and exposure (such as keepcool salve or a hydration suit; see Chapter 4) helps mitigate these effects, providing the target with a +4 bonus on the Fortitude save.
+A creature wearing heavy clothing or armor takes a -4 penalty on the Fortitude saving throw, but is not sunburned.
+Those that succeed on their Fortitude saves take half damage, are dehydrated, and are dazzled for 1d4+1 rounds.
+Arcane Material Component: A shard of thick glass.
+   

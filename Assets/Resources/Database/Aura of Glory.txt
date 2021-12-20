@@ -1,0 +1,18 @@
+<b>Aura of Glory</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Paladin 2,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (see text)
+
+ 	
+You channel divine power into yourself, enhancing your physical presence and augmenting your magical abilities.
+For the duration of the spell, you gain a +2 sacred bonus on all Bluff, Diplomacy, Handle Animal, Intimidate, and Charisma checks to alter an NPC's attitude or turn undead.
+Your aura of glory provides an additional +2 sacred bonus on allied saves against fear.
+When the spell is cast, a number of allies equal to your paladin level are healed 1 hit point as if by a cure minor wounds spell.
+These allies must be within 10 feet of you at the time.
+Your mount counts as an ally.
+   

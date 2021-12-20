@@ -1,0 +1,16 @@
+<b>Razorscales</b>(Serpent Kingdoms)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Druid 2,  Ranger 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Your scales become razor-sharp.
+While this spell is in effect, you deal lethal instead of nonlethal damage when grappling.
+If are not a Scaled One, this spell automatically fails.
+Material Component: A thin-bladed razor.
+   

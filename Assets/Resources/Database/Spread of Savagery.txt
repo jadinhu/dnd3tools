@@ -1,0 +1,19 @@
+<b>Spread of Savagery</b>(Book of Vile Darkness)
+
+Enchantment [Evil]
+ <b>Level:</b>  Cleric 9,   Bestial 8,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 10-ft./level radius spread
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+All living creatures within the area become hostile to anyone not affected by the spell, whether in or out of the area, and regardless of alignment or former association.
+They are likely to attack such creatures, although they retain their intellect and thus retreat or avoid opponents obviously too powerful for them to overcome.
+Affected creatures are likely to continue with their normal activities until presented with someone not affected by the spell.
+Subjects of spread of savagery can identify unaffected creatures by sight through an instinctive, supernatural sense granted by the spell.
+Arcane Material Component: Three drops of brain fluid from a beast.
+   

@@ -1,0 +1,18 @@
+<b>Discern Shapechanger</b>(Oriental Adventures)
+
+Divination
+ <b>Level:</b>  Wu Jen 3,  Shaman 4,  Sohei 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+With a standard action spent in concentration, you can see the true form of polymorphed, disguised, or transmuted creatures within 60 feet.
+Each round, you can examine one creature you can see and determine whether it is polymorphed, disguised, or transmuted, and what its true form is.
+If you look at a shapechanger in its true form, you know that it is a shapechanger, but cannot determine what other forms it might be capable of assuming.
+For purposes of this spell, a shapechanger is any creature with the shapechanger type or a supernatural or extraordinary ability that allows it to assume an alternate form.
+A wu jen who knows polymorph self is not a shapechanger (since a spell is not a supernatural or extraordinary ability), but a spirit centipede is (since it has the exceptional ability to assume alternate forms, though its type is outsider).
+Material Component: A balm of honey and lotus flower, smeared on your eyelids.
+ <b>Also appears in</b>   Spell Compendium  Races of Eberron  Complete Arcane     

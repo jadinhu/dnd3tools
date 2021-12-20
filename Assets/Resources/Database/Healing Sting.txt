@@ -1,0 +1,17 @@
+<b>Healing Sting</b>(Magic of Faerun, p. 100)
+
+Necromancy
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> You and one living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You inflict 1d6 points of damage +1 point/level damage to a living creature and gain an equal amount of hit points. The <b>healing sting</b> cannot give you more hit points than your normal total. Excess hit points are lost. 
+	
+Material Component: Five dried wasp bodies.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,19 @@
+<b>Combined Talent</b>(Complete Mage)
+
+Divination
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 level)
+ <b>Target:</b> Two willing creatures no more than 30 ft. apart
+ <b>Duration:</b> 10 minutes (D) or until expended
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+For an instant, both your companions' eyes go wide as they sense the mental link that now exists between them.
+You allow one of the subjects to make use of the skill ranks of the other subject, in place of her own, up to a value equal to your caster level (maximum 10 ranks).
+You must decide which skill is affected when you cast the spell, and the spell lasts for long enough to attempt a single use of that skill, up to a maximum of 10 minutes.
+The beneficiary of the spell uses the other subject's skill ranks in place of her own but applies her own ability, racial, and other modifiers.
+The second subject does not lose access to his skill ranks while under the effect of this spell.
+   

@@ -1,0 +1,12 @@
+<b>Plague Carrier</b>(Races of Faerun)
+
+Necromancy
+ <b>Level:</b>  Cleric 3,  Druid 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>
+ <b>Duration:</b> See text
+
+ 	
+As contagion, except that the target is not stricken immediately: there is an incubation period.
+During the incubation period the target can transmit the
+disease to others but shows no symptoms until his incubation period has ended.
+   

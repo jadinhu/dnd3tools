@@ -1,0 +1,15 @@
+<b>Psychic Poison</b>(Book of Vile Darkness)
+
+Abjuration [Evil]
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 50-ft.-radius spread, or one single object or creature that can fit in that area
+ <b>Duration:</b> 1 hour/level
+
+ 	
+The caster taints an area, creature, or object so that anyone casting a mindaffecting or divination spell at the creature or object or within the area is subject to a psychic poison (see Table 3-6).
+The caster may choose any psychic poison for which he meets the minimum level requirement.
+Arcane Material Component: A bit of humanoid brain tissue.
+   

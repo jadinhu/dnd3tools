@@ -1,0 +1,22 @@
+<b>Scimitar of Sand</b>(Sandstorm)
+
+Evocation [Earth]
+ <b>Level:</b>  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Scimitar of grinding sand
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A curved, 3-foot-long blade of sand springs forth from your hand, screaming and churning like a caged sandstorm.
+Attacks with a scimitar of sand are melee touch attacks.
+The blade deals 1d6 points of damage, +1 point per two
+caster levels (maximum +10).
+The blade is not solid, so your Strength modifier does not apply to the damage.
+You can use a scimitar of sand without penalty even if you lack proficiency with a normal scimitar.
+In addition to being dealt damage, a creature struck by your weapon must succeed on a Fortitude save or become dehydrated.
+Arcane Material Component: A pinch of sand, salt, and iron filings.
+   

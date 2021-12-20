@@ -1,0 +1,28 @@
+<b>Precipitate Breach</b>(Planar Handbook)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Planar breach; see text
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You meddle with the boundaries between planes, creating instability and, finally, a minor planar breach.
+See Planar Breaching, page 151, for details concerning this phenomenon.
+You have no control over the breach created.
+However, as opposed to a truly random breach (see page 153), when this spell is first cast in any area that doesn't already contain a breach, a minor breach forms automatically.
+The breach has the size (10d10-foot radius) and onset time following casting (1d4 rounds) described for a random breach.
+Roll on Table 7-1: Random Planar Breaching, page 152, to determine the trait that leaks through from the breaching plane.
+The effect is as for a minor breach.
+The breach has a standard duration for a minor breach (1d6 days minus 12 hours, minimum 12 hours), after which time it fades away.
+If you cast precipitate breach into an area that currently hosts a minor breach, you precipitate a severe breach.
+Reroll the size, the onset time, and the trait that leaks through from the breaching plane (which could mean that the identity of the breaching plane changes).
+The effect is as for a severe breach.
+The breach has a standard duration for a severe breach (1d6 days minus 48 hours, minimum 1 hour), after which time it fades away.
+This spell has no effect if cast into an area currently hosting a severe or complete breach.
+Material Component: Jade dust worth 250 gp sprinkled in the center of the effect.
+   

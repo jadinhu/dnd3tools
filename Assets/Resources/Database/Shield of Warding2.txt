@@ -1,0 +1,17 @@
+<b>Shield of Warding</b>(Spell Compendium, p. 188)
+
+Abjuration [Good]
+ <b>Level:</b>  Paladin 2,  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One shield or buckler touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (object, harmless)
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You press your palm against the shield and speak the words of power. A silver radiance, in the shape of your holy symbol spreads over the shield.</b>
+	
+The touched shield or buckler grants its wielder a +1 sacred bonus to Armor Class and on Reflex saves, +1 per five caster levels (maximum +5 at 20th level). The bonus applies only when the shield is worn or carried normally (but not, for instance, if it is slung over the shoulder).
+   

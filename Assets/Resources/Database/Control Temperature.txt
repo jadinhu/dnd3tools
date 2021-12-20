@@ -1,0 +1,17 @@
+<b>Control Temperature</b>(Frostburn)
+
+Transmutation [Cold, Fire]
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 20 ft./level
+ <b>Area:</b> 20 cu. ft./level emanation, centered on you
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You imbue an area with cold or fire energy, reducing or raising the temperature by one temperature band per five caster levels.
+Effects of the new temperature on creatures and the environment are incurred immediately (see Cold Dangers, page 8 of this book, and Heat Dangers, page 303 of the Dungeon Master's Guide).
+Arcane Material Component: A drop of mercury.
+   

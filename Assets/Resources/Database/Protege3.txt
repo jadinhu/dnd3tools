@@ -1,0 +1,17 @@
+<b>Protege</b>(Spell Compendium, p. 163)
+
+Transmutation
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature with Intelligence 3 or higher
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You admonish your chosen subject even as you offer a supportive slap on the back. With that simple action, you complete the spell and see in your target a realization of its new abilities.</b>
+	
+You briefly grant some bard abilities to a creature of your choice. The subject of the spell can then function as a bard of one-half your current bard level with respect to bardic music and bardic knowledge. However, Protege imparts no spellcasting ability and does not grant access to spells not normally available to the subject. For Perform checks and bardic music prerequisites, the creature uses its own ranks in Perform or one-half of your ranks (modified by its own Charisma modifier), whichever is better.
+ <b>Also appears in</b>   Complete Adventurer  Song and Silence: A Guidebook to Bards and Rogues     

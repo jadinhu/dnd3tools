@@ -1,0 +1,20 @@
+<b>Summon Golem</b>(Player's Handbook II)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One summoned golem
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You wave your hand over a lump of flesh, clay, stone, or iron while chanting a lengthy incantation.
+Moments later, a golem of similar substance appears in a flash of light to serve you.
+You summon a flesh, clay, stone, or iron golem.
+The golem begins acting at the start of your next turn and follows your simple commands.
+The golem disappears when it is destroyed or when the spell's duration expires.
+Focus: A small lump of preserved flesh, dried clay, unworked stone, or iron ore.
+   

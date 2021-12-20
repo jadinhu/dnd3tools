@@ -1,0 +1,24 @@
+<b>Combust</b>(Magic of Faerun)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 2 (Red Wizard),  Wizard 2 (Red Wizard),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Touched creature or combustible object that weighs no more than 25 lb./level
+ <b>Duration:</b> Instantaneous (see text)
+ <b>Saving Throw:</b> Reflex partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell makes a combustible object or a creature's combustible equipment burst into flame, even if damp.
+If the target is a creature, the initial eruption of flame causes 2d6 points of fire damage +1 point per caster level (maximum +10) with no saving throw.
+Further, the creature must make a Reflex save (DC 15) or catch fire.
+(For details, see Catching on Fire, page 86 of the <span class="caps">DUNGEON</span> MASTER's Guide).
+If the target is a combustible, unattended object, the initial eruption of flame inflicts fire damage on the object as noted above.
+The object catches fire and takes 1d6 points of fire damage each round until consumed or someone puts out the fire.
+Anyone touching the object during the initial eruption of flame takes the same fire damage the object does.
+A Reflex save reduces damage by half.
+If a creature touching the object fails the Reflex save, it must make another Reflex save (DC 15) to avoid catching fire.
+Material Component: A drop of oil and a piece of flint.
+ <b>Also appears in</b>   Spell Compendium  Lords of Darkness     

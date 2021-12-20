@@ -1,0 +1,22 @@
+<b>Wingblast</b>(Dragon Magic)
+
+Evocation/Transmutation [Air]
+ <b>Level:</b>  Druid 3,  Shugenja 3 (air),  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> See text
+ <b>Effect:</b> See text
+ <b>Duration:</b> 1 round/level (D) or until expended; see text
+ <b>Saving Throw:</b> None or Fortitude negates; see text
+ <b>Spell Resistance:</b> No or Yes; see text
+
+ 	
+Hazy wings of mist form at your sides, bearing you aloft.
+At your command, the wings transform into a great blast of wind or a cloud of fog.
+When you cast this spell, large wings of mist � ;resembling those of a dragon of your choice � ;form on your back.
+You can fly at a speed equal to your base land speed (maximum 60 feet) with good maneuverability.
+You can fly if carrying a medium or heavy load or wearing medium or heavy armor.
+As a swift action, you can choose to transform the wings into one of the two effects given below.
+In either case, doing this immediately ends the spell's duration (if you are flying when this occurs, you fall).			A 60-foot-long line-shaped gust of severe wind (as the gust of wind spell; a Fortitude save negates the effect and spell resistance applies).		A 20-foot-radius cloud of fog centered on you (as the obscuring mist spell; no save or spell resistance applies).	
+The cloud created lasts for 1 minute.
+   

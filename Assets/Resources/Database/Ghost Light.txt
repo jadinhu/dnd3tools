@@ -1,0 +1,18 @@
+<b>Ghost Light</b>(Complete Arcane)
+
+Necromancy [Fear, Mind-Affecting]
+ <b>Level:</b>  Wu Jen 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One Medium or smaller ghostly light
+ <b>Duration:</b> Concentration
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a ghostly green radiance anywhere within range that shines with the brightness of a torch and is imbued with unearthly power, causing creatures within 30 feet to become shaken unless they succeed on a Will save.
+The light can be shaped to any Medium or smaller form, and can move at a speed of 30 feet as long as you maintain concentration on the spell (so that you can shape the effect into a human form and make it seem to walk or fly, for example).
+The shape of a ghost light can be changed at any time during the spell's duration as a free action.
+Material Component: A bit of phosphorus.
+ <b>Also appears in</b>   Oriental Adventures     

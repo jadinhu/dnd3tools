@@ -1,0 +1,20 @@
+<b>Easy Trail</b>(Complete Adventurer)
+
+Abjuration
+ <b>Level:</b>  Ranger 1,  Druid 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 40 ft.
+ <b>Area:</b> 40-ft. radius emanation
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You radiate an energy that gently pushes plants aside, allowing easy passage and hiding your trail after you pass.
+Anyone in the area of the spell (including you) finds the undergrowth held aside while she passes.
+This effect essentially provides a trail through any kind of undergrowth, reducing any movement penalties from terrain caused by dense vegetation (see Table 9-5: Terrain and Overland Movement, page 164 of the Player's Handbook).
+Once the effect of the spell passes, the plants return to their normal shape.
+The DC to track anyone who traveled within the area of this spell increases by 5 (the equivalent of hiding the trail).
+This spell has no effect on plant creatures (that is, they aren't pushed or held aside by its effect).
+ <b>Also appears in</b>   Magic of Faerun  Spell Compendium  Shining South     

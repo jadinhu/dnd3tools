@@ -1,0 +1,10 @@
+<b>Create Greater Undead</b>(Player's Handbook v.3.5, p. 215)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 8,  Sorcerer 8,  Wizard 8,  Sha'ir 8,  Death Master 8,  Dread Necromancer 8,   Death 8,  Undeath 8,   
+<b>Components:</b>
+
+ 	
+This spell functions like create undead, except that you can create more powerful and intelligent sorts of undead: shadows, wraiths, spectres, and devourers (see the Monster Manual for more information on all types of undead).
+The type or types of undead you can create is based on your caster level, as shown on the table below.
+   

@@ -1,0 +1,20 @@
+<b>Pass Through Ice</b>(Frostburn)
+
+Transmutation
+ <b>Level:</b>  Cleric 5,  Druid 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Yes (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The transmuted creature is able to pass through ice or snow as easily as water, but not through stone or frozen mud.
+The creature moves at a speed of 15 feet and can rise or sink into ice at a rate of 5 feet per round.
+When a pass through ice spell ends, the affected creature is ejected out to the nearest ice surface.
+If someone dispels pass through ice or you dismiss it while a creature is still in the ice, the creatures may be trapped in
+the ice unless they can reach the nearest surface within a single round of movement.
+Creatures trapped act as if caught in an entomb spell.
+   

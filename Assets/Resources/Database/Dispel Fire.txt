@@ -1,0 +1,9 @@
+<b>Dispel Fire</b>(Frostburn)
+
+Abjuration [Cold]
+ <b>Level:</b>  Cleric 5,  Disciple of Thrym 5,    
+<b>Components:</b>
+
+ 	
+This spell functions like dispel evil (see page 222 of the Player's Handbook), except that you are surrounded by constant red, orange, and yellow flames, and the spell affects fire creatures and spells rather than evil ones.
+   

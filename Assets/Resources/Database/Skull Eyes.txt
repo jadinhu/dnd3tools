@@ -1,0 +1,18 @@
+<b>Skull Eyes</b>(Lords of Darkness)
+
+Transmutation [see text]
+ <b>Level:</b>  Cleric 5 (Cyric),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/3 levels (see text)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As eyebite, except that you can only choose one of the following possible gaze attacks:
+Charm: Equivalent to the charm monster spell, except that the saving throw is based on spell level 5th.
+Confusion: As the confusion spell, except affecting only one target.
+When you cast this spell, your eyes turn black with skull-shaped irises.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

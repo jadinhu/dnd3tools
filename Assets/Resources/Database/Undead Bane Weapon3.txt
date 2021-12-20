@@ -1,0 +1,23 @@
+<b>Undead Bane Weapon</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Paladin 3 (Kelemvor),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+You give a weapon the undead bane property in addition to any other properties it has.
+Against undead, your weapon's enhancement bonus (if any) is +2 higher than normal and it deals +2d6 points of bonus damage against undead.
+The spell has no effect if cast upon a weapon that already has the undead bane property.
+At caster level 9 (paladin level 18) and above, the weapon gains a +1 enhancement bonus if it is not already a magic weapon.
+Alternatively, you can affect up to fifty arrows, bolts, or bullets.
+The projectiles must be of the same type, and they have to be together, such as in the same quiver.
+Projectiles (but not thrown weapons) lose their transmutation after they have been fired.
+The weapon is considered blessed, which means it has special effects on certain creatures.
+Any weapon affected by this spell glows with a serene gray radiance that sheds as much light as a candle.
+ <b>Also appears in</b>   Spell Compendium  Ghostwalk  Libris Mortis: The Book of the Dead  Player's Guide to FaerÃ»n     

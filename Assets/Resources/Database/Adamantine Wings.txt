@@ -1,0 +1,25 @@
+<b>Adamantine Wings</b>(Complete Mage)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,  Wu Jen 7 (metal),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D) or until expended
+
+ 	
+You feel an instant of searing pain from your back, which swiftly fades into a sensation of ultimate freedom.
+You sprout a pair of dull gleaming wings made of overlapping feathers of dark metal.
+You grow a pair of adamantine wings.
+The wings grant you a fly speed of 60 feet (or 40 feet if you wear medium or heavy armor or carry a medium or heavy load), with good maneuverability.
+If you are not flying, you can use a standard action to make one wing attack or a full attack action to make two such attacks (as if they were natural weapons).
+Each wing deals 2d6 points of slashing damage (plus your Strength modifier), and threatens a critical hit on a 19-20.
+The wings are considered both magic and adamantine for the purpose of overcoming damage reduction or penetrating hardness.
+Wing strikes are not additional attacks; they replace any other attack or full attack action.
+As a swift action, you can choose to launch the adamantine feathers as a burst of razor-sharp blades.
+This attack takes the form of a 60-foot cone-shaped burst.
+All creatures within the cone take 10d6 points of damage (Reflex half; spell resistance applies).
+Since this is a spell effect, damage reduction does not affect the damage dealt by the cone.
+This action immediately ends the spell's duration.
+   

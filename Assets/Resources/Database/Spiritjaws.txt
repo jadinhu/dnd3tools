@@ -1,0 +1,31 @@
+<b>Spiritjaws</b>(Spell Compendium, p. 202)
+
+Evocation [Force]
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Jaws of force
+ <b>Duration:</b> 1 round/ level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You call upon the power of the dinosaurs to complete the spell. A set of ghostly dinosaur jaws come into being and attack the creature you designate.</b>
+	
+This spell creates a set of powerful jaws of force. The jaws attempt to grapple the designated opponent, starting with one attack in the round the spell is cast and continuing each round thereafter. The <b>spiritjaws</b> use your base attack bonus (possibly allowing it multiple attacks per round in subsequent rounds) + your Wis modifier as it's attack bonus. If an initial attack hits, the <b>spirtjaws</b> deal 2d6 points of damage and attempt to start a grapple as a free action. The jaws' bonus on grapple checks is equal to their attack bonus + 4.
+	
+Once the opponent is grappled, the jaws deal 2d6 points of damage with each subsequent grapple check. The target is considered to be grappling and can not move. The target creature no longer threatens squares and loses its Dexterity bonus to AC against opponents not grappling it.
+	
+The set of jaws always strikes from your direction. It does not get a bonus for flanking or help a combatant get one. Your feats do not affect the jaws. If the jaws move beyond the range of the spell, they vanish. Attacking the set of jaws has no effect. As a magical force effect, the jaws cannot be damaged, but <b>disintegrate</b> or a <b>sphere of annihilation</b> destroys it's effect.
+	
+The grappled opponent can cast a spell only if the spell has no somatic component, the material components are in band, and a Concentration check (DC20 + spell level) is made. A creature grappled by the set of jaws can attempt to escape by succeeding on a grapple check against the jaws or by making a successful Escape Artist check as a standard action opposed by the set of jaws' grapple check.
+	
+As a free action, you can direct the jaws to pin a grappled opponent instead of dealing damage with a grapple check. If the jaws win the opposed grapple check, the opponent is pinned. A pinned opponent is held immobile and must break the pin before it can escape the grapple. Creatures other than those grappling the pinned target gain a +4 bonus on attack rolls to hit it. If the jaws have multiple attacks (granted by your attack bonus), you can use them to cause damage to a pinned target or to make more grapple attempts against that target.
+	
+Each round after the first, you can use a move action to redirect the <b>spiritjaws</b> to a new target. If you do not, the <b>spiritjaws</b> continue to attack the previous round's target. On any round that the <b>spiritjaws</b> switches targets, it gets one attack. Subsequent rounds of attacking that target allow the <b>spiritjaws</b> to make multiple attacks if your base attack bonus would allow it to.
+	
+If you become unable to command the jaws, they vanish.
+	
+<b>Material Component:</b> A piece of bone from a dinosaur's jaw.
+   

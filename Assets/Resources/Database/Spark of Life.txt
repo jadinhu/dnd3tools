@@ -1,0 +1,22 @@
+<b>Spark of Life</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy
+ <b>Level:</b>  Cleric 7,  Druid 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Undead creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A touch from your hand limns an undead creature in a faint yellow glow, making it vulnerable to many of the dangers that can harm living creatures.
+For the duration of the spell, the undead creature is subject to extra damage from critical hits (and thus sneak attacks), nonlethal damage, ability drain, energy drain, fatigue, exhaustion, and damage to its physical ability scores (though it still lacks a Constitution score and thus can't take Constitution damage) as if it were alive.
+It loses its immunity to effects that require a Fortitude save, as well as its invulnerability to poison, sleep effects, paralysis, stunning, disease, and death effects.
+However, an undead affected by this spell gains a bonus on its Fortitude saves equal to its Charisma bonus (if any).
+(The bonus doesn't apply to Fortitude saves against effects that also affect objects).
+It must breathe, eat, and sleep just like a normal creature (though the last two aren't likely to come into play thanks to the spell's short duration).
+While it is under the effect of this spell, both negative energy (such as inflict spells) and positive energy (such as cure spells) heal damage to the undead creature, rather than damaging it.
+An undead creature affected by this spell retains all other traits.
+   

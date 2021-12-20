@@ -1,0 +1,17 @@
+<b>Death Grimace</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Assassin 1,  Blackguard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One corpse
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The caster marks a corpse with a particular magical &quot;signature&quot;, thus identifying himself (truthfully or falsely) as the murderer.
+Some assassins use this signature as a sort of calling card, while others use it as a way to prove that they earned their pay.
+The signature can take many forms: a specific expression on the face of the corpse (hence the name of the spell), an actual rune, a word written on the corpse's flesh, a discoloration of one eye, and so on.
+   

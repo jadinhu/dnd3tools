@@ -1,0 +1,20 @@
+<b>Retributive Enervation</b>(Complete Mage)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level or until expended
+
+ 	
+The world around you takes on a dim and muted tone as you are encased in a tight-fitting sheath of crackling negative energy.
+This spell bestows a negative level upon any non-undead creature that makes a successful melee attack against you (regardless of whether the attack deals damage).
+There is no save, but spell resistance applies.
+Retributive enervation can bestow a number of negative levels equal to 1/2 your caster level (maximum 10).
+Once this limit is reached, the spell ends, even if the duration has not yet expired.
+Assuming a creature that gains negative levels survives, it regains lost levels after a number of hours equal to your caster level (maximum 20 hours).
+Usually, negative levels have a chance of permanently draining the victim's levels, but the negative levels from retributive enervation don't last long enough to do so.
+An undead creature that makes a successful melee attack against you while this spell is active gains 5 temporary hit points that last for up to 1 hour.
+   

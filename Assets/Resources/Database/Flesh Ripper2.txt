@@ -1,0 +1,17 @@
+<b>Flesh Ripper</b>(Tome of Battle: The Book of Nine Swords, p. 87)
+
+Tiger Claw (Strike)
+ <b>Level:</b>  Swordsage 3 (Two Tiger Claw maneuvers),  Warblade 3 (Two Tiger Claw maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round or more; see text
+ <b>Saving Throw:</b> Fortitude negates
+
+ 	
+<b>With a mixture of careful precision and animal savagery, you tear into a foe to produce jagged wounds that overwhelm him with pain.</b>
+	
+As part of this maneuver, you make a melee attack against a single opponent. If this attack hits, the target must make a successful Fortitude save (DC 13 + your Str modifier) or take a ?4 penalty on attacks and to AC for 1 round. If your attack is a critical hit, these penalties last for a number of rounds equal to your weapon?s critical multiplier. Your target takes normal damage from your attack regardless of the result of the save.
+	
+This maneuver functions only against creatures that are vulnerable to critical hits.</ <b>Also appears in</b>   Book of Vile Darkness     

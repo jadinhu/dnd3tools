@@ -1,0 +1,22 @@
+<b>Ghost Bane Weapon</b>(Ghostwalk)
+
+Transmutation
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+You give a weapon the ghost bane property in addition to any other properties it has.
+Against ghosts, your weapon's enhancement bonus (if any) is 2 higher than normal and it deals an extra 2d6 points of damage.
+The spell has no effect if cast upon a weapon that already has the ghost bane property.
+At caster level 9th and higher, the weapon gains a +1 enhancement bonus if it is not already a magic weapon.
+Alternatively, you can affect up to 50 arrows, bolts, or bullets.
+The projectiles must be of the same type, and they have to be together, such as in the same quiver.
+Projectiles (but not thrown weapons) lose their ghost bane property when fired.
+Any weapon affected by this spell glows with witchlight (see the Witchlight feat).
+   

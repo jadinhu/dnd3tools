@@ -1,0 +1,17 @@
+<b>Leaping Dragon Stance</b>(Tome of Battle: The Book of Nine Swords, p. 88)
+
+Tiger Claw (Stance)
+ <b>Level:</b>  Swordsage 3 (One Tiger Claw maneuver),  Warblade 3 (One Tiger Claw maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>Even when you are trapped in tight quarters and seemingly unable to move, a leap can send you flying gracefully through the air.</b>
+	
+The Tiger Claw discipline teaches you to assume a stance that allows you to sail through the air when jumping. You spring from the ground with an unmatched burst of speed and strength.
+	
+While you are in this stance, you gain a +10-foot enhancement bonus on Jump checks. In addition, any jumps you make while in this stance are considered running jumps.
+   

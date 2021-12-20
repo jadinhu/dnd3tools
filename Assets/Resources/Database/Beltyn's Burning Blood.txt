@@ -1,0 +1,19 @@
+<b>Beltyn's Burning Blood</b>(Unapproachable East)
+
+Necromancy
+ <b>Level:</b>  Nar Demonbinder 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude partial (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You infuse a living creature's blood with a hot, corrosive mixture, dealing 1d8 points of acid damage and 1d8 points of fire damage per round.
+Each round, on its action, the subject may attempt a Fortitude save to negate that round's damage, but a successful save in one round does not necessarily prevent damage in future rounds.
+On any round in which the subject fails its Fortitude save, the pain limits it to a single move-equivalent action in that round.
+Beltyn's burning blood does not affect creatures of the construct, elemental, ooze, plant, or undead types.
+Material Component: A drop of blood and a pinch of saltpeter.
+   

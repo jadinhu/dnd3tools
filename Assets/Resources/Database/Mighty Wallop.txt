@@ -1,0 +1,19 @@
+<b>Mighty Wallop</b>(Races of the Dragon)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One bludgeoning melee weapon
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None (object)
+ <b>Spell Resistance:</b> No (object)
+
+ 	
+The head of the weapon you touch is suddenly encased in a filmy halo that only you can see, extending out from the weapon to a distance of several inches.
+Mighty wallop increases the damage of a bludgeoning melee weapon by one size category without increasing the dimensions or weight of the weapon.
+For a Small weapon, find the weapon's damage value on the table below and adjust it to the value in the right-hand column for the duration of the spell.
+For a Medium or larger weapon, refer to Table 2-2: Increasing Damage by Weapon Size (<span class="caps">DMG</span> 28).
+Focus: A melee weapon.
+   

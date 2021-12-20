@@ -1,0 +1,20 @@
+<b>Wrack Earth</b>(Player's Handbook II)
+
+Evocation [Earth]
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> 30-ft. line
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+You stomp your foot, causing a shockwave to shoot out from you.
+When you cast this spell, earth and stone blast upward along a 30-foot line, smashing creatures and knocking them out of the way.
+This spell deals 1d6 points of bludgeoning damage per caster level (maximum 15d6) to every creature it contacts and creates a 5-foot-wide mound of stone and rubble along the path of the line.
+Creatures within the area that fail their Reflex saves are moved to a random side of the rubble.
+The rubble created is difficult terrain that requires 2 squares of movement to enter.
+Creatures that succeed on their saving throws take half damage and are not moved by the mound of rubble.
+   

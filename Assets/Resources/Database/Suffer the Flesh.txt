@@ -1,0 +1,17 @@
+<b>Suffer the Flesh</b>(Magic of Eberron, p. 103)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+You can draw upon your physical endurance to increase the power of your spells. You voluntarily deal Constitution damage to yourself when you cast this spell. For each 2 points of damage dealt, your caster level increases by 1. You cannot take more Constitution damage than your caster level (maximum 10 points for a +5 caster level increase).
+	
+Your maximum and current hit points drop appropriately for your lower Constitution score. A creature that has no Constitution score, or that has immunity to Constitution damage, cannot cast this spell.
+	
+<b>Material Component:</b> A ruby worth 250 gp.
+   

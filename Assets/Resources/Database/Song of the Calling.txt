@@ -1,0 +1,16 @@
+<b>Song of the Calling</b>(Ghostwalk)
+
+Abjuration [Ectomancy]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One ghost
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You force a ghost to succumb to the Calling and depart immediately for the True Afterlife.
+Each level in the eidolon class the target ghost has gives it a -1 penalty on its saving throw against this spell.
+   

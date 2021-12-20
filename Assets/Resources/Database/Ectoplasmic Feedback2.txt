@@ -1,0 +1,17 @@
+<b>Ectoplasmic Feedback</b>(Spell Compendium, p. 78)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> See text
+
+ 	
+<b>A shimmering sheath of energy surrounds you, promising harm to incorporeal creatures that touch you.</b>
+	
+Any creature that hits you with an incorporeal touch attack takes 1d6 points of force damage +1 point per caster level (maximum +10). If the attacker has spell resistance, it applies to this effect.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

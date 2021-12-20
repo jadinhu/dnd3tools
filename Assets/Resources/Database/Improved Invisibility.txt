@@ -1,0 +1,12 @@
+<b>Improved Invisibility</b>(Player's Handbook 3.0)
+
+Illusion (Glamer)
+ <b>Level:</b>  Telflammar Shadowlord 2,  Thayan Slaver 3,  Bard 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Target:</b> You or creature touched
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+
+ 	
+As invisibility , except the spell doesn't end if the subject attacks.
+   

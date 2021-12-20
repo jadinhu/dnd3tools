@@ -1,0 +1,18 @@
+<b>Shadow Trap</b>(Champions of Ruin)
+
+Conjuration (Summoning) [Shadow]
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With this spell, you place a magic trap on any object that casts a shadow.
+If the object is disturbed in any way that causes its shadow to shift (for instance, if it or a nearby light source is moved), a bound greater shadow (see Monster Manual page 221) emerges from the object's shadow to attack the nearest living creature.
+The shadow can be turned or destroyed as normal; otherwise, it remains for a number of rounds equal to your caster level.
+If the trapped object resides in a place that has no shadows, the trap does not trigger, although the spell remains in effect.
+Material Component: A sheet of black cloth large enough to drape over the warded object.
+   

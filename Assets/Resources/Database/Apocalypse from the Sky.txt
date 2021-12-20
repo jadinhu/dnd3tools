@@ -1,0 +1,21 @@
+<b>Apocalypse from the Sky</b>(Book of Vile Darkness)
+
+Conjuration (Creation) [Evil]
+ <b>Level:</b>    Corrupt 9  
+<b>Components:</b>V, S, M, Corrupt, 
+ <b>Casting Time:</b> 1 day
+ <b>Range:</b> Personal
+ <b>Area:</b> 10-mile radius/level, centered on caster
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster calls upon the darkest forces in all existence to rain destruction down upon the land.
+All creatures and objects in the spell's area take 10d6 points of fire, acid, or sonic damage (caster's choice).
+This damage typically levels forests, sends mountains tumbling, and wipes out entire populations of living creatures.
+The caster is subject to the damage as well as the corruption cost.
+Material Component: An artifact, usually one of good perverted to this corrupt use.
+Corruption Cost: 3d6 points of Constitution damage and 4d6 points of Wisdom drain.
+Just preparing this spell deals 1d3 points of Wisdom damage, with another 1d3 points of Wisdom damage for each day it remains among the caster's prepared spells.
+   

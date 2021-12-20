@@ -1,0 +1,17 @@
+<b>Draconic Might</b>(Spell Compendium, p. 72)
+
+Transmutation
+ <b>Level:</b>  Paladin 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+_Upon casting this spell, your ally's face is covered briefly with a fine pattern of yellow scales, the scales, fade, but the golden radiance remains. The subject of the spell gains a +4 enhancement bonus to Strength, Constitution, and Charisma. It also gains a +4 enhancement bonus to natural armor. Finally, it has immunity to magic sleep and paralysis effects.
+	
+<b>Special:</b> Sorcerers cast this spell at +1 caster level.
+ <b>Also appears in</b>   Draconomicon     

@@ -1,0 +1,17 @@
+<b>Fire Storm</b>(Player's Handbook v.3.5, p. 231)
+
+Evocation [Fire]
+ <b>Level:</b>  Druid 7,  Warmage 7,  Blighter 7,  Nar Demonbinder 7,  Cleric 8,   Fire 7,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Two 10-ft. cubes per level (S)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When a fire storm spell is cast, the whole area is shot through with sheets of roaring flame.
+The raging flames do not harm natural vegetation, ground cover, and any plant creatures in the area that you wish to exclude from damage.
+Any other creature within the area takes 1d6 points of fire damage per caster level (maximum 20d6).
+   

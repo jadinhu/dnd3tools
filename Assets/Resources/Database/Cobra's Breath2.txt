@@ -1,0 +1,17 @@
+<b>Cobra's Breath</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 1 (Water),   Maho 1,   
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+Your saliva changes into a virulent poison that you then spit forth in a 10-foot cone.
+Creatures within the cone must make a successful Fortitude saving throw or take 1d3 points of temporary Constitution damage.
+(There is no secondary damage).
+The poison does not affect you.
+Material Component: A cobra's fang.
+ <b>Also appears in</b>   Complete Arcane     

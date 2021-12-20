@@ -1,0 +1,19 @@
+<b>Breath Weapon Admixture</b>(Draconomicon)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>S, <abbr title="Meta Breath">MB, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your breath weapon
+ <b>Duration:</b> Instantaneous
+
+ 	
+Choose one type of energy other than that normally associated with your breath weapon: acid, cold, electricity, or fire.
+You can modify your breath weapon to add an equal amount of the energy you choose.
+For example, a wyrm red dragon whose breath weapon normally deals 22d10 points of fire damage could use this spell to produce a cone dealing 22d10 points of fire damage plus 22d10 points of acid damage.
+Even opposed types of energy, such as fire and cold, can be combined using this spell.
+The modification applies only to the breath produced as part of the casting.
+When you use this spell to produce acid, cold, electricity, or fire energy, it is a spell of that type.
+For example, breath weapon admixture is an acid spell when you cast it to add acid damage to your breath weapon.
+ <b>Also appears in</b>   Spell Compendium     

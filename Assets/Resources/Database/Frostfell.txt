@@ -1,0 +1,28 @@
+<b>Frostfell</b>(Frostburn)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 8,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft. cube/level
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> See text
+
+ 	
+The area you designate becomes a frigid and icy environment, immediately dropping the temperature by 3 temperature bands.
+For example, if the temperature is moderate, it drops to extreme cold (see page 9).
+If the new temperature is below the cold band, all water is turned to ice and all earth and stone becomes everfrost to a depth of 10 feet per caster level.
+Air within the area freezes, resulting in a heavy snowstorm lasting for the duration of the spell.
+Snow accumulates only if the ground temperature is below the moderate band.
+Living creatures caught within the area when the spell is cast instantly turn to ice (as per the flesh to ice spell).
+If a creature successfully saves, frostfell deals 1d6 points of frostburn damage per caster level (maximum 20d6).
+Creatures entering the area after the spell has been cast do not take this damage; however, all creatures in the area are subject to the normal effects of cold, snow, and ice for the duration of the spell.
+Objects in the area, including those held by creatures, are instantly covered in a thin layer of frost, making them slippery.
+When a creature uses a frosted item (a weapon, lockpicks, a potion, and so on), it must succeed on a DC 10 Dexterity check or it drops the item before it can be used.
+Cold spells cast within the area gain a +1 caster level.
+Multiple frostfells may be cast in the same area to increase the effects (dropping the temperature by an additional 3 bands).
+The temperature band cannot be dropped below unearthly cold, no matter how many times frostfell has been cast.
+Arcane Material Component: A pinch of dust and a few drops of water.
+   

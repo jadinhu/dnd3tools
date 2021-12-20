@@ -1,0 +1,19 @@
+<b>Mind of the Labyrinth</b>(Dragon Magic)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level or until expended
+
+ 	
+As you close your eyes to mere slits, a black miasma of energy floats around your head, sucking in light and the stray minds of others.
+	
+You twist your mind to become a magical labyrinth, bewildering unsuspecting spellcasters. If an enemy casts a mind-affecting spell or ability that targets you, the enemy becomes confused for 1 round, disoriented by the mazelike confines of your consciousness. (This confusion occurs whether or not the spell successfully affects you). A successful Will save (DC 18 + your Int modifier) negates this effect and renders that foe immune to this casting of the spell.
+	
+Furthermore, while mind of the labyrinth is active, you can use an immediate action to activate a dominate person effect (as the spell, except that the duration is 1 hour) on one humanoid who casts a mind-affecting spell on you. Doing so ends the duration of mind of the labyrinth, though the dominate person effect lasts for 1 hour thereafter.
+	
+Special: A character who learns this spell gains a +1 competence bonus on Bluff checks.
+   

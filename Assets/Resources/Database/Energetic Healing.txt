@@ -1,0 +1,20 @@
+<b>Energetic Healing</b>(Book of Exalted Deeds)
+
+Conjuration (Healing)
+ <b>Level:</b>  Apostle of Peace 5,  Cleric 5,  Druid 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature touched
+ <b>Duration:</b> 10 minutes/level or until discharged
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell converts magical energy damage into healing power.
+First, it renders the target immune to one energy type (acid, cold, electricity, fire, or sonic) specified when the spell is cast.
+Second, whenever the target is subjected to a magical attack of the selected energy type, he instead heals damage equal to 10% of the damage dealt (rounded down).
+For example, a creature protected by energetic healing (cold) that would normally take 35 points of cold damage from a cone of cold heals 3 points of damage instead.
+Once the spell heals a number of hit points equal to 2 per caster level (maximum 30), it is discharged.
+This spell does not convert nonmagical energy attacks (such as damage from alchemist's fire) into healing.
+   

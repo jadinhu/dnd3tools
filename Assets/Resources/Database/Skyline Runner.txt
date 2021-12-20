@@ -1,0 +1,15 @@
+<b>Skyline Runner</b>(Races of Destiny)
+
+Transmutation
+ <b>Level:</b>   City 5,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level
+
+ 	
+You can walk normally on any city surface as if it were level ground.
+This includes perfectly vertical walls, glass windows, and even clothes-drying lines.
+Your movement speed remains unchanged, even when walking straight up a wall.
+   

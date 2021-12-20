@@ -1,0 +1,21 @@
+<b>Master's Touch</b>(Spell Compendium, p. 139)
+
+Divination
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, AF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+<b>Holding aloft an item you wish to use effectively, you address it directly with a command to obey your desire to wield it.</b>
+	
+You gain proficiency with a single weapon or shield you hold in your hands when the spell is cast. The lack of a somatic component means the spell can be cast in the middle of a fight while you keep ready whatever items stand between you and danger.
+	
+Proficiency is granted for only a single, specific item, although multiple castings allow for multiple proficiencies. For example, if you hold a short sword and a rapier, with a buckler strapped to your off hand, you could cast the spell three times, once for each weapon and once for the shield.
+	
+This spell does not grant proficiency for a kind or category of item (such as short swords) but only for the one specific item held in your hand at the time the spell is cast (this short sword). Should you set that item down or otherwise lose your grip on it, the proficiency does not transfer to a different item of the same kind you might pick up. However, if you recover the original item before the spell's effect runs out, you are still proficient with that specific weapon or shield for the duration.
+	
+Focus: The item in whose use you wish to be proficient.
+ <b>Also appears in</b>   Complete Adventurer  Player's Handbook II     

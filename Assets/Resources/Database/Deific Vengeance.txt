@@ -1,0 +1,19 @@
+<b>Deific Vengeance</b>(Complete Divine)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Cleric 2,   Purification 2,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you call out to a deity, listing the crimes of your target and urging the deity to punish the miscreant.
+(The target's alignment is irrelevant to the success of the spell).
+The divine power of the angry deity imposes this punishment in the form of a sharp, spiritual blow to the target.
+This attack hits automatically and deals 1d6 points of damage per two caster levels (maximum 5d6), or 1d6 points per caster level (maximum 10d6) if the target is undead.
+A successful Will saving throw reduces the damage by half.
+ <b>Also appears in</b>   Spell Compendium     

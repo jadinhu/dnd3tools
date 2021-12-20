@@ -1,0 +1,15 @@
+<b>Augment Familiar</b>(Complete Warrior)
+
+Transmutation
+ <b>Level:</b>  Hexblade 1,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Your familiar
+ <b>Duration:</b> Concentration + 1 round/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell grants your familiar a +4 enhancement bonus to Strength, Dexterity and Constitution, damage reduction 5/magic, and a +2 resistance bonus on saving throws.
+ <b>Also appears in</b>   Spell Compendium     

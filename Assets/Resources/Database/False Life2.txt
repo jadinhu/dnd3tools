@@ -1,0 +1,18 @@
+<b>False Life</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 hour/level or until discharged (see text)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You grant yourself limited power to avoid death.
+While this spell is in effect, you gain 1d10 temporary hit points, +1 point per level (maximum 1d10 +10).
+Material Component: A small amount of alcohol or distilled spirits, which you use to trace certain sigils on your body during casting.
+These sigils cannot be seen once the alcohol or spirits evaporate.
+ <b>Also appears in</b>   Player's Handbook v.3.5     

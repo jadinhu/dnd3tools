@@ -1,0 +1,24 @@
+<b>Portal Well</b>(Champions of Valor)
+
+Transmutation
+ <b>Level:</b>  Bard 2,  Cleric 2,  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Active portal touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you step into a portal affected by this spell, you can wait for a short time within an extradimensional space between the portal's entrance and exit.
+This spell only works on a portal you are able to activate; for example, if you are an elf and the target portal doesn't work for elves, you can't use this spell on the portal.
+The extradimensional space created by this spell is similar to that created by a rope trick spell but can only hold you and your gear (up to your maximum heavy load).
+When the spell ends, you exit the portal at either your point of entry or the portal's destination.
+While within this extradimensional space, you can see the origin and destination locations, though the images are blurry (much like viewing the Material Plane from the Ethereal Plane).
+Dispel magic or gate seal traps you within the extradimensional space for as long as the portal is negated or sealed (as would surrounding both ends with a dead magic area).
+Mordenkainen's disjunction or some other effect that destroys a portal outright forcibly ejects you from one random end of the portal and deals 5d6 points of damage to you.
+This spell originated in Shaundakul's church and is hard to
+find elsewhere.
+Arcane Material Component: A silver wire tied in a knot.
+   

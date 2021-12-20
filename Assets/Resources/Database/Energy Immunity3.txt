@@ -1,0 +1,19 @@
+<b>Energy Immunity</b>(Spell Compendium, p. 80)
+
+Abjuration
+ <b>Level:</b>  Cleric 6,  Druid 6,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>A sense of security fills you as you complete the spell. As you touch the intended target of the spell, the feeling lingers for a moment before fading.</b>
+	
+This abjuration grants a creature and its equipment complete immunity to damage from one of the five energy types � ;acid, cold, electricity, fire, or sonic. <b>Energy immunity</b> absorbs only hit point damage, so the recipient could still suffer side effects such as drowning in acid, being deafened by a sonic attack, or becoming immobilized in ice (and thus helpless).
+	
+Energy immunity overlaps <b>protection from energy</b> and <b>resist energy</b>. As long as <b>energy immunity</b> is in effect, the other spells absorb no damage.
+ <b>Also appears in</b>   Tome and Blood: A Guidebook to Wizards and Sorcerers  Complete Arcane  Draconomicon     

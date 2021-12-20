@@ -1,0 +1,24 @@
+<b>Wooden Blight</b>(Complete Champion)
+
+Transmutation
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The spirit of the trees manifests within your foe, slowing and transforming its body.
+You transform the subject's body into wood from the inside out.
+Each round, the subject must make a new saving throw or take 1d4 points of Dexterity damage.
+Success halves the Dexterity damage from that round and ends the spell.
+A subject whose Dexterity is reduced to 0 or lower by this spell transforms, along with its gear, into a mindless, inert, wooden statue.
+A creature in this state is not actually dead, but it does not register as alive either when viewed with spells such as deathwatch.
+If the target already has Dexterity damage or a penalty to Dexterity, wooden blight is even more debilitating.
+Each round in which the subject takes Dexterity damage from this spell, its base movement rate is reduced by 5 feet for every point of Dexterity damage it takes (minimum speed 5 feet).
+Creatures of the plant type are immune to this spell.
+Material Component: A sliver of wood from a living tree.
+   

@@ -1,0 +1,18 @@
+<b>Fins to Feet</b>(Stormwrack)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Sorcerer 2,  Wizard 2,   Seafolk 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell transforms tails, tentacles, or finned extremities into humanoid legs and feet.
+Creatures so affected lose any natural swim speed they possess but gain a land speed instead.
+Transmuted Medium creatures have a base land speed of 30 feet, Small and smaller creatures have a base land speed of 20 feet, and Large or larger creatures have a base land speed of 40 feet.
+The creature loses any natural attacks based on its tail or tentacles.
+ <b>Also appears in</b>   Savage Species     

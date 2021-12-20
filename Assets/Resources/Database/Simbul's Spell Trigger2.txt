@@ -1,0 +1,18 @@
+<b>Simbul's Spell Trigger</b>(Player's Guide to FaerÃ»n)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>
+ <b>Effect:</b> Matrix that holds three of your spells
+
+ 	
+This spell functions like Simbul's spell matrix, except that you can store up to three spells of up to 3rd level, and you take 3d6 points of damage instead of 1d6 upon casting.
+The matrix closes after 3 rounds and no more spells can be added, even if it is not full.
+In addition, you may designate one spell or one spell sequence held in the matrix to come into effect under a condition you dictate when casting Simbul's spell trigger.
+This function works much like a contingency spell.
+The spell (or sequence of spells) to be activated by the triggering condition must be of a type that affect your own person, such as levitate or feather fall.
+The conditions required to bring the desired spell or spells into effect must be clear, although they can be general.
+In all cases, Simbul's spell trigger immediately brings into effect the designated spell or sequence of spells, which is cast instantaneously when the designated circumstances occur.
+You cannot choose to have the spell or spells not activate when the triggering event occurs.
+Focus: A diamond with a minimum value of 1,500 gp.
+ <b>Also appears in</b>   Magic of Faerun     

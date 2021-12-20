@@ -1,0 +1,15 @@
+<b>Ice Gauntlet</b>(Spell Compendium, p. 119)
+
+Evocation [Cold]
+ <b>Level:</b>  Cleric 1,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+<b>All warmth leaves your hand as at first a sheen of white frost covers it, then larger crystals of clear ice form around it. In seconds a large bristling ball of rock-hard ice spikes surrounds your fist, a cold mist enshrouding your forearm.</b>
+	
+You can attack with your fist in all respects as if you were wearing a +1 spiked gauntlet. The +1 spiked gauntlet deals normal damage for your size and 1d4 points of cold damage. Damage reduction applies to the ice gauntlet's normal damage, but it does not affect the cold damage. If you fail a saving throw against a fire effect, the ice gauntlet melts and the spell ends.
+   

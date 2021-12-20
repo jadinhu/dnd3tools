@@ -1,0 +1,22 @@
+<b>Benediction</b>(Complete Champion)
+
+Abjuration
+ <b>Level:</b>  Cleric 2,  Paladin 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You grant your comrade the luck of the gods.
+With this spell, you can grant another creature a +2 luck bonus on all saving throws.
+If the subject is also under another effect that grants saving throw bonuses, the effects stack.
+In addition, at any point before the duration expires, the subject can choose to reroll a single attack roll, saving throw, skill check, or ability check after seeing the result of the initial roll, but before finding out whether it succeeds or fails.
+The higher of the two rolls applies.
+Once this option is exercised, the spell ends immediately.
+Unlike most touch spells, benediction cannot be used on yourself.
+Its effects are for the benefit of others only.
+   

@@ -1,0 +1,19 @@
+<b>Exorcism of Steel</b>(Tome of Battle: The Book of Nine Swords, p. 67)
+
+Iron Heart (Strike)
+ <b>Level:</b>  Warblade 3 (One Iron Heart maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> Standard Action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute
+ <b>Saving Throw:</b> Will half
+
+ 	
+<b>You attack, striking not your foe, but his weapon, sending a shockwave up his arm that leaves him unable to strike with full force.</b>
+	
+Your mastery of the Iron Heart style has taught you much about the power within a blade, and you can use this knowledge to not only enhance your own ability but also to deprive others of that power.
+	
+When you initiate this maneuver, you attack your opponent?s weapon (PH 158). This attack does not provoke attacks of opportunity. If you succeed, your foe takes a ?4 penalty on melee damage rolls for 1 minute. The wielder of the weapon can attempt a Will save (DC 13 + your Str modifier) to halve this penalty.
+	
+You can use this maneuver only against manufactured weapons. You cannot use it against natural weapons.</   

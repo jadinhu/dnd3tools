@@ -1,0 +1,17 @@
+<b>Khyber Trap</b>(Magic of Eberron, p. 97)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One outsider or extraplanar creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell draws upon the binding power of a Khyber dragonshard to trap an extraplanar creature for a short duration. If the creature fails its Will save, it is drawn into the Khyber shard. It can take no actions inside the shard, though it can communicate if it is capable of telepathy. If the dragonshard containing the creature is broken, the creature is released.
+	
+<b>Focus:</b> A Khyber dragonshard worth at least 100 gp per HD of the target creature. The focus can hold only one trapped creature at a time.
+   

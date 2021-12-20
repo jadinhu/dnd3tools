@@ -1,0 +1,22 @@
+<b>Familial Geas</b>(Heroes of Horror)
+
+Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
+ <b>Level:</b>  Bard 6,  Cleric 8,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Until discharged
+ <b>Saving Throw:</b> None or Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell is a far more potent version of geas.
+The duration of the geas is unlimited; it lasts until the subject(s) either discharge the obligation or the effect is dispelled.
+The initial subject of the spell gains no save, as per a standard geas (see page 234 of the Player's Handbook).
+If the target dies before completing the obligation, the geas transfers to his closest adult relative.
+This new subject is entitled to a save; if she succeeds, the geas is broken and the spell ends.
+If not, she labors under the geas until she either completes the obligation, succeeds in dispelling the geas, or dies and potentially passes the geas to her closest adult relative.
+Each new subject has an instinctive understanding of the nature of the obligation.
+A familial geas can be broken only by a successful save on the part of the next successor, remove curse (if cast by someone two caster levels higher than the familial geas), miracle, or wish.
+   

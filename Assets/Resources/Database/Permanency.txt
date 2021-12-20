@@ -1,0 +1,33 @@
+<b>Permanency</b>(Player's Handbook v.3.5, p. 259)
+
+Universal
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,  Wu Jen 5,  Sha'ir 5,  Court Herald 5,   Time 5,   
+<b>Components:</b>V, S, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 2 rounds
+ <b>Range:</b> See text
+ <b>Effect:</b> See text
+ <b>Area:</b> See text
+ <b>Target:</b> See text
+ <b>Duration:</b> Permanent; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell makes certain other spells permanent. Depending on the spell, you must be of a minimum caster level and must expend a number of XP.
+	
+You can make the following spells permanent in regard to yourself.
+	<table>		<tr>			<th>Spell </th>			<th>Minimum Caster Level </th>			<th>XP Cost </th>		</tr>		<tr>			<td> <b>Arcane sight</b> </td>			<td> 11th </td>			<td> 1,500 XP </td>		</tr>		<tr>			<td> <b>Comprehend languages</b> </td>			<td> 9th </td>			<td> 500 XP </td>		</tr>		<tr>			<td> <b>Darkvision</b> </td>			<td> 10th </td>			<td> 1,000 XP </td>		</tr>		<tr>			<td> <b>Detect magic</b> </td>			<td> 9th </td>			<td> 500 XP </td>		</tr>		<tr>			<td> <b>Read magic</b> </td>			<td> 9th </td>			<td> 500 XP </td>		</tr>		<tr>			<td> <b>See invisibility</b> </td>			<td> 10th </td>			<td> 1,000 XP </td>		</tr>		<tr>			<td> <b>Tongues</b> </td>			<td> 11th </td>			<td> 1,500 XP </td>		</tr>	</table>	
+You cast the desired spell and then follow it with the <b>permanency</b> spell. You cannot cast these spells on other creatures. This application of <b>permanency</b> can be dispelled only by a caster of higher level than you were when you cast the spell.
+	
+In addition to personal use, <b>permanency</b> can be used to make the following spells permanent on yourself, another creature, or an object (as appropriate).
+	<table>		<tr>			<th>Spell </th>			<th>Minimum Caster Level </th>			<th>XP Cost </th>		</tr>		<tr>			<td> <b>Enlarge person</b> </td>			<td> 9th </td>			<td> 500 XP </td>		</tr>		<tr>			<td> <b>Magic fang</b> </td>			<td> 9th </td>			<td> 500 XP </td>		</tr>		<tr>			<td> <b>Magic fang, greater</b> </td>			<td> 11th </td>			<td> 1,500 XP </td>		</tr>		<tr>			<td> <b>Rary's telepathic bond</b> <sup>1</sup> </td>			<td> 13th </td>			<td> 2,500 XP </td>		</tr>		<tr>			<td> <b>Reduce person</b> </td>			<td> 9th </td>			<td> 500 XP </td>		</tr>		<tr>			<td> <b>Resistance</b> </td>			<td> 9th </td>			<td> 500 XP </td>		</tr>	</table>	
+<sup>1</sup> Only bonds two creatures per casting of permanency.
+	
+Additionally, the following spells can be cast upon objects or areas only and rendered permanent.
+	<table>		<tr>			<th>Spell </th>			<th>Minimum Caster Level </th>			<th>XP Cost </th>		</tr>		<tr>			<td> <b>Alarm</b> </td>			<td> 9th </td>			<td> 500 XP </td>		</tr>		<tr>			<td> <b>Animate objects</b> </td>			<td> 14th </td>			<td> 3,000 XP </td>		</tr>		<tr>			<td> <b>Dancing lights</b> </td>			<td> 9th </td>			<td> 500 XP </td>		</tr>		<tr>			<td> <b>Ghost sound</b> </td>			<td> 9th </td>			<td> 500 XP </td>		</tr>		<tr>			<td> <b>Gust of wind</b> </td>			<td> 11th </td>			<td> 1,500 XP </td>		</tr>		<tr>			<td> <b>Invisibility</b> </td>			<td> 10th </td>			<td> 1,000 XP </td>		</tr>		<tr>			<td> <b>Magic mouth</b> </td>			<td> 10th </td>			<td> 1,000 XP </td>		</tr>		<tr>			<td> <b>Mordenkainen's private sanctum</b> </td>			<td> 13th </td>			<td> 2,500 XP </td>		</tr>		<tr>			<td> <b>Phase door</b> </td>			<td> 15th </td>			<td> 3,500 XP </td>		</tr>		<tr>			<td> <b>Prismatic sphere</b> </td>			<td> 17th </td>			<td> 4,500 XP </td>		</tr>		<tr>			<td> <b>Prismatic wall</b> </td>			<td> 16th </td>			<td> 4,000 XP </td>		</tr>		<tr>			<td> <b>Shrink item</b> </td>			<td> 11th </td>			<td> 1,500 XP </td>		</tr>		<tr>			<td> <b>Solid fog</b> </td>			<td> 12th </td>			<td> 2,000 XP </td>		</tr>		<tr>			<td> <b>Stinking cloud</b> </td>			<td> 11th </td>			<td> 1,500 XP </td>		</tr>		<tr>			<td> <b>Symbol of death</b> </td>			<td> 16th </td>			<td> 4,000 XP </td>		</tr>		<tr>			<td> <b>Symbol of fear</b> </td>			<td> 14th </td>			<td> 3,000 XP </td>		</tr>		<tr>			<td> <b>Symbol of insanity</b> </td>			<td> 16th </td>			<td> 4,000 XP </td>		</tr>		<tr>			<td> <b>Symbol of pain</b> </td>			<td> 13th </td>			<td> 2,500 XP </td>		</tr>		<tr>			<td> <b>Symbol of persuasion</b> </td>			<td> 14th </td>			<td> 3,000 XP </td>		</tr>		<tr>			<td> <b>Symbol of sleep</b> </td>			<td> 16th </td>			<td> 4,000 XP </td>		</tr>		<tr>			<td> <b>Symbol of stunning</b> </td>			<td> 15th </td>			<td> 3,500 XP </td>		</tr>		<tr>			<td> <b>Symbol of weakness</b> </td>			<td> 15th </td>			<td> 3,500 XP </td>		</tr>		<tr>			<td> <b>Teleportation circle</b> </td>			<td> 17th </td>			<td> 4,500 XP </td>		</tr>		<tr>			<td> <b>Wall of fire</b> </td>			<td> 12th </td>			<td> 2,000 XP </td>		</tr>		<tr>			<td> <b>Wall of force</b> </td>			<td> 13th </td>			<td> 2,500 XP </td>		</tr>		<tr>			<td> <b>Web</b> </td>			<td> 10th </td>			<td> 1,000 XP </td>		</tr>	</table>	
+Spells cast on other creatures, objects, or locations (not on you) are vulnerable to <b>dispel magic</b> as normal.
+	
+The DM may allow other selected spells to be made permanent. Researching this possible application of a spell costs as much time and money as independently researching the selected spell (see the <b>Dungeon Master's Guide</b> for details). If the DM has already determined that the application is not possible, the research automatically fails. Note that you never learn what is possible except by the success or failure of your research.
+	
+<b>XP Cost</b>: See tables above.
+   

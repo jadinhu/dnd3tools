@@ -1,0 +1,20 @@
+<b>War-mount</b>(Complete Champion)
+
+Transmutation
+ <b>Level:</b>  Blackguard 3,  Paladin 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Special mount or fiendish companion touched
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+At your touch, your mount's flanks ripple, and its eyes blaze with newfound energy.
+You render the natural attacks of your mount or fiendish companion magical with a touch.
+The creature gains a +2 enhancement bonus on attack rolls and damage rolls with its natural weapons for the duration of the spell.
+They are treated as both magic and good-aligned (paladin) or evil-aligned (blackguard) weapons for the purpose of overcoming damage reduction.
+If you cast this spell in conjunction with master cavalier (page 124) and phantom charge (page 125), the three spells have a synergistic effect.
+See the master cavalier spell description for details.
+   

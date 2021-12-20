@@ -1,0 +1,14 @@
+<b>Divine Surge</b>(Tome of Battle: The Book of Nine Swords, p. 58)
+
+Devoted Spirit (Strike)
+ <b>Level:</b>  Crusader 4 (One Devoted Spirit maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>Your body shakes and spasms as unfettered divine energy courses through it. This power sparks off your weapon and courses into your foe, devastating your enemy but leaving you drained.</b>
+	
+As part of this maneuver, you make a single melee attack that deals an extra 8d8 points of damage.
+   

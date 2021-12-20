@@ -1,0 +1,19 @@
+<b>Hide from Dragons</b>(Spell Compendium, p. 114)
+
+Abjuration
+ <b>Level:</b>  Assassin 4,  Bard 5,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature touched/2 levels
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Silently you make the motions and the dragon's scale smolders in your hand. The rising smoke wraps around you and sinks into your skin.</b>
+	
+Dragons cannot see, hear, or smell the warded creatures, even with blindsense. They act as though the warded creatures are not there. Warded creatures could stand before the hungriest of red dragons and not be molested or even noticed. If a warded character touches or attacks a dragon or the dragon's hoard, even with a spell, the spell ends for all recipients.
+	
+Material Component: A dragon scale.
+ <b>Also appears in</b>   Draconomicon     

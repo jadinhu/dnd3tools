@@ -1,0 +1,17 @@
+<b>Divine Sacrifice</b>(Book of Exalted Deeds)
+
+Necromancy
+ <b>Level:</b>  Champion of Gwynharwyf 1,  Paladin 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level or until discharged
+
+ 	
+You can sacrifice life force to increase the damage you deal.
+When you cast the spell, you can sacrifice up to 10 of your hit points.
+For every 2 hp you sacrifice, on your next successful attack you deal +1d6 damage, to a maximum of +5d6 on that attack.
+Your ability to deal this extra damage ends when you successfully attack or when the spell duration ends.
+Sacrificed hit points count as normal lethal damage, even if you have the regeneration ability.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins     

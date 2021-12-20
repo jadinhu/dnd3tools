@@ -1,0 +1,25 @@
+<b>Prismatic Wall</b>(Player's Handbook v.3.5, p. 264)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,  Warmage 8,  Sha'ir 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Wall 4 ft./level wide, 2 ft./level high
+ <b>Duration:</b> 10 min./level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> See text
+
+ 	
+Prismatic wall creates a vertical, opaque wall � ;a shimmering, multicolored plane of light that protects you from all forms of attack. The wall flashes with seven colors, each of which has a distinct power and purpose. The wall is immobile, and you can pass through and remain near the wall without harm. However, any other creature with less than 8 HD that is within 20 feet of the wall is blinded for 2d4 rounds by the colors if it looks at the wall.
+	
+The wall's maximum proportions are 4 feet wide per caster level and 2 feet high per caster level. A prismatic wall spell cast to materialize in a space occupied by a creature is disrupted, and the spell is wasted.
+	
+Each color in the wall has a special effect. The accompanying table shows the seven colors of the wall, the order in which they appear, their effects on creatures trying to attack you or pass through the wall, and the magic needed to negate each color.
+	
+The wall can be destroyed, color by color, in consecutive order, by various magical effects; however, the first color must be brought down before the second can be affected, and so on. A rod of cancellation or a Mordenkainen's disjunction spell destroys a prismatic wall, but an antimagic field fails to penetrate it. Dispel magic and greater dispel magic cannot dispel the wall or anything beyond it. Spell resistance is effective against a prismatic wall, but the caster level check must be repeated for each color present.
+	
+Prismatic wall can be made permanent with a permanency spell.
+	<table>		<tr>			<th>Color </th>			<th>Order </th>			<th>Effect of Color </th>			<th>Negated By </th>		</tr>		<tr>			<td> Red </td>			<td> 1st </td>			<td> Stops nonmagical ranged weapons. </td>			<td> <b>Cone of cold</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Deals 20 points of fire damage (Relfex half). </td>			<td> </td>		</tr>		<tr>			<td> Orange </td>			<td> 2nd </td>			<td> Stops magical ranged weapons. </td>			<td> <b>Gust of wind</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Deals 40 points of acid damage (Reflex half). </td>			<td> </td>		</tr>		<tr>			<td> Yellow </td>			<td> 3rd </td>			<td> Stops poisons, gases and petrification. </td>			<td> <b>Disintegrate</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Deals 80 points of electricity damage (Reflex half). </td>			<td> </td>		</tr>		<tr>			<td> Green </td>			<td> 4th </td>			<td> Stops breath weapons </td>			<td> <b>Passwall</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Poison (Kills; Fortitude partial for 1d6 points of Con damage instead). </td>			<td> </td>		</tr>		<tr>			<td> Blue </td>			<td> 5th </td>			<td> Stops divination and mental attacks. </td>			<td> <b>Magic missle</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Turned to stone (Fortitude negates). </td>			<td> </td>		</tr>		<tr>			<td> Indigo </td>			<td> 6th </td>			<td> Stops all spells. </td>			<td> <b>Daylight</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Will save or become insane (as insanity spell). </td>			<td> </td>		</tr>		<tr>			<td> Violet </td>			<td> 7th </td>			<td> Energy field destroys all objects and effects. </td>			<td> <b>Dispel magic</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Creatures sent to another plane (Will negates). </td>			<td> </td>		</tr>	</table>	
+Note: The violet effect makes the special effects of the other six colors redundant, but these six effects are included here because certain magic items can create prismatic effects one color at a time, and spell resistance might render some colors ineffective (see above).
+   

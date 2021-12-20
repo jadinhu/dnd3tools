@@ -1,0 +1,22 @@
+<b>Harmonic Void</b>(Complete Scoundrel)
+
+Abjuration
+ <b>Level:</b>  Bard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft.-radius spherical emanation, centered on you
+ <b>Duration:</b> Concentration, up to 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Jarring, discordant noises fill the area, making it difficult for others to concentrate.
+You create a zone of disruptive arcane harmonies that interfere with spells that have verbal components.
+Casters within the area find their spells' spoken words warped, twisted, and blurred, disrupting their efforts.
+Any creature (other than you) that attempts to cast a spell with a verbal component in this area must succeed on a Concentration check (DC 20 + the spell's level).
+On a failure, the spell fails to function and the caster expends the spell or spell slot as normal.
+Harmonic void has no effect on supernatural abilities, magic
+items, and other magical effects.
+It affects only spells with verbal components.
+   

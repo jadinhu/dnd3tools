@@ -1,0 +1,17 @@
+<b>Drown, Mass</b>(Spell Compendium, p. 74)
+
+Conjuration (Creation) [Water]
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One or more creatures, no two of which are more than 30 ft. apart.
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You speak the words and make the sign of the wave, indicating each of your foes in turn. They sputter and pitch forward, water gushing from their mouths and nostrils</b>
+	
+This spell functions like <b>drown</b>, except that it affects multiple creatures.
+ <b>Also appears in</b>   Underdark     

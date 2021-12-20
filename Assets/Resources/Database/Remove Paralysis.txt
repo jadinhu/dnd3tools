@@ -1,0 +1,17 @@
+<b>Remove Paralysis</b>(Player's Handbook v.3.5, p. 271)
+
+Conjuration (Healing)
+ <b>Level:</b>  Healer 1,  Cleric 2,  Paladin 2,  Hunter of the Dead 2,  Death Delver 2,  Thayan Slaver 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to four creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You can free one or more creatures from the effects of any temporary paralysis or related magic, including a ghoul's touch or a slow spell. If the spell is cast on one creature, the paralysis is negated. If cast on two creatures, each receives another save with a +4 resistance bonus against the effect that afflicts it. If cast on three or four creatures, each receives another save with a +2 resistance bonus.
+	
+The spell does not restore ability scores reduced by penalties, damage, or drain.
+   

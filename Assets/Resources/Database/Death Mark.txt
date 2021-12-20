@@ -1,0 +1,19 @@
+<b>Death Mark</b>(Tome of Battle: The Book of Nine Swords, p. 52)
+
+Desert Wind (Strike) [Fire]
+ <b>Level:</b>  Swordsage 3,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Area:</b> Variable spread: see test
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half; see text
+
+ 	
+<b>As your weapon strikes your foe, his body convulses as waves of flame run down your blade into his body. The fire causes him to briefly glow with a brilliant internal fire before the flames erupt from his body in a terrible explosion.</b>
+	
+When you use the strike, you channel overwhelming fiery energy into the body of your foe. In addition to dealing normal melee damage with your attack, you cause fire to erupt from your enemy?s body in a spread. The radius of the spread is determined by the size of the target creature, as indicated on the table below. All creatures in the area, including your enemy, take 6d6 points of fire damage, with a Reflex save (DC 13 + your Wis modifier) for half. This radius is centered on the creature?s position. 
+You have immunity to the fire damage from your own death mark. 
+This maneuver is a supernatural ability.
+	<table>		<tr>			<th>Size </th>			<th>Spread Radius </th>		</tr>		<tr>			<td> Small or smaller </td>			<td> 5 feet </td>		</tr>		<tr>			<td> Medium </td>			<td> 10 feet </td>		</tr>		<tr>			<td> Large </td>			<td> 20 feet </td>		</tr>		<tr>			<td> Huge </td>			<td> 30 feet </td>		</tr>		<tr>			<td> Gargantuan </td>			<td> 40 feet </td>		</tr>		<tr>			<td> Colossal </td>			<td> 50 feet </td>		</tr>	</tabl   

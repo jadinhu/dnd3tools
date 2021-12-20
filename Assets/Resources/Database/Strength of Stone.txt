@@ -1,0 +1,16 @@
+<b>Strength of Stone</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Paladin 2 (Moradin),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level You become stronger.
+
+ 	
+The spell grants an enhancement bonus to Strength of 1d4+1 points, adding the usual benefits to melee attack rolls, melee damage rolls, and other uses of the Strength modifier.
+The spell ends instantly if you ever lose contact with the ground.
+This means you cannot jump, tumble, charge, run, or move more than your speed in a round (because these acts cause both of your feet to leave the ground) without breaking the spell.
+A natural stone wall or ceiling counts as the ground for the purpose of this spell (so you could climb a cavern wall and not lose the spell).
+   

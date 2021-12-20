@@ -1,0 +1,30 @@
+<b>Howling Chain</b>(Player's Guide to FaerÃ»n)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature within range
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell summons a shimmering, blood-red chain of pure force that winds around the target, hampering its movement and attacking it.
+The spell is named for the unearthly howl the chain emits while constricting its victim.
+The noise is so loud that each creature within 100 feet of the chain takes a -2 penalty on Listen checks.
+The chain does not hold its victim fast, nor does it prevent the target from acting, but the target takes a -2 penalty on all attacks, saves, and skill checks and must make a Concentration check (DC 15 + spell level) to cast any spell with somatic components.
+Each round, the chain attacks its target twice (+13/+8 melee), dealing 3d4 points of bludgeoning damage per hit.
+Additionally, if the target of the howling chain's attacks attempts to cast a spell during a round in which both of its attacks hit, the Concentration DC increases by 5.
+When the howling chain spell is first cast, the target may make a Reflex save to evade its constricting coils.
+A successful save means that the chain manifests somewhere within 5 feet of the target.
+(Use the rules for missing with a thrown weapon on page 158 of the Player's Handbook to determine where the chain actually appears).
+Assuming that the target does not move away, the chain once again attempts to ensnare its designated target on your next action, requiring another Reflex save.
+If the designated target is no longer adjacent to the chain, it moves toward its quarry each round at a speed of 20 feet, attacking as soon as possible.
+The howling chain is a Medium object with AC 12 and 33 hit points, and it uses your save bonuses for saving throws.
+However, all damage dealt to the chain also applies to the target of the howling chain spell.
+The target may make a Fortitude save for half damage.
+The spell ends when its duration expires, when the chain is destroyed, or when the target dies.
+Focus: A small length of platinum chain worth at least 500 gp.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,14 @@
+<b>Surefoot</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+Your steps are sure and true, even on the narrowest ledges.
+You gain a +10 competence bonus on Balance checks.
+ <b>Also appears in</b>   Spell Compendium     

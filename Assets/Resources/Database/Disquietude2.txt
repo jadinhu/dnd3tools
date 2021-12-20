@@ -1,0 +1,17 @@
+<b>Disquietude</b>(Spell Compendium, p. 68)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your spell warns of unseen dangers and untrustworthy allies. As you sing, your target eases away from her compatriots, doubt written on her face.</b>
+	
+The affected subject restricts its movement to avoid any physical contact, even with allies. Any ally that wishes to touch the subject must make a successful melee touch attack to do so. The subject must stay 15 feet away from all other creatures. If, at the beginning of its turn, the creature is within 15 feet of any creature, it must first move away (beyond 15 feet from any creature) before taking any action. If the subject cannot safely move that distance, it instead must take the total defense action and remain in its space.
+ <b>Also appears in</b>   Magic of Faerun     

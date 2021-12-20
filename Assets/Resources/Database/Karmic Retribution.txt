@@ -1,0 +1,11 @@
+<b>Karmic Retribution</b>(Complete Mage)
+
+Abjuration
+ <b>Level:</b>  Hexblade 4,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>
+
+ 	
+By manipulating fate itself, you ensure that any who attack you suffer greatly for their insolence.
+	
+This spell functions like <b>karmic aura</b>, except that any creature that damages you and fails its Will save becomes stunned for 1 round.
+   

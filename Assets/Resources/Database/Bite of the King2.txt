@@ -1,0 +1,19 @@
+<b>Bite of the King</b>(Spell Compendium, p. 27)
+
+Necromancy
+ <b>Level:</b>   Hunger 8,  Gluttony 8,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature of a size that does not exceed the caster
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your mouth opens impossibly wide and engulfs your foe. You swallow loudly and your mouth returns to normal size, leaving no trace of your foe behind.</b>
+	
+When you cast this spell, you can send a creature to a pocket &quot;stomach&quot; dimension with a successful melee touch attack. The target you touch must make a successful Fortitude save. If it fails its saving throw, the creature is sent to the stomach dimension. The victim takes 2d8+12 points of bludgeoning damage and 12 points of acid damage per round while in the stomach dimension. The victim can cut its way out by using a light slashing or piercing weapon to deal 35 points of damage to the stomach dimension (AC 21). A creature that successfully exits appears to cut its way free from thin air, appearing in a space adjacent to you.
+	
+Each time you cast this spell, you create a separate temporary stomach dimension.
+   

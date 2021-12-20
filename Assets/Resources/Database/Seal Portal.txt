@@ -1,0 +1,20 @@
+<b>Seal Portal</b>(Manual of the Planes)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One interplanar gate or portal
+ <b>Duration:</b> Permanent (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You may permanently seal an interplanar portal or gate.
+If cast on a portal, the spell prevents any activation of it, although seal portal may be dispelled by a dispel magic spell.
+A knock spell does not function on the sealed portal, but a chime of opening dispels seal portal if seal portal was cast by a spellcaster of lower than 15th level.
+In addition, the ability of the gatecrasher prestige class to open portals may be able to break through a sealed portal, but if the first attempt fails, the gatecrasher can't try again.
+Once the portal is opened, seal portal does not return and must be cast again.
+Material Component: A silver bar worth 50 gp.
+ <b>Also appears in</b>   Spell Compendium  Planar Handbook     

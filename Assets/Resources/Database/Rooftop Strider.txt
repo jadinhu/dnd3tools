@@ -1,0 +1,17 @@
+<b>Rooftop Strider</b>(Races of Destiny)
+
+Transmutation
+ <b>Level:</b>  Assassin 1,   City 1,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level
+
+ 	
+You can run across rooftops or similar uneven surfaces much more easily than normal.
+You gain a +5 competence bonus on Balance and Jump checks.
+You automatically succeed on all Jump checks to clear a horizontal distance of 5 feet or less.
+You do not need to make Balance checks for running or charging across a sloped surface.
+Material Component: A chip of roof tile.
+   

@@ -1,0 +1,25 @@
+<b>Flashback</b>(Player's Guide to the Sovereign Lands)
+
+Transmutation
+<b>Level:</b> Anagakok 6, Beholder Mage 6, Chameleon 6, Deathwalker 6, Fleshcrafter 6, Sha-ir 6, Sorcerer6, Wizard 6, Soul Reaper 6, Sublime Chord 6, Timing 6
+<b>Components:</b> V, S
+<b>Casting Time:</b> 1 standard action
+<b>Range:</b> 10 feet
+<b>Target:</b> One creature
+<b>Duration:</b> 24 hours (D)
+<b>Saving Throw:</b> None
+<b>Spell Resistance:</b> No
+
+Time seems to wind back upon itself, giving you another chance to act.
+By means of this spell, any single unsuccessful action may be attempted again with the same chance of success. 
+
+For example, a failed hit in combat could be repeated, an incorrect guess to a question could be repeated as if the first answer had never been given, a rogue who fails to pick a lock may try again, etc. After the spell is cast, it lasts for 24 hours or until discharged. 
+
+Any time within that period the caster may invoke the effect regardless of his or her initiative count. This does not count as an action.
+However, the caster must do so immediately (within one initiative count) after the failed action in order for the spell to take effect.
+
+Note that this spell cannot be used to "erase" a successful action that failed to produce desirable results (such as successfully opening a sealed casket only to find a vampire inside).
+
+Material Component: A bit of mithral worth at least 100 gp
+
+(appears in Villain Design Handbook)

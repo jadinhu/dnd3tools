@@ -1,0 +1,22 @@
+<b>Lightning Leap</b>(Complete Mage)
+
+Transmutation [Electricity]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal and 60 ft.
+ <b>Area:</b> 10-to-60-ft. line
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None and Reflex half
+ <b>Spell Resistance:</b> No and Yes
+
+ 	
+With a sudden flash, you find yourself standing on the other side of the battle, leaving a smoking trail behind you.
+You transform yourself into a line of lightning, similar to that created by the lightning bolt spell.
+This line can be of any length from 10 feet to 60 feet, measured in 5-foot increments.
+You reappear in any square adjacent to the last square entered by the line, along with any gear worn or carried (up to a maximum of your heavy load limit).
+You can't bring along other creatures except for your familiar.
+The line deals 1d6 points of electricity damage per caster level (maximum 15d6) to anything in its area.
+A successful Reflex save halves this damage, and spell resistance applies.
+   

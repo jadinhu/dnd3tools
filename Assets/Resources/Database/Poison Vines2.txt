@@ -1,0 +1,13 @@
+<b>Poison Vines</b>(Magic of Faerun)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>
+ <b>Saving Throw:</b> Fortitude negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As vine mine, but the vines you create are poisonous (contact, 1d6 Dex/2d6 Dex).
+A successful Fortitude save is required only upon the first entry into the area of effect (and again 1 minute later); creatures don't have to save each time they enter (or each round they remain within).
+You are immune to the poison of the vines you create, and you can select a number of other targets equal to your level to share this immunity.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

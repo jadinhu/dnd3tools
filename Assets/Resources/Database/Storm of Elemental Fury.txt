@@ -1,0 +1,29 @@
+<b>Storm of Elemental Fury</b>(Complete Divine)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Druid 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> 40-ft.-radius storm cloud, 200 feet above the ground
+ <b>Duration:</b> Concentration (maximum 4 rounds) (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates a black storm cloud that hovers over your enemies, striking them with a terrifying combination of effects from the Elemental Planes.
+When created, the storm of elemental fury buffets the area immediately below it with a whirling windstorm that functions as described on pages 94-95 of the Dungeon Master's Guide.
+Ranged attacks within the area of the storm are impossible, and Small or smaller creatures must succeed on a Fortitude save or be blown away.
+Medium creatures must make their Fortitude save or be knocked prone, and Large or larger creatures must succeed on a Fortitude save to move that round.
+Flying creatures that fail their saves are instead blown in a random direction, traveling 1d6x;5 feet of Large or larger, 1d6x;10 feet if Medium, and 2d6x;10 feet if Small or smaller.
+Spells cast within the area are disrupted unless the caster succeeds on a Concentration check against a DC equal to
+the storm of elemental fury's save DC + the level of the spell the caster is trying to cast.
+If you do not maintain concentration on the spell after casting it, the spell ends.
+If you continue to concentrate, the spell generates additional effects in each following round, as noted below.
+Each effect occurs during your turn.
+As a move action (taken in addition to the standard action required to maintain concentration), you can move the storm cloud up to 40 feet in any direction.
+2nd round: Chunks of rock fall from the sky, dealing 5d6 points of bludgeoning damage (no save).
+3rd round: A deluge of rain extinguishes unprotected flames and perhaps protected ones as well (50% chance).
+The torrential downpour reduces visibility to 5 feet and cuts movement speed in half.
+4th round: Flame pelts the area underneath the storm cloud, dealing 1d6 points of fire damage per caster level (Reflex half).
+   

@@ -1,0 +1,17 @@
+<b>Disquietude</b>(Magic of Faerun)
+
+Abjuration [Sonic]
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your song or poem instills a feeling of paranoia in your target.
+The affected target restricts her movement to avoid any physical contact, even with allies.
+If she is attacked in melee and can't flee, she uses the full defense option.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,12 @@
+<b>Ironguard</b>(Spell Compendium, p. 125)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, AF, 
+
+ 	
+This spell functions like lesser ironguard, except that the subject you touch is immune to magic metal as well.
+	
+<b>Material Component</b>: A tiny shield of wood, glass, or crystal.
+<b>Focus</b>: A small nugget of adamantine worth 100 gp.
+ <b>Also appears in</b>   Magic of Faerun     

@@ -1,0 +1,20 @@
+<b>Soul Scour</b>(Unapproachable East)
+
+Necromancy
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Effect:</b> Living creature touched
+ <b>Duration:</b> Instantaneous (see text)
+ <b>Saving Throw:</b> Will negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your touch corrupts your victim's very soul, damaging his mental characteristics.
+You must make a successful melee touch attack to deliver the spell.
+The spell deals 2d6 points of temporary Charisma damage and 1d6 points of temporary Wisdom damage immediately, and another 1d6 points of temporary Charisma damage 1 minute later.
+A successful Will save negates each instance of damage.
+Soul scour is not a poison and cannot be ameliorated or neutralized by spells that halt poison damage.
+Material Component: A pinch of dust from the bones of a lich.
+   

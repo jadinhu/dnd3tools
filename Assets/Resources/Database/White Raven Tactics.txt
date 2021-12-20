@@ -1,0 +1,15 @@
+<b>White Raven Tactics</b>(Tome of Battle: The Book of Nine Swords, p. 94)
+
+White Raven (Boost)
+ <b>Level:</b>  Crusader 3 (One White Raven maneuver),  Warblade 3 (One White Raven maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 10 ft.
+ <b>Target:</b> One ally
+
+ 	
+<b>You can inspire your allies to astounding feats of martial prowess. With a few short orders, you cajole them into seizing the initiative and driving back the enemy.</b>
+	
+Your knowledge of tactics can aid your allies? attacks, and it also allows you to spot, predict, and counter your enemies? actions. In the chaos of battle, you impose the order needed for tight, effective group tactics.
+	
+When you use this maneuver, select an ally within range. Her initiative count immediately equals your initiative count ?1. She then acts on her new initiative count as normal. If she has already acted in the current round, she can act again. If this maneuver would not change your ally?s initiative count, it has no effect. If she has not yet acted during this round, her initiative count changes, and she acts on that count as normal. She does not act again on her original initiative count.   

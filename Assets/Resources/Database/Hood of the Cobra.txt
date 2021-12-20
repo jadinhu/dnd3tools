@@ -1,0 +1,22 @@
+<b>Hood of the Cobra</b>(Complete Mage)
+
+Illusion (Phantasm) [Fear, Mind-Affecting]
+ <b>Level:</b>  Hexblade 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/3 levels; see text
+ <b>Saving Throw:</b> Will disbelief, then Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+In the mind of your victim, the hood of a king cobra spreads from your head, neck, and back, your eyes become those of a great serpent, and dripping fangs sprout from your jaws.
+The subject perceives that you have grown serpentine features, including a cobra's hood, a snake's slitted eyes, and venomous fangs.
+A successful Will save allows him to recognize the illusion as unreal, which ends the spell's effect.
+However, if the Will save fails, the subject is shaken for as long as he can see you.
+Closing his eyes negates this effect but also effectively blinds him.
+In addition, if you make a successful melee touch attack (a standard action) against the target while the spell's duration lasts, he believes that he has been bitten by a venomous serpent and takes 1d6 points of Constitution damage (Fortitude negates).
+Unlike normal poison, this attack has no secondary damage, though you can continue to &quot;bite&quot; the subject each round.
+Immunity or resistance to poison applies normally against this effect, even though it isn't real poison (the subject and his body both believe it to be real).
+   

@@ -1,0 +1,18 @@
+<b>Indomitability</b>(Spell Compendium, p. 121)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level or until discharged
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>The spell's energy makes you feel impervious to wounds, if only for a limited time.</b>
+	
+The indomitability spell protects its recipient from the first incapacitating attack the creature suffers during the spell's duration. An incapacitating attack is one that would reduce the recipient to fewer than 1 hit point. The attack must be one that deals damage; the indomitability spell offers no protection from nondamaging effects or attacks that kill or destroy without dealing any damage, such as death effects. 
+Regardless of how much damage the attack deals, the recipient of the indomitability spell takes only enough damage to be reduced to 1 hp. The remaining damage from the attack is ignored. Once the spell protects the subject in this manner, the spell is discharged.
+   

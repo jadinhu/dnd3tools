@@ -1,0 +1,17 @@
+<b>Sink</b>(Spell Compendium, p. 190)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Druid 3,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/3 levels, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Casting this spell makes the water around the spell's targets roil. Each target begins struggling against the water, as if trying hard merely to stay afloat.</b>
+	
+When this spell is cast, it causes the targets, which must be currently in water or another liquid, to sink. Each subject descends 100 feet down into the liquid (or to the bottom, if the liquid is not deep enough). Affected creatures can then swim up normally. Once on the bottom, a creature must still make a Swim check to move, or else it can move along the bottom at one-quarter its land speed.
+ <b>Also appears in</b>   Stormwrack     

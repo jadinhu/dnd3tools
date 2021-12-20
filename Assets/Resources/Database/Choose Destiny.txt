@@ -1,0 +1,14 @@
+<b>Choose Destiny</b>(Races of Destiny)
+
+Divination
+ <b>Level:</b>   Destiny 9,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You gain a limited ability to discern a successful path for your actions.
+For the duration of the spell, any time you make an attack roll, skill check, ability check, or saving throw, you may roll twice and select which die roll to use.
+   

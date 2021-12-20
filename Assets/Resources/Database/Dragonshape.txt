@@ -1,0 +1,18 @@
+<b>Dragonshape</b>(Player's Handbook II)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+You feel a fire burning deep within you.
+Crimson scales quickly grow over your body, a pair of great wings sprouts from your shoulders, and your body expands in size until you stand as tall as a house!
+You take on the form and abilities of a mature adult red dragon (see below for your new statistics).
+You gain 150 temporary hit points, which disappear at the end of the spell's duration.
+You do not gain the normal spellcasting ability of your new form.
+See the description of the new polymorph subschool on page 95 for more details.
+   

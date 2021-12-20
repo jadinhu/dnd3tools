@@ -1,0 +1,14 @@
+<b>Towering Oak</b>(Magic of Faerun)
+
+Illusion (Glamer)
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 3 rounds/level
+
+ 	
+You draw on the oak's strength to improve your ability to intimidate your enemies.
+You gain a competence bonus of +10 on your Intimidate checks.
+ <b>Also appears in</b>   Spell Compendium     

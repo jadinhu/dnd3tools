@@ -1,0 +1,13 @@
+<b>Hunter's Mercy</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> See text
+
+ 	
+This transmutation makes a bow strike true. Your next attack with the bow (if it is made before the end of the next round) hits and automatically threatens a critical hit. If you don't hit in the round following the casting of this spell, the effect is wasted.
+ <b>Also appears in</b>   Ghostwalk  Spell Compendium     

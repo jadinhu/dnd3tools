@@ -1,0 +1,24 @@
+<b>Harrier</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 3,  Cleric 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level or until target dies
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Harrier creates an incorporeal magical bird of prey the size of a dire bat (roughly 5 feet long with a 10-foot wingspan).
+This bird operates independently of the caster for the duration of the spell.
+When you invoke harrier, choose a target.
+The bird then attacks the target for the duration of the spell, or until the target dies.
+Harrier: CR 3; Large magical beast; HD 4d10; hp 22; Init +5; Spd 20 ft., fly 50 ft. (good); AC 19 (touch 14, flat-footed 9); Atk +9 melee (1d8, energy); Face/Reach 10 ft. by 5 ft./5 ft.; SA Touch attack; SQ Incorporeal; AL N; SV Fort +4, Ref +9, Will +3; Str � ;, Dex 20, Con � ;, Int 2, Wis 14, Cha 6.
+Skills and Feats: Listen +7, Spot +7; Weapon Finesse (energy).
+Touch Attack (Su): The harrier's attack is a touch attack for the purpose of determining the AC of its target.
+Incorporeal: Can be harmed only by other incorporeal creatures, +1 or better magic weapons, or magic, with a 50% chance to ignore any damage from a corporeal source.
+Can pass through solid objects at will, and own attacks pass through armor.
+Always moves silently.
+   

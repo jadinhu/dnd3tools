@@ -1,0 +1,19 @@
+<b>Ferocity of Sanguine Rage</b>(Dragon Magic)
+
+Transmutation/Divination
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,  Assassin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level or until expended
+
+ 	
+Blood seems to pour from your eyes as an irregular red glow whirls around you chaotically.
+This spell imbues you with a supernatural ferocity, giving you an edge in melee combat.
+You gain a morale bonus on your melee damage rolls (with weapons or natural attacks) equal to 1/2 your caster level.
+This has no impact on your ability to cast spells or perform other actions.
+Furthermore, while this spell is active, you can activate a true strike effect (as the spell) on yourself as a standard action.
+This effect lasts for the normal duration of the true strike spell (a single attack), after which the entire spell's duration ends.
+Special: if you are of the dragonblood subtype (see page 4), you cast this spell at +1 caster level.
+   

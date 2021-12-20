@@ -1,0 +1,14 @@
+<b>Animate Fire</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 3 (Fire),   Flame 3,   
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to a 3-ft. cube of fire
+ <b>Duration:</b> Concentration, up to 1 round/level (D)
+
+ 	
+As animate wood, but you can only animate a Small or smaller quantity of fire.
+Animated fire deals fire damage equal to its slam damage (with no Strength penalty), has the burn special attack of a fire elemental (save DC 11), and the fire subtype.
+Material Component: A handful of charcoal, sulfur, and soda ash.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

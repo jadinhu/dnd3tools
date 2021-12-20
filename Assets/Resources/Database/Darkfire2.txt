@@ -1,0 +1,24 @@
+<b>Darkfire</b>(Magic of Faerun)
+
+Evocation [Fire]
+ <b>Level:</b>  Cleric 3 (drow pantheon),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Flame in your palm
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Dark flames appear in your hand.
+You can hurl them or use them to touch enemies.
+The flames appear in your open hand and harm neither you nor your equipment.
+They emit no light but produce the same amount of heat as an actual fire.
+You can strike opponents with a melee touch attack, dealing fire damage equal to 1d4+1 points per two caster levels (maximum +10).
+Alternatively, you can hurl the flames up to 120 feet as a thrown weapon.
+When doing so, you attack with a ranged touch attack (with no range penalty) and deal the same damage as with the melee attack.
+No sooner do you hurl the flames than a new set appears in your hand.
+The darkfire is invisible to normal vision but can be seen with darkvision as easily as a normal flame can be seen in darkness (this means that darkfire can be used as a signal or beacon for creatures with darkvision).
+The spell does not function underwater.
+ <b>Also appears in</b>   Lords of Darkness  Spell Compendium     

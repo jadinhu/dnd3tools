@@ -1,0 +1,17 @@
+<b>Glibness</b>(Player's Handbook v.3.5, p. 235)
+
+Transmutation
+ <b>Level:</b>  Assassin 4, Bard 3,  Vigilante 3,  Beguiler 3,  Urban Druid 3,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 min./level (D)
+
+ 	
+Your speech becomes fluent and more believable.
+You gain a +30 bonus on Bluff checks made to convince another of the truth of your words.
+(This bonus doesn't apply to other uses of the Bluff skill, such as feinting in combat, creating a diversion to hide, or communicating a hidden message via innuendo).
+If a magical effect is used against you that would detect your lies or force you to speak the truth (such as discern lies or zone of truth), the user of the effect must succeed on a caster level check (1d20 + caster level) against a DC of 15 + your caster level to succeed.
+Failure means the effect does not detect your lies or force you to speak only the truth.
+   

@@ -1,0 +1,9 @@
+<b>True Domination</b>(Draconomicon)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>   Domination 8,   
+<b>Components:</b>
+
+ 	
+As dominate person (see page 224 of the Player's Handbook), except that subjects forced to take actions against their nature receive a new saving throw with a -4 penalty.
+ <b>Also appears in</b>   Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins  Spell Compendium     

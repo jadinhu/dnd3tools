@@ -1,0 +1,17 @@
+<b>Sharptooth</b>(Draconomicon)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Choose one of your natural weapons (your bite, a single claw, a wing, a crush, a tail slap, or a tail sweep).
+For the duration of the spell, that natural weapon deals damage as though you were one size larger than your actual size.
+You cannot gain additional attack forms (such as a tail slap) by using this spell; you can only improve attacks you already possess.
+This spell does not stack with itself.
+This spell's name derives from a marked preference among dragons for improving their bite attacks with this spell, but it works equally well on claw, wing, tail, and crush attacks.
+ <b>Also appears in</b>   Spell Compendium     

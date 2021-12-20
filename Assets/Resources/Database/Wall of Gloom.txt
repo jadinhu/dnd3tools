@@ -1,0 +1,21 @@
+<b>Wall of Gloom</b>(Complete Arcane)
+
+Illusion (Shadow) [Darkness, Fear, Mind-Affecting]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Wu Jen 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Semiopaque sheet of darkness up to 40 ft. long, or a ring of darkness with a radius of up to 15 ft.; either form 20 ft. high
+ <b>Duration:</b> Concentration + 1 round/level
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a barrier of ominous shadow that obscures vision and deters passage.
+Creatures in squares adjacent to the wall have concealment against attacks from the other side, while creatures more than 1 square away have total concealment.
+Although the wall is not substantial, a creature with 6 or fewer Hit Dice must succeed on a Will save or be halted at its edge, ending its move action (though a creatures can
+move away from the wall or attempt to move through again if it has a second move action available).
+A creature can attempt to pass the wall any number of times, but each previous failure imposes a cumulative -1 penalty on its Will save.
+Wall of gloom counters or dispels any light spell of equal or lower level.
+Material Component: A bit of fleece from a black sheep.
+ <b>Also appears in</b>   Spell Compendium     

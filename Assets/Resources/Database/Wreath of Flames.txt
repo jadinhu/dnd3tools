@@ -1,0 +1,17 @@
+<b>Wreath of Flames</b>(Dragon Magic)
+
+Evocation [Fire]
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,  Wu Jen 3 (fire),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+A burst of white-hot fire springs into existence around you, swirling and twisting dangerously.
+This spell surrounds you with white-hot flames.
+At the end of each of your turns, any enemy adjacent to you or sharing your space takes 1d6 points of fire damage.
+Your melee attacks deal an extra 1d6 points of fire damage.
+Special: A red dragon capable of casting 5th-level sorcerer spells can cast this spell as a swift action.
+   

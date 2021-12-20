@@ -1,0 +1,17 @@
+<b>Blade of Pain and Fear</b>(Spell Compendium, p. 30)
+
+Evocation
+ <b>Level:</b>  Assassin 2,  Blackguard 2,  Cleric 3,  Sorcerer 3,  Wizard 3,   Deathbound 2,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> 0 ft
+ <b>Effect:</b> Swordlike column of gnashing teeth
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A three-foot-long column of disembodied gnashing teeth springs forth from your hand.</b>
+	
+For the duration of the spell, you can make melee touch attacks that deal 1d6 points of damage +1 point per two caster levels (maximum +10). Your Strength modifier does not apply to the damage. A creature that you successfully deal damage to must also make a Will saving throw or become frightened for 1d4 rounds.
+   

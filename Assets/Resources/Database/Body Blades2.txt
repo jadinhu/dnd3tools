@@ -1,0 +1,15 @@
+<b>Body Blades</b>(Spell Compendium, p. 35)
+
+Transmutation (Counter)
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+<b>You finish the spell's casting and shudder as slender, sharp-tipped spikes erupt from your body, limbs, and clothing.</b>
+	
+You sprout daggerlike blades from all the surfaces of your body and clothing. The blades appear metallic but are not actually metal, and never harm you or interfere with your movement or actions. You are proficient with your blades, and they allow you to deal piercing damage equal to 1d6 + your caster level (maximum 1d6+5) with a successful grapple attack. You can also make a regular melee attack (or offhand attack) with the spikes, and they count as a light weapon in this case. If a creature initiates a grapple with you, it takes the same damage, and you gain a bonus on grapple checks to resist the grapple equal to the damage dealt. You get a +4 bonus on Escape Artist checks to escape from a net, rope, grappler, or spell that entangles.
+ <b>Also appears in</b>   Magic of Faerun     

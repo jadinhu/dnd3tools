@@ -1,0 +1,17 @@
+<b>Flanking Maneuver</b>(Tome of Battle: The Book of Nine Swords, p. 91)
+
+White Raven (Strike)
+ <b>Level:</b>  Crusader 5 (Two White Raven maneuvers),  Warblade 5 (Two White Raven maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>Your keen leadership grants you and your allies a sudden advantage in combat. When you flank an opponent, you attack in such a way as to maximize your allies? openings. By the same token, your friends? ferocious, accurate attacks give you multiple opportunities to pierce your foe?s defenses.</b>
+	
+When you flank an enemy with an ally who can see and hear your directions, the two of you form a potent combination. Your attacks complement each other, leaving the flanked opponent in a tenuous position.
+	
+You can use this strike when you and any number of allies flank an opponent you designate. As part of this maneuver, you make a melee attack against the flanked opponent. If your attack hits, any ally flanking your foe can immediately make a melee attack against that creature. These extra attacks are not attacks of opportunity.
+	
+Your allies must be able to see you to gain this benefit. The coordination needed between you and your companions demands that you watch each other?s attacks, though you do not need to hear each other.   

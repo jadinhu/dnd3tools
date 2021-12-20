@@ -1,0 +1,14 @@
+<b>False Peacebond</b>(CityScape)
+
+Transmutation
+ <b>Level:</b>  Assassin 1,  Blackguard 1,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>
+
+ 	
+The weapon glows with a faint aura.
+For just a moment, your companion shimmers to match, before the light fades.
+This spell functions as peacebond (see the facing page), except that you can choose a single individual who can draw the weapon freely.
+This individual might be yourself, or anyone else present at the time of casting.
+Once this individual draws the weapon, the false peacebond
+effect ends; resheathing the weapon does not reactivate the spell.
+   

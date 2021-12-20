@@ -1,0 +1,19 @@
+<b>Unseen Crafter</b>(Races of Eberron, p. 191)
+
+Conjuration (Creation)
+ <b>Level:</b>  Artificer 2,  Bard 2,  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One invisible, mindless, shapeless servant
+ <b>Duration:</b> 1 day/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions as unseen servant, except that the unseen crafter can be assigned any one task that can be accomplished by the use of the Craft skill. Appropriate tools and materials must be provided for the unseen crafter; it makes Craft checks using your ranks in the skill plus your bonus for the relevant spellcasting ability (Intelligence for artificers, wizards, and magewrights, Charisma for bards and sorcerers, and Wisdom for clerics).
+	
+An unseen crafter can take 10 or attempt to work more quickly (as described in the Craft skill description, page 70 of the Player's Handbook), but this must be part of the command it is given when the spell is cast. Once the unseen crafter has completed the assigned task, the spell ends as if dismissed. If the unseen crafter leaves work undone, any creature or another unseen crafter can continue it.
+	
+Special: When the unseen crafter is commanded to repair a warforged, it receives a +10 bonus on its Craft check.
+   

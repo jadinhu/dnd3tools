@@ -1,0 +1,19 @@
+<b>Share Talents</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Bard 1,  Cleric 2,  Ranger 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Two willing creatures touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You touch two allies, and for a moment their features change so that they seem to blend their appearances into one new creature.
+When you cast this spell on two subjects, you create a mystical link between them.
+For the duration of the spell, the subjects gain a +2 bonus on any skill checks they make, as long as at least one of the characters has 1 rank or more in the skill.
+In addition, if either character has ranks in a skill that is not normally usable by untrained characters (such as Tumble), the other character can make untrained checks using that skill.
+Material Component: A knotted rope.
+   

@@ -1,0 +1,19 @@
+<b>Easy Math</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Transmutation
+ <b>Level:</b>  Bard 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> No (see below)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This minor magical effect makes counting and calculating a breeze.
+You can estimate the number of gold pieces in a pile, the distance of a gap you might have to leap, the number of foes rushing toward you, or the like � ;all in a flash.
+To make such an estimate, make a Perform check (DC 15).
+Success means your guess is within 10% of the true figure; failure means it is off by 20/6 or more.
+The exact extent of such a miscalculation is up to the DM.
+   

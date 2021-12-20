@@ -1,0 +1,24 @@
+<b>Dispel Taint</b>(Oriental Adventures)
+
+Abjuration [Good]
+ <b>Level:</b>  Shugenja 5 (Earth),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> You and a touched evil creature from another plane; or you and an enchantment or evil spell on a touched creature or object
+ <b>Duration:</b> 1 round/level or until discharged, whichever comes first
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> See text
+
+ 	
+Shimmering, white, holy energy surrounds you.
+This power has three effects:
+1. You gain a +4 deflection bonus to AC against attacks by Shadowlands creatures and creatures with a Taint score.
+2. On making a successful melee touch attack against an oni or another outsider or elemental with the Shadowlands subtype, you can choose to drive that creature back to its home plane.
+The creature negates the effects with a Will save (SR applies).
+This use discharges and ends the spell.
+3. With a touch, you can automatically dispel any one spell cast by a Tainted creature or any one maho spell.
+Exception: Spells that can't be dispelled by dispel magic also can't be dispelled by dispel Taint.
+Saving throws and spell resistance do not apply to this effect.
+This use discharges and ends the spell.
+   

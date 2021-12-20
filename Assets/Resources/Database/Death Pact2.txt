@@ -1,0 +1,25 @@
+<b>Death Pact</b>(Magic of Faerun)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 8 (Velsharoon),    
+<b>Components:</b>V, S, M, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing living creature touched
+ <b>Duration:</b> Permanent until triggered
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell allows the target to enter a binding agreement with your deity that brings the target back to life if she is slain.
+When this spell is cast, the target's Constitution is permanently lowered by 2 points.
+In exchange for this, if she ever dies, several spells are brought into effect.
+First, she is teleported to a safe location designated by you at the time of casting as if with a word of recall spell.
+Second, the target is brought back from the dead with a raise dead spell with the standard loss of a level.
+Finally, the target is healed with a heal spell.
+She does not regain the 2 Constitution points when returned to life.
+If a raise dead spell could not return the target to life (for example, if she was disintegrated or died of old age), the death pact cannot restore her to life.
+If the spell is dispelled before the target dies, she does not regain her 2 lost Constitution points.
+Material Component: A diamond worth at least 500 gp.
+XP Cost: 250 XP.
+ <b>Also appears in</b>   Complete Divine  Spell Compendium     

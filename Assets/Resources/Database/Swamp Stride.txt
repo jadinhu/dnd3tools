@@ -1,0 +1,15 @@
+<b>Swamp Stride</b>(Spell Compendium, p. 217)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Ranger 4,  Druid 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level or until expended; see text
+
+ 	
+<b>Instinctively, you know the depth of the nearest pool of water, as well as other pools nearby of a similar depth. In your mind's eye you see the pools connected to one another magically, as if each were a doorway with a tunnel linking it to all the others.</b>
+	
+This spell functions like <b>tree stride</b> (PH 296), but it is used for diving into pools of water rather than trees. Each pool must be at least 1 foot deep, and the exit pool of water must be similar in depth to the entry pool (within 1 foot). Unlike with tree stride, each jump has a maximum range of 500 feet. All other effects and limitations are the same.
+   

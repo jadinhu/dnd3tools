@@ -1,0 +1,17 @@
+<b>Protection from Dessication</b>(Sandstorm)
+
+Abjuration
+ <b>Level:</b>  Druid 2,  Ranger 2,  Cleric 3,  Sorcerer 3,  Wizard 3,   Summer 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 10 min./level or until discharged
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The warded creature gains temporary immunity to dehydration of any kind.
+While protected by the spell, the subject cannot become dehydrated even if it takes dessication damage.
+Once the spell has prevented a total of 10 points of damage from dehydration per caster level (maximum 100 points), whether that damage is dessication damage or nonlethal damage, it is discharged.
+   

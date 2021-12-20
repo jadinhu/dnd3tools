@@ -1,0 +1,25 @@
+<b>Crown of Glory</b>(Deities and Demigods)
+
+Evocation
+ <b>Level:</b>   Glory 8,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal
+ <b>Area:</b> 120-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You are imbued with an aura of celestial authority, inspiring awe in all lesser creatures that behold your terrible perfection and righteousness.
+You gain a +4 enhancement bonus to your Charisma score for the duration of the spell.
+All creatures with fewer than 8 HD or levels cease whatever they are doing and are compelled to pay attention to you.
+Any such creature that wants to take hostile action against you must make a successful Will save to do so.
+Any creature that does not make this saving throw the first time it attempts a hostile action is enthralled for the
+duration of the spell (as the enthrall spell), as long as it is in the spell's area, nor will it try to leave the area on its own.
+Creatures with 8 HD or more may pay attention to you, but are not affected by this spell.
+When you speak, all listeners telepathically understand you, even if they do not understand your language.
+While the spell lasts, you can make up to three suggestions to creatures of fewer than 8 HD in range, as if using the mass suggestion spell (Will save negates); creatures with 8 HD ormore aren't affected by this power.
+Only creatures within range at the time a suggestion is given are subject to it.
+Material Component: An opal worth at least 200 gp.
+ <b>Also appears in</b>   Book of Exalted Deeds  Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins  Draconomicon     

@@ -1,0 +1,17 @@
+<b>Ring of Blades</b>(Miniatures Handbook)
+
+Conjuration
+ <b>Level:</b>  Cleric 3,  Warmage 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level
+
+ 	
+This spell conjures a ring of swirling metal blades around you.
+The ring extends 5 feet from you, into all squares adjacent to your space.
+Each round on your turn, starting when you cast the spell, the blades deal 1d6 points of damage + 1 point per caster level (up to a maximum of +10) to all creatures in the affected area.
+The blades conjured by a lawful-aligned cleric are cold iron, those conjured by a chaotic-aligned cleric are silver, and those conjured by cleric who is neither lawful nor chaotic are steel.
+Material Component: A small dagger.
+ <b>Also appears in</b>   Complete Arcane     

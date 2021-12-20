@@ -1,0 +1,22 @@
+<b>Cacophonic Shield</b>(Complete Adventurer)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 6,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius emanation, centered on you
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a barrier of sonic energy at a distance of 10 feet from yourself.
+Creatures on either side of the barrier hear it as a loud but harmless buzzing.
+Nonmagical sound (including sound produced by a thunderstone) does not cross the barrier.
+Supernatural or spell-based sounds or sonic effects penetrate the barrier only if the caster or originator of the effect succeeds on a caster level check (DC 11 + your caster level).
+A creature that crosses the barrier takes 1d6 points of sonic damage +1 point per caster level (maximum +20) and must make a Fortitude save or be deafened for 1 minute.
+The sonic vibrations create a 20% miss chance for any missiles crossing the barrier in either direction.
+The barrier moves with you, but you cannot force another creature to pass through it (for example, by moving adjacent to an enemy).
+If you force a creature to pass through, the barrier has no effect on that creature.
+ <b>Also appears in</b>   Magic of Faerun  Spell Compendium     

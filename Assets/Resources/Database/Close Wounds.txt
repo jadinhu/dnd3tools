@@ -1,0 +1,21 @@
+<b>Close Wounds</b>(Miniatures Handbook)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 3,  Healer 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell cures 2d4 points of damage.
+You can cast this spell with an instant utterance.
+You may even cast this spell when it isn't your turn.
+If you cast this spell immediately after the subject takes damage, it effectively prevents the damage.
+It would keep alive someone who had just dropped to -10 hit points, for example, leaving the character at negative hit points but stable.
+Used against an undead creature, close wounds deals damage
+instead of curing the creature (which takes half damage if it makes a Will saving throw).
+ <b>Also appears in</b>   Spell Compendium     

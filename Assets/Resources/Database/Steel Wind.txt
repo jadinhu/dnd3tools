@@ -1,0 +1,14 @@
+<b>Steel Wind</b>(Tome of Battle: The Book of Nine Swords, p. 69)
+
+Iron Heart (Strike)
+ <b>Level:</b>  Warblade 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> Two creatures
+
+ 	
+<b>You swing your weapon in a broad, deadly arc, striking two foes with a single, mighty blow.</b>
+	
+Through a combination of sheer power and unmatched talent, you make an attack that injures multiple opponents. As you initiate this strike, you make two melee attacks, each against a different foe that you threaten. Resolve each attack separately.
+   

@@ -1,0 +1,25 @@
+<b>Break Enchantment</b>(Player's Handbook v.3.5, p. 207)
+
+Abjuration
+ <b>Level:</b>  Trapsmith 3,  Bard 4,  Nentyar Hunter 4,  Death Delver 4,  Vigilante 4,  Knight of the Weave 4,  Paladin 4,  Jester 5,  Sha'ir 5,  Cleric 5,  Adept 5,  Beguiler 5,  Sorcerer 5,  Wizard 5,  Healer 5,  Court Herald 5,   Luck 5,  Arborea 5,  Liberation 5,  Spell 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to one creature per level, all within 30 ft. of each other
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell frees victims from enchantments, transmutations, and curses.
+Break enchantment can reverse even an instantaneous effect, such as flesh to stone.
+For each such effect, you make a caster level check (1d20 + caster level, maximum +15) against a DC of 11 + caster level of the effect.
+Success means that the creature is free of the spell, curse, or effect.
+For a cursed magic item, the DC is 25.
+If the spell is one that cannot be dispelled by dispel magic, break enchantment works only if that spell is 5th level or lower.
+For instance, bestow curse cannot be dispelled by dispel magic, but break enchantment can dispel it.
+If the effect comes from some permanent magic item, such as a cursed sword, break enchantment does not remove the curse from the item, but it does frees the victim from the item's effects.
+For example, a cursed item can change the alignment of its user.
+Break enchantment allows the victim to be rid of the item and negates the alignment change, but the item's curse is intact and affects the next creature to pick up the item � ;
+even if it's the recent recipient of the break enchantment spell.
+   

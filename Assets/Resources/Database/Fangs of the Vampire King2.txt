@@ -1,0 +1,15 @@
+<b>Fangs of the Vampire King</b>(Libris Mortis: The Book of the Dead)
+
+Transmutation [Evil]
+ <b>Level:</b>  Assassin 3,  Blackguard 3,   Deathbound 3,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level
+
+ 	
+You grow vampirelike fangs that allow you to make bite attacks with an attack bonus of +10 plus your Strength modifier.
+Your bite attack deals 1d6 points of damage and 1 point of Constitution damage.
+If you make a full attack with other weapons, you can also make a bite attack as a secondary attack (-5 to hit).
+ <b>Also appears in</b>   Book of Vile Darkness     

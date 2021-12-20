@@ -1,0 +1,19 @@
+<b>Aura of Evasion</b>(Spell Compendium, p. 18)
+
+Abjuration
+ <b>Level:</b>  Cleric 5,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>&quot;Stay together,&quot; you shout, and intone the words of this spell, casting the crushed gemstone in the air at its conclusion. You are all bathed in a silver-green nimbus of light.</b>
+	
+You and all creatures within 10 feet of you gain evasion, but only against breath weapons. (If a breath weapon would normally allow a Reflex saving throw for half damage, a creature within an aura of evasion that successfully saves takes no damage instead.) Creatures within the spell's area that already have evasion or improved evasion get a +4 bonus on Reflex saving throws against breath weapons.
+	
+<b>Material Component</b>: Powdered emerald worth 500 gp.
+   

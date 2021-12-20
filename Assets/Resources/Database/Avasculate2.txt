@@ -1,0 +1,17 @@
+<b>Avasculate</b>(Spell Compendium, p. 19)
+
+Necromancy [Death, Evil]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,   Deathbound 7,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You shoot a black ray of necromantic energy from your outstretched hand, causing your foe to violently purge blood or other vital fluids through his skin.</b>
+	
+You must succeed on a ranged touch attack with the ray to strike a target. If the attack succeeds, the subject is reduced to half of its current hit points (rounded down) and stunned for 1 round. On a successful Fortitude saving throw, the subject is not stunned.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

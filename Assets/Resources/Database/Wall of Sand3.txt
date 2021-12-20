@@ -1,0 +1,25 @@
+<b>Wall of Sand</b>(Spell Compendium, p. 235)
+
+Conjuration (Creation) [Earth]
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,  Druid 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> A straight wall whose area is up to one 10-ft. square/level (S)
+ <b>Duration:</b> Concentration + 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With a rush of hot air, a swirling wall of blowing sand leaps into being.</b>
+	
+This spell conjures up a 10-foot-thick, viscous, opaque wall of swirling sand. The spell must be cast so that it rests on a solid surface. Once cast, the wall is immobile. The sand is sufficiently thick to block ranged attacks, providing normal cover appropriate for its size, but creatures can attempt to force their way through it. Moving through a wall of sand is difficult, requiring a full-round action and a Strength check. A creature moves 5 feet through a wall of sand for every 5 points by which its Strength check result exceeds 10.
+	
+Creatures within a wall of sand are considered blinded and deafened, and they are unable to speak or breathe. Thus, they might begin to suffocate (<span class="caps">DMG</span> 304) if they remain within the wall too long. Spells with verbal components cannot be cast within the wall, and any other spell requires a successful Concentration check (DC 20 + spell level).
+	
+Creatures with reach can attempt to attack through the wall, but targets have total concealment and total cover, and the attacker must have a general idea where the target is located.
+	
+Any open, unprotected flame thrust into a wall of sand is instantly extinguished.
+	
+Arcane Material Component: A handful of sand.
+ <b>Also appears in</b>   Sandstorm  Player's Guide to FaerÃ»n     

@@ -1,0 +1,26 @@
+<b>Reanimation</b>(Complete Arcane)
+
+Conjuration (Healing)
+ <b>Level:</b>  Wu Jen 7,    
+<b>Components:</b>V, S, M, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You restore a semblance of life to a deceased creature, putting the reanimated subject in a state of half life but not fully binding the soul back into the body.
+Creatures that have been dead no more than one day per caster level can be reanimated so long as their souls are free and willing to return (see Bringing Back the Dead, page 171 of the Player's Handbook).
+The reanimated creature has 1 hit point and can take only a single move action each round (and so is unable to attack, use spells, or activate magic items).
+Its speech (if it could speak while alive) is slow and slurred, and the creature's memory is cloudy, making it difficult for the subject to remember even the basic details of its past life.
+If left unwatched, the creature is prone to wander off randomly.
+It can gain temporary hit points but cannot increase its 1 hit point by means of a Constitution increase or any other method (though if it is wounded, healing can bring the creature back to 1 hit point again).
+The creature can be killed again (and reanimated again if possible), and can be restored to full life by any spell that would restore a fully dead creature to life (such as raise dead).
+As with gentle repose, time spent reanimated does not count against the time limit on raising the creature from the dead, and the reanimated body does not decay.
+A reanimated creature is not undead, and it cannot be turned, harmed by positive energy or holy water, or healed by negative energy.
+A greater restoration spell fully restores the creature's memory but does not improve its physical state.
+Material Component: A white shawl and incense.
+Focus: A golden amulet shaped like a phoenix.
+ <b>Also appears in</b>   Oriental Adventures     

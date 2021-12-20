@@ -1,0 +1,18 @@
+<b>Otto's Resistible Dance</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature per level
+ <b>Duration:</b> Concentration (see text)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You can play a tune so foot-tappingly appealing that everyone who hears it wants to jump up and dance.
+In fact, unless your target makes a successful Will save to resist, that's exactly what happens.
+A dancing creature suffers a -2 circumstance penalty to its Armor Class, Will saves, Concentration checks, and Spellcraft checks for as long as you keep playing.
+Focus: The caster's instrument.
+   

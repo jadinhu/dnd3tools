@@ -1,0 +1,19 @@
+<b>Whispercast</b>(Lords of Madness, p. 129)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+The next spell you cast can be cast as a purely mental action, provided that it is of 5th level or lower and that you can whisper. It requires no somatic or material components, unless the spell normally requires a focus or an expensive material component (any component worth more than 1 gp). If the spell does require a focus or an expensive component, you can still whispercast it as long as you have the focus or expensive component on your person � ;the magic of whispercast causes the focus to be used or the expensive component to be consumed normally, without you having to handle or manipulate it.
+	
+If you do not cast a second spell while whispercast is in effect, you gain no benefit from casting whispercast.
+	
+Casting this spell is a swift action. It does not require a move action or standard action, but you can take only one swift, immediate, or quickened action per turn. 
+	
+Tsochari spellcasters use this spell to permit spellcasting while they inhabit other creatures. It is also useful for grappled spellcasters.
+   

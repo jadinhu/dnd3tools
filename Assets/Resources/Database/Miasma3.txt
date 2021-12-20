@@ -1,0 +1,19 @@
+<b>Miasma</b>(Spell Compendium, p. 141)
+
+Evocation
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 3 rounds/level
+ <b>Saving Throw:</b> Fortitude negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You hiss out a red mist that streaks toward your target despite prevailing winds and claws into his mouth and nose, choking him.</b>
+	
+By filling the subject's mouth and throat with unbreathable gas, you prevent it from doing much more than coughing and spitting. An affected creature cannot speak, cast spells with verbal components, use breath weapons, or utter command words to activate magic items, but it can otherwise act normally.
+	
+The subject can hold its breath for 2 rounds per point of Constitution but must make a Constitution check (DC 10 +1 per previous success) each round thereafter to continue doing so. Failure on any such check (or voluntary resumption of breathing) causes the subject to fall unconscious (0 hp). On the next round, the subject drops to -1 hit points and is dying; on the third round, it suffocates (<span class="caps">DMG</span> 304).
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Divine     

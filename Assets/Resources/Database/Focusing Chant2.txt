@@ -1,0 +1,22 @@
+<b>Focusing Chant</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Abjuration
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Up to 5 rounds/level (D)
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You can use focusing chant to block out distractions from the task at hand.
+Upon casting the spell, you gain a +1 circumstance bonus on attack rolls or on one type of skill or ability check for as long as you continue to do the same thing every round.
+You can attend to the task without concentrating on focusing chant, but no speech is possible because you must continue to mutter the syllables of the chant to maintain the spell.
+If you spend a round doing anything else, the spell ends.
+For example, you could use focusing chant to gain a +1 circumstance bonus on Climb checks just before you start climbing a tall cliff, or on Decipher Script just before you begin deciphering ancient runes.
+In combat, you can gain the bonus on your attack rolls as long as you continue to attack the same opponent with the same weapon every round.
+You can still move freely and change tactics � ;for example, you could charge a monster one round, attempt to disarm it with your rapier the second round, and simply attack it on the third round.
+But if you attack a different monster, switch weapons, or spend a round doing something other than attacking, the benefit is lost.
+ <b>Also appears in</b>   Complete Adventurer  Spell Compendium     

@@ -1,0 +1,9 @@
+<b>Plane Shift, Greater</b>(Planar Handbook)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Cleric 7,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>
+
+ 	
+This spell functions like plane shift, except that if you have visited the desired location, the spell takes you to the precise location (rather than 5 to 500 miles distant).
+ <b>Also appears in</b>   Spell Compendium     

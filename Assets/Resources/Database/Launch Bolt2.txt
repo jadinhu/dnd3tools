@@ -1,0 +1,19 @@
+<b>Launch Bolt</b>(Spell Compendium, p. 130)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 0,  Wizard 0,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One crossbow bolt in your possession
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>The crossbow bolt in your hand glows a bright red, then flies off at your foe.</b>
+	
+You cast this spell on a crossbow bolt, causing it to fly at a target of your choice as if you had fired it from a light crossbow, using a ranged attack roll. The bolt has a range increment of 80 feet. Any properties of the crossbow bolt (such as magical abilities, masterwork quality, and so on) or feats you possess (such as Point Blank Shot, Weapon Focus [light crossbow], and so on) apply. Drawing a bolt for this spell is a free action.
+	
+Material Component: The crossbow bolt to be fired (1 sp).
+ <b>Also appears in</b>   Magic of Faerun     

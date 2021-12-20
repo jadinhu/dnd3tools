@@ -1,0 +1,19 @@
+<b>Furnace Within</b>(Races of Eberron, p. 185)
+
+Evocation [Fire, Mindset]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Cleric 3,    
+<b>Components:</b>V, S, DF, Dwarf
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The dwarves of the Mror holds embrace an ancient connection to the fiery heart of the Ironroot Mountains. Throughout their long history, dwarf spellcasters have sought to tap this kinship with their mountain homes and turn it into a more literal expression of the fiery dwarf heart.
+	
+When you cast this spell, you release a great burst of energy that deals 1d8 points of fire damage per two caster levels (maximum 5d8). The blast of flame sets fire to combustibles and damages objects in the area. If an interposing barrier shatters or breaks due to damage from this spell, the blast of heat may continue beyond the barrier if the area permits; otherwise it stops at the barrier just as any spell does.
+	
+Mindset: The energies you manipulate while preparing this spell cause an intense heat to well up within you. Although it doesn't harm you, this heat makes your unarmed strikes, natural weapon attacks, and melee attacks with metallic weapons deal 1 point of fire damage in addition to their normal damage. This heat dissipates when the spell is cast.
+   

@@ -1,0 +1,17 @@
+<b>Susurrus of the City</b>(Dragon Compendium)
+
+Divination
+ <b>Level:</b>  Urban Druid 5,    
+<b>Components:</b>V, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Personal
+ <b>Effect:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+This spell awakens the secret voice of the city and causes a vacant building's facade to form a crude face and answers questions you have. You may ask one question per round. Each question must be one that can be answered in no more than one word, and the knowledge imparted by the susurrus of the city must be knowledge that is known to at least one person who iscurrently located inthecity.
+This spell, at best, provides information to aid character decisions. The susurrus of the city has no agenda of its own, and does not try to deceive or
+trick the caster. In cases where there are multiple answers to a question, the spell provides the one that is the most pertinent to the caster. If you lag, discuss the answers, or go off to do anything else, the spell ends.
+Focus: An abandoned building in a settlement of at least small town size or larger (<span class="caps">DUNGEON</span> MASTER'S Guide, page 137).
+XP Cost: 100 XP.
+   

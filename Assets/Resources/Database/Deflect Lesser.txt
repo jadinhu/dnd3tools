@@ -1,0 +1,16 @@
+<b>Deflect, Lesser</b>(Player's Handbook II)
+
+Abjuration [Force]
+ <b>Level:</b>  Duskblade 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round or until discharged
+
+ 	
+With a word, you evoke a barrier of invisible force.
+You project a field of invisible force, creating a short-lived protective barrier.
+You gain a deflection bonus to your AC against a single attack; this bonus is equal to +1 per three caster levels (maximum +5).
+You can cast this spell even when it's not your turn; however, you must cast it before your opponent makes his attack roll to gain the benefit.
+   

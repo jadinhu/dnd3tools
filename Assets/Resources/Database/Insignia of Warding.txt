@@ -1,0 +1,13 @@
+<b>Insignia of Warding</b>(Races of Destiny)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,  Paladin 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell works just like insignia of alarm except the insignia wearers also gain a +1 divine bonus to AC and on Fortitude saves.
+   

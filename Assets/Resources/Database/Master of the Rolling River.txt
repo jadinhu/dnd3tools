@@ -1,0 +1,24 @@
+<b>Master of the Rolling River</b>(Oriental Adventures)
+
+Evocation [Water]
+ <b>Level:</b>  Shugenja 6 (Water),   River 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One or more creatures in a 20-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast this spell, you create a huge wave of water that slams into one or more targets within range.
+If there is no large, natural source of water (a river, lake, or ocean) within the spell range, you can affect only one target.
+If such a source of water exists within the range of the spell, the spell creates a burst centered on a location you designate.
+In either case, the water deals 1d8 points of damage per two caster levels (maximum 7d8) to the target or to creatures within the area.
+In addition, all affected creatures suffer a bull rush attack, forcing them to make opposed Strength checks against the wave of water.
+The water has an effective Strength of 16 and is considered Medium-size (or 20 and Large if cast near water).
+You designate the direction the wave pushes when you cast the spell; creatures who lose the opposed Strength check are pushed 5 feet, plus 1 foot for every point by which the wave beats their Strength checks, in that direction.
+It is possible for a wave arising from a body of water to push characters into the water.
+The wave puts out torches, campfires, exposed lanterns, and other open flames if they are carried by the target or located within the area and they are of Large size or smaller.
+Magical fires are targeted by a dispel magic effect as if you had cast that spell.
+   

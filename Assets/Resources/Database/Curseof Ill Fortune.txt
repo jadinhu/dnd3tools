@@ -1,0 +1,16 @@
+<b>Curseof Ill Fortune</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Cleric 2 (Beshaba),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You place a temporary curse upon the target, giving her a &#8211; 3 enhancement penalty on attack rolls, saving throws, ability checks, and skill checks.
+Curse of ill fortune is removed by any spell that removes a bestow curse spell.
+   

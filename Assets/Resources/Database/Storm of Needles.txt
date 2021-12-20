@@ -1,0 +1,18 @@
+<b>Storm of Needles</b>(Complete Mage)
+
+Conjuration (Creation)
+ <b>Level:</b>  Wu Jen 4 (metal),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> No
+
+ 	
+You flick a needle out in front of you.
+Instantly, the area is filled with a burst of thousands of tiny needles, which vanish almost as swiftly as they appear.
+Creatures in the cone take 1d4 points of damage per caster level (maximum 15d4).
+Material Component: A 1-inch-long metal needle.
+   

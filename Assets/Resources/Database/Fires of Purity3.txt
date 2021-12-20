@@ -1,0 +1,21 @@
+<b>Fires of Purity</b>(Spell Compendium, p. 94)
+
+Evocation [Fire]
+ <b>Level:</b>  Druid 6,  Sorcerer 6,  Wizard 6,   Purification 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes (harmless); see text
+
+ 	
+<b>You touch the target, and it bursts into flames that do not harm it, although the heat you feel from the fire seems quite real to you.</b>
+	
+The creature you touch bursts into magical flames that do not harm the subject, but are capable of harming anyone else who comes into contact with the creature.
+	
+With a successful melee attack, the subject deals an extra 1 point of fire damage per caster level (maximum +15). If the defender has spell resistance, it applies to this effect. Creatures that make successful melee attacks against the subject are susceptible to the same damage unless they attack with weapons that have reach, such as longspears.
+	
+The subject of <b>fires of purity</b> takes only half damage from fire-based attacks. If such an attack allows a Reflex save for half damage, the subject takes no damage on a successful save.
+   

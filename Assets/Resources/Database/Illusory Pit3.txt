@@ -1,0 +1,18 @@
+<b>Illusory Pit</b>(Spell Compendium, p. 120)
+
+Illusion (Glamer)
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 10-ft. cube/level
+ <b>Duration:</b> Concentration + 1 round/level
+ <b>Saving Throw:</b> Will disbelief
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You shove downward with your hand, speaking the spell's arcane words as you do so. The ground disappears where you indicate, forming an impossibly deep pit.</b>
+	
+You create the illusion of a pit, and each creature entering or within the area is forced to make a Will save or believe the floor on which it stands has become a bottomless chasm. Those that fail their saves fall prone and are unable to take any action except clawing desperately at the floor in the hopes of stopping their apparent fall. An attack on an affected creature frees it from the effect of the illusion but leaves it stunned for 1 round. Likewise, when the spell ends, creatures that believed they were falling are stunned for 1 round.
+Flying creatures passing over an illusory pit are unaffected by the spell.
+ <b>Also appears in</b>   Complete Arcane  Savage Species     

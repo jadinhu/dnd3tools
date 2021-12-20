@@ -1,0 +1,17 @@
+<b>Nimbus of Light</b>(Spell Compendium, p. 148)
+
+Evocation [Light]
+ <b>Level:</b>  Cleric 1,   Purification 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level or until discharged (D)
+
+ 	
+<b>A glittering corona of sunlight surrounds your body at a few inches distance � ;until you release it as a focused blast of divine energy.</b>
+	
+The nimbus of light around you glows like a lantern, providing bright illumination in a 30-foot radius (and shadowy illumination for an additional 30 feet) from you.
+	
+As a move action, you can coalesce the energy from a nimbus of light around your outstretched arm, and then as a standard action fling it toward a foe within 30 feet. You must succeed on a ranged touch attack with the energy to strike a target. A nimbus of light deals 1d8 points of damage +1 point per round that has elapsed since you cast the spell (maximum 1d8 + caster level). Attacking with a nimbus of light ends the spell, whether your ranged touch attack is successful or not.
+ <b>Also appears in</b>   Complete Divine     

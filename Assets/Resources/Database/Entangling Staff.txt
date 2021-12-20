@@ -1,0 +1,27 @@
+<b>Entangling Staff</b>(Complete Adventurer)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, AF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Quarterstaff touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Yes (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You cause your quarterstaff to extrude writhing vines that allow you to easily grab and entrap foes.
+Each time you successfully strike a foe with the staff (a normal melee attack), you deal normal damage and can attempt to start a grapple as a free action without provoking attacks of opportunity (see Starting a Grapple, page 156 of the Player's Handbook).
+This grapple attempt does not require a separate touch attack.
+You gain a +8 bonus on grapple checks you cause by striking a foe with the entangling staff.
+You can attempt to grapple creatures up to one size category larger than you.
+If your grapple check succeeds, your quarterstaff's vines constrict your foe, dealing 2d6 points of damage (you can choose to deal nonlethal damage instead of normal damage if you wish).
+You then have two choices: Release: You release your opponent from the grapple.
+Some vines remain clinging to your foe, leaving it entangled for the duration of the spell.
+You can attack different enemies in later rounds with the entangling staff, potentially grappling and constricting or entangling them.
+Maintain: You maintain your hold.
+In subsequent rounds, you deal constriction damage with a successful grapple check.
+You can then choose to release or maintain the hold again.
+Focus: A quarterstaff.
+ <b>Also appears in</b>   Spell Compendium     

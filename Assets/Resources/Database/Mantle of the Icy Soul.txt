@@ -1,0 +1,21 @@
+<b>Mantle of the Icy Soul</b>(Frostburn)
+
+Transmutation
+ <b>Level:</b>  Druid 5,  Cleric 6,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Area:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Mantle of the icy soul permanently adds the cold subtype to the targeted creature.
+The skin, hair, and scales of the creature subtly change color to take on an icy blue tint, and its breath does not frost in cold temperatures.
+The recipient of a mantle of the icy soul gains immunity to cold, but has vulnerability to fire, which means that it takes half again as much damage (+50%) as normal from fire regardless of whether a saving throw is allowed, or if it is a success or a failure.
+There is no change to the creature's Challenge Rating or effective character level.
+The effects of this spell can be removed by a limited wish or wish.
+Material Component: A handful of ice or snow that must be pressed to the target's body.
+XP Cost: 2,000.
+ <b>Also appears in</b>   Spell Compendium     

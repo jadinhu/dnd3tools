@@ -1,0 +1,24 @@
+<b>Commune With Lesser Spirit</b>(Oriental Adventures)
+
+Divination
+ <b>Level:</b>  Shaman 2,  Shugenja 2 (Water),  Wu Jen 3,   Celestial 2,  Nature 2,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> 10 ft.
+ <b>Target:</b> One lesser spirit
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (see text)
+ <b>Spell Resistance:</b> No
+
+ 	
+You contact a local spirit � ;any spirit creature with 4 or fewer HD.
+You must know the identity of the spirit (which you can learn through the trance spell), and you must be within 10 feet of the spirit's location.
+You may ask up to one question per 2 caster levels.
+Unasked questions are wasted if the duration expires.
+The spirit's knowledge is limited to matters within its immediate area, so the spirit of a great tree in the village could not answer questions about events outside the village.
+Spirits usually answer questions literally and do not volunteer any information.
+If the spirit's alignment is different from yours, the spirit gets a Will save to resist the spell.
+If the spirit has been subject to commune with lesser spirit within the past week, the new spell fails.
+Good spirits generally try to be helpful in answering questions, while evil spirits always try to distort the information they give (though they generally give literally truthful answers).
+Material Component: Incense and a small offering worth 10 gp.
+ <b>Also appears in</b>   Complete Arcane     

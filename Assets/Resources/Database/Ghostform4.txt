@@ -1,0 +1,27 @@
+<b>Ghostform</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+You assume a visible, incorporeal form similar to the form a ghost assumes when manifesting.
+While the spell lasts, your body shifts onto the Ethereal Plane.
+You are visible to, and can be attacked by, creatures on the Material Plane, but you have no material body.
+You can be harmed only by other incorporeal creatures, +1 or better magic weapons, and spells, spell-like abilities, or supernatural abilities.
+You are immune to all nonmagical attack forms.
+Even when hit by spells or magic weapons, you have a 50% chance to ignore any damage from a corporeal source (except for force effects, such as magic missile, or attacks made with ghost touch weapons).
+Creatures on the Material Plane ignore all your armor and natural armor bonuses, but you gain a deflection modifier equal to your Charisma modifier (always at least +1, even if your Charisma score does not normally provide a bonus).
+You cannot make physical attacks against foes on the Material Plane except with ghost touch weapons; in this case, you have no effective Strength score, but your Dexterity modifier applies to all your melee attack rolls.
+Your spells affect targets on the Material Plane normally unless the spells rely on touch.
+Your touch spells don't work on material targets.
+Against foes on the Ethereal Plane, all your attacks and defenses work normally.
+While incorporeal, you cannot run, but you can fly (perfect maneuverability) at your normal speed.
+You can pass through solid objects as any incorporeal creature can.
+When the spell ends, you return fully to the Material Plane.
+If you return inside a material object (such as a solid wall), you are shunted off to the nearest open space and take 1d6 points of damage per 5 feet that you so travel.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium  Libris Mortis: The Book of the Dead     

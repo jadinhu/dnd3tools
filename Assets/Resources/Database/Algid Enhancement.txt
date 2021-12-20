@@ -1,0 +1,20 @@
+<b>Algid Enhancement</b>(Frostburn)
+
+Transmutation [Cold]
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>V, S, Coldfire
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One cold creature/level
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You energize cold creatures with a surge of coldfire.
+Creatures with the cold subtype affected by this spell gain a +1 deflection bonus to AC, +1d8 temporary hit points, a +1 enhancement bonus on attack rolls, and a +2 bonus on saving throws against fire effects.
+Each of these enhancements increases by +1 for every three caster levels.
+So a 12th-level caster grants a +5 deflection bonus to AC, an extra 1d8+4 temporary hit points, a +5 enhancement bonus on attack rolls, and a +6 resistance bonus on saving throws against fire effects.
+This spell has no effect on creatures not of the cold subtype.
+Coldfire Component:One ounce of coldfire.
+   

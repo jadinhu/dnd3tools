@@ -1,0 +1,19 @@
+<b>Metal Melt</b>(Spell Compendium, p. 140)
+
+Transmutation [Fire]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Nonmagical metal object weighing up to 5 lb./level
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+<b>You uncork the vial and pour out its contents, and the armor you designate begins to soften and flow.</b>
+	
+You alter the physical properties of a metal object so that it runs like water. The melted metal does not change temperature but flows as a liquid for 1 round and then returns to its normal solid state, usually in a form resembling a puddle. An item in a creature's possession is allowed a Will save, using the creature's saving throw bonus unless its own is higher.
+	
+Material Component: A drop of mercury in a vial.
+   

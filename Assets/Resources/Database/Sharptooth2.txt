@@ -1,0 +1,15 @@
+<b>Sharptooth</b>(Spell Compendium, p. 187)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>You cast this spell, and your jaws glow with yellow, eldritch power, your muscles grow more powerful, and your teeth become sharper.</b>
+	
+Choose one of your natural weapons (or your unarmed strike if you have no natural weapons). For the duration of the spell, that method of attack deals damage as though you were one size category larger than your actual size. This spell does not stack with itself.
+ <b>Also appears in</b>   Draconomicon     

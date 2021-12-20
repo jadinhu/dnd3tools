@@ -1,0 +1,17 @@
+<b>Shriveling</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Cleric 3,    
+<b>Components:</b>V, S, Disease
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster channels dark energy that blasts and blackens the subject's flesh.
+The subject takes 1d4 points of damage per caster level (maximum 10d4).
+Disease Component: Soul rot.
+   

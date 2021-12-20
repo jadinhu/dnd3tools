@@ -1,0 +1,21 @@
+<b>Revelation</b>(Dragons of Faerun)
+
+Divination
+ <b>Level:</b>  Cleric 3,  Sorcerer 4,  Wizard 4,  Druid 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius burst
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A burst of purple light reveals all that is hidden.
+Revelation creates an area in which all things appear as they actually are.
+The burst reveals objects in the same way as a true seeing spell, though it lasts for only 1 round.
+Unlike with true seeing, all creatures in visual range can see the effect of the spell.
+The spell does not dispel any magical effects � ;it only temporarily reveals them.
+Should a creature pass through the burst during its duration, any hidden elements on it are revealed, though they are again hidden as soon as the creature steps out of the area.
+Material Component: A clump of dandelion fluff and herbs worth 50 gp.
+   

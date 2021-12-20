@@ -1,0 +1,16 @@
+<b>Etherealness</b>(Player's Handbook v.3.5, p. 228)
+
+Transmutation
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,  Beguiler 9,  Wu Jen 9,  Sha'ir 9,  Death Master 9,   Portal (Alternative) 7,  Portal 7,   
+<b>Components:</b>
+ <b>Range:</b> Touch; see text
+ <b>Target:</b> You and one other touched creature per three levels
+ <b>Duration:</b> 1 min./level (D)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell functions like ethereal jaunt, except that you and other willing creatures joined by linked hands (along with their equipment) become ethereal.
+Besides yourself, you can bring one creature per three caster levels to the Ethereal Plane.
+Once ethereal, the subjects need not stay together.
+When the spell expires, all affected creatures on the Ethereal Plane return to material existence.
+   

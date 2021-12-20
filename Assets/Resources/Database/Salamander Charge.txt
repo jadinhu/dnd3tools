@@ -1,0 +1,18 @@
+<b>Salamander Charge</b>(Tome of Battle: The Book of Nine Swords, p. 55)
+
+Desert Wind (Strike) [Fire]
+ <b>Level:</b>  Swordsage 7 (Three Desert Wind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Special
+ <b>Area:</b> One 5-ft square per 5 ft. of movement
+ <b>Duration:</b> Instantaneous; 5 rounds, see text (D)
+
+ 	
+<b>You spin and tumble about the battlefield, a wall of raging flame marking your steps.</b>
+	
+You initiate this maneuver as part of a charge attack. As with a charge, you can move up to double your speed and make a single attack, gaining a +2 bonus on the attack roll and a ?2 penalty to your Armor Class while you move and until your next turn. Unlike a normal charge, however, your salamander charge does not need to be in a straight line and is not impeded by difficult terrain, or even other creatures. You can change direction as much as you want during your movement, and you can also use your Tumble skill to avoid attacks of opportunity or to move through opponents? squares during the charge.
+	
+When you initiate a salamander charge, a wall of shimmering, spectral fire appears in each of the squares along the path you take. A creature standing in the wall takes 6d6 points of fire damage at the beginning of that creature?s turn. A creature occupying a square adjacent to the wall takes 3d6 points of fire damage at the start of its turn. Creatures that move into or through the wall also take 6d6 points of fire damage. The wall lasts up to 5 rounds. You can automatically dispel the wall with a wave of your hand (a swift action), and the wall is automatically dispelled if you initiate another salamander charge. The wall does not block line of sight or line of effect.
+	
+This maneuver is a supernatural ability.<   

@@ -1,0 +1,17 @@
+<b>Wave of Grief</b>(Book of Vile Darkness)
+
+Enchantment [Evil, Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Cleric 2,    
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Cone
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+All within the cone when the spell is cast are overcome with sorrow and grief.
+They take a -3 morale penalty on all attack rolls, saving throws, ability checks, and skill checks.
+Material Component: Three tears.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

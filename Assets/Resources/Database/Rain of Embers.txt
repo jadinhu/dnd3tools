@@ -1,0 +1,22 @@
+<b>Rain of Embers</b>(Book of Exalted Deeds)
+
+Evocation [Fire, Good]
+ <b>Level:</b>   Sanctified 7,   
+<b>Components:</b>V, S, Sacrifice
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Cylinder (40-ft. radius, 120 ft. high)
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Reflex half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell causes orange, starlike embers to rain steadily from above.
+Each round, the falling embers deal 10d6 points of damage to evil creatures within the spell's area.
+Half of the damage is fire damage, but the other half results directly from divine power and is therefore not subject to being reduced by resistance to fire-based attacks, such as that granted by protection from energy (fire), fire shield (chill shield), and similar magic.
+Creatures may leave the area to avoid taking additional damage, but a new saving throw is required each round a creature is caught in the fiery downpour.
+A shield provides a cover bonus on the Reflex save, depending on its size: small +2, large +4, tower +7.
+A shield spell oriented upward provides a +4 cover bonus on the Reflex save.
+A creature using its shield (or shield spell) to block the rain of embers cannot use it for defense in combat.
+Sacrifice: 1d2 points of Strength drain.
+   

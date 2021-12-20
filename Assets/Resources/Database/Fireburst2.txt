@@ -1,0 +1,18 @@
+<b>Fireburst</b>(Miniatures Handbook)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Warmage 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 5 ft.
+ <b>Effect:</b> Burst of fire extending 5 ft. from you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Fireburst causes a powerful explosion of flame to burst from you, damaging anyone within 5 feet of you.
+All creatures within that area, except for you, take 1d8 points of fire damage per caster level (maximum 5d8).
+The burst does not affect you or any creatures or objects in your space.
+Material Component: A bit of sulfur.
+ <b>Also appears in</b>   Spell Compendium  Complete Arcane     

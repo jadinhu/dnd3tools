@@ -1,0 +1,19 @@
+<b>Compel Breath</b>(Dragons of Faerun)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Though the creature struggles to contain itself, its breath weapon bursts forth explosively.
+The target of the spell is compelled to use its breath weapon as soon as it is capable.
+For instance, if a dragon must wait 1d4 rounds, and it rolls a 2, it must use its breath weapon after 2 rounds.
+The creature is capable of taking normal actions whenever its breath weapon is not available, though it cannot use any feats or spells that delay this result.
+Special: Sorcerers cast this spell at +1 level.
+   

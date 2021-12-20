@@ -1,0 +1,14 @@
+<b>Hawkeye</b>(Complete Adventurer)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+This spell gives you the ability to see accurately at long distances.
+Your range increment for ranged weapons increases by 50%, and you gain a +5 competence bonus on Spot checks.
+ <b>Also appears in</b>   Spell Compendium  Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Divine     

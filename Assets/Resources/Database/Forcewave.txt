@@ -1,0 +1,20 @@
+<b>Forcewave</b>(Magic of Faerun)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Wave of force affecting one creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause a wave of visible force resembling a crashing ocean wave to appear and immediately impact a single target.
+If the target fails its saving throw, it takes 1d4+1 hit points of damage and must make an opposed Strength check to avoid a bull rush.
+The wave of force has Strength 18, is Medium-size, and is considered charging for the purpose of this check, and always moves the target the maximum distance possible.
+If the wave of force fails the opposed Strength check, the target is not moved.
+If the target makes its saving throw, it takes 1 hit point of damage and avoids the bull rush attempt.
+Focus: A small piece of string and a drop of water.
+ <b>Also appears in</b>   Spell Compendium     

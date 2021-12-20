@@ -1,0 +1,17 @@
+<b>Maddening Scream</b>(Eberron Campaign Setting, p. 113)
+
+Enchantment (Compulsion)
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,   Madness 8,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 Standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1d4+1 rounds
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject cannot keep from screaming, gibbering, and leaping about as though completely mad. This spell makes it impossible for the subject to do anything other than race about caterwauling. 
+	
+The Armor Class of the creature takes a � ;4 penalty, it succeeds on Reflex saving throws only on a roll of 20, and it does not benefit from any shield it may be bearing.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins  Deities and Demigods  Lords of Madness     

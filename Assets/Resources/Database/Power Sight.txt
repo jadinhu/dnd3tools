@@ -1,0 +1,15 @@
+<b>Power Sight</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers, p. 92)
+
+Divination
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5ft./2 levels)
+ <b>Effect:</b> Instantaneous
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You determine the number of Hit Dice (including those from class levels) a creature currently has. If the creature has both monster Hit Dice and class levels, power sight reveals only the total. You cannot determine what class levels a creature has, and negative levels do not count against its HD. For example, both a 10-HD creature and a 10th-level character with 4 negative levels appear as 10-HD creatures.
+   

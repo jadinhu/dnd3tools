@@ -1,0 +1,16 @@
+<b>Aspect of the Deity, Greater</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Transmutation [Evil, Good]
+ <b>Level:</b>   Mysticism 9,   
+<b>Components:</b>
+
+ 	
+As lesser aspect of the deity, except that you take on the qualities of a half-celestial or half-fiend (see Appendix 3 of the Monster Manual for complete details).
+You do not gain the spell-like abilities of these creatures.
+Your creature type changes to outsider for the duration of the spell.
+Unlike other outsiders, you can be brought back from the dead if you are killed in this form.
+Good clerics undergo the following transformations:			You grow feathered wings that allow you to fly at twice your normal speed (good maneuverability).		You gain +1 natural armor.		You gain low-light vision.		You gain immunity to acid, cold, disease, and electricity.		You gain a +4 racial bonus on your saving throws against poison.		You gain the following bonuses to your ability scores: +4 Str, +2 Dex, +4 Con, +2 Int, +4 Wis, +4 Cha.	
+Evil clerics undergo the following transformations:			You grow batlike wings that allow you to fly at your normal speed (average maneuverability).		You gain +1 natural armor.		You gain bite and claw attacks.	
+If you are Medium-size or larger, your bite deals 1d6 points of damage and each claw attack deals 1d4 points of damage.
+If you are Small, your bite deals 1d3 points of damage and each claw attack deals 1d3 points of damage.			You gain darkvision with a range of 60 feet.		You gain immunity to poison.		You gain acid, cold, electricity, and fire resistance 20.		You gain the following bonuses to your ability scores: +4 Str, +4 Dex, +2 Con, +4 Int, +4 Wis, +2 Cha.	
+   

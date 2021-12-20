@@ -1,0 +1,18 @@
+<b>Weather Eye</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Divination
+ <b>Level:</b>  Druid 3,  Cleric 4,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> 1 mile radius + 1 mile/level
+ <b>Area:</b> 1 mile radius + 1 mile/level, centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You may accurately predict the natural weather up to one week into the future.
+If unnatural forces currently affect the weather, then weather eye reveals as much information as a detect magic spell.
+Material Component: Incense.
+Divine Focus: A scrying device of some kind (bowl, mirror, crystal ball, and so forth).
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

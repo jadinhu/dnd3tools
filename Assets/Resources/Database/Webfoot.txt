@@ -1,0 +1,17 @@
+<b>Webfoot</b>(Stormwrack)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The transmuted creature becomes better acclimated to wetlands and watery environments.
+It gains a +4 bonus on Swim checks and is not hindered when moving through shallow bog terrain.
+It treats an area of deep bog as shallow bog for purposes of movement and Tumble checks (see Marsh Terrain on page 88 of the Dungeon Master's Guide).
+   

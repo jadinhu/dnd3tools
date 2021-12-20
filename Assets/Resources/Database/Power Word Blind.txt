@@ -1,0 +1,17 @@
+<b>Power Word Blind</b>(Player's Handbook v.3.5, p. 263)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,  Beguiler 7,  Wu Jen 7,  Sha'ir 7,  Death Master 7,   War 7,  Darkness 8,  Slime 8,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature with 200 hp or less
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You utter a single word of power that causes one creature of your choice to become blinded, whether the creature can hear the word or not.
+The duration of the spell depends on the target's current hit point total.
+Any creature that currently has 201 or more hit points is unaffected by power word blind.
+   

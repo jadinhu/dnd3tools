@@ -1,0 +1,18 @@
+<b>Zeal</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Abjuration
+ <b>Level:</b>  Paladin 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You invoke a divine shield to protect you as you close with a chosen opponent.
+Choose a foe as you cast this spell.
+You gain a +4 deflection bonus to your AC against all attacks of opportunity from opponents other than the chosen foe.
+Also, you can move through enemies as if they were allies for the duration of this spell, as long as you finish your movement closer to your chosen foe than when you began it.
+ <b>Also appears in</b>   Complete Divine  Spell Compendium     

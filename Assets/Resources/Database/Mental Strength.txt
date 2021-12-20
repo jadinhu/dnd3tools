@@ -1,0 +1,16 @@
+<b>Mental Strength</b>(Oriental Adventures)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Shaman 3,  Sohei 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You imbue the recipient with magical energy that fortifies her will, granting her a +8 resistance bonus on all Will saves.
+Focus: The tail of a white fox.
+   

@@ -1,0 +1,19 @@
+<b>Mantle of the Slime Lord</b>(Champions of Ruin)
+
+Abjuration
+ <b>Level:</b>   Initiate of ghaunadaur 7,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Effect:</b> Nimbus of divine energy
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell causes a glossy nimbus of energy to surround you.
+This barrier looks like a gelatinous layer of thick, dirty water to observers, but it does not hinder you in the least.
+While the mantle is active, nonintelligent oozes will not attack you unless you attack them.
+In addition, you gain immunity to poison, sleep effects, paralysis, polymorph, and stunning effects.
+Lastly, when a critical hit or sneak attack is scored on you, there is a 75% chance that the critical hit or sneak attack is negated and damage is instead rolled normally.
+   

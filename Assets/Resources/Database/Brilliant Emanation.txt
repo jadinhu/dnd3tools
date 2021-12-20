@@ -1,0 +1,20 @@
+<b>Brilliant Emanation</b>(Book of Exalted Deeds)
+
+Evocation [Good]
+ <b>Level:</b>   Sanctified 3,   
+<b>Components:</b>Sacrifice
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 100 ft. + 10 ft./level
+ <b>Area:</b> 100-ft.-radius emanation + 10-ft. radius per level
+ <b>Duration:</b> 1d4 rounds
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell causes a divine glow to radiate from any reflective objects worn or carried by the caster, including metal armor.
+Evil creatures within the spell's area are blinded unless they succeed on a Fortitude saving throw.
+Nonevil characters perceive the brilliant light emanating from the caster, but are not blinded by it and do not suffer any negative effects from it.
+Evil characters that make their saving throw are not blinded, but are distracted, taking a -1 penalty on any attacks made within the spell's area for the duration of the spell.
+Creatures must be able to see visible light to be affected by this spell.
+Sacrifice: 1d3 points of Strength damage.
+   

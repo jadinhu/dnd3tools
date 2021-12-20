@@ -1,0 +1,19 @@
+<b>Jaws of the Moray</b>(Stormwrack, p. 117)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell grants the subject a bite attack, which deals damage as indicated below. As a primary attack, it adds the creature's Strength modifier to damage. It can also be used as a secondary natural attack in conjunction with a manufactured weapon. Such secondary attacks do not interfere with the primary attack as attacking with an off-hand weapon would do, but the subject takes the usual � ;5 penalty (or � ;2 with the Multiattack feat) for the bite attack when used as a secondary natural attack.
+	
+If the subject hits with its bite attack, it attaches itself to the foe and deals automatic bite damage each round it remains attached. It does not need to make a grapple check, and it does not provoke attacks of opportunity. An attached attacker loses its Dexterity bonus to Armor Class. It cannot use other weapons while attached, but each attack upon from the grappled foe requires a successful grapple check. Others can attack an attached creature with a weapon or grapple. To remove the attached creature through grappling, the opponent must achieve a pin against it.
+	
+A creature with a natural bite attack can use its own bite damage, if greater, but still gains the ability to attach itself.
+	<table>		<tr>			<th>Size </th>			<th>Damage </th>		</tr>		<tr>			<td> Fine </td>			<td> 1d2 </td>		</tr>		<tr>			<td> Diminutive </td>			<td> 1d3 </td>		</tr>		<tr>			<td> Tiny </td>			<td> 1d4 </td>		</tr>		<tr>			<td> Small </td>			<td> 1d6 </td>		</tr>		<tr>			<td> Medium </td>			<td> 1d8 </td>		</tr>		<tr>			<td> Large </td>			<td> 2d6 </td>		</tr>		<tr>			<td> Huge </td>			<td> 2d8 </td>		</tr>		<tr>			<td> Gargantuan </td>			<td> 4d6 </td>		</tr>		<tr>			<td> Colossal </td>			<td> 4d8 </td>		</tr>	</table>   

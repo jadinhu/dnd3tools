@@ -1,0 +1,15 @@
+<b>Ethereal Breath</b>(Spell Compendium, p. 84)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your breath weapon
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You exhale a blast of fire down the corridor, but none of the furnishings take any damage. On another plane of existence, a horde of ethereal marauders is now nothing more than smoldering meat.</b>
+	
+For this spell to function, you must have a breath weapon, either as a supernatural ability or as the result of casting a spell such as <b>dragon breath</b> (page 73). When you successfully cast this spell, you can modify your breath weapon to manifest on the Ethereal Plane instead of on the Material Plane. (You must be in the Material Plane, or on another plane with a coexistent Ethereal Plane, for this spell to function.) Your breath weapon affects ethereal creatures as if they were material, and does not affect material creatures in its area.
+ <b>Also appears in</b>   Draconomicon     

@@ -1,0 +1,16 @@
+<b>Whelm, Mass</b>(Player's Handbook II)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Beguiler 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature/level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With a sweep of your arm, creatures reel as an invisible surge of magical power invades their minds.
+This spell functions like whelm, except that it affects multiple targets and it deals 1d6 points of nonlethal damage per caster level to each subject, to a maximum of 10d6 at 10th level.
+   

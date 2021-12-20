@@ -1,0 +1,17 @@
+<b>Fireward</b>(Player's Guide to FaerÃ»n)
+
+Transmutation
+ <b>Level:</b>  Druid 5,   Initiate of nature 5,   
+<b>Components:</b>
+ <b>Area:</b> One 20-ft. cube/level (S)
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like quench, except as indicated above.
+In addition, it has the following effects.
+While fireward remains in effect, no magical fire effect can function inside its area.
+This effect is similar to that of an antimagic field, but only fire spells are suppressed.
+Any nonmagical fire created inside or brought into the spell's area is immediately extinguished as well.
+ <b>Also appears in</b>   Spell Compendium     

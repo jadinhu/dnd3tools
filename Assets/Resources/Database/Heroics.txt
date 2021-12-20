@@ -1,0 +1,19 @@
+<b>Heroics</b>(Spell Compendium, p. 113)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your heart swells with martial vigor and you feel like marching off to war. Upon touching your intended subject the desire to do battle wanes, but you see a hint of the lust for glory in the recipient's eyes.</b>
+	
+The heroics spell temporarily grants the subject a feat from the fighter's bonus feat list. For the duration of the heroics spell, the subject can use the feat as if it were one of those the creature had selected. All prerequisites for the feat must be met by the target of this spell.
+	
+Material Component: A bit of a weapon or armor that has been used in combat by a fighter of at least 15th level.
+   

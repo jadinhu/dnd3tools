@@ -1,0 +1,19 @@
+<b>Roots of the Mountain</b>(Tome of Battle: The Book of Nine Swords, p. 84)
+
+Stone Dragon (Stance)
+ <b>Level:</b>  Crusader 3,  Swordsage 3,  Warblade 3,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You crouch and set your feet flat on the ground, rooting yourself to the spot you stand. Nothing can move you from this place.</b>
+	
+Like a living mountain, you choose your position on the battlefield and sink your roots into the earth. With your spot chosen on the field, you cannot be shifted from your position.
+	
+While you are in this stance, you gain a +10 bonus on checks to resist bull rush, overrun, and trip attacks, as well as on grapple checks made to resist an opponent?s grapple attempt. Any creature
+that attempts to move through your threatened area or the space you occupy takes a ?10 penalty on any Tumble checks it makes. This stance also grants you damage reduction 2/?.
+	
+This stance immediately ends if you move more than 5 feet for any reason, such as from a bull rush attack, a telekinesis spell, and so forth.<   

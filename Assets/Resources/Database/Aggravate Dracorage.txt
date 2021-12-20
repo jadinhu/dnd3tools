@@ -1,0 +1,24 @@
+<b>Aggravate Dracorage</b>(Dragons of Faerun)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One dragon
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+The ancient words are no sooner spoken than you behold the twinkling fire within the dragon's eyes flare into a conflagration.
+This spell fuels the Dracorage for a short period.
+It causes the target to instantly and fully succumb to the Dracorage, shifting the target's attitude toward nondragons to hostile and instilling in the dragon a bloodthirsty desire to murder and wreak havoc.
+This usually causes the dragon (even a good metallic dragon) to immediately attack all nondragons nearby.
+Because aggravate Dracorage manipulates the existing Dracorage mythal, the Will save against the spell is 4 higher than normal and has a DC of 18 + the appropriate ability modifier.
+(Nevertheless, many casters of the spell will use subterfuge to trick the target dragon into allowing the spell to be cast freely upon it, thereby avoiding the dragon's high Will save bonus).
+As with the Dracorage mythal itself, this spell ignores a dragon's spell resistance.
+Aggravate Dracorage functions only during the period of the Dracorage and has no effect on dragons at other times.
+This spell counters or dispels abate Dracorage.
+Origin: As part of his research to control the Dracorage mythal, Sammaster (the once-human lich) crafted aggravate Dracorage and shared it with his most loyal minions.
+   

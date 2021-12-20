@@ -1,0 +1,17 @@
+<b>Second Wind</b>(Spell Compendium, p. 182)
+
+Transmutation
+ <b>Level:</b>  Paladin 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous and 1 hour/level; see text
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You feel slightly winded but energized, as if having just run a long distance but knowing you could run farther. When touching the spell's intended recipient, your breathing returns to normal but you note the spell's subject heaves a deep, refreshing breath.</b>
+	
+This spell removes fatigue from a subject and provides a +4 bonus on Constitution checks for the duration of the spell. If the subject creature is exhausted when you cast this spell, its condition is improved to fatigued.
+ <b>Also appears in</b>   Book of Exalted Deeds     

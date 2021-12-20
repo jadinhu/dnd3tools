@@ -1,0 +1,18 @@
+<b>Shadow Spray</b>(Forgotten Realms Campaign Setting)
+
+Illusion (Shadow)
+ <b>Level:</b>  Telflammar Shadowlord 1,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 5-foot radius burst
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause a multitude of ribbonlike shadows to instantaneously explode outward from the target point.
+Creatures in the area take 2 points of temporary Strength damage, are dazed for 1 round, and suffer a -2 morale penalty on saving throws against fear spells and effects.
+The fear penalty ends when the shadow spray spell does, but the temporary Strength damage is instantaneous.
+Material Component: A handful of black ribbons.
+ <b>Also appears in</b>   Spell Compendium     

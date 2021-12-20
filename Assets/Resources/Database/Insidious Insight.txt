@@ -1,0 +1,19 @@
+<b>Insidious Insight</b>(Races of Eberron, p. 187)
+
+Divination [Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The gnomes of Zilargo use knowledge of any sort as leverage to ensure that their negotiations and social interactions lead to a preferred outcome. Gnome spellcasters developed the insidious insight spell for just this purpose, turning the inner feelings and desires of opposing creatures against them.
+	
+While this spell is in effect, you gain great insight into the target creature's secret motivations and desires, granting you a +10 insight bonus on Bluff, Diplomacy, Intimidate, and Sense Motive checks made against it.
+	
+-Special:_ Gnome spellcasters cast this spell at +1 caster level.
+   

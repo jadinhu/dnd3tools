@@ -1,0 +1,20 @@
+<b>Dragonsight</b>(Draconomicon)
+
+Transmutation
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+You gain the visual acuity of a dragon, including low-light vision, darkvision, and blindsense.
+You can see four times as well as a normal human in lowlight conditions and twice as well in normal light.
+(See the Dragon Sight sidebar, page 17).
+Your darkvision has a range of 10 feet per caster level.
+Your blindsense has a range of 5 feet per caster level.
+You do not need to make Spot or Listen checks to notice creatures within range of your blindsense.
+None of these effects stack with any low-light vision, darkvision, or blindsense you may already have.
+Focus: A dragon's eye.
+ <b>Also appears in</b>   Spell Compendium     

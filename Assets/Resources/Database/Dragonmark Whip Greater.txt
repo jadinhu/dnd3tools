@@ -1,0 +1,17 @@
+<b>Dragonmark Whip, Greater</b>(Dragonmarked, p. 151)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>S, Dragonmark
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Effect:</b> One 10-foot-long whip
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As a <b>dragonmark whip</b>, except that the whip has a reach of 20 feet, deals up to 1d8+20 points of damage, and can be used to deliver touch spells of 7th level or lower.
+	
+<b>Dragonmark:</b> Any greater true or aberrant dragonmark, or any Siberys dragonmark.
+   

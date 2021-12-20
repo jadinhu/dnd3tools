@@ -1,0 +1,22 @@
+<b>Call Kolyarut</b>(Planar Handbook)
+
+Conjuration (Calling) [Lawful]
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One called kolyarut
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+By casting this spell, you request the aid of a kolyarut inevitable.
+If you know an individual kolyarut's name, you may request that individual by speaking the name during the spell (though you might get a different creature, anyway).
+You may ask the kolyarut to perform one duty for you.
+The task must be in harmony with its lawful objective, and must take no more than seven days to complete.
+Kolyaruts mete out punishment to those who break bargains and oaths.
+The inevitable does not ask for any payment for the task.
+After seven days, or if asked to do something nonlawful, frivolous, or not focused on its lawful objective, the kolyarut will leave.
+XP Cost: 250 XP.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,23 @@
+<b>Enervating Breath</b>(Draconomicon)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>S, <abbr title="Meta Breath">MB, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your breath weapon
+ <b>Duration:</b> Instantaneous
+
+ 	
+You can modify your breath weapon so that it is laced with negative energy.
+In addition to the normal energy damage your breath weapon deals, creatures that fail their saving throws against the breath weapon gain 2d4 negative levels.
+The modification applies only to the breath produced as part of the casting.
+If the subject gains at least as many negative levels as it has Hit Dice, it dies.
+Each negative level gives a creature the following penalties: -1 penalty on attack rolls, saving throws, skill checks, ability checks, and effective level (for determining the power, duration, DC, and other details of spells or special abilities).
+Additionally, a spellcaster loses one spell or spell slot from her highest available level.
+Negative levels stack.
+Assuming the subjects survive, they regain lost levels after a number of hours equal to your caster level.
+Ordinarily, negative levels have a chance of permanently draining the subject's level, but the negative levels from enervating breath don't last long enough to do so.
+If an undead creature is caught within the breath weapon, it gains 2d4x;5 temporary hit points before taking damage from the breath weapon.
+If not immediately lost, these temporary hit points last for 1 hour.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,19 @@
+<b>Hailstones</b>(Savage Species)
+
+Evocation [Cold]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One frigid globe/five levels
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create frigid globes that strike your enemies.
+You must succeed on a ranged touch attack roll to hit.
+The hailstone deals 5d6 points of cold damage (Reflex save half ).
+If you create extra frigid globes (at 10th level or higher, to a maximum of four globes at 20th level), all globes must be aimed at enemies that are all within 30 feet of each other.
+Material Component: A handful of crystal globes.
+ <b>Also appears in</b>   Spell Compendium     

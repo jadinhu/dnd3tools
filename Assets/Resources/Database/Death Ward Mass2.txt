@@ -1,0 +1,13 @@
+<b>Death Ward, Mass</b>(Spell Compendium, p. 61)
+
+Necromancy
+ <b>Level:</b>  Cleric 8,  Druid 9,    
+<b>Components:</b>V, S, DF, 
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which are more than 30 ft. apart
+
+ 	
+<b>Sensing the spark of life in your allies through your magic, you bolster that spark and protect it from harm.</b>
+	
+This spell functions like <b>death ward</b> (<b>PH</b> 217), except as noted above
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

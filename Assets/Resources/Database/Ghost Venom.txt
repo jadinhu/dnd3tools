@@ -1,0 +1,9 @@
+<b>Ghost Venom</b>(Ghostwalk)
+
+Necromancy [Ectomancy]
+ <b>Level:</b>  Druid 3,  Ranger 3,    
+<b>Components:</b>
+
+ 	
+As poison, except the poison affects only ghosts and other ectoplasmic creatures.
+   

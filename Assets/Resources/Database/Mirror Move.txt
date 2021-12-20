@@ -1,0 +1,69 @@
+<b>Mirror Move</b> (Web Article 3.0)
+
+Transmutation
+<b>Level:</b> Brd 2, Sor/Wiz 2
+<b>Components:</b> V, S, M
+<b>Casting Time:</b> 1 action
+<b>Range:</b> Personal
+<b>Target:</b> You
+<b>Duration:</b> 1 minute/level
+
+Mirror move allows you to reproduce any general feat with an obvious physical effect that you observed another perform within the past 10 rounds, providing you meet the prerequisites for that feat.
+
+For example, Mialee is proficient with the shortbow but does not possess the Point Blank Shot feat. However, she can watch Soveliss perform the feat, then, using mirror move, she can mimic his Point Blank Shot feat to better attack an orc advancing on her. When the spell dissipates, Mialee can no longer access this feat (unless she later acquires it herself or recasts mirror move for the same effect).
+
+With a single casting, you may mirror move a number of feats equal to your Intelligence bonus, but always at least one. That is, a caster with an Intelligence of 10 can mirror one feat, while a caster with 18 Intelligence can mirror up to four feats with a single use of the spell. The effects of multiple castings of mirror move do not stack. Each new casting wipes out the previous one.
+
+You can mirror move the following feats:
+
+Ambidexterity
+Combat Casting
+Combat Reflexes
+Dodge
+Mobility
+Spring Attack
+Exotic Weapon Proficiency
+Expertise
+Improved Disarm
+Improved Trip
+Whirlwind Attack
+Improved Critical
+Improved Initiative
+Improved Unarmed Strike
+Deflect Arrows
+Stunning Fist
+Lightning Reflexes
+Martial Weapon Proficiency
+Mounted Combat
+Mounted Archery
+Trample
+Ride-By Attack
+Spirited Charge
+Point Blank Shot
+Far Shot
+Precise Shot
+Rapid Shot
+Shot on the Run
+Power Attack
+Cleave
+Improved Bull Rush
+Sunder
+Great Cleave
+Quick Draw
+Run
+Shield Proficiency
+Simple Weapon Proficiency
+Two-Weapon Fighting
+Improved Two-Weapon Fighting
+Weapon Finesse
+Weapon Focus
+The DM may allow mirroring of feats from sources other than the Player's Handbook, as long as they are feats with observable physical effects.
+
+Spellcasters who do not meet the prerequisite(s) for the feat they wish to mirror can sometimes find clever ways around this limitation. For example, Mialee has the Improved Unarmed Strike feat but a Dexterity of only 11. She casts cat's grace on herself, receiving 2 additional Dexterity points for a 13 Dexterity. She then casts mirror move, adopting Ember's Deflect Arrows feat. When mirror move dissipates, Mialee retains her heightened Dexterity until her cat's grace spell ends but she loses access to Deflect Arrows. If she somehow lost the effects of cat's grace before the end of mirror move’s duration, she would lose access to the Deflect Arrows feat.
+
+One interesting note about mirror move is that the spell conveys all the nuances of the mirrored character's style. Using the previous example, Mialee not only gains the ability to Deflect Arrows but the arcane power results in her deflecting arrows exactly as Ember would do it. Although Ember may not be with Mialee when she cast the mirror move spell, anyone familiar with Ember's style (for instance, a lifelong enemy or former trainer) may recognize that Mialee's arrow deflection is actually borrowed from Ember. Anyone familiar with Ember's defensive style should be allowed a Spot check (DC 15) to recognize the similarities.
+
+It's worth noting that Item Creation Feats and Special Feats can not be duplicated by mirror move. Likewise, Metamagic Feats are too subtle and/or complex to be mirrored.
+
+Material Component: Any reflective surface, including highly polished shields or armor and even surfaces of water, can be used for this spell. Many spellcasters carry small mirrors with them for material components.
+   

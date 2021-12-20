@@ -1,0 +1,17 @@
+<b>Mind Bond</b>(Book of Exalted Deeds)
+
+Divination
+ <b>Level:</b>  Paladin 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Special mount
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You temporarily strengthen the mental bond with your special mount, allowing you and your special mount to predict each other's movements and gain a significant edge in combat.
+You and your mount gain a +4 flanking bonus on attack rolls (instead of +2) when the two of you are flanking the same opponent.
+Furthermore, your mount gains a +1 competence bonus on attack rolls for every three paladin levels you possess (maximum +5) for the duration of the spell as long as it remains within the spell's range.
+   

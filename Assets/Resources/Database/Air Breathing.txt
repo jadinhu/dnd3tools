@@ -1,0 +1,18 @@
+<b>Air Breathing</b>(Champions of Ruin)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Duration:</b> 2 hours/level; see text
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The transmuted creatures can breathe air freely.
+Divide the duration evenly among all the creatures you touch.
+The spell does not make creatures unable to breathe water.
+Air breathing dispels and counters water breathing.
+Arcane Material Component: A short reed or piece of straw.
+ <b>Also appears in</b>   Stormwrack  Savage Species  Spell Compendium     

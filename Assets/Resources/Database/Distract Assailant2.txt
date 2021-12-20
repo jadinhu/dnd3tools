@@ -1,0 +1,19 @@
+<b>Distract Assailant</b>(Spell Compendium, p. 69)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Assassin 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Buzzing under your breath like a fly, you swat at the sky and toss the fly's wing in your hand into the air. The target of your spell becomes distracted, starting at shadows and looking about for unseen assailants.</b>
+	
+A creature affected by this spell is flat-footed until the beginning of its next turn.
+	
+<b>Material Component:</b> The dried wing of a fly.
+ <b>Also appears in</b>   Complete Adventurer     

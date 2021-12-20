@@ -1,0 +1,19 @@
+<b>Hallucinatory Terrain</b>(Player's Handbook v.3.5, p. 238)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 4,  Sorcerer 4,  Wizard 4,  Vigilante 4,  Sha'ir 4,   Gnome 5,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> One 30-ft. cube/level (S)
+ <b>Duration:</b> 2 hours/level (D)
+ <b>Saving Throw:</b> Will disbelief (if interacted with)
+ <b>Spell Resistance:</b> No
+
+ 	
+You make natural terrain look, sound, and smell like some other sort of natural terrain.
+Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain.
+A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.
+Structures, equipment, and creatures within the area are not hidden or changed in appearance.
+Material Component: A stone, a twig, and a bit of green plant.
+   

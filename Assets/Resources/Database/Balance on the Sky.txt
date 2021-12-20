@@ -1,0 +1,19 @@
+<b>Balance on the Sky</b>(Tome of Battle: The Book of Nine Swords, p. 75)
+
+Shadow Hand (Stance)
+ <b>Level:</b>  Swordsage 8 (Three Shadow Hand maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>With arms spread wide, you step onto the air.</b>
+	
+You gain the ability to use <b>air walk</b> (PH 196) on yourself only. You must keep at least one hand empty while using this stance. Moving upward requires you to spend 10 feet of movement for each 5 feet of elevation you gain.
+	
+You gain the benefit of <b>air walk</b> only while you maintain this stance. If for some reason your stance ends while you are in midair, you fall to the ground.
+	
+This stance is a supernatural ability.
+   

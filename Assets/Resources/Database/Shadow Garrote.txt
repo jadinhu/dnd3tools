@@ -1,0 +1,17 @@
+<b>Shadow Garrote</b>(Tome of Battle: The Book of Nine Swords, p. 78)
+
+Shadow Hand (Strike)
+ <b>Level:</b>  Swordsage 3,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Target:</b> One living creature
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+<b>With a subtle gesture, you carve a slice of shadow from the air around you and cast it toward your foe. It wraps around the creature?s neck and squeezes the life from it.</b>
+	
+As part of this maneuver, you create a strand of shadow that you hurl at an opponent. The strand wraps around the target?s throat and chokes it. As part of this maneuver, you make a ranged touch attack against a creature within range. If your attack is successful, your opponent takes 5d6 points of damage. In addition, it must make a successful Fortitude save (DC 13 + your Wis modifier) or become flat-footed until the start of its next turn. This strike has no effect against nonliving creatures, such as constructs and undead.
+	
+This maneuver is a supernatural ability.</   

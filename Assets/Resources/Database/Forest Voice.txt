@@ -1,0 +1,21 @@
+<b>Forest Voice</b>(Complete Champion)
+
+Transmutation [Language-Dependent]
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Unlimited
+ <b>Target:</b> Two plants of the same kind, one of which must be in physical contact with you
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You touch the leaves and speak, and your comrade answers you through the plant.
+Upon casting this spell, you can touch a normal, Medium or larger plant or tree and designate another of the same kind.
+You can then carry on a conversation with anyone who is within 10 feet of the destination plant.
+Your conversation is as clear as it would be if you stood within 10 feet of one another.
+The plants cannot, however, transmit magical sonic effects.
+Both plants must be alive to allow use of this spell.
+You can either select a particular destination plant that is already familiar to you, or designate direction and distance and let the forest voice find the appropriate type of plant nearest to the desired location.
+   

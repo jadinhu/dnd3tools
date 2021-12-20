@@ -1,0 +1,18 @@
+<b>Chain of Eyes</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Divination
+ <b>Level:</b>  Cleric 3,  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You can use a creature's vision instead of your own.
+While this spell gives you no control over the creature, each time it comes into physical contact with another living being, you can choose to transfer your sensor to the new creature.
+In this way, your sensor can infiltrate a closely guarded area.
+During your turn in a round, you can use a free action to switch from seeing through the current creature's eyes to seeing normally or back again.
+ <b>Also appears in</b>   Complete Divine     

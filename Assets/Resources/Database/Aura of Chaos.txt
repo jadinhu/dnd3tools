@@ -1,0 +1,15 @@
+<b>Aura of Chaos</b>(Tome of Battle: The Book of Nine Swords, p. 57)
+
+Devoted Spirit (Stance) [Chaos]
+ <b>Level:</b>  Crusader 6 (Two Devoted Spirit maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>A coruscating aura of purple energy surrounds you as chaos runs rampant in the area immediately around you.</b>
+	
+While you are in this stance, your attacks have the potential to be utterly devastating. When rolling damage for a melee attack, you gain a special benefit from any damage die that rolls its maximum amount (such as a result of 6 on a d6). When one or more of your damage dice show a maximum possible result, reroll each such die and add its result to the original damage total. You can continue to reroll as long as a die shows its maximum possible result, adding each new number to the damage total until each die has shown less than a maximum result.
+   

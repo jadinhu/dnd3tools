@@ -1,0 +1,17 @@
+<b>Touch of Madness</b>(Spell Compendium, p. 221)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>   Madness 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your hand glows with roiling purple light as you reach out to deliver lunacy with your touch.</b>
+	
+You can cause one living creature to become dazed by making a successful touch attack. If the target creature does not make a successful Will save, its mind is clouded and it takes no actions for 1 round per caster level.
+ <b>Also appears in</b>   Eberron Campaign Setting     

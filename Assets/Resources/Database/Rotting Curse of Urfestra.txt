@@ -1,0 +1,17 @@
+<b>Rotting Curse of Urfestra</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>    Corrupt 3  
+<b>Components:</b>V, S, Corrupt, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject's flesh and bones begin to rot.
+The subject takes 1d6 points of Constitution damage immediately, and a further 1d6 points of Constitution damage every hour until the subject dies or the curse is removed with a wish,miracle, or remove curse spell.
+Corruption Cost: 1d6 points of Strength damage.
+   

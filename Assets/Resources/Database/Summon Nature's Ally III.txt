@@ -1,0 +1,17 @@
+<b>Summon Nature's Ally III</b>(Player's Handbook v.3.5, p. 288)
+
+Conjuration (Summoning) [see text]
+ <b>Level:</b>  Druid 3,  Ranger 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>summon nature's ally I</b>, except that you can summon one 3rd-level creature, 1d3 2nd-level creatures of the same kind, or 1d4+1 1st-level creatures of the same kind.
+	
+When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type. For example, <b>summon nature's ally III</b> is an evil and fire spell when you cast it to summon a salamander.
+	<b>3RD <span class="caps">LEVEL</span></b>	<table>		<tr>			<td> Ape (animal) </td>		</tr>		<tr>			<td> Dire weasel </td>		</tr>		<tr>			<td> Dire wolf </td>		</tr>		<tr>			<td> Eagle, giant [NG] </td>		</tr>		<tr>			<td> Lion </td>		</tr>		<tr>			<td> Owl, giant [NG] </td>		</tr>		<tr>			<td> Satyr [CN; without pipes] </td>		</tr>		<tr>			<td> Shark, Large <sup>1</sup> (animal) </td>		</tr>		<tr>			<td> Snake, constrictor (animal) </td>		</tr>		<tr>			<td> Snake, Large viper (animal) </td>		</tr>		<tr>			<td> Thoqqua </td>		</tr>		<tr>			<td> <sup>1</sup> may be summoned only into an aquatic or watery environment </td>		</tr>	</table>   

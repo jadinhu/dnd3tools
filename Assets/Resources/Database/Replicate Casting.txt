@@ -1,0 +1,19 @@
+<b>Replicate Casting</b>(Spell Compendium, p. 173)
+
+Transmutation [see text]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round; see text
+ <b>Range:</b> See text
+ <b>Effect:</b> One spell or spell-like ability
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> See text
+
+ 	
+<b>The enemy mage raises her hands, and a cone of swirling, multicolored winds appears at her fingertips. Then she laughs and says, &quot;Can you do that?&quot; You smile and reply, &quot;I can now.&quot;</b>
+	
+You duplicate the effect of any one spell or spell-like ability you have seen within the last round. This spell can duplicate only spells and spell-like abilities of 8th level or lower. This duplication functions like the ability of a <b>wish</b> spell to duplicate another spell, except that it is not limited by type of spell (divine or arcane) or by what school the effect is from. If the casting time of the spell you observed is greater than 1 round, the casting time of this spell is increased to the same.
+	
+A duplicated spell or spell-like ability functions as if you had the appropriate spell prepared and were casting it yourself. If the spell or ability has an XP cost, you must pay that XP cost. If the spell has a costly material component, you must provide that component or pay an additional XP cost equal to the gold piece value of that component divided by 5.
+   

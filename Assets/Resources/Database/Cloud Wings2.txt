@@ -1,0 +1,17 @@
+<b>Cloud Wings</b>(Spell Compendium, p. 49)
+
+Transmutation
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>As you touch the subject, mist forms crude wings that cling to his back.</b>
+	
+This spell increases the subject's fly speed by 30 feet. It has no effect on other modes of movement, nor does it allow the subject to fly if it cannot already do so.
+ <b>Also appears in</b>   Savage Species     

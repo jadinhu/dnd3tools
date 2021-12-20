@@ -1,0 +1,17 @@
+<b>Vigor, Mass Lesser</b>(Complete Divine)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 3,  Druid 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft.
+ <b>Target:</b> One creature/two levels, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 10 rounds + 1 round/level (max 25 rounds)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You invoke healing energy over a group of creatures, granting each the fast healing ability for the duration of the spell. Each subject heals 1 hit point per round of such damage until the spell ends and is automatically stabilized if he or she begins dying from hit point loss during that time. Mass lesser vigor does not restore hit points lost from starvation, thirst, or suffocation, nor does it allow a creature to regrow or attach lost body parts.
+	
+The effects of multiple vigor spells do not stack; only the highest-level effect applies. Applying a second vigor spell of equal level extends the first spell's duration by the full duration of the second spell.
+ <b>Also appears in</b>   Spell Compendium     

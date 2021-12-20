@@ -1,0 +1,32 @@
+<b>Ice Rift</b>(Frostburn)
+
+Evocation [Cold]
+ <b>Level:</b>  Cleric 6,  Druid 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 40-ft.-radius spread (S)
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast ice rift, an intense but highly localized tremor rips through the ice.
+The shock knocks creatures down, collapses structures, opens cracks in the ice, and more.
+The effect lasts for 1 round, during which time creatures on the ice can't move or attack.
+A spellcaster on the ice must make a Concentration check (DC 20 + spell level) or lose any spell he or she tries to cast.
+The ice rift affects all terrain, vegetation, structures, and creatures in the area.
+The specific effect of an ice rift spell depends on the nature of the terrain where it is cast.
+Ice or Snow Cave, Cavern, or Tunnel: The spell collapses the roof, dealing 8d6 points of bludgeoning damage to any creature caught under the cave-in (Reflex DC 15 half ) and burying that creature in snow.
+An ice rift cast on the roof of a very large ice or snow cavern could also endanger those outside the actual area but below the falling debris.
+Edge of a Glacier: Ice rift causes a glacier's edge to crumble, creating a landslide that travels horizontally as far as it fell vertically.
+An ice rift cast at the top of a 100-foot glacier would sweep debris 100 feet outward from the base of the glacier.
+Any creature in the path takes 8d6 points of bludgeoning damage (Reflex DC 15 half ) and is pinned beneath rubble (see below).
+Open Glacier: Each creature standing in the area must make a DC 15 Reflex save or fall down.
+Fissures open in the ice, and every creature on the ice has a 25% chance to fall into one (Reflex DC 20 to avoid a fissure).
+At the end of the spell, all fissures grind shut, killing any creatures still trapped within.
+Frozen Water: Fissures open in the ice, and every creature on the ice has a 25% chance to fall into the freezing water (Reflex DC 20 to avoid a fissure).
+Characters who fall into a fissure are immediately subject to hypothermia and take 2d6 points of cold damage from the frigid water.
+At the end of the spell, all rents in the ice grind shut, sealing any creatures in the icy water beneath (for additional rules on characters in cold water, see Hypothermia, page 10).
+Arcane Material Component: A bit of earth and a pinch of snow.
+   

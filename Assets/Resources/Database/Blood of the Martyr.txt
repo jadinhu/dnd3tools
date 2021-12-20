@@ -1,0 +1,20 @@
+<b>Blood of the Martyr</b>(Book of Exalted Deeds)
+
+Necromancy (Healing) [Good]
+ <b>Level:</b>  Apostle of Peace 4,  Champion of Gwynharwyf 4,  Cleric 4,  Paladin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Willing creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You may transfer your own hit points directly to a target creature within range.
+You must transfer at least 20 points.
+Transferred hit points are damage to you.
+The creature takes your transferred hit points as if receiving a cure wounds spell and cannot gain more hit points than its maximum allows; any excess points are lost.
+This spell transfers only actual hit points, not temporary hit points.
+An unconscious target is considered a &quot;willing creature&quot; for purposes of this spell.
+   

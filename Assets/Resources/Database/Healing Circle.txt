@@ -1,0 +1,20 @@
+<b>Healing Circle</b>(Complete Champion)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 5,  Nentyar Hunter 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level or until discharged
+
+ 	
+A circle of warm comfort emanates from you, enveloping those who enter in positive energy.
+By casting this spell, you create an aura of healing energy upon which your allies can draw to mend their own wounds.
+The spell has five charges when cast.
+Once per round as a standard action, a single allied creature within 30 feet can drain one charge from the healing circle.
+The first charge so drained functions as a cure critical wounds spell, the second as a cure serious wounds spell, the third as a cure moderate wounds spell, and the fourth as a cure light wounds spell, and the final charge heals only 5 points of damage.
+A creature must be conscious to draw a charge from the healing circle.
+The spell effect delivered by each charge functions as if you had personally cast the associated spell.
+Thus, the first charge heals 4d8 points of damage +1 point per caster level (maximum +20), and so on.
+   

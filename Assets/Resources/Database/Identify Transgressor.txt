@@ -1,0 +1,21 @@
+<b>Identify Transgressor</b>(Book of Vile Darkness)
+
+Divination [Evil]
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, Drug, Location
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> Instantaneous
+
+ 	
+The caster is able to divine the answer to a single question, as long as the answer is a single person's name.
+Thus, the question must be a &quot;who?&quot; type question.
+For example, &quot;Who broke into the temple last night and stole the wand of inflict moderate wounds?&quot; Questions that cannot be answered with a single name are not answered at all.
+The base chance for a correct answer is 70% + 1% per caster level.
+The DM adjusts the chance if unusual circumstances require it (precautions against divination spells have been taken, for example).
+The caster knows if he didn't get a correct answer, unless specific magic yielding false information is at work.
+As with augury or divination, multiple identify transgressor spells about the same question by the same caster use the same die roll result as the first spell and yield the same answer each time.
+Drug Component: Vodare.
+Location Component: An area under the effect of a desecrate or unhallow spell.
+   

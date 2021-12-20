@@ -1,0 +1,21 @@
+<b>Ice Blast</b>(Oriental Adventures)
+
+Evocation [Cold]
+ <b>Level:</b>  Wu Jen 2 (Water),    
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Cone
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you spit forth a cone of icy crystals, engulfing creatures within a cone area.
+Affected creatures are covered with a thin layer of ice, taking 1d6 points of subdual damage per two caster levels (maximum of 10d6).
+In addition, creatures suffer from a temporary frostbite condition, making them fatigued.
+Fatigued creatures cannot run or charge and suffer a -2 effective penalty to Strength and Dexterity.
+The frostbite effect lasts 3 rounds.
+A successful Fortitude save negates both the subdual damage and the frostbite effect.
+Material Component: A mouthful of water.
+ <b>Also appears in</b>   Complete Arcane     

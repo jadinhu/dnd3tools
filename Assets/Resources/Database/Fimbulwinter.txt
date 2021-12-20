@@ -1,0 +1,18 @@
+<b>Fimbulwinter</b>(Frostburn, p. 93)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 8,  Sorcerer 8,  Wizard 8,  Cleric 9,   Winter 9,   
+<b>Components:</b>V, S, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes (see text)
+ <b>Range:</b> 1 mile/level
+ <b>Area:</b> 1 mile/level radius, centered on you
+ <b>Duration:</b> 4d12 weeks
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You change the weather to a state of permanent winter, or strengthen winter conditions already present. It takes 10 minutes to cast the spell and an additional 10 minutes for the effects to manifest themselves. The current, natural weather conditions are determined by the DM. You then choose what wintry conditions you want to manifest; the strength of the winter depends on the existing climate and season of the area.
+	<table>		<tr>			<th>Season </th>			<th>Possible Weather </th>		</tr>		<tr>			<td> Spring </td>			<td> Frequent snowfall, nightly frost </td>		</tr>		<tr>			<td> Summer </td>			<td> Light snow, hailstorms, cold rain, cloudy </td>		</tr>		<tr>			<td> Autumn </td>			<td> Frequent snowfall, frost </td>		</tr>		<tr>			<td> Winter </td>			<td> Frigid cold, blizzard, and constant snowfall </td>		</tr>	</table>	
+Daily wind and snowfall during a fimbulwinter are determined using the table below. Add +8 to the roll when cast during winter, +4 in spring or autumn, ?2 in summer, +2 for a cold climate, ?2 for temperate climate, and ?6 for hot climate. Roll separately for wind and snow. The snow and wind shown are the maximum possible for the day; at your option, there can be less wind or snow.
+	<table>		<tr>			<th>d20 Roll </th>			<th>Amount of Snowfall </th>			<th>Amount of Wind </th>		</tr>		<tr>			<td> 0 or less </td>			<td> 1d12 inches of snowfall melt </td>			<td> Weak (0?10 mph) </td>		</tr>		<tr>			<td> 1 � ;5 </td>			<td> No new snow </td>			<td> Weak (0?10 mph) </td>		</tr>		<tr>			<td> 6 � ;10 </td>			<td> 1d4?1 inches snow </td>			<td> Moderate (11+ mph) </td>		</tr>		<tr>			<td> 11 � ;15 </td>			<td> 1d8 inches snow or 1 inch hail </td>			<td> Moderate (11+ mph) </td>		</tr>		<tr>			<td> 16 � ;20 </td>			<td> 1d12 inches snow </td>			<td> Strong (21+ mph) </td>		</tr>		<tr>			<td> 21 � ;25 </td>			<td> 2d12+4 inches snow </td>			<td> Strong (21+ mph) </td>		</tr>		<tr>			<td> 26+ </td>			<td> 1d6+1 feet of snow </td>			<td> Very strong (31+ mph) </td>		</tr>	</table>	
+You control the general tendencies of the weather, such as the direction and intensity of the wind. When you select a certain weather condition to occur, the weather assumes that condition 10 minutes later (changing gradually, not abruptly). The weather continues as you left it for the duration, or until you use a standard action to designate a new kind of weather (which fully manifests itself 10 minutes later). XP Cost: 100 X   

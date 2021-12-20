@@ -1,0 +1,27 @@
+<b>Portal Alarm</b>(Spell Compendium, p. 160)
+
+Abjuration
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One interplanar gate or portal
+ <b>Duration:</b> 2 hours/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You cast a tiny bell at the portal, and it rings as you finish the last gesture of the spell. With the completion of the spell, the bell vanishes in midair, but it continues to ring for a few moments more.</b>
+	
+Portal alarm sounds a mental or audible alarm each time a creature of Tiny or larger size passes through the magic gate or portal the spell is cast upon. You decide at the time of casting whether the portal alarm will be mental or audible.
+	
+<b>Mental Alarm:</b> A mental alarm alerts you (and only you) as long as you remain within 1 mile of the warded area and on the same plane. You notice a mental tremor that would awaken you from a normal sleep but does not otherwise disturb concentration (it would not interfere with spellcasting). A silence spell has no effect on a mental alarm.
+	
+<b>Audible Alarm:</b> An audible portal alarm produces the sound of a hand bell, buzzer, or other similar repeating sound that can be heard clearly up to 60 feet away, and it pierces closed doors and extends onto other planes. The ringing can be heard faintly up to 180 feet away and lasts for 1 round. Creatures within the area of a silence spell cannot hear the ringing, and if the portal itself is within the area of a silence spell, no alarm is sounded.
+	
+Ethereal and astral creatures trigger a portal alarm if they pass through the portal.
+	
+You can set a portal alarm with a password, determined at the time of the casting, and this password can be discerned with the <b>analyze portal</b> spell (page 10). Those speaking the password before passing through the portal do not set off the alarm.
+	
+Material Component: A tiny bell.
+ <b>Also appears in</b>   Manual of the Planes     

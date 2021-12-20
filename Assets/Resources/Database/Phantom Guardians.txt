@@ -1,0 +1,21 @@
+<b>Phantom Guardians</b>(Races of Destiny)
+
+Illusion (Figment)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One illusory figure/level
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will disbelief (if interacted with)
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates the illusion of one or more Small or Medium figures of a chosen humanoid race.
+Each figure is effectively a minor image, and can appear dressed in any way the caster chooses.
+When the spell is cast, each figure is given a brief set of orders to follow for the spell's duration, such as &quot;walk back and forth along that wall&quot; or &quot;stand by this gate&quot;.
+The orders can be different for each figure.
+These instructions can't be changed later.
+The illusory figures can't speak or react to their surroundings � ;they are typically used to scare off would-be intruders (as the spell's name suggests).
+Material Component: A piece of charcoal.
+   

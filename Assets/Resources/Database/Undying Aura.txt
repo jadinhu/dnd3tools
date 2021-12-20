@@ -1,0 +1,21 @@
+<b>Undying Aura</b>(Magic of Eberron, p. 103)
+
+Transmutation
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 minute/level or until discharged
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Undying aura wreathes the target creature in a golden shield of positive energy, granting it immunity to death effects, energy drain effects, and any negative energy effects (such as from chill touch or an inflict spell).
+	
+Any time during the spell's duration, the target can release the power of the aura by making a melee touch attack against an undead creature. On a successful attack, the aura pulses angrily as it tears apart the negative energy sustaining the creature, dealing 1d6 points of damage per caster level (maximum 15d6) and dazing it for 1 round. A successful Will save halves the damage and negates the daze effect. Since the spell utilizes positive energy to deal damage, incorporeal creatures do not benefit from the normal miss chance for incorporeality. Using the touch attack ends the spell's duration.
+	
+A deathless creature (see page 275 of the <span class="caps">EBERRON</span> Campaign Setting) targeted by the touch attack power of this spell is instead healed of 1d6 points of damage per caster level (maximum 15d6). Some suggest that this indicates the spell was originally designed by the Aereni, and the name of the spell seems to support this claim.
+	
+<b>Focus:</b> A clear spar of crystal worth 500 gp.
+   

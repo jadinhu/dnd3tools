@@ -1,0 +1,20 @@
+<b>Stormrunner's Ward</b>(Stormwrack)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> One ship
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You ward a single ship against foundering and storm damage, making it easier to sail in dangerous weather.
+You add a +4 bonus on any checks made to sail in severe winds, windstorms, or gales.
+You also add this bonus to foundering checks and capsizing checks for that ship.
+This bonus improves by +1 per 4 caster levels, to a maximum of +8.
+The stormrunner's ward does nothing to protect the crew from the winds and green water that might roll over the side of the ship.
+Material Component:Handful of copper powder.
+   

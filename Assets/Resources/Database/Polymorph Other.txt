@@ -1,0 +1,55 @@
+<b>Polymorph Other</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Fortitude negates (and see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Polymorph other changes the subject into another form of creature.
+The new form can range in size from Diminutive to one size larger than the subject's normal form, and can have no more Hit Dice than you have, or that the subject has (whichever is greater), and in any case the assumed form cannot have more than 15 Hit Dice.
+You cannot change subjects into constructs, elementals, outsiders, or undead unless they already are one of these types.
+Upon changing, the subject regains lost hit points as if having rested for a day (though this healing does not restore temporary ability damage and provide other benefits of resting for a day; and changing back does not heal the creature further).
+If slain, the polymorphed creature reverts to its original form, though it remains dead.
+The polymorphed creature acquires the physical and natural abilities of the creature it has been polymorphed into while retaining its own mind.
+Physical abilities include natural size and Strength, Dexterity, and Constitution scores.
+Natural abilities include armor, natural weapons (such as claws, bite, swoop and rake, and constriction; but not petrification, breath weapons, energy drain, energy effects, etc.), and similar gross physical qualities (presence or absence of wings, number of extremities, etc.).
+A body with extra limbs does not allow a character to make more attacks (or more advantageous two-weapon attacks) than normal.
+Natural abilities also include mundane movement capabilities, such as walking, swimming, and flight with wings, but not magical flight and other magical forms of travel, such as blink, dimension door, phase door, plane shift,
+teleport, and teleport without error.
+Extremely high speeds for certain creatures are the result of extraordinary or magical ability, so they are not granted by this spell.
+(In general, these abilities include nonflying speeds greater than 60 feet and flying speeds greater than 120 feet).
+Other nonmagical abilities (such as an owl's low-light vision) are considered natural abilities and are retained.
+Any part of the body or piece of equipment that is separated from the whole reverts to its original form.
+The creature's new scores and faculties are average ones for the race or species into which it has been transformed.
+You cannot, for example, turn someone into a mighty weight lifter to give the subject great Strength.
+Likewise, you cannot change the subject into a bigger or more powerful version of a creature (or a smaller, weaker version).
+Nor can you turn the subject into a variant form of the creature.
+For example, you can turn the subject into an ogre, but not a half-dragon ogre.
+The subject retains its Intelligence, Wisdom, and Charisma scores, level and class, hit points (despite any change in its Constitution score), alignment, base attack bonus, and base save bonuses.
+(New Strength, Dexterity, and Constitution scores may affect final attack and save bonuses).
+The subject retains its own type (for example, &quot;humanoid&quot;), extraordinary abilities, spells, and spell-like abilities, but not its supernatural abilities.
+The subject does not gain the supernatural abilities (such as breath weapons and gaze attacks) or the extraordinary abilities of the new creature.
+The subject can cast spells for which it has components.
+It needs a humanlike voice for verbal components and humanlike hands for somatic components.
+The subject does not gain the spell-like abilities of its new form.
+When the polymorph occurs, the creature's equipment, if any, transforms to match the new form.
+If the new form is a creature that does not use equipment (aberration, animal, beast, magical beast, construct, dragon, elemental, ooze, some outsiders, plant, some undead creatures, some shapechangers, or vermin), the equipment melds into the new form and becomes nonfunctional.
+Material components and focuses melded in this way cannot be used to cast spells.
+If the new form uses equipment (fey, giant, humanoid, some outsiders, many shapechangers, many undead creatures), the subject's equipment changes to match the new form and retains its properties.
+You can freely designate the new form's minor physical qualities (such as hair color, hair texture, and skin color) within the normal ranges for a creature of that type.
+The new form's significant physical qualities (such as height, weight, and gender) are also under your control, but must fall within the norms for the new form's species.
+The subject can be changed into a member of its own species or even into itself.
+The subject is effectively disguised as an average member of the new form's race.
+If you use this spell to create a disguise, you get a +10 bonus on your Disguise check.
+Incorporeal or gaseous forms cannot be assumed, and incorporeal or gaseous creatures are immune to being polymorphed.
+A natural shapeshifter (a lycanthrope, doppelganger, experienced druid, etc.).
+can take its natural form as a standard action.
+Material Component: An empty cocoon.
+Note: This version of the spell is now official and supersedes the version presented in the Player's Handbook.
+   

@@ -1,0 +1,15 @@
+<b>Rebuking Breath</b>(Spell Compendium, p. 170)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your breath weapon
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You expel your breath weapon, and it is filled with dancing white sparks that swarm around your foes and freeze them with fear.</b>
+	
+For this spell to function, you must have a breath weapon, either as a supernatural ability or as the result of casting a spell such as <b>dragon breath</b>. When you successfully cast this spell, you imbue your breath weapon with negative energy that rebukes undead in its area. Undead within the area of your breath weapon that fail their saving throws against it cower as if in awe for 1 round.
+ <b>Also appears in</b>   Draconomicon     

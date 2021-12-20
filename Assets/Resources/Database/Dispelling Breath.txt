@@ -1,0 +1,20 @@
+<b>Dispelling Breath</b>(Draconomicon)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>S, <abbr title="Meta Breath">MB, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your breath weapon
+ <b>Duration:</b> Instantaneous
+
+ 	
+Your breath weapon acts as a targeted dispel magic, possibly dispelling magical effects affecting creatures caught in its area.
+The modification applies only to the breath produced as part of the casting.
+For each creature or object that fails its saving throw against your breath weapon and that is the target of one or more spells, you make a dispel check against each ongoing spell currently in effect on the object or creature.
+A dispel check is 1d20 + 1 per caster level (maximum +15) against a DC of 11 + the spell's caster level.
+A creature's magic items are not affected, and creatures and objects that rolled successful saving throws against your breath weapon are likewise not affected.
+If a creature that is the effect of an ongoing spell (such as a monster summoned by monster summoning), is in the area and fails its saving throw against your breath weapon, you can also make a dispel check to end the spell that conjured the creature (returning it whence it came).
+For each ongoing area or effect spell centered within the area of your breath weapon, you make a dispel check to dispel the spell.
+You may choose to automatically succeed on dispel checks against any spell that you have cast.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,23 @@
+<b>Otiluke's Dispelling Screen</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Wall whose area is up to one 10ft. square/level or a sphere or hemisphere with a radius of up to 1 ft./level
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create an opaque, immobile, shimmering screen of violet energy Any creature or unattended object passing through the screen is affected by a targeted dispel magic cast at your caster level (see page 196 of the Player's Handbook).
+You make a dispel check against the spell or against each ongoing spell currently in effect on the object or creature.
+A dispel check is 1d20 +1 per caster level (maximum +10) against a DC of 11+the spell's caster level.
+The screen has no effect on any items a creature carries.
+If an unattended magic item passes through the screen, you make a dispel check against the item's caster level.
+If you succeed, all the item's magical properties are suppressed for 1d4 rounds.
+Spell effects that are not operating on objects or creatures cannot pass through the screen.
+A disintegrate or successful dispel magic spell removes Otiluke's dispelling screen, while an antimagic field suppresses it.
+Material Component: A sheet of fine lead crystal.
+ <b>Also appears in</b>   Complete Arcane     

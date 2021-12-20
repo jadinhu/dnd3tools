@@ -1,0 +1,21 @@
+<b>Mending</b>(Player's Handbook v.3.5, p. 253)
+
+Transmutation
+ <b>Level:</b>  Bard 0,  Urban Druid 0,  Jester 0,  Death Master 0,  Sha'ir 0,  Wu Jen 0,  Court Herald 0,  Healer 0,  Adept 0,  Wizard 0,  Sorcerer 0,  Druid 0,  Cleric 0,  Vigilante 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Target:</b> One object of up to 1 lb.
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+Mending repairs small breaks or tears in objects (but not warps, such as might be caused by a warp wood spell).
+It will weld broken metallic objects such as a ring, a chain link, a medallion, or a slender dagger, providing but one break exists.
+Ceramic or wooden objects with multiple breaks can be invisibly rejoined to be as strong as new.
+A hole in a leather sack or a wineskin is completely healed over by mending.
+The spell can repair a magic item, but the item's magical abilities are not restored.
+(For restoring a broken magic item's abilities, see the item creation feats in Chapter 5: Feats).
+The spell cannot mend broken magic rods, staffs, or wands, nor does it affect creatures (including constructs).
+   

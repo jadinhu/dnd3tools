@@ -1,0 +1,10 @@
+<b>Minor Image</b>(Player's Handbook v.3.5, p. 253)
+
+Illusion (Figment)
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,  Vigilante 2,  Beguiler 2,  Wu Jen 2,  Sha'ir 2,  Jester 2,  Court Herald 2,   Creation 2,  Illusion 2,  Gnome 3,   
+<b>Components:</b>
+ <b>Duration:</b> Concentration +2 rounds
+
+ 	
+This spell functions like silent image, except that minor image includes some minor sounds but not understandable speech.
+   

@@ -1,0 +1,10 @@
+<b>Deep Slumber</b>(Player's Handbook v.3.5, p. 217)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Assassin 3, Bard 3,  Sorcerer 3,  Wizard 3,  Beguiler 3,  Death Delver 3,  Sha'ir 3,  Death Master 3,   Dream 3,  Sloth 3,   
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+
+ 	
+This spell functions like sleep, except that it affects 10 HD of creatures.
+   

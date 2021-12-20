@@ -1,0 +1,19 @@
+<b>Duelward</b>(Spell Compendium, p. 74)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level or until discharged (D)
+
+ 	
+<b>The air around you crackles with magical energy as you finish uttering the last syllables of the spell's formula. You immediately feel as if your link to the arcane somehow has increased, filling you with confidence and a sense of security.</b>
+	
+While a <b>duelward</b> spell is in effect, counterspelling is an immediate action for you, allowing you to counterspell even when it is not your turn without having previously readied an action. You also gain a +4 competence bonus on Spellcraft checks made to identify spells being cast.
+	
+The first time you succesfully counterspell while the spell is in effect (whether you conterspell as an immediate action or not), <b>duelward</b> is discharged.
+	
+<b>Material Component:</b> A miniature silk glove.
+ <b>Also appears in</b>   Complete Arcane     

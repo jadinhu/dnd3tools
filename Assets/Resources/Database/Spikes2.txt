@@ -1,0 +1,15 @@
+<b>Spikes</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Druid 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Wooden weapon touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+As brambles, except that the affected weapon gains a +2 enhancement bonus on its attacks, and its threat range is doubled.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

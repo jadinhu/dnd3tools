@@ -1,0 +1,9 @@
+<b>Consumptive Field, Greater</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy [Death, Evil]
+ <b>Level:</b>  Cleric 7,    
+<b>Components:</b>
+
+ 	
+This spell functions like consumptive field, except that the field affects all creatures in the area with 9 hit points or fewer that fail their saving throw die, and creatures that fall to 9 hit points or lower in the area after the spell is cast are likewise subject to its effect.
+ <b>Also appears in</b>   Spell Compendium     

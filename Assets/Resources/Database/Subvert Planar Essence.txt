@@ -1,0 +1,21 @@
+<b>Subvert Planar Essence</b>(Complete Divine)
+
+Transmutation
+ <b>Level:</b>  Cleric 5,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius emanation centered on a point in space
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Outsiders within the emanation of a subvert planar essence spell find their connection disrupted with the planar forces that created them.
+Outsiders who fail their saves have their damage reduction and spell resistance each reduced by 10 points.
+For example, a barbed devil subject to subvert planar essence would have no damage reduction and SR 13, while a pit fiend would have damage reduction of 5/good and silver and SR 22.
+Outsiders attempt Fortitude saves and check SR when they first enter the spell's area.
+If they make their save or the spell fails to overcome their SR, they're thereafter unaffected by that casting of subvert planar essence and can enter and exit the spell area without making further saves.
+Outsiders who fail their saves or whose SR is overcome by the spell are affected as long as they remain within the spell area, and they are automatically affected if they leave and reenter the spell area.
+Material Component: A rough statuette carved from adamantine ore (100 gp).
+ <b>Also appears in</b>   Spell Compendium     

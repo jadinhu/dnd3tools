@@ -1,0 +1,18 @@
+<b>Blood Frenzy</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You enter a rage similar to, but less effective than, that of a barbarian.
+Your rage gives you a +2 bonus to Strength and Constitution and a +1 morale bonus on Will saves.
+You suffer a -1 penalty to AC.
+The additional Constitution increases your hit points by 1 point/level, but these hit points go away when the spell ends.
+Otherwise, the effect is identical with barbarian rage (see page 25 of the Player's Handbook).
+You cannot use skills that require concentration or patience, and once the spell ends, you're fatigued for the duration of that encounter.
+ <b>Also appears in</b>   Spell Compendium     

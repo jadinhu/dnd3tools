@@ -1,0 +1,20 @@
+<b>Swooping Dragon Strike</b>(Tome of Battle: The Book of Nine Swords, p. 89)
+
+Tiger Claw (Strike)
+ <b>Level:</b>  Swordsage 7 (Three Tiger Claw maneuvers),  Warblade 7 (Three Tiger Claw maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+<b>Like a dragon, you swoop down upon your foe and let loose with a devastating attack. You leap over her and, as you soar through the air, unleash a devastating volley of attacks.</b>
+	
+You leap over an opponent and chop down at her, ruining her defenses and striking with a critical blow.
+	
+As part of this maneuver, you attempt a Jump check to leap over your target. The result of this Jump check must be sufficient to allow you to move through an opponent?s space and over her. If you fail the Jump check needed to jump over your foe, you provoke attacks of opportunity for the distance you jump, if applicable. If your jump was too short to clear your opponent but far enough that you would land in a space she occupies, you land adjacent to your opponent in the square closest to your starting square.
+	
+If your check is insufficient to jump over your target, you can also make a single attack against your foe with no special benefits or penalties, as long as your target is within reach.
+	
+If the check succeeds, you do not provoke attacks of opportunity for leaving threatened squares during your jump. Your foe loses her Dexterity bonus to AC against your melee attack. This attack deals an extra 10d6 points of damage, and the target must succeed on a Fortitude save (DC equal to your Jump check result) or be stunned for 1 round.</p   

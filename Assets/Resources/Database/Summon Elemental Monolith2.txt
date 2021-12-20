@@ -1,0 +1,23 @@
+<b>Summon Elemental Monolith</b>(Spell Compendium, p. 214)
+
+Conjuration (Summoning) [see text]
+ <b>Level:</b>  Cleric 9,  Druid 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One summoned elemental monolith
+ <b>Duration:</b> Concentration, up to 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You call into being a gigantic, roughly humanoid creature composed entirely of elemental matter. The creature immediately attacks a nearby enemy.</b>
+	
+You conjure a tremendously powerful creature known as an elemental monolith (Complete Arcane 156). It appears at the spot you designate and acts immediately on your turn, attacking your opponents to the best of its ability. You must concentrate to maintain the spell's effect, but commanding the creature is a free action.
+	
+If you speak the elemental monolith's language and are close enough to communicate with it, you can direct it not to attack, to attack particular enemies, or to perform other actions. A monolith can't be summoned into an environment hostile to it in any way (for example, you couldn't summon a fire monolith underwater or an earth monolith high in midair).
+	
+When you use a summoning spell to summon an air, earth, fire, or water creature, it becomes a spell of that type.
+	
+Material Component: A gem worth 100 gp � ;aquamarine for air, tourmaline for earth, garnet for fire, or pearl for water.
+ <b>Also appears in</b>   Complete Arcane     

@@ -1,0 +1,22 @@
+<b>Safe Clearing</b>(Shining South)
+
+Abjuration
+ <b>Level:</b>  Ranger 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Area:</b> 30-ft.-radius spread
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You make an area safe from attacks, as if the entire space were under a sanctuary spell.
+Once the spell is cast, its area is immobile.
+Any opponent attempting to strike or otherwise directly attack a creature within the area, even with a targeted spell, must attempt a Will save.
+If the save succeeds, the opponent can attack normally and is unaffected by the spell.
+If the save fails, the opponent cannot follow through with the attack, that part of its action is lost, and it can't directly attack anyone in the safe clearing for the duration of the spell.
+Those not attempting to attack creatures inside the warded area remain unaffected.
+This spell does not prevent the warded creatures from being affected by area or effect spells.
+Those inside the safe clearing cannot attack without breaking the spell, even if they are unaffected by it.
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun     

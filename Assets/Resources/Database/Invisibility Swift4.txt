@@ -1,0 +1,15 @@
+<b>Invisibility, Swift</b>(Spell Compendium, p. 125)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 1,  Assassin 2,  Duskblade 2,  Vigilante 2,   Initiate of baravar cloakshadow 1,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>With a whispered syllable you complete the spell. You notice that others look past you as if you weren't there.</b>
+	
+This spell functions like invisibility (PH 245), except as noted above.
+ <b>Also appears in</b>   Champions of Valor  Complete Adventurer  Miniatures Handbook     

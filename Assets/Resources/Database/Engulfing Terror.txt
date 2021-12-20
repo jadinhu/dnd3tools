@@ -1,0 +1,21 @@
+<b>Engulfing Terror</b>(Drow of the Underdark)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One gelatinous cube
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The air wavers and shimmers, finally coalescing into a large cube of glistening ooze.
+Engulfing terror creates a gelatinous cube (MM 201) in a space you designate.
+The space must be large enough to accommodate the creature.
+If not, the spell automatically fails.
+Upon appearing, the cube acts on your turn, attacking the nearest living creature each round.
+You have no control over it and cannot direct it.
+The gelatinous cube remains until it is destroyed or has no remaining targets to attack, at which point it moves away in a random direction.
+   

@@ -1,0 +1,23 @@
+<b>Sever Legacy</b>(Weapons of Legacy)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,  Wu Jen 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You permanently disrupt the bond between the target creature and its legacy item (or items).
+The target is treated as if it had not performed any of the legacy rituals for its item or items.
+It loses all of the following feats it has gained for all of its legacy items: Greater Legacy, Least Legacy, Lesser Legacy.
+If the target's Hit Dice total exceeds your caster level, the target adds the difference as a bonus on its Will save to negate the effect.
+Any creature that successfully saves against this spell cannot be affected by it again for 24 hours.
+The target does not regain any of the personal costs paid to gain access to legacy abilities.
+It can regain access to its item's legacy abilities by performing the requisite rituals again.
+In this case, it does not pay again any personal costs that it has already paid.
+Other than by again performing the legacy rituals to regain lost feats, the effect of this spell can be negated only by miracle or wish.
+   

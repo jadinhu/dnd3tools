@@ -1,0 +1,13 @@
+<b>Enhanced Shifting</b>(Races of Eberron, p. 185)
+
+Transmutation
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, Shifter
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> See text
+
+ 	
+You use divine energy to enhance the power of your shifting ability. This spell functions only if cast while you are shifting, and lasts until your shifting ends. While shifting, you receive the following benefits:
+			The bonus granted to the ability score governed by your shifter trait improves from +2 to +4.		If you gain a natural weapon while shifting, you gain a bonus on damage rolls with that natural weapon of +1 per four caster levels (maximum +5).		If you gain a new form of movement while shifting (or if an existing form of movement is improved), you gain an enhancement bonus of +10 feet to that movement form.		The duration of your shifting is extended by 1 round per 4 caster levels (maximum +5 rounds).	   

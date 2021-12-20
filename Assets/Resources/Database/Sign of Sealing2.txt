@@ -1,0 +1,21 @@
+<b>Sign of Sealing</b>(Spell Compendium, p. 189)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One door, chest, or other opening up to 30 sq. ft./level
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Reflex half; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>While pointing at the target, you trace the lines of a complicated sigil that visually appears where it is to seal. The sigil glows with latent magical energy.</b>
+	
+You seal a door, chest, or similar closure with a prominent magical sigil that bars entry and prevents opening. A door or object protected by this spell can be opened only by breaking (add 10 to the normal break DC) or by the use of <b>knock</b> or <b>dispel magic</b>. If the door or object is forced open by any means (magical or physical), the sign of sealing deals 1d4 points of damage per caster level (maximum 10d4) in a 30-foot radius (Reflex half).
+	
+A knock spell doesn't negate or automatically bypass a sign of sealing, but will suppress the sign for 10 minutes on a successful caster level check (DC 11 + the caster level of the sign's creator). A sign of sealing is a magic trap that can be disarmed with a DC 28 Disable Device check. You can pass your own sign safely, and it remains set behind you.
+	
+Material Component: A crushed emerald worth 100 gp.
+   

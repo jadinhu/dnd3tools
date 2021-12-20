@@ -1,0 +1,19 @@
+<b>Loyal Vassal</b>(Magic of Faerun)
+
+Abjuration [Lawful]
+ <b>Level:</b>  Paladin 3 (Siamorphe),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Up to 1 willing creature/3 levels touched
+ <b>Duration:</b> 10 minutes/level (see text)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You protect the target against mind-affecting effects, giving all affected creatures a +3 sacred bonus on saving throws against such attacks.
+The spell also prevents them from being magically compelled to harm you or anyone else affected by this spell.
+Any attempt to make a subject do so (whether the originating effect occurred before or after this spell was cast) counts as a suicidal order, triggering appropriate responses and possibly ending the controlling spell.
+If a subject willingly attempts to harm you, the spell is broken for that creature immediately.
+The subjects gain the benefits of a bless spell as long as you are in sight of them.
+ <b>Also appears in</b>   Spell Compendium     

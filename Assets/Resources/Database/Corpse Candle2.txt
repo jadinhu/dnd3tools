@@ -1,0 +1,21 @@
+<b>Corpse Candle</b>(Spell Compendium, p. 53)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ghostly hand and candle
+ <b>Duration:</b> 1 minute/level (D); see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You hold out a piece of flesh before you, and as you concentrate on your desired spell effect, the flesh dissolves into nothingness. Nearby, in the place of your choosing, a severed hand appears bearing a lit candle.</b>
+	
+The ghostly hand carries a lit candle that sheds light in a 5-foot radius. You can move the hand at the beginning of your turn as you desire � ;forward or back, up or down, straight or around corners � ;up to 50 feet per round. Directing the candle is a free action. The hand and candle are incorporeal and can pass through objects. A corpse candle illuminates hidden, ethereal, and invisible beings and items, all of which become faintly visible as wispy outlines. Ethereal creatures remain unreachable from the Material Plane (except with force effects), but illuminated incorporeal and invisible creatures do not benefit from concealment, and so attacks against them suffer no miss chance.
+	
+The hand cannot be attacked or damaged, though <b>dispel magic</b> and similar spells can dispel it. The hand winks out if the distance between you and it exceeds the spell's range.
+	
+<b>Material Component:</b> A piece of a corpse untreated by any kind of preservative.
+ <b>Also appears in</b>   Tome and Blood: A Guidebook to Wizards and Sorcerers  Complete Arcane     

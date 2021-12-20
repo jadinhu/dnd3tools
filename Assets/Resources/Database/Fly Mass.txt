@@ -1,0 +1,17 @@
+<b>Fly, Mass</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+As fly (see page 232 of the Player's Handbook), except this spell confers the power of flight upon all targeted creatures.
+Each recipient of the spell must remain within 30 feet of at least one other recipient, or the spell ends for the creature that is separated from the others.
+If only two individuals are affected, the spell ends for both if the distance between them exceeds 30 feet.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,19 @@
+<b>Stormvoice</b>(Champions of Valor)
+
+Evocation [Sonic]
+ <b>Level:</b>   Initiate of horus-re 2,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D) or until discharged
+
+ 	
+Your voice is amplified greatly.
+Subtract 10 from the DC of Listen checks made to hear you talking (even whispering).
+You also gain a +2 competence bonus on Intimidate checks.
+While this spell is active, you can use a swift action to create a 15-foot-long cone-shaped burst of intense sound with a shout.
+Every creature in the area takes 1d8 points of sonic damage and must succeed on a Fortitude save to avoid being stunned for 1 round.
+Doing this discharges the spell.
+Creatures that cannot hear are not stunned but are still damaged.
+   

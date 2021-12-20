@@ -1,0 +1,19 @@
+<b>Wracking Touch</b>(Complete Adventurer)
+
+Necromancy
+ <b>Level:</b>  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your touch causes horrible agony in a creature's vital area.
+You lay your hand upon a creature and deal 1d6 points of damage +1 point per caster level (maximum +10).
+In addition, if you have the sneak attack ability, you also deal sneak attack damage to the affected creature unless the creature is immune to extra damage from critical hits.
+The creature still takes the spell damage even if it does not take the sneak attack damage.
+Unlike a normal use of sneak attack, your target need not be flanked or denied its Dexterity bonus to take sneak attack damage from this spell.
+ <b>Also appears in</b>   Spell Compendium     

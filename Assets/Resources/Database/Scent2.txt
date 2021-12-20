@@ -1,0 +1,31 @@
+<b>Scent</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Ranger 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You give the target an enhanced sense of smell, equivalent to the scent ability of some monsters.
+This ability allows the creature to detect approaching enemies, sniff out hidden foes, and track by sense of smell.
+Creatures with the scent ability can identify familiar odors just as humans do familiar sights.
+The creature can detect opponents within 30 feet by sense of smell.
+If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet.
+Strong scents, such as smoke or rotting garbage, can be detected at twice the ranges noted above.
+Overpowering scents, such as skunk musk or troglodyte stench, can be detected at triple normal range.
+When a creature detects a scent, the exact location is not revealed � ;only its presence somewhere within range.
+The creature can take a partial action to note the direction of the scent.
+If it moves within 5 feet of the source, the creature can pinpoint that source.
+A creature with the scent ability can follow tracks by smell, making a Wisdom check to find or follow a track.
+The typical DC for a fresh trail is 10 (no matter what kind of surface holds the scent).
+This DC increases or decreases depending on the strength of the quarry's odor, the number of creatures, and the age of the trail.
+For each hour that the trail is cold, the DC increases by 2.
+The ability otherwise follows the rules for the Track feat.
+Creatures tracking by scent ignore the effects of surface conditions and poor visibility.
+Arcane Material Components: A sprinkle of mustard and pepper, and a drop of sweat.
+ <b>Also appears in</b>   Spell Compendium  Savage Species  Serpent Kingdoms  Complete Divine     

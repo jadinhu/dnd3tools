@@ -1,0 +1,15 @@
+<b>Raptor's Sight</b>(Races of the Wild)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,   Sky 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D)
+
+ 	
+Your visual acuity improves dramatically.
+You gain a +5 competence bonus on Spot checks.
+If you have 5 or more ranks in Spot, you take only half the normal range increment penalty for ranged attacks (-1 per range increment instead of -2).
+   

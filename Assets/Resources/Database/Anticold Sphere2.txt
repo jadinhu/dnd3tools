@@ -1,0 +1,19 @@
+<b>Anticold Sphere</b>(Spell Compendium, p. 13)
+
+Abjuration [Cold]
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius emanation centered on you
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>As a rosy color flickers into being in the surrounding air, you feel a sense of warmth and well-being.</b>
+	
+All creatures within the area of the spell gain immunity to cold damage. In addition, the emanation prevents the entrance of any creature with the cold subtype. The effect hedges out such creatures in the area when it is cast.
+	
+<b>Note</b>: Forcing an abjuration barrier against creatures that the spell keeps at bay collapses the barrier (PH 172).
+ <b>Also appears in</b>   Frostburn     

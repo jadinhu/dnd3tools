@@ -1,0 +1,16 @@
+<b>Blinding Beauty</b>(Book of Exalted Deeds)
+
+Transmutation [Good]
+ <b>Level:</b>  Beloved of Valarian 4,  Bard 4,  Druid 4,  Ranger 4,   Fey 4,   
+<b>Components:</b>V, S, Abstinence
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You gain the physical beauty of a nymph, with some of the supernatural accompaniment.
+All humanoids within 60 feet of you who look directly at you must succeed on a Fortitude save or be blinded permanently as though by the blindness spell.
+During the duration of the spell, you can suppress or resume this effect as a free action, while remaining stunningly attractive.
+Abstinence Component: You must abstain from sexual intercourse for one week before casting this spell.
+   

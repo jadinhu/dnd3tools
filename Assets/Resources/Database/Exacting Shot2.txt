@@ -1,0 +1,17 @@
+<b>Exacting Shot</b>(Spell Compendium, p. 85)
+
+Transmutation
+ <b>Level:</b>  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Ranged woapon touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+<b>As you complete the complicated ritual of the spell you see in your mind's eye the vital areas of your favored enemy's anatomy.</b>
+	
+All rolls made to confirm critical threats by the target weapon against your favored enemies automatically succeed, so every threat is a critical hit. The affected weapon also ignores any miss chance due to concealment whenever you fire at a favored enemy (unless the target has total concealment, in which case the normal miss chance applies). If the ranged weapon or the projectile fired has any magical effect or property related to critical hits, this spell has no effect on it.
+ <b>Also appears in</b>   Complete Adventurer     

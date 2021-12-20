@@ -1,0 +1,14 @@
+<b>Camouflage</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+You change your coloring to match the environment surrounding you.
+The spell grants you a +10 circumstance bonus on your Hide checks.
+ <b>Also appears in</b>   Ghostwalk  Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Spell Compendium  Underdark  Magic of Faerun  Complete Divine     

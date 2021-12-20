@@ -1,0 +1,21 @@
+<b>Spirit Needle</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 6 (Metal),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One spirit creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you hurl a long needle at a spirit creature, making a normal ranged attack against the spirit.
+The needle can hit incorporeal and even ethereal creatures, though it has no enhancement bonus.
+If you hit, the spirit becomes corporeal and is held in place, unable to move for the duration of the spell (though it can still take nonmovement actions, including attacks).
+The spirit takes no damage from the needle, but it becomes much more vulnerable to further attacks, losing any Dexterity bonus to AC and giving attackers a +4 bonus on attack rolls, in addition to losing the protective benefits of incorporeality.
+The spirit cannot remove the needle that pins it in place, but another creature can remove it by using the aid another action.
+A pinned spirit is unable to use any supernatural or spell-like ability to alter its substance (such as gaseous form, ethereal jaunt, or becoming incorporeal again) or transport itself (including dimension door and teleport).
+Focus: A long metal needle.
+ <b>Also appears in</b>   Complete Arcane     

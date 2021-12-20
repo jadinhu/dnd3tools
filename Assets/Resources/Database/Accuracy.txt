@@ -1,0 +1,17 @@
+<b>Accuracy</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Warmage 1,  Wu Jen 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One thrown weapon/level touched or one projectile weapon touched
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+When you cast this spell, you enhance one or more thrown weapons or one projectile weapon to improve its chance of hitting distant targets.
+For the duration of the spell, the range increment for the affected weapon or weapons is doubled.
+Material Component: Ink used to scribe a mystical character on each weapon affected by the spell.
+ <b>Also appears in</b>   Oriental Adventures     

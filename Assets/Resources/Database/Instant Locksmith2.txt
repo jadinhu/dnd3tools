@@ -1,0 +1,15 @@
+<b>Instant Locksmith</b>(Spell Compendium, p. 124)
+
+Divination
+ <b>Level:</b>  Assassin 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You point at a mechanism, twist your hand, and make a clicking sound with your tongue. You now have a better idea of how the mechanism works.</b>
+	
+You can make one Disable Device check or one Open Lock check in this round as a free action. You gain a +2 insight bonus on the check.
+ <b>Also appears in</b>   Complete Adventurer     

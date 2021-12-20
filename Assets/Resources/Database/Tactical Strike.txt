@@ -1,0 +1,16 @@
+<b>Tactical Strike</b>(Tome of Battle: The Book of Nine Swords, p. 93)
+
+White Raven (Strike)
+ <b>Level:</b>  Crusader 2 (One White Raven maneuver),  Warblade 2 (One White Raven maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>Your skill at arms and overwhelming power force your opponent to falter at a fatal moment. As the foe attempts to recover from your devastating strike, your allies rush in to finish what you have started.</b>
+	
+You make a mighty attack that knocks your opponent into a defenseless position, granting your allies a moment to move into a better position. If your attack lands true, it leaves your enemy momentarily shaken by its tremendous impact.
+	
+As part of this maneuver, you make a single melee attack. If your attack hits, you deal an extra 2d6 points of damage. In addition, each ally adjacent to the target can take an immediate 5-foot step that does not provoke attacks of opportunity.
+   

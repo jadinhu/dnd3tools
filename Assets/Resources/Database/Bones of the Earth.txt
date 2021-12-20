@@ -1,0 +1,24 @@
+<b>Bones of the Earth</b>(Player's Handbook II)
+
+Conjuration (Creation) [Earth]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Effect:</b> One 5-ft.-diameter pillar of stone per round
+ <b>Duration:</b> 1 round/2 levels (D)
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> No
+
+ 	
+A pillar of rock explodes upward from the ground.
+Each round as a standard action, you conjure a pillar of rock that bursts from a stone or earthen surface anywhere within the spell's range.
+Each pillar fills a 5-foot square and grows to a height of 20 feet or until it hits a barrier such as a ceiling or wall.
+A Large or smaller creature in a square where a pillar erupts must succeed on a Reflex save or be carried upward by the force of the pillar.
+If a pillar is created in a room with a ceiling height of 20 feet or less, the rock slams into the ceiling, dealing 4d6 points of damage to any creature atop it.
+In a location with a ceiling height of more than 20 feet, a creature carried up by a pillar must succeed on a DC 20 Balance check or fall from the top of the pillar when it reaches its maximum height.
+On a failed check, the creature plummets to the ground, taking 2d6 points of damage from the fall.
+You can also cause a pillar to erupt from a vertical surface, in which case any creatures in the pillar's path must succeed on their Reflex saves or take 2d6 points of damage and be knocked prone.
+The pillar created is permanent and has AC 3, hardness 8, and 900 hit points.
+A pillar can be climbed with a DC 20 Climb check.
+   

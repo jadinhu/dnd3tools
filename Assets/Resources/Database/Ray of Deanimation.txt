@@ -1,0 +1,18 @@
+<b>Ray of Deanimation</b>(Spell Compendium, p. 166)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Target:</b> One construct
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>A copper-red ray bursts from your outstretched hand. The sound of grinding gears and breaking metal accompanies the ray's flight.</b>
+	
+This ray interferes with magical animation, degenerating the magic bound within constructs and effectively causing damage. You must succeed on a ranged touch attack with the ray to strike a target. The ray deals 1d6 points of damage per caster level to the subject (maximum 15d6).
+   

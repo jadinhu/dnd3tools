@@ -1,0 +1,21 @@
+<b>Detect Crossroads</b>(Magic of Faerun)
+
+Divination
+ <b>Level:</b>  Bard 0,  Druid 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 60 ft. or 1 mile (see text)
+ <b>Area:</b> Quarter circle emanating from you to the extreme of the range
+ <b>Duration:</b> Concentration up to 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can see fey crossroads within 60 feet, if your visibility isn't blocked.
+A crossroads appears to you as a blue-hued, x-shaped shadow upon the ground.
+You recognize the crossroads for what it is, and won't be fooled by a false or illusory one.
+Detect crossroads gives you no information on where the backroad leads.
+If the nearest crossroads is less than a mile away, but blocked visually from you either by distance or barriers, you can still sense its general direction.
+Each round, you can turn to detect in a new direction.
+See the previous chapter for more on crossroads.
+   

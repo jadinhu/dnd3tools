@@ -1,0 +1,19 @@
+<b>Shard Blessing Aura</b>(Champions of Valor)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+This spell creates an aura of shimmering blue-white light similar to moonlight that fills your space and moves with you.
+The aura sheds light equal to a candle.
+This aura functions like a lesser globe of invulnerability.
+If you are a sorcerer and SelÃ»ne is your patron, the aura also grants you the benefit of protection from evil.
+The spell is named for the Shards, planetar servants of SelÃ»ne drawn from the ranks of her greatest priestesses.
+Because some shards return to FaerÃ»n to visit their mortal lovers, supernatural bloodlines (usually aasimar, but not always) with ties to SelÃ»ne exist in some parts of the world.
+Material Component: A moonstone or other polished white stone.
+   

@@ -1,0 +1,15 @@
+<b>Visage of the Deity</b>(Spell Compendium, p. 230)
+
+Transmutation [Good or Evil]
+ <b>Level:</b>  Cleric 6,   Mysticism 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+This spell functions like <b>lesser visage of the deity</b>, except that you take on many qualities of a celestial or fiendish creature, as follows.
+			You take on a shining, metallic appearance (for good clerics) or a more fearsome appearance (for evil clerics).		You gain the ability to smite evil (for good clerics) or good (for evil clerics) once a day. Add your Charisma modifier to your attack roll and your character level to your damage roll against a foe of the appropriate alignment.		You gain darkvision out to 60 feet.		You gain resistance to acid 20, cold 20, and electricity 20 (for good clerics) or resistance to cold 20 and fire 20 (for evil clerics).		You gain damage reduction 10/magic.		You gain spell resistance 20.		
+Your creature type does not change (you do not become an outsider).
+   

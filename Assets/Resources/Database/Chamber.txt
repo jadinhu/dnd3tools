@@ -1,0 +1,25 @@
+<b>Chamber</b>(Manual of the Planes)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One ethereal creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You may create a translucent prison of pure crystalline force around a target on the Ethereal Plane.
+You must be able to see or otherwise target the creature you wish to affect.
+The target affected by the chamber cannot move on either the Ethereal Plane or its coterminous planes for the duration of the spell but is otherwise unaffected.
+The target cannot move onto another plane while inside the chamber, including returning to the Material Plane.
+The target within the crystalline prison cannot physically attack or be attacked is and unaffected by most spells and supernatural abilities.
+Gaze attacks and sonic spells may function through the walls of the crystalline prison, but the target of those attacks gains a +2 bonus on saving throws.
+The target of the chamber may attempt to break the crystalline prison by making a Strength check (DC 10 + caster level).
+A disintegrate spell brings down the chamber.
+This spell only affects the Ethereal Plane, so it has no effect on planes not coexistent with the Ethereal Plane.
+It has no effect on creatures on the Material Plane.
+Material Component: A piece of translucent glass.
+   

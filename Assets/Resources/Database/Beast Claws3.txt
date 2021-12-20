@@ -1,0 +1,21 @@
+<b>Beast Claws</b>(Spell Compendium, p. 25)
+
+Transmutation
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level
+
+ 	
+<b>With a crackle of popping joints and tendons, your hands and fingers become long curving claws with heavy knuckles.</b>
+	
+You gain two claw attacks that act as slashing melee weapons, dealing 1d4 points of damage with a threat range of 19 � ;20. Attacks with your trans- formed hands do not provoke attacks of opportunity.
+	
+Your claws work just like the natural weapons of many monsters. You can make an attack with one claw or a full attack with two claws at your normal attack bonus, replacing your normal attack routine. You take no penalties for two-weapon fighting, and neither attack is a secondary attack. If your base attack bonus is +6 or higher, you do not gain any additional attacks � ;you simply have two claw attacks at your normal attack bonus.
+	
+If you attack with a manufactured weapon or another natural attack, you can't make any claw attacks in that round. The claws do not hinder your manual dexterity or spellcasting.
+	
+<b>Material Component:</b> The claw of a bird of prey, such as an eagle or falcon.
+ <b>Also appears in</b>   Defenders of the Faith: A Guidebook to Clerics and Paladins  Complete Divine     

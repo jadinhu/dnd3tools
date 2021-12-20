@@ -1,0 +1,21 @@
+<b>Overwhelming Revelations</b>(Magic of Eberron, p. 100)
+
+Evocation
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 20-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You tap the incredible complexity of the draconic Prophecy, granting creatures in the area a burst of insight powerful enough to threaten their sanity. Creatures in the area take a -2d6 penalty to Wisdom and are confused for 1 round. A successful Will save reduces the penalty by half and negates the confusion.
+	
+<b>Special:</b> Characters with the Dragon Prophesier feat (see page 46) have immunity to the effect of this spell. Furthermore, if within the area of the spell, such a character can choose to enter prophetic favor as an immediate action. This counts as one of the character's daily uses of prophetic favor.
+	
+Characters with a dragonmark take a -2 penalty on their saving throw against this spell.
+	
+Material Component: A scale from an adult or older dragon.
+   

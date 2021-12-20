@@ -1,0 +1,19 @@
+<b>Chain of Sorrow</b>(Heroes of Horror)
+
+Necromancy [Evil]
+ <b>Level:</b>   Corrupt 7,   
+<b>Components:</b>V, S, AF, Corrupt
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature to start, possibly more; see text
+ <b>Duration:</b> See below
+ <b>Saving Throw:</b> Will half, and see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The target of this spell takes 2d10 points of Charisma drain (Will half). If he makes his saving throw, the spell has no further effect. If he fails, however, the chain continues. The next time he touches a friend, loved one, or ally, that individual takes the same damage: 2d10 points of Charisma drain, or half with a successful save. If this second victim fails the save, she then becomes the host for the spell, and the effect continues with the first friend or ally that she touches. This effect continues until the chain is broken by a successful save or until it has affected a number of people equal to the spell's caster level.
+	
+Focus: The umbilical cord of a stillborn child.
+	
+Corruption Cost: 2d4 points of Charisma damage.
+   

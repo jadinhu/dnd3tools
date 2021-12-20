@@ -1,0 +1,24 @@
+<b>Ice Knife</b>(Oriental Adventures)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Wu Jen 2 (Water),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> One icy missile
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A magical shard of ice springs from your hand and speeds to its target.
+You must succeed at a normal ranged attack to hit.
+For every two caster levels, you gain a +2 bonus on the ranged attack roll.
+The shard deals 1d8 points of piercing damage, plus 1d8 points of cold damage and 2 points of Dexterity damage.
+(Creatures that are immune to cold damage take no Dexterity damage).
+A successful Fortitude save reduces the cold damage by half and negates the Dexterity damage.
+A miss creates a shower of ice crystals in a 10-foot-radius burst centered where the shard lands (see Grenadelike Weapon Attacks in the Player's Handbook).
+The icy burst deals 1d8 points of splash damage.
+A creature within the burst area can make a Reflex save to take half damage.
+Material Component: A drop of water or piece of ice.
+ <b>Also appears in</b>   Spell Compendium  Tome and Blood: A Guidebook to Wizards and Sorcerers  Complete Arcane     

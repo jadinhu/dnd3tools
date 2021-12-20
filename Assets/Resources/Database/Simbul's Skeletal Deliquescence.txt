@@ -1,0 +1,21 @@
+<b>Simbul's Skeletal Deliquescence</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You turn the bones and hard tissue of the subject to mush, making him a strange sort of oozelike creature.
+He immediately collapses into a heap, lacking the ability to maintain his previous shape.
+His Dexterity becomes 1, his speed becomes Swim 10 ft., and he loses the ability to attack, speak, carry objects, or cast spells with somatic components.
+He can still use spell-like and supernatural abilities.
+He cannot be flanked and is immune to critical hits.
+His equipment is not affected.
+This spell is normally used as a punishment or to disable opponents without killing them.
+   

@@ -1,0 +1,19 @@
+<b>Undermaster</b>(Spell Compendium, p. 227)
+
+Transmutation [Earth]
+ <b>Level:</b>  Druid 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 5 rounds
+
+ 	
+<b>You invoke the mighty powers of the earth and it rises about you, limning you from below with brilliant green radiance. The power surges within your hands as you are invested with its might, and you bend that might to your own will.</b>
+	
+You take up the mantle of the earth, gaining power over it as long as you stand upon or beneath its surface. While energized with the awesome power of this spell, you can choose a spell from those listed below once per round and use it as a spelllike ability. Using a spell in this way requires a standard action, even if the spell would normally have a longer casting time (such as move earth).
+	
+The spells granted by undermaster are earth lock, earthquake, excavate, flesh to stone, meld into stone, move earth, reverse gravity, soften earth and stone, statue, stone shape, stone tell, stone to flesh, transmute mud to rock, transmute rock to mud, tunnel swallow, wall of stone, and xorn movement.
+	
+Material Component: A deep blue spinel worth 500 gp.
+ <b>Also appears in</b>   Underdark     

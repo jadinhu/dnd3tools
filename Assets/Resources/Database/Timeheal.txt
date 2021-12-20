@@ -1,0 +1,22 @@
+<b>Timeheal</b> (Legends of the Twins, Tower of High Sorcery)
+
+Transmutation
+<b>Level:</b> Anagakok 7, Beholder Mage 7, Deathwalker 7, Fleshcrafter 7, Sha-ir 7, Sorcerer 7, Wizard 7, Soul Reaper 7, Sublime Chord 7
+<b>Components:</b> V, S, M, XP
+<b>Casting Time:</b> 1 minute
+<b>Range:</b> Touch
+<b>Target: </b>Living creature touched
+<b>Duration:</b> Instantaneous
+<b>Saving Throw:</b> Special; see text
+<b>Spell Resistance:</b> Yes
+
+When this spell is cast upon a willing target, you cause the individual's body to move backward in time to a period whenhe was in better health. Time is of the essence when the spell is cast because the greater amount of time that has passed, the moredifficult the spell.You can timeheal the body in time 1 minute for every level of experience as an arcane spellcaster. 
+
+Thus a 9th-level wizardcan take the body of his target back in time by 9 minutes. For every minute the body reverses, the victim makes an involuntaryFortitude save with a cumulative –1 penalty (thus reverting a body back 9 minutes requires the target to make the Fortitude savingthrow with a –9 penalty). 
+
+If the saving throw is failed, the body fails to revert. If the target possesses Spell Resistance, the wizard mustalso overcome the target's SR in order for the spell to take effect. This cannot be suppressed by the target. 
+
+You can determine howmany minutes backward you want the spell to effect (a 9th-level wizard can revert a body up to 9 minutes, no more).If a target has been affected by a timeheal spell (whether successful or not), she cannot be affected by another timehealspells until at least 24 hours have passed. Timeheal will not bring back a spirit from death, thus it is ineffective upon a character whohas died (reached –10 hit points or less), been affected by death magic, or similar instant death effects.
+
+Material Component: A small hourglass filled with powdered black pearls (worth at least 500 stl).
+XP Cost: 100 XP per minute of time reverted.

@@ -1,0 +1,25 @@
+<b>Ball Lightning</b>(Magic of Faerun)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One or more balls of lightning, up to 1/level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create several balls of lightning that shed light as candles and move under your control.
+Your caster level is the total number of dice of damage (d6) that you can deal with this spell (maximum 15d6), divided however you see fit among the ball lightning.
+For example, a 9th-level caster could create nine balls of lightning (each dealing 1d6 points of electrical damage), or three balls of lightning (two dealing 2d6 and one dealing 5d6), and so on.
+You may direct any number of lightning balls to strike one target at a time.
+Each affects only one target and is not destroyed when it does so.
+Targets get a Reflex save against each ball that strikes them.
+You must have line of sight and line of effect to direct the balls.
+Directing the balls is a free action on the round the spell is cast and a standard action on any other round.
+The lightning balls can move up to 100 feet per round.
+A ball dissipates if the distance between you and it exceeds the spell's range.
+Material Component: A handful of copper and iron pellets.
+ <b>Also appears in</b>   Spell Compendium  Unapproachable East  Player's Guide to FaerÃ»n     

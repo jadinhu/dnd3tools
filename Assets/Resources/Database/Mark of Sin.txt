@@ -1,0 +1,28 @@
+<b>Mark of Sin</b>(Complete Champion)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level or permanent; see text
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You bring forth the subject's inner sins and crimes, causing them to manifest in its appearance and aura.
+Your successful touch attack leaves a mystical mark upon the subject.
+After a number of rounds equal to your divine caster level, the subject is entitled to a Will save.
+Success ends the spell at that point, but failure renders the mark of sin permanent.
+Though the mark is invisible, all living creatures can sense its presence and are repulsed by it.
+Thus, they begin their initial interactions with the subject one step nearer to a hostile attitude than they normally would, unless they already know the subject personally.
+Furthermore, the subject takes a -10 circumstance penalty on all Diplomacy checks designed to change the attitudes of others.
+(See Diplomacy, PH 71).
+In addition, the subject takes a -4 penalty to a specific ability score based on your deity, as given in the table for the divine retribution spell (page 119).
+This penalty cannot be removed in any way as long as the mark of sin remains, if you do not worship a deity, you must choose one whose alignment is within one step of your own when you cast this spell for the first time.
+This choice is for the purpose of this effect only, and you cannot subsequently change it unless your ] alignment shifts in such a way that your previous choice is no longer applicable.
+A mark of sin cannot be dispelled, but it can be removed with a break enchantment, limited wish,miracle, remove curse,
+or wish spell.
+Remove curse works only if its caster level is equal to or higher than that of the mark of sin.
+   

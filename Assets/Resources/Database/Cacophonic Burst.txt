@@ -1,0 +1,17 @@
+<b>Cacophonic Burst</b>(Savage Species)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 20-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause a burst of low, discordant noise to erupt at the chosen location.
+It deals 1d6 points of sonic damage per caster level (maximum 15d6) to all creatures within the area.
+Cacophonic burst cannot penetrate the area of a silence spell.
+ <b>Also appears in</b>   Spell Compendium     

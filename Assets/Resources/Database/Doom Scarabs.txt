@@ -1,0 +1,24 @@
+<b>Doom Scarabs</b>(Player's Handbook II)
+
+Conjuration/Necromancy
+ <b>Level:</b>  Duskblade 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half
+ <b>Spell Resistance:</b> See text
+
+ 	
+A swarm of scarabs surges from your outstretched hand.
+These insects rip and bite at all living creatures in the area, then return to you with life essence stolen from their victims.
+This spell has two effects.
+It deals 1d6 points of damage per two caster levels (maximum 10d6) to all creatures in the area.
+Spell resistance does not apply to this damage.
+However, spell resistance does apply to the spell's secondary effect.
+If you overcome a creature's spell resistance, you gain 1d4 temporary hit points as the scarabs feast on the creature's arcane energy and bleed it back into you.
+You gain these temporary hit points for each creature whose spell resistance you overcome.
+You never gain temporary hit points from creatures that do not have spell resistance.
+The temporary hit points gained from this spell last for up to 1 hour.
+   

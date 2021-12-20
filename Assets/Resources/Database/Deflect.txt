@@ -1,0 +1,9 @@
+<b>Deflect</b>(Player's Handbook II)
+
+Abjuration [Force]
+ <b>Level:</b>  Duskblade 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>
+
+ 	
+This spell functions like lesser deflect, except that you gain a shield bonus to AC equal to 1/2 your caster level (round down) against the next attack made against you before the end of your next turn.
+   

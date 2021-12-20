@@ -1,0 +1,15 @@
+<b>Branch to branch</b>(Spell Compendium, p. 38)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+<b>With the last guttural utterance, your fingers thicken and your arms lengthen slightly. You have the impression that you would feel more at ease in a canopy of trees.</b>
+	
+You gain a +10 competence bonus on Climb checks made in trees. As long as you remain at least 10 feet above the ground, you can brachiate (swing by branches and vines) in medium or dense forest, but not in sparse forest. When you brachiate, you gain a 10-foot enhancement bonus to your land speed and ignore the hampered movement penalties for undergrowth and other terrain features. You can charge while brachiating, but you can't run. Naturally, some local conditions, such as areas of sparse forest, clearings, wide rivers, or other breaks in the forest canopy, might force you to return to the ground.
+   

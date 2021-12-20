@@ -1,0 +1,15 @@
+<b>Channel the Mishtai, Greater</b>(Magic of Incarnum)
+
+Necromancy [Incarnum]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>
+ <b>Range:</b> Touch
+ <b>Duration:</b> 1 hour
+
+ 	
+As channel the mishtai, except as noted above and as follows.
+Instead of rolling randomly, you can choose which mishtai spirit to channel with this spell.
+If the subject is a rilkan or skarn, you can choose any of the ten spirits; otherwise, you can choose only one of the first six listed.
+You cannot attempt to channel the same spirit more than once per week.
+Essentia: Every point of essentia invested in this spell extends the duration by 1 hour.
+   

@@ -1,0 +1,17 @@
+<b>Cloak of Deception</b>(Tome of Battle: The Book of Nine Swords, p. 76)
+
+Shadow Hand (Boost)
+ <b>Level:</b>  Swordsage 2,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> End of turn
+
+ 	
+<b>The shadows around you seem to surge forward and engulf you. For a brief moment, they render you invisible.</b>
+	
+When you initiate this maneuver, you turn invisible, as the <b>greater invisibility</b> spell (PH 245). You remain invisible until the end of your current turn.
+	
+This maneuver is a supernatural ability.
+   

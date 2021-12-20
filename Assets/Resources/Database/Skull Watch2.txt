@@ -1,0 +1,21 @@
+<b>Skull Watch</b>(Spell Compendium, p. 191)
+
+Necromancy
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One humanoid skull
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You lift the skull into the air and it floats gently out of your grasp, its eye sockets locked on a distant point.</b>
+	
+The skull affected by a skull watch spell floats gently 5 feet off the ground, facing a direction you choose. It monitors an area 20 feet wide by 90 feet long, though walls and other opaque barriers can curtail this area. If any Tiny or larger living creature enters the area guarded by the skull, it emits a piercing shriek that can be heard up to a quarter mile away. Every creature within 60 feet of the skull when it shrieks must make a Fortitude save or be deafened for 1d6 rounds. Whether or not you can hear this audible alarm, you instantly become aware that the effect has been triggered, provided you are on the same plane as it is. The alarm resets 1d4 rounds later.
+	
+When you cast the spell, you can specify creatures that will not trigger the alarm. The skull can be moved from its original position by anyone who can get to it without entering its monitored area. The skull has AC 12, hardness 1, and 1 hit point per caster level. You are not magically made aware of the skull's destruction if it has not been triggered.
+	
+Focus: The humanoid skull upon which the spell is cast.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

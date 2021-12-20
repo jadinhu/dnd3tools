@@ -1,0 +1,10 @@
+<b>Summon Desert Ally Iv</b>(Sandstorm)
+
+Conjuration [Summoning]
+ <b>Level:</b>  Druid 4,  Ranger 4,    
+<b>Components:</b>
+ <b>Effect:</b> One or more creatures, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like summon desert ally I, except that you can summon one 4th-level creature, 1d3 3rd-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
+   

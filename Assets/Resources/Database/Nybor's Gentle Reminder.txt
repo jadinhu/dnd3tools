@@ -1,0 +1,19 @@
+<b>Nybor's Gentle Reminder</b>(Magic of Faerun)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 1 (Red Wizard),  Wizard 1 (Red Wizard),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 2 rounds
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell was quite popular with slave overseers and those wishing to make their servants work a little faster.
+The Red Wizards now employ it mainly as a combat spell.
+The subject receives a sharp, agonizing pain, which makes him dazed (no actions, but can defend against attacks normally) for 1 round.
+The subject suffers a -1 penalty on attacks, saving throws, and most checks while the spell lasts; however, the subject also receives a +2 circumstance bonus to Strength.
+Focus: A stick at least 1 foot long.
+ <b>Also appears in</b>   Unapproachable East  Player's Guide to FaerÃ»n     

@@ -1,0 +1,16 @@
+<b>Wings of Bounding</b>(Races of the Dragon)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+Immense, partially translucent wings unfurl from behind you for an instant just before you jump, helping you achieve incredible distance or height.
+You evoke immense, partially translucent wings that grant you a +20 circumstance bonus on a Jump check you make in the same round when you cast the spell.
+In addition, if you are intentionally jumping down from a height and you succeed on the DC 15 Jump check to do so, you take falling damage as if you had dropped 30 fewer feet than you actually did.
+Special: A dragonblooded character, or a character with the dragon type, gains an additional +1 bonus on the Jump check for every two caster levels (maximum +10).
+   

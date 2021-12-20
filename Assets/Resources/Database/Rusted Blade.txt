@@ -1,0 +1,22 @@
+<b>Rusted Blade</b>(Complete Mage)
+
+Transmutation
+ <b>Level:</b>  Assassin 3,  Druid 3,  Sorcerer 4,  Wizard 4,  Wu Jen 4 (metal),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One weapon touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates (object, harmless) and Fortitude negates
+ <b>Spell Resistance:</b> Yes (object, harmless)
+
+ 	
+Your touch corrupts the substance beneath your fingers.
+Where once it gleamed, it now grows dull and pitted.
+You cause a rustlike patina to temporarily cover the target weapon.
+(Despite its name, the spell can affect any kind of weapon regardless of material).
+For the duration of the spell, any living creature damaged by the weapon must succeed on a Fortitude save or contract filth fever (<span class="caps">DMG</span> 292).
+Use the spell's normal save DC for the initial saving throw, but use filth fever's normal DC 12 for later saves.
+Multiple applications of the disease do not stack, but even a creature that succeeds on one or more saves must continue to save each time it takes damage from the weapon.
+Despite the change in appearance, this spell has no ill effect on the target weapon.
+   

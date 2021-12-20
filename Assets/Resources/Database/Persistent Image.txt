@@ -1,0 +1,14 @@
+<b>Persistent Image</b>(Player's Handbook v.3.5, p. 260)
+
+Illusion (Figment)
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,  Wu Jen 5,  Sha'ir 5,  Jester 5,  Court Herald 5,   Illusion 5,   
+<b>Components:</b>
+ <b>Duration:</b> 1 min./level (D)
+
+ 	
+This spell functions like silent image, except that the figment includes visual, auditory, olfactory, and thermal components, and the figment follows a script determined by you.
+The figment follows that script without your having to concentrate on it.
+The illusion can include intelligible speech if you wish.
+For instance, you could create the illusion of several orcs playing cards and arguing, culminating in a fistfight.
+Material Component: A bit of fleece and several grains of sand.
+   

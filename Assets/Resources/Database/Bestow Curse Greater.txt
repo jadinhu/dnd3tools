@@ -1,0 +1,19 @@
+<b>Bestow Curse, Greater</b>(Complete Divine, p. 153)
+
+Transmutation
+ <b>Level:</b>  Bard 6,  Cleric 7,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The spellcaster places a curse on the creature touched, choosing one of the three following effects:
+			One ability score is reduced to 1, or two ability scores suffer -6 penalties (minimum 1).		-8 penalty on attack rolls, saving throws, ability checks, and skill checks.		Each turn, the subject has a 25% chance to act normally; otherwise, he takes no action.		
+You may also invent your own curse, but it should be no more powerful than those listed above, and the Dungeon Master (DM) has final say on the curse's effect.
+	
+The <b>greater curse</b> cannot be dispelled, nor can it can be removed with a <b>break enchantment</b>, <b>limited wish</b>, or <b>remove curse</b> spell. A <b>miracle</b> or <b>wish</b> spell removes the <b>greater curse</b>, but each <b>greater curse</b> also must have a single means of removing it with some deed that the spellcaster designates. The deed must be something that the subject can accomplish within one year (assuming he undertakes it immediately). For example, the deed might be &quot;slay the dragon under Castle Bluecraft,&quot; or &quot;climb the tallest mountain in the world.&quot; The cursed victim can have help accomplishing the task.
+ <b>Also appears in</b>   Spell Compendium  Races of Destiny     

@@ -1,0 +1,16 @@
+<b>Masochism</b>(Book of Vile Darkness)
+
+Enchantment [Evil]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Assassin 3,  Blackguard 3,  Cleric 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 round/level
+
+ 	
+For every 10 points of damage the caster takes in a given round, he gains a +1 luck bonus on attack rolls, saving throws, and skill checks made in the following round.
+The more damage the caster takes, the greater the luck bonus.
+It's possible to get a luck bonus in multiple rounds if the caster takes damage in more than one round during the spell's duration.
+Material Component: A leather strap that has been soaked in the caster's blood.
+   

@@ -1,0 +1,16 @@
+<b>Leading the Attack</b>(Tome of Battle: The Book of Nine Swords, p. 91)
+
+White Raven (Strike)
+ <b>Level:</b>  Crusader 1,  Warblade 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round
+
+ 	
+You boldly strike at your enemy. As you attack, you shout a war cry to demonstrate that victory is at hand. This attack inspires nearby allies to join the fray with renewed vigor._
+	
+When you make an attack, your allies take heart in your example and fight with renewed purpose. By stoking the fire of battle in your allies? hearts, you inspire them to greater heroics.
+	
+As part of this maneuver, you make a single melee attack. If your attack is successful, your allies gain a +4 morale bonus on attack rolls for 1 round against the creature you hit.</p   

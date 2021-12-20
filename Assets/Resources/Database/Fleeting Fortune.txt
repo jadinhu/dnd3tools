@@ -1,0 +1,16 @@
+<b>Fleeting Fortune</b>(Champions of Valor)
+
+Transmutation
+ <b>Level:</b>   Initiate of tymora 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round or until discharged
+ <b>Saving Throw:</b> Yes (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You imbue the subject with a bit of Tymora's luck, granting her a +5 luck bonus on a single skill check of her choice.
+Activating the luck bonus requires no action but must be declared before the skill check is rolled.
+   

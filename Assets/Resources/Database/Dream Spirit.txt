@@ -1,0 +1,24 @@
+<b>Dream Spirit</b>(Secrets of Sarlona, p. 126)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One created dream spirit
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>A shimmering aura takes the shape of a multilegged creature from nightÂ­ mare, instantly leaping into battle against your foes.</b>
+	
+This spell creates a manifestation of the dreamspace that attacks your enemies. A dream spirit is treated as an incorporeal creature that has your hit points and the AC you would have if you were incorporeal (it loses any armor bonus or natural armor bonus you have but gains a deflection bonus equal to your Charisma modifier or +1, whichever is greater).
+	
+The dream spirit appears where you designate and acts immediately, on your turn. It attacks your opponents to the best of its ability. A dream spirit has a single incorporeal touch attack that uses your base attack bonus plus DexterÂ­ity modifier and deals ld6 points of damage, plus 1 per two levels (maximum 1d6 + 10).
+	
+As a free action, you can mentally direct a dream spirit not to attack, to attack particular enemies, or to perform other actions. The dream spirit acts normally on the last round of the spell's duration and dissipates at the end of its turn.
+	
+If a dream spirit is reduced to 0 hit points, this spell ends. If the distance between you and the dream spirit ever exceeds the spell's range, the dream spirit winks out and the spell ends.
+	
+Dream spirits are material in nature, and so are not affected by dismissal and similar effects. They are not subÂ­ject to effects that affect outsiders.<   

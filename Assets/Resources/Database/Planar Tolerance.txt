@@ -1,0 +1,10 @@
+<b>Planar Tolerance</b>(Planar Handbook)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,  Cleric 4,  Druid 4,  Ranger 4,    
+<b>Components:</b>
+ <b>Duration:</b> 1 hour/level
+
+ 	
+As avoid planar effects, except the effects last longer (as noted above, 1 hour per level instead of 1 minute per level).
+ <b>Also appears in</b>   Spell Compendium     

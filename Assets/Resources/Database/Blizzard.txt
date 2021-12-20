@@ -1,0 +1,20 @@
+<b>Blizzard</b>(Frostburn)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 5,   Winter 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 100 ft.-radius/level spread
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> No
+
+ 	
+Immediately upon completion of this spell, the temperature drops to below freezing and a powerful blizzard erupts in the area.
+Visibility is reduced to zero, making Spot, Search, and Listen checks and all ranged attacks impossible.
+Unprotected flames are automatically extinguished and protected flames have a 75% chance of being doused.
+Creatures unprotected from the cold must make a Fortitude save or take 1d6 points of nonlethal cold damage.
+One foot of new snow falls each round.
+Movement within the area is impeded, depending on the creature's size and depth of snow (for movement in a snow field, see page 12).
+   

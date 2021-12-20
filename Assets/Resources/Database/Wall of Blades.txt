@@ -1,0 +1,15 @@
+<b>Wall of Blades</b>(Tome of Battle: The Book of Nine Swords, p. 70)
+
+Iron Heart (Counter)
+ <b>Level:</b>  Warblade 2,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>Your weapon sways back and forth in your hand, ready to block incoming blows. With the speed of a thunderbolt, you clash your weapon against your foe?s blade as he attempts to attack.</b>
+	
+Your weapon mastery transforms your blade into an extension of your arm, allowing you to wield it with the speed and timing needed to make a precise block.
+	
+When an enemy makes a melee or ranged attack against you, you can initiate this counter to oppose that attack by making an attack roll with any melee weapon you are holding. Use the higher of your AC or your attack roll as your effective AC against the incoming attack. You can?t use this maneuver if you are denied your Dexterity bonus to AC against your attacker. You can decide to use this ability after you learn the result of your opponent?s attack.<   

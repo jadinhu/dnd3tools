@@ -1,0 +1,24 @@
+<b>Cloud of Taint</b>(Oriental Adventures)
+
+Evocation [Evil]
+ <b>Level:</b>   Maho 4,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You call up raw Tainted power to smite your enemies.
+The Taint takes the form of a cold, cloying cloud of greasy darkness.
+Nezumi, Shinomen nagas, and creatures with the Shadowlands subtype are not harmed by the spell, and creatures with a Taint score are not fully affected.
+The spell deals 1d8 points of damage per two caster levels (maximum 5d8) to untainted creatures and sickens them for 1d4 rounds.
+A sickened creature suffers a -2 penalty on attack rolls, weapon damage rolls, saves, skill checks, and ability checks.
+A successful Fortitude save reduces damage to half and negates the sickening effect.
+Sickened creatures must make an additional successful Fortitude save or gain a Taint score of 1d3.
+The spell deals only half damage to creatures with Taint scores, and they are not sickened.
+They can reduce the damage in half again (down to one-quarter of the roll) with a successful Fortitude save.
+Such Tainted creatures automatically increase their Taint score by 1, regardless of their saving throw results.
+   

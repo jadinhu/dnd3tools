@@ -1,0 +1,19 @@
+<b>Wrack</b>(Fiendish Codex II: Tyrants of the Nine Hells)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One humanoid
+ <b>Duration:</b> 1 round/level + 3d10 minutes; see text
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With the final word of the spell, your chosen foe is wracked with such pain that it doubles over and collapses.
+Its face and hands blister and drip fluid, and its eyes cloud with blood, rendering it blind.
+Your touch causes your target to experience excruciating pain.
+For the duration of the spell, the subject falls prone and is blinded and helpless.
+Even when the spell ends, the subject is still shaken for 3d10 minutes.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine  Book of Vile Darkness     

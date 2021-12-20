@@ -1,0 +1,16 @@
+<b>Fracturing Weapon</b>(The Forge of War, p. 113)
+
+Transmutation
+ <b>Level:</b>  Hexblade 3,  Assassin 4,  Blackguard 4,  Duskblade 4,  Paladin 4,  Cleric 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Melee weapon touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+Once per round for the spell?s duration, the wielder of the targeted weapon can declare a single melee attack to be a fracturing blow. If that attack successfully deals damage to an opponent, the foe takes a ?5 penalty to Armor Class and damage reduction (if any, to a minimum of 0).
+	
+The penalties are applied after the damage from the fracturing weapon attack has been resolved. The penalties last for a single round, but the wielder can attack it again on his or her next turn and attempt to reinvoke the penalty.</   

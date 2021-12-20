@@ -1,0 +1,23 @@
+<b>Bedevil</b>(Champions of Ruin)
+
+Conjuration (Summoning) [Evil]
+ <b>Level:</b>  Blackguard 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> See text
+ <b>Duration:</b> 1 day/level (D)
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You summon a mischievous spirit and send it to bedevil your enemy.
+The spirit seeks out its assigned victim wherever she might be, as long as she is on the same plane as you when you cast the spell.
+It then proceeds to irritate and annoy her through a variety of manifestations.
+The victim of a bedevil spell finds herself constantly seeing movement out of the corner of her eye.
+Her sleep is frequently interrupted by bed shaking and blanket shifting and the sounds of voices that fade upon waking.
+When spellcasting, she suffers a variety of minor irritations that threaten to disrupt her spells, and she constantly feels haunted and watched.
+The result of this bedevilment is that she takes a -1 penalty on all ability checks, skill checks, and Will saving throws and has a 5% chance of arcane spell failure (which stacks with any spell failure chance from armor worn).
+Detect evil cast upon the subject of this spell reveals the presence of the bedeviling spirit, while protection from evil keeps the spirit from adversely affecting the victim.
+A dispel evil spell destroys the mischievous spirit, but remove curse or similar magic has no effect on it.
+Material Components: A tiny iron statuette of a devil or imp, plus either a drop of the intended victim's blood or one personal article belonging to the intended victim.
+   

@@ -1,0 +1,24 @@
+<b>Shadow of the Dark Queen</b>(Dragons of Faerun)
+
+Evocation [Evil]
+ <b>Level:</b>  Blackguard 4,  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One touched object
+ <b>Duration:</b> 2 rounds/level
+ <b>Saving Throw:</b> Will partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The object begins to darken, imbued with the malice of the Dark Lady.
+The touched object radiates darkness with all the properties of a.
+deeper darkness spell, except that evil dragons and dragonblood creatures can see normally.
+The darkness from this spell also has a number of additional qualities:
+First, the darkened area acts as a desecrate spell.
+Second, a good dragon or dragonblood creature cannot enter the area of darkness unless it makes a Will save.
+If it makes the saving throw, it can enter the area, but each round that it remains in the area of darkness, it takes 2d6 points of damage and is dazed.
+A successful Will save halves the damage and negates the daze effect.
+Third, shadow of the Dark Queen counters and dispels light of Xymor, and it also counters and dispels any light spell of equal or lower level, including daylight and light.
+Special: Divine spellcasters who derive their power from Tiamat cast this spell at +1 caster level.
+   

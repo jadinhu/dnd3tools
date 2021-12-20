@@ -1,0 +1,24 @@
+<b>Coat of Arms</b>(Complete Mage)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> A ring of blades swirling around you
+ <b>Duration:</b> 1 minute/level (D) or until expended
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No or Yes; see text
+
+ 	
+A ring of flashing blades, composed entirely of glowing blue force, spins around you in a whirling dance of death.
+You surround yourself with a ring of spinning force blades.
+This spell creates one blade per three caster levels, up to a maximum of six blades at 18th level.
+You gain a shield bonus to AC equal to the number of blades that circle you.
+This bonus applies against incorporeal touch attacks, since it is a force effect.
+Every round, as a move action, you can direct one of the blades to break off and strike any target within 30 feet.
+The blade strikes unerringly, requiring no attack roll, and deals 2d6 points of damage (even to incorporeal creatures) before disappearing.
+Spell resistance applies against this effect.
+Launching a blade in this fashion reduces your shield bonus accordingly.
+Any creature that grapples you is automatically struck by all the blades that still encircle you, which deal damage as normal but then disappear as though you had voluntarily launched them.
+   

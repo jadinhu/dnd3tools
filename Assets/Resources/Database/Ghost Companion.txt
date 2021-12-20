@@ -1,0 +1,19 @@
+<b>Ghost Companion</b>(Ghostwalk)
+
+Necromancy [Ectomancy]
+ <b>Level:</b>  Druid 2,  Paladin 2,  Ranger 2,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One willing animal, beast, or magical beast
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The touched creature dies painlessly.
+Instead of passing immediately beyond the Veil of Souls, the creature's soul remains on the Ethereal Plane and attempts to enter the Material Plane as a ghost.
+Normally, this is used by ghost characters with a special nonhumanoid companion (such as a mage's familiar, a druid or ranger's animal companion, or a paladin's special mount) to allow the companion to travel with them in ghost form.
+When the spell expires, the ghost creature dies the true death and its soul passes beyond the Veil of Souls.
+It can be raised or resurrected before the spell duration expires, of course.
+   

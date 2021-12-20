@@ -1,0 +1,20 @@
+<b>Overwhelming Mountain Strike</b>(Tome of Battle: The Book of Nine Swords, p. 84)
+
+Stone Dragon (Strike)
+ <b>Level:</b>  Crusader 4,  Swordsage 4,  Warblade 4,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+<b>Your mighty strike temporarily disorients your opponent, costing him precious seconds as he shakes off the attack.</b>
+	
+You slam your foe with a mighty strike, almost knocking him from his feet and forcing him to find his footing and steady himself before he can react.
+	
+As part of this maneuver, you make a melee attack. This attack deals an extra 2d6 points of damage. If the creature you hit is standing on the ground, your attack also causes the target to lose its ability to take a move action for 1 round. It can otherwise act normally. A successful Fortitude save (DC 14 + your Str modifier) by the creature struck negates the loss of its move action, but not the extra damage.
+	
+This maneuver functions only against opponents standing on the ground. A flying creature or a levitating target need not save against the action loss effect, but still takes the extra damage.
+   

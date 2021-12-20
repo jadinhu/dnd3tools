@@ -1,0 +1,19 @@
+<b>Life Bolt</b>(Spell Compendium, p. 131)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Up to five rays
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Holding your palm outward, you intone the spell and empower it with a bit of your own life. A golden ray beams forth from your hand, striking an undead creature where its heart should have been.</b>
+	
+You draw forth some of your own life force to create a beam of positive energy that harms undead. You must succeed on a ranged touch attack with the ray to strike a target. You must make a ranged touch attack to hit, and if the ray hits an undead creature, it deals 1d12 points of damage. Creating each beam deals you 1 point of nonlethal damage.
+	
+For every two caster levels beyond 1st, you can create an additional ray, up to a maximum of five rays at 9th level. If you shoot multiple rays, you can have them strike a single creature or several creatures. You must designate targets before you check for spell resistance or roll damage. All rays must be aimed at enemies that are all within 30 feet of each other.
+ <b>Also appears in</b>   Magic of Faerun     

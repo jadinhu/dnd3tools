@@ -1,0 +1,21 @@
+<b>Snake Barrier</b>(Oriental Adventures)
+
+Abjuration
+ <b>Level:</b>  Shaman 4,   Guardian 4,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Invisible barrier whose area is up to one 5-ft. square/level (S)
+ <b>Duration:</b> 3 rounds/level
+ <b>Saving Throw:</b> Will negates or Fortitude half (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates an invisible barrier that prevents reptiles, reptilian creatures, and dragons from crossing it.
+Affected creatures are aware of the barrier's presence and purpose, and reptiles that are not overtly hostile avoid the barrier and those protected by it.
+Reptilian creatures with hostile intent may try to penetrate the barrier.
+Affected creatures with 4 or fewer Hit Dice must make a successful Will saving throw to cross at all.
+Any affected creature that crosses the barrier takes 1d4 points of damage per caster level (maximum 10d4), with a successful Fortitude saving throw reducing the damage by half.
+Intelligent reptilian creatures that encounter the barrier usually find it infuriating, and are much less likely to befriend and aid the caster.
+Material Component: A shed snakeskin.
+   

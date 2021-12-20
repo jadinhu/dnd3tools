@@ -1,0 +1,9 @@
+<b>Cure Moderate Wounds, Mass</b>(Player's Handbook v.3.5, p. 216)
+
+Conjuration (Healing)
+ <b>Level:</b>  Healer 5,  Bard 6,  Cleric 6,  Druid 7,  Urban Druid 7,    
+<b>Components:</b>
+
+ 	
+This spell functions like <b>mass cure light wounds</b>, except that it cures 2d8 points of damage +1 point per caster level (maximum +30).
+   

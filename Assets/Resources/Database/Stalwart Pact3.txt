@@ -1,0 +1,19 @@
+<b>Stalwart Pact</b>(Spell Compendium, p. 204)
+
+Evocation
+ <b>Level:</b>  Cleric 5,   Pact 5,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing living creature touched
+ <b>Duration:</b> Permanent until triggered, then 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You touch your ally and empower him with a spell that will later take effect in dire need.</b>
+	
+Once this spell is cast, it remains dormant until the subject is reduced to half or less of its full normal hit points. Once the subject has taken enough damage to reduce it to half or lower hit points, it immediately gains 5 temporary hit points per two caster levels (maximum 35 hit points at 14th level), damage reduction 5/magic, and a +2 luck bonus on saving throws. The hit points, damage reduction, and saving throw bonus disappear when the spell ends.
+	
+Material Component: Incense worth 250 gp.
+ <b>Also appears in</b>   Complete Divine  Races of Destiny     

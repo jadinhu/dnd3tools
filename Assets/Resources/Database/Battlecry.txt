@@ -1,0 +1,21 @@
+<b>Battlecry</b>(Complete Mage)
+
+Evocation [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 60 ft.
+ <b>Target:</b> You and all allies within 60 ft.
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Your bold shout bolsters the resolve of your allies.
+When you cast battlecry, you and your allies gain a burst of confidence and combat prowess.
+The next single attack made by any affected creature gains a +5 morale bonus on the damage roll, provided the attack is made before the end of your next turn.
+This bonus applies only to a single attack.
+In addition, any ally who is currently under a charm, compulsion, or fear effect can attempt a new save against that effect with a +2 morale bonus.
+Battlecry also extends by 3 rounds the duration of inspire courage, inspire greatness, or inspire heroics bardic music effects currently affecting any ally.
+If an ally is under the effect of more than one of these, all durations are extended.
+   

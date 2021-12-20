@@ -1,0 +1,9 @@
+<b>Repair Moderate Damage, Mass</b>(Dragon Compendium)
+
+Transmutation
+ <b>Level:</b>  Urban Druid 6,    
+<b>Components:</b>
+
+ 	
+This spell functions like <b>mass repair light damage,</b> except that it repairs 2d8 points of damage +1 point per caster level (maximum +30).
+   

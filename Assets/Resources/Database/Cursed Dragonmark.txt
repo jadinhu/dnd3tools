@@ -1,0 +1,17 @@
+<b>Cursed Dragonmark</b>(Dragonmarked, p. 149)
+
+Necromancy
+ <b>Level:</b>  Cleric 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, Dragonmark
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Close (25ft. + 5ft./2 levels)
+ <b>Target:</b> One dragonmarked creature
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will Negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Every time the target creature attempts to use or expend one of its dragonmark powers, there is a 50% chance that the attempt fails, wasting that use of the mark. A <b>cursed dragonmark</b> can be restored to normal with a break enchantment , limited wish, miracle, remove curse, or wish spell.
+	
+<b>Dragonmark.</b> Any true or aberrant dragonmark.
+   

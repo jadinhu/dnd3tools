@@ -1,0 +1,22 @@
+<b>Phantom Plow</b>(Lords of Darkness)
+
+Evocation [Earth]
+ <b>Level:</b>  Cleric 3,  Druid 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> See text
+ <b>Area:</b> See text
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+You turn aside raw earth in a furrow in a straight line, extending from your feet to a distance of 20 feet per caster level.
+The furrow measures 1 foot deep by 6 inches wide.
+The furrow ceases if it connects with a wall, large boulder, or other solid object greater than its own width.
+Medium-size and smaller creatures standing directly in the furrow's path must make a Balance check against the caster's save DC to retain their footing; otherwise they fall prone to the ground.
+Creatures burrowing or buried in the earth along the furrow's line suffer 4d4 points of damage.
+Netherese clerics utilized this spell to turn earth at a fast rate in preparation for planting crops.
+Its use enabled them to plant large tracts of land quickly and efficiently.
+Material Component: A handful of dried corn.
+   

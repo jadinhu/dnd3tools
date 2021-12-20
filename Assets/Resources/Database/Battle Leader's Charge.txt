@@ -1,0 +1,16 @@
+<b>Battle Leader's Charge</b>(Tome of Battle: The Book of Nine Swords, p. 90)
+
+White Raven (Strike)
+ <b>Level:</b>  Crusader 2 (One White Raven maneuver),  Warblade 2 (One White Raven maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You lead from the front, charging your enemies so that your allies can follow in your wake.</b>
+	
+The White Raven discipline teaches that he who seizes the initiative also seizes victory. You have learned to lead an attack with a mighty charge, the better to disrupt the enemy and inspire your allies in battle.
+	
+As part of this maneuver, you charge an opponent. You do not provoke attacks of opportunity for moving as part of this charge. If your charge attack hits, it deals an extra 10 points of damage.
+   

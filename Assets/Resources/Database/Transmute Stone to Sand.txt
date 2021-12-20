@@ -1,0 +1,26 @@
+<b>Transmute Stone to Sand</b>(Sandstorm)
+
+Transmutation [Earth]
+ <b>Level:</b>  Druid 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Up to two 10-ft. cubes/level (S)
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell turns natural, uncut, or unworked stone of any sort into an equal volume of sand.
+If the spell is cast upon a boulder, for example, the boulder collapses into a heap of sand.
+Magical stone is not affected by this spell.
+The depth of the sand created cannot exceed 10 feet.
+If transmute stone to sand is cast upon the ceiling of a cavern or tunnel, the sand falls to the floor and scatters in a pile 5 feet deep.
+For example, a 10th-level caster could convert twenty 10-foot cubes into sand.
+Piling on the floor, this sand would cover an area of forty 10-foot squares to a depth of 5 feet.
+The falling sand and the ensuing cave-in deal 8d6 points of bludgeoning damage to anyone caught directly beneath the area, or half damage to those who succeed on Reflex saves.
+Castles and large stone buildings generally have immunity to this spell, since transmute stone to sand can't affect worked stone and doesn't reach deep enough to undermine such buildings' foundations.
+However, small buildings or structures often rest upon foundations shallow enough to be damaged or even partially toppled by this spell.
+The sand remains until a successful dispel magic or transmute sand to stone spell restores its substance � ;though not necessarily its form.
+Arcane Material Component: Sandstone and granite.
+   

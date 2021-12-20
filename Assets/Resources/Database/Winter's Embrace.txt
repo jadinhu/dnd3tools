@@ -1,0 +1,20 @@
+<b>Winter's Embrace</b>(Frostburn)
+
+Evocation [Cold]
+ <b>Level:</b>  Druid 3,  Cleric 4,   Winter 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Winter's embrace covers the victim with sheets of ice and lumps of snow.
+If the subject succeeds on its Fortitude save, the ice and snow instantly slough from its body, causing a mere 1d4 points of cold damage and ending the effect.
+If the subject fails its saving throw, the ice and snow cling tenaciously to its body and cause 1d8 points of cold damage each round.
+On the subject's action each round, it can attempt a new Fortitude saving throw to avoid taking damage that round.
+If a creature takes damage twice from a single casting of winter's embrace, it becomes fatigued.
+The fourth time a creature takes damage from the same spell, it becomes exhausted.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,18 @@
+<b>Cloak Pool</b>(Planar Handbook)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One color pool
+ <b>Duration:</b> One hour/level (D)
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell causes a color pool on the Astral Plane � ;an irregular patch of color containing a portal to another plane � ;to seemingly cease to exist.
+In truth, it is only hidden from view.
+The use of this spell does not hide the area around the pool; it masks only the fact that a pool is present.
+See invisibility or true seeing reveals the presence of the pool, as does analyze portal.
+ <b>Also appears in</b>   Spell Compendium     

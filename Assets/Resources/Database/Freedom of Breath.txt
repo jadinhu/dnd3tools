@@ -1,0 +1,20 @@
+<b>Freedom of Breath</b>(Sandstorm)
+
+Abjuration
+ <b>Level:</b>  Cleric 2,  Druid 2,  Paladin 2,  Ranger 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject can breathe freely in conditions that ordinarily inhibit respiration, such as sandstorms.
+While freedom of breath is in effect, the subject does not make Constitution checks to avoid the onset of suffocation unless no breathable substance is available (such as for a human underwater or buried under sand).
+The spell also protects against stenches, such as those produced by a troglodyte or a stinking cloud spell.
+The subject does not have to make saves or checks against nausea and similar effects from strong odors.
+Freedom of breath also grants a +2 bonus on Fortitude saves and Constitution checks to resist poisonous vapors, such as those from a volcanic caldera or a cloudkill spell, for the duration of the spell.
+Material Component: A sliver of mica.
+   

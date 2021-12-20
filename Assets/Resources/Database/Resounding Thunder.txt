@@ -1,0 +1,20 @@
+<b>Resounding Thunder</b>(Complete Mage)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> 5 rounds (D)
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Waves of sound crash continuously upon the ears of those in the area.
+You fill the area with discordant crashes of sonic energy that deal 4d6 points of sonic damage per round to creatures within the area.
+Furthermore, any creature within or entering the area becomes deafened as long as it remains within and for 1 round thereafter.
+A successful Fortitude save halves the damage and negates the deafened effect.
+The clamorous sound in the area also interferes with all sonic spells and effects.
+Any such spell or effect has only a 50% chance to affect a creature within the area of resounding thunder.
+   

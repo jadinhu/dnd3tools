@@ -1,0 +1,19 @@
+<b>Divine Interdiction</b>(Spell Compendium, p. 70)
+
+Abjuration
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 10-ft.-radius emanation centered on a creature, object, or point in space
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates or None (object); see text
+ <b>Spell Resistance:</b> Yes or No (object); see text
+
+ 	
+<b>You shout out a plea, calling upon your deity to quell the power of another deity's follower.</b>
+	
+This spell can be cast at a point in space, but the effect is stationary unless cast on a mobile object. The spell can be cast on a creature, and the effect then radiates from the creature and moves as it moves. A creature can attempt a Will save to negate the spell, and spell resistance, if any, applies if the spell is cast on a creature.
+	
+<b>Divine interdiction</b> interferes with a cleric's connection to her divine source of power, resulting in a temporary loss of the ability to turn or rebuke creatures and loss of granted domain powers. Paladins, blackguards, and other classes capable of rebuking and turning also suffer a temporary loss of this ability. This affects the subject's ability to channel energy through the use of a turn or rebuke attempt, and so also interferes with the use of many divine feats.
+   

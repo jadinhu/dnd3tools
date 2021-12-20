@@ -1,0 +1,18 @@
+<b>Cloak of the Sea</b>(Complete Adventurer)
+
+Transmutation
+ <b>Level:</b>  Druid 5,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject retains his or her form but takes on a blue-green watery appearance.
+While underwater, the subject functions as if affected by blur, freedom of movement, and water breathing and doesn't take nonlethal damage from water pressure or hypothermia for the duration of the spell.
+When out of the water (or even partially out), the subject gains none of these advantages except water breathing.
+The subject can leave and reenter water without ending the spell.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers     

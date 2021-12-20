@@ -1,0 +1,16 @@
+<b>Pleasant Visage</b>(Ghostwalk)
+
+Illusion (Glamer) [Ectomancy]
+ <b>Level:</b>  Bard 1,  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One ghost
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You disguise the wounds of a ghost who has a disturbing, repulsive, or gruesome appearance, making it appear completely normal (although still a ghost).
+The spell does not change the ghost's features or disguise it in any way; it conceals the manner of the ghost's death so that it can walk about in polite society.
+   

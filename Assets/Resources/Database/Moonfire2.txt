@@ -1,0 +1,21 @@
+<b>Moonfire</b>(Spell Compendium, p. 144)
+
+Evocation [Light]
+ <b>Level:</b>   Moon 9,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Area: Cone-shaped burst and coneshaped emanation; see text
+ <b>Duration:</b> Instantaneous and 1 round/level; see text
+ <b>Saving Throw:</b> Reflex half and Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A cone of fiery white moonlight springs from your hand.</b>
+	
+Living creatures in the area of a moonfire spell feel an unnatural chill and take 1d8 points of damage per two caster levels (maximum 10d8). Undead and shapechangers take 1d8 points of damage per caster level (maximum 20d8). This application of the spell allows a Reflex save for half damage.
+	
+All magical auras within the cone glow with a faint blue light for 1 round per caster level. Disguised, shapechanged, or polymorphed creatures and objects in the spell's area at the time the spell is cast must make Will saves or immediately return to their normal forms. Even if the save succeeds, they remain covered in ghostly white outlines that show their true forms for 1 round per caster level.
+	
+The entire area covered by the cone glows silver-white for 1 round per caster level. This radiance is as bright as the light of a full moon and negates electricity damage for 1 round per caster level unless the item or creature generating the electricity effect makes a caster level check (1d20 + item's caster level or creature's caster level) against a DC equal to 10 + your caster level. If an electricity effect is generated outside the glowing cone, the cone blocks the electricity effect unless the creature generating the effect succeeds on a caster level check. If an electricity effect is generated inside the glowing cone, the cone negates the electricity effect unless the creature generating the effect succeeds on a caster level check.
+ <b>Also appears in</b>   Forgotten Realms Campaign Setting     

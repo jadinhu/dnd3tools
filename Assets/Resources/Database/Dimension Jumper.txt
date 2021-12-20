@@ -1,0 +1,18 @@
+<b>Dimension Jumper</b>(Complete Mage)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You and objects touched
+ <b>Duration:</b> 1 round/level
+
+ 	
+You whisk yourself from place to place with a word.
+For the duration of this spell, you gain the ability to teleport yourself up to 30 feet once per round as a move action.
+You can bring along held or carried objects, as long as their weight doesn't exceed your maximum load.
+You can't transport other creatures except for a familiar.
+You must be able to see your destination; if you attempt to teleport into a solid object, the action is wasted but the spell remains in effect.
+If you don't end your teleport on a solid surface, you fall immediately.
+   

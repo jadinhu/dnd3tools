@@ -1,0 +1,17 @@
+<b>Nature's Avatar</b>(Spell Compendium, p. 145)
+
+Transmutation
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Animal touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>With a touch, you gift your animal ally with nature's strength, resilience, and speed.</b>
+	
+The affected animal gains a +10 morale bonus on attack rolls and damage rolls and 1d8 temporary hit points per caster level, plus the effect of a <b>haste</b> spell (PH 239).
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Divine     

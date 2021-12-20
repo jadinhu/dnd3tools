@@ -1,0 +1,17 @@
+<b>Delay Disease</b>(Spell Compendium, p. 63)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 1,  Druid 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You press your focus to the creature and implore the contagion that ravages it to lie dormant. As the spell takes effect, a dim yellow glow passes over the creature's body.</b>
+	
+The progress of any nonmagical disease that already afflicts the target is halted for the duration of the spell. <b>Delay disease</b> allows the subject to skip the required saving throw against the disease for the day that the spell is in effect. During this period, the subject accrues no further ability damage from the disease. A skipped saving throw counts as neither a success nor a failure for the purpose of recovery from the disease. Furthermore, the incubation period of any disease to which the subject is exposed during the spell's duration does not begin until the spell expires. <b>Delay disease</b> does not cure any damage that a disease might already have dealt, and it has no effect on magical or supernatural diseases.
+   

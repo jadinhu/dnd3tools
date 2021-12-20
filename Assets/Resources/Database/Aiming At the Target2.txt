@@ -1,0 +1,16 @@
+<b>Aiming At the Target</b>(Oriental Adventures)
+
+Abjuration
+ <b>Level:</b>  Wu Jen 5,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> See text
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Concentration, up to 20 minutes (D)
+
+ 	
+When you cast this spell, you increase your ability to concentrate on a spell you have already cast.
+This spell is one of only two spells that you can cast while maintaining concentration on another spell (the other being finding the center).
+This spell gives you a +10 circumstance bonus on Concentration checks you make to maintain concentration on another spell, and lasts as long as your concentration on the other spell.
+Casting aiming at the target is a free action, like casting a quickened spell, and it counts toward the normal limit of one quickened spell per round.
+ <b>Also appears in</b>   Complete Arcane     

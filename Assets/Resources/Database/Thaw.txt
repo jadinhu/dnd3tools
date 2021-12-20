@@ -1,0 +1,16 @@
+<b>Thaw</b>(Frostburn)
+
+Transmutation [Earth, Fire]
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 10-ft. cube/level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+All everfrost, slush, snow, mud, and ice in the spell's area are filled with heat.
+Ice and snow become slush, slush becomes everfrost, and everfrost becomes bog (see page 88 of the Dungeon Master's Guide, for information on bogs).
+   

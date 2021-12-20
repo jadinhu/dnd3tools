@@ -1,0 +1,18 @@
+<b>Interminable Echo</b>(Complete Mage)
+
+Illusion (Phantasm) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 5 rounds
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The deep tolling of a bell echoes within the mind of your foe.
+You fill the target's mind with a barrage of illusory sound.
+The subject takes a -10 penalty on Listen checks and 2d6 points of sonic damage each round.
+A successful Will save reduces the duration to 1 round.
+   

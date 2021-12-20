@@ -1,0 +1,19 @@
+<b>Field of Icy Razors</b>(Spell Compendium, p. 90)
+
+Evocation
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature/level, no two of which are more than 60 ft. apart
+ <b>Duration:</b> Instantaneous plus 1 round/level; see text
+ <b>Saving Throw:</b> Reflex partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your breath becomes cold and frosty as you intone this spell, and blue-white crystals erupt from the soil, chill air swirling around their needle-sharp tips.</b>
+	
+Razor-sharp ice crystals surround the targets. Each target takes 1d6 points of damage per caster level (maximum 20d6); half of this damage is cold damage, and half is slashing. In addition, each target's speed is reduced by 20 feet for 1 round per caster level. Creatures that succeed on Reflex saving throws take half damage and their movement is unaffected.
+	
+<b>Focus:</b> A silver suriken worth 50 gp that looks like a snowflake.
+   

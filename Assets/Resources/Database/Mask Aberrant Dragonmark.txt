@@ -1,0 +1,21 @@
+<b>Mask Aberrant Dragonmark</b>(Dragonmarked, p. 152)
+
+Transmutation
+ <b>Level:</b>  Assassin 1,  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, Dragonmark
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+<b>You reshape your aberrant dragonmark to make it look like a true dragonmark.</b>
+	
+This spell physically alters your aberrant dragonmark to look like one of the twelve true dragonmarks (your choice). You do not gain any of the spell-like abilities of the true dragonmark, but you are treated as having that particular dragonmark for the purpose of being able to cast spells or use magic items that require you to have a mark of that type. You can continue to use your aberrant dragonmark spell-like abilities as normal.
+	
+If you have a base aberrant dragonmark, you can reshape it into the form of any least true dragonmark. If you have a lesser or greater aberrant dragonmark, you can reshape it into a lesser or greater true dragonmark, respectively.
+	
+This spell taxes the body. At the end of the spell's duration, you are nauseated for 1d10 rounds.
+	
+<b>Dragonmark:</b> Any aberrant dragonmark.
+   

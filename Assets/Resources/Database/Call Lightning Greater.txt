@@ -1,0 +1,25 @@
+<b>Call Lightning, Greater</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Evocation [Electricity]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes, +1 action per bolt called
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> See text
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell is similar to call lightning, except that you may call down bolts every 5 minutes.
+To cast greater call lightning, you must be in a stormy area � ;a rain shower, a tornado (including a whirlwind formed by a djinn or air elemental of 7 HD or more), clouds and wind, or even hot and cloudy conditions will do.
+While you are in such an area, you can call down one bolt of lightning every 5 minutes.
+You need not do so immediately upon casting � ;other actions, even spellcasting, can be performed at any time during the spell's duration.
+However, you must use a standard action to concentrate on the spell when you call each bolt.
+Each bolt of lightning flashes down in a vertical stroke, striking any target point you designate that is within range (measured from your position at the time).
+It takes the shortest possible unobstructed path between a nearby cloud and the target point.
+Any creature within a 10-foot radius of the bolt's path or the point where it strikes is affected.
+Each bolt deals 1d10 points of electrical damage per caster level (maximum 15d10).
+Greater call lightning is usable only outdoors; it does not function indoors, underground, or underwater.
+The spell ends if you leave the stormy area.
+   

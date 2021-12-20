@@ -1,0 +1,9 @@
+<b>Magic Circle Against Chaos</b>(Player's Handbook v.3.5, p. 249)
+
+Abjuration [Lawful]
+ <b>Level:</b>  Cleric 3,  Paladin 3,  Sorcerer 3,  Wizard 3,  Wu Jen 3,  Savant 3 (Divine),  Sha'ir 3,   Law 3,  Mechanus 3,   
+<b>Components:</b>
+
+ 	
+This spell functions like magic circle against evil, except that it is similar to protection from chaos instead of protection from evil, and it can imprison a nonlawful called creature.
+   

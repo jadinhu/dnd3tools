@@ -1,0 +1,18 @@
+<b>Unluck</b>(Complete Arcane)
+
+Divination
+ <b>Level:</b>  Bard 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you negatively influence the randomness of fortune for the target.
+Whenever the affected creature undertakes an action involving random chance (specifically, whenever any die roll is made for the creature, including attack rolls, damage rolls, and saving throws), two separate rolls are made and the worse result applied.
+A creature carrying a stone of good luck is immune to the effect of unluck, but the stone's effects do not function for the duration of the spell if the creature fails its save.
+Material Component: A piece of a broken mirror.
+ <b>Also appears in</b>   Spell Compendium     

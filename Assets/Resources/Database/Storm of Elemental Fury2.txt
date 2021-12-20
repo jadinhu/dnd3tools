@@ -1,0 +1,25 @@
+<b>Storm of Elemental Fury</b>(Spell Compendium, p. 209)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> 40-ft.-radius storm cloud, 200 ft. above the ground
+ <b>Duration:</b> 4 rounds
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a thunderous boom, a black storm cloud appears over your enemies, striking them with a terrifying combination of effects from the Elemental Planes.</b>
+	
+Each round, the storm generates one of the following effects, starting with the first effect, then progressing to the second, until it has run its 4-round course.
+	
+1st Round: A storm of elemental fury buffets the area immediately beneath it with a whirling windstorm (<span class="caps">DMG</span> 94 � ;95). Ranged attacks within the area of the storm are impossible, and Small or smaller creatures must succeed on a Fortitude save or be blown away. Medium creatures must make their Fortitude save or be knocked prone, and Large or larger creatures must succeed on a Fortitude save to move that round. Flying creatures that fail their saves are instead blown in a random direction, traveling 1d6Ã—5 feet if Large or larger, 1d6Ã—10 feet if Medium, and 2d6Ã—10 feet if Small or smaller. Spells cast within the area are disrupted unless the caster succeeds on a Concentration check against a DC equal to the storm of elemental fury's save DC + the level of the spell the caster is trying to cast.
+	
+2nd Round: Chunks of rock fall from the sky, dealing 5d6 points of damage (no save) to all creatures in the storm.
+	
+3rd Round: A deluge of rain extinguishes unprotected flames and perhaps protected ones as well (50% chance). The torrential downpour reduces visibility to 5 feet and cuts movement in half.
+	
+4th Round: Flame pelts the area beneath the storm cloud, dealing 1d6 points of fire damage per caster level (maximum 15d6) (Reflex half).
+   

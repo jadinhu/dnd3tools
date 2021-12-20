@@ -1,0 +1,15 @@
+<b>Insightful Feint</b>(Spell Compendium, p. 124)
+
+Divination
+ <b>Level:</b>  Assassin 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+With a chuckle you whisper the words that will make your ruse more effective.
+	
+You gain a +10 insight bonus on the next single Bluff check that you make to feint in combat (if it is made before the start of your next turn). You can make the feint as a move action, or once as a free action if you have the Improved Feint feat.
+ <b>Also appears in</b>   Complete Adventurer     

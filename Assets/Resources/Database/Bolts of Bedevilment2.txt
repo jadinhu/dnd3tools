@@ -1,0 +1,17 @@
+<b>Bolts of Bedevilment</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>   Madness 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell grants you the ability to make one ray attack per round.
+The ray dazes one living creature, clouding its mind so that it takes no action for 1d3 rounds.
+The creature is not stunned (so attackers get no special advantage against it), but it can't move, cast spells, use mental abilities, and so on.
+ <b>Also appears in</b>   Complete Divine  Deities and Demigods  Lords of Madness     

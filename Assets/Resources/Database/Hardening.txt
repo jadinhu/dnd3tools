@@ -1,0 +1,26 @@
+<b>Hardening</b>(Deities and Demigods)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,   Artifice 7,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One item of a volume no greater than 10 cu. ft./level (see text)
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+This spell increases the hardness of materials (see Table 8-
+12: Substance Hardness and Hit Points in the Player's Handbook).
+Paper becomes harder to tear, glass becomes harder to break, wood becomes more resilient, and so on.
+For every two caster levels, increase by 1 the hardness of the material targeted by the spell.
+This hardness increase improves only the material's resistance to damage.
+Nothing else is modified by the improvement.
+For example, a longsword (treat steel as iron, base hardness 10) affected by a hardening spell cast by a 12th-level caster would have a new hardness of 16 for purposes of ignoring damage caused by someone using the Sunder feat.
+The sword's hit points, attack and damage modifiers, and other characteristics are not affected.
+The hardening spell does not in any way affect resistance to other forms of transformation.
+Ice still melts, paper and wood still burn, rock still becomes transmutable to mud with the proper spell, and so on.
+This spell affects up to 10 cubic feet per level of the spellcaster.
+If cast upon a metal or mineral, the volume is reduced to 1 cubic foot per level.
+ <b>Also appears in</b>   Eberron Campaign Setting  Spell Compendium  Magic of Faerun     

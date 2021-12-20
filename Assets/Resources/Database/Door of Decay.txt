@@ -1,0 +1,22 @@
+<b>Door of Decay</b>(Complete Champion)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> See text
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+You feel yourself pulled forward, into the undead creature you have touched.
+Your flesh and soul grow cold, and after an instant of maddening emptiness, you reappear elsewhere.
+You can use the Negative Energy Plane as a conduit in the same fashion that most teleportation magic uses the Astral Plane.
+Upon casting this spell, you can literally step into an undead creature and emerge from another designated undead creature up to 100 miles away per caster level.
+If you do not know the precise location of the destination undead, you can select the undead creature you control nearest your desired exit point.
+Both undead creatures must be your size category or larger and either willing or under your control.
+(Mindless undead are considered willing only if you control them).
+If you worship Wee Jas, Vecna, or another deity associated with both death and magic, you gain a +4 bonus to your caster level for the purpose of determining the maximum distance you can travel.
+You can bring along objects as long as their weight doesn't exceed your maximum load, but you cannot bring other creatures with you.
+Special: A dread necromancer can learn this spell through the advanced learning class feature, even though it is not a necromancy spell.
+   

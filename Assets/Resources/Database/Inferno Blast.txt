@@ -1,0 +1,17 @@
+<b>Inferno Blast</b>(Tome of Battle: The Book of Nine Swords, p. 55)
+
+Desert Wind (Strike) [Fire]
+ <b>Level:</b>  Swordsage 9 (Five Desert Wind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+
+ 	
+<b>Hot winds swirl about you, and a faint aroma of brimstone sweeps over the area. A flickering yellow aura surrounds you and grows in intensity, shedding tremendous heat and light. Creatures around you stumble back from the heat. With a howling roar, you unleash a hellish blast of fire that melts steel and warps stone.</b>
+	
+Only true masters of the Desert Wind school are capable of unleashing an inferno blast. You focus your internal ki into a blinding hot burst of fire that deals 100 points of fire damage to all creatures in the area. You are not harmed by your own inferno blast.
+This maneuver is a supernatural ability.
+   

@@ -1,0 +1,10 @@
+<b>Halaster's Fetch Iv</b>(City of Splendors: Waterdeep)
+
+Conjuration (Calling)
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>
+
+ 	
+As summon monster IV, except called creatures do not disappear at the end of the spell's duration.
+However, they become free-willed and outside the control of the caller after the spell expires.
+   

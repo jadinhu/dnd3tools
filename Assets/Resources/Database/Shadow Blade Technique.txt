@@ -1,0 +1,17 @@
+<b>Shadow Blade Technique</b>(Tome of Battle: The Book of Nine Swords, p. 78)
+
+Shadow Hand (Strike)
+ <b>Level:</b>  Swordsage 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You weave your weapon in an elaborate pattern, creating an illusory double that glows with white energy. As you make your attack, both your true weapon and the illusion slash at your foe.</b>
+	
+This maneuver allows you to create a mystical double of your weapon. As you attack, your foe must decide which weapon to defend against. In most cases, the illusory weapon distracts your foe and allows your true attack to hit. In some cases, both attacks strike home. In this case, the shadow blade discharges its magic and imbues your attack with cold energy.
+	
+As part of this maneuver, you make a single melee attack against an opponent. Unlike on a normal attack, you roll 2d20 and select which of the two die results to use. If you use the higher die result, resolve your attack as normal. (Your mystic double misses, but your true attack might hit.) If you use the lower die result, or if both die results are the same, your attack deals an extra 1d6 points of cold damage as both the mystic double?s attack and your true weapon strike home.
+	
+This maneuver is a supernatural ability.</p   

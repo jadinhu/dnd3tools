@@ -1,0 +1,18 @@
+<b>Burning Hands</b>(Player's Handbook v.3.5, p. 207)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,  Adept 1,  Warmage 1,  Duskblade 1,  Blighter 1,  Thayan Slaver 1,  Sha'ir 1,   Fire 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 15 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A cone of searing flame shoots from your fingertips.
+Any creature in the area of the flames takes 1d4 points of fire damage per caster level (maximum 5d4).
+Flammable materials, such as cloth, paper, parchment, and thin wood burn if the flames touch them.
+A character can extinguish burning items as a full-round action.
+   

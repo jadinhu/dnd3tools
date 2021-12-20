@@ -1,0 +1,16 @@
+<b>Spittle Spray</b>(Ghostwalk)
+
+Transmutation
+ <b>Level:</b>  Cleric 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You can spit out to close range (25 ft. + 5 ft./2 levels).
+If you have a poison bite attack, this spell allows you to spit your poison out to this range.
+You make a ranged touch attack to hit your foe, and if you succeed, the target must make a saving throw against your poison as if it had been bitten.
+This spell is normally used by the yuan-ti and has no significant effect if used with normal spittle.
+   

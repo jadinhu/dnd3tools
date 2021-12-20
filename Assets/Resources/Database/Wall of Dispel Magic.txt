@@ -1,0 +1,19 @@
+<b>Wall of Dispel Magic</b>(Spell Compendium, p. 233)
+
+Abjuration
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> A straight wall whose area is up to one 10-ft. square/level
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You cast the spell and a translucent wall springs up, a shimmering field of faded colors that swirls and merges with itself like the surface of a soap bubble.</b>
+	
+This spell creates a transparent, permeable barrier. Anyone passing through it becomes the target of a <b>dispel magic</b> effect (PH 223) at your caster level. A summoned creature targeted in this way can be dispelled by the effect.
+	
+A wall of dispel magic cannot be seen or felt by ordinary means, or even with a see invisibility spell. Detect magic indicates the presence of the effect, and true seeing reveals its presence.
+ <b>Also appears in</b>   Underdark     

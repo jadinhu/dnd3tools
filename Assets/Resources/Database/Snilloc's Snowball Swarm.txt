@@ -1,0 +1,18 @@
+<b>Snilloc's Snowball Swarm</b>(Forgotten Realms Campaign Setting)
+
+Evocation [Cold]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,   Blightbringer 2,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> 10-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A flurry of magic snowballs erupts from a point you select.
+The swarm of snowballs deals 2d6 points of cold damage to creatures and objects within the burst.
+For every two caster levels beyond 3rd, the snowballs deal an extra die of damage, to a maximum of 5d6 at 9th level or higher.
+Material Component: A piece of ice or a small white rock chip.
+   

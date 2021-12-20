@@ -1,0 +1,15 @@
+<b>Spell Enhancer</b>(Spell Compendium, p. 198)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You utter an ancient word tied to the fundamental principles of magic and immediately begin casting another spell.</b>
+	
+This spell enhances the next spell you cast, making it more difficult for targets to resist. The next spell you cast this round is cast at +2 caster level, and its save DC increases by 1.
+ <b>Also appears in</b>   Magic of Faerun  Player's Guide to FaerÃ»n     

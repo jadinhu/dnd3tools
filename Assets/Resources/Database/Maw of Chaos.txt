@@ -1,0 +1,24 @@
+<b>Maw of Chaos</b>(Magic of Faerun)
+
+Abjuration [Chaotic]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 15-ft.-radius emanation
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will half (see text)
+ <b>Spell Resistance:</b> Yes (see text)
+
+ 	
+You create a yawning area of roiling purple-red energy resembling a great mouth.
+This field of energy has the following effects on anything that touches or enters it:
+First, all creatures except you take 1 point of force damage per caster level.
+Spell resistance applies to the damage (but not the other effects of the spell).
+Those affected by the spell make a Will saving throw every round.
+A successful saving throw halves the damage that round.
+Second, the chaotic energy makes it difficult to concentrate.
+Any activity that requires concentration (such as casting a spell or using a spell-like ability) requires a Concentration check (DC 25 + spell level) to succeed.
+Creatures with the chaotic subtype take no damage from this spell, although its other effects affect them normally.
+Material Component: A jawbone with teeth.
+ <b>Also appears in</b>   Savage Species  Spell Compendium     

@@ -1,0 +1,26 @@
+<b>Resinous Tar</b>(Complete Mage)
+
+Conjuration (Creation)
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> One object or 10-ft. square
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+A sticky layer of black liquid coats your target.
+The resinous tar spell makes a solid surface sticky.
+Movement costs across the area are doubled.
+Any prone creature in the area must succeed on a DC 10 Strength check to stand up.
+The spell can also be used to create a sticky coating on an item.
+Items not in use or in a creature's possession are always affected by this spell.
+An object wielded or held by a creature receives a Reflex saving throw to avoid the effect.
+A creature holding an affected item must use a full-round action to let go of the item, drop it, put it away, pick it up from the ground, or ready it for use.
+A creature wielding an affected item gains a +5 circumstance bonus on opposed checks to avoid being disarmed.
+A creature wearing armor or clothing affected by this spell takes a -5 penalty on Escape Artist checks and on grapple checks made to resist or escape a grapple or to escape a pin.
+Resinous tar counters and dispels grease (and vice versa).
+Material Component: A drop of honey, molasses, or pine resin.
+   

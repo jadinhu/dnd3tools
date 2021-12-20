@@ -1,0 +1,19 @@
+<b>Planar Bubble</b>(Spell Compendium, p. 158)
+
+Abjuration
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Area:</b> 10-ft.-radius emanation from touched creature
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> No; see text
+
+ 	
+<b>You cast the spell and sprinkle silver dust around you. Where it lands the dust sparkles and evaporates, and the elemental region around you calms and becomes more hospitable.</b>
+	
+This spell creates an area around the subject creature that emulates its native planar environment. Thus, a character hailing from the Material Plane would have normal gravity, temperature, magic, and so on. This spell cast on a native of the Plane of Shadow (<span class="caps">DMG</span> 152) would make the area around the creature mimic its home plane's normal gravity, a mild neutral alignment, enhanced shadow spells, and impeded light or fire spells.
+	
+Arcane Material Component: A sprinkling of silver dust.
+ <b>Also appears in</b>   Planar Handbook     

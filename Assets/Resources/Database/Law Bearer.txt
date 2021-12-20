@@ -1,0 +1,18 @@
+<b>Law Bearer</b>(Tome of Battle: The Book of Nine Swords, p. 59)
+
+Devoted Spirit (Strike) [Law]
+ <b>Level:</b>  Crusader 5 (One Devoted Spirit maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round
+
+ 	
+<b>Prerequisite</b>: lawful alignment
+	
+<b>The air around you hums with cosmic energy as the power of pure law surges through you. For a moment, you take on the aspect of a perfect being as you charge forward to smite your foes.</b>
+	
+You must make a charge attack as part of this maneuver. If the target is chaotic-aligned, you gain a +8 bonus on
+your attack (in addition to the charge bonus) and your attack deals an extra 4d6 points of damage. In addition, if your charge attack hits and the target is chaotic-aligned, you become wreathed in axiomatic energy. You gain a +5 bonus on saves and to AC until the beginning of your next turn.
+   

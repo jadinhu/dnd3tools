@@ -1,0 +1,18 @@
+<b>Protection from Winged Flyers</b>(Shining South)
+
+Abjuration
+ <b>Level:</b>  Cleric 1,  Druid 1,  Paladin 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> No; see text
+
+ 	
+The spell functions like protection from evil, except that the bonuses apply to attacks from creatures that have wings and a fly speed.
+Summoned creatures that fly with wings cannot touch the subject.
+Spell resistance can allow a creature to overcome this protection and touch the warded creature.
+Arcane Material Component: A feather or bat wing.
+   

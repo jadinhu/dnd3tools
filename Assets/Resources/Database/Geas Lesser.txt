@@ -1,0 +1,26 @@
+<b>Geas, Lesser</b>(Player's Handbook v.3.5, p. 235)
+
+Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
+ <b>Level:</b>  Bard 3,  Sorcerer 4,  Wizard 4,  Sha'ir 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature with 7 HD or less
+ <b>Duration:</b> One day/level or until discharged (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A lesser geas places a magical command on a creature to carry out some service or to refrain from some action or course of activity, as desired by you.
+The creature must have 7 or fewer Hit Dice and be able to understand you.
+While a geas cannot compel a creature to kill itself or perform acts that would result in certain death, it can cause almost any other course of activity.
+The geased creature must follow the given instructions until the geas is completed, no matter how long it takes.
+If the instructions involve some open-ended task that the recipient cannot complete through his own actions (such as &quot;Wait here&quot; or &quot;Defend this area against attack&quot;), the spell remains in effect for a maximum of one day per caster level.
+A clever recipient can subvert some instructions: For example, if you order the recipient to protect you from all harm, it might place you in a nice, safe dungeon for the duration of the spell.
+If the subject is prevented from obeying the lesser geas for 24 hours, it takes a -2 penalty to each of its ability scores.
+Each day, another -2 penalty accumulates, up to a total of &#8211; 8.
+No ability score can be reduced to less than 1 by this effect.
+The ability score penalties are removed 24 hours after the subject resumes obeying the lesser geas.
+A lesser geas (and all ability score penalties) can be ended by break enchantment, limited wish, remove curse, miracle, or wish.
+Dispel magic does not affect a lesser geas.
+   

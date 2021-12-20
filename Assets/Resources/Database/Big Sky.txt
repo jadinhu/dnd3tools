@@ -1,0 +1,21 @@
+<b>Big Sky</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Enchantment (Compulsion) [Fear, Mind-Affecting]
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> You and all allies and enemies within a 30-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates the sensation that the sky is filled with invisible nature spirits and sussurating voices.
+This effect is a boon to you and your allies and a bane to your enemies.
+You gain a +2 morale bonus on attack rolls and a +4 morale bonus on saving throws against fear effects for the duration of the spell, as does each of your allies within the area.
+Each of your enemies within the area who fails a Will save behaves as if affected by a fear spell.
+Each round, every affected enemy gets a new Will save to shake off the effects of this spell.
+An enemy who makes a successful save need not make any more saving throws for the duration of the spell.
+Creatures immune to fear are immune to both aspects of this spell.
+   

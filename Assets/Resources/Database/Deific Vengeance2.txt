@@ -1,0 +1,17 @@
+<b>Deific Vengeance</b>(Spell Compendium, p. 62)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Cleric 2,   Purification 2,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You call out to your deity, declaring your foe's crimes and asking your deity to punish him.</b>
+	
+This spell deals 1d6 points of damage per two caster levels (maximum 5d6), or 1d6 points per caster level (maximum 10d6) if the target is undead.
+ <b>Also appears in</b>   Complete Divine     

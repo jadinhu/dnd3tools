@@ -1,0 +1,16 @@
+<b>Critical Strike</b>(Complete Adventurer)
+
+Divination
+ <b>Level:</b>  Assassin 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+While this spell is in effect, your melee attacks are more likely to strike a foe's vital areas.
+Whenever you make a melee attack against a flanked foe or against a foe denied its Dexterity bonus, you deal an extra 1d6 points of damage, your weapon's threat range is doubled (as if under the effect of keen edge), and you gain a +4 insight bonus on rolls made to confirm critical hits.
+The increased threat range granted by this spell doesn't stack with any other effect that increases your weapon's threat range.
+Creatures immune to sneak attacks are immune to the extra damage dealt by your attacks.
+ <b>Also appears in</b>   Complete Mage  Spell Compendium     

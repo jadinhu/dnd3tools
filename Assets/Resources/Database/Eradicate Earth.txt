@@ -1,0 +1,19 @@
+<b>Eradicate Earth</b>(Spell Compendium, p. 84)
+
+Abjuration [Earth]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 40 ft.
+ <b>Area:</b> 40-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You grasp the stone firmly and point your fist outward. You feel the stone vanish, and a huge, silent explosion ripples through the air.</b>
+	
+A shock wave radiates from you, seismically damaging all nearby creatures that have the earth subtype. Any such creature that is within the area of the spell takes 1d8 points of damage per caster level (maximum 10d8).
+	
+<b>Material Component:</b> A small stone.
+ <b>Also appears in</b>   Underdark     

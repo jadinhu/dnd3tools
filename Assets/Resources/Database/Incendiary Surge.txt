@@ -1,0 +1,17 @@
+<b>Incendiary Surge</b>(Complete Mage)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+No sooner has the blast of fire burst forth from your hands than you feel it building within you again.
+This spell deals 1d6 points of fire damage per caster level (maximum 10d6) to all creatures in the area.
+If you cast incendiary surge again before the end of your next turn, the second casting deals 1d8 points of damage per caster level (maximum 10d8), and you gain a +2 bonus on any caster level checks made to overcome spell resistance with that casting of the spell.
+   

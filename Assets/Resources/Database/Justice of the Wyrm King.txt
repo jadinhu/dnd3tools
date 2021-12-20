@@ -1,0 +1,17 @@
+<b>Justice of the Wyrm King</b>(Dragon Magic)
+
+Abjuration [Force]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 5 rounds
+
+ 	
+Spines of brilliant yellow light burst outward from your body, giving the impression that you are covered in glowing spikes.
+You create a field of arcane force around your body that deals retaliatory damage to your attackers.
+While this spell is active, any creature striking you with a nonreach melee weapon takes 4d6 points of damage.
+As part of the casting of this spell, if you are a sorcerer you can sacrifice one additional sorcerer spell slot of up to 9th level; this increases the damage dealt by 2 points for every level of the sacrificed slot.
+For example, if you use a 7th-level spell slot to cast justice of the wyrm king and sacrifice a 5th-level spell slot to augment it, you deal 4d6+10 points of damage to your attackers.
+   

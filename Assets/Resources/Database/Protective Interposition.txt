@@ -1,0 +1,16 @@
+<b>Protective Interposition</b>(The Forge of War, p. 115)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Cleric 1,  Paladin 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> One willing creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast this spell, you and one willing ally trade positions. If you occupy different spaces, the smaller of you must occupy at least one square previously occupied by the larger, the larger creature?s new space must completely cover the space previously occupied by the smaller, and you must start and end adjacent to each other.
+	
+Your ally gains a +2 sacred bonus to AC and on saves for 1 round, and you gain a +2 sacred bonus on a melee attack roll you make in the same round when you cast the spell.</p   

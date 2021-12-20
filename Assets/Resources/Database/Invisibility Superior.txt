@@ -1,0 +1,19 @@
+<b>Invisibility, Superior</b>(Spell Compendium, p. 125)
+
+Illusion (Glamer)
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal or touch
+ <b>Target:</b> You or a creature or object weighing no more than 100 lb./level
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>As you complete the spell, your senses dull somewhat. Upon releasing the spell's energy on your desired subject, your senses clear, although the spell's recipient can no longer be perceived.</b>
+	
+This powerful glamer functions like invisibility (PH 245), except that it masks image, scent, and sound alike, concealing the subject from all senses except touch. As with greater invisibility, this spell doesn't end if the subject attacks. While invisible, the subject exudes no scent and is undetectable by scent, blindsense, tremorsense, and blindsight.
+	
+Superior invisibility renders the recipient immune to detection by <b>see invisibility</b>, <b>faerie fire</b>, <b>glitterdust</b>, <b>invisibility purge</b>, and dust of appearance, although creatures under the effect of the spell can be detected by <b>true seeing</b>. Certain mundane conditions (such as leaving footprints) can also render a subject detectable.
+ <b>Also appears in</b>   Complete Arcane     

@@ -1,0 +1,15 @@
+<b>Mystic Aegis</b>(Player's Handbook II)
+
+Abjuration
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+A mantle of scintillating, multicolored light appears around you to block the spell, then fades away.
+You cast mystic aegis immediately when you are targeted by a hostile spell.
+You gain spell resistance equal to 12 + your caster level against that spell.
+   

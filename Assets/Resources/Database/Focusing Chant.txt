@@ -1,0 +1,17 @@
+<b>Focusing Chant</b>(Complete Adventurer)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute (D)
+
+ 	
+You can use focusing chant to block out distractions and hone your attention.
+You gain a +1 circumstance bonus on attack rolls, skill checks, and ability checks for the duration of the spell.
+You need not concentrate on focusing chant, but you must continue to mutter the syllables of the chant to maintain the spell.
+Therefore, you cannot speak, use bardic music effects, or cast spells with verbal components while a focusing chant spell is in effect.
+Dismissing focusing chant is an immediate action.
+ <b>Also appears in</b>   Spell Compendium  Song and Silence: A Guidebook to Bards and Rogues     

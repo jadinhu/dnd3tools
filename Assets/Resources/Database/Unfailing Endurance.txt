@@ -1,0 +1,20 @@
+<b>Unfailing Endurance</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Transmutation
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature/level
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You can render living creatures virtually immune to fatigue or exhaustion.
+You must touch each creature to be affected as you cast the spell.
+The benefits include: Endurance: This feat confers a +4 bonus on any check made for performing a physical action that extends over a period of time (running, swimming, holding breath, and so on).
+Morale Bonus: Subjects gain an additional +4 morale bonus that stacks with the bonus from the Endurance feat.
+This bonus also applies to saving throws against spells and magical effects that cause weakness, fatigue, exhaustion, or enfeeblement.
+Extended Activity: Affected creatures may engage in up to 12 hours of hard labor or forced marching without suffering from fatigue or continue up to 16 hours and become fatigued instead of exhausted (see Forced March, page 143 of the Player's Handbook, and Exhausted and Fatigued, page 84 of the <span class="caps">DUNGEON</span> MASTER'S Guide).
+   

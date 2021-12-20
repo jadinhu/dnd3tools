@@ -1,0 +1,27 @@
+<b>Symbol</b>(Magic of Faerun)
+
+Universal [see text]
+ <b>Level:</b>  Cleric 8,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, M, DF, 
+
+ 	
+This spell allows you to scribe any one of several potent runes.
+Two new symbols are described below; the others appear in the symbol spell description in the Player's Handbook.
+Death Symbol of Bane: This type of symbol was created by the worshipers of Bane and lost until that dark deity was reborn in 1372 DR.
+A death symbol of Bane is always carefully engraved and never quickly scribed.
+It is triggered as you designate, within the guidelines of the symbol spell.
+However, a person wearing a holy symbol of Bane never triggers the spell.
+A death symbol of Bane functions exactly like a symbol of death,
+except that any creatures within 60 feet of the death symbol of Bane that survive must make two more Fortitude saves, the first to avoid taking 1d12 points of cold damage and the second to avoid the effects of a doom spell.
+This version of the symbol spell has the death and evil descriptors.
+Material Component: A paste made from the symbol spell's material components and the blood of intelligent sacrificed creatures (minimum 3 Intelligence) whose Hit Dice total at least 30 that have been killed within the past year.
+Once a creature's blood is used for this spell, that same creature's blood cannot be used in the material component for another death symbol of Bane.
+Symbol of Spell Loss: This is another variant of the symbol spell.
+When triggered, the symbol of spell loss begins to attack the minds of spellcasters within 60 feet.
+Each caster must attempt a Will saving throw every round he or she is in this area.
+Failure means that the highest-level spell prepared by the spellcaster (or highest-level spell slot, if the character casts spells like a sorcerer or bard) is lost.
+The symbol remains until it has erased 30 levels of spells.
+The symbol attacks creatures with spell-like abilities as if they had spells.
+It has no effect on creatures without spells or spell-like abilities.
+This version of the symbol spell is a mind-affecting spell.
+   

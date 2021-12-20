@@ -1,0 +1,20 @@
+<b>Leomund's Billet</b>(Heroes of Battle)
+
+Conjuration (Creation)
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./level)
+ <b>Effect:</b> 20-ft.-by-80-ft. structure
+ <b>Duration:</b> 2 hours/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates a simple building similar to a Leomund's secure shelter (see Player's Handbook page 247) that can be used to house up to forty troops.
+The billet has a latched door at each end and two shuttered windows on each long side.
+These doors and windows can be barred from the inside, but the billet does not provide any magical protection.
+The billet contains forty bunks (stacked two high), two trestle tables with ten stools each, and two fireplaces with raging fires already burning and enough wood to last for one night.
+Twenty loaves of bread are stacked on each table, and a pot of hot gruel hangs on a hook over each fire.
+Material Components: A rectangular chip of stone, crushed lime, iron filings, several splinters of wood, a pinch of flour, a sprinkling of water, and a sliver of dried beef.
+   

@@ -1,0 +1,16 @@
+<b>Tactics of the Wolf</b>(Tome of Battle: The Book of Nine Swords, p. 93)
+
+White Raven (Stance)
+ <b>Level:</b>  Crusader 3 (One White Raven maneuver),  Warblade 3 (One White Raven maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You shout orders that help coordinate your allies? efforts. They harass their enemies, shield each other from attacks, and otherwise maximize the support they lend to each other.</b>
+	
+This stance allows you and your allies to gain additional benefits against a flanked opponent. Under your direction, your allies coordinate their actions to a much greater degree than normal. Your advice and shouted orders make them an unstoppable team. Like a wolf pack, your allies fight together to devastating effect.
+	
+When you flank a foe, you and allies who flank the enemy with you gain a bonus on damage rolls against that opponent equal to 1/2 your initiator level.</p   

@@ -1,0 +1,15 @@
+<b>Invisibility to Enemies</b>(Oriental Adventures)
+
+Abjuration
+ <b>Level:</b>  Shaman 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 3 rounds/level
+
+ 	
+As invisibility to spirits, but the warded creature is invisible to all creatures who may have hostile intentions against it.
+Mindless creatures are not affected by the spell and can see the warded creature normally, since they are incapable of forming hostile intentions.
+Animals and other creatures with Intelligence scores lower than 5 are also not affected, since their motivations are based on survival, not on hostile intent.
+Focus: A white robe covered with handwritten symbols and verses.
+   

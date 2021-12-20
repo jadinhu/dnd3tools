@@ -1,0 +1,15 @@
+<b>Strike of the Broke Shield</b>(Tome of Battle: The Book of Nine Swords, p. 74)
+
+Setting Sun (Strike)
+ <b>Level:</b>  Swordsage 4 (Two Setting Sun maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> Reflex partial
+
+ 	
+<b>You study your opponent and deliver an attack precisely aimed to ruin his defenses and force him to scramble for his balance. While he struggles to ready himself, he becomes more vulnerable to your attacks.</b>
+	
+As part of this maneuver, make a single melee attack. This attack deals an extra 4d6 points of damage. In addition, the target must make a Reflex save (DC 14 + your Str modifier) or become flatfooted until the start of his next turn. The target takes damage (normal melee damage plus the extra damage) even if his save succeeds. If the target cannot be caught flat-footed (he has uncanny dodge, for example), he still takes the extra damage from the strike but otherwise suffers no ill effect.
+   

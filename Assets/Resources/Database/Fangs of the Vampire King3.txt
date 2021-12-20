@@ -1,0 +1,15 @@
+<b>Fangs of the Vampire King</b>(Spell Compendium, p. 88)
+
+Transmutation [Evil]
+ <b>Level:</b>  Assassin 3,  Blackguard 3,   Deathbound 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+<b>Hissing an evil laugh, you sprout sharp fangs to drain the blood of your foes.</b>
+	
+You grow vampirelike fangs that allow you to make bite attacks as natural attacks. Your bite attack deals 1d6 points of damage + your strength modifier, and 1 point of Constitution damage. If you make a full attack with other weapons, you can make a bite attack as a natural secondary attack (-5 penalty on the attack roll).
+   

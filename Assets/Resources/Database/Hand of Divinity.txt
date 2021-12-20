@@ -1,0 +1,18 @@
+<b>Hand of Divinity</b>(Magic of Faerun)
+
+Evocation [see text]
+ <b>Level:</b>  Blackguard 2,  Cleric 2,  Paladin 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless) (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You give the subject a protective aura of divine energy that allows her a bonus on all saving throws.
+If your patron is nonevil, this is a +2 sacred bonus and the spell is a good spell.
+If your patron is evil, this is a +2 profane bonus and the spell is an evil spell.
+This spell only works on a creature with the same patron as you or the same alignment as your patron.
+If cast on a target that does not meet these criteria, there is no effect.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,11 @@
+<b>Contagion, Mass</b>(Races of Faerun)
+
+Necromancy
+ <b>Level:</b>  Cleric 5,  Druid 5,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One or more creatures, no two of whom can be more than 30 ft. apart
+
+ 	
+As contagion, except as noted above.
+   

@@ -1,0 +1,17 @@
+<b>Wind Tunnel</b>(Magic of Faerun)
+
+Evocation
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> One target/level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You call on the wind to assist your allies' accuracy.
+This wind tunnel improves the accuracy of ranged weapons, granting each target a +10 competence bonus on ranged attacks.
+Further, it doubles the range increment of these weapons.
+ <b>Also appears in</b>   Spell Compendium     

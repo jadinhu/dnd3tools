@@ -1,0 +1,25 @@
+<b>Golem Immunity</b>(Races of Eberron, p. 186)
+
+Transmutation
+ <b>Level:</b>  Cleric 8,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Construct touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The construct touched gains the magic immunity special quality of a particular golem, chosen at the time of casting. The construct's body becomes covered in a thin skin of clay, flesh, iron, or stone (depending on the type of golem immunity chosen), and it gains immunity to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the construct, depending on the type of golem immunity conferred by the spell.
+	
+<b>Clay:</b> A move earth spell drives the construct back 120 feet and deals 3d12 points of damage to it. A disintegrate spell slows the construct (as the slow spell) for 1d6 rounds and deals 1d12 points of damage. An earthquake spell cast directly at the construct stops it from moving on its next turn and deals 5d10 points of damage. The construct gets no saving throw against any of these effects.
+	
+Any magical attack against the construct that deals acid damage heals 1 point of damage for every 3 points of damage it would otherwise deal. If the amount of healing would cause the construct to exceed its full normal hit points, it gains any excess as temporary hit points. The construct gets no saving throw against magical attacks that deal acid damage.
+	
+<b>Flesh:</b> A magical attack that deals cold or fire damage slows the construct (as the slow spell) for 2d6 rounds, with no saving throw. A magical attack that deals electricity damage breaks any slow effect on the construct and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the amount of healing would cause the construct to exceed its full normal hit points, it gains any excess as temporary hit points. The construct gets no saving throw against attacks that deal electricity damage.
+	
+<b>Iron:</b> A magical attack that deals electricity damage slows the construct (as the slow spell) for 3 rounds, with no saving throw. A magical attack that deals fire damage breaks any slow effect on the construct and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the construct to exceed its full normal hit points, it gains any excess as temporary hit points. The construct gets no saving throw against fire effects. The construct is affected as an iron construct by rust attacks, such as that of a rust monster or a rusting grasp spell, regardless of its original composition.
+	
+<b>Stone:</b> A transmute rock to mud spell slows the construct (as the slow spell) for 2d6 rounds, with no saving throw, while transmute mud to rock acts as a <b>total repair</b> spell. A stone to flesh spell does not actually change the construct's structure but negates its immunity to magic for 1 full round.
+   

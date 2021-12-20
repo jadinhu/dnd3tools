@@ -1,0 +1,33 @@
+<b>Vitrify</b>(Sandstorm)
+
+Transmutation [Earth]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,   Sand 7,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Up to one 10-ft. cube/5 levels (S)
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell transforms normal sand of any depth into crude glass.
+The sand is instantly heated to the melting point and then slowly hardens in its new form.
+Objects on or in the sand sink into the hot glass.
+A creature is allowed a Reflex save to escape before the area is changed.
+A creature that fails its save and that is unable to levitate, fly, or otherwise free itself sinks partway into the molten glass, reducing its speed to 5 feet and giving it a -2 penalty on attack rolls and to AC.
+Creatures of the earth subtype can move only 10 feet per round slower in molten glass.
+If a creature is only partially in the area (such as a Large or larger creature on the edge of the effect), it still takes full damage, but its speed is reduced only by half (instead of to 5 feet).
+A creature caught in molten glass takes 10d6 points of fire damage on the first round.
+The transmuted material cools over a period of 10 rounds.
+Each round, the number of dice of damage the cooling glass deals is reduced by one, until it deals no damage.
+The glass is solid enough to trap creatures by the sixth round.
+Creatures unable to escape the glass before it hardens become trapped and must be broken out.
+A creature so caught can break free by making a Strength check to break the glass or by dealing damage to the glass.
+Glass has hardness 1, 1 hit point per inch of thickness, and a break DC of 12, + 1 per inch of thickness.
+A creature partially caught in the glass takes a -2 penalty on attack rolls, a -4 penalty to Dexterity, and is unable to move.
+When breaking glass, a creature takes 1d6 points of damage each time it makes a successful Strength check to break free.
+If broken free by others, the creature takes 1d6 points of damage from broken glass.
+A creature trapped beneath the surface of the glass might begin to suffocate (see page 304 of the Dungeon Master's Guide).
+Arcane Material Component: A small glass marble.
+   

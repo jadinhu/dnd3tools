@@ -1,0 +1,10 @@
+<b>Perinarch, Planar</b>(Planar Handbook)
+
+Transmutation
+ <b>Level:</b>  Druid 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>
+
+ 	
+As perinarch, except that the caster can cast this spell on any highly morphic or divinely morphic plane (most of the Outer Planes are divinely morphic).
+However, mortals who change the fabric of a god's domain should think twice, depending on the DM's interpretation of a given god's territorial nature.
+ <b>Also appears in</b>   Spell Compendium     

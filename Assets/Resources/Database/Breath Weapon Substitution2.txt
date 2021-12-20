@@ -1,0 +1,17 @@
+<b>Breath Weapon Substitution</b>(Spell Compendium, p. 39)
+
+Transmutation [see text]
+ <b>Level:</b>  Sorcerer/Wizard Variant 5,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your breath weapon
+ <b>Duration:</b> 1 round
+
+ 	
+<b>Your foes, prepared for your terrible fiery breath weapon, are caught off guard as you exhale a cone of caustic acid in their surprised faces.</b>
+	
+For this spell to function, you must have a breath weapon, either as a supernatural ability or as the result of casting a spell such as <b>dragon breath</b> (page 73). When you successfully cast this spell, you choose one type of energy other than that normally associated with your breath weapon: acid, cold, electricity, or fire. You can modify your breath weapon to use the selected energy type instead of its normal energy type. For example, an old red dragon whose breath weapon normally deals 16d10 points of fire damage could use this spell to produce a cone dealing 16d10 points of acid damage instead.
+	
+When you use this spell to produce acid, cold, electricity, or fire energy, it is a spell of that type. For example, breath weapon substitution is an acid spell when you cast it to change your breath weapon to deal acid damage.
+ <b>Also appears in</b>   Draconomicon     

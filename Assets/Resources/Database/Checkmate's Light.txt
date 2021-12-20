@@ -1,0 +1,19 @@
+<b>Checkmate's Light</b>(Spell Compendium, p. 46)
+
+Evocation [Lawful]
+ <b>Level:</b>  Paladin 2,  Cleric 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Melee weapon touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You intone your deity's name and the weapon you touch hums a harmonic response before it lights up with a soothing red glow.</b>
+	
+You imbue the touched weapon with a +1 enhancement bonus per three caster levels (maximum +5 at 15th level), and it is treated as lawful-aligned for the purpose of overcoming damage reduction. In addition, you can cause it to cast a red glow as bright as a torch. Any creature within the radius of its clear illumination (20 feet) gets a +1 morale bonus on saving throws against fear effects.
+	
+If the weapon leaves your grasp, the spell effect is suppressed until you or another worshiper of your deity picks it up. Time that passes while the spell's effects are suppressed counts against the spell's duration.
+   

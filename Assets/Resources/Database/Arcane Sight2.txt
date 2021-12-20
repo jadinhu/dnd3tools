@@ -1,0 +1,18 @@
+<b>Arcane Sight</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Divination
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+This spell makes your eyes glow blue and allows you to see magical auras within 120 feet of you.
+The effect is similar to a detect magic spell, but works much more quickly.
+You know the number of auras within your sight, and the strength and location of each aura.
+An aura's magic school and strength depend on a spell's functioning level or an item's caster level, as noted in the description of the detect magic spell (see page 193 of the Player's Handbook).
+If you spend a full-round action scrutinizing a creature within 120 feet of you, you can determine if it has any spellcasting or spell-like abilities, whether they are arcane or divine (spell-like abilities register as arcane), and the strength of the most powerful ability the creature currently has available for use.
+In some cases, the spell may give a deceptively low reading, such as when you use it on a spellcaster who has used up most of her daily spell limit.
+ <b>Also appears in</b>   Player's Handbook v.3.5     

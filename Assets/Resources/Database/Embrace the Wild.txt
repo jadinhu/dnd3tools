@@ -1,0 +1,19 @@
+<b>Embrace the Wild</b>(Complete Adventurer)
+
+Transmutation
+ <b>Level:</b>  Ranger 1,  Druid 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+This spell allows you to adopt the nature and some of the abilities of a particular animal.
+Upon casting the spell, you can choose any animal whose Hit Dice are equal to or less than your caster level.
+You retain your own form, but you gain the natural and extraordinary senses of the creature you choose, including blindsense, blindsight, darkvision, low-light vision, and scent, as applicable.
+You can also choose to replace either or both of your Listen and Spot check modifiers with those of the animal chosen.
+For example, a 3rd-level druid casting this spell might choose to adopt the nature of a wolverine to gain low-light vision, scent, and Listen and Spot check modifiers of +6.
+Alternatively, she could select the eagle and gain low-light vision, Listen +2, and Spot +14.
+If the druid's Listen check modifier were better than +2, she could retain her own Listen check modifier while gaining the eagle's Spot check modifier.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Savage Species     

@@ -1,0 +1,17 @@
+<b>Wall of Good</b>(Magic of Faerun)
+
+Abjuration [Good]
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Wall whose area is up to one 10-ft. square/level or a sphere or hemisphere with a radius of up to 5 ft./2 caster levels
+ <b>Spell Resistance:</b> Yes (see text)
+
+ 	
+As magic circle against evil (see page 223 of the Player's Handbook), except as noted above and that the barrier is immobile and can be linear or spherical.
+One side of the wall, selected by you, is the &quot;hostile side&quot;.
+The wall only provides protection against evil attacks and blocks the movement of summoned or conjured evil creatures that cross from the hostile side to the nonhostile side.
+Evil creatures that attack you from the nonhostile side of the wall do so without penalties, and evil summoned or conjured creatures can safely cross from the nonhostile side of the wall to the hostile side.
+The wall of good must be continuous and unbroken when formed.
+If it is cast so that an object or creature breaks its surface, the spell fails.
+ <b>Also appears in</b>   Spell Compendium     

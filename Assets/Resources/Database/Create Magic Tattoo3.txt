@@ -1,0 +1,37 @@
+<b>Create Magic Tattoo</b>(Spell Compendium, p. 55)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, AF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You finish the last detail and lean back to look at your work. The tattoo looks good. It should prove useful.</b>
+	
+This spell creates a single magic tattoo. You determine the exact type of tattoo, though the selection is limited by your caster level, as indicated below. You must possess a modicum of artistic talent to sketch the desired tattoo &#8211; at least 1 rank on Craft (drawing), Craft (painting), Craft (calligraphy), or a similar Craft skill. Inscribing a magic tattoo requires a successful Craft check. The DC varies with the kind of tattoo, as noted below.
+	
+If you are a 3rd- to 6th-level caster, you can inscribe a tattoo that generates any one of the following effects (Craft DC 10).
+	
++2 resistance bonus on one type of saving throw (Fortitude, Reflex, or Will).+1 luck bonus on attack rolls.+1 deflection bonus to AC.
+	
+At 7th to 12th caster level, you can add the following tattoos to the list that you can inscribe (Craft DC 15).
+	
++2 resistance bonus on saving throws.+2 competence bonus on attack rolls.
+	
+When your caster level reaches 13th, you can add the following to the list of tattoos you can inscribe (Craft DC 20).
+	
+Spell resistance equal to 10 + 1 per three caster levels.+2 enhancement bonus to any one ability score+1 spellcaster level. This effect increases the subject's effective level, but not the total number of spells. For example, an 11th level caster who receives this tattoo functions as a 12th-level casater for the purpose of determining level-based spell variables (such as range, area, effect, and so on), but he does not receive any extra spells.
+	
+A single creature can have only three magic tattoos at a time. Any attempt to apply more than that automatically fails.
+	
+A successful <b>erase</b> spell removes a single magic tattoo. A successful <b>dispel magic</b> spell can remove multiple magic tattoos if targeted on the creature bearing them.
+	
+<b>Material Components:</b> Tattoo inks in appropriate colors costing at least 100 gp.
+	
+<b>Focus:</b> Tattoo needles.
+ <b>Also appears in</b>   Forgotten Realms Campaign Setting  Player's Guide to FaerÃ»n     

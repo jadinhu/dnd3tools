@@ -1,0 +1,26 @@
+<b>Explosive Rune Field</b>(Player's Handbook II, p. 113)
+
+Conjuration [Fire]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius burst
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> No
+
+ 	
+You infuse an area with arcane patterns that shift and slide along the ground.
+They seethe with arcane energy, and an occasional bolt of energy surges from them with a bright flash.
+This spell creates a hazardous field of energy similar to that created by an explosive runes.
+spell.
+Unlike that spell, the runes created by this spell detonate when they come into contact with a living creature other than the caster.
+Any creature that begins its turn in the spell's area must attempt a Reflex save.
+On a failed save, the creature takes 4d6 points of fire damage.
+Moving through the spell's area is hazardous at best.
+Creatures that move at their normal speed must succeed on Reflex saves to avoid the spell's explosive effects.
+Creatures that move at half speed through the spell's area can avoid the damage just as if they had succeeded on their saves.
+Material Component: A piece of parchment scribed with runes.
+The runes must be drawn with silver-flecked ink (25 gp).
+   

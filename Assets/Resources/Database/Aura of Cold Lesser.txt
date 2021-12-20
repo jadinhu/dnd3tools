@@ -1,0 +1,15 @@
+<b>Aura of Cold, Lesser</b>(Frostburn)
+
+Transmutation [Cold]
+ <b>Level:</b>  Cleric 3,  Druid 3,  Disciple of Thrym 3,  Paladin 4,  Ranger 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 5 ft.
+ <b>Area:</b> 5-ft.-radius spherical emanation, centered on you
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You are covered in a thin layer of white frost and frigid cold emanates from your body, dealing 1d6 points of cold damage at the start of your round to each creature within 5 feet.
+   

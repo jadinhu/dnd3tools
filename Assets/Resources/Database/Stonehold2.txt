@@ -1,0 +1,23 @@
+<b>Stonehold</b>(Spell Compendium, p. 209)
+
+Conjuration (Creation) [Earth]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> One 10-ft. square/level
+ <b>Duration:</b> 24 hours/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+<b>When the energy of this spell bursts forth, the ground erupts with multiple human-sized arms made of solid rock. As you finish casting, they retreat beneath the stone surface, a trap set for future trespassers.</b>
+	
+This spell conjures thick stony arms that spring forth from any rock or stone formation whenever anyone passes near it. Each 10-foot square in the spell's area contains one stone arm.
+	
+Any creature that enters the area of the spell is immobilized by the arms unless it succeeds on a Reflex save. Such a creature is rooted in place and unable to move. It can take actions normally; it just can't move from the space it currently occupies. Held creatures take 1d6+5 points of damage each round, at the beginning of your turn. Creatures that succeed on the Reflex save can move through the area normally. Creatures that start their turn in the affected area must attempt another Reflex save or be affected by the spell.
+	
+A held creature can attempt a DC 20 Strength check or a DC 25 Escape Artist check to break free, and can also break free by dealing enough damage to destroy the arm. An arm has AC 15, hardness 8, and 15 hit points.
+	
+Before they attack, the arms remain beneath the surface of the stone. They can be discovered (but not disarmed) as a magic trap can be.
+ <b>Also appears in</b>   Magic of Faerun     

@@ -1,0 +1,18 @@
+<b>Apparition</b>(Complete Arcane)
+
+Illusion (Phantasm) [Fear, Mind-Affecting]
+ <b>Level:</b>  Wu Jen 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell causes the subject's face to take on a horrible and terrifying appearance.
+You can create nearly any combination of hideous features � ;blue skin, parrot face, elephantine nose, rotting tusks, or worse � ;but you cannot duplicate the appearance of any specific creature or person.
+Any creature (excluding you and your allies) that views the recipient and fails its save becomes shaken.
+Material Component: A miniature palette dotted with paints of assorted colors.
+ <b>Also appears in</b>   Oriental Adventures     

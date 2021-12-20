@@ -1,0 +1,27 @@
+<b>Reality Maelstrom</b>(Spell Compendium, p. 168)
+
+Evocation
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius emanation centered on a point in space, and 40-ft.-radius emanation centered on the same point; see text
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates, Reflex negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A lightning strike and a tearing sound as loud as thunder fills the area as a hole in space opens. Wind rushes into the void, and objects nearby lift into the air as everything is drawn inexorably toward the rip in reality.</b>
+	
+You tear a temporary hole in reality itself that sucks all loose material and living creatures into it, sending them to a random plane (see sidebar). Everything sucked into the reality maelstrom goes to the same plane.
+	
+Reality maelstrom has a primary area and a secondary area. The primary area is the hole itself: a sphere with a 20-foot radius centered on the spell's point of origin. Within that area, all unattended objects weighing 100 pounds or less are sucked into the maelstrom, as are all individuals who fail a Will saving throw.
+	
+The rip also creates a windstorm of air that affects objects and creatures in the secondary area of the spell. The secondary area is all the space farther than 20 feet from the spell's point of origin but not farther than 40 feet away. All unattended objects within the secondary area that weigh 50 pounds or less are drawn into the primary area of the maelstrom. Individuals within the secondary area must make a Reflex saving throw. Those who fail are sucked into the primary area and must then make a Will saving throw to avoid being drawn into the maelstrom.
+	
+Individuals who succeed on either saving throw can move and attack as normal.
+	
+A reality maelstrom is a one-way portal, so nothing ever emerges from the hole the spell makes.
+	
+Material Component: A golden hoop no less than 1 inch across.
+ <b>Also appears in</b>   Manual of the Planes     

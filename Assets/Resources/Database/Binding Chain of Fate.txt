@@ -1,0 +1,27 @@
+<b>Binding Chain of Fate</b>(City of Splendors: Waterdeep)
+
+Evocation
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Whirling chain of force
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a chain of force that whirls into a loop around a single creature of your choice, making a metallic rattling sound as it does so.
+The chain creates an oscillating ring surrounding the target at a distance of 5 feet (so all squares adjacent to the target creature are within the chain).
+If the creature succeeds on its saving throw, the chain fails to encircle it and dissipates harmlessly.
+Otherwise, the chain surrounds the target, with the following effects: The target creature cannot leave the area defined by the chain.
+Other creatures can enter or leave the area (although they must succeed on a DC 15 Escape Artist check or a DC 15 Tumble check to slip past the chain).
+If the target was in midair (flying, levitating, and so on) when the chain took effect, the chain suspends the target in midair safely as if it had a solid floor on which to stand.
+The chain prevents the target from changing form, including lycanthropic form changes, vampiric transformations, or polymorph or similar effects.
+The chain acts as a dimensional anchor upon the target.
+The chain deals 2d6 points of force damage per round to the target.
+No magic functions within the chain, as if the chain defined the area of an antimagic field.
+This means that the target cannot use any magic, and no magic from outside the chain affects the creature.
+The chain cannot be dispelled, but it is automatically destroyed by disintegrate, Mordenkainen's disjunction, or a rod of cancellation.
+Material Component: A tiny silver chain.
+   

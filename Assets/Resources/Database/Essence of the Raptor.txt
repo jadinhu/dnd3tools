@@ -1,0 +1,15 @@
+<b>Essence of the Raptor</b>(Spell Compendium, p. 84)
+
+Transmutation
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+<b>You infuse yourself with the essence of a prehistoric raptor. New sensations assault you as you notice sounds, smells, and other elements of your surroundings that you could not perceive before.</b>
+	
+Your physical appearance does not change. Your speed increases to 60 feet (if it is already 60 feet or faster, it does not change), and you gain a +8 bonus on Hide, Jump, Listen, Spot, and Survival checks. You also gain the scent ability (<b>MM</b> 314).
+   

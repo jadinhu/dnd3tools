@@ -1,0 +1,24 @@
+<b>Dominate Vermin</b>(Drow of the Underdark)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Druid 3,    
+<b>Components:</b>V, S, DF, Drow
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One vermin
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The creature's eyes change color to match your own.
+It trembles for a moment as it adjusts to your psychic presence.
+You invest your psyche into a single vermin creature, granting it your Intelligence.
+While it is so affected, you can direct it with simple commands such as &quot;Attack&quot;, &quot;Run&quot;, and &quot;Fetch&quot;.
+Since you are in absolute control of the creature, it even follows suicidal commands.
+You can continue to direct the vermin as long as it remains within range.
+You need not see it to control it.
+Changing your instructions or giving a new command is the equivalent of redirecting a spell, so it is a move action.
+If the vermin is slain, your mind is forced out of the creature violently.
+The experience deals 1d4 points of Wisdom damage to you.
+   

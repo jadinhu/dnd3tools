@@ -1,0 +1,19 @@
+<b>Align Weapon</b>(Player's Handbook v.3.5, p. 197)
+
+Transmutation [see text]
+ <b>Level:</b>  Cleric 2,  Vassal of Bahamut 2,  Knight of the Chalice 2,  Death Master 2,  Savant 2 (Divine),   Abyss 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched or fifty projectiles (all of which must be in contact with each other at the time of casting)
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+<b>Align weapon</b> makes a weapon good, evil, lawful, or chaotic, as you choose. A weapon that is aligned can bypass the damage reduction of certain creatures, usually outsiders of the opposite alignment. This spell has no effect on a weapon that already has an alignment, such as a holy sword.
+	
+You can't cast this spell on a natural weapon, such as an unarmed strike.
+	
+When you make a weapon good, evil, lawful, or chaotic, <b>align weapon</b> is a good, evil, lawful, or chaotic spell, respectively.
+   

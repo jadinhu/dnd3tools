@@ -1,0 +1,17 @@
+<b>Reflective Disguise</b>(Spell Compendium, p. 171)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+<b>You invoke the spell and, to your eyes, you are covered with a glittering net of sparks and spangles. To the eyes of the drow in the underground marketplace, you look like just another dark elf.</b>
+	
+A reflective disguise spell causes any intelligent creature viewing you to perceive you as the same species and gender as itself, provided that its size category is no more than one step different from your own. The spell changes perceptions of clothing, race, and gender. Reflective disguise does not give you any knowledge of the abilities or mannerisms of the reflected form, nor does it alter the perceived tactile (touch), audible (sound), or olfactory (smell) properties of you or your equipment.
+	
+A creature that interacts with the glamer, beyond simply viewing it, gets a Will save to recognize it as an illusion. For example, a creature that touched you and realized that the tactile sensation did not match the visual one would be entitled to such a save. A creature with the scent ability automatically gets a Will save if you are within its scent range.
+ <b>Also appears in</b>   Underdark     

@@ -1,0 +1,19 @@
+<b>Chaav's Laugh</b>(Book of Exalted Deeds)
+
+Enchantment (Compulsion) [Good, Mind-Affecting]
+ <b>Level:</b>  Cleric 5,   Joy 5,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 40 ft.
+ <b>Area:</b> 40-ft.-radius spread centered on you
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You release a joyous, boisterous laugh that strengthens the resolve of good creatures and weakens the resolve of evil creatures.
+Good creatures within the spell's area gain the following benefits for the duration of the spell: a +2 morale bonus on attack rolls and saves against fear effects, plus temporary hit points equal to 1d8 + caster level (to a maximum of 1d8+20 at caster level 20th).
+Evil creatures within the spell's area that fail a Will save take a -2 morale penalty on attack rolls and saves against fear effects for the duration of the spell.
+Creatures must be able to hear the laugh to be affected by the spell.
+Creatures that are neither good nor evil are unaffected by Chaav's laugh.
+   

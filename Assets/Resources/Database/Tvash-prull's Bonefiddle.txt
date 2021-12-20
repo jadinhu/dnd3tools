@@ -1,0 +1,23 @@
+<b>Tvash-prull's Bonefiddle</b>(Champions of Ruin)
+
+Necromancy
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature that has a skeleton or exoskeleton
+ <b>Duration:</b> Concentration, up to 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You call up a ghostly fiddle bow in the air above the targeted creature.
+This bow immediately descends into the subject's body and begins to saw back and forth against its skeleton.
+Although the music produced is eerily beautiful, it causes intense pain and anguish to the victim.
+In each round of the duration, the victim takes 1d6 points of sonic damage and has a -20 penalty on all Move Silently checks; the sonic damage is considered to be continuous damage for the purposes of disrupting spellcasting.
+As a standard action, you can move the bonefiddle to another creature in range, but the new target gains a saving throw to resist the spell.
+If a target ever makes its saving throw, the bonefiddle vanishes and the spell ends.
+The spell's effects continue even if the target moves so you no longer have line of sight or line of effect to it, but you cannot shift the bonefiddle to a new target unless you have
+both line of sight and line of effect to the current target and to the intended target.
+Material Component: A miniature silver fiddle worth at least 30 gp.
+   

@@ -1,0 +1,19 @@
+<b>Spiritwall</b>(Complete Arcane)
+
+Necromancy [Fear, Mind-Affecting]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Effect:</b> Swirling wall whose area is up to one 10-ft. square/level, or a sphere or hemisphere with a radius of up to 1 ft./level
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates an immobile, swirling mass of greenish-white forms resembling tortured spirits.
+One side of the wall, selected by you, emits a low groaning that causes creatures within 60 feet of that side to make a Will save or flee in panic for 1d4 rounds.
+Any living creature that merely touches the wall takes 1d10 points of damage as its life force is disrupted.
+A living creature passing through the wall takes 1d10 points of damage, as above, and must make a successful Fortitude save or gain one negative level.
+The barrier is semimaterial and opaque, providing cover and total concealment against physical attacks, and it blocks magical effects (including spells, spell-like abilities, and supernatural abilities).
+Material Component: A clear cut gemstone.
+ <b>Also appears in</b>   Tome and Blood: A Guidebook to Wizards and Sorcerers  Spell Compendium     

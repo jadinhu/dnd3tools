@@ -1,0 +1,21 @@
+<b>Moon Bolt</b>(Spell Compendium, p. 143)
+
+Evocation
+ <b>Level:</b>  Cleric 4,  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One living or undead creature, or two living or undead creatures that are no more than 15 ft. apart; see text
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half (living target) or Will negates (undead target)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Picturing a full moon in your mind you call upon the cyclical energies of the celestial body. You create a bolt of shimmering moonlight that streaks from your outstretched hand.</b>
+	
+A moon bolt strikes unerringly against any living or undead creature in range.
+	
+A living creature struck by a moon bolt takes 1d4 points of Strength damage per three caster levels (maximum 5d4). If the subject makes a successful Fortitude saving throw, the Strength damage is halved.
+	
+An undead creature struck by a moon bolt must make a Will save or fall helpless for 1d4 rounds, after which time it is no longer helpless and can stand upright, but it takes a -2 penalty on attack rolls and Will saving throws for the next minute.
+   

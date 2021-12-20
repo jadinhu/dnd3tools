@@ -1,0 +1,18 @@
+<b>Open Least Chakra</b>(Magic of Incarnum)
+
+Transmutation
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You use magical energies to pry open one chakra, allowing a creature to form a chakra bind that it otherwise could not.
+(The spell has no effect on chakras to which soulmelds or magic items are already bound; in other words, it does not allow you to double bind to a chakra).
+You can open a creature's crown, feet, or hands chakra with this spell.
+A creature benefiting from this spell can bind a soulmeld or magic item to his opened chakra just as if he had gained the ability to form a chakra bind from a feat or class feature.
+   

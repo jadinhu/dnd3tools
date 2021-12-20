@@ -1,0 +1,15 @@
+<b>Sense Weakness</b>(Magic of Eberron, p. 101)
+
+Divination
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You grant the subject of the spell insight into the vulnerability of a single opponent. Once over the next 24 hours, the subject can automatically confirm a single critical threat. The subject must declare the use of the spell after the threat is rolled but before rolling to confirm the critical hit (so the spell cannot be used to reroll a failed critical confirmation roll).
+   

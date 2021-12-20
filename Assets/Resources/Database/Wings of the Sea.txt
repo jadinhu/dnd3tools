@@ -1,0 +1,17 @@
+<b>Wings of the Sea</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> You or person touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell increases the touched creature's swim speed by 30 feet.
+It has no effect on other modes of movement, nor does it give the subject a swim speed if it does not already have one.
+Material Component: A drop of water.
+ <b>Also appears in</b>   Spell Compendium     

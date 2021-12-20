@@ -1,0 +1,14 @@
+<b>Possess</b>(Oriental Adventures)
+
+Necromancy
+ <b>Level:</b>  Shaman 5,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+
+ 	
+As possess animal, but you can take over the body of any creature.
+The possessed creature retains no memory of actions performed during the possession or knowledge of who possessed it.
+Material Component: A bowl of incense.
+   

@@ -1,0 +1,18 @@
+<b>Gedlee's Electric Loop</b>(Magic of Faerun)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 5-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a small stroke of lightning that cycles through all creatures in the area.
+The spell deals 1d6 points of electricity damage per two caster levels (maximum 5d6).
+Those who fail their Reflex saves must succeed at a Will save or be stunned for 1 round.
+Material Component: A loop of copper wire and a magnet.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

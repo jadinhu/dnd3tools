@@ -1,0 +1,16 @@
+<b>Aerial Alarm</b>(Heroes of Battle)
+
+Abjuration
+ <b>Level:</b>  Ranger 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 100-ft.-radius cylinder, 500 ft. high
+ <b>Duration:</b> 2 hours/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+As alarm (see Player's Handbook page 197), except the area is a cylinder that extends 500 feet into the air and the alarm only sounds when a flying creature of Medium or larger size enters or touches the warded area.
+Arcane Focus: A silver bell and an eagle's feather.
+   

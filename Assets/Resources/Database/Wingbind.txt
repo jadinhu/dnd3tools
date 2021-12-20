@@ -1,0 +1,22 @@
+<b>Wingbind</b>(Draconomicon)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A web of force surrounds the target, entangling it like a net.
+If the target fails its saving throw, it is entangled.
+Perhaps most important, the creature cannot use wings to fly � ;hence the common name of this spell.
+A creature flying with wings falls immediately if it is entangled by wingbind.
+An entangled creature can escape with a successful Escape
+Artist check against a DC equal to the saving throw DC of the spell.
+Like a wall of force, the web of force is impervious to most attacks: It is immune to damage of all kinds, cannot be burst with a Strength check, and is unaffected by most spells, including dispel magic.
+Also like wall of force, the web is immediately destroyed by disintegrate, a rod of cancellation, a sphere of annihilation, or Mordenkainen's disjunction.
+ <b>Also appears in</b>   Spell Compendium     

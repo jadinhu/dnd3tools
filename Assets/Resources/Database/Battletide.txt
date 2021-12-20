@@ -1,0 +1,19 @@
+<b>Battletide</b>(Lords of Darkness)
+
+Transmutation
+ <b>Level:</b>  Cleric 5 (Xvim/Bane),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Caster and up to one creature/level, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> No and Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster steals energy from others, slowing them and speeding him or her.
+Targets other than the caster suffer a -2 circumstance penalty on saving throws, attack rolls, and damage rolls.
+As long as at least 1 enemy is affected by the spell, the caster gets one extra partial action each round.
+If all the affected enemies free themselves from the spell (by death, entering an antimagic field, receiving a successful dispel magic, and so on), the spell ends.
+This spell originally appeared in Magic of FaerÃ»n.
+ <b>Also appears in</b>   Magic of Faerun  Player's Guide to FaerÃ»n     

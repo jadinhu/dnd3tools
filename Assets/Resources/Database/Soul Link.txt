@@ -1,0 +1,25 @@
+<b>Soul Link</b>(Fiendish Codex I: Hordes of the Abyss)
+
+Necromancy [Mind-Affecting]
+ <b>Level:</b>  Bard 6,  Sorcerer 7,  Wizard 7,   Temptation 7,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You draw forth a scrap of parchment and speak the name written on it in blood.
+The parchment turns to dust as you touch the targeted creature with you other hand, creating a potent link between the two of you.
+You can use a soul link to monitor the subject's condition and location, as though it were affected by a status spell.
+You and the subject can also communicate telepathically as long as you are both on the same plane.
+By concentrating, you can also use scrying upon the subject, which is permitted no saving throw to resist.
+In addition, the subject takes a -4 penalty on any saving throw made to resist a mind-affecting spell or ability you use against it.
+At the time the spell is cast, you can choose to take a -2 penalty to one of your ability scores in order to grant the subject a +2 enhancement bonus to that same ability score.
+If you use this option, the subject chooses the ability score affected for both of you and takes a -4 penalty on its saving throw to resist the effects of this spell.
+You can have only one soul link in effect at a time.
+If you cast this spell a second time, the soul link already active ends immediately, regardless of the outcome of the second casting.
+Material Component: A piece of parchment with the target's name (or detailed physical description) written upon it in your own blood.
+   

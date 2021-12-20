@@ -1,0 +1,24 @@
+<b>Skin of the Cactus</b>(Sandstorm)
+
+Abjuration
+ <b>Level:</b>  Ranger 3,  Druid 4,   Summer 4,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell grants a living creature the toughness, resilience, and needles of a cactus.
+The effect grants a +3 enhancement bonus to the creature's existing natural armor bonus.
+This enhancement bonus increases to +4 at caster level 10th and to a maximum of +5 at caster level 13th.
+In addition to the enhancement bonus, skin of the cactus causes the subject to grow needles from its skin, clothing, or armor.
+Any creature grappling the subject or striking it with natural weapons takes 1d6 points of piercing damage from the needles.
+Finally, the subject of this spell is protected from nonlethal damage due to dehydration.
+Skin of the cactus provides the subject with a +4 bonus on saves to resist becoming dehydrated from heat or exposure, but it offers no protection against dessication damage or spells that cause a target to become dehydrated.
+The enhancement bonus provided by skin of the cactus stacks with the target's natural armor bonus, but not with other enhancement bonuses to natural armor.
+A creature without natural armor has an effective natural armor bonus of +0, much as a character wearing only normal clothing has an armor bonus of +0.
+Material Component: A cactus spine.
+   

@@ -1,0 +1,20 @@
+<b>Unmovable Object</b>(Ghostwalk)
+
+Evocation
+ <b>Level:</b>  Paladin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Charging yourself with divine energy, you bond yourself to the ground beneath your feet and become the epitome of stability.
+The spell ends instantly if you move from your current position and does not work unless you are in contact with the ground.
+You gain a +2 bonus to Strength, a +4 bonus to Constitution, a +2 resistance bonus on saving throws, and a +4 dodge bonus to AC.
+You gain a +10 bonus to resist a bull rush (this bonus does not include the +4 bonus for being &quot;exceptionally stable&quot;, but exceptionally stable creatures do get that bonus in addition to the bonus from this spell).
+You gain a +10 bonus to resist all trip attacks (but not to your attempts to trip someone in return).
+You gain a +10 resistance bonus on any roll made to resist an effect that would cause you to move from your current location.
+For example, while you are not immune to enchantment effects, you gain a +10 resistance bonus on saving throws (or Charisma checks, in the case of effects such as charm person) to resist commands that would cause you to leave your current position.
+If the ground you stand on disappears or cannot support your weight (such as with disintegrate or transmute rock to mud), this spell ends and the existing conditions affect you normally.
+   

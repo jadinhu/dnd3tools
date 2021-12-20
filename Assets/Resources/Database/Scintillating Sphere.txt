@@ -1,0 +1,16 @@
+<b>Scintillating Sphere</b>(Magic of Faerun)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer 3 (Halruaa),  Wizard 3 (Halruaa),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As fireball, except as noted above and that the spell deals electricity damage.
+Material Components: A glass marble and a pinch of iron oxide.
+ <b>Also appears in</b>   Spell Compendium     

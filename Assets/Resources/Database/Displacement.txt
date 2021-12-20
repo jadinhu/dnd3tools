@@ -1,0 +1,19 @@
+<b>Displacement</b>(Player's Handbook v.3.5, p. 223)
+
+Illusion (Glamer)
+ <b>Level:</b>  Telflammar Shadowlord 2,  Bard 3,  Sorcerer 3,  Wizard 3,  Vigilante 3,  Beguiler 3,  Wu Jen 3,  Sha'ir 3,  Jester 3,   Illusion 3,   
+<b>Components:</b>V, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Emulating the natural ability of the displacer beast (see the Monster Manual), the subject of this spell appears to be about 2 feet away from its true location.
+The creature benefits from a 50% miss chance as if it had total concealment.
+However, unlike actual total concealment, displacement does not prevent enemies from targeting the creature normally.
+True seeing reveals its true location.
+Material Component: A small strip of leather made from displacer beast hide, twisted into a loop.
+   

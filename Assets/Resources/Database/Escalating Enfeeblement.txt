@@ -1,0 +1,10 @@
+<b>Escalating Enfeeblement</b>(Complete Mage)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>
+
+ 	
+This spell functions like ray of enfeeblement, except that if you cast it on a target that is already fatigued or exhausted, or one currently affected by a penalty, damage, or drain to its Strength, Dexterity, or Constitution score, it instead applies a penalty to Strength equal to 1d10 +1 per two caster levels (maximum 1d10+5).
+This penalty doesn't stack with the penalty from ray of enfeeblement.
+   

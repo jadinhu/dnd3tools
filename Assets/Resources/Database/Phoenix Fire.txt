@@ -1,0 +1,22 @@
+<b>Phoenix Fire</b>(Book of Exalted Deeds)
+
+Necromancy [Fire, Good]
+ <b>Level:</b>   Sanctified 7,   
+<b>Components:</b>V, S, AF, Sacrifice
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 15 ft.
+ <b>Area:</b> 15-ft.-radius spread, centered on you
+ <b>Duration:</b> Instantaneous (see text)
+ <b>Saving Throw:</b> Reflex half (see text)
+ <b>Spell Resistance:</b> Yes (see text)
+
+ 	
+You immolate yourself, consuming your flesh in a cloud of flame 20 feet high and 30 feet in diameter.
+You die (no saving throw, and spell resistance does not apply).
+Every evil creature within the cloud takes 2d6 points of damage per caster level (maximum 40d6).
+Neutral characters take half damage (and a successful Reflex save reduces that further in half ), while good characters take no damage at all.
+Half of the damage dealt by the spell against any creature is fire; the rest results directly from divine power and is therefore not subject to being reduced by resistance to fire-based attacks, such as that granted by protection from energy (fire), fire shield (chill shield), and similar magic.
+After 10 minutes, you rise from the ashes as if restored to life by a resurrection spell.
+Focus: A tail feather from a phoenix, worth 40 gp.
+Sacrifice: Your death and the level you lose when you return to life are the sacrifice cost for this spell.
+   

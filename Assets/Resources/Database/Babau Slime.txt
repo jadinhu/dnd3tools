@@ -1,0 +1,19 @@
+<b>Babau Slime</b>(Planar Handbook)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Fortitude negates (harmless) and Reflex negates; see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This demon-inspired transmutation causes the subject to secrete a slimy red layer of jelly that coats her skin, armor, and equipment.
+While the slime does not harm the subject or her equipment, any other weapon that touches it takes 1d8 points of acid damage from the corrosive goo, and the weapon's hardness does not reduce this damage.
+A magic weapon may attempt a Reflex save to avoid taking this damage.
+A creature who strikes a slime-protected subject with an unarmed attack, unarmed strike, touch spell, or natural weapon takes this damage as well but can negate the damage with a Reflex save.
+Material Component: A drop of babau slime.
+ <b>Also appears in</b>   Spell Compendium     

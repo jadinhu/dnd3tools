@@ -1,0 +1,19 @@
+<b>Dolorous Blow</b>(Spell Compendium, p. 70)
+
+Transmutation
+ <b>Level:</b>  Bard 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>A longing for battle fills you as you complete this spell. Upon touching the intended weapon, the feeling fades even as a dull red aura encompasses the weapon.</b>
+	
+For the duration of the spell, the weapon's threat range is doubled, and its critical threats automatically confirm, so every threat is a critical hit. The latter effect does not apply to any weapon that already has a magical effect related to critical hits.
+	
+Multiple effects that increase a weapon's threat range (such as this spell and the Improved Critical feat) don't stack. You can't cast this spell on a natural weapon, such as a claw.
+   

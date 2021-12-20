@@ -1,0 +1,17 @@
+<b>Updraft</b>(Spell Compendium, p. 228)
+
+Conjuration (Creation) [Air]
+ <b>Level:</b>  Cleric 1,  Druid 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Swift Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+<b>Detritus and loose debris on the ground beneath you begins to spin about, caught in a small vortex. The vortex quickly coalesces into a column of dirty gray-brown air thick enough to hold you aloft.</b>
+	
+Updraft conjures forth rushing air that propels you upward. You gain 10 feet per level of altitude, and then gently float back down to the ground. At any point during your descent, you can move up to 5 feet laterally.
+	
+Material Component: A miniature propeller or windmill.
+   

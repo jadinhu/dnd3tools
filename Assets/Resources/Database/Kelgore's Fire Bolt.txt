@@ -1,0 +1,21 @@
+<b>Kelgore's Fire Bolt</b>(Player's Handbook II)
+
+Conjuration/Evocation [Fire]
+ <b>Level:</b>  Duskblade 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> See text
+
+ 	
+You conjure a shard of red-hot rock and hurl it toward an
+opponent.
+As it streaks through the air, a nimbus of arcane energy crackles around it.
+This spell conjures a small orb of rock and sheathes it in arcane energy.
+This spell deals 1d6 points of fire damage per caster level (maximum 5d6).
+If you fail to overcome the target's spell resistance, the spell still deals 1d6 points of fire damage from the heat and force of the conjured orb's impact.
+Material Component: A handful of ashes.
+   

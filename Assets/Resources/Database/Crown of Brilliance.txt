@@ -1,0 +1,22 @@
+<b>Crown of Brilliance</b>(Book of Exalted Deeds)
+
+Evocation [Good, Light]
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>V, S, M, Archon
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> 20-ft.-radius emanation, centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A blazing crown of golden light surrounds your head.
+Creatures you engage in melee combat must make successful Fortitude saving throws or be blinded for 1d4 rounds.
+Creatures that successfully save, and creatures that have recovered from blindness, are still dazzled for as long as they remain in melee with you.
+Creatures with light sensitivity and creatures that are harmed by sunlight (such as vampires) must make a Will save if they are within the area of the spell.
+Creatures that fail their saving throws must move outside the area.
+Undead within the area take 1d6 points of damage each round they remain in the area.
+Material Component: An opal worth at least 100 gp, carried on your person through the duration of the spell.
+The opal shatters upon completion of the spell, and the spell ends prematurely if the opal is shattered by other means.
+   

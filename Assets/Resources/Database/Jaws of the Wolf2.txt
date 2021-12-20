@@ -1,0 +1,19 @@
+<b>Jaws of the Wolf</b>(Spell Compendium, p. 127)
+
+Transmutation
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more created worgs
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You cast small wooden statuettes on the ground and they immediately grow into adult worgs. The worgs growl at your foes, their jaws slathered with spittle.</b>
+	
+You turn small wooden carvings into a number of worgs (MM 256) equal to one for every two caster levels. These worgs appear between you and your opponents. They act on their own but obey your mental commands. If the worgs move beyond the range of the spell, or at the end of the spell, the worgs become carvings again. Killing a worg destroys its focus item. 
+	
+Focus: One carving of a worg for each that you create (25 gp each).
+ <b>Also appears in</b>   Magic of Faerun     

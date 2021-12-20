@@ -1,0 +1,17 @@
+<b>Hunter's Sense</b>(Tome of Battle: The Book of Nine Swords, p. 88)
+
+Tiger Claw (Stance)
+ <b>Level:</b>  Swordsage 1 (One Tiger Claw maneuver),  Warblade 1 (One Tiger Claw maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You sniff at the air like a hunting animal. After you focus your mind, an array of scents that normally eludes your awareness become clear to you.</b>
+	
+Your mastery of the Tiger Claw discipline allows you to become attuned to the feral side of your personality. On a fundamental level, you begin to think more like a wild beast and less like a civilized creature. Your enemies are prey to be hunted down and slain. Your allies are packmates. This shift in view spreads to your physical senses.
+	
+As long as you are in this stance, you gain the scent special ability (MM 314).
+   

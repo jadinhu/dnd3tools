@@ -1,0 +1,23 @@
+<b>Dark Tide</b>(Stormwrack)
+
+Necromancy [Evil, Water]
+ <b>Level:</b>   Blackwater 7,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> One-half mile radius spread
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You infuse the target area with the enervating essence of the blackwater depths, creating a tide of blackwater that spreads out from the designated point of origin at a rate of 100 feet per round until it fills the entire area.
+The water is black and terribly chilling, and its touch causes a sense of fear in those affected by it.
+Those within the area must make a Fortitude save when they first enter the blackwater (or when it first surrounds
+them).
+Failure indicates that they take 1 point of Strength damage.
+Additionally, every creature in the area takes 1d6 points of negative energy damage for every hour they remain in the dark, murky waters (no save).
+Spells that protect against negative energy damage will prevent the Strength damage.
+Creatures who take damage from the dark tide are considered shaken as long as they remain in the area.
+This spell is a favored first move by sahuagin and other blackwater-dwelling creatures before they attack the settlements of their enemies.
+   

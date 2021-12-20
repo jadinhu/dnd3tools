@@ -1,0 +1,27 @@
+<b>Bind to Hell</b>(Fiendish Codex II: Tyrants of the Nine Hells)
+
+Conjuration (Teleportation) [Evil]
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Touch
+ <b>Target:</b> One weapon
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The targeted weapon shudders and momentarily emits a moaning chorus, like that of damned souls.
+This spell places an infernal blessing on the touched weapon for the specified duration.
+Upon casting the spell, you must name or describe a specific creature.
+If that creature is subsequently reduced to � ;10 or fewer hit points by a blow from the target weapon before the spell's duration expires, its soul is whisked immediately to the Hall of the Vanquished in Stygia, where it remains forever, or until rescued.
+A weapon can gain the effect of only one bind to Hell spell at a time.
+The soul manifests as a frozen version of its mortal self.
+With the utterance of a trigger word chosen by you upon casting, it can be temporarily imbued with motion and the use of its faculties.
+A subsequent utterance of the trigger word freezes the soul again.
+While the soul is in the Hall of the Vanquished, life-restoring spells and effects, such as raise dead, reincarnation,
+and resurrection, cannot be used to revive the creature.
+If the soul form of a nonoutsider is removed from the hall, it transmigrates immediately to its proper afterlife, after which life-restoring effects again become possible.
+Special:Only divine casters who worship Levistus can cast this spell.
+It has no effect for any other caster.
+   

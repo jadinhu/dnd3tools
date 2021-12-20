@@ -1,0 +1,15 @@
+<b>White Raven Hammer</b>(Tome of Battle: The Book of Nine Swords, p. 94)
+
+White Raven (Strike)
+ <b>Level:</b>  Crusader 8 (Three White Raven maneuvers),  Warblade 8 (Three White Raven maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You slam your opponent with a mighty attack to disrupt his senses and leave him unable to defend himself while your allies close to finish him off.</b>
+	
+As part of this maneuver, you make a single, devastating strike against an opponent. The raw force of this blow knocks him senseless. Your attack deals an extra 6d6 points of damage and stuns your opponent for 1 round.
+   

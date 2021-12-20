@@ -1,0 +1,18 @@
+<b>Incite</b>(Miniatures Handbook)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 1,  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell incites the subject into acting.
+The subject is not allowed to delay or to ready an action.
+If the subject is currently delaying, it acts as soon as the spell is cast.
+If the subject currently has an action readied, it may act as normal but can't later ready another action while the spell remains in effect.
+ <b>Also appears in</b>   Spell Compendium     

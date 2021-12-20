@@ -1,0 +1,23 @@
+<b>False Sending</b>(Book of Vile Darkness)
+
+Illusion (Glamer)
+ <b>Level:</b>  Cleric 5,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> See text
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round (see text)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster contacts a particular creature with whomshe is familiar and sends a short message of twenty-five words or less to the subject.
+The subject is convinced that the sender of the message is someone other than the caster, as specified by the caster.
+The caster must be also familiar with the false sender.
+The subject can answer in like manner immediately.
+Creatures with Intelligence scores as low as 1 can understand the sending, though a subject's ability to react is limited normally by its Intelligence.
+Even if the sending is received, the subject creature is not obligated to act upon it in any manner.
+If the creature in question is not on the same plane of existence as the caster, there is a 5% chance that the sending does not arrive.
+(Local conditions on other planes may worsen this chance considerably, at the option of the DM).
+Arcane Material Component: A short piece of corroded copper wire.
+   

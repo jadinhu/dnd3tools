@@ -1,0 +1,26 @@
+<b>Boreal Wind</b>(Frostburn)
+
+Evocation [Cold]
+ <b>Level:</b>  Druid 4,  Disciple of Thrym 4,  Bard 5,  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> Gust of wind (20 ft. wide, 20 ft. high) emanating out from you to the extreme of the range
+ <b>Duration:</b> 1 round + 1 round/2 levels
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a strong blast of arctic air that originates from your fingertips and moves in the direction you are facing.
+As a stronger form of gust of wind, this boreal wind automatically extinguishes candles, torches, and similar protected or unprotected f lames, including lanterns.
+Large fires (such as bonfires, a blacksmith's coals, or even a house fire) have a 50% chance to be extinguished by the boreal wind.
+Forest or grassland fires are too large to be extinguished by this spell.
+All creatures caught in the area take 1d4 points of cold damage per caster level (maximum 15d4).
+A successful Fortitude saving throw negates the gust's effects.
+Those that fail the save are pushed away from the caster a distance of 3 feet per caster level.
+Creatures that remain in the area past the first round must make an additional saving throw each round.
+A boreal wind can do anything a sudden blast of wind would be expected to do.
+It can create a stinging spray of sand or dust, overturn tents
+and blow down small huts, scuttle a small boat, and blow gases or vapors to the edge of the range.
+The wind can change direction if you actively direct it (a move action for you); otherwise, it merely blows in the same direction.
+   

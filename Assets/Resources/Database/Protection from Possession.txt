@@ -1,0 +1,20 @@
+<b>Protection from Possession</b>(Ghostwalk)
+
+Abjuration
+ <b>Level:</b>  Bard 1,  Bone Collector 1,  Cleric 1,  Paladin 1,  Sorcerer 1,  Wizard 1,   Ghost 1,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell wards a creature against mental control and possession attempts.
+The spell blocks any attempt to possess the warded creature (as by a magic jar attack or certain ghost feats) or to exercise mental control over the creature (as by a vampire's supernatural domination ability, which works similarly to dominate person).
+The protection does not prevent a vampire's domination itself, but it prevents the vampire from mentally commanding the protected creature.
+If the protection from possession effect ends before the domination effect does, the vampire would then be able to mentally command the controlled creature.
+Likewise, the spell keeps out a possessing life force, but does not expel one if it is in place before the spell is cast.
+Arcane Material Component: A bit of powdered silver, which is used to mark the forehead of the target creature.
+   

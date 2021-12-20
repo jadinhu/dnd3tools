@@ -1,0 +1,20 @@
+<b>Magic Circle Against Taint</b>(Oriental Adventures)
+
+Abjuration [Good]
+ <b>Level:</b>  Shugenja 3 (Earth),    
+<b>Components:</b>
+ <b>Area:</b> Emanates 10 ft. from touched creature
+ <b>Duration:</b> 10 minutes/level
+ <b>Spell Resistance:</b> No (see text)
+
+ 	
+As protection from Taint, except that it encompasses a much larger area and its duration is longer.
+Unlike protection from Taint, this spell has a special function that you may choose when casting the spell.
+A magic circle can be focused inward rather than outward.
+In this case, it serves as an immobile, temporary magical prison for a called creature.
+The creature cannot cross the circle's boundaries.
+(See Calling in the Player's Handbook for more information on using this spell in conjunction with calling spells).
+You must beat a creature's spell resistance in order to keep it at bay (as in the third function of protection from evil), but the deflection and resistance bonuses and the protection from mental control apply regardless of enemies' spell resistance.
+If a creature too large to fit into the spell's area is the subject of the spell, the spell acts as a normal protection from Taint spell for that creature only.
+This spell is not cumulative with protection from Taint and vice versa.
+   

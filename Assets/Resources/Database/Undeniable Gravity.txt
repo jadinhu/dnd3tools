@@ -1,0 +1,20 @@
+<b>Undeniable Gravity</b>(Miniatures Handbook)
+
+Transmutation
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One flying creature
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A flying creature, which can be a creature that can fly by means of the fly spell or some similar magical effect, is grounded.
+If this spell is cast on a creature currently flying, that creature descends at a speed of 60 feet per round but does not fall (and thus is not subject to falling damage).
+The creature can still use its fly speed to move horizontally or down, but not up.
+Once it is on the ground, the subject can no longer use its fly speed.
+This spell does not affect incorporeal creatures.
+Material Component: A wing torn from a fly.
+   

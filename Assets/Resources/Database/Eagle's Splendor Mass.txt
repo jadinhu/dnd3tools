@@ -1,0 +1,11 @@
+<b>Eagle's Splendor, Mass</b>(Player's Handbook v.3.5, p. 225)
+
+Transmutation
+ <b>Level:</b>  Bard 6,  Cleric 6,  Sorcerer 6,  Wizard 6,  Sha'ir 6,  Jester 6,  Urban Druid 6,  Court Herald 6,   Pleasure 5,  Arborea 6,   
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like <b>eagle's splendor</b>, except that it affects multiple creatures.
+   

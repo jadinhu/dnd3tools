@@ -1,0 +1,25 @@
+<b>Awaken, Mass</b>(Spell Compendium, p. 21)
+
+Transmutation
+ <b>Level:</b>  Druid 8,    
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 24 hours
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One animal or tree/3 levels, no two of which are more than 30 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>After a full day of constant spellcasting, you finally succeed in bringing sentience to the subjects.</b>
+	
+You awaken one or more trees or animals to humanlike sentience. All awakened creatures must be of the same kind. To succeed, you must make a Will save (DC 10 + the HD of the highest-HD target, or the HD the highest-HD tree has once awakened, whichever is greater). Failure indicates that the spell fails for all targets.
+	
+The awakened animal or tree is friendly toward you. You have no special empathy or connection with it, but it serves you in specifi c tasks or endeavors if you communicate your desires to it.
+	
+An awakened tree has characteristics as if it were an animated object (MM 13), except that its Intelligence, Wisdom, and Charisma scores are all 3d6. Awakened plants gain the ability to move their limbs, roots, vines, creepers, and so forth, and they have senses similar to a human's. An awakened animal has 3d6 Intelligence, a +1d3 bonus to Charisma, and +2 HD.
+	
+An awakened tree or animal can speak one language that you know, plus one additional language that you know per point of its Intelligence bonus, if it has one. (See MM 290 for information on skills and feats the creature gains.)
+	
+<b>XP Cost</b>: 250 XP per creature awakened.
+ <b>Also appears in</b>   Complete Divine     

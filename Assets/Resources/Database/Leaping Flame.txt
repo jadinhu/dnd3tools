@@ -1,0 +1,15 @@
+<b>Leaping Flame</b>(Tome of Battle: The Book of Nine Swords, p. 55)
+
+Desert Wind (Counter) [Teleportation]
+ <b>Level:</b>  Swordsage 5 (Two Desert Wind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+<b>As your foe attacks you, you disappear in a burst of flame and smoke, only to reappear as if out of thin air next to him.</b>
+	
+You instantly appear in a square adjacent to a creature that attacks you with a melee or ranged attack, after resolving the enemy?s attack. You cannot move into a space that is occupied by a creature or object. You can move up to 100 feet in this manner. If you cannot move adjacent to the target, this maneuver fails to function but is still considered used.
+This maneuver is a supernatural ability.</p   

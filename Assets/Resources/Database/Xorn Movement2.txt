@@ -1,0 +1,21 @@
+<b>Xorn Movement</b>(Spell Compendium, p. 244)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature Touched
+ <b>Duration:</b> 1 round/level; see text
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You concentrate on the piece of the xorn's hide. As you intone the spell it begins to glow yellow, and then the glow spreads over your entire form. You complete the spell and slip effortlessly between the gaps in the earth itself, leaving nothing disturbed in your wake.</b>
+	
+The subject of this spell can move through natural earth and stone (but not worked stone, brick, or metal) as a xorn does, leaving behind no tunnel or sign of passage. Furthermore, the subject can breathe normally while entombed in earth and natural rock. A move earth spell cast on an area the subject occupies flings it back 30 feet and stuns it for 1 round. A successful Fortitude save negates the stunning effect.
+	
+Xorn movement lasts a minimum of 1 round/level. If the subject has not emerged into a large enough open space to contain its body comfortably when the spell expires, it is shunted off to the nearest such open space, taking 1d6 points of damage per 5 feet so traveled.
+	
+Focus: A scale from a xorn's hide.
+ <b>Also appears in</b>   Manual of the Planes     

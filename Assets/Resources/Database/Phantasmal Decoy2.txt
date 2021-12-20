@@ -1,0 +1,19 @@
+<b>Phantasmal Decoy</b>(Spell Compendium, p. 155)
+
+Illusion (Phantasm) [Mind-Affecting]
+ <b>Level:</b>  Ranger 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates, and Will disbelief (if interacted with)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Reaching into your foe's mind, you weave an illusion of his most hated foe.</b>
+	
+You create a phantasmal image of the subject's most hated enemy by sifting through the subconscious mind of the subject. Only you and the spell's subject can see the phantasmal creature, and the phantasm seems blurry and indistinct to you. If the target fails its Will saving throw, you designate a space that the phantasm appears to occupy. The subject must attack the phantasm, or move to be adjacent to it. A creature that attacks the phantasm is allowed an additional saving throw to disbelieve the illusion. If moving up to the phantasm would cause the subject to cross dangerous terrain (such as a pool of lava), it does not move to be adjacent to the phantasm. It merely moves as close as it can and takes no further actions unless the phantasm moves to a space it can reach.
+	
+As a move action, you can move a phantasmal decoy up to 60 feet in any direction. Because it's not real, a phantasmal decoy isn't affected by terrain that slows movement (although you can slow its progress voluntarily if you like to help maintain the facade of realism).
+ <b>Also appears in</b>   Complete Divine     

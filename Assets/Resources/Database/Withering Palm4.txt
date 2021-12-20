@@ -1,0 +1,17 @@
+<b>Withering Palm</b>(Spell Compendium, p. 241)
+
+Necromancy
+ <b>Level:</b>  Cleric 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A black shroud of magical energy surrounds your hands. Beneath the shroud your hands look withered and aged, like uncared-for ancient leather on the verge of crumbling to dust.</b>
+	
+Your successful melee touch attack deals 1 point of Strength damage and 1 point of Constitution damage per two caster levels to the target (maximum of 10 points each). If you score a critical hit, the subject takes ability drain instead, but the effect is not doubled.
+ <b>Also appears in</b>   Complete Arcane  Eberron Campaign Setting  Oriental Adventures     

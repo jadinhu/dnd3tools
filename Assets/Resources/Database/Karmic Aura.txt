@@ -1,0 +1,21 @@
+<b>Karmic Aura</b>(Complete Mage)
+
+Abjuration
+ <b>Level:</b>  Hexblade 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> 20-ft.-radius emanation, centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You feel the currents of fate flow through you, tugging on the strings of chance.
+	
+While this spell is in effect, any creature within range that deals damage to you with an attack, spell, or other effect becomes fatigued for 3 rounds. A successful Will save indicates that the attacker is unaffected and immune to the spell's effect until the start of your next turn, but must save again if he damages you after that point. An attacker already fatigued suffers no additional effect from this spell.
+	
+<b>Karmic aura</b>, <b>karmic backlash</b>, and <b>karmic retribution</b> interact in an unusual fashion. If you have more than one of these spells active at once, the subject must save against each spell in descending order of spell level. If he fails any of these saves, he is automatically fails any save against any lower-level spell of the set that you have active. (Spell resistance still applies to each effect separately).
+	
+For example, suppose you have all three spells active when a foe strikes you. He first attempts to save against karmic retribution. If that save fails, he is treated as if he had failed his saving throws against all three spells. If the first save succeeds, but the save against karmic backlash fails, he is treated as if he had failed his saves against both that spell and karmic aura. Only if he succeeds on both of the first two saves is he entitled to a save against karmic aura.
+   

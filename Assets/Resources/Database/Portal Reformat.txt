@@ -1,0 +1,24 @@
+<b>Portal Reformat</b>(Underdark, p. 60)
+
+Transmutation
+ <b>Level:</b>   Portal (Alternative) 8,   
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One portal
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A portal reformat spell permanently removes or adds one or more keys to a portal (see Portals in Chapter 2 of the <span class="caps">FORGOTTEN</span> <span class="caps">REALMS</span> Campaign Setting).
+The caster must have studied the portal with the analyze portal spell (or some similar means) and must know its properties before he can add or remove any keys.
+Removing a Key: Removing a key from a portal changes it from a portal activated only by that specific key to either a portal that cannot be activated at all or a portal that can be activated by any creature (caster's choice).
+If the key controlled the behavior of the portal, the caster can decide which behavior to remove.
+For example, in the case of a variable portal that leads to one destination if activated by a drow and another destination if activated by any other creature, the caster could remove either destination, making it a portal that sends any other creature to one destination or a drow to one destination.
+Adding a Key: You can add a key to an existing portal to prevent it from being activated unless the creature attempting to activate it has the key.
+If you designate a specific object or type of object as the key, you must have that object on hand for the casting of the spell.
+You can also add a key that changes the behavior of a variable portal, if you so choose.
+For example, if a variable portal formerly operated one way for drow and another way for all other creatures, you could add a key that is nearly impossible to obtain for the &quot;all other creatures&quot; function, effectively changing the portal into a drow-only portal.
+XP Cost: 250 XP.
+   

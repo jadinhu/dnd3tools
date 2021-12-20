@@ -1,0 +1,13 @@
+<b>Invisibility, Swift</b>(Miniatures Handbook)
+
+Illusion (Glamer)
+ <b>Level:</b>  Assassin 2,  Bard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+This spell functions like invisibility (see page 245 of the Player's Handbook), except as noted above.
+ <b>Also appears in</b>   Champions of Valor  Spell Compendium  Complete Adventurer     

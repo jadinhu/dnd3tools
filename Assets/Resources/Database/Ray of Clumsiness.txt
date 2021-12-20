@@ -1,0 +1,17 @@
+<b>Ray of Clumsiness</b>(Spell Compendium, p. 166)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A crackling ray leaps from your outstretched hand. The green ray seems almost sluggish in reaching its target, though it takes only an eyeblink to do so.</b>
+	
+You must succeed on a ranged touch attack with the ray to strike a target. The energy of the ray stiffens the subject's muscles and joints, making it more difficult for the subject to move. The subject takes a penalty to Dexterity equal to 1d6+1 per two caster levels (maximum penalty 1d6+5, minimum Dexterity 1).
+   

@@ -1,0 +1,22 @@
+<b>Acid Orb</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Evocation [Acid]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One or more creatures or objects, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+One or more orbs of acid about 3 inches across shoot from your palm at their targets.
+You must succeed at a ranged touch attack to hit your target.
+The orbs deal a total of 1d6 points of acid damage per caster level (maximum 15d6), divided any way you see fit, but a single orb must deal at least 1d6 points of damage.
+You declare the damage division before making your attack rolls.
+A creature struck directly takes the orb's damage and becomes nauseated from the acid's noxious fumes for 1 round.
+A successful Fortitude save reduces damage by half and negates the nausea.
+If you miss, acid splashes in a 10-foot burst, dealing 2 points per die of damage dealt by that orb.
+A successful Reflex reduces splash damage by half.
+   

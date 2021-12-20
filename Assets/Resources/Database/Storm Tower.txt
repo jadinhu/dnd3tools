@@ -1,0 +1,21 @@
+<b>Storm Tower</b>(Complete Divine)
+
+Abjuration
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 100-ft. tall, 20-ft.-radius spread
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You form a tower of dark, swirling storm clouds that negates many forms of magic.
+The storm tower absorbs any electricity damage inflicted to those within it.
+Magic missiles cannot be cast into, out of, or within the storm tower.
+The storm tower is composed of 60 mph winds (making ranged attacks impossible within the tower), though it has no effect on the movement of creatures within it.
+However, only Gargantuan or Colossal creatures can pass through the outer edge of the storm tower; all creatures of lesser size must stop any movement at the edge.
+Anyone within the storm tower has one-half concealment relative to those outside the tower.
+The howling winds of the storm tower also apply a -10 penalty on all Listen checks within 50 feet of it (including all those inside).
+ <b>Also appears in</b>   Magic of Faerun  Spell Compendium     

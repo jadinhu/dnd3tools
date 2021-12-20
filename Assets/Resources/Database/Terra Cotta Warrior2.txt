@@ -1,0 +1,22 @@
+<b>Terra Cotta Warrior</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 3 (Earth),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One statuette
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Terra cotta statues are popular items of decoration and devotion.
+This spell turns an innocuous statuette, no more than 6 inches tall, into a full-sized warrior, ready to fight your foes.
+The statuette becomes a Medium-size animated object, as described in the Monster Manual.
+The statuette has a speed of 40 feet and a hardness of 6.
+It has none of the special attack forms described in the Monster Manual.
+Focus: A terra cotta statue of a warrior, up to 6 inches tall and costing 1 gp.
+If the terra cotta warrior remains intact at the end of the spell, the statuette can be reused.
+Otherwise, it must be repaired or replaced.
+ <b>Also appears in</b>   Complete Arcane     

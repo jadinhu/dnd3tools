@@ -1,0 +1,17 @@
+<b>Discolor Pool</b>(Planar Handbook)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One color pool
+ <b>Duration:</b> One hour/level (D)
+ <b>Saving Throw:</b> Will disbelief (if interacted with)
+ <b>Spell Resistance:</b> No (harmless)
+
+ 	
+This spell causes a color pool on the Astral Plane � ;an irregular patch of color containing a portal to another plane � ;to appear to be a different color, and thus, to lead to another plane.
+True seeing or analyze portal reveals the true nature of the pool.
+Material Component: Four drops of colored ink.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,9 @@
+<b>Hold Person Or Ghost</b>(Ghostwalk)
+
+Enchantment (Compulsion) [Ectomancy, Mind-Affecting]
+ <b>Level:</b>  Bard 3,  Cleric 3,  Sorcerer 4,  Wizard 4,   Ghost 2,   
+<b>Components:</b>
+
+ 	
+As hold person, except that it also affects ghosts.
+   

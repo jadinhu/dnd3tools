@@ -1,0 +1,17 @@
+<b>Kuo-toa Skin</b>(Stormwrack)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject's skin, as well as clothing, armor, and other personal effects (including worn magic items), take on an oily sheen like the slippery skin of kuo-toas.
+For the duration of the spell, the subject gains a +8 bonus on Escape Artist checks and cannot be snared by webs (magical or otherwise).
+Arcane Material Component: A kuo-toa scale.
+   

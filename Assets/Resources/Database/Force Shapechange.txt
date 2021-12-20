@@ -1,0 +1,23 @@
+<b>Force Shapechange</b>(Oriental Adventures)
+
+Abjuration
+ <b>Level:</b>  Shaman 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature/level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With this spell, you force any shapechanger to revert into its true form.
+When you cast the spell, you specify the targets you know or believe to be shapechangers.
+Any shapechangers targeted by the spell must attempt Will saving throws.
+If they fail their saves, they revert to their true form amid wracking pain, which causes them 3d10 points of damage.
+If the saving throw is successful, they retain their current form, but still suffer extreme pain, taking half damage.
+The shapechanger is locked into its true form for 1 round per caster level, but the spell deals the 3d10 points of damage only when the change first occurs.
+For purposes of this spell, a shapechanger is any creature with the shapechanger type or a supernatural or extraordinary ability that allows it to assume an alternate form.
+A wu jen who knows polymorph self is not a shapechanger (since a spell is not a supernatural or extraordinary ability), but a spirit centipede is (since it has the exceptional ability to assume alternate forms, though its type is outsider).
+This spell has no effect on creatures under the effect of alter self, polymorph self, or other spell effects.
+ <b>Also appears in</b>   Races of Eberron     

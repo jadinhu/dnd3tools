@@ -1,0 +1,24 @@
+<b>Elemental Body</b>(Manual of the Planes)
+
+Transmutation [see text]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You can transform your body into a particular type of elemental substance.
+You and your possessions appear to be made of that element, though in the same general shape and size as your normal appearance.
+You gain the following abilities when you use elemental body:			You have the benefits of the attune form spell with respect to the appropriate element.	
+If you choose a water body, for example, you can breathe normally on water-dominant planes.			You are immune to poison, sleep, paralysis, and stunning, and are not subject to critical hits or flanking.	
+You gain darkvision with a range of 60 feet.			Your creature type remains unchanged, so you are unaffected by spells that target elementals.	
+In addition, you gain the following exceptional abilities according to the type of elemental body chosen: Air: Fly at your normal speed (perfect maneuverability), air mastery (airborne creatures suffer a -1 penalty on attack and damage rolls against you).
+Earth: Earth mastery (you gain a +1 attack and damage bonus if both you and your foe touch the ground), push (you may start a bull rush maneuver without provoking an attack of opportunity), +3 natural armor bonus to AC.
+Fire: Fire immunity, burn (those you hit in melee and those who attack you with natural weapons must make a Reflex save or catch fire, with a save DC equal to that of a fire elemental of the same size).
+Water: Swim at your normal speed, water mastery (you gain a +1 attack and damage bonus if both you and your opponent touch water), drench (you may use your elemental form to put out nonmagical open flames and dispel magical fire you touch as if casting dispel magic at your caster level).
+The elemental body spell has the descriptor of the element you choose.
+So, if you choose a body of fire, elemental body is a fire spell.
+Material Component: A bit of the element in question from a plane other than the one where the spell is being cast.
+ <b>Also appears in</b>   Spell Compendium     

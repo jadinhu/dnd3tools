@@ -1,0 +1,15 @@
+<b>Aerial Alacrity</b>(Races of the Wild)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,   Sky 4,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+You become quicker and more maneuverable while airborne.
+Your fly speed increases by 30 feet, and your maneuverability when flying improves by one category, to a maximum of perfect (see page 20 of the Dungeon Master's Guide).
+While airborne, you gain a +1 dodge bonus to Armor Class and on Reflex saves.
+   

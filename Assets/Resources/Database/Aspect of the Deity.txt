@@ -1,0 +1,12 @@
+<b>Aspect of the Deity</b>(Book of Exalted Deeds)
+
+Transmutation [Good]
+ <b>Level:</b>  Apostle of Peace 6,  Exalted Arcanist 6,   Herald 7,   
+<b>Components:</b>
+
+ 	
+As lesser aspect of the deity, but you take on all the qualities of a celestial creature (see the Monster Manual for complete details):			You take on a shining, metallic appearance.		You gain the ability to smite evil once a day.	
+Add your Charisma bonus to your attack roll and your character level to your damage roll against an evil foe.			You gain darkvision out to 60 ft.		You gain resistance 20 to acid, cold, and electricity.		You gain damage reduction 10/magic.		You gain spell resistance 25.	
+Your creature type does not change (you do not become an
+outsider).
+ <b>Also appears in</b>   Defenders of the Faith: A Guidebook to Clerics and Paladins     

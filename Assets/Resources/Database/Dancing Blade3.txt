@@ -1,0 +1,25 @@
+<b>Dancing Blade</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+With a word and a gesture, the sword in your hand leaps to life with a swooping salute.
+This spell animates a melee weapon currently in your possession, causing it to fight your foes as you direct it.
+Once each round as a free action, you can direct the blade to attack an adjacent foe (a weapon with reach can attack a foe 10 feet away).
+The weapon's bonus on attack rolls is equal to your caster level + your key ability modifier, plus any enhancement bonus the weapon might have.
+It deals damage equal to the normal damage of the weapon, plus your key ability modifier and any enhancement bonus or other bonus on damage inherent in the weapon.
+The weapon attacks once per round.
+Despite the spell's name, it works on any melee weapon (not just blades).
+While your weapon is dancing, it cannot make attacks of opportunity, and you are not considered armed with the weapon.
+It remains in your space and accompanies you everywhere, whether you move by physical or magical means.
+The weapon cannot be disarmed.
+Focus: The melee weapon that serves as the target of the spell.
+ <b>Also appears in</b>   Complete Arcane  Oriental Adventures     

@@ -1,0 +1,17 @@
+<b>Distracting Ray</b>(Spell Compendium, p. 69)
+
+Abjuration
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You blast a nearby creature with a multicolored ray. The ray explodes on contact to form a dizzying array of bizarre swirling and flashing lights around the targeted creature.</b>
+	
+You must succeed on a ranged touch attack with the ray to strike a target. This ray attempts to undo magic as it is being cast. Used in the same manner as a counterspell (as a readied action), the ray interferes with the manipulation of divine or arcane magic by dazzling the target. If the ray successfully strikes a spellcaster, and that spellcaster is in the process of casting a spell, then the target spellcaster must make a Concentration check to avoid losing the spell. The DC of the Concentration check is equal to 17 + the level of the spell the target is casting.
+   

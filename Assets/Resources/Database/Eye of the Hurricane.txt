@@ -1,0 +1,31 @@
+<b>Eye of the Hurricane</b>(Spell Compendium, p. 86)
+
+Abjuration [Air]
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 40-ft. radius emanation centered on your, with 10-ft.-radius quiet area centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your voice traits off into whispers as you near the end of the spell's complex ritual. The whispers begin to build upon one another, echoing in the air around you, swirling and twisting until they become a steady cacophony. The wind gathers speed, creating a spherical vortex around you.</b>
+	
+With this spell, you create a swirling miniature storm that provides a measure of protection, but leaves you and those near you unaffected.
+	
+The storm that surrounds you has hurricane-force winds spinning in a circle with you at the center. Normal ranged attacks through the hurricane's windy area are impossible, and even heavier projectiles such as siege weapons and giant boulders take a -8 penalty on the attack roll.
+	
+Creatures who move inside the spell's area suffer effects depending on their size and whether theyÂ¿re airborne. Each creature must make a saving throw at the beginning of its turn or when in enters the affected area.
+	
+Medium or smaller creatures mus succeed on a Fortitude save or be knocked 1d4x;10 feet away from the eye of the hurricane's center and take 1d4 points of nonlethal damage per10 feet traveled in this manner. Creatures blown away are knocked prone as well. Flying creatures are blown back 2d6x;10 feet and take 2d6 points of nonlethal damage.
+	
+Large creatures must succeed on a Fortitude save or be knocked prone by the force of the wind. Flying creatures are instead blown back 1d6x;10 feet.
+	
+Huge creatures must succeed on a Fortitude save or be checked. Flying creatures are instead blown back 1d6x;5 feet.
+	
+Gargantuan and Colossal creatures can move through the spell's area without adverse consequences.
+	
+Even creatures that succeed on their saving throws must attempt them again whenever they start a turn inside the spell's area or whenever they move back into it.
+	
+The spell's area is effectively a sphere. Although the area is centered on you, you're not within the wind. if you move, the eye of the hurricane moves as well to keep you in the center. If you cast <b>eye of the hurricane</b> so that creatures are inside the eye when the spell begins, they must make Fortitude saves when your movement brings the area of wind upon them. Thereafter, if you move the spell area into a square occupied by another creature, that creature makes a Fortitude save at the beginning of its next turn (assuming the windy area of the spell is still on it).</p   

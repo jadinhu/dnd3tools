@@ -1,0 +1,20 @@
+<b>Spear of Valarian</b>(Book of Exalted Deeds)
+
+Transmutation
+ <b>Level:</b>  Beloved of Valarian 4,  Ranger 4,  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One nonmagical weapon touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude negates (object, harmless)
+ <b>Spell Resistance:</b> Yes (object, harmless)
+
+ 	
+The spear of Valarian spell transforms one nonmagical weapon into a shimmering silver spear.
+You must be carrying the weapon and have it drawn for the spell to work.
+The shimmering spear functions as a +1 silvered spear.
+Against magical beasts, the weapon becomes a +3 silvered spear that deals +2d6 points of bonus damage (as the bane special property).
+If the spear of Valarian is sundered, the original weapon breaks as the spell suddenly ends.
+If the wielder relinquishes the spear, willingly or not, it immediately reverts to its previous state and the spell ends.
+   

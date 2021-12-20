@@ -1,0 +1,15 @@
+<b>Demon Wings</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>  Blackguard 3,  Demonologist 3,   Demonic 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+Massive, batlike wings grow from the caster's back.
+With these wings, the caster can fly at his normal land speed, with average maneuverability.
+The caster can carry his normal carrying capacity, and greater burdens affect his fly speed as they would affect his land speed.
+ <b>Also appears in</b>   Fiendish Codex I: Hordes of the Abyss     

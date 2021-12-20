@@ -1,0 +1,16 @@
+<b>Magic Savant</b>(Complete Mage)
+
+Divination
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Your hands and mind warm as the flow of mystical energy strengthens within you.
+You align your own energy with that of the magic items around you.
+You gain a +4 insight bonus on Use Magic Device checks.
+If you have 10 or more ranks in Use Magic Device, you can take 10 on Use Magic Device checks, even if the situation wouldn't normally allow you to do so.
+   

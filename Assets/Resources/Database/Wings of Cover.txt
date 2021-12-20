@@ -1,0 +1,21 @@
+<b>Wings of Cover</b>(Races of the Dragon)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+Immense, partially translucent wings unfurl from behind you and completely shield you from the sight of your enemies for a single heartbeat.
+Your evoked wings grant cover against a specific attack.
+If your foe is about to attack you with a melee, ranged, spell, or psionic attack, you can cast this spell immediately, creating a hemispherical barrier (or a spherical barrier if you are not standing on solid ground) of force shaped like dragon wings.
+The wings of force last just long enough to disrupt your foe's line of effect to you, providing you total cover against a single attack with a weapon, spell, or psionic power.
+Your foe's first attack in this round cannot be made and is wasted against you, though he could decide to take any other action, including choosing to attack one of your allies instead, or take a full attack action that grants him additional melee attacks against you in this round (if your foe is of high enough level to have additional attacks).
+The wings unfurl and then dissipate an instant later.
+Your foe could choose to attack the area in which you have taken cover with an area attack (such as a fireball spell).
+In this case, you gain a +8 bonus to AC (if applicable) and a +4 bonus on Reflex saves.
+Special: A dragonblooded character, or a character with the dragon type, can provide cover for one additional adjacent ally for every three caster levels.
+   

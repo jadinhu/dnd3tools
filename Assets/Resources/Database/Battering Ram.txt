@@ -1,0 +1,21 @@
+<b>Battering Ram</b>(Magic of Faerun)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One object or creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a ramlike force that can strike with considerable power.
+Similar to a ring of the ram, the force can target a creature or an object.
+The force deals 1d6 hit points of damage to the target.
+If the target is a creature, this attack initiates a bull rush.
+(The force is considered a Large creature with Strength 25 for this purpose).
+If the target is a movable object such as a door, the caster can make a Strength check (using the Strength of the battering ram) to attempt to open the door.
+Focus: A piece of carved ram's horn.
+ <b>Also appears in</b>   Spell Compendium     

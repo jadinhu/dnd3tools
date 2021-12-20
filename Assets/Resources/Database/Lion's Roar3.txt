@@ -1,0 +1,17 @@
+<b>Lion's Roar</b>(Tome of Battle: The Book of Nine Swords, p. 92)
+
+White Raven (Boost)
+ <b>Level:</b>  Crusader 3 (One White Raven maneuver),  Warblade 3 (One White Raven maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 60 ft.
+ <b>Target:</b> You and allied creatures within 60 ft.
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You unleash a sudden battle roar as your mighty blow fells your enemy. Inspired by your example, your allies fight with renewed energy and determination.</b>
+	
+When you defeat an enemy, you call out to your allies to press the attack. They respond by putting tremendous pressure on the enemy as their attacks strike with greater force.
+	
+As a swift action, you initiate this boost after you have reduced an opponent to fewer than 0 hit points. You and allies within range gain a +5 morale bonus on damage rolls for 1 round.
+ <b>Also appears in</b>   Spell Compendium  Complete Warrior     

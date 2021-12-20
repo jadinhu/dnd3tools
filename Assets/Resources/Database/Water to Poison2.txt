@@ -1,0 +1,19 @@
+<b>Water to Poison</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 4 (Water),   Maho 4,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> 1 pint of water/three levels
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell transforms a volume of water into an equal volume of ingested poison.
+The saving throw DC of the poison is the same as the spell's DC would be (15 + your Intelligence modifier).
+The poison's initial damage is 1 point of temporary Constitution damage, and its secondary damage is 1d8 points of temporary Constitution damage.
+A single swallow of poison is enough to cause this effect, but drinking more does not increase the effect.
+Material Component: The fang of a poisonous snake.
+ <b>Also appears in</b>   Complete Arcane     

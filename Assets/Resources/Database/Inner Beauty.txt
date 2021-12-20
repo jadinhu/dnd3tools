@@ -1,0 +1,24 @@
+<b>Inner Beauty</b>(Fiendish Codex I: Hordes of the Abyss)
+
+Transmutation
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates; see below
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You change the subject's physical appearance to reflect its personality and morality, revealing its true beauty or exposing its revolting ugliness.
+Although this spell is particularly effective for rooting out demons that have used magic to assume pleasing forms, it also works well for augmenting good-aligned creatures.
+If the subject is evil, its body and visage twist and deform, taking on a hideous, bestial appearance.
+In addition, the subject takes a -4 penalty to Dexterity and Charisma (minimum 0) for the duration of the spell.
+Furthermore, on the round that this transformation occurs, every creature within a 15-foot radius of the subject that can see it must succeed on a Fortitude save or become nauseated for 1d4 rounds by this sudden revelation of wickedness.
+If the subject is good, its body and visage grow lovelier and more elegant, taking on an appearance of rapturous beauty and grace.
+In addition, the subject gains a +4 sacred bonus to Dexterity and Charisma for the duration of the spell.
+Furthermore, in the round when this transformation occurs, every creature within a 15-foot radius of the subject that can see it must succeed on a Fortitude save or be stunned for 1 round by this sudden revelation of virtue.
+If the targeted creature is neither good nor evil, the spell has no effect.
+Focus: A handheld mirror worth at least 500 gp.
+   

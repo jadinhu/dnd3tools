@@ -1,0 +1,27 @@
+<b>Hindsight</b>(Spell Compendium, p. 114)
+
+Divination
+ <b>Level:</b>  Bard 6,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft.-radius emanation centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>The rigorous ritual of the spell finally draws to a close. You breathe a sigh of relief even as phantom images appear before your eyes, moving in reverse. Suddenly they cease their movements and seem more real. You watch as the phantom images play out their parts in quick succession, showing you the knowledge of the past you seek.</b>
+	
+You can see and hear into the past, getting a look at events that happened previously at your current location. The level of detail you see and hear by means of this spell depends on the span of time you wish to observe; concentrating on a span of days renders a more detailed perspective than a span of centuries, for example. You can view only one span of time per casting, chosen from the following options:
+	
+<b>Days:</b> You sense the events of the past, stretching back one day per caster level. You gain detailed knowledge of the people, conversations, and events that transpired.
+	
+<b>Weeks:</b> You gain a summary of the events of the past, stretching back one week per caster level. Exact wording and details are lost, but you know all the participants and the highlights of the conversations and events that took place.
+	
+<b>Years:</b> You gain a general idea of the events of the past, stretching back one year per caster level. You notice only noteworthy events such as deaths, battles, scenes of great emotion, important discoveries, and significant happenings.
+	
+<b>Centuries:</b> You gain a general idea of the events of the past, stretching back one century plus an additional century for every four caster levels beyond 1st. For instance, a 16th-level caster would gain insight into the events of four centuries in the past, and a 17th-level caster would see back across five centuries. You notice only the most remarkable of events: coronations, deaths of important personages, major battles, and other truly historic happenings.
+	
+Material Component: An hourglass-shaped diamond worth at least 1,000 gp.
+ <b>Also appears in</b>   Complete Adventurer     

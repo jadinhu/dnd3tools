@@ -1,0 +1,14 @@
+<b>Ancient Mountain Hammer</b>(Tome of Battle: The Book of Nine Swords, p. 81)
+
+Stone Dragon (Strike)
+ <b>Level:</b>  Crusader 7 (Three Stone Dragon maneuvers),  Swordsage 7 (Three Stone Dragon maneuvers),  Warblade 7 (Three Stone Dragon maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature or unattended object
+
+ 	
+<b>You put the weight of a great mountain behind your attack, pounding through armor and bone.</b>
+	
+As part of this maneuver, you make a single melee attack. This attack deals an extra 12d6 points of damage and automatically overcomes damage reduction and hardness.
+   

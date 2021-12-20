@@ -1,0 +1,19 @@
+<b>Wounding Whispers</b>(Magic of Faerun)
+
+Abjuration [Sonic]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+
+ 	
+You surround yourself with whispers that injure any creature that comes into contact with you.
+Any creature striking you with its body or handheld weapons suffers 1d6 points of sonic damage +1 point per caster level.
+If a creature has spell resistance, it applies to this damage.
+Weapons with exceptional reach, such as longspears, do not endanger their users in this way.
+You cannot use this spell to deal damage to another target (for instance, with an unarmed attack or by forcing the whispers against a target).
+Only if another creature touches you does the spell deal damage.
+ <b>Also appears in</b>   Spell Compendium     

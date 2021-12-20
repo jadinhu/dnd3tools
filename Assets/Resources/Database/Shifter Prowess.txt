@@ -1,0 +1,13 @@
+<b>Shifter Prowess</b>(Races of Eberron, p. 190)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, Shifter
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> See text
+
+ 	
+You infuse your senses with the latent power of your lycanthrope heritage, increasing your racial bonuses on Balance, Climb, and Jump checks by +8. This spell functions only if cast while you are shifting, and lasts until your shifting ends.
+   

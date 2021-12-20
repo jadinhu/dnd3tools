@@ -1,0 +1,26 @@
+<b>Shadow Canopy</b>(Lords of Darkness)
+
+Evocation [Darkness]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Dome 25 ft. high, diameter 100 ft. + 50 ft./level
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates or none (object)
+ <b>Spell Resistance:</b> Yes or no (object)
+
+ 	
+You create a dome of shadow.
+The outer surface of the dome is impenetrable to normal vision and darkvision, granting 100% concealment to creatures and objects within the spell's area.
+A creature under the effect of blacklight cannot see through the dome.
+The interior of the dome casts a deep shadow on everything within, reducing the range of normal vision to 5 feet; creatures with darkvision can see normally within the dome.
+Light, including sunlight, cannot penetrate the dome.
+Creatures that would normally be adversely affected by sunlight, such as shades and vampires, are able to function normally within the dome.
+You cannot cast the spell on a point in space or on a mobile object.
+All Shadovar expeditions assigned to recover items from old Netherese locations include at least one arcanist able to cast this protective spell.
+Shadow canopy counters or dispels any light spell of equal or lower level.
+Light spells of equal level have no effect on shadow canopy,
+but light spells of higher level counter or dispel shadow canopy.
+Material Component: A handful of coal dust and the dried eyeball of any diurnal creature.
+ <b>Also appears in</b>   Races of Faerun     

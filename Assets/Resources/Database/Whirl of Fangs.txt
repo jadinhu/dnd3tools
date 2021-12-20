@@ -1,0 +1,25 @@
+<b>Whirl of Fangs</b>(Serpent Kingdoms)
+
+Evocation [Force]
+ <b>Level:</b>  Cleric 6,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Wall or plane of darting jaws up to 20 ft. long/level, or a ringed wall of whirling jaws with a radius up to 5 ft./2 levels; either form 20 ft. high
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create an immobile curtain of snapping, serpent-fanged jaws shaped of pure force.
+You can choose to orient this barrier at any angle from vertical to horizontal at the time of casting.
+The force jaws race to bite at any creature other than you
+that comes into contact with them.
+Any creature passing through the curtain takes 12d4 points of damage, with a Reflex save for half damage.
+If you evoke the barrier so that it appears where creatures are, each creature takes damage as if passing through the curtain.
+Each such creature can avoid the wall (ending up on the side of its choice, where feasible) and thus take no damage by making a successful Reflex save.
+A successful Reflex save means the creature has reached either side of the wall without taking any damage.
+A creature inside a whirl of fangs takes 2d4 points of damage (Reflex save for half) on its turn each round that it remains in contact with the effect.
+You can move through or remain within your own whirl of fangs without taking damage.
+Accordingly, many Yuan-ti spellcasters &quot;wear&quot; this spell as a sort of immobile cloak when fighting formidable foes.
+   

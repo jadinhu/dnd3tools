@@ -1,0 +1,17 @@
+<b>Cat's Grace</b>(Player's Handbook v.3.5, p. 208)
+
+Transmutation
+ <b>Level:</b>  Assassin 2, Trapsmith 1,  Bard 2,  Urban Druid 2,  Sha'ir 2,  Wu Jen 2 (Fire),  Duskblade 2,  Vigilante 2,  Fatemaker 2,  Knight of the Weave 2,  Ebonmar Infiltrator 2,  Hoardstealer 2,  Adept 2,  Wizard 2,  Sorcerer 2,  Ranger 2,  Druid 2,  Assassin 2,   Celerity 2,  Elf 2,  Halfling 2,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The transmuted creature becomes more graceful, agile, and coordinated.
+The spell grants a +4 enhancement bonus to Dexterity, adding the usual benefits to AC, Reflex saves, and other uses of the Dexterity modifier.
+Material Component: A pinch of cat fur.
+   

@@ -1,0 +1,19 @@
+<b>Bite of the Werewolf</b>(Spell Compendium, p. 29)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>A howl erupts from your lips as your face contorts and expands into a wolf-like form.</b>
+	
+You gain a +2 enhancement bonus to Strength, a +4 enhancement bonus to Dexterity, a +4 enhancement bonus to Constitution, and a +4 enhancement bonus to natural armor. You gain a bite attack that deals 1d6 points of damage (or 1d4 points if you are Small) + 1-1/2 times your Str modifier. You also gain the benefit of the Blind-Fight feat. If your base attack bonus is +6 or higher, you do not gain any additional attacks.
+	
+Material Component: A wolf's tooth.
+   

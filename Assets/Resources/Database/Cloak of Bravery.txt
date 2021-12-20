@@ -1,0 +1,15 @@
+<b>Cloak of Bravery</b>(Complete Warrior)
+
+Abjuration [Mind-Affecting]
+ <b>Level:</b>  Paladin 2,  Cleric 3,   Courage 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft.-radius emanation centered on you
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+All allies within the emanation (including you) gain a morale bonus on saves against fear effects equal to your caster level (to a maximum of +10 at 10th level).
+ <b>Also appears in</b>   Draconomicon     

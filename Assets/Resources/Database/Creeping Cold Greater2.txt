@@ -1,0 +1,11 @@
+<b>Creeping Cold, Greater</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>
+ <b>Duration:</b> See text
+
+ 	
+This spell is the same as creeping cold, but it adds a fourth round to the duration, during which it deals 4d6 points of damage, if the caster is at least 15th level, it adds a fifth round at 5d6 points of damage.
+If the caster is at least 20th level, it adds a sixth round at 6d6 points of damage.
+   

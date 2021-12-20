@@ -1,0 +1,18 @@
+<b>Internal Fire</b>(Oriental Adventures, p. 106)
+
+Evocation [Fire]
+ <b>Level:</b>  Wu Jen 9 (Fire),   Flame 9,   
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Creatures with total HD not exceeding your level, no two of which may be more than 20 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates a deadly raging heat in the internal organs of the targets, causing them to burst into flame from the inside.
+Death occurs instantly.
+A successful Fortitude save instead deals 6d6 points of damage, +1 point per caster level.
+Focus: An iron brazier filled with red-hot charcoal.
+ <b>Also appears in</b>   Complete Arcane     

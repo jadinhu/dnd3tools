@@ -1,0 +1,14 @@
+<b>Lightning Recovery</b>(Tome of Battle: The Book of Nine Swords, p. 68)
+
+Iron Heart (Counter)
+ <b>Level:</b>  Warblade 4 (Two Iron Heart maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>Your foe twists out of the way of your initial attack, but your weapon becomes a blur as you reverse direction and strike at him again with lightning speed. In the blink of an eye, you complete your attack and resume your defensive posture.</b>
+	
+This maneuver embodies the ethos of speed and energy that the Iron Heart tradition teaches. If one of your melee attacks misses, you can initiate this maneuver to reroll that attack roll with a +2 bonus.
+   

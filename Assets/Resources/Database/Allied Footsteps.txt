@@ -1,0 +1,19 @@
+<b>Allied Footsteps</b>(Complete Mage)
+
+Divination
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing living creature touched
+ <b>Duration:</b> 1 day/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+With a touch, you feel the bond between you and your companion grow stronger.
+The subject of the spell knows the direction and approximate (within 10%) distance he must travel to reach you, enabling him to find you under almost any circumstances.
+He might not know the best route, however, since the spell does not account for obstacles.
+The spell works at any distance and continues even if you die.
+If you travel to a different plane, or if either you or the target enters an antimagic field or similar area, the spell is temporarily suppressed.
+   

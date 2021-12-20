@@ -1,0 +1,18 @@
+<b>Shrieking Blast</b>(Heroes of Battle)
+
+Evocation [Sonic]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 40-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A shrieking blast is a deafening explosion of sonic power.
+Any creature in the area is permanently deafened and takes 8d6 points of sonic damage.
+A successful save reduces the deafness to 1 round and reduces the damage by half.
+Material Component: A small steel ball.
+   

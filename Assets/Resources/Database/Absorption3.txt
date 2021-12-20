@@ -1,0 +1,23 @@
+<b>Absorption</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Until expended or 10 minutes/level
+
+ 	
+Spells (and spell-like effects) targeted against you are absorbed and their energy stored until you release this energy in spells of your own. The abjuration absorbs only spells that have you as a target.
+Effect and area spells are not affected. Absorption also fails to affect touch range spells.
+	
+From 7-10 (1d4+6) spell levels are affected by the absorption. The DM secretly rolls the exact number. Each spell absorbed subtracts its level from the amount of absorption left. A spell might be only partially absorbed. Subtract the 1d4+6 result from the spell level of the incoming spell. Divide the remaining levels of the incoming spell by the original spell level of the incoming spell to see what fraction of the effect gets through. For damaging spells, you take that fraction of the damage.
+	
+For nondamaging spells, you have a proportional chance to be affected. For example, you have three spell levels of absorption remaining and a dominate monster spell strikes you. Dominate monster is a 9th-level spell: (9 � ;3)/9 leaves 6/9, or 66% of the spell. There exists a 66% chance the spell affects you.
+	
+If you are affected, any saving throw the spell normally allows still applies. You can use captured spell energy to cast any spell you have prepared, without expending the preparation itself (you must keep a running total of spell levels absorbed and used). In other words, the prepared spell doesn't disappear from your memory since you didn't use that &quot;prepared&quot;magical energy to power the casting.
+If you are a sorcerer, you can use stored energy to cast any spell you know.
+	
+The levels of spell energy you have stored must be equal to or greater than the level of the spell you want to cast, and you must (and use) have any material components required for the spell.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

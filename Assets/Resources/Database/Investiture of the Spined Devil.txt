@@ -1,0 +1,26 @@
+<b>Investiture of the Spined Devil</b>(Fiendish Codex II: Tyrants of the Nine Hells)
+
+Transmutation [Evil, Investiture]
+ <b>Level:</b>  Blackguard 1,  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The air stinks of sulfur and brimstone as you use the essence of a spinagon to imbue a creature with the power of Baator.
+You cause a creature to suddenly bristle with spines.
+The subject can snap its body forward to unleash a volley of up to three spines as a standard action (make a separate attack roll for each spine).
+The spines each deal 1d6 points of damage plus the subject's Strength modifier.
+This attack has a range of 60 feet with no range increment.
+The spines can be directed against different targets if desired, but all targets must be within 30 feet of one another.
+The subject can launch up to fifteen spines per casting of this spell.
+In addition, the subject gains resistance to fire 5.
+This resistance stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the spined devil).
+While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture.
+After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute.
+Material Component: A fist-sized chunk of brimstone.
+   

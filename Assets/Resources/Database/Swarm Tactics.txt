@@ -1,0 +1,14 @@
+<b>Swarm Tactics</b>(Tome of Battle: The Book of Nine Swords, p. 93)
+
+White Raven (Stance)
+ <b>Level:</b>  Crusader 8 (One White Raven maneuver),  Warblade 8 (One White Raven maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft.-radius emanation centered on you
+ <b>Duration:</b> Stance
+
+ 	
+<b>Your quick directions enable close teamwork between yourself and an ally. At your urging, your allies seize the initiative and work in close coordination with you to defeat an enemy.</b>
+	
+While you are in this stance, you use your tactical knowledge and mastery to improve your allies? teamwork. If you are adjacent to one or more opponents, your allies gain a +5 bonus on attack rolls made against any of those opponents.</p   

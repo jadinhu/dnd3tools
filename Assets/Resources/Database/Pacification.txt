@@ -1,0 +1,19 @@
+<b>Pacification</b>(Dragons of Faerun)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 4,  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Concentration, up to 1 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You calm your target by exhaling a peaceful breeze.
+This spell allows you to exhale a calming breeze, soothing one creature of your choice.
+The creature is affected as if by a calm emotions spell for as long as you concentrate, up to a maximum of 1 minute per caster level.
+You cannot affect creatures with more Hit Dice than you have caster levels.
+Special Material: If you blow dust of blue spinel (worth at least 50 gp) in the breeze when you cast the spell, its duration increases to 2 minutes per level.
+   

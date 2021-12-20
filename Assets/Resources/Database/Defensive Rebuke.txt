@@ -1,0 +1,17 @@
+<b>Defensive Rebuke</b>(Tome of Battle: The Book of Nine Swords, p. 58)
+
+Devoted Spirit (Boost)
+ <b>Level:</b>  Crusader 3 (One Devoted Spirit maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You sweep your weapon in a wide, deadly arc. When your blows strike home, you send your foe tumbling back on the defensive. He must deal with you first, or leave himself open to your deadly counter.</b>
+	
+Defensive rebuke allows you to excel at controlling the battlefield around you. Your enemies must pay heed to the threat you pose. If they ignore you in favor of attacking other targets, you take advantage of their lapses with a punishing counterattack.
+	
+Each enemy you strike after you initiate this maneuver becomes vulnerable to your further attacks. If such an opponent attacks anyone other than you in melee for the duration of the maneuver, that attack provokes an attack of opportunity from you (each separate attack a target makes provokes an attack of opportunity, making this boost especially lethal if you have Combat Reflexes). Enemies you strike become aware of the consequences of the maneuver.
+   

@@ -1,0 +1,21 @@
+<b>Aura Against Flame</b>(Spell Compendium, p. 18)
+
+Abjuration
+ <b>Level:</b>  Druid 1,  Cleric 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>With the casting of this spell you are surrounded with a cool, blue mist that clings to your body, dampening the heat of the nearby flames.</b>
+	
+You create an aura of blue mist that protects you against fire, absorbing the first 10 points of fire damage as a resist energy (fire) spell (PH 272). In addition to the resist energy (fire) effect, the spell can be used to snuff out fires.
+	
+Any nonmagical flame that the aura contacts is immediately extinguished if the flame's maximum damage is 10 or fewer points per round. This means that torches, small fires, and hurled alchemist's fire are snuffed out and cause no damage if used against you or if you touch them.
+	
+You can use a standard action to touch an existing magical fire (such as a flaming sphere or a wall of fire) and attempt to dispel it as if using a dispel magic spell against it (use the caster level of aura against flame for the caster level check). If you succeed, you take no damage from the touch and the magical fire and aura both vanish. If you fail, you take damage from the magical fire source normally (reduced by your aura against flame), and both spells remain.
+	
+With a readied action, you can use the aura as a dispel magic effect to counterspell a magical fire attack against you. If successful, the spell is counterspelled and the aura disappears. If you fail the dispel check, or if the attack is not a fire attack, the aura remains.
+ <b>Also appears in</b>   Magic of Faerun     

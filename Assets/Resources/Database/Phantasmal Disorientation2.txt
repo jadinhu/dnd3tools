@@ -1,0 +1,19 @@
+<b>Phantasmal Disorientation</b>(Spell Compendium, p. 155)
+
+Illusion (Phantasm) [Mind-Affecting]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You create ever-shifting phantasmal terrain and landmarks that confuse the subject when it tries to move. The very ground shifts and twists beneath the subject's feet, and the landscape moves of its own accord. The subject finds it nearly impossible to walk in a straight line.</b>
+	
+The target of a <b>phantasmal disorientation</b> spell must make a Will save after this spell is cast to discern true landmarks from phantasmal ones. If the save succeeds, the creature moves and acts normally. If the save fails, it instead moves in a direction 90 degrees to either side (equal chance of going left or right), and cannot target any creature with ranged attacks or ranged spells. Because of the disorientation, the subject doesn't realize it's headed in the wrong direction until it meaningfully interacts with its environment (by making an attack or manipulating an object such as a door, for example). For the duration of the spell, an affected creature must succeed on a Will save each round to move normally.
+	
+A <b>phantasmal disorientation</b> spell affects only the direction of movement and attacks made at range. Creatures subject to it can still make melee attacks, cast personal or touch spells, or otherwise act normally.
+ <b>Also appears in</b>   Complete Divine     

@@ -1,0 +1,19 @@
+<b>Hiss of Sleep</b>(Draconomicon)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> No
+
+ 	
+Hissing and whispering softly, you lull the targets into a comatose slumber.
+Sleeping creatures are helpless.
+Slapping or wounding awakens affected creatures, but normal noise does not.
+Awakening a creature is a standard action (an application of the aid another action).
+Hiss of sleep has no effect on creatures that can see you, creatures that have already rolled saving throws against your frightful presence, or unconscious creatures.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,21 @@
+<b>Substitute Domain</b>(Complete Champion)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 day/level (D)
+
+ 	
+The power of your deity courses through you, re-placing what you once knew with different ideas and abilities.
+Upon casting substitute domain, you can swap one of your current domains for another that your deity offers.
+You gain the granted power of the new domain, as well as access to any of its spells that you can cast � ;though you must still prepare the spells normally.
+While substitute domain is in effect, you lose the granted powers and spells of the domain to which you have given up access.
+For example, Saera, a cleric of Pelor, normally has access to the Strength and Sun domains.
+She casts substitute domain.
+on herself and chooses to swap the Strength domain for another of the domains that Pelor normally grants � ;
+namely Healing.
+While she can now access the spells and granted power of the Healing domain, Saera cannot tap the abilities and spells normally associated with the Strength domain.
+   

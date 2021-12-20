@@ -1,0 +1,18 @@
+<b>Healing Touch</b>(Magic of Faerun)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half (see text)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You transfer some of your life essence to another creature, healing it.
+You may heal up to 1d6 points per two caster levels (maximum 10d6), and must decide how many dice to roll when you cast the spell.
+You take damage equal to the amount your target was healed.
+This spell cannot heal a target of more than your current hit points +10, which is enough to kill you.
+ <b>Also appears in</b>   Spell Compendium  Book of Exalted Deeds     

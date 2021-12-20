@@ -1,0 +1,9 @@
+<b>Cure Serious Wounds</b>(Player's Handbook v.3.5, p. 216)
+
+Conjuration (Healing)
+ <b>Level:</b>  Runescarred Berserker 2, Blackguard 4, Bard 3,  Nentyar Hunter 3,  Hunter of the Dead 3,  Healer 3,  Adept 3,  Cleric 3,  Ranger 4,  Paladin 4,  Druid 4,  Knight of the Weave 4,  Urban Druid 4,   Healing 3,   
+<b>Components:</b>
+
+ 	
+This spell functions like cure light wounds, except that it cures 3d8 points of damage +1 point per caster level (maximum +15).
+   

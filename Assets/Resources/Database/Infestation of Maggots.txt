@@ -1,0 +1,19 @@
+<b>Infestation of Maggots</b>(Complete Divine)
+
+Necromancy
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> One round/2 levels
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With a successful melee touch attack, you infest a creature with maggotlike creatures.
+They deal 1d4 points of temporary Constitution damage each round.
+The subject makes a new Fortitude save each round to negate the damage of that round and end the effect.
+The infestation can be removed with a cure disease or heal spell.
+Material Component: A handful of dead, dried flies.
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun     

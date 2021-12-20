@@ -1,0 +1,13 @@
+<b>Illusion Purge</b>(Races of Eberron, p. 187)
+
+Evocation
+ <b>Level:</b>  Cleric 8,  Sorcerer 8,  Wizard 8,   Truth 7,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 5 ft./level
+ <b>Area:</b> 5-ft.-radius/level emanation, centered on you
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+You surround yourself with a powerful sphere of magical clarity that negates all illusions of 7th level or lower. Anything concealed or altered by illusion appears in its natural state while in the area.
+   

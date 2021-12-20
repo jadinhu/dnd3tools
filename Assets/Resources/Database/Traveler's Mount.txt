@@ -1,0 +1,14 @@
+<b>Traveler's Mount</b>(Complete Divine)
+
+Transmutation
+ <b>Level:</b>  Blackguard 1,  Druid 1,  Paladin 1,  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch Area/Effect/Target: Animal or magical beast touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell makes a mount better able to handle the rigors of overland travel, at the expense of its will to fight. The touched animal or magical beast gets a +10 feet enhancement bonus to its speed, and it can hustle without taking damage or becoming fatigued as long as the spell is in effect. However, the mount no longer attacks in combat. The steed willingly bears its rider into battle; it just can't use its own natural weapons for the duration of the spell.
+ <b>Also appears in</b>   Spell Compendium     

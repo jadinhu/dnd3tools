@@ -1,0 +1,16 @@
+<b>Handfang</b>(Serpent Kingdoms)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You create a fanged, biting mouth in the palm of your hand.
+When you lay your hand upon a creature by making a touch attack, the mouth deals 1d8 points of damage.
+If you scored a critical hit with your touch attack, you may start a grapple as a free action without provoking an attack of opportunity.
+If you establish a hold, the fanged mouth sinks its teeth into the target's flesh and continues to bite for an additional 1d6 points of damage each round until the hold is broken or the spell ends.
+ <b>Also appears in</b>   Lords of Darkness  Races of Faerun     

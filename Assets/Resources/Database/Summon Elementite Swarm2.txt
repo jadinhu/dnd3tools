@@ -1,0 +1,19 @@
+<b>Summon Elementite Swarm</b>(Spell Compendium, p. 214)
+
+Conjuration (Summoning) [see text]
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One summoned elementite swarm
+ <b>Duration:</b> Concentration, up to 1 round/level + 1 round
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You summon what looks like a host of small pebbles, which immediately descend upon your foes.</b>
+	
+This spell summons an elementite swarm (Planar Handbook 114) � ;air, earth, fire, or water, at your option � ;from the appropriate Elemental Plane. It appears where you designate and acts immediately, on your turn. It understands your speech (regardless of your language), and it follows your commands to the best of its ability. You must concentrate to maintain the spell's effect, but commanding the creature is a free action.
+	
+When you use a summoning spell to summon an air, earth, fire, or water creature, it is a spell of that type.
+ <b>Also appears in</b>   Planar Handbook     

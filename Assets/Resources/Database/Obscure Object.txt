@@ -1,0 +1,17 @@
+<b>Obscure Object</b>(Player's Handbook v.3.5, p. 258)
+
+Abjuration
+ <b>Level:</b>  Bard 1,  Vigilante 1,  Urban Druid 1,  Sorcerer 2,  Wizard 2,  Sha'ir 2,  Court Herald 2,  Cleric 3,   Wealth 2,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One object touched of up to 100 lb./level
+ <b>Duration:</b> 8 hours (D)
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+This spell hides an object from location by divination (scrying) effects, such as the scrying spell or a crystal ball.
+Such an attempt automatically fails (if the divination is targeted on the object) or fails to perceive the object (if the divination is targeted on a nearby location, object, or person).
+Arcane Material Component: A piece of chameleon skin.
+   

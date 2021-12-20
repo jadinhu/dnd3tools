@@ -1,0 +1,16 @@
+<b>Preserve Ectoplasm</b>(Ghostwalk)
+
+Transmutation [Ectomancy]
+ <b>Level:</b>  Sorcerer 0,  Wizard 0,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 10 ft.
+ <b>Target:</b> 1 cu. ft./level of ectoplasm
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+As purify food and drink, but affecting only ectoplasm.
+Material Component: A small loop of gold wire.
+   

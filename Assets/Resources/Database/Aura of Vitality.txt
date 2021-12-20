@@ -1,0 +1,15 @@
+<b>Aura of Vitality</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature per 3 levels, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+All targets receive a +4 enhancement bonus to Strength, Dexterity, and Constitution scores.
+   

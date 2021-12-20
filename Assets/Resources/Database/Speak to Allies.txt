@@ -1,0 +1,10 @@
+<b>Speak to Allies</b>(Savage Species)
+
+Transmutation [Language-Dependent]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>
+ <b>Target:</b> Any number of allied creatures, no two of which may be more than 30 ft. apart
+
+ 	
+As message, except as noted above and that you and the recipients don't have to mouth the words or whisper, which means that those skilled in reading lips have no opportunity to learn the messages.
+   

@@ -1,0 +1,16 @@
+<b>Emerald Razor</b>(Tome of Battle: The Book of Nine Swords, p. 63)
+
+Diamond Mind (Strike)
+ <b>Level:</b>  Swordsage 2 (One Diamond Mind maneuver),  Warblade 2 (One Diamond Mind maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You stare at your enemy, studying his every move. You mentally probe his defenses in search of a weakness. A lesser warrior could spent long minutes pondering this problem, but you see an opening and seize upon it in an instant.</b>
+	
+Your understanding of combat, your keenly honed mind, and your capability to read your opponents make you a deadly combatant. When you focus your mind, even the most elusive opponent becomes an easy target.
+	
+As part of this maneuver, make a single melee attack against an opponent. This is a touch attack rather than a standard melee attack. If you hit, you deal normal melee damage.
+   

@@ -1,0 +1,25 @@
+<b>Obedient Avalanche</b>(Spell Compendium, p. 148)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,   Cold 9,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> 20-ft.-radius avalanche of snow centered on a point in space; see text
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half or Reflex negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You summon an avalanche of snow out of a rift in midair, burying your foes and sending them to a frosty death.</b>
+	
+An obedient avalanche spell affects creatures differently, depending on where they are in relation to the avalanche.
+	
+<b>Within 20 feet of the Center Point:</b> Creatures take 1d8 points of damage per two caster levels (maximum 10d8) and an additional 1d6 points of cold damage per two caster levels. A successful Reflex save halves the damage. Creatures who fail their saves are also buried (<span class="caps">DMG</span> 90). All squares within 20 feet of the center point are covered in heavy snow (<span class="caps">DMG</span> 94), which persists as long as ordinary snow would. A buried creature can free itself with a DC 20 Strength check as a full-round action, and can be dug free by others (a single creature working alone requires 1 minute to free a trapped creature). A trapped creature is unable to move, and cannot cast spells with somatic components, and any material components must be in hand.
+	
+<b>Between 20 feet and 40 feet of the Center Point:</b> Creatures take half as much damage from the impact of the avalanche as the creatures nearer the center point took (Reflex negates). Creatures who fail their saves must also resist the force of the snow moving past them as if they were being bull rushed. The snow has a +13 attack bonus (+5 for effective Strength of 20 and +8 for effectively being Huge) on the bull rush check, and it pushes characters away from the center point of the spell. All squares in the 20-foot to 40-foot ring are covered in snow (<span class="caps">DMG</span> 94), which persists as long as ordinary snow would.
+	
+<b>Terrain and Structures:</b> The avalanche uproots small trees and other vegetation automatically, and it leaves a trail of light rubble (<span class="caps">DMG</span> 91) even after the snow melts. Structures struck by an obedient avalanche take 1d6Ã—10 points of damage.
+	
+An obedient avalanche extinguishes all flames it touches, whether they are normal or magical.
+ <b>Also appears in</b>   Complete Divine  Player's Guide to FaerÃ»n  Frostburn     

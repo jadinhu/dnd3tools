@@ -1,0 +1,17 @@
+<b>Love's Lament</b>(Spell Compendium, p. 134)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Dirgelike music fills the area, reminding those in range of lost loves and life's disappointments.</b>
+	
+Creatures within the area of this spell that fail their saves take 1d6 points of Wisdom damage and are nauseated for 1d4 rounds.
+ <b>Also appears in</b>   Champions of Ruin     

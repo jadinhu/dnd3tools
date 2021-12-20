@@ -1,0 +1,20 @@
+<b>Death by Thorns</b>(Book of Vile Darkness)
+
+Conjuration (Creation) [Death, Evil]
+ <b>Level:</b>    Corrupt 7  
+<b>Components:</b>V, S, Corrupt, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Up to three creatures, no two of which can be more than 15 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster causes thorns to sprout from the insides of the subject creatures, which writhe in agony for 1d4 rounds, incapacitated, before dying.
+A wish or miracle spell cast on a subject during this time can eliminate the thorns and save that creature.
+Creatures that succeed at their Fortitude saving throws are still incapacitated for 1d4 rounds in horrible agony, taking
+1d6 points of damage per round.
+At the end of the agony, however, the thorns disappear.
+Corruption Cost: 1d3 points of Wisdom drain.
+   

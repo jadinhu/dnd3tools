@@ -1,0 +1,18 @@
+<b>Fine-tuning</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Transmutation
+ <b>Level:</b>  Bard 0,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> One instrument
+ <b>Duration:</b> 1 minute per level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell enables the caster to make an ordinary instrument perform as if it were of masterwork quality.
+For the duration of the spell, the instrument grants the user a +2 circumstance bonus on Perform checks, or an alternate effect as described in Chapter 3 for that instrument type, if desired.
+Fine-tuning has no effect if cast upon an instrument already of masterwork quality.
+Focus: The target of the spell.
+   

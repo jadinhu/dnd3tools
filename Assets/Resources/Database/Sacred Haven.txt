@@ -1,0 +1,19 @@
+<b>Sacred Haven</b>(Book of Exalted Deeds)
+
+Abjuration
+ <b>Level:</b>  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You shield one creature in a nimbus of holy light.
+The creature gains a +2 sacred bonus to Armor Class.
+In addition, while protected by this spell, the creature does not lose its Dexterity bonus to AC when flat-footed.
+For the duration of the spell, you gain awareness of the target's health as with the status spell, and you need not be able to touch the target to heal it with your lay on hands ability.
+Use of the lay on hands ability still requires a standard action, but it can be done at any range provided the target is on the same plane of existence as you.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

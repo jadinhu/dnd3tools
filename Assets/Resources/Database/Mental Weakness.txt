@@ -1,0 +1,16 @@
+<b>Mental Weakness</b>(Oriental Adventures)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Shaman 3,   Maho 3,   
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell weakens the subject's mental resistance, giving him a -4 penalty on all Will saves.
+Focus: The tail of a red fox.
+   

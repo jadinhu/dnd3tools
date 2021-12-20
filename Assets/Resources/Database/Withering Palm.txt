@@ -1,0 +1,16 @@
+<b>Withering Palm</b>(Complete Arcane)
+
+Necromancy
+ <b>Level:</b>  Cleric 7,  Wu Jen 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your successful melee touch attack deals 1 point of Strength damage and 1 point of Constitution damage per two caster levels to the target (maximum of 15 points each).
+If you score a critical hit, the subject takes ability drain instead.
+ <b>Also appears in</b>   Eberron Campaign Setting  Oriental Adventures  Spell Compendium     

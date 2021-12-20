@@ -1,0 +1,10 @@
+<b>Abyssal Frenzy, Mass</b>(Fiendish Codex I: Hordes of the Abyss)
+
+Transmutation [Evil]
+ <b>Level:</b>   Fury 9,   
+<b>Components:</b>V, S, DF, 
+ <b>Target:</b> One animal, humanoid, magical beast, or monstrous humanoid/level, all of which must be within 30 ft. of each other
+
+ 	
+This spell has the same effects as abyssal frenzy, except as indicated above.
+   

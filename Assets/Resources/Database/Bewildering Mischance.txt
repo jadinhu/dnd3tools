@@ -1,0 +1,17 @@
+<b>Bewildering Mischance</b>(Complete Champion)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Adept 5,  Cleric 5,  Shugenja 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your deity's laughter rains down on your suddenly clumsy foe.
+Bewildering mischance causes extreme bad luck to befall the target.
+For the duration of the spell, the subject must roll each saving throw, attack roll, and skill check twice, keeping the lower of the two rolls.
+   

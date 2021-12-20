@@ -1,0 +1,10 @@
+<b>Conjure Ice Beast Vi</b>(Frostburn)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Cleric 6,  Druid 6,    
+<b>Components:</b>
+ <b>Effect:</b> One or more conjured ice creatures, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like conjure ice beast I, except that you can conjure one creature from the 6th-level list, two creatures of the same kind from the 5th-level list, or four creatures of the same kind from a lower-level list.
+   

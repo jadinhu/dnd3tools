@@ -1,0 +1,11 @@
+<b>Prying Eyes, Greater</b>(Player's Handbook v.3.5, p. 267)
+
+Divination
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,  Sha'ir 8,    
+<b>Components:</b>
+
+ 	
+This spell functions like prying eyes, except that the eyes can see all things as they actually are, just as if they had true seeing with a range of 120 feet.
+Thus, they can navigate darkened areas at full normal speed.
+Also, a greater prying eye's maximum Spot modifier is +25 instead of +15.
+   

@@ -1,0 +1,19 @@
+<b>Blade Brothers</b>(Player's Handbook II)
+
+Abjuration
+ <b>Level:</b>  Bard 2,  Cleric 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Two willing creatures
+ <b>Duration:</b> 1 minute/level or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You reach out and touch two creatures, and a sparkling tether of multicolored light briefly forms between them.
+One time during the duration of this spell, when one subject of the spell attempts a saving throw, both recipients can roll and apply the more favorable result.
+When rolling, each subject uses his own save bonus and save modifiers.
+If both saving throws fail, both creatures suffer the consequences of a failed save, even if the effect that prompted the saving throw only affected one of the subjects.
+If the affected creatures move more than 120 feet away from each other after the spell is cast, the effect ends.
+   

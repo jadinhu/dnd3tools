@@ -1,0 +1,17 @@
+<b>Ghostharp</b>(Spell Compendium, p. 104)
+
+Divination
+ <b>Level:</b>  Bard 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched
+ <b>Duration:</b> 5 minutes / level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You place the coin on the table, touch it, and whisper the words of the spell. Softly the coin begins to replay the music of the previous night's performance.</b> 
+	
+You prepare an object that records and replays a song previously played or sung in its vicinity. When cast, the spell searches a radius of 50 feet for the lingering notes of a tune played there within the last day. It records these notes and reverberations. At your verbal command, &quot;Play,&quot; the ghostharp replays the music. The tune repeats until you command it to stop, or until its duration comes to an end. The ghostharp does not record conversations. Its imperfect replay can't reproduce bardic music or other magical effects, nor can it cast spells.
+ <b>Also appears in</b>   Magic of Faerun     

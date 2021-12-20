@@ -1,0 +1,16 @@
+<b>Assassin's Stance</b>(Tome of Battle: The Book of Nine Swords, p. 75)
+
+Shadow Hand (Stance)
+ <b>Level:</b>  Swordsage 3 (One Shadow Hand maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>As your foe struggles to regain his defensive posture, you line up an exacting strike that hits with superior accuracy and deadly force.</b>
+	
+A shadow cast by a gap between two armored plates or a crease in a creature?s thick hide calls to your weapon, allowing you to strike with deadly accuracy against an unprepared opponent.
+	
+While you are in this stance, you gain the sneak attack ability, if you do not already have it, which deals an extra 2d6 points of damage. If you already have the sneak attack class feature, your existing sneak attack ability deals an extra 2d6 points of damage. See the rogue class feature (PH 50) for a complete description of sneak attack.</p   

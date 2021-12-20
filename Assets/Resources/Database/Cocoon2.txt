@@ -1,0 +1,24 @@
+<b>Cocoon</b>(Spell Compendium, p. 49)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 8,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One corpse
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>The silkworm cocoon disappears from your palm, and silk threads coalesce from thin air around your target, quickly wrapping about the body until it is fully encased.</b>
+	
+When cast upon a deceased creature (whose death can be no less recent than 1 round per caster level), this spell preserves the body and begins a slow process of rebirth. If the corpse is <b>raised</b>, 
+<b>resurrected</b>, or <b>reincarnated</b> at any point during the next week, the creature takes no level loss or Constitution loss normally associated with such spells.
+	
+At the conclusion of the week, if the subject has not been returned to life, the creature is automatically <b>reincarnated</b>, as the spell, with no loss of level or Constitution.
+	
+<b>Material Component:</b> A silkworm cocoon.
+	
+<b>XP Cost:</b> 250 XP
+ <b>Also appears in</b>   Magic of Faerun     

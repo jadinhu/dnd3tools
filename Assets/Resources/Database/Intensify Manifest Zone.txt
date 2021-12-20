@@ -1,0 +1,27 @@
+<b>Intensify Manifest Zone</b>(Faiths of Eberron, p. 151)
+
+Conjuration (Creation)
+ <b>Level:</b>  Cleric 7,  Druid 7,    
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 8 hours
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 40-ft.-radius/level emanation
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You reach forth into the essence of the manifested plane, pulling more of its power into the area.</b>
+	
+You enhance the effects of a manifest zone of a specified plane.
+	
+The effects of the manifest zone increase by one &quot;step.&quot; Since each zone is different, this can have various effects. A zone that exists in rings (such as the Gloaming in the Eldeen Reaches) has stronger effects as one moves inward; this spell increases the effect of a ring to that of the next inmost. The innermost ring of such a zone instead takes on one trait of the associated plane that it does not already have; in the case of the Gloaming again, the spell confers the mildly negative-dominant trait on that ring. A zone that has a uniform effect over its area takes on one planar trait (of your choice) in the same way.
+	
+You cannot further enhance a manifest zone (or a ring within a zone) with additional <b>intensify manifest zone</b> spells.
+	
+An <b>intensify manifest zone</b> effect cannot be dispelled, but it can be removed with a <b>limited wish</b>, <b>miracle</b>, <b>planar bubble</b>, or <b>wish</b> spell.
+	
+<b>Focus:</b> A gem, piece of precious metal, or concentrated essence of the plane associated with the manifest zone, worth at least 500 gp.
+	
+<b>XP Cost:</b> 500 XP.
+   

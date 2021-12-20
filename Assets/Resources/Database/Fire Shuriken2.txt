@@ -1,0 +1,25 @@
+<b>Fire Shuriken</b>(Oriental Adventures)
+
+Evocation [Fire]
+ <b>Level:</b>  Wu Jen 2 (Fire),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 50 ft.
+ <b>Effect:</b> Up to 9 fire shuriken
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates shuriken formed of magical fire that you can throw like normal shuriken (they do not burn your hands).
+You are automatically considered proficient with the fire shuriken.
+You create three fire shuriken if you are 1st to 6th level, six if you are 7th to 12th level, and nine if you are 13th level or higher.
+You can throw three fire shuriken as a standard action, but all three must target the same creature.
+If you create more than three shuriken, you can throw the remaining shuriken on subsequent rounds.
+They have a range increment of 10 feet.
+A single fire shuriken deals 1 point of normal damage and an additional 1d4 points of fire damage.
+If you score a critical hit, the shuriken damage is doubled and the fire damage increases to 1d8.
+Do not apply your Strength modifier to the shuriken damage.
+If you are making a sneak attack, add the extra damage only to the damage of the first shuriken you throw in a round.
+Material Component: A shuriken coated with pine sap and sulfur.
+ <b>Also appears in</b>   Spell Compendium  Complete Arcane     

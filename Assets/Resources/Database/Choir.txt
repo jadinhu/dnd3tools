@@ -1,0 +1,22 @@
+<b>Choir</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Illusion (Pattern) [Mind-Affecting]
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Three illusory performers
+ <b>Duration:</b> Concentration + 4 rounds
+ <b>Saving Throw:</b> Will disbelief (see below)
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates spectral accompanists.
+They appear to be normal performers of any humanoid race (caster's choice) who back up the bard's performance by playing, dancing, singing, or any other means the caster desires.
+They can also interact with others on a limited basis � ;
+smiling, nodding, responding to questions with a few stock phrases, serving as dance partners, and the like.
+These illusory performers grant the caster a +2 circumstance bonus on Perform checks for the spell's duration.
+Choir is a Pattern, not a Figment � ;creatures that become aware of the accompanists' spectral nature can still see them.
+However, not only does a successful Will save negate the bard's bonus on Perform checks with respect to that creature, it also imposes a -2 circumstance penalty on those checks for the remainder of the spell's duration.
+Focus: The caster's instrument.
+   

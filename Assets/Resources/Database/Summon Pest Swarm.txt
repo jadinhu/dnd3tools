@@ -1,0 +1,21 @@
+<b>Summon Pest Swarm</b>(CityScape)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Cleric 4,  Druid 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> One pest swarm
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+With a cacophony of shrieks and squeals, a horde of flying, running, and crawling pests appears from the shadows and swarms across your foes.
+Summon pest swarm creates a horde of small mammals, birds, and vermin that appear throughout the target area, tear into any creature present, then move in a crawling mass at your volition.
+The pest swarm (see page 136) stays in one place unless you actively direct it (a move action for you).
+If the pest swarm moves beyond the spell's range, it disappears.
+It takes actions at the beginning of your turn.
+The pest swarm attacks any creature other than you that occupies all or part of its space.
+Arcane Material Component: A handful of teeth, claws, and mandibles from urban pests (such as crows, rats, cats, and cockroaches).
+   

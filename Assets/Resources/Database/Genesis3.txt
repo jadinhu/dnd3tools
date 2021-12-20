@@ -1,0 +1,25 @@
+<b>Genesis</b>(Epic Level Handbook)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 week (8 hours/day)
+ <b>Range:</b> 180 ft. (see text)
+ <b>Effect:</b> A demiplane coterminous with the Ethereal Plane, centered on your location
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a finite plane with limited access: a demiplane.
+Demiplanes created by this power are very small, very minor planes.
+You can only cast this spell while you are on the Ethereal Plane.
+When you cast the spell, a local density fluctuation precipitates the creation of a demiplane.
+At first, the fledgling plane grows at a rate of 1 foot in radius per day to an initial maximum radius of 180 feet as it rapidly draws substance from surrounding ethereal vapors and protomatter.
+You determine the environment within the demiplane when you first cast genesis, reflecting most any desire you can visualize.
+You determine factors such as atmosphere, water, temperature, and the general shape of the terrain.
+This spell cannot create life (including vegetation), nor can it create construction (such as buildings, roads, wells, dungeons, and so forth).
+You must add these things in some other fashion if you desire.
+Once the basic demiplane reaches its maximum size, you can continue to cast this spell to enlarge your demiplane, adding another 180 feet of radius to your demiplane each time.
+Material Component: A crystalline sphere; XP Cost: 5,000 XP.
+ <b>Also appears in</b>   Defenders of the Faith: A Guidebook to Clerics and Paladins  Deities and Demigods     

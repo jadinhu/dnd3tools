@@ -1,0 +1,23 @@
+<b>Transcribe Symbol</b>(Spell Compendium, p. 2221)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Magic symbol touched
+ <b>Duration:</b> 10 minutes or until discharged
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Mimicking the marks of the sigil on the slate you hold, you render yourself immune to detection by the magic symbol.</b>
+	
+You place a protective spell upon your hand that allows you to touch an untriggered magic sigil (such as a glyph of warding or a symbol of death) without setting it off. The touched sigil is removed from its location and held as magical potential on your hand, as though it were a touch spell.
+	
+To pick up a sigil in this manner, you must make a successful caster level check (DC 20 + the target glyph's spell level). Failure indicates that you have triggered the glyph or symbol. If you successfully transfer the sigil to your hand, you can use a standard action to place it on a surface (not a creature) of the sort on which it can normally be scribed. The transferred sigil works normally thereafter and retains all its original triggering conditions, although its current location might make its triggers difficult or impossible to achieve.
+	
+You can maintain the magic sigil on your hand as long as you concentrate. If your concentration lapses or the spell duration expires while the sigil is thus stored as potential, it immediately triggers upon you (and only you), even if you normally would not meet its same saving throw and spell resistance as the original spell did. The only safe way to rid yourself of the stored sigil is to place it upon a suitable surface.
+	
+Focus: A piece of slate that has been scoured bare and smooth on one side.
+ <b>Also appears in</b>   Sandstorm  Magic of Faerun  Player's Guide to FaerÃ»n     

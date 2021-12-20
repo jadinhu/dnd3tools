@@ -1,0 +1,24 @@
+<b>Bands of Steel</b>(Spell Compendium, p. 24)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One Medium or smaller creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex partial
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>The interlocking hoops become briefly hot then disappear even as similar, larger bands streak from your outstretched hand toward the creature you indicate. With a satisfying metallic clank, the bands wrap around the indicated creature.</b>
+	
+The victim must succeed on a Reflex save or be immobilized and thus unable to move. If the saving throw succeeds, the victim is only partially trapped by the bands, and is entangled.
+	
+A creature immobilized by the bands can attempt to escape as a full- round action, either by bursting free
+(Strength DC 18) or wriggling out (Escape Artist DC 18).
+	
+An entangled creature can use a full- round action to break free (Strength DC 13) or disentangle itself (Escape Artist DC 13).
+	
+<b>Material Component</b>: Three small silver hoops, interlocked.
+   

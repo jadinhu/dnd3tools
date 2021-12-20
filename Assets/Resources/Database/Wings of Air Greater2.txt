@@ -1,0 +1,15 @@
+<b>Wings of Air, Greater</b>(Spell Compendium, p. 240)
+
+Transmutation
+ <b>Level:</b>  Druid 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Winged creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> No (harmless)
+
+ 	
+This spell functions like <b>wings of air</b>, except that the creature's maneuverability improves by two grades � ;from clumsy to average, poor to good, or average to perfect.
+ <b>Also appears in</b>   Draconomicon     

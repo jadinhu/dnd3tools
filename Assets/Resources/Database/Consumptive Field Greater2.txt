@@ -1,0 +1,15 @@
+<b>Consumptive Field, Greater</b>(Spell Compendium, p. 51)
+
+Necromancy [Death, Evil]
+ <b>Level:</b>  Cleric 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> 30-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell functions like <b>consumptive field</b>, except that the field affects all creatures in the area with 9 hit points or fewer. Such creatures that fail their saving throws die, and creatures that fall to 9 hit points or lower in the area after the spell is cast are likewise subject to its effect.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

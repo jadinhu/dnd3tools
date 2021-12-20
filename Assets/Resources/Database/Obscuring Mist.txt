@@ -1,0 +1,17 @@
+<b>Obscuring Mist</b>(Player's Handbook v.3.5, p. 258)
+
+Conjuration (Creation)
+ <b>Level:</b>  Assassin 1, Cleric 1,  Urban Druid 1,  Jester 1,  Death Master 1,  Sha'ir 1,  Wu Jen 1 (Water),  Duskblade 1,  Beguiler 1,  Slayer of Domiel 1,  Ebonmar Infiltrator 1,  Disciple of Thrym 1,  Adept 1,  Wizard 1,  Sorcerer 1,  Druid 1,  Assassin 1,   Air 1,  Water 1,  Darkness 1,  Windstorm 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft.
+ <b>Effect:</b> Cloud spreads in 20-ft. radius from you, 20 ft. high
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A misty vapor arises around you. It is stationary once created. The vapor obscures all sight, including darkvision, beyond 5 feet. A creature 5 feet away has concealment (attacks have a 20% miss chance). Creatures farther away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target).
+	
+A moderate wind (11+ mph), such as from a gust of wind spell, disperses the fog in 4 rounds. A strong wind (21+ mph) disperses the fog in 1 round. A fireball, flame strike, or similar spell burns away the fog in the explosive or fiery spell's area. A wall of fire burns away the fog in the area into which it deals damage. This spell does not function underwater.
+   

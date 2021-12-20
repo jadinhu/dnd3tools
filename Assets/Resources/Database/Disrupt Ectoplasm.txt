@@ -1,0 +1,17 @@
+<b>Disrupt Ectoplasm</b>(Ghostwalk)
+
+Necromancy [Ectomancy]
+ <b>Level:</b>  Cleric 0,  Sorcerer 0,  Wizard 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You direct a ray of energy that damages ectoplasm.
+You must make a ranged touch attack roll to hit, and if the ray hits a ghost or object made of ectoplasm, it deals 1d6 points of damage to it.
+This damage bypasses the hardness of ectoplasmic objects and the damage reduction of ectoplasmic creatures.
+   

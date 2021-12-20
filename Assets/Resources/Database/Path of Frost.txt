@@ -1,0 +1,24 @@
+<b>Path of Frost</b>(Dragon Magic)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action; see text
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> One 5-foot square per level (maximum 5), beginning adjacent to your space (S)
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> No
+
+ 	
+A pathway of solid ice races along the ground from your feet, creating a frozen strip that gives off wisps of moisture.
+This spell creates a pathway or area of slippery ice on the ground.
+Entering an affected square costs 2 squares of movement; a creature can avoid this hindrance by succeeding on a DC 10 Balance check.
+If the creature fails the save by 5 or more, it not only spends 2 squares of movement to enter the affected square, but it also falls prone in that square.
+In addition, any creature that starts its turn in an affected square or that enters an affected square takes 1 point of cold damage.
+If a creature enters more than one affected square on its turn, it takes damage for each square.
+This spell can be cast only on solid ground and has no effect when cast on the surface of water or other liquids.
+If you cast path of frost again before the duration of the first spell ends, any squares within the area of both castings deal 2 points of cold damage.
+More than two overlapping areas don't stack.
+Special: A white dragon capable of casting 3rd-level sorcerer spells can cast this spell as a swift action.
+   

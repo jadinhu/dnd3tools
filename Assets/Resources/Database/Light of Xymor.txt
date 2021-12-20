@@ -1,0 +1,23 @@
+<b>Light of Xymor</b>(Dragons of Faerun)
+
+Evocation [Good]
+ <b>Level:</b>  Paladin 4,  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Duration:</b> 2 rounds/level
+ <b>Saving Throw:</b> Will partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The object begins to glow brightly, imbued with the light of the Platinum Lord.
+The touched object radiates light with all the same properties of a daylight spell.
+The light from this spell also has a number of additional qualities.
+First, the radiance imbued by this spell is considered natural daylight for the purposes of creatures harmed by that type of light.
+Second, an evil dragon or dragonblood creature cannot enter the area of full daylight unless it makes a successful Will save (though it can enter the area of shadowy illumination outside this).
+If it makes the saving throw, it can enter the area, but each round that it remains in the area of daylight, it takes 2d6 points of damage and is dazed.
+A successful Will save halves the damage and negates the dazed effect.
+Third, light of Xymor counters and dispels shadow of the dark queen, and it also counters and dispels any.
+darkness spell of equal or lower level, such as darkness.
+Special: Divine spellcasters who derive their power from Xymor (Bahamut) cast this spell at +1 caster level.
+   

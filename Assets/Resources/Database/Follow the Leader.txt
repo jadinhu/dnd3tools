@@ -1,0 +1,21 @@
+<b>Follow the Leader</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Living creatures with fewer than 5 HD
+ <b>Duration:</b> Concentration, up to 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Like the legendary piper, you can play a tune so beguiling that those who hear it feel compelled to follow along behind you, dancing merrily.
+You can lure up to 1 HD of eligible creatures for each bard level you possess, up to a maximum of 10 HD.
+Those with the fewest hit dice are the first to be affected.
+Once you have reached your limit of creatures, the music does not affect any others.
+Creatures thus captivated can defend themselves but do not initiate attacks.
+If you lead your followers directly into danger, each is allowed another Will save to avoid walking off a cliff, stepping into deep water, or the like.
+Focus: The caster's instrument.
+   

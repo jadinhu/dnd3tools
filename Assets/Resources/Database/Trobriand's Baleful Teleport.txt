@@ -1,0 +1,19 @@
+<b>Trobriand's Baleful Teleport</b>(City of Splendors: Waterdeep)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As teleport, except that you send the targeted creature (and only that creature) and carried objects to a designated destination.
+You must have some clear idea of the location and layout of the destination.
+The clearer your mental image, the more likely the teleportation works.
+Areas of strong physical or magical energy might make teleportation more hazardous or even impossible.
+If the destination is &quot;very familiar&quot;, the target gets no saving throw bonus.
+If the destination is &quot;studied carefully&quot;, the target gets a +2 saving throw bonus.
+Likewise, if the destination is &quot;seen casually&quot;, &quot;viewed once&quot;, or &quot;false destination&quot;, the target gets a +4, +6, or +8 bonus, respectively.
+   

@@ -1,0 +1,12 @@
+<b>Planar Ally, Greater</b>(Player's Handbook v.3.5, p. 261)
+
+Conjuration (Calling) [see text for lesser planar ally]
+ <b>Level:</b>  Cleric 8,   Drow 8,  Summoner 8,   
+<b>Components:</b>
+ <b>Effect:</b> Up to three called elementals or outsiders, totaling no more than 18 HD, no two of which can be more than 30 ft. apart when they appear
+
+ 	
+This spell functions like <b>lesser planar ally</b>, except that you may call a single creature of 18 HD or less, or up to three creatures of the same kind whose Hit Dice total no more than 18. The creatures agree to help you and request your return payment together.
+	
+XP Cost: 500 XP.
+   

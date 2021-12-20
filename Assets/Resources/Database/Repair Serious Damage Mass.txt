@@ -1,0 +1,9 @@
+<b>Repair Serious Damage, Mass</b>(Dragon Compendium)
+
+Transmutation
+ <b>Level:</b>  Urban Druid 7,    
+<b>Components:</b>
+
+ 	
+This spell functions like mass repair light damage, except that it repairs 3d8 points of damage +1 point per caster level (maximum +35).
+   

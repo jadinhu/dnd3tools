@@ -1,0 +1,19 @@
+<b>Shifting Paths</b>(Spell Compendium, p. 188)
+
+Illusion (Glamer)
+ <b>Level:</b>  Druid 7,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 1-mile radius + 1 mile/level
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will disbelief (if interacted with)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>As if a massive cloth were sweeping it away, the path before you becomes hidden in shadows and false underbrush. At the same moment, a new path appears from the point you designate, wandering off in a different direction.</b>
+	
+This spell simultaneously hides a path or road specified by you, while simultaneously creating an illusory path. The illusory path starts at a point chosen by you within the range of the spell. It continues in the direction you indicate, to the limit of the spell's area, where it ends abruptly. The illusory path avoids obstacles and provides no bridges, stairs, ladders, ramps, or other methods of traversing such obstacles. There is no way to force the illusory path to lead over a cliff or across a river more than 4 feet deep.
+	
+Those who fail their Will saves struggle along the illusory path. If vegetation or rough terrain slows their progress, they believe the path is sloping enough to justify the reduced speed. Those who succeed on their Will saves see both paths, but the illusory path is shadowy and obviously unreal.
+   

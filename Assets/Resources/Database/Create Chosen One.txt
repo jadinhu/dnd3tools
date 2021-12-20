@@ -1,0 +1,18 @@
+<b>Create Chosen One</b>(Monster Compendium: Monsters of FaerÃ»n)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Touch
+ <b>Target:</b> One human
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Only evil wizards can cast this spell, and the Red Wizards of Thay do not teach it to outsiders.
+Casting the spell involves a series of magical rituals intended to turn a normal human (of up to 3rd level) into a maddened, murderous creature.
+The victim must be bound and helpless for the spell to work.
+After the casting time is completed, the victim must make a Will save or be transformed into a chosen one under the control of its creator.
+   

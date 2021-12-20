@@ -1,0 +1,23 @@
+<b>Howling Chain</b>(Spell Compendium, p. 116)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One chain of force
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A blood-red chain of pure force appears, howling instead of rattling as it shakes and twines.</b>
+	
+You create a chain of force, which lashes out and attacks your enemies. The chain has a reach of 15 feet, but cannot move from the space you designate. The chain attacks by attempting to trip your foes (+12 melee touch attack, +15 on the opposed Strength check). It does not provoke attacks of opportunity for tripping, nor can it be tripped in response on a failed attempt. If it succeeds in tripping an enemy, it immediately follows up with a melee attack on the prone defender (+12 melee attack, 2d6+10 points of damage). Any creature struck by the chain must make a Will saving throw or become shaken.
+	
+A howling chain can make one attack of opportunity each round for every four caster levels you have, using the same tactic as above.
+	
+A howling chain has as many hit points as you do when you're undamaged, and its AC is AC 20 (-1 size, +11 natural). It takes damage as a normal creature, but most magical effects that don't deal damage do not affect it. It makes saving throws as its caster. Disintegrate or a successful dispel magic destroys it.
+	
+Focus: A small length of platinum chain worth at least 500 gp.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

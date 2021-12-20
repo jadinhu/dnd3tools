@@ -1,0 +1,15 @@
+<b>Haste, Swift</b>(Spell Compendium, p. 110)
+
+Transmutation
+ <b>Level:</b>  Ranger 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1d4 rounds
+
+ 	
+<b>Two quick syllables release the power of the spell, and the world moves a bit slower about you.</b>
+	
+This spell functions like <b>haste</b> (PH 239), except as noted above. This spell counters and dispels any slow effect on you.
+ <b>Also appears in</b>   Complete Adventurer  Miniatures Handbook     

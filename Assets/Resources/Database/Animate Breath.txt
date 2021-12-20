@@ -1,0 +1,75 @@
+<b>Animate Breath</b>(Draconomicon)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>S, <abbr title="Meta Breath">MB, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You imbue the energy of your breath weapon with coherence, mobility, and a semblance of life.
+The animated breath then attacks whomever or whatever you designate.
+The spell works only on breath weapons that deal energy (acid, cold, electricity, fire, or sonic) damage.
+The animated breath has the following characteristics.
+Type: Construct.
+Subtype: The same as yours, or the energy type of your breath weapon if you do not have a subtype.
+Size: One size smaller than you.
+Hit Dice: Equal to the number of dice of damage your breath weapon deals.
+The Hit Dice are 10-sided.
+Constructs also receive bonus hit points based on size:
+Diminutive, Tiny: � ;
+Small: 10
+Medium: 20
+Large: 30
+Huge: 40
+Gargantuan: 60
+Colossal: 80
+Speed: Varies by breath type:
+Acid: 20 ft., swim 90 ft.
+Cold: 30 ft.
+Electricity: Fly 100 ft. (perfect)
+Fire: 50 ft.
+Sonic: Fly 100 ft. (perfect)
+AC: The animated breath's natural armor bonus varies by size:
+Diminutive or Tiny: +2
+Small or Medium: +3
+Large: +4
+Huge: +8
+Gargantuan: +10
+If your breath weapon uses force energy, this bonus is an armor bonus composed of force (like that granted by mage armor) rather than a natural armor bonus.
+Attacks: The animated breath makes slam attacks according to its Hit Dice.
+Damage: Each successful hit deals bludgeoning damage (varies by size of the animated breath; see below) plus energy damage equal to one die of the same size as your breath weapon damage.
+Diminutive: 1d2
+Tiny: 1d3
+Small: 1d4
+Medium: 1d6
+Large: 1d8
+Huge: 2d6
+Gargantuan: 2d8
+For example, a Colossal red dragon's animated breath is Gargantuan in size, so it deals 2d8 points of bludgeoning damage on a successful hit � ;plus 1d10 points of fire damage, because d10 is the size of die used to determine a red dragon's breath weapon damage.
+Special Qualities: Creatures that hit the animated breath with natural weapons or unarmed attacks take energy damage as though hit by the breath's attack.
+Construct Traits: The animated breath is immune to mindaffecting effects, and to poison, magic sleep effects, paralysis, stunning, disease, death effects, necromantic effects, and any effect that requires a Fortitude save unless it also works on objects.
+The breath is not subject to critical hits, nonlethal damage, ability damage, ability drain, energy drain, or death from massive damage.
+Saves: The animated breath has no good saves.
+All of its save bonuses are 1/3 of its Hit Dice plus the appropriate ability modifier.
+Abilities: The animated breath has no Constitution or Intelligence score.
+Its Wisdomand Charisma scores are both 1.
+Its Strength and Dexterity vary by size:
+Diminutive: Str 6, Dex 16
+Tiny: Str 8, Dex 14
+Small: Str 10, Dex 12
+Medium: Str 12, Dex 10
+Large: Str 16, Dex 10
+Huge: Str 20, Dex 8
+Gargantuan: Str 24, Dex 6
+Alignment: Always neutral.
+An old brass dragon's animated breath has the following statistics:
+Large construct (fire); HD 8d10+30; hp 74; Init +0; Spd 50 ft.; AC 13, touch 9, flat-footed 13; Atk +9/+4 (1d8+1d6 fire, slam); SQ burn, construct traits; AL N; SV Fort +2, Ref +2, Will -3; Str 16, Dex 10, Con � ;, Int � ;, Wis 1, Cha 1.
+An old red dragon's animated breath has the following statistics:
+Huge construct (fire); HD 16d10+40; hp 128; Init -1; Spd 50 ft.; AC 15, touch 9, flat-footed 15; Atk +15/+10/+5 (2d6+1d10 fire, slam); SQ burn, construct traits; AL N; SV Fort +5, Ref +4, Will +0; Str 20, Dex 8, Con � ;, Int � ;, Wis 1, Cha 1.
+Casting the spell requires a standard action, which includes using your breath weapon.
+When you use your breath weapon, it immediately takes animate form and attacks.
+It does not form as a cone or a line, and does not deal damage when it is used to cast this spell.
+ <b>Also appears in</b>   Spell Compendium     

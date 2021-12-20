@@ -1,0 +1,19 @@
+<b>Righteous Burst</b>(Player's Handbook II)
+
+Evocation [Good]
+ <b>Level:</b>  Cleric 7,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> 30-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None or Will half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Holy light blasts from your upraised fist.
+This spell heals every ally in the area of 1d8 points of damage +1 per caster level (maximum +35).
+Every enemy in the area takes 1d8 points of damage +1 per caster level (maximum +35).
+Enemies are allowed Will saves to halve the damage.
+Material Component: A handful of silver dust (worth 15 gp).
+   

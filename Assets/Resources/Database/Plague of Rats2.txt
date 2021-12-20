@@ -1,0 +1,25 @@
+<b>Plague of Rats</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Conjuration (Summoning)
+ <b>Level:</b>   Pestilence 5,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Swarm of dire rats in a 20-ft. spread
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (see text)
+
+ 	
+A swarm of dire rats viciously attacks all other creatures within a 20-foot spread, inflicting damage and spreading filth fever (see page 74 of the <span class="caps">DUNGEON</span> MASTER'S Guide).
+A creature in the swarm that takes no action other than fighting off the rats takes 1d4 points of damage on its turn and makes a Fortitude saving throw against DC 15 + your Intelligence bonus to avoid contracting filth fever.
+A creature in the swarm who takes any other action, including leaving the swarm, takes 1d4 points of damage per caster level, and must save at a -4 penalty to avoid contracting the disease.
+Spellcasting or concentrating on spells within the swarm is impossible.
+The rats' attacks are nonmagical, so being incorporeal, damage reduction, and other defenses can protect a creature from damage.
+The disease effect is magical and spread by touch.
+Any corporeal creature in the swarm that is subject to disease may contract it.
+The swarm cannot be fought effectively with weapons, but fire and damaging area effects can force it to disperse.
+The swarm disperses when it has taken a total of 8 points of damage per caster level from these attacks.
+A stinking cloud spell and similar area or effect spells disperse a swarm immediately.
+As a move-equivalent action, you can direct the swarm to move up to 40 feet per round.
+ <b>Also appears in</b>   Complete Divine     

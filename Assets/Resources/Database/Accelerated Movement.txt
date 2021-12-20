@@ -1,0 +1,17 @@
+<b>Accelerated Movement</b>(Complete Adventurer)
+
+Transmutation
+ <b>Level:</b>  Bard 1,  Ranger 1,  Sorcerer 1,  Wizard 1,  Vigilante 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+While this spell is in effect, you can move at your normal speed when using Balance, Climb, or Move Silently without taking any penalty on your check.
+	
+This spell does not affect the penalty for using these skills while running or charging.
+	
+Material Component: A dead cockroach.
+ <b>Also appears in</b>   Spell Compendium     

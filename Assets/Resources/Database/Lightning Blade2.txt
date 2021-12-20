@@ -1,0 +1,25 @@
+<b>Lightning Blade</b>(Oriental Adventures)
+
+Evocation [Electricity]
+ <b>Level:</b>  Wu Jen 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Effect:</b> Swordlike blade
+ <b>Duration:</b> 1 minute or until discharged
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, a sword blade of crackling electrical energy appears in the hand of the creature you touch (who must be a willing recipient).
+It is the size of a normal longsword, but is virtually weightless.
+It is treated as a martial weapon for purposes of determining who is proficient with its use.
+The wielder can use the blade in two ways � ;to make a melee touch attack to deliver electrical damage, or to fire a bolt of lightning as a ranged touch attack with an absolute range of 30 feet.
+Over the entire duration of the spell, the blade can deliver damage up to 1d6 per caster level (maximum 10d6).
+For any given attack, the blade's wielder decides (before making an attack roll) how many dice the blade deals with a successful hit, up to the maximum damage potential remaining in the spell.
+If the attack roll is successful, the blade deals the specified damage to the target.
+If the attack roll misses, those dice of damage are lost.
+Since the blade is immaterial, the wielder's Strength modifier does not apply to the damage, which is all electricity damage.
+It can harm any creature that is harmed by electricity.
+The spell does not function underwater.
+ <b>Also appears in</b>   Complete Arcane     

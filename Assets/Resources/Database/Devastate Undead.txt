@@ -1,0 +1,20 @@
+<b>Devastate Undead</b>(Lords of Darkness)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Undead creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell was created by the lich Larloch to power himself at the expense of his own undead minions.
+The target undead creatures must succeed at Fortitude saving throws or be destroyed, just as if hit by a disruption weapon.
+Creatures that are not undead, and undead with Hit Dice greater than the caster's caster level, are unaffected by this spell.
+If an undead creature is destroyed by this spell, a portion of the negative energy that gave it unlife flows back to the caster.
+This negative energy deals (if the caster is living) or cures (if the caster is undead) 5 hit points of damage per hit die of the destroyed undead.
+Focus: A disruption weapon of any kind.
+   

@@ -1,0 +1,19 @@
+<b>Strength of the Beast</b>(Player's Guide to FaerÃ»n)
+
+Transmutation
+ <b>Level:</b>   Initiate of malar 4,  Initiate of selÃ»ne 4,   
+<b>Components:</b>V, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+This spell functions only if you are a lycanthrope, and it benefits you only while you are in your humanoid form.
+While under the effect of this spell, you gain certain characteristics of your animal form while remaining in humanoid form.
+You gain the same damage reduction you have in animal form (normally 5/silver or 10/silver), the scent special quality, and the feats you have access to in animal form.
+In addition, you gain one-half the adjustment for each ability score that you gain in animal form, rounded down to the nearest multiple of 2.
+For example, if you are a werebear, you gain Str +8 (half of your animal form's +16) and Con +4 (half of +8), but no adjustment to your Dexterity because half of +2, rounded down to the nearest multiple of 2, is +0.
+If you must make a Control Shape check while under the effect of this spell, you take a -4 penalty on your check.
+Focus: A lock of hair from your animal form.
+   

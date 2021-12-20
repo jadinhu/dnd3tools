@@ -1,0 +1,23 @@
+<b>Proper State</b>(Ghostwalk)
+
+Necromancy [Ectomancy]
+ <b>Level:</b>  Cleric 4,   Ghost 4,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One willing incorporeal undead
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You transform a willing incorporeal undead creature into a ghost.
+If its previous class and level are unknown, it becomes a ghost of the same race as you, with warrior levels equal to its undead Hit Dice.
+If the undead's previous race, class, and level were known (such as if the undead were a former ally that became the spawn of a shadow), it becomes a ghost of its former self.
+In any case, the creature's character level is no greater than the Hit Dice it had as an undead.
+For example, a 5th-level dwarf fighter that became a shadow's spawn and was turned into a ghost with this spell would now be a 2nd-level fighter.
+Levels lost in this manner are handled as if the character had lost levels from an undead's energy drain attack.
+A creature redeemed with this spell retains the alignment it had as an undead creature, although it is not strongly attached to that alignment and can change it over time or with the aid of an atonement spell.
+Because only humanoids can become ghosts, this spell works only on incorporeal undead that are vaguely humanoid.
+For example, it cannot convert a spectral steed (a horselike undead), a nightwing nightshade (a batlike creature), a nightwalker nightshade (a giantlike creature), or a nightcrawler (a wormlike creature) into a ghost.
+   

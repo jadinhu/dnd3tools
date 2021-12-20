@@ -1,0 +1,19 @@
+<b>Circle of Death</b>(Player's Handbook v.3.5, p. 209)
+
+Necromancy [Death]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,  Warmage 6,  Blighter 6,  Sha'ir 6,  Death Master 6,  Dread Necromancer 6,   Undeath 5,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Several living creatures within a 40-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A circle of death snuffs out the life force of living creatures, killing them instantly.
+The spell slays 1d4 HD worth of living creatures per caster level (maximum 20d4).
+Creatures with the fewest HD are affected first; among creatures with equal HD, those who are closest to the burst's point of origin are affected first.
+No creature of 9 or more HD can be affected, and Hit Dice that are not sufficient to affect a creature are wasted.
+Material Component: The powder of a crushed black pearl with a minimum value of 500 gp.
+   

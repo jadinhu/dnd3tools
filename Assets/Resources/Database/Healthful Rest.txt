@@ -1,0 +1,16 @@
+<b>Healthful Rest</b>(Complete Adventurer)
+
+Conjuration (Healing)
+ <b>Level:</b>  Bard 1,  Druid 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which can be more than 30 feet apart
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Healthful rest doubles the subjects' natural healing rate.
+Each affected creature regains twice the hit points it otherwise would have regained during that day, depending on its activity level (see page 76 of the Player's Handbook).
+ <b>Also appears in</b>   Spell Compendium     

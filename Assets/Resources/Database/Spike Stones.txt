@@ -1,0 +1,25 @@
+<b>Spike Stones</b>(Player's Handbook v.3.5, p. 283)
+
+Transmutation [Earth]
+ <b>Level:</b>  Druid 4,   Earth 4,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> One 20-ft. square/level
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Reflex partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Rocky ground, stone floors, and similar surfaces shape themselves into long, sharp points that blend into the background.
+Spike stones impede progress through an area and deal damage.
+Any creature moving on foot into or through the spell's area moves at half speed.
+In addition, each creature moving through the area takes 1d8 points of piercing damage for each 5 feet of movement through the spiked area.
+Any creature that takes damage from this spell must also succeed on a Reflex save to avoid injuries to its feet and legs.
+A failed save causes the creature's speed to be reduced to half normal for 24 hours or until the injured creature receives a cure spell (which also restores lost hit points).
+Another character can remove the penalty by taking 10 minutes to dress the injuries and succeeding on a Heal check against the spell's save DC.
+Spike stones is a magic trap that can't be disabled with the Disable Device skill.
+Note:Magic traps such as spike stones are hard to detect.
+A rogue (only) can use the Search skill to find spike stones.
+The DC is 25 + spell level, or DC 29 for spike stones.
+   

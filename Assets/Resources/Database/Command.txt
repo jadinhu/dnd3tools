@@ -1,0 +1,27 @@
+<b>Command</b>(Player's Handbook v.3.5, p. 211)
+
+Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
+ <b>Level:</b>  Cleric 1,  Adept 1,  Knight of the Weave 1,  Thayan Slaver 1,  Death Master 1,  Jester 1,   Domination 1,  Pact 1,  Mechanus 1,  Tyranny 1,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You give the subject a single command, which it obeys to the best of its ability at its earliest opportunity. You may select from the following options.
+	
+<b>Approach:</b> On its turn, the subject moves toward you as quickly and directly as possible for 1 round. The creature may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as normal.
+	
+<b>Drop:</b> On its turn, the subject drops whatever it is holding. It can't pick up any dropped item until its next turn.
+	
+<b>Fall:</b> On its turn, the subject falls to the ground and remains prone for 1 round. It may act normally while prone but takes any appropriate penalties.
+	
+<b>Flee:</b> On its turn, the subject moves away from you as quickly as possible for 1 round. It may do nothing but move during its turn, and it provokes attacks of opportunity for this movement as normal.
+	
+<b>Halt:</b> The subject stands in place for 1 round. It may not take any actions but is not considered helpless. 
+	
+If the subject can't carry out your command on its next turn, the spell automatically fails.
+   

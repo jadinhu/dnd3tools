@@ -1,0 +1,13 @@
+<b>Diamond Defense</b>(Tome of Battle: The Book of Nine Swords, p. 62)
+
+Diamond Mind (Counter)
+ <b>Level:</b>  Swordsage 8,  Warblade 8,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>You steel yourself against an opponent?s spell, drawing on your focus and training to overcome its effect.</b>
+	
+You can initiate this maneuver any time you would be required to make a saving throw. You gain a bonus on that save equal to your initiator level. You must use this maneuver before you roll the saving throw.</p   

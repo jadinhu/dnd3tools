@@ -1,0 +1,21 @@
+<b>Eilistraee's Moonfire</b>(Champions of Valor)
+
+Evocation [Light]
+ <b>Level:</b>   Initiate of eilistraee 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level or until discharged; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You surround your hand or some other part of your body with light resembling moonlight.
+You can change the intensity from a faint glow equivalent to a candle to a clear, bright light equivalent to a torch.
+It varies in color as you desire, whether blue-white, soft green, white, or silver.
+You can use this moonfire as a melee touch attack that deals 2d6 points of cold damage +1 point per caster level (maximum +5).
+Whether or not the attack hits, the spell effect is discharged.
+You can cause the moonlight to leave your body and move about as a single light similar to dancing lights.
+Once it leaves your body, the effect's duration is 1 minute per level, and the effect can no longer be used to attack.
+   

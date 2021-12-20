@@ -1,0 +1,21 @@
+<b>Undead Torch</b>(Magic of Faerun)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One corporeal undead
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You cause a corporeal undead to give off cold blue energy that disrupts the life force of living creatures but has no effect on objects or undead.
+The target creature does an additional 2d4 points of damage with its melee attacks.
+If an attacked creature has spell resistance, the resistance is checked the first time the creature attacks it.
+If it succeeds, the creature is unaffected by that casting of the undead torch.
+If the undead creature is destroyed, the undead torch continues to burn at the location of its destruction until the duration ends, and creatures that come in contact with the remains take damage.
+If the undead creature assumes an incorporeal state (such as a vampire assuming gaseous form), the spell disperses harmlessly.
+Material Component: A living or dead firefly or glowworm.
+ <b>Also appears in</b>   Spell Compendium  Ghostwalk     

@@ -1,0 +1,20 @@
+<b>Darsson's Chilling Chamber</b>(Shining South)
+
+Evocation [Cold]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5ft./2 levels)
+ <b>Area:</b> Up to a 10-ft. cube/level (S)
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You lower the temperature in the affected area to the level of extreme cold (as defined under Cold Dangers, page 302 of the Dungeon Master's Guide).
+For every minute spent in the area, a creature vulnerable to cold takes 1d6 points of lethal damage (no save).
+In addition, a creature must make a Fortitude save (DC 15, +1 per previous check) or take 1d4 points of nonlethal damage.
+Those wearing metal armor, as well as those coming in contact with metal that has been in the area for at least 1 hour, are affected as if by a chill metal spell.
+This spell was originally developed as a means of preserving food (cast inside cellars), but wizards quickly determined that it could be used as a deterrent (on long hallways or in treasure vaults, for example) or for creating a comfortable environment for cold-loving pets.
+Darsson's chilling chamber can be made permanent with a permanency spell.
+   

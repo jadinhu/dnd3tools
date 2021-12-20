@@ -1,0 +1,16 @@
+<b>Eye of Power</b>(Player's Guide to FaerÃ»n)
+
+Evocation
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>
+ <b>Effect:</b> Magical sensor
+
+ 	
+This spell functions like the 4th-level spell arcane eye, except as follows.
+You may cast any spell of 7th level or lower that has a range other than personal through the eye.
+Any spell so cast functions as though it had been cast from the eye of power's location rather than yours.
+Casting any spell of higher than 7th level through the eye not only produces no effect (though the spell is still expended), but it destroys the eye of power and ends the spell.
+Unlike an arcane eye, an eye of power is visible and corporeal, so it can be destroyed.
+The eye is a Fine object with AC 18 and 77 hit points.
+It uses your save bonuses for saving throws.
+   

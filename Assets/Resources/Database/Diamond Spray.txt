@@ -1,0 +1,20 @@
+<b>Diamond Spray</b>(Book of Exalted Deeds)
+
+Evocation [Good]
+ <b>Level:</b>   Sanctified 4,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A blast of diamondlike shards springs from your hand and extends outward in a glittering cone.
+The cone dazzles evil creatures in the area for 2d6 rounds.
+The spell also deals 1d6 points of damage per caster level (maximum 10d6).
+The damage affects only evil creatures.
+A successful Reflex save reduces the damage by half but does not negate the dazzling effect.
+Material Component: Diamond dust worth at least 100 gp.
+   

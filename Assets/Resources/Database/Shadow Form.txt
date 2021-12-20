@@ -1,0 +1,22 @@
+<b>Shadow Form</b>(Complete Adventurer)
+
+Illusion (Shadow)
+ <b>Level:</b>  Assassin 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+You call forth the power of shadow, enveloping yourself in a clinging, concealing shroud of darkness.
+While this spell is in effect, you gain a number of benefits.
+The shadows wrapping your form grant you a +4 competence bonus on Escape Artist, Hide, and Move Silently checks.
+Your shadowy form also provides you with concealment.
+This shadowy concealment is not negated by a see invisibility spell, but a true seeing spell counteracts the effect.
+Standing within the radius of a daylight spell or in bright natural sunlight temporarily suppresses the concealment effect.
+In addition, if you have 5 ranks in Escape Artist, you can attempt to slip through a solid object or barrier up to 5 feet thick with a DC 20 Escape Artist check, though doing this ends the spell as soon as the attempt is completed (regardless of success).
+If you have 10 ranks in Escape Artist, you can attempt to pass through an object or barrier up to 10 feet thick.
+If you have 15 ranks in Escape Artist, you can attempt to pass through a barrier composed of magical force (or similar magical obstacles).
+Material Component: A small piece of black cloth taken from a funeral shroud.
+ <b>Also appears in</b>   Spell Compendium     

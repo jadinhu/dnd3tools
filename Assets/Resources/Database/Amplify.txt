@@ -1,0 +1,18 @@
+<b>Amplify</b>(Magic of Faerun)
+
+Transmutation [Sonic]
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute/level
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 15-ft.-radius emanation centered on a creature, object, or point in space
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes or No (object)
+
+ 	
+You cause an amplification of all sounds within the spell's area.
+This decreases the DC to hear those sounds by 20.
+Those creatures within the spell's area do not notice the increased amplification.
+Thus, anyone whose voice is amplified remains unaware of the increase in volume.
+ <b>Also appears in</b>   Spell Compendium     

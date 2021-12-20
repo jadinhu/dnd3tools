@@ -1,0 +1,17 @@
+<b>Shivering Touch, Lesser</b>(Frostburn)
+
+Necromancy [Cold]
+ <b>Level:</b>  Cleric 1,  Sorcerer 1,  Wizard 1,  Disciple of Thrym 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your successful melee touch attack delivers a bitter chill to the target, causing it to shiver uncontrollably for the duration of the spell.
+Shivering characters take 1d6 points of Dexterity damage.
+Creatures with the cold subtype are immune to the effects of lesser shivering touch.
+   

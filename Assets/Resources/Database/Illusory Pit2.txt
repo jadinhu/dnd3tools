@@ -1,0 +1,22 @@
+<b>Illusory Pit</b>(Savage Species)
+
+Illusion (Figment)
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Image 10 ft. by 10 ft. by 20 ft.
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will disbelief (if interacted with)
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates the illusion of a pit 10 feet square and 20 feet deep.
+It may be cast on a flat surface (such as a floor) or in an open space (such as on an actual pit to conceal its contents).
+It appears absolutely real when viewed.
+If it is cast on a solid floor, objects dropped into the pit do not fall, instead resting in place on top of the pit as if levitating or as if the pit were covered with a wall of force.
+If it is cast in an open space, objects dropped into the pit appear to fall into it until they pass below the bottom of the spell's area (at which point they vanish) or come to rest on a solid object within the spell's area (at which point they appear to float within the pit).
+Detection abilities that do not require sight work normally on the pit, instantly revealing it to be illusory (for example, a creature with blindsight or a character feeling the ground with a pole would realize that there is no pit) or covered in some invisible way.
+Touching the illusion does not cause it to disappear.
+The bottom of the illusory pit may be bare, or it may contain metal spikes, a humanoid skeleton, filth, or any combination you desire, chosen at the casting of the spell.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

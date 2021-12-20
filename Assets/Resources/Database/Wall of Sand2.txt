@@ -1,0 +1,37 @@
+<b>Wall of Sand</b>(Sandstorm)
+
+Conjuration (Creation) [Earth]
+ <b>Level:</b>  Cleric 4,  Druid 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Sand wall whose area is up to one 10-ft. square/level (S)
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+You cause a flat, vertical wall of churning sand to spring up.
+The wall is 1 inch thick per caster level and covers up to a 10-foot square area per caster level.
+You can double the wall's area by halving its thickness.
+The wall cannot be conjured so that it occupies the same space as a creature or another object.
+No form of physical attack can harm a wall of sand directly, but each 10-foot section has 2 hit points per inch of thickness for determining whether an attack passes through it.
+The wall reduces damage dealt by attacks that pass through it.
+It essentially absorbs damage, so attacks must deal more damage than the wall has hit points to have any effect on a target on the other side of the wall of sand.
+Breaches in the wall close immediately after the attack that made them passes through.
+The sand blocks line of effect for any fire spell.
+Creatures on the opposite side of the wall from an attack's origin have total concealment against that attack.
+Moving through a wall of sand requires a Strength check (DC 10 + 1 per inch of thickness).
+Those who fail must stop in the space from which they attempted to enter the wall.
+Any creature that attempts to pass through a wall of sand must also make a Fortitude save or be blinded for 1d4+1 rounds.
+(Creatures without eyes are not subject to this effect).
+A creature passing through the roiling wall does not leave a usable breach for others.
+All nonmagical flames are extinguished if carried through a wall of sand.
+The spells control sand and move earth can breach and hold open a break in a wall of sand.
+It is possible, but difficult, to trap mobile opponents within a wall of sand, provided the wall is shaped so it can hold the creatures.
+Creatures can avoid entrapment with successful Reflex saves.
+A wall of sand is treated like normal sand for the duration of the spell, so it can be affected by any spell or effect that affects sand, such as transmute sand to stone or transmute sand to glass.
+The wall still lasts only for its normal duration, even if its consistency changes.
+A wall of sand can be made permanent with a permanency spell.
+Arcane Material Component: A handful of sand.
+ <b>Also appears in</b>   Spell Compendium  Player's Guide to FaerÃ»n     

@@ -1,0 +1,13 @@
+<b>Wolf Climbs the Mountain</b>(Tome of Battle: The Book of Nine Swords, p. 89)
+
+Tiger Claw (Strike)
+ <b>Level:</b>  Swordsage 6 (Two Tiger Claw maneuvers),  Warblade 6 (Two Tiger Claw maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You slip between a larger foe?s legs and strike its exposed side. You then find cover in the shadow of your enemy?s bulk.</b>
+	
+You can use this maneuver only against an opponent of a size category larger than yours. As part of this maneuver, you enter your target?s square without provoking an attack of opportunity. You can then attack your target as part of this maneuver. Your attack deals an extra 5d6 points of damage. You remain within your opponent?s space after you complete this maneuver. You gain cover against all attacks as long as you remain in his space, including those made by the target. If the target moves, it leaves you behind but provokes an attack of opportunity from you for leaving your space.   

@@ -1,0 +1,9 @@
+<b>Blinding Breath</b>(Draconomicon)
+
+Transmutation [Light]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>
+
+ 	
+As breath flare, except that targets that fail their saving throws against your breath weapon are permanently blinded, rather than dazzled.
+ <b>Also appears in</b>   Spell Compendium     

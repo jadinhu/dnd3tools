@@ -1,0 +1,21 @@
+<b>Listening Coin</b>(Spell Compendium, p. 133)
+
+Divination (Scrying)
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Effect:</b> Magical sensor
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Rubbing two coins together with your fingers, you whisper arcane words into them. Holding one to your ear surreptitiously, you hand over the other.</b>
+	
+You turn two ordinary coins into magic listening devices � ;one a sensor and the other a receiver. After casting the spell, you simply give the sensor coin away, either surreptitiously or overtly. By holding the receiver coin up to your ear, you can hear whatever transpires near the sensor as if you were there (much like a clairaudience effect). If the sensor coin is in a pocket, pouch, or sack, the DC of the Listen check increases by 5.
+	
+The coins continue to function no matter how far apart they are, although they fall silent if they're on different planes.
+	
+Focus: The pair of coins.
+ <b>Also appears in</b>   Complete Adventurer  Song and Silence: A Guidebook to Bards and Rogues     

@@ -1,0 +1,13 @@
+<b>Tiger's Tooth</b>(Miniatures Handbook)
+
+Transmutation
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Living creature touched
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+This spell functions like greater magic fang (see page 250 of the Player's Handbook), except as noted above.
+ <b>Also appears in</b>   Spell Compendium     

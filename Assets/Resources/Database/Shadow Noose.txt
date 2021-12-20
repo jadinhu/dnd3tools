@@ -1,0 +1,18 @@
+<b>Shadow Noose</b>(Tome of Battle: The Book of Nine Swords, p. 79)
+
+Shadow Hand (Strike)
+ <b>Level:</b>  Swordsage 6,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Target:</b> One flat-footed living creature
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+<b>As you foe struggles to ready his defenses, you make a subtle gesture in the air. A noose formed of shadow drops from above him, wraps around his throat, and hoists him aloft. His limbs flail as he struggles to free himself from the strangling noose.</b>
+	
+As part of this maneuver, you form a noose of shadow that wraps around your target and strangles him. This maneuver works only against a flatfooted target. As part of this maneuver, you make a ranged touch attack against a flat-footed creature within range. If it hits, your opponent takes 8d6 points of damage. In addition, he must make a successful Fortitude save (DC 16 + your Wis modifier) or be stunned for 1 round. A successful save negates the stun, but not the extra damage. This strike has no effect against nonliving creatures, such as constructs and undead.
+	
+This maneuver is a supernatural ability.
+   

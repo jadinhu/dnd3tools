@@ -1,0 +1,20 @@
+<b>Dissonant Chant</b>(Savage Species)
+
+Abjuration [Sonic]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 100-foot radius emanation
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a distracting and discordant chant.
+Affected creatures that attempt spellcasting or other activities that require concentration must make Concentration checks (DC 18 + Int or Cha modifier, for wizards or sorcerers respectively) to succeed.
+Activities that already require Concentration checks, such as casting defensively, have their DC increased by the save DC of this spell -10.
+For example, this spell cast by a wizard with 14 Intelligence would have a DC of 14; a cleric trying to cast spiritual weapon within the area would have to succeed on a Concentration check against DC 21 (15 + 2 for spiritual weapon spell level + 14 for dissonant chant save DC &#8211; 10 = 21).
+Creatures within the area gain a bonus on saving throws against language-dependent effects equal to this spell's DC -10.
+While this spell does not allow a saving throw, the save DC for the spell is calculated normally (10 + spell level + Int or Cha modifier) to determine the modifier to the Concentration checks of those within the spell's area.
+ <b>Also appears in</b>   Spell Compendium     

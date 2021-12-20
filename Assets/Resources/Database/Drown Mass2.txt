@@ -1,0 +1,10 @@
+<b>Drown, Mass</b>(Underdark)
+
+Conjuration (Creation) [Water]
+ <b>Level:</b>  Druid 9,   Watery death 9,   
+<b>Components:</b>
+ <b>Target:</b> One or more creatures, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like drown, except that it affects multiple creatures.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,10 @@
+<b>Orb of Fire, Lesser</b>(Complete Arcane)
+
+Conjuration (Creation) [Fire]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,  Warmage 1,    
+<b>Components:</b>
+ <b>Effect:</b> One orb of fire
+
+ 	
+This spell functions like lesser orb of acid, except it deals fire damage.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,24 @@
+<b>As the Frost</b>(Player's Handbook II)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+With a crystalline tinkling, your body transforms into a figure of ice and cold, your equipment melding into your new form.
+Your skin becomes brilliant blue and transparent, with glimpses of liquid beneath.
+Frost forms across your hands and arms, dripping down to form knifelike icicles.
+Your breath hisses white in the bitterly cold air surrounding you.
+Snow swirls about you as your presence freezes the air's moisture.
+Ice crystals spread from your footprints.
+Your creature type changes to outsider.
+Unlike other outsiders, you can be brought back to life if you die in this form.
+You gain the following qualities and abilities:			Immunity to cold.		Damage reduction 10/magic and piercing.		At the beginning of your action, creatures within 15 feet of you take 2d6 points of cold damage per round.	
+A creature that takes damage from this effect must make a Fortitude save (DC 17 + your key ability modifier) or be slowed, as the slow spell, for the remaining duration of as the frost.
+Spell resistance applies to this effect.
+Material Component: A chunk of ice or crystal.
+   

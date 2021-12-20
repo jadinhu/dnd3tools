@@ -1,0 +1,15 @@
+<b>Stone Dragon's Fury</b>(Tome of Battle: The Book of Nine Swords, p. 85)
+
+Stone Dragon (Strike)
+ <b>Level:</b>  Crusader 3 (One Stone Dragon maneuver),  Swordsage 3 (One Stone Dragon maneuver),  Warblade 3 (One Stone Dragon maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> Creature or object struck
+
+ 	
+<b>With a mighty war cry, you slam your weapon into a slight crack or other fault in an object. The object shudders for a moment before it collapses into broken shards.</b>
+	
+Your attunement to Stone Dragon?s earth nature allows you to spot flaws in objects with uncanny precision. You use this knowledge to your advantage, allowing you to make devastating attacks against objects and constructs.
+	
+As part of this maneuver, you make a single melee attack. If your attack hits a construct or an object, you deal an extra 4d6 points of damage. You can use this strike in conjunction with the sunder special attack (PH 158) and attempt to damage held or carried objects. Against other targets, you gain no special benefit from this maneuver.</p   

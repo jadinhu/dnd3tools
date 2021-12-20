@@ -1,0 +1,15 @@
+<b>Silverbeard</b>(Spell Compendium, p. 190)
+
+Transmutation
+ <b>Level:</b>  Paladin 1,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+<b>You evoke the greater powers of good, and your beard stiffens, turning metallic and reaching halfway down your chest, giving you greater protection.</b>
+	
+Your beard grows and turns to pure and magically hardened silver, providing you with a +2 sacred bonus to AC. If you do not have a beard, you grow one for the duration of this spell (even if you are a creature that cannot normally grow a beard, such as an elf or a female human). You get a +2 circumstance bonus on Diplomacy checks against dwarves.
+ <b>Also appears in</b>   Magic of Faerun     

@@ -1,0 +1,11 @@
+<b>Deafening Breath</b>(Draconomicon)
+
+Transmutation [Sonic]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>
+
+ 	
+As breath weapon admixture, but you add sonic energy to your breath weapon.
+In addition to dealing extra damage, you permanently deafen creatures that fail their saving throws against your breath.
+This spell has no effect within an area of magical silence, such as that created by the silence spell.
+   

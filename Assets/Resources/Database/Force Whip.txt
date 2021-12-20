@@ -1,0 +1,20 @@
+<b>Force Whip</b>(Complete Arcane)
+
+Evocation [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 2,  Wu Jen 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Effect:</b> A whip of force
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates a whip of magical force that you wield as if you had proficiency with it.
+Simply cracking a force whip keeps normal animals (but not magical beasts or vermin) at bay unless they succeed on a Will save.
+Affected animals stay at least 30 feet away from you for the duration of the spell, as space permits.
+On a successful ranged attack with the whip, any normal animal you strike must succeed on a Will save or become frightened.
+Against other creature types, you can use a force whip in combat as if it were a normal whip.
+Material Component: A small silk whip.
+   

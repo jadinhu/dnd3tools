@@ -1,0 +1,23 @@
+<b>Bombardment</b>(Spell Compendium, p. 37)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> Cylinder (15-ft. radius, 40 ft. high)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half; See text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You point to the empty air and boulders tumble into being, burying your opponents.</b>
+	
+You designate the spot on which the cylinder is centered. Each creature in the area that fails a Reflex saving throw takes 1d8 points of damage per caster level (maximum 20d8) and is buried under 5 feet of rubble. A successful save halves the damage and avoids burial. A buried creature can free itself with a DC 20 Strength check (a full-round action), or it can be dug free by others (a single creature working alone requires 1 minute to free a trapped creature). A buried creature is unable to move, and cannot cast spells with somatic components, and any material components must be in hand.
+	
+After this spell is cast, its area is
+covered in 5 feet of dense rubble
+(<b>DMG</b> 90).
+	
+<b>Focus:</b> A quartz crystal embedded in rock.
+ <b>Also appears in</b>   Magic of Faerun  Player's Guide to FaerÃ»n     

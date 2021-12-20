@@ -1,0 +1,19 @@
+<b>Skull Eyes</b>(Player's Guide to FaerÃ»n)
+
+Transmutation
+ <b>Level:</b>   Initiate of cyric 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/three levels
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You gain a gaze attack out to close range (25 ft. + 5 ft./2 levels) that lasts for the duration of the spell.
+Each creature within range that can see you must attempt a Will saving throw every round at the beginning of its turn to avoid the effect.
+In addition, you can actively gaze as an attack action by choosing a target within range.
+Depending on the foe's Hit Dice, the gaze attack may have either of two effects, as follows.
+While this spell is in effect, your eyes are black and have skull-shaped irises.
+ <b>Also appears in</b>   Lords of Darkness     

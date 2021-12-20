@@ -1,0 +1,25 @@
+<b>Maddening Whispers</b>(Draconomicon)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Hissing and whispering softly, you stir feelings of confusion and madness in the targets'minds.
+You can choose to inflict one of the following conditions upon any creatures that fail their saving throws.
+Hysteria: The subjects fall into fits of uncontrollable laughing or crying (equal chance for either).
+Hysterical creatures are unable to attack, cast spells, concentrate on spells, or do anything else requiring attention.
+The only action such a character can take is a single move action per turn.
+Panic: The subjects become panicked.
+If cornered, a panicked creature cowers.
+Violent Hallucinations: The subjects perceive any nearby creatures as dangerous enemies, attacking the nearest ones and fighting until the subjects are slain or until no more creatures are in sight.
+Stupor: The subjects curl up on the floor and remain oblivious to events around them.
+Characters in a stupor are effectively stunned and prone.
+Maddening whispers has no effect upon creatures that can see you, creatures that have already rolled saving throws against your frightful presence, or unconscious creatures.
+ <b>Also appears in</b>   Spell Compendium     

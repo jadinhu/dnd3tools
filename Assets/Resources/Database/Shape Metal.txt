@@ -1,0 +1,21 @@
+<b>Shape Metal</b>(Races of Faerun)
+
+Transmutation
+ <b>Level:</b>  Cleric 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Metal or metal object touched, up to 10 cu. ft. + 1 cu. ft./level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As stone shape, except as noted above and that you affect metal instead of stone.
+You may employ this spell in combat with a successful melee touch attack.
+Shape metal successfully used in this way against a target's armor reduces the armor's protection by 1d6 points of Armor Class (armor such as studded leather that mostly made of nonmetal materials take half damage from this spell).
+If used against a shield, weapon, or metallic creature, the spell deals 1d6 points of damage per 2 caster levels, bypassing the target's hardness (or damage reduction in the case of a creature).
+Touching an unwilling creature or an item held by an unwilling creature requires a melee touch attack and provokes an attack of opportunity from the defender.
+You may ready an action to touch a creature, its armor, its shield, or its weapon when it attempts to strike you; this does not provoke an attack of opportunity (you are using the creature's movement to come into contact with it).
+Arcane Material Component: A piece of wire, bent approximately into the desired shape and touched to the metal while the verbal component is uttered.
+   

@@ -1,0 +1,10 @@
+<b>Repel Ectoplasm</b>(Ghostwalk)
+
+Abjuration [Ectomancy]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,   Ghost 7,   
+<b>Components:</b>
+
+ 	
+As repel wood, but affecting only ectoplasm, whether inert or part of an ectoplasmic creature.
+Large manifestations of ectoplasm (such as a wall of ectoplasm spell) are not considered &quot;fixed firmly&quot; for the purpose of this spell and are pushed back by the waves of energy.
+   

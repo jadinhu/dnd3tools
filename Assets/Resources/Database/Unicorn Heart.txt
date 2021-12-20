@@ -1,0 +1,26 @@
+<b>Unicorn Heart</b>(Complete Mage, p. 121)
+
+Transmutation [Good]
+ <b>Level:</b>  Druid 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D) or until expended
+
+ 	
+Your heart beats with the power of the unicorn.
+This spell gives you a land speed of 60 feet.
+You gain a +4 enhancement bonus on Strength-, Dexterity-, and Constitution-based ability checks and skill checks.
+Once while the spell lasts you can instantly transport yourself, all objects that you carry (up to your maximum load), and one other creature you touch up to 360 feet as a swift action.
+The creature you transport does not count against your weight limit, but it too can't carry more than its maximum load.
+A familiar, special mount, or animal companion does not count against your weight limit or the single creature you can transport.
+You are free to act after transporting, assuming you have not used your actions for the round prior to transporting.
+Except as noted here, this effect works like a dimension door spell.
+Transporting in this fashion ends the spell's duration.
+If you are under the effect of this spell and the unicorn blood spell at the same time, this spell also creates a magic circle against evil effect, which is centered on you.
+If you are under the effect of this spell and the unicorn horn spell at the same time, you can use the horn to smite evil, dealing an extra 1 point of damage per level (maximum +20).
+You can smite evil only once per casting of unicorn horn.
+If you are the under the effect of this spell, unicorn blood,
+and unicorn horn at the same time, you gain damage reduction 5/evil.
+   

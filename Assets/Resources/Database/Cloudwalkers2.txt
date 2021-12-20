@@ -1,0 +1,19 @@
+<b>Cloudwalkers</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Transmutation
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Reflex negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You create gaseous pads of cloudstuff on the subjects' feet, allowing them to walk on the clouds.
+These pads allow each subject to move straight up or down at a speed of up to 30 feet or laterally with a fly speed of 60 feet (perfect), as desired.
+(Lateral movement is possible only for a subject who is already at least 90 feet off the ground).
+To touch the earth again, a subject must use a standard action to shake off the cloudstuff, which ends the spell for that creature.
+You may dismiss the spell, but only for all subjects at once � ;an act that can have significant consequences for subjects already in the air.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

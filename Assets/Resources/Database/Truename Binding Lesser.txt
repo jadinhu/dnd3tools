@@ -1,0 +1,27 @@
+<b>Truename Binding, Lesser</b>(Tome of Magic)
+
+Conjuration (Calling)
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, <abbr title="Experience">XP, <abbr title="True Name">TN, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels); see lesser planar binding text
+ <b>Target:</b> One elemental or outsider of CR 6 or less
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> No and yes; see lesser planar binding text
+
+ 	
+With a flourish of your hands, the creature appears in the magic trap you have laid.
+You threaten it with the power of its personal truename, and it hangs its head as it agrees to perform a service on your behalf.
+This spell functions like lesser planar binding, except that you can call a single creature of CR 6 or less, and you must know its personal truename to call it.
+Once you demonstrate mastery of that truename with a successful Truespeak check, you can compel the creature to perform a service on your behalf if you roll a 1 on the Truespeak check required by this spell, the creature breaks free of the binding and can escape or attack you.
+The creature gets its Will save and spell resistance as normal for lesser planar binding.
+If the creature does not break free, you attempt to compel the creature to perform a service not with opposed Charisma checks, but with the Truespeak check you made when you cast the spell.
+The bound creature opposes this check with either a Truespeak check, saying its own personal truename, or a Charisma check.
+If you can assign an open-ended task, such as &quot;defend me against attack&quot;, the service lasts for one day.
+Once the requested service is performed, the creature need only so inform you to be instantly sent back whence it came.
+You can extend the creature's duration of service with a particularly high Truespeak check.
+For every 5 points by which your Truespeak check (made when you cast the spell) exceeds the creature's Truespeak or Charisma check, the duration of the creature's service is extended by one additional day.
+Truename Component: When you cast this spell, you must correctly speak the personal truename of the target creature you're trying to bind to service.
+XP Cost: 100 XP.
+   

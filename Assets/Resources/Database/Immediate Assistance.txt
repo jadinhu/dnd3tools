@@ -1,0 +1,19 @@
+<b>Immediate Assistance</b>(Complete Mage)
+
+Enchantment (Compulsion)
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One willing creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As you speak the arcane words, you feel the laws of reality bending around your companion, undoing his failure.
+You grant the subject the chance to reroll a skill check.
+You must cast this spell after the skill check has been rolled, but before success or failure has been determined.
+The subject makes the new check immediately and must abide by the results of the second roll.
+The subject can't take 10 or 20 on this reroll.
+   

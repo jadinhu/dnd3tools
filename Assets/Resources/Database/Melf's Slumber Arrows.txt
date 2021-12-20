@@ -1,0 +1,21 @@
+<b>Melf's Slumber Arrows</b>(Complete Mage)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> 1 arrow/3 levels
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A single arrow gleams like a star in the night, promising a deathlike slumber to its target.
+At any time during this spell's duration, you can use a swift action to imbue an arrow that you hold with the power of slumber.
+Any creature of 15 HD or less that is dealt damage by this arrow before the end of your turn falls asleep for 1 hour.
+A successful Will save means the target becomes fatigued for 1 hour instead.
+Any arrow that doesn't deal damage to a target before your turn ends loses its magic (but can be imbued again on your next turn).
+You can imbue one arrow for every three caster levels you have (maximum five arrows).
+Material Component: A few poppy seeds.
+   

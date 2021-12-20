@@ -1,0 +1,19 @@
+<b>Barghest's Feast</b>(Spell Compendium, p. 24)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 6,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Corpse touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+<b>The diamond in your hand turns to coal, and then to dust, which sprinkles down upon the corpse. Where it strikes, ebon flames spring up, and when the flames pass nothing remains, not even grave dust. &quot;Return from that one,&quot; you mutter.</b>
+	
+Black flames flicker over a corpse, utterly consuming it. You destroy the remains of a dead person or creature, preventing any form of raising or resur- rection that requires part of the corpse. There is a 50% chance that a wish, miracle, or true resurrection spell cannot restore to life a victim consumed by a barghest's feast spell. Check once for each destroyed creature. If the d% roll fails, the creature cannot be brought back to life by mortal magic.
+	
+<b>Material Component:</b> A diamond worth 5,000 gp.
+ <b>Also appears in</b>   Planar Handbook     

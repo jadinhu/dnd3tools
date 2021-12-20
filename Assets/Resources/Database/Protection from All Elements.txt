@@ -1,0 +1,22 @@
+<b>Protection from All Elements</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Abjuration
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level or until discharged
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject becomes invulnerable to acid, cold, electricity, fire, and sonic damage.
+The spell absorbs damage the subject would otherwise take from all the above energy types, regardless of whether the source of damage is natural or magical.
+This protection also extends to the subject's equipment.
+When the spell has absorbed a total of 12 points of damage per caster level dealt by any combination of the above energy types, it is discharged.
+Protection from all elements absorbs only damage.
+The subject could still suffer unfortunate side effects, such as drowning in acid (since drowning damage comes from lack of oxygen) or becoming encased in ice.
+The effects of this spell do not stack with those of protection from elements, endure elements, or resist elements.
+It a creature is warded by protection from all elements and any of these other spells, protection from all elements absorbs damage until it is discharged.
+   

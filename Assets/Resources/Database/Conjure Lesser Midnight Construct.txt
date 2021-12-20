@@ -1,0 +1,24 @@
+<b>Conjure Lesser Midnight Construct</b>(Magic of Incarnum)
+
+Conjuration (Creation) [Incarnum]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One conjured midnight construct
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a single lesser midnight construct (see page 184).
+The creature appears where you designate and acts immediately, on your turn.
+It attacks your opponents to the best of its ability.
+As a free action, you can mentally direct it not to attack, to attack particular enemies, or to perform other actions.
+The midnight construct acts normally on the last round of the spell's duration and dissipates at the end of its turn.
+Midnight constructs are not summoned; they are created on the plane you inhabit, using incarnum you coalesce.
+Thus, they are not subject to effects that hedge out or otherwise affect outsiders or summoned creatures.
+Essentia: You can invest essentia in a midnight construct when you create it to gain one or more of the following modifications to the construct.
+Every point of essentia can be invested in any one modification.			Combat Power: +1 enhancement bonus on attack rolls and damage rolls per point of essentia invested.		Damage Reduction: Increase the construct's DR by 2 points per point of essentia invested.		Land Speed Increase: Increase the construct's land speed by 10 feet per point of essentia invested.	
+Material Component: A bead of dark glass.
+   

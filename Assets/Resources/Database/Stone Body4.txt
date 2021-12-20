@@ -1,0 +1,21 @@
+<b>Stone Body</b>(Spell Compendium, p. 207)
+
+Transmutation
+ <b>Level:</b>  Cleric 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+<b>As the echoes of your spellcasting die, your flesh begins to stiffen and turn gray, gaining the rough texture and consistency of stone.</b>
+	
+This spell transforms your body into living stone, which grants you several powerful resistances and abilities.
+	
+You gain damage reduction 10/adamantine. You are immune to blindness, extra damage from critical hits, ability score damage, deafness, disease, drowning, poison, stunning, and all spells or attacks that affect your physiology or respiration, because you have no physiology or respiration while this spell is in effect. You gain a +4 enhancement bonus to Strength, but you take a � ;4 penalty to Dexterity (minimum Dexterity 1). Your speed is reduced to one-half normal, and your weight increases by a factor of three.
+	
+If you are targeted with transmute rock to mud, you are slowed for 2d6 rounds with no saving throw. A transmute mud to rock heals you of all your lost hit points. A stone to flesh spell cast on you automatically ends this spell.
+	
+Arcane Material Component: A small piece of stone that was once part of a stone golem, a greater earth elemental, or a castle's outer wall.
+ <b>Also appears in</b>   Savage Species  Races of Faerun  Player's Guide to FaerÃ»n     

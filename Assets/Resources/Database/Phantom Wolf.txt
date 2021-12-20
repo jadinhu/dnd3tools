@@ -1,0 +1,27 @@
+<b>Phantom Wolf</b>(Complete Divine)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Druid 8,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One summoned phantom wolf
+ <b>Duration:</b> Concentration up to 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You conjure forth an incorporeal white wolf with abnormally large, frosty jaws.
+This phantom wolf follows your mental commands, acting on your behalf as long as it remains within range and you continue to concentrate on it.
+The phantom wolf appears where you designate and acts as you direct on your turn.
+You don't need to maintain line of effect once the spell is cast, but the spell ends if the phantom wolf is ever outside the spell's range.
+Phantom Wolf: Large magical beast (incorporeal); HD 12d10+48; hp 113; Init +9; Spd fly 60 ft. (good); AC 25, touch 25, flat-footed 16; Base Atk +12; Grp � ;; Atk +21 melee touch (2d6 plus 3d6 cold, bite); Full Atk +22 melee touch (2d6 plus 3d6 cold, bite); SA frightful presence; SQ darkvision 60 ft., incorporeal traits; AL N; SV Fort +12, Ref +17, Will +7; Str � ;, Dex 29, Con 18, Int 11, Wis 17, Cha 26.
+Skills and Feats: Listen +20, Spot +20; Alertness, Dodge, Combat Reflexes, Mobility, Weapon Focus (bite).
+Frightful Presence: Creatures of less than 12 HD within 30 feet of an attacking phantom wolf must succeed on a DC 24 Will save or be frightened for 3d6 rounds.
+An opponent that succeeds on the saving throw is immune to that same phantom wolf's frightful presence for 24 hours.
+Incorporeal Traits: A phantom wolf is harmed only by other incorporeal creatures, magic weapons, spells, spell-like abilities, and supernatural abilities.
+It has a 50% chance to ignore any damage from a corporeal source, except for force effects or attacks made with ghost touch weapons.
+It can pass through solid objects, but not force effects, at will.
+Its attacks ignore natural armor, armor, and shields, but deflection bonuses and force effects work normally against them.
+An incorporeal creature always moves silently and cannot be heard with Listen checks if it doesn't wish to be.
+ <b>Also appears in</b>   Spell Compendium     

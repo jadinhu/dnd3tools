@@ -1,0 +1,15 @@
+<b>Repair Light Damage</b>(Eberron Campaign Setting, p. 114)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,  Artificer 1,   Warforged 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Construct touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When laying your hands upon a construct that has at least 1 hit point remaining, or a living construct with � ;9 or more hit points, you transmute its structure to repair damage it has taken. The spell repairs 1d8 points of damage + 1 point per caster level (maximum +5).
+ <b>Also appears in</b>   Complete Arcane  Tome and Blood: A Guidebook to Wizards and Sorcerers  Miniatures Handbook  Dragon Compendium  Spell Compendium     

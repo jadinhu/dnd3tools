@@ -1,0 +1,18 @@
+<b>Scramble Portal</b>(Manual of the Planes)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One interplanar portal
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None (for portal); Will negates (for users)
+ <b>Spell Resistance:</b> No
+
+ 	
+You may randomize the destination of one interplanar portal for the duration of the spell.
+Anyone who passes through the portal from either side is sent to a random plane instead of the portal's intended destination unless they make a Will save.
+All those who fail the save go to the same location on the same plane.
+Material Component: A cracked mirror.
+ <b>Also appears in</b>   Spell Compendium     

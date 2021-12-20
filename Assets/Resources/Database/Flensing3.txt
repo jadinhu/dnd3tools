@@ -1,0 +1,21 @@
+<b>Flensing</b>(Spell Compendium, p. 95)
+
+Transmutation [Evil]
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One corporeal creature
+ <b>Duration:</b> 4 rounds
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a cruel utterance, you complete the spell an unleash its terrible energy. A sickeningly wet ripping sound accompanies the sight of strips of flesh being torn away, as if some invisible hand was attempting to peel your target like an onion.</b>
+	
+When you cast this spell, you literally strip the flesh from a corporeal creature's body, inflicting incredible pain and psychological trauma. Each round, the subject takes 2d6 points of damage, and 1d6 points of Charisma. A successful Fortitude save negates the ability damage and reduces the hit point damage by half for that round, but does not end the spell.
+	
+<b>Flensing</b> has no effect on creatures in gaseous form.
+	
+<b>Material Component:</b> An onion.
+ <b>Also appears in</b>   Complete Arcane  Forgotten Realms Campaign Setting     

@@ -1,0 +1,17 @@
+<b>Golem Strike</b>(Spell Compendium, p. 106)
+
+Divination
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>A dim glow fills your eyes, allowing you to see � ;briefly � ;weak points in the magic infused within a nearby construct.</b>
+	
+For 1 round, you can deliver sneak attacks against constructs as if they were not immune to extra damage from sneak attacks. To attack a construct in this manner, you must still meet the other requirements for making a sneak attack.
+	
+This spell applies only to sneak attack damage. It gives you no ability to affect constructs with critical hits, nor does it confer any special ability to overcome the damage reduction or other defenses of constructs.
+ <b>Also appears in</b>   Complete Adventurer     

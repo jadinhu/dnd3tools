@@ -1,0 +1,31 @@
+<b>Evacuation Rune</b>(Complete Scoundrel)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Effect:</b> One invisible rune
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> No (harmless)
+
+ 	
+As you finish scribing this bloody rune, the mark flares for an instant and then vanishes.
+Even though the rune has disappeared, you feel as though you can step back to it simply by willing it.
+You create a magical mark that you can teleport to at a moment's notice.
+Upon casting this spell and touching a surface or inanimate object, you create an invisible rune like that created by the spell arcane mark (PH 201).
+At any point during the spell's duration you can teleport (as the greater teleport spell) back to the mark as a swift action.
+This ends the spell's duration.
+After teleporting in this way, you can't take any other actions until your next turn.
+The mark created by this spell can be detected in the same ways that an invisible arcane mark can be.
+You are not alerted if the mark is dispelled or the object upon which it is inscribed is destroyed.
+Any attempt to teleport back to a dispelled or destroyed mark still requires a swift action but fails.
+If you created the evacuation rune upon a portable object, that object can be moved by another creature.
+You have no knowledge of whether your mark has been moved or where, and upon teleporting to its location, you are subject to any adverse conditions.
+If the mark has been moved to another plane, any attempt to teleport to it fails.
+If the object inscribed with the evacuation rune is moved somewhere too small for you to appear or is otherwise covered by a solid body, you take 1d6 points of damage and are shunted to a random open space on a suitable surface within 100 feet of the intended location.
+If there is no free space within 100 feet, you take an additional 2d6 points of damage and are shunted to a free space within 1,000 feet.
+If there is no free space within 1,000 feet, you take an additional 4d6 points of damage, and the teleport attempt simply fails.
+Material Component: The blood of an owl, hawk, or eagle.
+   

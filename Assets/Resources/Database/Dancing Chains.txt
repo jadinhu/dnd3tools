@@ -1,0 +1,18 @@
+<b>Dancing Chains</b>(Book of Vile Darkness)
+
+Transmutation
+ <b>Level:</b>  Demonologist 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One chain per level within range
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The caster can control one chain per level as a standard action, making the chains dance or move as she wishes.
+In addition, the caster can increase the chains' length by up to 15 feet and cause them to sprout razor-edged barbs.
+These chains attack as spiked chains that use the caster's normal ranged attack bonus on attack rolls or grapple checks (treat each chain as Medium-size when grappling).
+The caster can climb a chain she controls at normal speed without making a Climb check.
+   

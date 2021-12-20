@@ -1,0 +1,23 @@
+<b>Spell Haven</b>(Dragonmarked, p. 153)
+
+Transmutation
+ <b>Level:</b>  Bard 5,  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, DF, Dragonmark
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Permanent until discharged (D)
+
+ 	
+<b>You touch a dragonshard to your forehead and concentrate, causing your dragonmark to tingle as it transforms into a receptacle capable of storing a single spell.</b>
+	
+This spell allows you to store another spell within your dragonmark. You can store any spell you can normally cast that has a casting time of 1 round or less. Only one such spell can be stored in your dragonmark at any time, and the maximum level of the stored spell depends on the strength of your dragonmark.
+	<table>		<tr>			<th>Dragonmark </th>			<th>Maximum Spell Level </th>		</tr>		<tr>			<td> Least </td>			<td> 1st </td>		</tr>		<tr>			<td> Lesser </td>			<td> 3rd </td>		</tr>		<tr>			<td> Greater or Siberys </td>			<td> 5th </td>		</tr>	</table>	
+The spell stored within your dragonmark can be cast as an immediate action and does not count against your normal limit of spells per day. Any necessary material components for the stored spell are consumed when the spell is stored.
+	
+A spell bound to your dragonmark cannot be lost or stolen by any effect that affects spells prepared or available spell slots.
+	
+<b>Focus:</b> A Siberys dragonshard (for casters with true dragonmarks) or a Khyber dragonshard (for casters with aberrant dragonmarks) worth at least 500 gp per level of the bound spell.
+	
+<b>Dragonmark:</b> Any true or aberrant dragonmark.
+   

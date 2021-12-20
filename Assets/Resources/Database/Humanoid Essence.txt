@@ -1,0 +1,17 @@
+<b>Humanoid Essence</b>(Races of Eberron, p. 186)
+
+Transmutation
+ <b>Level:</b>  Artificer 4,  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As <b>lesser humanoid essence</b> with the following additional effects. The construct becomes subject to critical hits, sneak attacks, nonlethal damage, stunning, ability damage, ability drain, death effects, and necromancy effects. In addition, a warforged affected by this spell loses its racial fortification against critical hits and sneak attacks (including any improvements to that fortification).
+	
+This spell counters and dispels lesser construct essence and construct essence. If this spell is cast on a creature under the effect of lesser construct essence, the latter spell is automatically ended. If this spell is cast on a creature under the effect of construct essence, both spells are dispelled and have no effect. It has no effect if cast on a creature under the effect of greater construct essence.
+   

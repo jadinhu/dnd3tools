@@ -1,0 +1,12 @@
+<b>Holy Fire</b>(The Forge of War, p. 114)
+
+Evocation [Fire, Good]
+ <b>Level:</b>  Cleric 2,  Paladin 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+All undead within range of your next turning attempt (if you make it before this spell?s duration expires) are especially vulnerable to the attempt. Whether you succeed in turning them or not, the undead take hit point damage equal to the result of your turning damage roll. This damage is half fire and half sacred energy.</p   

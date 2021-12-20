@@ -1,0 +1,17 @@
+<b>Summon Monster VI</b>(Player's Handbook v.3.5, p. 287)
+
+Conjuration (Summoning) [see text for summon monster I]
+ <b>Level:</b>  Bard 6,  Cleric 6,  Sorcerer 6,  Wizard 6,  Nar Demonbinder 6,  Wu Jen 6,  Sha'ir 6,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more summoned creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>summon monster I</b>, except you can summon one creature from the 6th-level list, 1d3 creatures of the same kind from the 5th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
+	
+Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
+	<b>6TH <span class="caps">LEVEL</span></b>	<table>		<tr>			<th><b>Monster</b> </th>			<th><b>Alignement</b> </th>		</tr>		<tr>			<td> Celestial polar bear </td>			<td> LG </td>		</tr>		<tr>			<td> Celestial orca whale <sup>1</sup> </td>			<td> NG </td>		</tr>		<tr>			<td> Bralani (eladrin) </td>			<td> CG </td>		</tr>		<tr>			<td> Celestial dire lion </td>			<td> CG </td>		</tr>		<tr>			<td> Elemental, Large (any) </td>			<td> N </td>		</tr>		<tr>			<td> Janni (genie) </td>			<td> N </td>		</tr>		<tr>			<td> Chaos beast </td>			<td> CN </td>		</tr>		<tr>			<td> Devil, chain </td>			<td> LE </td>		</tr>		<tr>			<td> Xill </td>			<td> LE </td>		</tr>		<tr>			<td> Fiendish monstrous centipede, Gargantuan </td>			<td> NE </td>		</tr>		<tr>			<td> Fiendish rhinoceros </td>			<td> NE </td>		</tr>		<tr>			<td> Fiendish elasmosaurus <sup>1</sup> </td>			<td> CE </td>		</tr>		<tr>			<td> Fiendish monstrous spider, Huge </td>			<td> CE </td>		</tr>		<tr>			<td> Fiendish snake, giant constrictor </td>			<td> CE </td>		</tr>		<tr>			<td colspan="2"><sup>1</sup> may be summoned only into an aquatic or watery environment </td>		</tr>	</table>   

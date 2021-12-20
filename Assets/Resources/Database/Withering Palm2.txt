@@ -1,0 +1,17 @@
+<b>Withering Palm</b>(Eberron Campaign Setting, p. 117)
+
+Necromancy
+ <b>Level:</b>   Death 7,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A touch from your hand causes the subject's body to weaken and wither. 
+	
+With a successful melee touch attack, you deal 1 point of Strength damage and 1 point of Constitution damage per two caster levels to the target. If you score a critical hit, the damage from the hit is ability drain instead of ability damage.
+ <b>Also appears in</b>   Complete Arcane  Oriental Adventures  Spell Compendium     

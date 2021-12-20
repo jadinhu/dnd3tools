@@ -1,0 +1,19 @@
+<b>Lullaby</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Living creatures within a 15-ft.-radius burst
+ <b>Duration:</b> Concentration (see text) plus 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster play a gentle melody that lulls the senses of those who hear it.
+Any creature within the area that fails a Will save becomes
+drowsy and inattentive, suffering a -2 circumstance penalty on Spot and Listen checks and a -2 circumstance penalty on Will saves against sleep while the lullaby is in effect.
+Many bards use this spell in conjunction with either ambient song or a silent or disguised spell to improve the odds against anyone noticing such a ruse.
+Focus: The caster's instrument.
+ <b>Also appears in</b>   Player's Handbook v.3.5     

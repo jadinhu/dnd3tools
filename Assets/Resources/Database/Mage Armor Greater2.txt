@@ -1,0 +1,17 @@
+<b>Mage Armor, Greater</b>(Spell Compendium, p. 136)
+
+Conjuration (Creation) [Force]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>An invisible sheen of armor-shaped force surrounds you.</b>
+	
+This spell functions like <b>mage armor</b> (PH 249), except that it requires no material component and its tangible field of force provides a +6 armor bonus to Armor Class.
+ <b>Also appears in</b>   Complete Arcane     

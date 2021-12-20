@@ -1,0 +1,21 @@
+<b>Armor Lock</b>(Complete Scoundrel)
+
+Transmutation
+ <b>Level:</b>  Bard 1,  Hexblade 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature wearing armor
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The plates and joints of your opponent's armor become as rigid as stone, encumbering his movement.
+You cause the target's armor to swell and stiffen, slowing the wearer's movement and trapping him within.
+The target's land speed is reduced to 10 feet.
+If the target has a burrow, climb, or swim speed, these are also reduced to 10 feet.
+The target also loses any Dexterity bonus to AC for the duration of the spell.
+While affected by this spell, the target cannot remove his armor; its joints are too tight and restrictive to escape from.
+This spell has no effect on unarmored opponents, creatures with only natural armor or an AC bonus from items other than armor, or those using only shields.
+   

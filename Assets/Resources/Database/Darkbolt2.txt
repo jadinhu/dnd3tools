@@ -1,0 +1,22 @@
+<b>Darkbolt</b>(Forgotten Realms Campaign Setting)
+
+Evocation [Darkness]
+ <b>Level:</b>  Telflammar Shadowlord 3,   Darkness 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One ray/2 caster levels (maximum seven)
+ <b>Duration:</b> Instantaneous (see text)
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You unleash beams of darkness from your open palm.
+You must succeed at a ranged touch attack to strike your target.
+You can hurl one darkbolt for every two caster levels you have (maximum seven bolts).
+You can hurl all the bolts at once, or you can hurl one bolt per round as a free action, starting on the round when you cast the spell.
+You do not have to hurl a bolt every round, but if you don't hurl the bolt you were entitled to that round, it is lost.
+If you hurl all the bolts at once, all your targets must be within 60 feet of each other.
+A darkbolt deals 2d8 points of damage to a living creature, and the creature is dazed for 1 round unless it makes a Will save (a creature struck by multiple bolts during the same round is dazed for a maximum of 1 round, no matter how many times it fails its save).
+Undead take no damage, but are dazed if they fail their saves.
+ <b>Also appears in</b>   Lords of Madness  Book of Vile Darkness  Spell Compendium     

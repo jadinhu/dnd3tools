@@ -1,0 +1,18 @@
+<b>Bite of the Wereboar</b>(Spell Compendium, p. 28)
+
+Transmutation
+ <b>Level:</b>  Druid 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You shake your head, and your face reshapes itself into the visage of a boar. As this happens, your body becomes bulkier, and your shoulders and back bristle with hair.</b>
+	
+You gain a +4 enhancement bonus to Strength, a +6 enhancement bonus to Constitution, and a +8 enhancement bonus to natural armor. Your face becomes that of a boar, and you gain a bite attack that deals 1d8 points of damage (or 1d6 points if you are Small) + 1-1/2 times your Str modifier. You also gain the benefit of the Blind-Fight feat. If your base attack bonus is +6 or higher, you do not gain any additional attacks.
+	
+Material Component: Four boar bristles.
+   

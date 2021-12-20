@@ -1,0 +1,17 @@
+<b>Shadow Guardians</b>(Races of Destiny)
+
+Illusion (Shadow)
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>
+ <b>Saving Throw:</b> Will disbelief (if interacted with)
+
+ 	
+As phantom guardians, except that the figures are partially real.
+Each guardian has the statistics noted below (regardless of its actual size or appearance).
+In addition to the brief orders given to each new shadow guardian, the caster can give each guardian a simple trigger that causes it to attack, such as &quot;attack anyone approaching within 30 feet&quot; or &quot;attack anyone not wearing these colors&quot;.
+The shadow guardians have no special visual acuity � ;
+invisibility, disguises, and the like can easily fool them.
+The shadow guardians deal normal damage.
+Against a creature that recognizes a shadow guardian as an illusion, it deals only 50% normal damage.
+Shadow Guardian:Mediumconstruct; HD 4d8; hp 18; Init +1; Spd 30 ft.; AC 17, touch 17, f lat-footed 15; Base Atk +2; Grp +4; Atk +4 melee (1d8+2, weapon); AL N; SV Fort +2, Ref +4, Will +4; Str 14, Dex 14, Con � ;, Int � ;, Wis 14, Cha 1.
+   

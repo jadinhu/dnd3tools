@@ -1,0 +1,12 @@
+<b>Suggestion, Mass</b>(Player's Handbook v.3.5, p. 285)
+
+Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
+ <b>Level:</b>  Bard 5,  Sorcerer 6,  Wizard 6,  Beguiler 6,  Wu Jen 6,  Sha'ir 6,  Urban Druid 6,  Court Herald 6,   Temptation 6,  Domination 7,  Dragon 8,   
+<b>Components:</b>
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature/level, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like suggestion, except that it can affect more creatures.
+The same suggestion applies to all these creatures.
+   

@@ -1,0 +1,23 @@
+<b>Freezing Glance</b>(Frostburn)
+
+Enchantment [Cold]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level; see text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your eyes become wintry tombs that destroy the spark of life in those who you meet your stare.
+Each round you may target a single living creature.
+It must make a Will saving throw or be frozen in place.
+Frozen creatures cannot move, attack, cast spells, or defend themselves; they are considered immobile, losing shield and Dexterity bonuses to Armor Class and taking a further -4 penalty to Armor Class.
+Frozen creatures are entitled to an additional saving throw if attacked, but this provides no immunity to the gaze.
+A creature that has been immobilizing with a freezing glance,
+then restored to motion after an attack, can still be the target of the same freezing glance in a later round.
+Though the gaze attack ends rather quickly, frozen creatures remain immobile for 1 minute per level.
+In some cases, this can cause serious damage through exposure to the elements.
+   

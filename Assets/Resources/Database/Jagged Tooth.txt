@@ -1,0 +1,12 @@
+<b>Jagged Tooth</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Ranger 3,    
+<b>Components:</b>
+ <b>Target:</b> One natural slashing or piercing weapon of target creature
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+As keen edge, except as noted above.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,9 @@
+<b>Repair Critical Damage, Mass</b>(Dragon Compendium)
+
+Transmutation
+ <b>Level:</b>  Urban Druid 8,    
+<b>Components:</b>
+
+ 	
+This spell functions like <b>mass repair light damage</b>, except that it repairs 4d8 points of damage +1 point per caster level (maximum +40).
+   

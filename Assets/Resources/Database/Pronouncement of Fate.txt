@@ -1,0 +1,25 @@
+<b>Pronouncement of Fate</b>(Heroes of Horror)
+
+Necromancy
+ <b>Level:</b>  Cleric 4,   Spite 4,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates or Will partial; see text
+ <b>Spell Resistance:</b> Special
+
+ 	
+To invoke this spell, you speak the name of an offense that your target has committed.
+Then you speak the inevitable doom that will fall upon her as a result of her transgression.
+(The target need neither understand nor even hear this pronouncement).
+An affected target takes a -4 penalty on attack rolls, damage rolls, saving throws, and checks for the duration of the spell.
+If the offense you named was committed against you personally (although not necessarily against you alone), the target also has a 50% chance of losing all actions on her turn for the duration of the spell.
+The spell's power can be more difficult to resist, depending on who suffered from the offense specified by the casting.
+If you were personally affected by the offense (in the DM's judgment), then the target can only hope to reduce the deleterious effects of the spell by half on a successful Will save.
+You receive a +4 bonus on your caster level check to overcome the spell resistance of any creature whose crime affected you personally.
+A successful save in these circumstances results in the target taking a -2 penalty on attack rolls, damage rolls, saving throws, and checks.
+In addition, she has a 25% chance to lose all her actions for the duration of the spell.
+Any target whose offense did not affect you personally gets her full spell resistance, and a successful Will save negates the effects of the pronouncement of fate.
+   

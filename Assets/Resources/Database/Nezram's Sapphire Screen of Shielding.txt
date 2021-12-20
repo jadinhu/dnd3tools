@@ -1,0 +1,16 @@
+<b>Nezram's Sapphire Screen of Shielding</b>(Lost Empires of Faerun)
+
+Abjuration [Force]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+You create a levitating, square screen of fluid blue force approximately 5 feet on a side and 1 inch thick.
+This screen responds immediately to spells and physical attacks that target you, moving with you and flowing freely around your body to protect you from specific attacks.
+In addition to providing the effect of a shield spell, Nezram's sapphire screen of shielding also gives you damage reduction 10/magic.
+Arcane Focus: A sapphire worth at least 250 gp.
+   

@@ -1,0 +1,21 @@
+<b>Ambient Song</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal (see text)
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will disbelief
+ <b>Spell Resistance:</b> No
+
+ 	
+Ambient song transforms the sounds needed to produce any bardic music effect into background noise.
+Those who hear bardic music masked in this way remain unaware of its true nature, though it still has its normal effects.
+For example, you could use this spell to make a song intended to inspire competence sound like the chirping of crickets, the rustling of leaves, or the crackling of the campfire.
+You choose what your ambient song sounds like, but it should be a noise that's in harmony with the immediate environment.
+A subject who makes a successful Will save realizes that the sound has been altered and can hear its true nature.
+Material Component: A small bit of whatever naturally makes the sound you're trying to mimic.
+For example, a cricket's leg, a dried leaf, or a charred twig would produce the ambient song effects mentioned above.
+   

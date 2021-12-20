@@ -1,0 +1,17 @@
+<b>Aspect of the Deity, Lesser</b>(Book of Exalted Deeds)
+
+Transmutation [Good]
+ <b>Level:</b>  Apostle of Peace 4,  Exalted Arcanist 4,  Paladin 4,  Knight of the Chalice 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+When you cast this spell, your body changes into a form that is more like your deity (in a very limited fashion, of course).
+	
+You gain a +4 enhancement bonus to your Charisma score.
+	
+You also gain acid, cold, and electricity resistance 10.
+   

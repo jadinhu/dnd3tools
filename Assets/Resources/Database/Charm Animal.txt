@@ -1,0 +1,11 @@
+<b>Charm Animal</b>(Player's Handbook v.3.5, p. 208)
+
+Enchantment (Charm) [Mind-Affecting]
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>
+ <b>Target:</b> One animal
+
+ 	
+This spell functions like charm person, except that it affects a creature of the animal type.
+See the Monster Manual for more information on creature types.
+   

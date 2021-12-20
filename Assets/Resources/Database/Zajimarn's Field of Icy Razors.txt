@@ -1,0 +1,23 @@
+<b>Zajimarn's Field of Icy Razors</b>(Magic of Faerun)
+
+Evocation [Cold]
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> One 10-ft. square/level
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Reflex partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Razor-sharp ice crystals fill the area.
+Creatures standing in the area at the time the spell is cast take 2d4 points of damage plus 1d6 points of cold damage +1 point/level.
+Any creature moving on foot into or through the spell's area takes this damage for each 5 feet of movement through the razored area.
+Any creature that sustains normal damage from this spell must also succeed at a Reflex save or suffer injuries to its feet and legs that slow its speed by one-third.
+This speed penalty lasts for 24 hours or until the injured creature receives a cure spell (which also restores lost hit points).
+Another character can remove the penalty by taking 10 minutes to dress the injuries and succeeding at a Heal check against the spell's save DC.
+Each 5-foot square section has effectively 20 hit points.
+Even when all the ice has been destroyed, frigid air remains in the area and deals 1d6 points of cold damage +1 point/level to creatures that pass through it.
+Focus: A silver shuriken worth 50 gp that looks like a snowflake.
+   

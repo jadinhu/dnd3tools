@@ -1,0 +1,15 @@
+<b>Touch of Madness</b>(Eberron Campaign Setting, p. 116)
+
+Enchantment
+ <b>Level:</b>   Madness 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 2 rounds/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+By touching one living creature, you cloud his mind so that he takes no actions. The subject is dazed, not stunned, so attackers get no special advantage against him.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,10 @@
+<b>Ethereal Alarm</b>(Ghostwalk)
+
+Abjuration
+ <b>Level:</b>  Bard 2,  Ranger 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>
+
+ 	
+As alarm, but detecting only ethereal creatures that enter the warded area.
+The spell does not give you the ability to see the ethereal creatures once the alarm is triggered.
+   

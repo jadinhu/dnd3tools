@@ -1,0 +1,19 @@
+<b>Stop Heart</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Assassin 4,  Cleric 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>S, Drug
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Area:</b> One living humanoid or animal
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Channeling hatred and spite, the caster calls upon dark power to give the subject a massive heart attack.
+The subject suddenly drops to -8 hit points, then -9 hit points at the end of this round.
+If someone immediately makes a successful Heal check (DC 15) or somehow gives the subject more hit points, she stabilizes.
+Otherwise, at the end of the next round, the subject reaches -10 hit points and dies.
+Drug Component: Baccaran.
+   

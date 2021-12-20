@@ -1,0 +1,15 @@
+<b>Lion's Charge</b>(Spell Compendium, p. 133)
+
+Transmutation
+ <b>Level:</b>  Ranger 2,  Druid 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You cast the spell and a nimbus of yellow energy in the form of a lion surrounds you.</b>
+	
+This spell grants you the pounce special ability (MM 313), allowing you to make a full attack at the end of a charge.
+ <b>Also appears in</b>   Savage Species  Miniatures Handbook     

@@ -1,0 +1,20 @@
+<b>Devastating Throw</b>(Tome of Battle: The Book of Nine Swords, p. 71)
+
+Setting Sun (Strike)
+ <b>Level:</b>  Swordsage 3 (One Setting Sun maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+
+ 	
+<b>Seizing your foe by the arm, you spin in a quick half-circle and hurl him headlong away from you.</b>
+	
+This maneuver functions like mighty throw (page 73), except as noted here.
+	
+To set up a devastating throw, you must move at least 15 feet.
+	
+As part of this maneuver, you must succeed on a melee touch attack against your foe. You can then make a trip attempt against your enemy. You gain a +4 bonus on the ability check.
+	
+If you succeed in tripping your foe, you throw him up to 10 feet away from you. The target falls prone in the destination space and takes 2d6 points of damage. You choose where he lands. For every 5 points by which you win the opposed check, you gain an additional 5 feet of throw distance. For example, if you win by 10, you can place your foe in any space within 20 feet of you. You must place the target in an empty space. If you lack the distance to throw your target into a clear space, he falls prone in his current space.
+   

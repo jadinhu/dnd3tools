@@ -1,0 +1,14 @@
+<b>Major Creation</b>(Player's Handbook v.3.5, p. 252)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,  Adept 5,  Wu Jen 5,  Sha'ir 5,  Urban Druid 5,  Court Herald 5,   Creation 5,  Craft 7,   
+<b>Components:</b>
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Duration:</b> See text
+
+ 	
+This spell functions like <b>minor creation</b>, except that you can also create an object of mineral nature: stone, crystal, metal, or the like.
+	
+The duration of the created item varies with its relative hardness and rarity, as indicated on the following table.
+   

@@ -1,0 +1,20 @@
+<b>Zone of Revelation</b>(Manual of the Planes)
+
+Divination
+ <b>Level:</b>  Cleric 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 5-ft.-radius/level emanation
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+All creatures and objects within zone of revelation's area are made visible.
+This includes invisible creatures as well as those in coexistent planes such as the Ethereal Plane and the Plane of Shadow.
+Natives of these planes do not lose any abilities but are made simply made visible.
+Zone of revelation suppresses but does not dispel invisibility, etherealness, or other spells.
+Once a formerly invisible object or creature leaves the area, it becomes invisible again.
+Arcane Material Component: A handful of dust from the grave clothes of an undead creature.
+   

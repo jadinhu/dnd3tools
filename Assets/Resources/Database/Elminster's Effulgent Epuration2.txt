@@ -1,0 +1,23 @@
+<b>Elminster's Effulgent Epuration</b>(Player's Guide to FaerÃ»n)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One magic-absorbing sphere per caster level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+When you cast this spell, you bring forth one floating, silvery sphere per caster level, each about the size of your head.
+These spheres hover around you to provide protection from magical effects.
+As a standard action, you may shift the spell's effect (and thus all the spheres) to any other creature within range.
+Each of these spheres can absorb and completely negate any spell or spell-like ability, regardless of level, that directly targets the subject.
+The spheres do not automatically absorb all spells; the subject may choose whether or not to let them absorb any given spell cast upon it.
+(This option allows the creature to benefit from helpful spells).
+Area spells and spells that do not actually have a target (such as Bigby's interposing hand) cannot be absorbed.
+Once a sphere has absorbed a spell or spell-like ability, it simply fades away.
+Only spells and spell-like abilities of deific power can overcome the protection provided by Elminster's effulgent epuration.
+ <b>Also appears in</b>   Magic of Faerun     

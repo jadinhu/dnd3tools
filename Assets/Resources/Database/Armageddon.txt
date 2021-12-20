@@ -1,0 +1,27 @@
+<b>Armageddon</b>(Book of Exalted Deeds)
+
+Conjuration (Summoning) [Good]
+ <b>Level:</b>   Sanctified 9,   
+<b>Components:</b>V, S, Sacrifice
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> 2 or more summoned creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The caster opens a portal to one of the good-aligned outer planes and calls forth celestials to aid in battle against the most fearsome forces of evil.
+The spell takes place over a period of time.
+The first round, 2d4 avorals arrive.
+Two rounds later, a ghaele eladrin arrives to join the fight.
+Two rounds later, an astral deva arrives.
+Once these creatures appear, they serve the caster for the duration of the spell.
+The spell's duration begins the instant the first celestials appear.
+At the end of the spell's duration, all summoned celestials disappear at once.
+The celestials only heed the summons if the caster is of good alignment and there are evil foes to fight.
+After their arrival, the celestials obey the caster explicitly and never attack her, even if someone else manages to gain control over them.
+The caster does not need to concentrate to maintain control over the celestials.
+She can dismiss them singly or in groups at any time.
+Sacrifice: 1 character level.
+   

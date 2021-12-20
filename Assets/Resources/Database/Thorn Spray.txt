@@ -1,0 +1,23 @@
+<b>Thorn Spray</b>(Player's Guide to FaerÃ»n)
+
+Transmutation
+ <b>Level:</b>   Initiate of nature 4,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to one creature/level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You hurl a thorny plant in the direction of the targets.
+The spell transforms the plant's small thorns into a spray of thorns that deals damage to the targets you select.
+You make a normal ranged attack against each target separately, taking no penalty for lack of proficiency.
+The thorns deal a total of 1d6 points of damage per caster level (maximum 20d6), but you can divide this damage among the targets you select.
+You must choose how to divide the damage before making your attack rolls.
+Thus, an 8th-level caster can target a single creature with an attack that deals 8d6 points of damage on a successful hit, two creatures for 4d6 points of damage each, four creatures for 2d6 points of damage each, and so on.
+You may divide the damage as you wish.
+A creature that takes damage from the thorns is wracked with pain as though its body were covered with stinging nettles, and it is also sickened for 2d4 rounds.
+A successful Fortitude save negates the sickened effect.
+   

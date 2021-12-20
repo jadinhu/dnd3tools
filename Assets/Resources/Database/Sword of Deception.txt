@@ -1,0 +1,29 @@
+<b>Sword of Deception</b>(Complete Arcane)
+
+Evocation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,  Wu Jen 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Pale green blade of force
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause a blade of pale green force to appear and strike the opponent you designate, starting with one attack in the round when the spell is cast and continuing each round thereafter.
+Though it makes regular melee attacks, the sword strikes as a spell, not a weapon (and so can strike incorporeal creatures).
+A sword of deception always strikes from your direction, and so it can't be used to flank along with your regular attack, but it could flank along with your allies.
+The blade attacks with a base attack bonus equal to your caster level, dealing 1d4 points of damage per hit and threatening a critical hit on a roll of 19-20.
+In addition, each successful hit provides a -1 penalty on the target's next saving throw roll (-2 on a successful critical hit).
+This penalty is cumulative (to a maximum of -5 on a single creature) and lasts until the creature is forced to make a saving throw in a dangerous situation or receives the benefit of a remove curse spell.
+Each round, a sword of deception continues to attack the previous round's target unless you use a standard action to switch it to a new target within range.
+On any round when the weapon switches targets, it gets one attack as a standard action (as it does in the round when the spell is cast).
+The weapon can make multiple attack rolls against a single target with a full attack action if its base attack bonus permits.
+A sword of deception cannot be attacked or damaged (though it can be dispelled as any other spell).
+If an attacked creature has spell resistance, make a caster level check the first time the sword attacks.
+If successful, the sword can attack that creature with normal effect for the duration of the spell.
+If not, the sword of deception is dispelled.
+If it goes beyond the spell range or out of your sight, the sword of deception returns to you and hovers.
+Focus: A miniature replica of a sword and a set of loaded dice.
+ <b>Also appears in</b>   Oriental Adventures     

@@ -1,0 +1,21 @@
+<b>Arcane Sight</b>(Player's Handbook v.3.5, p. 201)
+
+Divination
+ <b>Level:</b>  Trapsmith 1,  Sorcerer 3,  Sha'ir 3,  Savant 3 (Arcane),  Death Master 3,  Beguiler 3,  Knight of the Weave 3,  Ebonmar Infiltrator 3,  Hoardstealer 3,  Wizard 3,  Court Herald 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level (D)
+
+ 	
+This spell makes your eyes glow blue and allows you to see magical auras within 120 feet of you.
+The effect is similar to that of a detect magic spell, but arcane sight does not require concentration and discerns aura location and power more quickly.
+You know the location and power of all magical auras within your sight.
+An aura's power depends on a spell's functioning level or an item's caster level, as noted in the description of the detect magic spell (page 219).
+If the items or creatures bearing the auras are in line of sight, you can make Spellcraft skill checks to determine the school of magic involved in each.
+(Make one check per aura; DC 15 + spell level, or 15 + one-half caster level for a nonspell effect).
+If you concentrate on a specific creature within 120 feet of you as a standard action, you can determine whether it has any spellcasting or spell-like abilities, whether these are arcane or divine (spell-like abilities register as arcane), and the strength of the most powerful spell or spell-like ability the creature currently has available for use.
+In some cases, arcane sight may give a deceptively low reading � ;for example, when you use it on a spellcaster who has used up most of his or her daily spell allotment.
+Arcane sight can be made permanent with a permanency spell.
+ <b>Also appears in</b>   Tome and Blood: A Guidebook to Wizards and Sorcerers     

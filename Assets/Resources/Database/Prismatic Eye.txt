@@ -1,0 +1,24 @@
+<b>Prismatic Eye</b>(Magic of Faerun)
+
+Evocation
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> Magical eye
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a visible orb that can fire various ray effects.
+The eye can be moved up to your speed as a move-equivalent action but cannot go beyond the spell's range.
+Starting on the round it appears, you can command the eye to fire a ray as a free action once per round.
+The ray is a ranged touch attack with a +6 attack bonus and a range of 50 feet.
+If struck, the target suffers the effect of one of the beams of a prismatic spray spell (roll randomly, rerolling 8s).
+Once a particular color ray has been used, it is no longer available to the eye.
+Once all seven rays are used, the eye remains and can be moved by you but has no other abilities.
+The eye is AC 18 (+8 size) and has 9 hit points.
+It saves as you.
+Focus: A polished rainbow-hued abalone shell.
+ <b>Also appears in</b>   Spell Compendium  Player's Guide to FaerÃ»n     

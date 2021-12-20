@@ -1,0 +1,19 @@
+<b>Fire Shuriken</b>(Spell Compendium, p. 92)
+
+Evocation [Fire]
+ <b>Level:</b>  Assassin 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> One magical shuriken/3 levels
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With dark intent you complet the quick motions of the spell and find in your hand several shuriken composed of flame.</b>
+	
+This spell creates shuriken formed of magical fire that you can throw as a normal ranged attack. You are automatically considered proficient with the fire shuriken, which have a range increment of 10 feet, threaten a critical hit on a roll of 19-20, and deal 3d6 points of fire damage each on a succesful hit (althouch you and your possessions take no damage as the shuriken are thrown). Any additional damage dealt by the fire shuriken (including your Strength bonus and sneak attack damage) is also fire damage. The suriken disappear when they hit, so they cannot set fire to combustibles or damage objects. You can create one fire shurken per three caster levels, up to a maximum of six at 18th level.
+	
+<b>Material Component:</b> A shuriken coated with pine sap and sulfur.
+ <b>Also appears in</b>   Oriental Adventures  Complete Arcane     

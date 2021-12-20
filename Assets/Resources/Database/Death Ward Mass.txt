@@ -1,0 +1,11 @@
+<b>Death Ward, Mass</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy
+ <b>Level:</b>  Cleric 8,  Druid 9,    
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like death ward (see page 217 of the Player's Handbook), except as noted above.
+ <b>Also appears in</b>   Spell Compendium     

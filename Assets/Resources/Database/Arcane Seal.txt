@@ -1,0 +1,19 @@
+<b>Arcane Seal</b>(Sharn: City of Towers, p. 168)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> The door, chest, or portal touched, up to 30 sq. ft./level in size
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell can be cast upon a door, chest, or portal. This magically seals the target and attaches a mystical alarm to this location. The focus of the spell is a platinum key: this key is mystically bound to the target of the spell and cannot be used again. The bearer of the key may freely pass the <b>arcane seal</b> without affecting it. Otherwise, a door or object secured with this spell can be opened only by breaking in or with a successful <b>dispel magic</b> or <b>knock</b> spell. Add 10 to the normal DC to break open a door or portal affected by this spell. In addition, if the door is opened in any manner, the bearer of the key receives a mental alert: a single word, set when the spell is cast.
+	
+A <b>knock</b> spell suppresses the <b>seal</b> for 10 minutes. <b>Dispel magic</b> permanently destroys the <b>seal</b> if the dispel check is successful. However, the <b>seal</b> sends its mental alert even if its magic is dispelled. A rogue or artificer can sense the presence of a <b>arcane seal</b> by making a successful Search check (DC 28). A rogue or artificer can temporarily disable the alarm using an <b>arcane key</b> (see next page).
+	
+<b>Focus:</b> A finely crafted platinum key worth 50 gp.
+   

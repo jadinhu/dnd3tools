@@ -1,0 +1,20 @@
+<b>Mesmerizing Glare</b>(Draconomicon)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature/level, no two of which may be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Directing your gaze toward the target creatures, you cause them to stop and stare blankly at you, mesmerized.
+Creatures that fail their saving throws gaze at your eyes, heedless of all else.
+Affected creatures are dazed.
+Any potential threat (such as an armed opponent moving behind the mesmerized creature) allows the creature a new saving throw.
+Any obvious threat, such as casting a spell, drawing a sword, or aiming an arrow, automatically breaks the effect, as does shaking or slapping the creature.
+A mesmerized creature's ally may shake it free of the spell as a standard action.
+ <b>Also appears in</b>   Spell Compendium     

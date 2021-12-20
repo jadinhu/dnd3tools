@@ -1,0 +1,21 @@
+<b>Animate Legion</b>(Heroes of Battle)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One or more corpses, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You use negative energy to temporarily animate one or more corpses.
+You can create undead skeletons or zombies with this spell, but you can't create more Hit Dice of undead than twice your caster level.
+The Monster Manual has game statistics for skeletons (page 226) and zombies (page 266).
+The undead created are mindless and are not initially under your command.
+Unless otherwise influenced (by way of a rebuke attempt or the control undead spell from the Player's Handbook, for instance), the undead created will attack the nearest living creatures.
+See animate dead, page 199 of the Player's Handbook, for information on what is required to create a skeleton or zombie from a corpse.
+Material Component: A black onyx gem worth at least 100 gp.
+   

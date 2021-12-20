@@ -1,0 +1,25 @@
+<b>Rejuvenation Cocoon</b>(Complete Divine)
+
+Conjuration (Healing)
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing creature touched
+ <b>Duration:</b> 2 rounds
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+With this spell, you create a temporary cocoon of energy around a creature you touch that provides healing and a measure of protection.
+When you cast the spell, the cocoon forms around the target.
+The glowing, yellow-green cocoon is made of force, but it is somewhat flexible and responds to pressure from the inside of the cocoon.
+The cocoon initially forms a few inches from the target, but deforms enough to allow the target to reach into a backpack, cast a spell with a somatic component, draw a weapon, or perform similar actions.
+The target can't move from the space it is in while cocooned, however.
+Nor can it leave the rejuvenation cocoon early without using teleportation magic or dealing enough damage to destroy the cocoon.
+The cocoon has hardness 10 and 10 hit points per caster level.
+If it is destroyed, the spell ends.
+One round after the cocoon forms, it heals the target of 10 points of damage per caster level and purges the target of poison and disease.
+At the end of the second round, the rejuvenation cocoon dissipates and the target emerges, able to move and act freely.
+Material Component: Cocoon from a butterfly.
+ <b>Also appears in</b>   Spell Compendium     

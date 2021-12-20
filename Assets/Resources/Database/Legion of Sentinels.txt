@@ -1,0 +1,23 @@
+<b>Legion of Sentinels</b>(Player's Handbook II)
+
+Illusion (Shadow)
+ <b>Level:</b>  Beguiler 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 10-ft.-radius emanation centered on a point in space
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A phalanx of spectral swordfighters appears. Their blades are drawn, and they stand ready to strike. 
+	
+A ghostly, incorporeal swordfighter appears in each square covered by this spell's area. A swordfighter can share a space with another creature or object. Each swordfighter threatens the squares adjacent to it and canmake one attack of opportunity per round. The swordfighters do not hinder movement, block terrain, or block line of effect. They can flank an opponent with each other and with your allies.
+	
+Each swordfighter has hit points equal to twice your caster level and an Armor Class of 25. It makes saving throws or checks with a bonus equal to your caster level. 
+	
+The swordsmen's attacks are at a bonus equal to your caster level, they threaten critical hits on a 19 or 20, and they deal 1d8 points of slashing damage with a +1 bonus per three caster levels (max +5). They only make attacks of opportunity, and their weapon damage is slashing and is affected by damage reduction.
+	
+Material Component: A pewter swordfighter miniature figure.
+   

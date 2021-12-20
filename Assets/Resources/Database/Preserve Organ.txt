@@ -1,0 +1,19 @@
+<b>Preserve Organ</b>(Book of Vile Darkness)
+
+Necromancy
+ <b>Level:</b>  Cleric 0,  Druid 0,  Sorcerer 0,  Wizard 0,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Effect:</b> One organ
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster preserves a single severed organ from a living creature so that it does not decay or rot.
+Evil casters use preserved organs as material spell components.
+There are ritual uses for body parts as well.
+The organ is kept in the exact state it was in when the spell was cast.
+If a heart is still beating and bloody, for example, then it remains that way.
+   

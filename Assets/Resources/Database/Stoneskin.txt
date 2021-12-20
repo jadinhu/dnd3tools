@@ -1,0 +1,19 @@
+<b>Stoneskin</b>(Player's Handbook v.3.5, p. 284)
+
+Abjuration
+ <b>Level:</b>  Trapsmith 2,  Fatemaker 4,  Sorcerer 4,  Wizard 4,  Death Master 4,  Adept 4,  Sha'ir 4,  Runescarred Berserker 4,  Wu Jen 4 (Earth),  Druid 5,  Disciple of Thrym 5,  Urban Druid 5,   Endurance 5,  Earth 6,  Strength 6,  Dragon 6,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 min./level or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The warded creature gains resistance to blows, cuts, stabs, and slashes.
+The subject gains damage reduction 10/adamantine.
+(It ignores the first 10 points of damage each time it takes damage from a weapon, though an adamantine weapon bypasses the reduction).
+Once the spell has prevented a total of 10 points of damage per caster level (maximum 150 points), it is discharged.
+Material Component: Granite and 250 gp worth of diamond dust sprinkled on the target's skin.
+   

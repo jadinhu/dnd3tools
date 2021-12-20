@@ -1,0 +1,17 @@
+<b>Healthful Slumber</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Conjuration (Healing)
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Living creatures within range
+ <b>Duration:</b> 1 day
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Healthful slumber doubles the subjects' natural healing rate.
+Each affected creature regains twice the hit points it otherwise would have during that day, depending on activity level.
+Focus: The caster's instrument.
+   

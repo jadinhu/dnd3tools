@@ -1,0 +1,19 @@
+<b>Castigate</b>(Spell Compendium, p. 44)
+
+Evocation [Sonic]
+ <b>Level:</b>  Cleric 4,  Paladin 4,   Purification 4,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Shouting your deity's teachings, you rebuke your foes with the magic of your sacred words.</b>
+	
+This spell has no effect on creatures that cannot hear. All creatures whose alignment differs from yours on both the law � ;chaos and the good � ;evil axes take 1d4 points of damage per caster level (maximum 10d4). All creatures whose alignment differs from yours on one component take half damage, and this spell does not deal damage to those who share your alignment. For example, a lawful good cleric who casts this spell deals full damage to any creature that is not lawful and not good, half damage to any creature that is lawful or good (but not both), and no damage to lawful good creatures.
+	
+A Fortitude saving throw reduces damage by half.
+ <b>Also appears in</b>   Oriental Adventures  Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins     

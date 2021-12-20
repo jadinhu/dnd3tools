@@ -1,0 +1,20 @@
+<b>Truename Dispel</b>(Tome of Magic)
+
+Abjuration
+ <b>Level:</b>  Bard 6,  Cleric 8,  Druid 8,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, <abbr title="True Name">TN, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+By speaking aloud the personal truename of your foe and pointing with arm outstretched, you cause a gray haze to swirl around your target briefly.
+Then the haze dissipates, carrying your enemy's magic with it.
+This spell enables you to see the strands of magic surrounding your target and selectively separate them.
+This functions like the dispel magic spell, except that it always targets a creature, you learn the nature of each ongoing magical effect currently affecting the target creature, and effects you want to dispel are automatically removed (no caster level check is necessary), if you succeed on the Truespeak check, you can choose which effects you want to dispel.
+Thus, you can eliminate harmful effects while retaining beneficial ones � ;or vice versa.
+Truename Component: When you cast this spell, you must correctly speak the personal truename of the creature you're targeting with truename dispel.
+   

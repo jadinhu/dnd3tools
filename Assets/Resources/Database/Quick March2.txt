@@ -1,0 +1,17 @@
+<b>Quick March</b>(Spell Compendium)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Paladin 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Allies in a 20-ft.-radius burst
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Upon casting this spell, your feet and those of your allies glow with a yellow nimbus of light.</b>
+	
+Quick march increases your allies' base land speed by 30 feet. (This adjustment is considered an enhancement bonus.) There is no effect on other modes of movement, such as burrow, climb, fly, or swim. As with any effect that increases a creature's speed, this spell affects maximum jumping distance.
+ <b>Also appears in</b>   Miniatures Handbook     

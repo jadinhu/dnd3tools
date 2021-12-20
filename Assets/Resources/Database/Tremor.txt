@@ -1,0 +1,17 @@
+<b>Tremor</b>(Spell Compendium, p. 223)
+
+Evocation [Earth]
+ <b>Level:</b>  Druid 3,  Cleric 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 40-ft.-radius spread
+ <b>Duration:</b> 1 round/3 levels
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>When you cast this spell, a small, localized tremor shakes the ground in the area. Detritus and loose debris rattle with the small quake, and creatures caught in the area stumble and fall.</b>
+	
+This minor quake is not strong enough to damage structures. The effect lasts for 1 round per three caster levels, during which time any spellcaster on the ground in the area must succeed on a Concentration check (DC 15 + spell level) or lose any spell she is casting. A creature attempting to use a skill that would provoke attacks of opportunity (such as Disable Device, Heal, Open Lock, and Use Rope, among others) must succeed on a DC 15 Concentration check, or the action automatically fails and is wasted. Each creature in the area must make a Reflex save each round or be knocked prone.
+   

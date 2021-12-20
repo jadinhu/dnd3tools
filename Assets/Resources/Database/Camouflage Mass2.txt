@@ -1,0 +1,17 @@
+<b>Camouflage, Mass</b>(Ghostwalk)
+
+Transmutation
+ <b>Level:</b>  Druid 4,  Ranger 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Any number of creatures, no two of which can be more than 60 ft. apart
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+As camouflage, except the effect is mobile with the group.
+The spell is broken for any individual who moves more than 60 feet from the nearest member of the group.
+(If only two individuals are affected, the one moving away from the other one loses its camouflage.
+If both are moving away from each other, they both become visible when the distance between them exceeds 60 feet).
+This spell first appeared in Magic of FaerÃ»n.
+ <b>Also appears in</b>   Magic of Faerun     

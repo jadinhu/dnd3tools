@@ -1,0 +1,9 @@
+<b>Improved Blindsight</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Druid 4,  Sorcerer 4,  Wizard 4,  Cleric 5,    
+<b>Components:</b>
+
+ 	
+As blindsight, except as noted above and that the blindsight granted by the spell has a 60-foot range.
+   

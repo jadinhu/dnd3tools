@@ -1,0 +1,19 @@
+<b>Interplanar Message</b>(Spell Compendium, p. 124)
+
+Evocation [Language-Dependent]
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> See text
+ <b>Target:</b> One creature
+ <b>Duration:</b> 24 hours/level or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Your spell creates a bond between yourself and the creature you touch, a bond unbroken even by the distance between planes. This spell allows you to send a limited message of twenty-five words or less to the targeted creature, who can be on another plane when the message is received.</b>
+	
+Casting the spell takes a standard action, during which you touch the creature you intend to communicate with. That creature should be able to understand a language you know (otherwise, when the magic is activated, the creature knows that you sent the message, but has no idea what the message is). At any time afterward, you can send your interplanar message to that creature.
+The message pops into the target's mind, awake or asleep, and the target is aware that the message has been delivered. If the message arrives when the target is asleep, it might appear as a vivid dream that the target remembers upon awakening.
+This spell does not obligate nor force the creature you communicate with to act. The target cannot reply to tell you its plans or intentions. The message travels through the Astral Plane to reach its target, so the spell cannot reach planes separate from (not coterminous to or coexistent with) the Astral Plane. You can have only one interplanar message active at any given time.
+ <b>Also appears in</b>   Manual of the Planes     

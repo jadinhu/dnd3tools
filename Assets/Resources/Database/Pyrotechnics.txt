@@ -1,0 +1,28 @@
+<b>Pyrotechnics</b>(Player's Handbook v.3.5, p. 267)
+
+Transmutation
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,  Warmage 2,  Vigilante 2,  Wu Jen 2 (Fire),  Sha'ir 2,  Jester 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One fire source, up to a 20-ft. cube
+ <b>Duration:</b> 1d4+1 rounds, or 1d4+1 rounds after creatures leave the smoke cloud; see text
+ <b>Saving Throw:</b> Will negates or Fortitude negates; see text
+ <b>Spell Resistance:</b> Yes or No; see text
+
+ 	
+Pyrotechnics turns a fire into either a burst of blinding fireworks or a thick cloud of choking smoke, depending on the version you choose.
+Fireworks: The fireworks are a flashing, fiery, momentary burst of glowing, colored aerial lights.
+This effect causes creatures within 120 feet of the fire source to become blinded for 1d4+1 rounds (Will negates).
+These creatures must have line of sight to the fire to be affected.
+Spell resistance can prevent blindness.
+Smoke Cloud: A writhing stream of smoke billows out from the source, forming a choking cloud.
+The cloud spreads 20 feet in all directions and lasts for 1 round per caster level.
+All sight, even darkvision, is ineffective in or through the cloud.
+All within the cloud take -4 penalties to Strength and Dexterity (Fortitude negates).
+These effects last for 1d4+1 rounds after the cloud dissipates or after the creature leaves the area of the cloud.
+Spell resistance does not apply.
+Material Component: The spell uses one fire source, which is immediately extinguished.
+A fire so large that it exceeds a 20-foot cube is only partly extinguished.
+Magical fires are not extinguished, although a fire-based creature (such as a fire elemental) used as a source takes 1 point of damage per caster level.
+   

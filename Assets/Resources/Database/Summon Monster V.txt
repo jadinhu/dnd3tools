@@ -1,0 +1,22 @@
+<b>Summon Monster V</b>(Player's Handbook v.3.5, p. 286)
+
+Conjuration (Summoning) [see text for summon monster I]
+ <b>Level:</b>  Bard 5,  Cleric 5,  Sorcerer 5,  Wizard 5,  Nar Demonbinder 5,  Wu Jen 5,  Sha'ir 5,   Celestia 5,  Abyss 5,  Arborea 5,  Baator 5,  Summoner 5,   
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more summoned creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>summon monster I</b>, except that you can summon one creature from the 5th-level list, 1d3 creatures of the same kind from the 4th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
+	
+Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
+	<b>Special</b>	
+When casting <b>Summon Monster V</b> as a Abyss Domain spell, only Chaotic Evil creatures may be summoned.
+When casting <b>Summon Monster V</b> as a Arborea Domain spell, only Chaotic Good creatures may be summoned.
+When casting <b>Summon Monster V</b> as a Baator Domain spell, only Lawful Evil creatures may be summoned.
+When casting <b>Summon Monster V</b> as a Celestia Domain spell, only Lawful Good creatures may be summoned.
+	<b>5TH <span class="caps">LEVEL</span></b>	<table>		<tr>			<th><b>Monster</b> </th>			<th><b>Alignement</b> </th>		</tr>		<tr>			<td> Archon, hound </td>			<td> LG </td>		</tr>		<tr>			<td> Celestial brown bear </td>			<td> LG </td>		</tr>		<tr>			<td> Celestial giant stag beetle </td>			<td> NG </td>		</tr>		<tr>			<td> Celestial sea cat <sup>1</sup> </td>			<td> NG </td>		</tr>		<tr>			<td> Celestial griffon </td>			<td> CG </td>		</tr>		<tr>			<td> Elemental, Medium (any) </td>			<td> N </td>		</tr>		<tr>			<td> Achaierai </td>			<td> LE </td>		</tr>		<tr>			<td> Devil, bearded </td>			<td> LE </td>		</tr>		<tr>			<td> Fiendish deinonychus </td>			<td> LE </td>		</tr>		<tr>			<td> Fiendish dire ape </td>			<td> LE </td>		</tr>		<tr>			<td> Fiendish dire boar </td>			<td> NE </td>		</tr>		<tr>			<td> Fiendish shark, Huge </td>			<td> NE </td>		</tr>		<tr>			<td> Fiendish monstrous scorpion, Large </td>			<td> NE </td>		</tr>		<tr>			<td> Shadow mastiff </td>			<td> NE </td>		</tr>		<tr>			<td> Fiendish dire wolverine </td>			<td> CE </td>		</tr>		<tr>			<td> Fiendish giant crocodile </td>			<td> CE </td>		</tr>		<tr>			<td> Fiendish tiger </td>			<td> CE </td>		</tr>		<tr>			<td colspan="2"><sup>1</sup> may be summoned only into an aquatic or watery environment </td>		</tr>	</table>   

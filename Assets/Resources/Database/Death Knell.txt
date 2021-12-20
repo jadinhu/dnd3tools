@@ -1,0 +1,20 @@
+<b>Death Knell</b>(Player's Handbook v.3.5, p. 217)
+
+Necromancy [Death, Evil]
+ <b>Level:</b>  Cleric 2, Blackguard 2,  Blighter 2,  Death Master 2,  Dread Necromancer 2,   Death 2,  Abyss 2,  Gluttony 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous/10 minutes per HD of subject; see text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You draw forth the ebbing life force of a creature and use it to fuel your own power.
+Upon casting this spell, you touch a living creature that has -1 or fewer hit points.
+If the subject fails its saving throw, it dies, and you gain 1d8 temporary hit points and a +2 bonus to Strength.
+Additionally, your effective caster level goes up by +1, improving spell effects dependent on caster level.
+(This increase in effective caster level does not grant you access to more spells).
+These effects last for 10 minutes per HD of the subject creature.
+   

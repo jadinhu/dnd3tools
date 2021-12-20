@@ -1,0 +1,18 @@
+<b>Summon Weapon</b>(Complete Mage)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Assassin 2,  Bard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Nonmagical light weapon
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A weapon appears in your hand, ready for use.
+You conjure a nonmagical light weapon sized for you.
+The weapon is normal in every respect.
+It can't be made of any unusual metal, nor is it masterwork.
+   

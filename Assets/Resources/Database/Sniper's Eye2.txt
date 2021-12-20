@@ -1,0 +1,20 @@
+<b>Sniper's Eye</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Transmutation
+ <b>Level:</b>  Assassin 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Effect:</b> Personal
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell magically enhances your senses, making you deadly with ranged weapons.
+When you cast sniper's eye, you gain the following benefits:			Darkvision as a spell-like ability, lasting for the duration of sniper's eye.		The ability to make a ranged sneak attack against anyone within 60 feet, rather than the usual 30 feet.		The ability to make a death attack with a ranged weapon within 30 feet.		A +15 competence bonus on Spot checks.	
+Sniper's eye attunes you completely to the vantage point you have when you cast the spell.
+You understand the nuances of the breeze and every angle and shadow � ;from that spot.
+If you move more than 5 feet from there, you lose the benefits of sniper's eye until you return within the spell's duration.
+Material Component: A magnifying glass lens.
+ <b>Also appears in</b>   Spell Compendium  Complete Adventurer     

@@ -1,0 +1,24 @@
+<b>Nar Fiendbond</b>(Lost Empires of Faerun)
+
+Transmutation
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Touch
+ <b>Target:</b> One humanoid with Int 4 or higher
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You turn the subject into a half-fiend by imbuing it with the essence of the infernal planes.
+The subject can have no more character levels than you do, and it must either be willing to undergo the transformation or be restrained in some manner.
+Upon completion of the spell, the subject can attempt a Will save to avoid gaining the half-fiend template (see page 147 of the Monster Manual).
+In addition, the subject's type changes to outsider, and the moral component of its alignment changes to evil.
+For the purpose of this spell, treat the half-fiend template as an acquired template rather than an inherited one.
+The newly created half-fiend also gains a +4 level adjustment, raising the XP required for it to achieve its next character level.
+For example, a 5th-level sorcerer who becomes a half-fiend by means of this spell becomes a 9th-level character who needs 45,000 XP to gain his sixth class level.
+You cannot cast Nar fiendbond on yourself.
+Arcane Material Component: Precious gems with a total value equal to the XP cost of the spell.
+XP Cost: 500 XP per character level of the half-fiend created.
+   

@@ -1,0 +1,18 @@
+<b>Blessing of the Righteous</b>(Player's Handbook II)
+
+Evocation [Good]
+ <b>Level:</b>  Cleric 4,  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 40 ft.
+ <b>Area:</b> All allies in a 40-ft.-radius burst centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+A sudden burst of warm, radiant light engulfs you and your allies.
+The light fades quickly but lingers on the weapons of those affected.
+You bless yourself and your allies.
+You and your allies'melee and ranged attacks deal an extra 1d6 points of holy damage and are considered good-aligned for the purpose of overcoming damage reduction.
+   

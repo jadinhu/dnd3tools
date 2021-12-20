@@ -1,0 +1,20 @@
+<b>Plague</b>(Player's Handbook II)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 7,  Druid 7,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature/level, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your skin crawls as you utter the words and complete the gestures of this spell.
+Suddenly, one or more of the target creatures seem overcome by a dreadful malady.
+The subjects contract a disease selected from the table below, which strikes immediately (no incubation period).
+The disease progresses rapidly; the subjects must attempt additional saves each round, instead of each day.
+Use plague's DC for all saves.
+See page 292 of the Dungeon Master's Guide for more information on these diseases.
+   

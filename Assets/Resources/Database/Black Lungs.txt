@@ -1,0 +1,18 @@
+<b>Black Lungs</b>(Ghostwalk)
+
+Necromancy
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause the target to succumb to an infection and corruption of the lungs.
+An affected creature's speed is reduced by half, it loses any Dexterity bonus to Armor Class, and it takes a -2 penalty on attack rolls.
+Remove disease may end the effects of this spell early.
+This spell was created by the clerics of Khostren.
+   

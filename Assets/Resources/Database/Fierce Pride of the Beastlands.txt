@@ -1,0 +1,22 @@
+<b>Fierce Pride of the Beastlands</b>(Planar Handbook)
+
+Conjuration (Summoning) [Chaotic, Good]
+ <b>Level:</b>  Cleric 8,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Two or more summoned creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 10 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell summons a pride of celestial lions from the Wilderness of the Beastlands.
+When the spell is complete, 2d4 celestial lions appear.
+Ten minutes later, 1d4 celestial dire lions appear.
+Each creature has maximum hit points per Hit Die.
+Once these creatures appear, they serve you for the duration of the spell.
+The creatures obey you explicitly and never attack you, even if someone else manages to gain control over them.
+You do not need to concentrate to maintain control over the creatures.
+You can dismiss them singly or in groups at any time.
+   

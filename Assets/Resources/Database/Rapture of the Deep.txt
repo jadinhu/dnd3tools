@@ -1,0 +1,19 @@
+<b>Rapture of the Deep</b>(Stormwrack, p. 120)
+
+Enchantment (Charm) [Mind-Affecting]
+ <b>Level:</b>  Bard 6,    
+<b>Components:</b>V, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> One living creature
+ <b>Duration:</b> Permanent (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You fill the target creature's thoughts and ears with the sublime music of the deep waters. The creature is completely immersed in this sensation and does nothing but experience it fully. It enters a comatose state and cannot be awakened by any means short of dispelling the effect. This is not a sleep effect, so elves and dragons are not immune to it. <b>Dispel magic</b> and <b>break enchantment</b> cannot remove this effect, but a <b>heal</b>, <b>limited wish</b>, <b>miracle</b>, or <b>wish</b> spell restores the creature to consciousness.
+	
+An air-breathing creature in the water affected by this spell begins to sink and will drown if not rescued. A flying creature immediately falls and might take falling damage. Damage does not awaken the charmed creatures.
+	
+<b>Focus</b>: A conch shell.
+   

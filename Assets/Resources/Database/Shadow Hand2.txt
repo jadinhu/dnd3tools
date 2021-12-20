@@ -1,0 +1,23 @@
+<b>Shadow Hand</b>(Spell Compendium, p. 183)
+
+Illusion (Shadow)
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Medium shadowy hand
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You intone the spell, and an enormous hand made out of thick gray fog floats in the air before you.</b>
+	
+You create a floating Medium hand made of shadow material. A shadow hand is an opaque gray color, 5 feet long, and 5 feet wide with its fingers outstretched. It can grant total concealment against a single opponent you designate, carry materials as <b>Tenser's floating disk</b> (PH 294), or point or gesture as a normal hand does.
+	
+The hand has an AC of 18 (+6 natural, +2 deflection) and has half as many hit points as your full normal total. It can be damaged just as <b>Bigby's interposing hand</b> (PH 204) can be, and it makes all saving throws as if it were you.
+	
+Changing the hand's task or target is a standard action, and it can move anywhere in range. If not given any commands, the hand follows you at your speed, maintaining the same distance from you. The spell ends if the hand moves out of the spell's range.
+	
+If carrying items and commanded to do something else, the hand drops whatever it is holding to complete its task (you can order the hand to rid itself of items gently as a standard action). Unlike Tenser's floating disk, it does not have to follow you at a fixed distance � ;you direct where the hand goes.
+ <b>Also appears in</b>   Magic of Faerun     

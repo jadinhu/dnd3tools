@@ -1,0 +1,21 @@
+<b>Iron Construct</b>(Eberron Campaign Setting, p. 113)
+
+Transmutation
+ <b>Level:</b>  Artificer 4,   Warforged 6,   
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Construct touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You transform an existing construct into a powerhouse of hardened iron, similar to the effect of the <b>iron body</b> spell. The construct gains damage reduction 15/adamantine. It takes half damage from acid and fire attacks of all kinds. Even if it is not a golem, however, it becomes vulnerable to all special attacks that affect iron golems.
+	
+The construct gains a +4 enhancement bonus to Strength, but takes a � ;4 penalty to Dexterity as well (to a minimum Dexterity of 1).
+	
+The construct's weight increases by a factor of five.
+	
+<b>Material Component:</b> A small piece of iron that was once part of an iron golem, a hero's armor, or a war machine.
+   

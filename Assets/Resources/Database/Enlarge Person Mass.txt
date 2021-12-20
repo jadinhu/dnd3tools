@@ -1,0 +1,10 @@
+<b>Enlarge Person, Mass</b>(Player's Handbook v.3.5, p. 227)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,  Sha'ir 4,    
+<b>Components:</b>
+ <b>Target:</b> One humanoid creature/level, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like enlarge person, except that it affects multiple creatures.
+   

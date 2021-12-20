@@ -1,0 +1,17 @@
+<b>True Creation</b>(Eberron Campaign Setting, p. 117)
+
+Conjuration (Creation)
+ <b>Level:</b>   Artifice 8,   
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25ft. + 5ft./2 levels)
+ <b>Effect:</b> Unattended, nonmagical object of nonliving plant matter, up to 1 cu. ft./level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+As <b>major creation</b> ,except items created are permanent and cannot be negated by dispelling magic or negating powers. For all intents and purposes, these items are completely real.
+	
+XP Cost: The item's gold piece value, or a minimum of 1 XP.
+ <b>Also appears in</b>   Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins  Deities and Demigods  Spell Compendium     

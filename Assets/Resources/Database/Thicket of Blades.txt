@@ -1,0 +1,14 @@
+<b>Thicket of Blades</b>(Tome of Battle: The Book of Nine Swords, p. 61)
+
+Devoted Spirit (Stance)
+ <b>Level:</b>  Crusader 3 (One Devoted Spirit maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> stance
+
+ 	
+<b>You maintain a careful guard as you search for any gaps in your opponent?s awareness. Even the slightest move provokes a stinging counter from you.</b>
+	
+While you are in this stance, any opponent you threaten that takes any sort of movement, including a 5-foot step, provokes an attack of opportunity from you. Your foes provoke this attack before leaving the area you threaten. Your opponents also cannot use the withdraw action (PH 143) to treat the square they start in as no longer threatened by you.</p   

@@ -1,0 +1,13 @@
+<b>Baffling Defense</b>(Tome of Battle: The Book of Nine Swords, p. 70)
+
+Setting Sun (Counter)
+ <b>Level:</b>  Swordsage 2 (One Setting Sun maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>You crouch balanced on one foot, hands held high over your head. Your foe hesitates, unsure of how to attack you in this unlikely stance.</b>
+	
+If your opponent strikes you on his turn, you can replace your AC with the result of a Sense Motive check as an immediate action. You must decide whether to initiate this maneuver before you know the result of your opponent?s attack (but after the attack is declared). Your Sense Motive check applies to only one attack. You must be aware of the attack to which you will apply the effect of this maneuver. If you are flat-footed against the incoming attack, you cannot use this maneuver.</p   

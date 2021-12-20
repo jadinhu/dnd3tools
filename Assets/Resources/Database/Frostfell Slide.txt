@@ -1,0 +1,15 @@
+<b>Frostfell Slide</b>(Frostburn)
+
+Conjuration (Teleportation) [Cold]
+ <b>Level:</b>  Druid 4,  Ranger 4,    
+<b>Components:</b>V, S, DF, Frostfell
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level or until expended; see text
+
+ 	
+You gain the ability to instantly teleport from one area of slush, snow, or ice to any other area of slush, snow, or ice up to the distance indicated on the table below.
+Transport distance is based upon the substance touched at the point of departure, not at the point of arrival.
+You may wait to travel in this manner up to the duration of the spell, holding the charge, but immediately upon arriving at the destination point, the spell ends.
+   

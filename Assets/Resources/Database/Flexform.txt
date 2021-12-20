@@ -1,0 +1,18 @@
+<b>Flexform</b>(Secrets of Sarlona, p. 127)
+
+Transmutation
+ <b>Level:</b>  Bard 2,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>A shimmering light traces its way across the body of the creature you touch. As the light fades, the target's limbs and torso begin to flex and compress elastically.</b>
+	
+When you touch a creature, its form (including any gear, armor, and weapons) shifts and deforms according to its surroundings. This effect grants a +10 bonus on Escape Artist and Tumble checks, and allows Tumble checks to be made untrained. As well, the subject can squeeze into a space half as wide as its normal space (PH 148) with no penalties to movement, attack rolls, and AC. The subject is able to move freely through squares occupied by creaÂ­tures only one size category larger than it, rather than three size categories larger (PH 148).
+	
+Material Component: A small glob of gum resin.</p   

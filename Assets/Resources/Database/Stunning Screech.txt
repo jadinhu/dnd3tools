@@ -1,0 +1,18 @@
+<b>Stunning Screech</b>(Book of Vile Darkness)
+
+Evocation [Evil, Sonic]
+ <b>Level:</b>  Demonologist 2,  Bard 3,    
+<b>Components:</b>V, S, M, Drug
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 30 ft.
+ <b>Target:</b> All creatures within range
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster emits a piercing screech like that of a vrock demon.
+Every creature within the area is stunned for 1 round.
+Material Component: Feather of a large bird or a vrock.
+Drug Component:Mushroom powder.
+   

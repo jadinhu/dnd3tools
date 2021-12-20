@@ -1,0 +1,18 @@
+<b>Hunter's Eye</b>(Player's Handbook II)
+
+Divination
+ <b>Level:</b>  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+Your vision blurs for a moment.
+When it clears, you can see through your enemies' skin to spot their arteries, organs, and other vulnerable points.
+Your slice into a foe with uncanny precision, allowing you to strike a foe's vulnerable points and deal extra damage.
+This spell grants you the sneak attack ability.
+You deal an extra 1d6 points of damage per three caster levels.
+If you already have the sneak attack ability, this damage stacks with it.
+   

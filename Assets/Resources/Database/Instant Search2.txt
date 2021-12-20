@@ -1,0 +1,15 @@
+<b>Instant Search</b>(Spell Compendium, p. 124)
+
+Divination
+ <b>Level:</b>  Assassin 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>By pointing at a small area nearby and whistling briefly, you release the power of the spell, granting you knowledge of the area you indicated.</b>
+	
+You can make one Search check in this round as a free action. You gain a +2 insight bonus on the check.
+ <b>Also appears in</b>   Complete Adventurer     

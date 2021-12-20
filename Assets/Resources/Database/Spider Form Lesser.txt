@@ -1,0 +1,18 @@
+<b>Spider Form, Lesser</b>(Drow of the Underdark)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Your arms and legs wither away as eight spindly spider legs burst through your flesh.
+As the transformation finishes, your skin hardens into a dark exoskeleton.
+You take on the form and abilities of a Medium fiendish monstrous spider (MM 289).
+You are treated as having the spider's Hit Dice (2) for the purpose of adjudicating the special abilities gained from the fiendish template.
+You gain 5 temporary hit points, which disappear at the end of the spell's duration.
+See page 59 for details of the polymorph subschool.
+   

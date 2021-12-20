@@ -1,0 +1,15 @@
+<b>Ectoplasmic Armor</b>(Libris Mortis: The Book of the Dead)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D)
+
+ 	
+You gain a +5 armor bonus to AC, with an additional +1 to the bonus for every four caster levels you have (maximum +9 bonus at 16th level).
+This armor bonus applies only against incorporeal touch attacks.
+All other attacks ignore the armor bonus from ectoplasmic armor.
+ <b>Also appears in</b>   Spell Compendium     

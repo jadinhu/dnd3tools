@@ -1,0 +1,29 @@
+<b>Return to Nature</b>(Eberron Campaign Setting, p. 114)
+
+Transmutation
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>V, S, DF, Gatekeeper
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The target creature draws closer to an ideal state of nature, with specific effects that depend on the creature's type and abilities.
+	
+Animals, elementals, fey, outsiders with an elemental subtype (air, earth, fire, or water), oozes, plants, and vermin are unaffected by the spell.
+	
+Humanoids who are arcane spellcasters, as well as all monstrous humanoids, gain 1d4 negative levels when subjected to this spell.
+	
+Giants subjected to this spell become smaller, as though affected by a <b>reduce person</b> spell (see page 269 of the Player's Handbook). A successful Fortitude save negates this effect.
+	
+Dragons and magical beasts subjected to this spell take 1d6 points of Intelligence damage and lose the use of 1d4 supernatural or spell-like abilities, chosen at random. A successful Fortitude save reduces the Intelligence damage to half and negates the loss of abilities.
+	
+Outsiders with no elemental subtype take 1d8 points of damage per two caster levels (maximum 10d8) and lose the use of 2d4 supernatural or spell-like abilities, chosen at random. A successful Fortitude save reduces the damage to half and negates the loss of abilities.
+	
+Aberrations take 1d6 points of damage per caster level (maximum 20d6) and lose the use of all supernatural and spell-like abilities. A successful Fortitude save reduces the damage to half and negates the loss of abilities.
+	
+Lost supernatural and spell-like abilities return after 24 hours.
+   

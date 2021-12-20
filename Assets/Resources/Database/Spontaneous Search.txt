@@ -1,0 +1,19 @@
+<b>Spontaneous Search</b>(Spell Compendium, p. 204)
+
+Divination
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>With a leisurely wave and a declaration of boredom, you complete the spell. You instantly become aware of the location and types of objects in the spell's area, as if you had made a quick search.</b>
+	
+The subject of this spell knows the contents of a 20-foot-radius burst, as if it had taken 10 on a Search check for each object and space in the burst radius, including noting the location of traps (though only a rogue can locate those traps with a DC greater than 20).
+	
+Material Component: A silk glove.
+   

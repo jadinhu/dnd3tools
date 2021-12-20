@@ -1,0 +1,12 @@
+<b>Spider Form, Greater</b>(Drow of the Underdark)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>
+
+ 	
+Your body inflates grotesquely as eight enormous spider legs burst through your flesh.
+As the transformation finishes, your skin hardens into a dark exoskeleton.
+As lesser spider form, except you take on the form and abilities of a Huge fiendish monstrous spider (MM 289).
+You are treated as having the spider's Hit Dice (8) for the purpose of adjudicating the special abilities gained from the fiendish template.
+   

@@ -1,0 +1,12 @@
+<b>Daze Monster</b>(Player's Handbook v.3.5, p. 217)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,  Fatemaker 2,  Beguiler 2,  Sha'ir 2,  Death Master 2,  Jester 2,    
+<b>Components:</b>
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature of 6 HD or less
+
+ 	
+This spell functions like daze, but daze monster can affect any one living creature of any type.
+Creatures of 7 or more HD are not affected.
+   

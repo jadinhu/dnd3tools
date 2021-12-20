@@ -1,0 +1,18 @@
+<b>Dispel Possession</b>(Ghostwalk)
+
+Abjuration [Ectomancy]
+ <b>Level:</b>  Bard 4,  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You force a being that is possessing a creature out of its host body.
+The possessor acts as if it had left its host voluntarily (a ghost appears next to the host, a person using magic jar returns to its receptacle if in range or dies if it is not, and so on).
+Alternatively, this spell may be used as a form of dispel magic to dispel a charm, dominate, or similar effect on a target.
+Material Component: powered silver worth 1 gp.
+   

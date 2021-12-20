@@ -1,0 +1,19 @@
+<b>Illusory Pit</b>(Complete Arcane)
+
+Illusion (Figment)
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 10-ft. cube/level
+ <b>Duration:</b> Concentration + 1 round/level
+ <b>Saving Throw:</b> Will partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create an illusory pit, and each creature entering or within the area is forced to make a Will save or believe the floor on which it stands has become a bottomless chasm.
+On a successful save, creatures suffer a mild case of vertigo and are stunned for 1 round, but those that fail their saves fall prone and are unable to take any action except clawing desperately at the floor in the hopes of stopping their apparent fall.
+An attack on an affected creature frees it from the effect of the illusion but leaves it stunned for 1 round.
+Likewise, when the spell ends, creatures that believed they were falling are stunned for 1 round.
+Flying creatures passing over an illusory pit that succeed on a Will save are unaffected by the spell, but those that fail are stunned for 1 round.
+ <b>Also appears in</b>   Spell Compendium  Savage Species     

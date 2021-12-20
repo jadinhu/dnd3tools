@@ -1,0 +1,17 @@
+<b>Ice Darts</b>(Frostburn)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more ice darts
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A sharp, transparent icicle shoots from your fingertip.
+You may fire one dart, plus one additional dart for every two levels beyond 3rd (to a maximum of five darts at 11th level).
+Each dart requires a ranged touch attack to hit and deals 2d4 points of damage, half of which is cold damage.
+   

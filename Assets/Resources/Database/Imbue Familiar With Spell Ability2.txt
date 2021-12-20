@@ -1,0 +1,20 @@
+<b>Imbue Familiar With Spell Ability</b>(Spell Compendium, p. 120)
+
+Universal
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Familiar touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Upon completion of this spell, you feel as if you had just cast a number of spells in quick succession. Your familiar gives you a knowing nod.</b>
+	
+This spell allows you to transfer a number of your spells and the ability to cast them into your familiar. Spontaneous spellcasters, such as sorcerers, can imbue a familiar with any spells they know how to cast, subject to the restrictions below. Arcanists who prepare spells, such as wizards, can imbue a familiar with any spell they have currently prepared. In either case, you can imbue one spell per three caster levels, with a maximum spell level of one-third your caster level, rounded down (maximum 5th level). Multiple castings of imbue familiar with spell ability have no effect on these limits.
+The transferred spell's variable characteristics (range, duration, area, and so on) function according to your level. Once you cast imbue familiar with spell ability on your familiar, both the spell slot from which you cast the spell and the spell slots of the transferred spells remain unavailable for the preparation or casting of new spells until the familiar uses the transferred spells or imbue familiar with spell ability expires.
+The spell can be dispelled; if this happens, the spells transferred are lost as if the familiar had cast them. In an antimagic field, the familiar loses the ability to cast the imbued spells, but regains it again if it leaves the field (as long as the spell's duration hasn't expired).
+If any transferred spell requires a focus or material component, you must have it on your person when the spells are cast (components are consumed as normal without requiring you to bring them to hand). Any XP costs from a transferred spell are deducted from your total when the familiar casts the spell.
+ <b>Also appears in</b>   Complete Arcane  Tome and Blood: A Guidebook to Wizards and Sorcerers     

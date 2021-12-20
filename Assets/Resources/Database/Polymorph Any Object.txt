@@ -1,0 +1,30 @@
+<b>Polymorph Any Object</b>(Player's Handbook v.3.5, p. 263)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,  Wu Jen 8,  Sha'ir 8,  Urban Druid 8,   Trickery 8,  Renewal 8,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature, or one nonmagical object of up to 100 cu. ft./level
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> Fortitude negates (object); see text
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+This spell functions like polymorph, except that it changes one object or creature into another.
+The duration of the spell depends on how radical a change is made from the original state to its enchanted state.
+The DM determines the duration by using the following guidelines.
+Unlike polymorph, polymorph any object does grant the creature the Intelligence score of its new form.
+If the original form didn't have a Wisdom or Charisma score, it gains those scores as appropriate for the new form.
+Damage taken by the new form can result in the injury or death of the polymorphed creature.
+For example, it is possible to polymorph a creature into rock and then grind it to dust, causing damage, perhaps even death.
+If the creature was changed to dust to start with, more creative methods to damage it would be needed.
+Perhaps you could use a gust of wind spell to scatter the dust far and wide.
+In general, damage occurs when the new form is changed through physical force, although the DM must adjudicate many of these situations.
+A nonmagical object cannot be made into a magic item with this spell.
+Magic items aren't affected by this spell.
+This spell cannot create material of great intrinsic value, such as copper, silver, gems, silk, gold, platinum, mithral, or adamantine.
+It also cannot reproduce the special properties of cold iron in order to overcome the damage reduction of certain creatures.
+This spell can also be used to duplicate the effects of baleful polymorph, polymorph, flesh to stone, stone to flesh, transmute mud to rock, transmute metal to wood, or transmute rock to mud.
+Arcane Material Component:Mercury, gum arabic, and smoke.
+   

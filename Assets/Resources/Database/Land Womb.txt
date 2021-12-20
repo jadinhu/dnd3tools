@@ -1,0 +1,26 @@
+<b>Land Womb</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Druid 4,  Hathran 4,  Ranger 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> You and one other creature/level
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You descend into a protective bubble in the earth below where you were standing.
+Spectators around you see you descend into the ground as if the earth opened up and swallowed you.
+You cannot enter the land womb through stone or rock, only through tillable soil.
+The land womb holds you secure 10 feet below the surface.
+Anyone in a land womb cannot be perceived by divination spells of 4th level or lower.
+You may bring one additional creature per caster level with you into the land womb.
+All creatures to be brought into the land womb must be touching each other (for instance, in a ring of hands).
+You can breathe in the land womb, though the tightness of the space constricts you enough that you cannot cast spells with somatic components.
+You can, however, speak to anyone who accompanied you.
+You can no longer hear or see anything on the surface via nonmagical means.
+You can end the spell at will, but those who are with you cannot.
+At the end of the spell's duration, all within the land womb return to the spot where they stood before the spell took effect.
+ <b>Also appears in</b>   Shining South  Spell Compendium     

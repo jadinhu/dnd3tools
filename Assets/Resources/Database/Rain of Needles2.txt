@@ -1,0 +1,20 @@
+<b>Rain of Needles</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 2 (Metal),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to one creature/level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you hurl a needle in the direction of one target.
+The spell multiplies this single needle into a hail of needles that deal damage to the targets you select.
+You make a normal ranged attack against each target separately, suffering no penalty for lack of proficiency.
+The needles, combined, do 1d4 points of damage per caster level (maximum 5d4), but you can divide this damage up among the targets you select.
+Thus, a 4th-level wu jen can target a single creature with an attack that deals 4d4 points of damage if successful, two creatures for 2d4 points of damage each, four creatures for 1d4 points of damage each, or some other division of the damage dice.
+Material Component: A long metal needle.
+ <b>Also appears in</b>   Complete Arcane     

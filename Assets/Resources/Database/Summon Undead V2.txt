@@ -1,0 +1,10 @@
+<b>Summon Undead V</b>(Heroes of Horror)
+
+Conjuration (Summoning) [Evil]
+ <b>Level:</b>  Cleric 5,  Dread Necromancer 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>
+ <b>Effect:</b> One or more summoned creatures, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like summon undead I, except that you can summon one undead from the 5th-level list, two undead of the same kind from the 4th-level list, or four undead of the same kind from a lower-level list.
+ <b>Also appears in</b>   Ghostwalk  Magic of Faerun  Libris Mortis: The Book of the Dead  Spell Compendium  Player's Guide to FaerÃ»n     

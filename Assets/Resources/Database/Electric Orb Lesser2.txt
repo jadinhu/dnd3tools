@@ -1,0 +1,9 @@
+<b>Electric Orb, Lesser</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>
+
+ 	
+As <b>lesser acid orb</b>, except lesser electric orb deals electricity damage.
+   

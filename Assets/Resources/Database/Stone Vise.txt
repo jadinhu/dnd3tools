@@ -1,0 +1,19 @@
+<b>Stone Vise</b>(Tome of Battle: The Book of Nine Swords, p. 85)
+
+Stone Dragon (Strike)
+ <b>Level:</b>  Crusader 2,  Swordsage 2,  Warblade 2,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> Creature struck
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+<b>You make a crushing blow that staggers your opponent, leaving it unable to move.</b>
+	
+By making a powerful, focused blow, you leave your opponent unable to move. The crushing weight of your blow forces it to waste a precious moment regaining its footing.
+	
+As part of this maneuver, you make a single melee attack. This attack deals an extra 1d6 points of damage. If the creature hit is standing on the ground, your attack also drops the target?s speed to 0 feet (for all movement capabilities) for 1 round. It can otherwise act normally. A successful Fortitude save (DC 12 + your Str modifier) by the creature struck negates the immobilization, but not the extra damage.
+	
+This maneuver functions only against opponents standing on the ground. A flying creature or a levitating target need not save against the speed reduction effect, but still takes the extra damage.</p   

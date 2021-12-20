@@ -1,0 +1,14 @@
+<b>Seed of Undeath, Greater</b>(Complete Mage)
+
+Necromancy
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 40-ft.-radius emanation
+
+ 	
+Every creature in the area briefly takes on a corpselike appearance, then returns to normal.
+This spell functions like seed of undeath, except it applies to any humanoid or animal that dies in the area while the spell is in effect.
+Corpses of creatures that died before you cast the spell, or that died outside the area and were then carried within, are unaffected.
+Material Component: A black onyx worth at least 5,000 gp.
+   

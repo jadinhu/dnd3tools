@@ -1,0 +1,16 @@
+<b>Pouncing Charge</b>(Tome of Battle: The Book of Nine Swords, p. 88)
+
+Tiger Claw (Strike)
+ <b>Level:</b>  Swordsage 5 (Two Tiger Claw maneuvers),  Warblade 5 (Two Tiger Claw maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>With the roar of a wild beast, you throw yourself into the fray. Your weapons are little more than a blur as you hack at your foe with feral speed.</b>
+	
+With a ferocious howl, you throw yourself into combat. You move with such speed and ferocity that when you reach your enemy, you unleash a blistering flurry of slashes, cuts, and hacks.
+	
+As part of initiating this maneuver, you make a charge attack. Instead of making a single attack at the end of your charge, you can make a full attack. The bonus on your attack roll for making a charge attack applies to all your attack rolls.
+   

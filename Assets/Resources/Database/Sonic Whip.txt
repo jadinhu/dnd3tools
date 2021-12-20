@@ -1,0 +1,21 @@
+<b>Sonic Whip</b>(Spell Compendium, p. 195)
+
+Evocation [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> A whip of force
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>As you make a cracking sound and hold out your hand, the small silk whip within your grasp dissipates and a life-sized whip of hissing blue force appears in your grasp. With expert precision, you manage to make the invisible whip in your hand crack.</b>
+	
+This spell creates a whip of sonic energy that you wield as if you had proficiency with it. Simply cracking a sonic whip as a free action keeps normal animals (but not dire animals, magical beasts, or vermin) at bay unless they succeed on a Will save. Affected animals stay at least 30 feet away from you for the duration of the spell, as space permits. On a successful ranged attack with the whip, any normal animal you strike must succeed on a Will save or become frightened.
+	
+Against other creature types, you can use a sonic whip in combat as if it were a normal whip.
+	
+Material Component: A miniature silk whip.
+   

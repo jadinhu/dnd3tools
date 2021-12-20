@@ -1,0 +1,9 @@
+<b>Spellsong, Lesser</b>(Champions of Valor)
+
+Transmutation
+ <b>Level:</b>   Initiate of eilistraee 3,   
+<b>Components:</b>
+
+ 	
+This spell functions like spellsong, except you can use it only to prepare one spell of 1st level or lower in this spell's slot.
+   

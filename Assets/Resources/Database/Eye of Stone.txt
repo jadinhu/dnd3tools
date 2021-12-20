@@ -1,0 +1,14 @@
+<b>Eye of Stone</b>(Races of Stone)
+
+Divination (Scrying)
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+You create an invisible magical sensor that can move through solid stone and send you visual information.
+This spell functions like the arcane eye spell (see page 200 of the Player's Handbook), except that you can move the sensor through stone.
+   

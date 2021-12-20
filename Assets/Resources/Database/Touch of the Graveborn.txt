@@ -1,0 +1,20 @@
+<b>Touch of the Graveborn</b>(Complete Mage)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature or creatures touched (up to one/3 levels)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial or Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your hand grows numb and pulses with a deep and sickly radiance, the chill of the grave emanating from it.
+Your melee touch attacks channel negative energy that disrupts the life force of living creatures, dealing 10d6 points of damage.
+You can use this melee touch attack up to one time per three levels.
+Any target that has one or more negative levels also takes 1d6 points of Strength drain; a successful Fortitude save negates this secondary effect.
+An undead creature you touch takes no damage or Strength drain, but it must make a successful Will save or be controlled by you (as if you had cast control undead) for 1 round per level.
+You can't control more than one undead creature in this fashion (a second use frees the first controlled undead), and any undead with HD of more than twice your caster level is unaffected.
+   

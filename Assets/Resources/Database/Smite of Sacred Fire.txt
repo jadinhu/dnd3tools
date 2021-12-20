@@ -1,0 +1,12 @@
+<b>Smite of Sacred Fire</b>(The Forge of War, p. 116)
+
+Evocation [Good]
+ <b>Level:</b>  Paladin 2,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level; see text
+
+ 	
+You must cast this spell in the same round when you attempt a smite attack. If the attack hits, you deal an extra 2d6 points of damage to the target of the smite. Whether or not you succeed on the smite attempt, during each subsequent round of the spell?s duration, you deal an extra 2d6 points of damage on any successful melee attack against the target you attempted to smite. The spell ends prematurely after any round when you do not attempt a melee attack against the target you previously attempted to smite, or if you fail to hit with any of your attacks in a round.</p   

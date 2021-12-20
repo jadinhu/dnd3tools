@@ -1,0 +1,19 @@
+<b>Death's Call</b>(Complete Mage)
+
+Necromancy [Sonic]
+ <b>Level:</b>  Hexblade 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius burst, centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You release a scream that chills the air with deathly energy.
+All living creatures within the area (other than you) take 1 point of damage per caster level (maximum 5) and become fatigued.
+A successful Fortitude save negates the fatigue.
+Any swarm in the area of death's call instead takes 1d4 points of damage per caster level (maximum 5d4) and becomes fatigued (Fortitude save negates fatigue).
+This supersedes the normal +50% damage dealt to a swarm by an area spell.
+   

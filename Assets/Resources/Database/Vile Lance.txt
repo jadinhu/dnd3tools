@@ -1,0 +1,16 @@
+<b>Vile Lance</b>(Book of Vile Darkness)
+
+Evocation [Evil]
+ <b>Level:</b>  Cleric 3,  Mortal Hunter 3,  Sorcerer 3,  Wizard 3,  Blackguard 4,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Effect:</b> One shortspear
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+Vile lance creates a weapon of blackness that the caster (and only the caster) can wield with proficiency.
+The caster can throw it, but if he does, the spell ends after the ranged attack is resolved.
+The vile lance is treated in all ways like a +2 shortspear, except that the damage dealt is vile damage.
+Arcane Material Component: A bone fragment of a good-aligned creature.
+   

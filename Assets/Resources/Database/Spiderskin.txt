@@ -1,0 +1,21 @@
+<b>Spiderskin</b>(Spell Compendium, p. 202)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You cast this spell upon yourself, and your flesh glows yellow. The glow quickly subsides, but you feel your flesh thicken, its surface growing harder and more like a carapace.</b>
+	
+The spell grants the recipient a +1 enhancement bonus to its existing natural armor bonus, a +1 racial bonus on saves against poison, and a +1 racial bonus on Hide checks for every three caster levels you have. This means that the bonuses to natural armor, saves, and Hide checks improve to +2 at caster level 6th, +3 at caster level 9th, +4 at 12th, and +5 at 15th.
+	
+The enhancement bonus provided by spiderskin stacks with the subject's natural armor bonus, but not with other enhancement bonuses to natural armor. A creature without natural armor has an effective natural armor bonus of +0, much as a character wearing only normal clothing has an armor bonus of +0.
+	
+Arcane Material Component: The leg of a spider.
+ <b>Also appears in</b>   Underdark     

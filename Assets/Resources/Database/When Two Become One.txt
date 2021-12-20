@@ -1,0 +1,26 @@
+<b>When Two Become One</b>(Oriental Adventures)
+
+Necromancy
+ <b>Level:</b>  Shugenja 3 (Water),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+When you cast this spell, your spirit enters the body of your horse (which you must be riding when you cast the spell) and merges with the horse's own.
+Your own body hunkers low on the horse's back and holds on tight for the duration of the spell; it is a part of the body you and your steed share, but not a particularly useful part.
+As a joint creature, you and your mount share all your skills, feats, and abilities.
+You make all checks, saves, and attack rolls using the better base number (yours or your horse's) and the better ability score modifier.
+You retain your own Intelligence, Wisdom, Charisma, memory, personality, level and class, alignment, and extraordinary and supernatural abilities.
+You gain your horse's Strength, Dexterity, Constitution, speed, natural armor and weapons, and extraordinary abilities.
+Opponents can attack either your body or your mount's.
+Your body uses the mount's Dexterity bonus to AC, not subject to the maximum Dexterity bonus for your armor type, with your own size modifier, armor bonus, and magical bonuses.
+Your mount's body uses its own Dexterity bonus, size modifier, armor bonus, natural armor bonus, and any magical bonuses derived from items on your body other than armor (such as an amulet of natural armor or ring of protection).
+You and your mount share a pool of hit points equal to your combined total hit points.
+When an opponent hits either your body or your mount's,
+the damage is subtracted from this combined pool.
+Neither you nor your mount becomes disabled or dying until all these combined hit points are exhausted.
+When the spell ends, you divide the hit points remaining in the pool as you choose between you and your mount.
+   

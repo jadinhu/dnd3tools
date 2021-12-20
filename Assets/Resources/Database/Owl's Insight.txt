@@ -1,0 +1,16 @@
+<b>Owl's Insight</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You invest your target with a taste of the ancient wisdom inherent in nature.
+The target gains an enhancement bonus to his Wisdom score equal to half your level.
+ <b>Also appears in</b>   Spell Compendium     

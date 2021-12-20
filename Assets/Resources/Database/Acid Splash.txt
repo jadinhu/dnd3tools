@@ -1,0 +1,18 @@
+<b>Acid Splash</b>(Magic of Faerun)
+
+Conjuration (Creation) [Acid]
+ <b>Level:</b>  Sorcerer 0,  Wizard 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One missile of acid
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You fire a small orb of acid at the target.
+You must succeed at a ranged touch attack to hit your target.
+If you miss, there is no splash effect.
+The spell deals 1d3 points of acid damage.
+ <b>Also appears in</b>   Player's Handbook v.3.5     

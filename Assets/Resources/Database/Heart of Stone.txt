@@ -1,0 +1,23 @@
+<b>Heart of Stone</b>(Complete Arcane)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, AF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 year
+
+ 	
+You exchange your own living heart for a finely crafted heart of perfect, unblemished stone, altering the very nature of your body.
+Your living heart can then be stored or hidden anywhere you like, where it continues to beat for the duration of the spell.
+While under the effect of heart of stone, you gain damage reduction 5/- and resistance to energy 5 against cold, fire, and electricity, but are subject to the following disadvantages.
+First, your rate of natural healing slows to only 1 hit point per day (regardless of character level or whether you rest).
+Second, any attempt to heal you with conjuration (healing) spells, or spell-like and supernatural abilities that mimic the effects of such spells, requires a caster level check (DC 10 + your caster level) to succeed.
+Finally, your own living heart is vulnerable to attack; if it is damaged or destroyed, you are instantly slain.
+Heart of stone can be dispelled, in which case your own living heart instantly returns to its proper place while the stone heart is transported to the place where you left your own heart.
+Your heart and the stone heart likewise switch places if you enter an antimagic field (temporarily negating the spell's effects), but the spell resumes when you leave it.
+Stone to flesh can also end the spell, though you get a Fortitude saving throw to resist.
+Focus: A carved stone heart of exceptional quality (jade, obsidian, or gold-veined marble) worth 5,000 gp.
+XP Cost: 1,000 XP.
+ <b>Also appears in</b>   Spell Compendium     

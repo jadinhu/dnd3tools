@@ -1,0 +1,17 @@
+<b>Shape of the Hellspawned Stalker</b>(Complete Mage)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Rust-red fur sprouts from your skin, and your back hunches over until you stand on four clawed feet.
+Tendrils of black smoke curl from your fanged mouth.
+You take the form of a hell hound (MM 151).
+You gain 10 temporary hit points, which disappear at the end of the spell's duration.
+See the Polymorph Subschool sidebar on page 91 for more details.
+   

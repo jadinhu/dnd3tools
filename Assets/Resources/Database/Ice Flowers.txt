@@ -1,0 +1,17 @@
+<b>Ice Flowers</b>(Spell Compendium, p. 119)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 5,  Cleric 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 20-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Re?ex half
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>A lance of ice and earth thrusts up where you point, flinging pebbles, rocks, and dirt into the sky. Stone rains down, covering the ground with debris.</b>
+	
+This spell causes moisture in the ground at a point you designate to freeze into a mound of solid ice covered by a layer of soil, which bursts violently through the surface. This flings dangerous ice shards and small stones throughout the area, turning the surface of the ground in the spell's area into dense rubble (<span class="caps">DMG</span> 90). The shards and stones deal 1d6 points of damage per caster level (maximum 15d6). Half the damage is cold damage. The origin point of the spell must be on the ground. This spell has no effect in desert terrain or on solid stone.
+   

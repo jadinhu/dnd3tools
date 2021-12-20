@@ -1,0 +1,17 @@
+<b>Attraction</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Shaman 1,  Sohei 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 2 rounds/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, a mystical aura surrounds the subject creature, drawing attacks to the creature and making successful attacks more effective.
+The subject takes an additional +1 point of damage per caster level (max +5) from each melee or ranged attack that deals damage to it.
+This spell does not increase damage from spells.
+   

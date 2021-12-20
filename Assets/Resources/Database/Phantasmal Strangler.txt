@@ -1,0 +1,25 @@
+<b>Phantasmal Strangler</b>(Complete Mage)
+
+Illusion (Phantasm) [Fear, Mind-Affecting]
+ <b>Level:</b>  Hexblade 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 5 rounds
+ <b>Saving Throw:</b> Will disbelief
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You delve into your subject's mind and call forth a clinging, choking horror that drapes itself over him like a vile net.
+You fashion a nightmare creature from the subject's mind.
+Only the subject can sense the assailant, which exists only in the subject's mind.
+When you cast the spell, the subject gets an immediate Will save to recognize the attacker as unreal, which ends the spell.
+If that save fails, the subject is treated as if it were grappling the phantasmal strangles.
+Each round on your turn, a phantasmal strangler deals 2d6 points of damage to the subject.
+If the subject is reduced to -1 or fewer hit points, the spell ends.
+Each round on the subject's turn, it can attempt any of the actions normally allowed to a grappling character.
+Treat a phantasmal strangler's grapple modifier as equal to that of the subject (including modifiers for Strength, size, and all other factors).
+A phantasmal strangler can't be damaged, nor can it be pinned.
+If the subject escapes from the phantasmal strangler's grasp, the spell ends.
+   

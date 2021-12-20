@@ -1,0 +1,17 @@
+<b>Manticore Parry</b>(Tome of Battle: The Book of Nine Swords, p. 69)
+
+Iron Heart (Counter)
+ <b>Level:</b>  Warblade 6 (Two Iron Heart maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>You block an enemy?s attack with a lightning-quick parry, then deflect it toward a different target. Your foe can barely control its momentum as its attack now slams into an ally.</b>
+	
+When you initiate this maneuver, you can attempt to block an enemy?s melee attack that targets you and redirect it to another target adjacent to you. Make a melee attack roll. If your result is greater than your foe?s attack roll, you bat aside the strike and direct it against a target of your choice that stands adjacent to you. You must decide whether to initiate this maneuver after the enemy attacks, but before you know whether or not the attack you are attempting to deflect actually hits. If the attack misses, you can still attempt to deflect it.
+	
+If you succeed in deflecting the attack, use the result of your opponent?s attack roll to determine if it strikes the new target.
+	
+This maneuver functions only against armed melee attacks. You cannot use it against unarmed attacks, natural weapons, or touch spells.   

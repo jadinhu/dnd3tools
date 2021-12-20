@@ -1,0 +1,19 @@
+<b>Infernal Threnody</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Evocation [Evil, Sonic]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> A sphere with a radius equal to the range, centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You can strike up a pulsing, powerful rhythm that temporarily boosts the effective caster level of each evil-aligned divine spellcaster within range by +1.
+This increase does not grant access to more spells, but it does improve all spell effects that are dependent on caster level.
+In addition, infernal threnody mimics the effect of an unhallow spell with respect to turning or rebuking undead.
+Within the spell's area, each evil-aligned divine spellcaster gains a +4 profane bonus on Charisma checks to rebuke undead, and each good-aligned divine spellcaster incurs a &#8211; 4 profane penalty on Charisma checks to turn undead.
+Focus: The caster's instrument.
+ <b>Also appears in</b>   Spell Compendium  Complete Adventurer     

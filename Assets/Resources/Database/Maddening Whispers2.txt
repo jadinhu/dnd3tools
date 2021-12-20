@@ -1,0 +1,25 @@
+<b>Maddening Whispers</b>(Spell Compendium, p. 135)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>As you mutter this spell, your words burrow into your foes' minds like hungry maggots, spawning dark and disturbing thoughts.</b>
+	
+You can choose to inflict one of the following conditions upon any creatures that fail their saving throws:
+	
+<b>Hysteria:</b> The subjects fall into fits of uncontrollable laughing or crying (equal chance for either). This hysteria affects subjects as though they were nauseated; they are unable to attack, cast spells, concentrate on spells, or do anything else requiring attention. The only action a subject can take is a single move action per turn.
+	
+<b>Panic:</b> The subjects become panicked. If cornered, a panicked creature cowers.
+	
+<b>Violent Hallucinations:</b> The subjects perceive any nearby creatures as dangerous enemies, attacking the nearest ones and fighting until the subjects are slain or until no more creatures are in sight.
+	
+<b>Stupor:</b> The subjects curl up on the floor and remain oblivious to events around them. Characters in a stupor are effectively stunned and prone.
+ <b>Also appears in</b>   Draconomicon     

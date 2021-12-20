@@ -1,0 +1,18 @@
+<b>Getaway</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>  Assassin 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Area:</b> Up to 1 city block/level
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell helps you elude pursuers by causing them to run down blind alleys, make wrong turns at intersections, and
+bypass obvious directional indicators during a chase.
+Any pursuer who loses sight of you and fails a Will save has a 50% chance of making a wrong turn or heading in the wrong direction, even in the face of physical evidence (such as a dangling rope or an open door) as to your true path.
+Material Component: A fox's tail.
+   

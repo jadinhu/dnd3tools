@@ -1,0 +1,14 @@
+<b>Rallying Strike</b>(Tome of Battle: The Book of Nine Swords, p. 60)
+
+Devoted Spirit (Strike)
+ <b>Level:</b>  Crusader 6 (Two Devoted Spirit maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>Your weapon blazes with divine energy as you smite your enemy. The energy discharges in a great pulse, sweeping over your allies and mending their wounds.</b>
+	
+As part of initiating this strike, you must make a successful melee attack against an enemy whose alignment has at least one component different from yours. This foe must pose a threat to you or your allies in some direct, immediate way. If your attack hits, you and all allies within 30 feet of you heal 3d6 points of damage + 1 point per initiator level (maximum +15).
+   

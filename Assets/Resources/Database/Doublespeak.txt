@@ -1,0 +1,20 @@
+<b>Doublespeak</b>(Complete Mage)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> You plus one creature touched/4 levels
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless, target) or Will disbelief (if interacted with, everyone else)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You understand your companions clearly enough, but judging by the expressions of those around you, nobody else knows what is actually being said.
+The subjects of the spell can speak about anything they like, but to everyone else, they sound like they are holding a mundane conversation about the weather, the taste of the food, local politics, and similarly banal topics.
+The illusion also modifies facial expressions and mouth movements to match the illusory words spoken.
+Anyone who spends at least 1 full round studying the conversation is allowed a Will save to disbelieve the illusion.
+Subjects of the spell know the gist of what the illusory voices talked about during the duration � ;that is, they know the topics covered � ;but not the precise phrases or details.
+Material Component: The tongue of a snake.
+   

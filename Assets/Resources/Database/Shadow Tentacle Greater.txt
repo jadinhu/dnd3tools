@@ -1,0 +1,17 @@
+<b>Shadow Tentacle, Greater</b>(Lords of Darkness)
+
+Abjuration (Shadow)
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One shadow
+ <b>Duration:</b> 1 round/level or concentration
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+As lesser shadow tentacle, except the spell creates a shadow tentacle that extends up to 10 feet per caster level (maximum 100 feet) from its anchoring point.
+The tentacle created by this spell has 40 hit points, AC 18, and can be burst with a Strength check (DC 25).
+A character can also free himself from the tentacle with an Escape Artist check (DC 22).
+   

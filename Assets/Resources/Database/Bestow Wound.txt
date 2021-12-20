@@ -1,0 +1,18 @@
+<b>Bestow Wound</b>(Book of Vile Darkness)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+If the caster is wounded, she can cast this spell and touch a living creature.
+The creature takes the caster's wounds as damage, either 1 point of damage per caster level or the amount needed to bring the caster up to her maximum hit points, whichever is less.
+The caster heals that much damage, as if a cure spell had been cast on her.
+Material Component: A small eye agate worth at least 10 gp.
+ <b>Also appears in</b>   Heroes of Horror     

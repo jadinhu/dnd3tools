@@ -1,0 +1,13 @@
+<b>Divine Favor</b>(Player's Handbook v.3.5, p. 224)
+
+Evocation
+ <b>Level:</b>  Cleric 1,  Paladin 1,  Disciple of Thrym 1,  Runescarred Berserker 1,  Slayer of Domiel 1,  Vassal of Bahamut 1,  Knight of the Weave 1,  Knight of the Chalice 1,   Mysticism 1,  Nobility 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute
+
+ 	
+Calling upon the strength and wisdom of a deity, you gain a +1 luck bonus on attack and weapon damage rolls for every three caster levels you have (at least +1, maximum +3). The bonus doesn't apply to spell damage.
+   

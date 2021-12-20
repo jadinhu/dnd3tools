@@ -1,0 +1,14 @@
+<b>Iron Heart Endurance</b>(Tome of Battle: The Book of Nine Swords, p. 68)
+
+Iron Heart (Boost)
+ <b>Level:</b>  Warblade 6 (Two Iron Heart maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>You push aside the pain of your injuries to fight on past mortal limits.</b>
+	
+If you have half or fewer of your full normal hit points remaining, you can initiate this maneuver to heal hit points equal to 2 Ã— your level.
+   

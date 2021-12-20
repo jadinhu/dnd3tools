@@ -1,0 +1,19 @@
+<b>Arcane Turmoil</b>(Complete Mage)
+
+Abjuration
+ <b>Level:</b>  Hexblade 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None or Will partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As you make the final spell gesture, the look in your rival's eyes gives evidence enough of the chaos rampaging through his mind.
+You affect the subject of the spell as if by the targeted variant of dispel magic.
+Additionally, if the subject is a spellcaster who fails a Will save, she loses one randomly determined prepared spell or spell slot from her highest level of available spells remaining.
+This spell or spell slot is lost as if it had been cast or used for the day.
+Material Component: A broken eggshell.
+   

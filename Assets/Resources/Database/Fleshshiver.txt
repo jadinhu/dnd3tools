@@ -1,0 +1,18 @@
+<b>Fleshshiver</b>(Player's Guide to FaerÃ»n, p. 103)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action.
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This ghoulish spell affects the target's skeleton, causing excruciating pain by twisting and snapping bones.
+The target is automatically stunned for 1 round (no saving throw).
+In the following round, it must make a Fortitude save or take 1d6 points of bludgeoning damage per caster level and be nauseated by the pain for 1d4+2 rounds.
+Material Component: A bone, which is snapped during the casting of the spell.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,15 @@
+<b>Find the gap</b>(Spell Compendium, p. 91)
+
+Divination
+ <b>Level:</b>  Assassin 3,  Paladin 3,  Ranger 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>You speak the words of this spell, and a blue mark that only you can see appears on your opponent, highlighting a weak spot in her defense.</b>
+	
+You gain the ability to perceive weak points in your opponent's armor. Your first melee or ranged attack each round is resolved as a touch attack, disregarding the subject's armor, shield, and natural armor bonuses (including any enhancement bonuses) to Armor Class. Other AC bonuses, such as dodge bonuses, deflection bonuses, and luck bonuses, still apply.
+   

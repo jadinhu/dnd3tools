@@ -1,0 +1,20 @@
+<b>Leomund's Hidden Lodge</b>(Complete Arcane)
+
+Conjuration (Creation)
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 20-ft.-square structure
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+As Leomund's secure shelter (see page 247 of the Player's Handbook), except that the hidden lodge is perfectly camouflaged to blend in with whatever terrain or surroundings are appropriate.
+It might appear as a house-sized boulder in a rocky or mountainous area, as a sand dune in the desert, as a densely tangled thicket, a grassy knoll, or even a mighty tree.
+The hidden lodge also obscures all telltale signs of habitation, including any smoke, light, or sound coming from within.
+At any distance of more than 30 feet, the lodge is indistinguishable from natural terrain.
+Any creature approaching within 30 feet is entitled to a DC 30 Survival check to spot the hidden lodge as an artificial dwelling and not a natural part of the landscape.
+Focus: The focus of an alarm spell (silver wire and a tiny bell), if this benefit is to be included in the hidden lodge (see the Leomund's secure shelter description for more information).
+   

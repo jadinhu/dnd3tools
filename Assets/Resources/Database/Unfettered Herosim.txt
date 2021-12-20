@@ -1,0 +1,17 @@
+<b>Unfettered Herosim</b>(Races of Eberron, p. 190)
+
+Transmutation
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You tap deep into your own arcane power to enhance the innate heroism within you. Each round that this spell is in effect, you gain a free temporary action point. If you don't spend this point by the beginning of your next turn, you lose it (though you gain another free point in the next round while the spell is in effect). In addition, while this spell is in effect, you can use action points more than once in a single round (though you may only spend one action point to modify the result of any one die roll or action, as normal).
+	
+You must have at least one action point to cast unfettered heroism. Once this spell ends, whether the duration expires or it is dispelled, you become fatigued.
+	
+<b>Special:</b> Human spellcasters cast this spell at +1 caster level.
+   

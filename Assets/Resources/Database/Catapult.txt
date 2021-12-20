@@ -1,0 +1,25 @@
+<b>Catapult</b>(Complete Scoundrel)
+
+Transmutation
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One held object, weighing up to 5 lb.
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> None
+
+ 	
+Focusing on the object in your grasp, you abruptly jerk your head in the direction you desire, sending the item flying.
+You propel a single object out of your hand at fantastic speed.
+This object can be a weapon designed for throwing, a weapon not meant to be thrown, or another nonliving object.
+Make a normal ranged attack roll with the affected object, but do not add any ability score modifier to the attack or damage roll.
+Instead, you gain a competence bonus on the damage roll equal to one-third of your caster level (maximum +5).
+The range increment for the hurled object is 30 feet, regardless of its normal range increment (if any).
+If you use catapult to fling an object not meant to be used as a thrown weapon, you take the normal -4 nonproficiency penalty on the attack roll.
+An item that isn't a weapon deals 1d6 points of base damage if it weighs at least 1 pound.
+The item catapult is to affect must be in your hands when you cast the spell.
+If you cast the spell with nothing in your hands to fling, the magic automatically fails.
+You cannot propel living creatures with catapult, regardless of their size.
+   

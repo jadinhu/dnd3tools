@@ -1,0 +1,11 @@
+<b>Snake's Swiftness, Legion's</b>(Miniatures Handbook)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Allied creatures in a 20-ft.-radius burst
+
+ 	
+This spell functions like snake's swiftness, except that it affects multiple allies out to medium range.
+   

@@ -1,0 +1,17 @@
+<b>Scales of the Lizard</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 2 rounds/level
+
+ 	
+When you cast this spell, your skin toughens and shimmers as if covered with scales.
+You gain a +2 natural armor bonus to AC.
+This bonus increases to +3 at 3rd level, +4 at 6th level, and +5 at 12th level and up.
+Since the AC bonus is a natural armor bonus, it does not stack with any natural armor you may already have.
+Focus: A tattoo of a lizard on your skin.
+ <b>Also appears in</b>   Complete Arcane     

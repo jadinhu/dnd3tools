@@ -1,0 +1,16 @@
+<b>Dragon's Flame</b>(Tome of Battle: The Book of Nine Swords, p. 53)
+
+Desert Wind (Strike) [Fire]
+ <b>Level:</b>  Swordsage 5,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+
+ 	
+<b>With a defiant roar, you summon your ki and unleash it, igniting it with a combination of your meditative focus and seething fury.</b>
+	
+As a master of the Desert Wind advances in his studies, he learns to stoke raging fires with his ki. This maneuver allows you to generate a gout of fire similar to a dragon?s burning breath. With this maneuver, you blast forth a cone of fire that deals 6d6 points of fire damage to everything in the area. Creatures in the area can attempt Reflex saves (DC 15 + your Wis modifier) for half damage.
+This maneuver is a supernatural ability.</p   

@@ -1,0 +1,14 @@
+<b>Mithral Tornado</b>(Tome of Battle: The Book of Nine Swords, p. 69)
+
+Iron Heart (Strike)
+ <b>Level:</b>  Warblade 4 (Two Iron Heart maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> All adjacent opponents
+
+ 	
+<b>Your weapon becomes a blur of motion as you swing it in a tight arc over your head. Once you build up enough speed, you explode into a sweeping attack that chops into the enemies around you.</b>
+	
+When you initiate this strike, you make a melee attack against every opponent adjacent to you. Resolve each attack separately. You gain a +2 bonus on each of these attacks, which are otherwise made at your highest attack bonus.
+   

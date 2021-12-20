@@ -1,0 +1,13 @@
+<b>Stony Grasp</b>(Complete Arcane)
+
+Transmutation [Earth]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>
+ <b>Effect:</b> Animated stone arm
+ <b>Duration:</b> 1 round/level
+
+ 	
+As earthen grasp (see page 104), except the stony arm can appear from any natural surface, including unworked rock, earth, mud, grass, or sand.
+The stone arm has AC 18, hardness 8, and 4 hit points per caster level.
+Material Component: A miniature hand sculpted from stone.
+ <b>Also appears in</b>   Spell Compendium     

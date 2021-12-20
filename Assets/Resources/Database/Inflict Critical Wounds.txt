@@ -1,0 +1,9 @@
+<b>Inflict Critical Wounds</b>(Player's Handbook v.3.5, p. 244)
+
+Necromancy
+ <b>Level:</b>  Cleric 4, Blackguard 4,  Blighter 4,  Death Master 4,  Dread Necromancer 4,   Destruction 4,   
+<b>Components:</b>
+
+ 	
+This spell functions like inflict light wounds, except that you deal 4d8 points of damage +1 point per caster level (maximum +20).
+   

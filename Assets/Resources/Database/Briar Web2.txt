@@ -1,0 +1,24 @@
+<b>Briar Web</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Ranger 2,  Cleric 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Plants in a 40-ft.-radius spread
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell causes grasses, weeds, bushes, and even trees to grow thorns and then wrap, twist, and entwine about creatures in the area or those who enter the area, holding them fast.
+Creatures that stand still are entangled, but experience no other effect and take no damage.
+Those that attempt actions (attack, cast a spell with a somatic component, move, and the like) take thorn damage of 1d4 points, plus 1 additional point per caster level, and must make a successful Reflex save or be entangled.
+A character who tries to cast a spell must also make a Concentration check (DC 15 + spell level + damage taken) or lose the spell.
+A creature that fails the Reflex save is entangled, can't move, and suffers a -2 penalty on attack rolls and a -4 penalty to effective Dexterity.
+An entangled creature can try to break free and move at half normal speed by using a full-round action to make a Strength check or Escape Artist check (DC 20).
+A nonentangled creature can move through the area at half speed, taking damage as described above.
+Each round nonentangled creatures remain in the area, the plants attempt to entangle them.
+The plants provide one-quarter cover for every 5 feet of substance between a creature in the area and an opponent � ;one-half for 10 feet of briar web, three-quarters for 15 feet, and total cover for 20 feet or more.
+Note: The DM may alter the effects of the spell somewhat, based on the nature of the available plants.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Spell Compendium  Complete Divine     

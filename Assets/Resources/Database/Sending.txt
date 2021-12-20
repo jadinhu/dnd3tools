@@ -1,0 +1,22 @@
+<b>Sending</b>(Player's Handbook v.3.5, p. 275)
+
+Evocation
+ <b>Level:</b>  Cleric 4,  Divine Bard 4,  Savant 4 (Divine),  Sorcerer 5,  Wizard 5,  Beguiler 5,  Sha'ir 5,  Court Herald 5,   Trade 4,  Herald 4,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> See text
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You contact a particular creature with which you are familiar and send a short message of twenty-five words or less to the subject.
+The subject recognizes you if it knows you.
+It can answer in like manner immediately.
+A creature with an Intelligence score as low as 1 can understand the sending, though the subject's ability to react is limited as normal by its Intelligence score.
+Even if the sending is received, the subject is not obligated to act upon it in any manner.
+If the creature in question is not on the same plane of existence as you are, there is a 5% chance that the sending does not arrive.
+(Local conditions on other planes may worsen this chance considerably, at the option of the DM).
+Arcane Material Component: A short piece of fine copper wire.
+   

@@ -1,0 +1,24 @@
+<b>Animate Dread Warrior</b>(Unapproachable East)
+
+Necromancy [Evil]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> One humanoid corpse
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You transform the corpse of a skilled warrior into an undead monster under your command.
+The corpse in question must be that of a humanoid with at least three levels or Hit Dice and no more Hit Dice than your own, killed within the last tenday.
+The body must be substantially whole, although any injury short of dismemberment does not interfere with the spell.
+Upon completion of the spell, the subject corpse reanimates as a dread warrior under your command (see the Dread Warrior entry in Chapter 6: Monsters of the East).
+The creature serves loyally and obeys your orders to the best of its ability, although a cleric with the ability to command undead can usurp your control with a sufficiently high rebuke undead check.
+Upon the caster's death, the dread warrior becomes a free-willed undead creature.
+Created twenty years ago by the zulkir of Necromancy, Szass Tam, this spell is found only in the spellbooks of those Red Wizards who served as his apprentices and the apprentices of those apprentices.
+Szass Tam has been using this spell to steadily create a vast army of dread warriors.
+Material Component: A rusted fragment of a sword blade broken in battle.
+XP Cost: 250 XP per HD of the dread warrior created.
+   

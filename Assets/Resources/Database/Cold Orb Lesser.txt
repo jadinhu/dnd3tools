@@ -1,0 +1,10 @@
+<b>Cold Orb, Lesser</b>(Miniatures Handbook)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,  Warmage 1,    
+<b>Components:</b>
+ <b>Effect:</b> One orb of cold
+
+ 	
+This spell functions like <b>lesser acid orb</b>, except that it deals cold damage.
+   

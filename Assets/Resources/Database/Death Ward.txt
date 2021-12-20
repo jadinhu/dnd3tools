@@ -1,0 +1,21 @@
+<b>Death Ward</b>(Player's Handbook v.3.5, p. 217)
+
+Necromancy
+ <b>Level:</b>  Runescarred Berserker 3,  Cleric 4,  Death Master 4,  Death Delver 4,  Blighter 4,  Knight of the Weave 4,  Slayer of Domiel 4,  Hunter of the Dead 4,  Healer 4,  Paladin 4,  Dread Necromancer 4,  Druid 5,  Urban Druid 5,   Death 4,  Undeath 4,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject is immune to all death spells, magical death effects, energy drain, and any negative energy effects (such as from inflict spells or chill touch).
+	
+This spell doesn't remove negative levels that the subject has already gained, nor does it affect the saving throw necessary 24 hours after gaining a negative level.
+	
+Death ward does not protect against other sorts of attacks, such as hit point loss, poison, or petrification, even if those attacks might be lethal.
+	
+(note: Heroes of Horror lists this spell as both a 3rd and 4th level spell for the Dread Necromancer).
+   

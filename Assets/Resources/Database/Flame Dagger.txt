@@ -1,0 +1,21 @@
+<b>Flame Dagger</b>(Magic of Faerun)
+
+Evocation [Fire]
+ <b>Level:</b>  Hathran 2,  Sorcerer 2 (Red Wizard),  Wizard 2 (Red Wizard),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> A daggerlike beam
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A 1-foot-long, blazing beam of red-hot fire springs forth from your hand.
+You wield this bladelike beam as if it were a dagger.
+Attacks with the flame dagger are melee touch attacks, and the blade deals 1d4 points of fire damage plus 1 point per caster level (to a maximum of +10).
+Because the blade is immaterial, your Strength modifier does not apply to the damage.
+The flame dagger can ignite combustible materials such as parchment, straw, dry sticks, cloth, and so on.
+This spell does not function underwater.
+Material Component: A candle, not necessarily lit.
+ <b>Also appears in</b>   Spell Compendium     

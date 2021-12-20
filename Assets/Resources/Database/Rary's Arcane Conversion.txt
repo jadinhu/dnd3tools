@@ -1,0 +1,17 @@
+<b>Rary's Arcane Conversion</b>(Complete Mage)
+
+Universal
+ <b>Level:</b>  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+You feel slightly dizzy as the power of your spell rewrites the knowledge within your mind.
+Rary's arcane conversion allows you to exchange a prepared wizard spell for another spell of equal or lower level.
+For instance, upon casting this spell, you could choose to lose a prepared fly spell and have fireball prepared in its place.
+The replacement spell must be one already scribed in your spellbook.
+The new spell is now prepared and ready to cast as normal, just as though you had prepared it when you last studied your spells.
+   

@@ -1,0 +1,21 @@
+<b>Death Pact</b>(Spell Compendium, p. 60)
+
+Necromancy
+ <b>Level:</b>  Cleric 8,   Pact 8,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing living creature touched
+ <b>Duration:</b> Permanent until triggered
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With the last words of power, you make the convert's oath binding and ensure your deity's aid when the worst befalls his new servant</b>.
+	
+This spell allows the target to enter into a binding agreement with your deity that brings the target back to life if it is slain.
+	
+When this spell is caste, the subject's Constitution is permanently lowered by 2 points. In exchange for this, if the subject should die, a <b>true resurrection</b> spell (<b>PH</b> 296) is immediately cast upon the subject. However, the resurrected creature does not regain the 2 Constitution points when returned to life. If the spell is dispelled before the subject dies, it does not regain its lost Constitution points, A <b>wish</b> or <b>miracle</b> spell can return the lost Constitution, but only after the <b>death pact</b> has been activated or dispelled.
+	
+<b>Material Component:</b> A diamond worth at least 1,000 gp.
+ <b>Also appears in</b>   Magic of Faerun  Complete Divine     

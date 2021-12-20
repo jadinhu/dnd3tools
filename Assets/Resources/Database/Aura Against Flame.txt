@@ -1,0 +1,24 @@
+<b>Aura Against Flame</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Cleric 2 (Eldath),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create an aura of blue mist that protects you against fire, absorbing the first 12 points of fire damage as an endure elements spell.
+In addition to the endure elements (fire) effect, the spell can be used to snuff out fires.
+Any nonmagical flame that the aura contacts is immediately extinguished if the flame's maximum damage is 12 or fewer points per round.
+This means that torches, small fires, and hurled alchemist's fire are snuffed out and cause no damage if used against you or if you touch them.
+You may use a standard action to touch an existing magical fire (such as a flaming sphere or a wall of fire) and attempt to dispel it as if using a dispel magic spell against it.
+If you succeed, the magical fire and the aura both vanish.
+If you fail, both remain.
+You may use a ready action to use the aura as a dispel magic to counterspell a magical fire attack against you.
+If successful, the spell is counterspelled and the aura disappears.
+If you fail the dispel check or the attack is not a fire attack, nothing happens and the aura remains.
+ <b>Also appears in</b>   Spell Compendium     

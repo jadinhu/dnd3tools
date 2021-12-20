@@ -1,0 +1,17 @@
+<b>Hatchling's Flame</b>(Tome of Battle: The Book of Nine Swords, p. 54)
+
+Desert Wind (Strike) [Fire]
+ <b>Level:</b>  Swordsage 2 (One Desert Wind maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+
+ 	
+<b>You focus a burning aura of energy at the end of your blade. It forms a seething sphere that, after a moment, bursts into a torrent of energy.</b>
+	
+The Desert Wind discipline teaches its students how to unleash their ki as burning energy. This maneuver allows you to create a wave of fire that sweeps over your enemies. When you initiate this maneuver, you blast forth a cone of flame that deals 2d6 points of fire damage.
+This maneuver is a supernatural ability.
+   

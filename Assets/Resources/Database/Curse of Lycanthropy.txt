@@ -1,0 +1,22 @@
+<b>Curse of Lycanthropy</b>(Complete Divine)
+
+Necromancy
+ <b>Level:</b>   Pestilence 6,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Humanoid touched
+ <b>Duration:</b> Permanent; see text
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You can cause temporary lycanthropy in a humanoid you touch.
+A humanoid who fails the saving throw contracts lycanthropy, and the condition manifests with the next full moon.
+Unlike other forms of lycanthropy, the effect of this spell can be broken by remove curse or break enchantment.
+You can induce any type of common lycanthropy (and evil clerics frequently experiment with new kinds).
+As a rule, the lycanthrope's animal form can be any predator between the size of a small dog and a large bear.
+The source of the material component determines the victim's animal form.
+(More information on lycanthropes can be found in Appendix 3 of the Monster Manual).
+Material Component: A pint of animal blood.
+ <b>Also appears in</b>   Defenders of the Faith: A Guidebook to Clerics and Paladins     

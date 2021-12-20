@@ -1,0 +1,15 @@
+<b>Fearsome Grapple</b>(Spell Compendium, p. 90)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>Two short, otyughlike tentacles sprout form under your arms to hang limply at your sides. When you think of grappling, the tentacles twitch to life and wave about as if seeking a foe.</b>
+	
+You grow two tentacles that grant you a +4 circumstance bonus on grapple checks. These tentacles cannot attack, hold objects, manipulate items, or perform any action other than grappling. If your caster level is at least 9th, you grow four tentacles instead, and the circumstance bonus increases to +8.
+   

@@ -1,0 +1,19 @@
+<b>Ghost Pipes</b>(Lost Empires of Faerun)
+
+Transmutation
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One musical instrument
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+By means of this spell, you can cause one musical instrument you touch to float a few feet above the ground and play itself.
+The instrument must be intact and in playable condition (no missing strings, clogged mouthpieces, or other impediments to proper use).
+The instrument plays any tune you desire as though a skilled musician were playing it, regardless of whether you can play the instrument in question.
+If used in conjunction with your bardic music ability, the ghost pipes grant a +2 competence bonus on your Perform check.
+Focus: The instrument to be played.
+   

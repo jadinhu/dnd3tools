@@ -1,0 +1,21 @@
+<b>Khelben's Dweomerdoom</b>(City of Splendors: Waterdeep)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> 1 creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You counterspell an opponent's spell or spell-like ability before it is even cast and without knowing what spell you are countering.
+If the target prepares spells, you counterspell the highest level spell currently prepared, eliminating it from the target's list of prepared spells for that day.
+If the target casts spells spontaneously (and does not prepare spells), you effectively reduce by one the number of spells per day of the highest level spell slot available.
+If the target has spell-like abilities (and does not prepare spells or cast spells spontaneously), it loses one use of the highest-level spell-like ability available.
+Otherwise, this spell has no effect.
+You must make a successful dispel check (as the spell dispel magic, but the maximum caster level on your dispel check is +25 instead of +10) to successfully counter or remove your opponent's prepared spell, spell slot, or use of a spell-like ability.
+Focus: A crystal lens worth at least 1,000 gp.
+   

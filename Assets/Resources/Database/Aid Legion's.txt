@@ -1,0 +1,11 @@
+<b>Aid, Legion's</b>(Miniatures Handbook)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Allies in a 20-ft.-radius burst
+
+ 	
+This spell functions like aid (see page 196 of the Player's Handbook), except that it affects multiple allies at a distance and each ally gains temporary hit points equal to 1d8 + caster level (to a maximum of 1d8+20 temporary hit points at caster level 20th).
+   

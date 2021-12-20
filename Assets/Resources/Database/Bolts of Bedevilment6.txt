@@ -1,0 +1,17 @@
+<b>Bolts of Bedevilment</b>(Spell Compendium, p. 37)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>  Bard 5,   Madness 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Medium (100 ft. + 10 ft./ level)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a strangled peal of laughter to complete the spell, you point your hand at your enemy and fire a black beam from your finger.</b>
+	
+This spell grants you the ability to make one ray attack per round. You must succeed on a ranged touch attack with the ray to strike a target. A living creature struck by the ray is dazed for 1d3 rounds if it fails its save.
+   

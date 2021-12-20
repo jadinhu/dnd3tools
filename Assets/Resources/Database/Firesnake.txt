@@ -1,0 +1,16 @@
+<b>Firesnake</b>(Tome of Battle: The Book of Nine Swords, p. 53)
+
+Desert Wind (Strike) [Fire]
+ <b>Level:</b>  Swordsage 4 (Two Desert Wind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Special
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+
+ 	
+<b>You drive your weapon into the ground, causing a gout of fire to jet into the air. The fire flows back to the ground and creeps ahead like a serpent, sweeping over your enemies and roasting them where they stand.</b>
+	
+When you initiate this maneuver, you cause a line of fire to twist across an area to burn your enemies. This line is 60 feet long. Unlike a standard line, a firesnake can bend and twist to hit your foes. A firesnake starts in an adjacent square. It can move up to 60 feet each round. It can move out of your line of sight or line of effect, but you gain no special knowledge of the areas it moves into. If a firesnake moves into a creature?s space, that creature takes 6d6 points of fire damage, with a Reflex save (DC 14 + your Wis modifier) for half damage. A creature can only take damage from the firesnake once in a single round. It makes the saving throw and takes damage the first time that the firesnake touches it. After that, a firesnake has no effect on that creature. A firesnake must move along the ground. It cannot fly, and it pays the standard movement penalties for difficult terrain and other effects.
+This maneuver is a supernatural ability.</p   

@@ -1,0 +1,20 @@
+<b>Burning Rage</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As you imbue an ally with this spell, a nimbus of shimmering blue flame surrounds him.
+He winces in pain as the flames scorch his flesh, but when the eldritch power flows into him, his muscles surge with might.
+This spell imbues a creature with burning magical energy that enhances the subject's strength and endurance.
+The searing energy also burns and injures the subject.
+The subject of this spell gains a +1 bonus on attack rolls, a +2 bonus on damage rolls, and damage reduction 2/magic.
+This spell's burning energy deals 4 points of fire damage to the subject at the start of each of its turns until the spell's duration expires or you dismiss the effect.
+   

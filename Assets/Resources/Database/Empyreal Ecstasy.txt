@@ -1,0 +1,23 @@
+<b>Empyreal Ecstasy</b>(Book of Exalted Deeds, p. 98)
+
+Abjuration
+ <b>Level:</b>  Bard 6,   Pleasure 7,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 30 ft.
+ <b>Target:</b> One creature/level
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Like the <b>ease pain</b> spell, empyreal ecstasy immediately removes any lingering effects of pain, including penalties imposed by symbol of pain, angry ache, and similar spells. It neither prevents damage nor blocks other effects not directly related to pain (such as the recall agony or recall pain psionic power).
+The spell also induces a pleasurable fuguelike state that yields a number of additional effects:
+	
+First, empyreal ecstasy renders its targets immune to mind-affecting spells and effects for the spell's duration, but does not negate mind-influencing effects already in place.
+	
+Second, targets of the spell take only half damage from all melee and ranged attacks for the duration of the spell.
+	
+Third, the fuguelike state induced by the spell makes it difficult for targets to concentrate on certain tasks.
+Creatures in ecstasy take a -4 penalty on all skill checks, and casting a spell while under the influence of <b>empyreal ecstasy</b> requires a DC 15 Concentration check.
+   

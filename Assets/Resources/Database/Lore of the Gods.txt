@@ -1,0 +1,17 @@
+<b>Lore of the Gods</b>(Complete Champion)
+
+Divination
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level or until discharged
+
+ 	
+Your mind opens to the secrets of the cosmos and briefly touches the omniscience of the gods.
+You gain a +5 insight bonus on all Knowledge checks.
+At any point before the duration expires, you can make a check with a Knowledge skill in which you have no ranks, or retry a Knowledge check you have previously failed.
+The +5 insight bonus still applies in both of those cases, but utilizing this option reduces the spell's remaining duration to 1 minute/level.
+If you worship a deity who grants access to the Knowledge domain, the bonus is +10 rather than +5 � ;even if you did not choose that domain.
+   

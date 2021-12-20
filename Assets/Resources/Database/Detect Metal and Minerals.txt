@@ -1,0 +1,30 @@
+<b>Detect Metal and Minerals</b>(Races of Faerun)
+
+Divination
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Quarter-circle emanating from you to the extreme of the range
+ <b>Duration:</b> Concentration, up to 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can detect large accumulations of metals and other minerals, whether worked or unworked.
+The spell will detect everything from a vein of iron ore to a pile of gold coins, even through solid stone or other barriers.
+When you cast this spell, you must concentrate on at least 10 pounds of the metal or mineral you're searching for.
+If an accumulation of that metal 10 pounds or larger is within the spell area, you will unerringly sense it (most coins are 50 to the pound).
+The amount of information revealed depends on how long you study a particular area:
+1st Round: Presence or absence of the particular metal or mineral.
+2nd Round: Approximate weight of the metal or mineral.
+3rd Round: Distance and direction (measured in a straight line) to the metal or mineral.
+As long as the spell is active, you can change the metal or mineral you're trying to detect by simply concentrating on a different sample (it takes a standard action to refocus on the new sample).
+Thus you could search for gold, then switch to adamantine, then seek out sources of iron.
+If you stop concentrating on a sample, the spell ends.
+If your sample is unworked, you will detect only unworked accumulations of the metal, such as ore deposits and mineral veins.
+You will only detect worked metal, such as gold coins or mithral armor, if your sample is likewise refined.
+Note: Each round you can turn to detect things in a new area.
+The spell can penetrate any nonmagical solid barrier.
+Material Component: A 10-pound sample of the metal or mineral to be detected.
+   

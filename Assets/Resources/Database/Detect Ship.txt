@@ -1,0 +1,27 @@
+<b>Detect Ship</b>(Stormwrack)
+
+Divination
+ <b>Level:</b>  Bard 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Special
+ <b>Target:</b> You
+ <b>Duration:</b> 24 hours (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You gain the ability to discern the presence of ships around you.
+You perceive ships located within a distance of 1 mile per caster level, regardless of current visibility (or even whether or not they are beyond the horizon).
+You need not be seeking them to become aware that they are there � ;this spell will alert you to the presence of a ship if you are below decks or asleep.
+Exactly what can be ascertained depends on whether the ships in question are within sight or not yet visible.
+Not Visible: You sense only the presence of ships other than your own in the area.
+A DC 15 Profession (sailor) check allows you to determine the number, direction, and range to each new ship you sense.
+If you sense a ship's direction and range, you continue to be aware of this information until the other ship is no longer in range of the spell.
+Within Sight: If a ship is actually within sight, you can gain additional information by studying the vessel for 1 round.
+You need not be able to see the vessel clearly � ;a spot on the horizon is sufficient.
+A Profession (sailor) check gives you information about the ship or ships:
+This spell cannot penetrate illusions.
+Focus: A small disk of ground glass, hung on a golden chain and worn about the neck while the spell is in effect.
+This focus is worth 50 gp.
+   

@@ -1,0 +1,21 @@
+<b>Planar Navigation</b>(Stormwrack)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> One ship
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You move yourself and the contents of an entire ship to another plane of existence.
+When you begin casting the spell, a fog descends about the vessel, and clears within a minute.
+The ship always appears on a body of water large enough for the ship to sit in safely, unless the destination plane has no body of water large enough to hold the ship, in which case the ship simply materializes right side up, lying on the ground.
+If the destination plane is one that possesses an ocean, the ship automatically appears there.
+Note that this spell does not grant the ship or its inhabitants any ability to survive on the destination plane � ;the ship simply appears in the plane upon a body of water (or, in the case of planes that are made up of nothing but water, in the water).
+Any characters or creatures aboard unwilling to move to the new plane are entitled to a Will saving throw to resist the effect, but might find themselves floating in the water when the ship vanishes from around them.
+Arcane Focus: A sextant (see page 108).
+   

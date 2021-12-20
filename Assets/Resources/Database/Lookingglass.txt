@@ -1,0 +1,20 @@
+<b>Lookingglass</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Transmutation
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> A reflective surface at least as big as a Medium-size creature
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you create one end of a path between two natural mirrored surfaces, such as pools of water or clear lakes.
+If you cast a second lookingglass spell on a similar surface before the duration of the first expires, you can look through it as if you were using clairvoyance.
+Within 1 minute/level of casting the second lookingglass,
+you and up to one other creature/level may step through as if affected by teleport without error.
+This spell doesn't provide any ability to survive in the location of either lookingglass, so if you cast it the first spell on a lake, your allies had better be able to swim.
+If the spell duration of the first lookingglass spell elapses before you can complete the path with a second casting, the first spell is useless.
+   

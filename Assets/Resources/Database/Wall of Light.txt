@@ -1,0 +1,23 @@
+<b>Wall of Light</b>(Spell Compendium, p. 134)
+
+Evocation [Light]
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> A straight wall whose area is up to one 10-ft. square/level or a sphere or hemisphere with a radius of up to 5 ft./2 levels
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes; see text
+
+ 	
+<b>A blinding flash accompanies the completion of this spell as a wall of pure light springs into being.</b>
+	
+This spell causes a wall of dazzling yellow-white light to come into being at any point within range. The wall is opaque to all other creatures, though you can see through it without difficulty. A wall of light has no physical substance and does not otherwise hinder attacks, movement, or spells passing through it, although it blocks line of sight for other creatures.
+	
+A creature that passes through a wall of light becomes dazzled for the duration of the spell. Spell resistance applies when passing through the wall. Sightless creatures and those already dazzled are not affected by passing through a wall of light.
+	
+A wall of light sheds light equivalent to a <b>daylight</b> spell. Wall of light counters or dispels any darkness spell of equal or lower level.
+	
+Material Component: A pinch of powdered sunstone.
+   

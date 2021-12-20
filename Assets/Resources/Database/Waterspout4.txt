@@ -1,0 +1,31 @@
+<b>Waterspout</b>(Stormwrack)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 7,  Sorcerer 7,  Wizard 7,   Ocean 7,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> Cylinder 10 ft. wide and 80 ft. tall
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> No
+
+ 	
+Waterspout causes water to rise up into a whirling, cylindrical column that looks exactly like a tornado made of water.
+A body of water at least 10 feet wide and 20 feet deep must be present, or the spell is wasted.
+If the waterspout encounters insufficient depth after it has formed, it collapses.
+The waterspout moves at a speed of 30 feet and must remain over water.
+You can concentrate on controlling the waterspout's every movement or specify a simple program, such as move
+straight ahead, zigzag, circle, or the like.
+Directing the waterspout's movement or changing its programmed movement is a standard action for you.
+The waterspout always moves during your turn in the initiative order.
+If the waterspout exceeds the spell's range, it collapses and the spell ends.
+The waterspout batters creatures and objects it touches, and it often sucks them up inside its vortex.
+Any creature or object that comes in contact with the waterspout must succeed on a Reflex save or take 3d8 points of damage.
+Medium or smaller creatures who fail their save are sucked into the waterspout and whirled about inside its powerful currents, taking 2d6 points of damage each round with no save allowed.
+Trapped creatures remain inside for 1d3 rounds before the waterspout ejects them out the top of the spout, and they fall back to the surface (taking falling damage) 1d8x;5 feet from the base of the waterspout.
+Waterborne creatures or objects within 10 feet of the spout (below and on all sides) also must make Reflex saves or be sucked into the spout if they are Medium or smaller.
+Anything sucked into the spout takes 3d8 points of damage and is then trapped for 1d3 rounds as explained above.
+Only the smallest boats � ;canoes, kayaks, coracles, and the like � ;can be sucked into the spout.
+The occupant of any such craft can make a Profession (sailor) check instead of a Reflex save to avoid being sucked into the waterspout.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine  Forgotten Realms Campaign Setting     

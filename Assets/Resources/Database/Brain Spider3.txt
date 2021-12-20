@@ -1,0 +1,24 @@
+<b>Brain Spider</b>(Expanded Psionics Handbook)
+
+Divination [Mind-Affecting]
+ <b>Level:</b>  Cleric 8,   Mind 7,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> Up to eight living creatures
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell allows you to eavesdrop as a standard action on the thoughts of up to eight other creatures at once, hearing as desired:			Individual trains of thought in whatever order you desire.		Information from all minds about one particular topic, thing, or being, one nugget of information per caster level.		A study of the thoughts and memories of one creature of the group in detail.	
+Once per round, if you do not perform a detailed study of one creature's mind, you can attempt (as a standard action) to implant a suggestion in the mind of any one of the affected creatures.
+The creature can make another Will saving throw to resist the suggestion, using the save DC of the brain spider spell.
+(Creatures with special resistance to enchantment spells can use this resistance to keep from being affected by the suggestion).
+Success on this saving throw does not negate the other effects of the brain spider spell for that creature.
+You can affect all intelligent beings of your choice within range (up to the limit of eight), beginning with known or named beings.
+Language is not a barrier, and you need not personally know the beings � ;you can choose, for instance, &quot;the nearest eight guards who must be in that chamber there&quot;.
+The spell cannot reach those who make a successful Will save.
+Material Component: A spider of any size or kind.
+It can be dead, but must still have all eight legs.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins  Lords of Madness     

@@ -1,0 +1,18 @@
+<b>Know Protections</b>(Magic of Faerun)
+
+Divination
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You learn many of the unusual defenses the target creature has.
+The spell tells you the creature's damage reduction, spell resistance, and any resistances or immunity to energy attacks.
+For example, if cast upon a vampire, you learn that it has damage reduction 15/+1, and cold and electricity resistance 20; you do not learn about its fast healing or turn resistance.
+If cast upon a pit fiend, you learn that it has damage reduction 25/+2, spell resistance 28, is immune to fire, and has acid and cold resistance 20; it does not tell you any of its other defenses, such as fast healing or immunity to poison.
+   

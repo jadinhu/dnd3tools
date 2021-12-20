@@ -1,0 +1,19 @@
+<b>Disk of Solar Vengeance</b>(Champions of Valor)
+
+Evocation [Fire]
+ <b>Level:</b>   Initiate of horus-re 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level or until discharged (D)
+
+ 	
+This spell creates a disk of sunlike flames behind your head.
+The flames give you resistance to cold 5.
+In addition, if any creature strikes you with a natural attack, an unarmed strike, or a melee weapon that is not a reach weapon, it takes 1d6 points of fire damage +1 point per caster level (maximum +5) after dealing its normal damage to you.
+This instantly discharges the spell.
+If the attacker has spell resistance, it applies to this effect.
+Creatures wielding reach weapons, such as longspears, trigger this effect but are not subject to this damage if they attack you.
+You can also use the spell to attack as if it were a touch spell (a successful hit discharges the spell).
+   

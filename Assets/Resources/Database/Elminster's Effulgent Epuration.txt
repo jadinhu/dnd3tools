@@ -1,0 +1,26 @@
+<b>Elminster's Effulgent Epuration</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 60 ft.
+ <b>Effect:</b> One glowing sphere/level
+ <b>Duration:</b> Until expended or 10 minutes/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create multiple floating silvery spheres, each 6 inches in diameter.
+These spheres appear in a spiral above your head or around your body and follow you up to 60 feet per round.
+The spheres intercept incoming hostile magic, negating spells or spell-like abilities that would affect you or that have an effect that extends into your space.
+One sphere is expended for each spell level of the effect negated, so a slay living spell (Clr 5) would expend five spheres.
+In the case of area effect spells, it negates the whole spell.
+If not enough spheres exist to negate an incoming effect, the spheres remain and the effect works as normal.
+You may move one or more spheres up to 60 feet as a standard action.
+If not sent to another area, the spheres default to following you.
+If you exceed their range, they remain behind and function normally at that location.
+The spheres have no physical substance, do not provide cover or concealment, and conform to narrow spaces up to 6 inches in diameter without altering their ability to function.
+They cannot pass through solid objects or force effects.
+They cannot be harmed by physical or magical attacks except those that dispel or negate magic entirely (such as dispel magic, antimagic field, and so on).
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

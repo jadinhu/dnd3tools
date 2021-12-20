@@ -1,0 +1,12 @@
+<b>Iron Bones</b>(Ghostwalk)
+
+Transmutation
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>
+
+ 	
+As stone bones, except the target creature's skeleton changes to iron.
+The creature gains a +5 natural armor bonus to AC.
+Focus: A miniature skull made out of iron or steel.
+This spell first appeared in Magic of FaerÃ»n.
+ <b>Also appears in</b>   Spell Compendium  Tome of Battle: The Book of Nine Swords  Magic of Faerun     

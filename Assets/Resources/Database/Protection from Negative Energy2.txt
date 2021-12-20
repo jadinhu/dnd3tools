@@ -1,0 +1,17 @@
+<b>Protection from Negative Energy</b>(Planar Handbook)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The warded creature gains partial protection against negative energy effects.
+Subtract 10 from the hit point damage dealt by any negative energy effect (such as an inflict spell) that affects the warded creature.
+Negative energy effects that don't directly deal hit point damage (such as energy drain) affect the target normally.
+ <b>Also appears in</b>   Spell Compendium  Libris Mortis: The Book of the Dead     

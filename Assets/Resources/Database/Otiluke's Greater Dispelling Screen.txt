@@ -1,0 +1,9 @@
+<b>Otiluke's Greater Dispelling Screen</b>(Complete Arcane)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>
+
+ 	
+As Otiluke's dispelling screen, except that the maximum caster level bonus on the dispel check is +20.
+ <b>Also appears in</b>   Tome and Blood: A Guidebook to Wizards and Sorcerers     

@@ -1,0 +1,12 @@
+<b>Harm, Mass</b>(Heroes of Horror)
+
+Necromancy
+ <b>Level:</b>  Dread Necromancer 9,    
+<b>Components:</b>
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> 20-ft.-radius burst centered on caster
+ <b>Target:</b> All creatures except the caster in the area
+
+ 	
+As greater harm, except as noted above.
+   

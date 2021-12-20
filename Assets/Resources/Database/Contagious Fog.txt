@@ -1,0 +1,19 @@
+<b>Contagious Fog</b>(Spell Compendium, p. 52)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> See text
+
+ 	
+<b>Spitting the last phrase of the spell, you throw out your arm, and a brown mist whirls into being around your foes.</b>
+	
+This spell functions like <b>fog cloud</b> (<b>PH</b> 232), except as noted here. Each round that a creature is within the fog, it must make a Fortitude save or contract a disease equivalent to the shakes (<b>DMG</b> 292), which strikes immediately (no incubation period). A creature afflicted with this disease takes 1d8 points of Dexterity damage immediately, and each day that the disease persists, it must make a DC 13 Fortitude save or take another 1d8 points of Dexterity damage.
+	
+The fog moves away from you at 10 feet per round, rolling along the surface of the ground or water. (Figure out the cloud's new spread each round based on its new center, which is 10 feet farther away from the point of origin where you cast the spell.) Because the vapors are heavier than air, they sink to the lowest level of the surface over which they move, pouring down sinkhole openings, and even down through minute cracks. <b>Contagious fog</b> cannot penetrate liquids, nor can it be cast underwater.
+	
+<b>Material Component:</b> A used handkerchief.
+ <b>Also appears in</b>   Underdark     

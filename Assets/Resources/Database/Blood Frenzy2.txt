@@ -1,0 +1,17 @@
+<b>Blood Frenzy</b>(Spell Compendium, p. 33)
+
+Transmutation
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Target:</b> Any creature with the rage ability
+ <b>Duration:</b> see text
+ <b>Saving Throw:</b> Will Negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A hot rush of anger flows through your target's veins.</b>
+	
+The target creature enters a rage, as its rage special ability, but this rage does not count toward the creature's number of rage attempts per day.
+ <b>Also appears in</b>   Magic of Faerun     

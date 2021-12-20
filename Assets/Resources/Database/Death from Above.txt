@@ -1,0 +1,18 @@
+<b>Death from Above</b>(Tome of Battle: The Book of Nine Swords, p. 86)
+
+Tiger Claw (Strike)
+ <b>Level:</b>  Swordsage 4 (One Tiger Claw maneuver),  Warblade 4 (One Tiger Claw maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>With a war cry, you leap into the air and lift your weapon high overhead. As you arc downward, your weight and momentum lend bonecrushing force to your attack.</b>
+	
+Like a thunderbolt, you slam into your foe from above. You leap upon your enemy and drive him into the ground. The impact of your attack gives you extra force, allowing you to score a deadly hit.
+	
+To use this maneuver, you must be adjacent to a foe. As part of this maneuver, you attempt a DC 20 Jump check. If this check succeeds, you can make a single melee attack against an opponent that you were adjacent to when you began this maneuver. This attack occurs in the air as you soar over your opponent, also as part of the maneuver. Your attack deals an extra 4d6 points of damage, and your opponent is considered flat-footed against this attack. You then land in any square adjacent to the target of this attack, though no more than 20 feet away from your starting position.
+	
+If your Jump check fails, you remain in the last square you occupied before the Jump check and can make a single attack normally. The maneuver is still considered expended.
+   

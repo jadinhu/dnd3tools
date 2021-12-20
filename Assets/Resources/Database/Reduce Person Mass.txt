@@ -1,0 +1,15 @@
+<b>Reduce Person, Mass</b>(Player's Handbook v.3.5, p. 269)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,  Sha'ir 4,  Jester 4,   Pride 5,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One humanoid creature/level, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell functions like <b>reduce person</b>, except that it affects multiple creatures.
+   

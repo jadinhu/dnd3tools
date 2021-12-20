@@ -1,0 +1,16 @@
+<b>Steely Strike</b>(Tome of Battle: The Book of Nine Swords, p. 69)
+
+Iron Heart (Strike)
+ <b>Level:</b>  Warblade 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round; see text
+
+ 	
+<b>You focus yourself for a single, accurate attack, shrugging off your opponent?s blows and ignoring the need for defense as you make your assault.</b>
+	
+The Iron Heart discipline teaches focus, allowing you to engage and defeat one opponent at a time. Your other enemies mean nothing to you as you press your attack.
+	
+You make a single melee attack as part of this strike. You gain a +4 bonus on the attack roll. All opponents other than the one you attacked gain a +4 bonus on attack rolls against you for 1 round.</p   

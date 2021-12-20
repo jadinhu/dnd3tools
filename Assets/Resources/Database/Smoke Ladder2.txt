@@ -1,0 +1,21 @@
+<b>Smoke Ladder</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 1 (Fire),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Effect:</b> A ladder of smoke, up to 10 ft. long/level
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Using this spell, you can mold and shape ordinary smoke into a misty ladder.
+Reaching into the smoke given off by a fire, you cast the spell while shaping the ladder.
+The ladder weighs virtually nothing, and you can easily handle a smoke ladder of any length.
+Furthermore, the ladder is always steady and rigid; it need not be supported or leaned against an object.
+You simply place it in the desired position and climb.
+You can extend the spell's duration by casting the spell again on the smoke ladder.
+Focus: A large fire of green wood.
+ <b>Also appears in</b>   Complete Arcane     

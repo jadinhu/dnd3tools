@@ -1,0 +1,17 @@
+<b>Symbol of Spell Loss</b>(Spell Compendium, p. 218)
+
+Abjuration
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> 0 ft.; see text
+ <b>Effect:</b> One symbol
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You trace the symbol and feel a pull as it tugs against the magical energy in your mind.</b>
+	
+This spell functions like <b>symbol of death</b> (PH 289), except that when it is triggered, the symbol begins to attack the minds of spellcasters within 60 feet. Each must attempt a Will saving throw every round they are within range, at the beginning of their turn. Failure means that the highest-level spell prepared by the spellcaster (or highest-level spell slot, if the character casts spells spontaneously) is lost for the day. The symbol remains active for 10 minutes per level or until it has erased fifty levels of spells. The symbol attacks creatures with spell-like abilities as if they had spells, consuming a daily use of the highest-level ability the creature possesses, or suppressing an ability usable at will for 1 round.
+   

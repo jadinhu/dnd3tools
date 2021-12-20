@@ -1,0 +1,21 @@
+<b>Revenance</b>(Magic of Faerun)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 4 (Jergal),  Paladin 4,  Bard 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> Dead ally touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None (see text)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You touch a recently slain ally and temporarily restore the character to life so he may continue to fight.
+The target can have been dead for up to 1 round/caster level.
+He functions as if a raise dead spell had been cast upon him, except that she does not lose a level and has half of his normal hit points.
+He is alive (not undead) for the duration of the spell and can be healed normally, but dies as soon as the spell ends.
+While the subject is under this spell, he is not affected by resurrection or raise dead.
+The target gains a +1 morale bonus on attacks, damage, saves, and checks against the creature that killed him.
+Material Component: 500 gp of diamond dust sprinkled over the body.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

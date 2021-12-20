@@ -1,0 +1,25 @@
+<b>Shelgarn's Persistent Blade</b>(Magic of Faerun)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One small blade
+ <b>Duration:</b> 1 round/2 levels
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You bring into being a tiny blade of force.
+The blade flies at a speed of 40 feet and attacks any target within its range, as you desire, starting the round that you cast the spell.
+The blade attacks on your turn once each round, striking with an attack bonus equal to half your Charisma or Intelligence modifier (for sorcerers and wizards, respectively) and dealing damage as a dagger (including the threat range and critical multiplier).
+If an ally also attacks the creature, the blade moves on your turn to flank the target.
+As a force effect, it can strike ethereal and incorporeal creatures.
+The blade is AC 14 (+2 size, +2 Dex) and has 1 hit point.
+Each round after the first, you can use a standard action to switch the blade to a new target; otherwise it continues to attack the same target.
+If an attacked creature has spell resistance, the resistance is checked the first time Shelgarn's persistent blade strikes.
+If the blade is successfully resisted, the spell is dispelled.
+If not, the blade has its normal full effect on that creature for the duration of the spell.
+Focus: A silvered dagger.
+   

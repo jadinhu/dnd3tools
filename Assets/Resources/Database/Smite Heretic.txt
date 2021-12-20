@@ -1,0 +1,14 @@
+<b>Smite Heretic</b>(Book of Exalted Deeds)
+
+Conjuration
+ <b>Level:</b>  Paladin 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+For the duration of the spell, when using your smite evil class ability against an evil creature with the ability to cast divine spells, you gain a +2 sacred bonus on the attack roll.
+Furthermore, the attack deals 2 extra points of damage (instead of 1) per paladin level.
+   

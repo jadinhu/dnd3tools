@@ -1,0 +1,16 @@
+<b>Nature's Avatar</b>(Complete Divine)
+
+Evocation
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Animal touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You infuse the subject with the spirit of nature.
+The affected creature gains a +10 morale bonus on attack and damage rolls and 1d8 temporary hit points per caster level, plus the effects of haste.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Spell Compendium     

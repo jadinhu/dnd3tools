@@ -1,0 +1,19 @@
+<b>Heal</b>(Player's Handbook v.3.5, p. 239)
+
+Conjuration (Healing)
+ <b>Level:</b>  Adept 5,  Runescarred Berserker 5,  Cleric 6,  Healer 6,  Druid 7,  Urban Druid 7,   Healing 6,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Heal enables you to channel positive energy into a creature to wipe away injury and afflictions. It immediately ends any and all of the following adverse conditions affecting the Target: ability damage, blinded, confused, dazed, dazzled, deafened, diseased, exhausted, fatigued, feebleminded, insanity, nauseated, sickened, stunned, and poisoned. It also cures 10 hit points of damage per level of the caster, to a maximum of 150 points at 15th level.
+	
+Heal does not remove negative levels, restore permanently drained levels, or restore permanently drained ability score points.
+	
+If used against an undead creature, heal instead acts like harm.
+   

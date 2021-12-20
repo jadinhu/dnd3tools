@@ -1,0 +1,18 @@
+<b>Incorporeal Disharmonics</b>(Ghostwalk)
+
+Evocation [Ectomancy, Sonic]
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One incorporeal creature and see text
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a wave of sonic energy that is harmful to incorporeal creatures.
+The target creature cannot avoid the damage with its incorporeal miss chance and takes 1d6 points of sonic damage per two caster levels.
+All creatures in adjacent squares take 1 point of sonic damage from the residual effects of the energy wave.
+Focus: A silver tuning fork.
+   

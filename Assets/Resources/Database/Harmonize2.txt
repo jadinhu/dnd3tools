@@ -1,0 +1,18 @@
+<b>Harmonize</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Evocation
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 3 rounds
+ <b>Range:</b> Touch
+ <b>Target:</b> Up to 4 bards (including the caster), none of whom can be more than 10 feet from the nearest other target
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell enables two to four bards to pool their talents by performing in a group.
+The caster designates one bard to be the lead performer, and the rest provide backup.
+Harmonize grants the lead performer a circumstance bonus on Perform checks equal to +1 per three bard levels of the backup performers for the duration of the spell.
+Focus: The caster's instrument.
+ <b>Also appears in</b>   Races of Stone     

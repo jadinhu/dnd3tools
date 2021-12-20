@@ -1,0 +1,20 @@
+<b>Flowsight</b>(Stormwrack)
+
+Divination (Scrying)
+ <b>Level:</b>  Bard 4,  Druid 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Area:</b> 60-ft. radius
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+By touching a nearby source of water � ;a standing pool, a stream, or even a portion of a larger body of water � ;you can perceive creatures and objects in contact with the water.
+You can concentrate to focus flowsight on a given creature.
+You retain your full visual acuity, including any magical effects, as well as any auditory enhancements you might have.
+This action makes the subject potentially aware of the magical scrying; on a Will save, it prevents you from learning more about it, and you cannot try again on that subject for 24 hours.
+However, you can turn your consciousness to another subject in contacted with the water and make a new scrying attempt each round.
+Arcane Material Component: A piece of limestone.
+   

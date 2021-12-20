@@ -1,0 +1,22 @@
+<b>Spectral Touch</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature or creatures touched (up to one/level)
+ <b>Duration:</b> 1 round/level (D); see text
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A touch from your hand, which crackles with black energy, weakens the life force of living creatures.
+Each touch channels negative energy that bestows one negative level on the target and grants you 5 temporary hit points.
+Both the negative level and the temporary hit points last for up to 1 hour.
+A target's successful Fortitude save negates the negative level and prevents you from gaining the temporary hit points.
+You can use this melee touch attack once per round for a number of rounds equal to your level.
+Any charges of the spell not used by the time the duration expires are lost.
+An undead creature you touch instead gains 5 temporary hit points and you lose a like amount (no save).
+Temporary hit points gained in this way last for up to 1 hour.
+ <b>Also appears in</b>   Spell Compendium     

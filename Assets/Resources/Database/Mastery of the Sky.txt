@@ -1,0 +1,19 @@
+<b>Mastery of the Sky</b>(Races of the Wild)
+
+Transmutation [Air]
+ <b>Level:</b>   Sky 8,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+The air around you shapes itself to assist you and interfere with your foes' attacks.
+While airborne, you gain a +2 competence bonus on attack rolls and damage rolls.
+Your maneuverability becomes perfect, and your movement (whether airborne or not) is unaffected by winds of less than hurricane strength (see page 95 of the Dungeon Master's Guide).
+The winds whipping around you (the equivalent of a windstorm) cause ranged weapon attacks made against you to automatically miss, and even siege weapons take a -4 penalty on attack rolls.
+Melee attacks made against you by Huge or smaller creatures have a 50% miss chance.
+Medium or smaller creatures cannot enter your space (such as to bull rush you or tumble through your space).
+This spell has no effect if cast underwater or in an airless environment.
+   

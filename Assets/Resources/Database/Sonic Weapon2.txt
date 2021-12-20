@@ -1,0 +1,15 @@
+<b>Sonic Weapon</b>(Spell Compendium, p. 195)
+
+Transmutation [Sonic]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+<b>Holding the weapon to your mouth, you whisper the spell's arcane words, shrouding the weapon in visible sound like a thin sheen of water.</b>
+	
+While the spell is in effect, the affected weapon deals an extra 1d6 points of sonic damage with each successful attack. The sonic energy does not harm the weapon's wielder. Bows, crossbows, and slings that are affected by this spell bestow the sonic energy upon their ammunition.
+ <b>Also appears in</b>   Complete Adventurer     

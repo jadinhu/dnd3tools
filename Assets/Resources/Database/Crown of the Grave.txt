@@ -1,0 +1,27 @@
+<b>Crown of the Grave</b>(Player's Handbook II)
+
+Necromancy
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level (D) or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+A ring of ghostly fog surrounds the target's head.
+With a swirl, the fog dissipates, leaving behind a crown made of human bones.
+This spell creates a magic crown that grants its wearer the power to command undead.
+Once per minute, the crown's wearer can issue a one-word order to an undead creature, as per the command spell.
+The undead creature must make a Will save to resist this effect.
+Even though command is normally a mind-affecting spell, the crown channels holy or unholy energy (depending on your alignment; neutral casters choose one or the other) to compel obedience.
+In addition, a cleric who wears the crown can expend a use of his turn or rebuke undead ability to increase this ability's save DC by 4.
+As an immediate action, the creature wearing a crown of the grave can discharge its magic to gain a +4 bonus on a single turn or rebuke undead attempt.
+The spell ends after the wearer uses the crown in this manner.
+The crown occupies space on the body as a headband, hat, or helm.
+If the crown is removed, the spell immediately ends.
+Material Component: A pinch of grave dirt.
+Focus: A wooden hoop 6 inches in diameter.
+   

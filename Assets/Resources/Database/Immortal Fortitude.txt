@@ -1,0 +1,20 @@
+<b>Immortal Fortitude</b>(Tome of Battle: The Book of Nine Swords, p. 59)
+
+Devoted Spirit (Stance)
+ <b>Level:</b>  Crusader 8 (Three Devoted Spirit maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>Despite the horrific wounds you suffer, the flash of searing spells, and the crash of a foe?s mighty attacks, you stand resolute on the field. So long as the potential for victory exists, you fight on.</b>
+	
+Death has little meaning to you in light of the cause you fight for. So long as the mission stands before you uncompleted, or a battle remains in doubt, you fight on. Stories abound of crusaders who, while in the grips of this stance, fought for days on end to hold a mountain pass against orcs, trolls, and other fiends. 
+	
+So long as you remain in this stance, you cannot be killed or incapacitated by effects or attacks that reduce you to 0 or fewer hit points. If you take such damage, you can make a Fortitude save with a DC equal to your negative hit point total. If you fail this save, you die or fall unconscious (as appropriate). If this save is successful, you are still alive and conscious, with 1 hit point remaining.
+	
+This stance provides no protection against effects that slay you without dealing hit point damage, or other effects that petrify, paralyze, and so forth. You can still be slain by a coup de grace if a spell or effect renders you helpless. 
+	
+After you attempt three saving throws to avoid death or unconsciousness, this stance automatically ends. You can activate it again on your turn as normal. Even the toughest crusader can endure only so much punishment.</p   

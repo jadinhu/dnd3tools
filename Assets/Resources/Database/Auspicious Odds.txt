@@ -1,0 +1,17 @@
+<b>Auspicious Odds</b>(Unearthed Arcana)
+
+Evocation
+ <b>Level:</b>   Luck 3,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level; see text
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Whenever making an attack roll, saving throw, ability check, or skill check, the subject rolls 4d6 and drops the lowest single die roll from the total rather than rolling 3d6.
+If, on a single roll, all four die results are 1s, the spell immediately ends.
+Material Component: A copper piece.
+   

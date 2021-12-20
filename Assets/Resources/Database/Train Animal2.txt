@@ -1,0 +1,19 @@
+<b>Train Animal</b>(Spell Compendium, p. 221)
+
+Enchantment (Charm) [Mind-Affecting]
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Animal touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>At last, you near the end of the spell's complicated procedure. As the final act of the ritual, you call out the tricks you wish to teach the animal you are touching. Your hand tingles for a moment as the spell takes effect.</b>
+	
+While this spell is in effect, the affected animal gains a number of additional tricks equal to half your caster level (maximum five).
+	
+This spell does not modify an animal's attitude toward you, nor does it guarantee that an animal will cooperate when instructed to perform the newly learned tricks.
+ <b>Also appears in</b>   Complete Adventurer     

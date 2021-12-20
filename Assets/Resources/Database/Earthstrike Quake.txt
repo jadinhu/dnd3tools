@@ -1,0 +1,19 @@
+<b>Earthstrike Quake</b>(Tome of Battle: The Book of Nine Swords, p. 82)
+
+Stone Dragon (Strike)
+ <b>Level:</b>  Crusader 8 (Two Stone Dragon maneuvers),  Swordsage 8 (Two Stone Dragon maneuvers),  Warblade 8 (Two Stone Dragon maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> 20-ft.-radius burst, centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex negates
+
+ 	
+<b>You swing your weapon in a wild arc, slamming it into the ground at your feet. Energy surges out from you, causing the ground to shudder with a sharp tremor.</b>
+	
+You channel ki into the earth with your mighty strike, causing the ground to rumble and shake briefly. Anyone standing on the ground in this maneuver?s area must make a successful Reflex save (DC 18 + your Str modifier) or be knocked prone. Any creature standing on the ground in this area that is currently casting a spell must succeed on a Concentration check (DC 20 + spell level) or lose the spell.
+	
+You are immune to the effect of the earthstrike quake maneuver. Your allies must still save as normal against its effect.
+	
+Walls and similar barriers don?t block the line of effect of an earthstrike quake.</   

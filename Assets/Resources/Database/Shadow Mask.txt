@@ -1,0 +1,20 @@
+<b>Shadow Mask</b>(Forgotten Realms Campaign Setting)
+
+Illusion (Shadow)
+ <b>Level:</b>  Telflammar Shadowlord 1,  Harper Scout 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+You cause amask of shadows to form around your face.
+It does not impede your vision, cannot be physically removed, completely hides your features, and protects you against certain attacks.
+You receive a +4 bonus on saving throws against light or darkness spells and any spells that rely on bright light for damaging effects, such as the flare spell or the fireworks effect of pyrotechnics.
+You also gain a 50% chance each round to avoid having to make a saving throw against gaze attacks, just as if you averted your eyes.
+If you avert your eyes while using shadow mask, you get to check twice to see if you avoid having to make the saving throw.
+When the spell's duration ends, the shadow mask fades over the course of 1d4 rounds (rather than immediately), giving you time to keep your face hidden via other means.
+A successful dispel magic cast against a shadow mask effectively ends the spell and causes the same slow fading.
+Material Component: A mask of black cloth.
+ <b>Also appears in</b>   Spell Compendium     

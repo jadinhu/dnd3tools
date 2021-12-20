@@ -1,0 +1,20 @@
+<b>Stone Bones</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Cleric 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Corporeal undead creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You cause the skeleton of the target corporeal undead to become thicker and as strong as stone.
+This gives the target a +3 natural armor bonus to AC.
+It has no effect if the creature has no skeleton (such as an undead plant or octopus) but works normally on creatures that have exoskeletons (such as insects).
+Another version of this spell is rumored to exist that works on living creatures, but causes wracking pains because of the radical alteration of its skeleton.
+The other version has fallen out of use because few creatures willingly subject themselves to it (except perhaps worshipers of Loviatar).
+Arcane Focus: A miniature skull carved of granite.
+ <b>Also appears in</b>   Spell Compendium  Ghostwalk  Tome of Battle: The Book of Nine Swords     

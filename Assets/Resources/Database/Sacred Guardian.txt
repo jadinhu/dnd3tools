@@ -1,0 +1,21 @@
+<b>Sacred Guardian</b>(Book of Exalted Deeds)
+
+Divination
+ <b>Level:</b>  Apostle of Peace 5,  Cleric 5,    
+<b>Components:</b>V, S, Celestial
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Object or willing creature touched
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> None (see text)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Celestials use sacred guardian to monitor the location and condition of a creature or object that has been placed in their care.
+Similar to status, this spell makes the caster constantly aware of the target creature or object's precise location and status: whether a creature is unharmed, wounded, disabled, staggered, unconscious, dying, dead, and so on, or whether an object is unharmed, damaged, or destroyed.
+Once the spell is cast, the distance between the caster and the subject does not affect the spell, and the spell continues to function even if the subject and caster are on different planes of existence.
+If the caster wishes to teleport to the subject's presence, he can do so even if he is not familiar with the location (assuming he has access to teleportation magic).
+If the caster casts scrying or greater scrying on the subject, the subject does not receive a saving throw; unless the subject is warded by a spell or in a location that blocks scrying magic, the spell automatically succeeds.
+This spell has no effect on unwilling creatures.
+If the target is an attended object, the attending creature must be willing for the object to receive the spell.
+   

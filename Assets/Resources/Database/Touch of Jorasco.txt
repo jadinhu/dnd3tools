@@ -1,0 +1,19 @@
+<b>Touch of Jorasco</b>(Races of Eberron, p. 190)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 1,    
+<b>Components:</b>V, S, DF, Halfling
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal and touch; see text
+ <b>Target:</b> You and creature touched; see text
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Whether roaming the broad Talenta plains or attending a glittering social gathering in the heights of Sharn, the halflings of House Jorasco understand more of healing than any other power in Eberron, and work to perfect specialized healing magic. This spell imbues the caster with an ability to heal minor wounds that lasts throughout the day. When you cast this spell, you store healing energy within your own form that can then be used to heal a number of hit points equal to twice your caster level (maximum 10 hp). You may choose to divide this healing among multiple recipients, and you don't have to use it all at once. Delivering healing with this spell requires a touch (a standard action) but does not provoke attacks of opportunity.
+	
+The effects of multiple touch of Jorasco spells do not stack, meaning that you can only store healing energy from one such spell at a time. If you cast the spell again before discharging all of the healing from a previous casting, the new total simply replaces the earlier one, effectively ending the previous spell.
+	
+As with all healing spells, touch of Jorasco deals damage to undead creatures. Using the spell in this way requires a successful melee touch attack but doesn't provoke attacks of opportunity. You decide how many points of healing energy to discharge as damage after successfully touching an undead creature.
+   

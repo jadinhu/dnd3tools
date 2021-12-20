@@ -1,0 +1,26 @@
+<b>Girallon's Blessing</b>(Savage Species, p. 66)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You give the subject one additional pair of arms for every four caster levels.
+Each arm ends in a hand with fingers and an opposable thumb.
+The spell can create a maximum of five pairs of arms, but the size of the subject limits the number of pairs of additional arms it can have: one for Small, two for Medium-size, three for Large, or four for a Huge or larger creature.
+The creature's original arms (if any) are its primary arms, and all others are secondary limbs (if the subject had no arms, the arms created by the spell are its primary arms).
+The new limbs can be confusing.
+In a stressful or demanding situation, such as combat, the subject must make a Will save (DC 19) or take a -2 penalty on all attack rolls, saves, skill checks, and ability checks until the situation passes.
+Nonmagical clothing or armor is destroyed by the transformation, but magic armor and clothing shifts to accommodate the new arms.
+The additional arms do not allow additional attacks or several simultaneous physical tasks.
+They do not increase the subject's reach.
+However, they do allow the subject to use items designed for creatures with more than two arms, or to use a two-handed item and another piece of equipment.
+For instance, a subject could wield a greatsword while using a shield.
+Material Component: A few strands of girallon hair.
+ <b>Also appears in</b>   Spell Compendium     

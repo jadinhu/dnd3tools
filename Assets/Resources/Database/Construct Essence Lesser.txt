@@ -1,0 +1,19 @@
+<b>Construct Essence, Lesser</b>(Faiths of Eberron, p. 150)
+
+Transmutation
+ <b>Level:</b>  Artificer 2,  Sorcerer 2,  Wizard 2,   Warforged 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living construct touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>As you lay your hand on the living construct standing before you, its form becomes more durable and unyielding.</b>
+	
+When this spell is cast upon a living construct, it takes on more of the qualities of a true construct. The living construct gains the moderate fortification armor special quality, negating critical hits and sneak attacks 75% of the time. As well, the living construct gains low-light vision and immunity to nonlethal damage and stunning.
+	
+If this spell is cast on a creature under the effect of <b>lesser humanoid essence</b>, both spells are dispelled and have no effect. It has no effect if cast on a creature under the effect of humanoid essence or greater humanoid essence.
+ <b>Also appears in</b>   Races of Eberron     

@@ -1,0 +1,33 @@
+<b>Whirlwind, Greater</b>(Complete Divine)
+
+Evocation [Air]
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> 20-ft.-radius tornado, up to 5 ft./caster level tall, centered anywhere within range
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates a tornado that wreaks destruction as you direct, flinging your foes into the air and destroying nearby structures.
+The greater whirlwind affects creatures differently, depending on their size and where they are in relation to the twister.
+Near the Tornado: Large or smaller creatures who start their turn within 60 feet of the center of the greater whirlwind must succeed on a Fortitude save or be dragged 1d4x;10 feet toward the center of the twister, taking 1d4 points of nonlethal damage per 10 feet dragged.
+Huge creatures within 40 feet of the twister must succeed on a Fortitude save or be knocked prone.
+Gargantuan and Colossal creatures within 40 feet of the twister must succeed on a Fortitude save before moving away from the twister.
+Flying creatures of size Huge or smaller that fail their Fortitude saves are sucked to the center of the twister, taking 2d6 points of damage from the battering and buffeting.
+Gargantuan flying creatures must succeed on a Fortitude save or be pulled 1d6x;10 feet toward the center of the twister.
+Colossal flyers must likewise make Fortitude saves or be pulled 1d6x;5 feet toward the twister's center.
+Inside the Tornado: Creatures who start their turn inside the tornado take 6d6 points of damage for each of the 1d10 rounds they remain inside it (roll separately for each creature).
+Creatures inside the tornado can't do much; attacks, spellcasting, and movement are impossible within an greater whirlwind.
+When the greater whirlwind expels a creature, it reappears 4d6x;5 feet away from the twister's center in a random direction, and 4d6x;5 feet off the ground (immediately falling if it can't fly).
+Terrain and Structures: The tornado uproots trees and other vegetation automatically, and it leaves a trail of dense rubble (as described on page 90 of the Dungeon Master's Guide) wherever it goes.
+Structures within a greater whirlwind take 2d6x;10 points of damage per round.
+In a round or two, that is sufficient to destroy any building made of materials less sturdy than reinforced masonry.
+No ranged attacks can pass through the twister.
+The greater whirlwind extinguishes all flames it touches.
+Listen checks are impossible within a greater whirlwind.
+The greater whirlwind remains stationary unless you direct it elsewhere as a move action.
+It moves up to 60 feet per round.
+ <b>Also appears in</b>   Spell Compendium     

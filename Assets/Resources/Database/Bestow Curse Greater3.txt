@@ -1,0 +1,22 @@
+<b>Bestow Curse, Greater</b>(Spell Compendium, p. 27)
+
+Necromancy
+ <b>Level:</b>  Cleric 7,  Wizard 8,  Sorcerer 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature Touched
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will Negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Channeling your hatred into binding words of power, you thrust your hand at your foe and proclaim a terrible curse.</b>
+	
+The spellcaster places a curse on the creature touched, choosing one of the three following effects.			One ability score is reduced to 1, or two ability scores take � ;6 penalties (to a minimum score of 1).		 � ;8 penalty on attack rolls, saving throws, ability checks, and skill checks.		Each turn, the subject has a 25% chance to act normally; otherwise, it takes no action.	
+	
+You can also invent your own curse, but it should be no more powerful than those described above, and the Dungeon Master has the final say on the curse's effect. 
+	
+A greater curse cannot be dispelled,
+nor can it can be removed with break enchantment or limited wish. A miracle or wish spell removes a greater curse, as does remove curse cast by a spellcaster of at least 17th level.
+ <b>Also appears in</b>   Complete Divine  Races of Destiny     

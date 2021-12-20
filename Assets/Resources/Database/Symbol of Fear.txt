@@ -1,0 +1,14 @@
+<b>Symbol of Fear</b>(Player's Handbook v.3.5, p. 290)
+
+Necromancy [Fear, Mind-Affecting]
+ <b>Level:</b>  Cleric 6,  Sorcerer 6,  Wizard 6,  Wu Jen 6,  Sha'ir 6,  Death Master 6,  Court Herald 6,    
+<b>Components:</b>
+ <b>Saving Throw:</b> Will negates
+
+ 	
+This spell functions like symbol of death, except that all creatures within 60 feet of the symbol of fear instead become panicked for 1 round per caster level.
+Note:Magic traps such as symbol of fear are hard to detect and disable.
+A rogue (only) can use the Search skill to find a symbol of fear and Disable Device to thwart it.
+The DC in each case is 25 + spell level, or 31 for symbol of fear.
+Material Component:Mercury and phosphorus, plus powdered diamond and opal with a total value of at least 1,000 gp.
+   

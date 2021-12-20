@@ -1,0 +1,22 @@
+<b>Defenestrating Sphere</b>(Complete Arcane)
+
+Evocation [Air]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> 2-ft.-radius sphere
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A cloudy gray sphere of whirling air and howling wind flies to attack your enemies and hurl them to the sky.
+As a move action, you can make the sphere travel up to 30 feet per round and strike the creature or object you indicate as a ranged touch attack.
+Any creature struck by the sphere takes 3d6 points of damage from the force of its winds.
+In addition, Medium or smaller creatures must succeed on a Fortitude save or be knocked prone.
+Creatures that fall prone must then succeed on a second Fortitude save or be swept up by the sphere and driven 1d8x;10 feet into the air, dropping 1d6 squares from their original position in a random direction and taking falling damage as normal.
+If some obstacle prevents the target creature from reaching its expelled height, it takes 1d6 points of damage for every 10 feet of movement it was unable to complete, so that a creature hurled 50 feet up in a room with a 20-foot ceiling would take 3d6 points of damage from the impact, then take 2d6 points of damage when it falls back to the ground.
+The sphere can affect a maximum of one creature or object per round, and winks out if it exceeds the spell's range.
+Focus: A gray pearl worth at least 100 gp.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,23 @@
+<b>Puppeteer</b>(Magic of Faerun)
+
+Enchantment (Compulsion)
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You force your subject to mimic your actions.
+Your subject matches your motions exactly, though she suffers a -4 penalty to Dexterity and Strength.
+She looks awkward, and her actions aren't as effective as if she were actually doing them herself.
+You can make the subject commit a suicidal act, but she receives another Will save to break the spell.
+If successful, she collapses, helpless in a comatose state, for 1d4 rounds.
+Controlling the subject requires concentration.
+If your concentration is ever interrupted, you may resume control of the subject as a free action on your turn.
+Anyone observing the subject of this spell can determine that the subject's actions are being controlled with a Sense Motive check (DC 15, or DC 10 if the controlling bard is also visible).
+This spell doesn't grant the subject extraordinary, supernatural, spell-like abilities, or spellcasting abilities, even if you have and use such abilities during the spell's duration.
+ <b>Also appears in</b>   Spell Compendium     

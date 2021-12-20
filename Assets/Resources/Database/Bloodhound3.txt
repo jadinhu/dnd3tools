@@ -1,0 +1,15 @@
+<b>Bloodhound</b>(Spell Compendium, p. 34)
+
+Divination
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 24 hours (D)
+
+ 	
+<b>A white film slips over your vision. Strangely, your eyes seem more focused and you note barely perceptible traces of passage that you had missed before.</b>
+	
+If you fail a Survival check to track a creature while this spell functions, you can immediately attempt another roll against the same DC to reestablish the trail. If the reroll fails, you must search for the trail for 30 minutes (if outdoors) or 5 minutes (if indoors) before trying again.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Adventurer     

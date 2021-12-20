@@ -1,0 +1,20 @@
+<b>Speak With Anything</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Divination
+ <b>Level:</b>  Druid 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+This spell grants you the effects of speak with animals, speak with plants, and tongues, enabling you to communicate with any living creature, including unintelligent ones such as normal plants.
+You can ask questions of and receive answers from any creatures, although the spell doesn't make them any more friendly or cooperative than normal.
+You can make yourself understood as far as your voice carries.
+You also gain the ability to speak with stone, metal, earth, water, or any other solid or semisolid object or terrain feature as though under the influence of stone tell.
+Any such object or terrain feature can relate to you who or what has touched it, as well as what is covered or concealed behind or under it, providing complete descriptions as requested.
+However, an object's perspective, perception, and knowledge may prevent it from providing the details you are looking for (DM's discretion).
+This spell does not include a speak with dead effect, so you cannot access the past memories of dead creatures.
+Though you understand every creature and object, you may speak only one language (or rough equivalent) at a time.
+   

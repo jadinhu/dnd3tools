@@ -1,0 +1,17 @@
+<b>Divine Flame</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Abjuration
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 15 ft.
+ <b>Area:</b> 15-ft-radius emanation, centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Divine flame creates an immobile ward against cold creatures, such as frost giants.
+Cold creatures entering or staying in the area take 1d4 points of damage per caster level, to a maximum of 5d4 (Fortitude save for half).
+This damage continues every round the creature remains in the area, and the Fortitude save is allowed each round.
+   

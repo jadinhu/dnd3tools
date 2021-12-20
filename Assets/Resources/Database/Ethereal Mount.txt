@@ -1,0 +1,22 @@
+<b>Ethereal Mount</b>(Manual of the Planes)
+
+Conjuration (Creation)
+ <b>Level:</b>  Bard 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> One quasi-real mount, plus one additional mount/2 levels Duration 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+On the Ethereal Plane, you may call into being one or more quasi-real mounts made of the protomatter of the plane.
+These mounts only accept you and those that you designate as riders.
+The mounts may appear as horses or any other commonly ridden mounts, but have a foggy, almost translucent nature, and their colors shift across the spectrum over time.
+These mounts have AC 18 (-1 size, +4 natural armor, +5 Dex), and 10 hit points +1 hp per caster level.
+They do not fight and have no attacks.
+If reduced to 0 hit points, an ethereal mount melts into the ethereal fog from which it came.
+An ethereal mount has a speed of 240 feet on the Ethereal Plane and can carry its rider's weight plus 10 pounds per level.
+You can only cast this spell in the Ethereal Plane, and the ethereal mount never leaves the plane.
+(If the Deep Ethereal is used in your cosmology, then the amount of time to reach destinations is halved while on an ethereal mount).
+ <b>Also appears in</b>   Spell Compendium     

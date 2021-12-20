@@ -1,0 +1,24 @@
+<b>Fever Dream</b>(Complete Mage)
+
+Illusion (Phantasm) [Mind-Affecting]
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 5 rounds (D) + 1 round
+ <b>Saving Throw:</b> Will disbelief (if interacted with), then Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your subject breaks out in a cold sweat as a burning fever sinks into its mind.
+A creature subjected to this spell feels a spiking fever accompanied by vertigo and a phantasmagoric confusion of the senses.
+The target first gets a Will save to recognize the dream as unreal.
+If that save fails, the creature becomes exhausted while the spell lasts.
+A successful Fortitude save lessens the condition to fatigued.
+Regardless of the outcome of the Fortitude save, the subject has difficulty focusing its mind on spellcasting.
+Each time it attempts to cast, concentrate on, or direct a spell, it must first succeed on a Concentration check (DC equal to this spell's save DC + the level of the spell being used).
+When this spell ends (whether because its duration ends, you dismiss it, or it is dispelled), the subject is confused for 1 round afterward.
+If the subject of fever dream is already under the effect of a luminous swarm spell (see page 110), the Will save DC of this spell (as well as the DC for Concentration checks required by this spell) increases by 2.
+If the subject of fever dream is already under the effect of a prickling torment spell (see page 113), the Fortitude save DC of this spell increases by 2.
+   

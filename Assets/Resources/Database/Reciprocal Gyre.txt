@@ -1,0 +1,21 @@
+<b>Reciprocal Gyre</b>(Complete Arcane)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature or object
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half, then Fortitude negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+You manipulate the magical aura of a creature or object, creating a damaging feedback reaction of arcane power.
+The target takes 1d6 points of damage per spell level of each functioning spell or spell-like ability currently affecting it (maximum 25d6).
+For example, a creature who is hasted (3rd level), flying (3rd level), and protected by a stoneskin spell (4th-level wizard version) takes 10d6 points of damage (Will save for half ).
+In addition, any creature that fails its save must then succeed on a Fortitude save or be dazed for 1d6 rounds.
+Only spells specifically targeted on the creature in question can be used to create the backlash of a reciprocal gyre, so spells that affect an area (such as invisibility sphere and solid fog) can't be used to deal reciprocal damage to creatures within their area.
+Likewise, persistent or continuous effects from magic items can't be used to deal reciprocal damage, but targeted spell effects can be � ;for example, the magic of a cloak of resistance can't be used by reciprocal gyre, but a spell cast by a wand of invisibility could be.
+Material Component: A tiny closed loop of copper wire.
+ <b>Also appears in</b>   Spell Compendium     

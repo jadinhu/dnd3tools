@@ -1,0 +1,28 @@
+<b>Snowsong</b>(Frostburn)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 6,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> 30-ft. radius centered on you
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Snowsong fills the area with a soft snowfall that melts and evaporates on contact with anything solid.
+When you cast the spell, you must designate all creatures in the area as either allies or enemies.
+While the snow falls, allies in the area hear a soft, lilting song that bolsters their spirits and confidence.
+At the same time, as the snow strikes their bodies, it melts and washes away scars, wounds, and filth.
+Allies under the effect of the snow gain a +4 morale bonus to Charisma and attack rolls, and a +4 insight bonus to Armor Class.
+In addition, the snow imparts fast healing 1 and resistance to cold 15 to all affected allies.
+All melee attacks made by allies in the snowsong deal an additional 1d6 points of cold damage.
+Enemies in the area of a snowsong have a much different experience.
+To them, the snow is bitterly cold and leaves scabs and angry welts when it lands their skin.
+They perceive the music as a discordant jangle of crashes, scrapes, and howls.
+As long as they remain in the area, they suffer a 20% chance of spell failure (for both divine and arcane spells) when casting any spells with a verbal component.
+Enemies can resist the effects of a snowsong with a successful Will saving throw.
+These benefits remain in place as long as the spell persists and as long as the target remains in the spell's area.
+If a creature leaves the spell's area, all effects end for that creature until it returns to the snowsong's area.
+   

@@ -1,0 +1,19 @@
+<b>Animate Wood</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 1 (Wood),   Wood 1,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> One Small or smaller wooden object
+ <b>Duration:</b> Concentration, up to 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You imbue a Small or smaller object made of wood with mobility and a semblance of life.
+The animated wood then attacks whomever or whatever you initially designate.
+Statistics for animated objects are found in the Monster Manual.
+The spell cannot animate objects carried or worn by a creature.
+Material Component: A mixture of powdered cinnabar and ground peach pit.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

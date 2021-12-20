@@ -1,0 +1,23 @@
+<b>Shadowy Grappler</b>(Spell Compendium, p. 186)
+
+Illusion (Shadow)
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You feel a spectral force form near you, as if some intangible shadow being stood nearby. Upon choosing the target of your spell, you sense the shadowy force depart from your side, moving as fast as thought toward the creature you designated as your target. You see the target creature move as if attacked by an unseen foe.</b>
+	
+Upon casting this spell, you create a shadowy force that automatically grabs the target (PH 156). The shadowy force immediately attempts to establish a hold on the target with a grapple check bonus equal to the DC of this spell. If the target succeeds on its saving throw, the grapple check bonus of the shadowy grappler is cut in half. For example, a sorcerer with a 16 Charisma who casts this spell creates a shadowy grappler with a grapple check bonus of +19 if the target fails its save and +9 if the target makes its save.
+	
+Every round on your turn, the shadowy grappler makes a grapple check against the target. Once it has a hold, the shadowy force attempts to pin the target on the following round. If the grappler establishes a pin, it uses the option to prevent the target from speaking. The grappler always attempts to maintain a grapple or work toward a pin.
+	
+A shadowy grappler occupies the same square as the target and moves with the target for as long as the spell lasts. Other creatures cannot join the grapple, either to assist the target or the grappler.
+	
+Material Component: A dried squid tentacle.
+   

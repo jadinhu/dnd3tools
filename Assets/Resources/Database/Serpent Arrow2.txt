@@ -1,0 +1,24 @@
+<b>Serpent Arrow</b>(Serpent Kingdoms)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to eight wooden projectiles, all of which must be in contact with each other at the time of casting
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You imbue wooden arrows or darts with the potential to turn into Tiny vipers (see the Snake entry, page 280 of the Monster Manual for statistics).
+These missiles remain rigid and harmless until fired or hurled.
+They need not be used by the caster.
+If a serpent arrow hits, the snake automatically bites the target creature, dealing 1 point of damage plus poison (injury, Fortitude DC 11, initial and secondary damage 1d6 Con).
+The missile remains in snake form for the remaining duration of the spell, attacking their original opponents to the best of their ability, continuing to bite it even if the target dies.
+If the serpent arrow misses its target or the designated opponent moves outside of the snake's ability to attack (such as via flying or teleportation), the creature attacks the nearest opponent.
+If you can communicate with the viper, you can direct it to attack particular enemies.
+When the duration of the spell expires, any focus that became a viper melts away, leaving nothing behind.
+Focuses that did not turn into serpent arrows retain their natural form.
+Material Component: A scale from any sort of snake.
+ <b>Also appears in</b>   Champions of Ruin     

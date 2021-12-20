@@ -1,0 +1,25 @@
+<b>Ice Ship</b>(Frostburn)
+
+Conjuration [Creation]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Creates ship of ice
+ <b>Duration:</b> 1 hour/level (D)
+
+ 	
+You create a ship made of ice.
+The vessel can take one of two forms, depending on your needs at the time.
+The form is chosen when the spell is cast and cannot be changed.
+Ice Runner: This tiny, narrow ship appears with a set of stone runners that carry the ship at speeds of up to 80 mph over any level ice, such as a lake, river, or ocean pack ice.
+It can carry one Medium creature per caster level, and it cannot move against the prevailing winds (though it can move at right angles to the wind).
+Large creatures cannot fit on an ice runner.
+This form has 40 hit points and a hardness of 3.
+Ice Galleon: This sailing vessel can move against the wind at a steady pace of 5 mph, or with the wind at 10 mph.
+It carries three Medium creatures per caster level, or one Large creature per level.
+This form has 60 hit points and a hardness of 5.
+If the ship is created in an area of temperature above freezing, it immediately begins to melt, taking 1d12 points of damage per hour.
+Both forms begin to melt or crack slowly during the last hour of the spell regardless of temperature, and disappear into puddles or splinters of ice at the end of the spell's duration.
+Material Component: A small glass model of a ship worth at least 200 gp.
+   

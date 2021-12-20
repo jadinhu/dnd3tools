@@ -1,0 +1,18 @@
+<b>Know the Shadows</b>(Oriental Adventures)
+
+Illusion (Glamer)
+ <b>Level:</b>  Shugenja 2 (Air),    
+<b>Components:</b>S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+You bend surrounding shadows and blend them to yourself, making yourself one with the darkness.
+As long as you remain within 10 feet of some kind of shadow (except your own shadow) or within at least moderate darkness, your ability to hide is greatly enhanced.
+You can hide yourself from view in the open without anything to hide behind, even while being observed, and you gain a +20 circumstance bonus on Hide checks.
+Unlike invisibility, this spell's effects do not end when you attack, though you cannot hide and attack at the same time.
+You are clearly visible while attacking (and thus do not gain a +2 bonus on your attack for being invisible, nor is your target denied its Dexterity bonus to AC), but you can use a move-equivalent action to hide again after attacking (or hide as part of a move action), and you still gain the +20 circumstance bonus on your Hide check.
+Your opponent can ready an action to attack you when you come into view to attack.
+   

@@ -1,0 +1,16 @@
+<b>Stand Firm</b>(The Forge of War, p. 117)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Paladin 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/2 levels
+ <b>Duration:</b> 1 round/level; see text
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The stand firm spell was a creation of Thrane divine warriors to be used as a defense against Karrnath?s mighty cavalry. All subjects of the spell gain a +4 morale bonus to Armor Class against charge attacks, and on opposed checks for the purpose of defending against bull rushes, grapples, overrun attacks, and trip attacks.
+	
+The spell remains in effect on a subject (up to its maximum duration) so long as that subject does not move. If a subject moves, taking even so much as a 5-foot step, it loses the spell?s benefit.</   

@@ -1,0 +1,13 @@
+<b>Stalker in the Night</b>(Tome of Battle: The Book of Nine Swords, p. 80)
+
+Shadow Hand (Strike)
+ <b>Level:</b>  Swordsage 6,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You slide through the dark like a bird of prey, emerging only to strike down your foe before sliding back into shadow?s welcoming embrace.</b>
+	
+As part of this maneuver, you move up to your speed and make a single melee attack at any point during your movement. If you were hidden before initiating this maneuver, you can keep the results of your previous Hide and Move Silently checks even though you move and attack. As long as you end your turn in a spot that allows you to hide, your foes must make Spot and Listen checks as normal to discern your presence. Your movement and this maneuver?s attack have no effect on your Hide and Move Silently results.</   

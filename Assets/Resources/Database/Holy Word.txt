@@ -1,0 +1,27 @@
+<b>Holy Word</b>(Player's Handbook v.3.5, p. 242)
+
+Evocation [Good, Sonic]
+ <b>Level:</b>  Cleric 7,   Good 7,  Elysium 7,  Mysticism 7,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 40 ft.
+ <b>Area:</b> Nongood creatures in a 40-ft.-radius spread centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None or Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Any nongood creature within the area that hears the holy word suffers the following ill effects.
+The effects are cumulative and concurrent.
+No saving throw is allowed against these effects.
+Deafened: The creature is deafened for 1d4 rounds.
+Blinded: The creature is blinded for 2d4 rounds.
+Paralyzed: The creature is paralyzed and helpless for 1d10 minutes.
+Killed: Living creatures die.
+Undead creatures are destroyed.
+Furthermore, if you are on your home plane when you cast this spell, nongood extraplanar creatures within the area are instantly banished back to their home planes.
+Creatures so banished cannot return for at least 24 hours.
+This effect takes place regardless of whether the creatures hear the holy word.
+The banishment effect allows a Will save (at a -4 penalty) to negate.
+Creatures whose HD exceed your caster level are unaffected by holy word.
+   

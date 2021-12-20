@@ -1,0 +1,25 @@
+<b>Tsunami</b>(Spell Compendium, p. 224)
+
+Conjuration (Creation) [Water]
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> 20-ft./level-wide, 10-ft.-long, 40-ft.-high wave of water; see text
+ <b>Duration:</b> Concentration, up to 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude partial (object)
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>The eldest, most powerful forces of elemental water heed your summons and obey your request. These forces of pure elemental power gather together a wall of water that moves inexorably in the direction of your choice, crushing all that it encounters.</b>
+	
+This spell creates a towering tsunami and sends it forth in a powerful wave to smash all in its path. The tsunami starts at any point you select within range of the spell and then moves at a speed of 60 feet in any direction chosen by you. Once the direction is set, the tsunami cannot change course. The tsunami deals 1d6 points of bludgeoning damage per caster level (maximum 20d6) to all in its path. Anything struck can make a Fortitude saving throw for half damage. Gargantuan or larger creatures that fail the save are knocked prone. Huge or smaller creatures that fail the save are picked up and carried with the wave. Each round a victim is carried by the tsunami, it takes the bludgeoning damage again and can make an additional Fortitude save for half damage. Creatures being carried by a tsunami cannot move in any other way. They can otherwise act normally, but must make a Concentration check (DC 20 + spell level) to cast a spell. Creatures caught in a tsunami take a -4 penalty to Dexterity and a -2 penalty on attack rolls. They can escape the wave by making successful DC 20 Swim checks, as long as they end their movement outside the effect of the tsunami.
+	
+Any creature that comes in contact with a tsunami as a result of movement during its turn is considered to have been struck by the tsunami's movement. A creature can attempt to extract another creature caught by a tsunami, providing the rescuer resists being swept up or knocked down by the tsunami and can reach the victim. Extracting a victim in this manner requires a DC 20 Strength check. 
+	
+A tsunami's progress can be halted by anything that would normally block line of effect along its path, assuming the tsunami does not destroy the intervening object or creature. If only a portion of the tsunami is blocked, the rest of it continues on.
+	
+Although this spell can be cast on dry land, it is most effective when cast on the open sea. In this case, saving throws to avoid full damage are made with a -4 penalty, and the width of the tsunami increases to 40 feet per caster level. A tsunami that begins on water but then travels onto land immediately shrinks to its land size and speed. A tsunami does not vanish if it moves beyond the spell's initial range.
+	
+Material Component: A crown of coral set with pearls (total value of at least 5,000 gp).
+   

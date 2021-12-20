@@ -1,0 +1,19 @@
+<b>Shadow Radiance</b>(Spell Compendium, p. 185)
+
+Illusion (Shadow)
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius burst centered on a point in space
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will disbelief (if interacted with)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Whispering the final syllable of the complicated formula, you cast the spell. Instantly, a blast of bright light fills the targeted area. From your vantage point, the spell's light glows like a torch, although you note some creatures turn away from it as if it were a blinding radiance.</b>
+	
+This spell creates an intensifying illusion of bright light that affects all creatures within the area (except those that are sightless or blinded). Viewers that fail their saving throws see a burst of bright light on the first round and become blinded for 1 round. On subsequent rounds for the rest of the spell's duration, the affected creatures continue to perceive a bright light. If they take penalties in bright illumination, they take them for the duration of their exposure to this light. Additionally, they are dazzled while in the area of the spell. Those who escape the area of a shadow radiance spell completely recover within 1 round. Those who make their saves and those outside the initial burst see only the equivalent of torchlight emanating from the center of the area.
+	
+Material Component: A flame at least the size of a torch.
+   

@@ -1,0 +1,22 @@
+<b>Meteoric Strike</b>(Player's Handbook II)
+
+Transmutation [Fire]
+ <b>Level:</b>  Druid 4,  Paladin 4,  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 0 ft.
+ <b>Target:</b> Your melee weapon
+ <b>Duration:</b> 1 round or until discharged
+ <b>Saving Throw:</b> None or Reflex half; see text
+ <b>Spell Resistance:</b> See text
+
+ 	
+Your melee weapon bursts into orange, red, and gold flames, and shining sparks trail in its wake.
+Your next successful melee attack deals extra fire damage equal to 1d6 points + 1d6 points per four caster levels.
+In addition, the flames splash into all squares adjacent to the target.
+Any creatures standing in these squares take half damage from the explosion, with a Reflex save allowed to halve this again.
+If a creature has spell resistance, it applies to this splash effect.
+You are not harmed by your own meteoric strike.
+You can cast meteoric strike before you make an unarmed attack.
+If you do, your unarmed attack is considered armed.
+   

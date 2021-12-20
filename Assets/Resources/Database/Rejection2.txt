@@ -1,0 +1,19 @@
+<b>Rejection</b>(Spell Compendium, p. 172)
+
+Abjuration
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a stern word of disallowance, you cast the spell. A barely perceptible hum sounds in the direction you indicate.</b>
+	
+A creature in the area must succeed on a Fortitude saving throw or be pushed away from you to a distance of 5 feet per caster level. If the creature is pushed into a wall or similarly solid surface, it takes 1d6 points of damage for every 10 feet it was moved.
+	
+Movement forced by this spell can take the creature beyond the spell's range.
+ <b>Also appears in</b>   Savage Species     

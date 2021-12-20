@@ -1,0 +1,20 @@
+<b>Oath of Blood</b>(Heroes of Horror)
+
+Necromancy
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,  Dread Necromancer 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> See below
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Oath of blood functions only when cast on a creature that has recently been subject to a geas or similar spell.
+It extends the reach of the geas beyond death.
+If the individual subject to the geas dies before completing the task, oath of blood animates him as an undead creature in order that he might continue his quest.
+The nature of the undead creature is determined by the caster level of this spell, as per create undead (see page 215 of the Player's Handbook).
+Once the task is complete or the original geas (or similar spell) expires, the magic animating the subject ends and he returns to death.
+Material Component: Grave dirt mixed with powdered onyx worth at least 40 gp per HD of the target.
+   

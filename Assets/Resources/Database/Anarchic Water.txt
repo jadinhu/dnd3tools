@@ -1,0 +1,16 @@
+<b>Anarchic Water</b>(Planar Handbook)
+
+Transmutation [Chaotic]
+ <b>Level:</b>  Cleric 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> Flask of water touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+This transmutation imbues a flask (1 pint) of water with the energy of chaos, turning it into anarchic water (see page 75).
+Material Component: 5 pounds of powdered iron and silver (worth 25 gp).
+ <b>Also appears in</b>   Spell Compendium     

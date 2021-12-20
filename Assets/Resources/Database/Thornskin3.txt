@@ -1,0 +1,19 @@
+<b>Thornskin</b>(Spell Compendium, p. 219)
+
+Transmutation
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+<b>You push a thorn against your skin to complete the spell. Instead of piercing your skin, the thorn melds into it. An instant later, hundreds of similar thorns sprout all over your body.</b>
+	
+Your skin sprouts thorns when this spell is cast, increasing the damage you deal with an unarmed strike and making you difficult to grab. As well as dealing lethal damage with your unarmed strikes (if you don't already do so), you deal an extra 1d6 points of piercing damage (so that a human under the effect of thornskin would deal 1d3 points of bludgeoning damage + 1d6 points of piercing damage with an unarmed strike). In addition, any creature that hits you with a natural weapon or unarmed strike (including all successful grapple checks) takes 5 points of piercing damage.
+	
+A creature's damage reduction, if any, applies to the damage from this spell. The damage from thornskin is treated as piercing for the purpose of overcoming damage reduction.
+	
+Material Component: A thorn.
+ <b>Also appears in</b>   Complete Arcane  Oriental Adventures     

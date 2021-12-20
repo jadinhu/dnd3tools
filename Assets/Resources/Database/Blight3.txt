@@ -1,0 +1,17 @@
+<b>Blight</b>(Player's Handbook v.3.5, p. 206)
+
+Necromancy
+ <b>Level:</b>  Druid 4,  Blighter 4,  Urban Druid 4,  Sorcerer 5,  Wizard 5,  Sha'ir 5,  Death Master 5,  Dread Necromancer 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell withers a single plant of any size.
+An affected plant creature takes 1d6 points of damage per level (maximum 15d6) and may attempt a Fortitude saving throw for half damage.
+A plant that isn't a creature (such as a tree or shrub) doesn't receive a save and immediately withers and dies.
+This spell has no effect on the soil or surrounding plant life.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Defenders of the Faith: A Guidebook to Clerics and Paladins     

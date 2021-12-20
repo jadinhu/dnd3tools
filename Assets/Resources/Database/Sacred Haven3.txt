@@ -1,0 +1,19 @@
+<b>Sacred Haven</b>(Spell Compendium, p. 178)
+
+Abjuration [Good]
+ <b>Level:</b>  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Target:</b> You and allies in a 30-ft.-radius burst centered on you
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>A rosy glow passes from your hand and briefly spreads around you.</b>
+	
+You and affected allies gain a +2 sacred bonus to Armor Class. In addition, while protected by this spell, an affected creature retains its Dexterity bonus to Armor Class when flat-footed or when struck by an invisible attacker.
+	
+For the duration of the spell, you gain awareness of the health of all affected creatures, as with the <b>status</b> spell (PH 284), and you need not be able to touch the affected creatures to heal them with your lay on hands ability. Use of the lay on hands ability still requires a standard action, but it can be done at any range, as long as you and your target are on the same plane.
+ <b>Also appears in</b>   Book of Exalted Deeds  Complete Divine     

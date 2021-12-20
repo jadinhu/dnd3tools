@@ -1,0 +1,28 @@
+<b>Undead Mask</b>(Savage Species)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You imbue the subject with powerful transformative magic, granting it some of the characteristics of the undead type.
+The subject's flesh seems necrotic and rotting, much like that of a zombie.
+Nonintelligent undead ignore the subject unless the subject attacks the undead.
+Any spell or effect that affects undead also affects the subject.
+The subject can be turned, destroyed, rebuked, or commanded as an undead of its Hit Dice (and gets no saving throw to resist the result).
+Negative energy effects (such as inflict spells) heal the subject, while positive energy effects (such as cure spells) harm her.
+An undead creature is immune to mind-affecting effects, poison, sleep, paralysis, stunning, and disease.
+It is immune to critical hits, subdual damage, ability damage, energy drain, or death from massive damage.
+The subject loses its Constitution score while the spell is in effect, along with any bonus hit points from Constitution.
+The subject is immune to any effect that requires a Fortitude save unless the effect also works on objects.
+An undead spellcaster uses its Charisma modifier when making Concentration checks.
+The subject's other ability scores are unaffected.
+The subject retains its skills and feats.
+Material Component: A pinch of vampire dust.
+   

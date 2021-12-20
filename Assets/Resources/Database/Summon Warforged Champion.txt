@@ -1,0 +1,21 @@
+<b>Summon Warforged Champion</b>(Faiths of Eberron, p. 151)
+
+Conjuration (Summoning) [Lawful]
+ <b>Level:</b>   Warforged 9,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One summoned creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Touching the holy symbol emblazoned on your chest, you call upon the power of your warforged god. An enormous armored figure shimmers into view.</b>
+	
+This spell is similar to <b>summon monster IX</b>, except that it can only summon a single (advanced) warforged titan.
+	
+The warforged titan is advanced to 24 HD (172 hp); its other statistics improve as follows: <span class="caps">BAB</span> +18; Grp +35; Atk Axe +25 melee (2d8+9/Ã—3) or maul +25 melee (2d8+9/Ã—3); SV Fort +8, Ref +7, Will +8; Jump +44. It gains the following feats: Great Cleave, Greater Powerful Charge (bringing its extra charge damage to +4d6), Improved Damage Reduction (twice; increasing its DR to 12/adamantine).
+	
+In addition, as long as the warforged titan summoned by this spell is within 15 feet of you, is active, and is under your control, it unconsciously protects you from attacks. It grants you a +5 shield bonus to your AC.
+   

@@ -1,0 +1,9 @@
+<b>Stunning Breath, Greater</b>(Draconomicon)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>
+
+ 	
+As stunning breath, but creatures that fail their Fortitude saves are stunned for 2d4 rounds.
+ <b>Also appears in</b>   Spell Compendium     

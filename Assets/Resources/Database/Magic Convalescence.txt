@@ -1,0 +1,18 @@
+<b>Magic Convalescence</b>(Player's Handbook II)
+
+Conjuration (Healing)
+ <b>Level:</b>  Bard 5,  Cleric 5,  Druid 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> 20-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You alter the flow of magic about your body so that spells heal you.
+Whenever a creature, including you, casts a spell within the area of this spell, you heal 1 hit point per level of the spell cast.
+The effect of each spell cast is resolved prior to your receiving the healing.
+Material Component: A specially prepared, scented ointment.
+   

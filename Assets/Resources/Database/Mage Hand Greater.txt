@@ -1,0 +1,22 @@
+<b>Mage Hand, Greater</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One object or creature weighing up to 10 pounds per caster level
+ <b>Duration:</b> Concentration
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You point your finger at a target and can lift it and move it at will from a distance.
+As a move-equivalent action, you can move the target up to 20 feet in any direction, though the spell ends if the distance between you and the object ever exceeds the spell's range.
+A creature can negate the effect against itself or against an object it possesses with a successful Will save or with spell resistance.
+The target can be moved vertically, horizontally, or both.
+It cannot be moved beyond your range.
+An object can be telekinetically manipulated as if with one hand.
+For example, a lever or rope can be pulled, a key can be turned, an object rotated, and so on, if the force required is within the weight limitation.
+You might even be able to untie simple knots, though delicate activities such as these require Intelligence checks (DC set by the DM).
+   

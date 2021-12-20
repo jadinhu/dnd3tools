@@ -1,0 +1,17 @@
+<b>Clarity of Mind</b>(Spell Compendium, p. 46)
+
+Abjuration
+ <b>Level:</b>   Balance 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>A nimbus of silver rays surrounds the warrior's head as you touch him and invoke the spell's holy power. His thoughts grow clearer, and he is better able to see through the mind-warping effects of spells.</b>
+	
+You grant the subject a +4 insight bonus on saving throws against all mind-affecting spells and effects. If the subject of <b>clarity of mind</b> attacks a creature that has concealment and fails the miss chance roll, he can reroll the miss chance once to see if his attack actually hit the target.
+   

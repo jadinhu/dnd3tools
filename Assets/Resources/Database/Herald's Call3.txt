@@ -1,0 +1,17 @@
+<b>Herald's Call</b>(Spell Compendium, p. 113)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> 20-ft.-radius burst centered on you
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>By placing your hand to your mouth and calling out, you gain the attention of creatures around you. For a moment, all eyes snap to you. Some creatures seem reluctant or unable to pull their eyes away.</b>
+	
+Any creature with 5 Hit Dice or less is slowed (PH 280) for 1 round. Creatures beyond the radius of the burst might hear the shout, but they are not slowed. An affected creature under the effect of a haste spell has the haste spell suppressed (not dispelled) for 1 round.
+ <b>Also appears in</b>   Magic of Faerun  Complete Adventurer     

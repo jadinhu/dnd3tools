@@ -1,0 +1,19 @@
+<b>Stone Bones</b>(Spell Compendium, p. 208)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Corporeal undead creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>A brief flash engulfs your ally, and through his flesh you can see his skeleton. The skeleton glows a foggy gray for a moment, thickening with eldritch power, then all is as it was before.</b>
+	
+You cause the skeleton of the target corporeal undead to become thicker and as strong as stone. This gives the subject a +3 enhancement bonus to its existing natural armor.
+	
+<b>Arcane Focus</b>: A miniature skull carved of granite.
+ <b>Also appears in</b>   Magic of Faerun  Ghostwalk  Tome of Battle: The Book of Nine Swords     

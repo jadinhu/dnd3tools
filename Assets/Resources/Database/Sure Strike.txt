@@ -1,0 +1,15 @@
+<b>Sure Strike</b>(Player's Handbook II)
+
+Divination
+ <b>Level:</b>  Duskblade 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round or until discharged
+
+ 	
+You gain a fleeting glimpse into the future, enough to guide your impending attack.
+You cast this spell immediately before you make an attack roll.
+You can see into the future for that attack, granting you a +1 insight bonus per three caster levels on your next attack roll.
+   

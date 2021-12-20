@@ -1,0 +1,21 @@
+<b>Animate Snow</b>(Spell Compendium, p. 12)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Cube of snow up to 20 ft. on a side
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Nearby snow rapidly draws together with an audible crunch, coalescing into a vaguely human-shaped form.</b>
+	
+You cause snow in the area to become 1d3+2 Large animated objects, 1d3 Huge animated objects, or one Gargantuan animated object (MM 14). The animated snow attacks as directed by your vocal commands.
+	
+Animated snow does not have a hardness score. It possesses improved speed as if it had legs, granting it a speed of 30 feet, as well as the blind special ability (MM 13). In addition, each animated snow object has the cold subtype and deals an extra 1d6 points of cold damage on a successful hit.
+	
+Animated snow objects take 1d6 points of damage per round in a place where the temperature is above freezing.
+ <b>Also appears in</b>   Frostburn     

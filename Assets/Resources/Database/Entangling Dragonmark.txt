@@ -1,0 +1,19 @@
+<b>Entangling Dragonmark</b>(Dragonmarked, p. 151)
+
+Transmutation
+ <b>Level:</b>  Artificer 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, Dragonmark
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One dragonmarked creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a simple gesture and utterance, you entangle the target in strands of energy that erupt from its own dragonmark.</b>
+	
+A target that fails its saving throw is entangled for the duration of the spell.
+	
+<b>Dragonmark:</b> Any true or aberrant dragonmark.
+   

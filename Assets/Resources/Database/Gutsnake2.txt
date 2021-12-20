@@ -1,0 +1,21 @@
+<b>Gutsnake</b>(Spell Compendium, p. 108)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+<b>You concentrate on the tooth, speak the words, and a 15-foot-long tentacle sprouts from your stomach. The tentacle has no eyes, but it ends in a set of snapping reptilian jaws.</b>
+	
+The tentacle created by the <b>gutsnake</b> spell is equivalent to a giant constrictor snake (<b>MM</b> 280) except that it is completely obedient to you and moves as you command. The snake has hit points equal to your own full normal total. Attacks against the snake cause you no discomfort and do not disrupt your spellcasting. If it is &quot;killed,&quot; the tentacle disappears without causing harm to you. The tentacle does not interfere with spellcasting in any way.
+	
+Once each round as a free action, you can have the tentacle attack a creature up to 10 feet away with its bite attack, and if it successfully hits, the tentacle can use the snake's improved grab ability to deal damage through constriction.
+	
+In each round when the <b>gutsnake</b> is constricting a target, you cannot move more than 5 feet away from that target, unless the <b>gutsnake</b> makes a successful grapple check to carry the opponent with you when you move (see <b>PH</b> 155 for grappling rules). This is the only way in which the tentacle restricts movement. While the snake is present, you can use its Balance and Climb skill modifiers instead of your own, and you gain a climb speed of 20 feet.
+	
+<b>Focus:</b> A fang from any reptile.
+ <b>Also appears in</b>   Magic of Faerun     

@@ -1,0 +1,21 @@
+<b>Necrotic Curse</b>(Complete Mage)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 20-ft.-radius emanation
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You feel a wave of cold pass through you as it seeps into the land, the air, and even the souls of those nearby.
+You imbue the area with negative energy so powerful it transforms positive energy into its opposite.
+Anyone in the area who casts a healing spell must succeed on a caster level check (DC 11 + your caster level); if the check fails, the healing spell deals damage to each of its subjects equal to the caster's caster level instead of its normal effect.
+Living creatures that rest in this area do not regain hit points or lost ability score points.
+Undead in the area heal damage at the rate of 1 point per Hit Die every 24 hours.
+In addition to the normal means of ending a spell's duration, this effect can be ended by a remove curse (or similar spell) cast within its area for that purpose.
+Material Component: Grave dust.
+   

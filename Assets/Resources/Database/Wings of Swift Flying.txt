@@ -1,0 +1,19 @@
+<b>Wings of Swift Flying</b>(Races of the Dragon)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level or until underlying flight effect lapses; see text
+
+ 	
+Immense, partially translucent wings unfurl from behind you and begin to beat expertly against the air, accelerating your flight.
+After you have already cast fly or overland flight or are enjoying some other temporary power or magical flight effect, you can cast wings of swift flying to increase your speed.
+This spell evokes ghostly, translucent wings that add 30 feet to your fly speed granted by the underlying spell for that spell's duration.
+When the underlying flight effect's duration elapses, the wings of swift flying spell also immediately ends.
+Only characters who are already enjoying the effect of flight granted by a spell, power, or other temporary magical or psionic effect can make use of this spell.
+Characters who are flying through some other means (such as natural wings of their own) gain no benefit from casting this spell.
+Special: A dragonblooded character, or a character with the dragon type, adds an additional 10 feet to her fly speed when this spell is cast (total 40-foot bonus to fly speed).
+   

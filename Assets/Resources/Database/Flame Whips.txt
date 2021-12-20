@@ -1,0 +1,18 @@
+<b>Flame Whips</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Effect:</b> Flaming whips
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Your forelimbs transform into flaming whips.
+Attacks with these flaming whips replace any natural attacks you had with those limbs, and deal 5d6 points of fire damage +1 point per caster level (maximum +20) each.
+While this spell is in effect, you may not cast spells with material components, nor may you carry items with your forelimbs.
+Any items worn on your forelimbs cease functioning while the spell is active.
+ <b>Also appears in</b>   Spell Compendium     

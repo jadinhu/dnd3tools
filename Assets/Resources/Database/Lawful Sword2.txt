@@ -1,0 +1,23 @@
+<b>Lawful Sword</b>(Races of Faerun)
+
+Evocation
+ <b>Level:</b>  Paladin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell allows you to channel the power of law into your sword, or any weapon you choose.
+The weapon acts as a +5 magic weapon and deals double damage against chaotic opponents.
+It emits a magic circle against chaos (as the spell).
+If the magic circle is broken before the spell's duration ends, the sword creates a new one on your turn as a free action.
+The spell is automatically canceled 1 round after the weapon leaves your hand.
+You cannot have more than one lawful sword at a time.
+If this spell is cast on a magic weapon, the powers of the spell supersede any that the weapon normally has, rendering the normal enhancement bonus and powers of the weapon inoperative for the duration of the spell.
+This spell is not cumulative with bless weapon or any other spell that might modify the weapon in any way.
+This spell does not work on artifacts.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n  Spell Compendium     

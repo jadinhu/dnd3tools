@@ -1,0 +1,17 @@
+<b>Fear</b>(Player's Handbook v.3.5, p. 229)
+
+Necromancy [Fear, Mind-Affecting]
+ <b>Level:</b>  Thayan Slaver 2,  Bard 3,  Vigilante 3,  Wizard 4,  Death Delver 4,  Sorcerer 4,  Hexblade 4,  Sha'ir 4,  Death Master 4,  Jester 4,  Dread Necromancer 4,   Blightbringer 4,  Moon 4,  Tyranny 4,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> 1 round/level or 1 round; see text
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+An invisible cone of terror causes each living creature in the area to become panicked unless it succeeds on a Will save. If cornered, a panicked creature begins cowering. (See the Dungeon Master's Guide for more information on fear-panicked creatures). If the Will save succeeds, the creature is shaken for 1 round.
+	
+Material Component: Either the heart of a hen or a white feather.
+   

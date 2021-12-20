@@ -1,0 +1,17 @@
+<b>Reveille</b>(Spell Compendium, p. 175)
+
+Necromancy [Language-Dependent]
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> One recently dead creature
+ <b>Duration:</b> 5 rounds
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You touch the body and intone a lament, calling out to the living memory of the creature. Tendrils of mystical energy sparkle around the creature's lips, and it begins to speak.</b>
+	
+You cause a creature that has been dead for up to three days to reveal information about events that led up to its death. The corpse speaks tersely in its native language, using no more than a dozen words or so in a round. In the first round, it describes the last thing it saw. In the second, it describes its dying wish. In the third, it describes the attack that killed it. In the fourth, it tells who killed it. In the fifth, it tells why it believes it was killed.
+ <b>Also appears in</b>   Magic of Faerun     

@@ -1,0 +1,16 @@
+<b>Haunting Tune</b>(Magic of Faerun)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 1 target/level
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your song or poem causes a deep depression in intelligent creatures.
+Any creature with Intelligence 10 or higher is shaken (-2 morale penalty on attack rolls, damage rolls, and saving throws).
+ <b>Also appears in</b>   Spell Compendium     

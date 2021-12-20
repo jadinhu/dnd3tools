@@ -1,0 +1,19 @@
+<b>Prismatic Mist</b>(Player's Handbook II)
+
+Evocation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 30-ft.-radius spread
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You call forth a thin, multihued mist that fills the area. Small incandescent lights, no brighter than candles, drift lazily throughout the mist.</b>
+	
+The mist is too thin to obscure vision or provide concealment, but walking through it is hazardous. Each round, a creature that begins its turn in the area of the spell, or that enters themist during its turn, is subject to one or more of the following effects based on the (randomly determined) color of the mist in the area around the creature.
+	
+Consult the table below to determine the color of the mist and its effect.
+	<table>		<tr>			<th>d8 </th>			<th>Color </th>			<th>Effect </th>		</tr>		<tr>			<td> 1 </td>			<td> Red </td>			<td> 1d4 points fire damage </td>		</tr>		<tr>			<td> 2 </td>			<td> Orange </td>			<td> 1d6 points acid damage </td>		</tr>		<tr>			<td> 3 </td>			<td> Yellow </td>			<td> 1d8 points electricity damage </td>		</tr>		<tr>			<td> 4 </td>			<td> Green </td>			<td> Poison; 1d4 points Str damage (Fort negates) </td>		</tr>		<tr>			<td> 5 </td>			<td> Blue </td>			<td> Slowed for 1 round (Will negates) </td>		</tr>		<tr>			<td> 6 </td>			<td> Indigo </td>			<td> Lesser confusion for 1 round (Will negates, mind-affecting) </td>		</tr>		<tr>			<td> 7 </td>			<td> Violet </td>			<td> Dazed for 1 round (Will negates) </td>		</tr>		<tr>			<td> 8 </td>			<td> At </td>			<td> the junction of two colors; roll twice more, ignoring any &quot;8&quot; results </td>		</tr>	</table>   

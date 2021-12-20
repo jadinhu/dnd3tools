@@ -1,0 +1,20 @@
+<b>Stone Shape</b>(Player's Handbook v.3.5, p. 284)
+
+Transmutation [Earth]
+ <b>Level:</b>  Trapsmith 2,  Cleric 3,  Druid 3,  Death Master 3,  Sorcerer 4,  Wizard 4,  Sha'ir 4,  Wu Jen 5 (Earth),   Earth 3,  Craft 3,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Stone or stone object touched, up to 10 cu. ft. + 1 cu. ft./level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can form an existing piece of stone into any shape that suits your purpose.
+For example, you can make a stone weapon, a special trapdoor, or a crude idol.
+Stone shape also permits you to reshape a stone door to make an exit where one didn't exist or to seal a door shut.
+While it's possible to make crude coffers, doors, and so forth with stone shape, fine detail isn't possible.
+There is a 30% chance that any shape including moving parts simply doesn't work.
+Arcane Material Component: Soft clay, which must be worked into roughly the desired shape of the stone object and then touched to the stone while the verbal component is uttered.
+   

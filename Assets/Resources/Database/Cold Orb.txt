@@ -1,0 +1,11 @@
+<b>Cold Orb</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Evocation [Cold]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>
+
+ 	
+As <b>acid orb</b>, except cold orb deals cold damage.
+A creature struck directly takes the orb's damage and is blinded by a shower of ice crystals for 1 round.
+A successful Fortitude save reduces damage by half and negates the blindness.
+   

@@ -1,0 +1,17 @@
+<b>Accuracy</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round + 1 round/level
+ <b>Range:</b> Touch
+ <b>Target:</b> One thrown weapon/level, all of which much be in contact with one another at the time of casting; or a single projectile weapon
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+When you cast this spell, you enchant one or more thrown weapons or one projectile weapon (bow, crossbow, sling, or the like) to improve the chance of hitting distant targets.
+For the duration of the spell, the range increment for the affected thrown weapons or single projectile weapon is doubled.
+Material Component: Ink, written in a mystical character on each weapon affected by the spell.
+ <b>Also appears in</b>   Complete Arcane     

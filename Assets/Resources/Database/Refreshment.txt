@@ -1,0 +1,15 @@
+<b>Refreshment</b>(Book of Exalted Deeds)
+
+Conjuration (Healing) [Good]
+ <b>Level:</b>  Apostle of Peace 3,  Bard 3,  Cleric 3,  Vassal of Bahamut 3,   Endurance 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft.
+ <b>Target:</b> 20-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Refreshment channels celestial energy to remove all nonlethal damage the targets have taken, including damage from environmental conditions, starvation and thirst, and related effects as well as damage dealt by nonlethal attacks.
+   

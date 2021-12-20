@@ -1,0 +1,22 @@
+<b>Commune With Lesser Spirit</b>(Complete Arcane)
+
+Divination
+ <b>Level:</b>  Wu Jen 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> 10 ft.
+ <b>Target:</b> One lesser spirit
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+You contact any local spirit creature with 4 or fewer Hit Dice and can ask it up to one question per two caster levels.
+You must know the identity of the spirit, and you must be within 10 feet of the spirit's location.
+The spirit's knowledge is limited to matters within its immediate area (so that the spirit of a great tree in a village cannot answer questions about events outside the village, for example), and you must ask questions that could typically have one-word answers.
+&quot;Unclear&quot; is a legitimate answer, because spirits are not necessarily omniscient, but in cases where a one-word answer would be misleading or contrary to the spirit's interests, the DM can respond with a short phrase (five words or less) instead.
+If the spirit has been subject to commune with lesser spirit (or commune with greater spirit) within the past week, this spell fails.
+As well, if the spirit's alignment is different from yours, it gets a Will save to resist the spell.
+Unasked questions are wasted if the spell's duration expires.
+Material Component: Incense and a small offering worth 10 gp.
+ <b>Also appears in</b>   Oriental Adventures     

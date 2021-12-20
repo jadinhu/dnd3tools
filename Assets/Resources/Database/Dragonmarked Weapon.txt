@@ -1,0 +1,23 @@
+<b>Dragonmarked Weapon</b>(Dragonmarked, p. 151)
+
+Transmutation
+ <b>Level:</b>  Paladin 2,  Ranger 2,  Artificer 3,  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, Dragonmark
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You imbue the touched weapon with the power of your dragonmark, a ghostly likeness of which appears on the weapon's surface.</b>
+	
+A weapon under the effect of this spell deals an extra 1d6 points of damage to any dragonmarked creature whose mark does not correspond to the caster's dragonmarked house. Because aberrant dragonmarks are unique, a <b>dragonmarked weapon</b> created by a caster with an aberrant dragonmark deals its extra damage to all dragonmarked creatures (except the caster). In addition, a dragonmarked weapon's hardness increases by 50% for the spell's duration.
+	
+A mundane weapon under the effect of this spell is treated as a magic weapon for the purpose of bypassing damage reduction.
+	
+Casting this spell on a bow, crossbow, or sling bestows the extra damage benefit upon the weapon's ammunition.
+	
+<b>Dragonmark:</b> Any true or aberrant dragonmark.
+   

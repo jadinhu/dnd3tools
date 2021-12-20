@@ -1,0 +1,17 @@
+<b>Enhance Familiar</b>(Spell Compendium, p. 82)
+
+Universal
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Familiar touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>After you touch the target familiar, the creature perks up and appears more alert.</b>
+	
+You infuse your familiar with vigor, granting it a +2 competence bonus on saves, attack rolls, and melee damage rolls, as well as a +2 dodge bonus to Armor Class.
+ <b>Also appears in</b>   Complete Arcane  Tome and Blood: A Guidebook to Wizards and Sorcerers     

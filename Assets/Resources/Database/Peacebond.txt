@@ -1,0 +1,24 @@
+<b>Peacebond</b>(CityScape)
+
+Transmutation
+ <b>Level:</b>  Cleric 1,  Paladin 1,  Hexblade 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One weapon
+ <b>Duration:</b> 10 min./level (D)
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+The weapon glows faintly, and seems to settle more firmly into its sheathe.
+The weapon targeted by this spell remains stuck in its sheath, holder, quiver, or whatever object is used to hold it when not in use.
+A &quot;weapon&quot; is defined as any manufactured weapon.
+No amount of physical effort can draw it forth before the spell expires or is dispelled.
+The precise nature of the holder doesn't matter; it can be an ornate sheath, or simply a belt through which the weapon has been stuck.
+The weapon glows faintly for the duration of the spell.
+This spell has no effect on weapons currently held in the hand or otherwise not contained in some sort of holder.
+If the bearer of the targeted weapon is attacked, he is immediately entitled to a second save to overcome the effect and draw the weapon.
+The bearer can repeat this save in every round that the assault continues.
+Material Component: A small strip of cloth or a leather thong.
+   

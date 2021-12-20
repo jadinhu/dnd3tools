@@ -1,0 +1,25 @@
+<b>Stone Body</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+This spell transforms your body into living stone.
+You gain damage reduction 10/-.
+You are immune to blindness, critical hits, ability score damage, deafness, disease, drowning, electricity, poison, stunning, and all spells or attacks that affect your physiology or respiration, because you have no physiology or respiration while this spell is in effect.
+You take only half damage from cold and fire of all kinds.
+However, you also become vulnerable to all special attacks that affect stone golems.
+You gain a +4 enhancement bonus to your Strength score, but you take a -4 penalty to Dexterity as well (to a minimum Dexterity score of 1), and your speed is reduced to half normal.
+You have an arcane spell failure chance of 50% and a -8 armor check penalty, just as if you were clad in full plate armor.
+You cannot drink (and thus can't use potions) or play wind instruments.
+Your unarmed attacks deal 1d6 points of normal damage, and you are considered armed when making unarmed attacks (a Small caster deals 1d4 points of damage, not 1d6).
+If your natural attacks already deal more than 1d6 points of damage, use the greater value.
+Your weight increases by a factor of three, causing you to sink in water like a stone.
+However, you could survive the crushing pressure and lack of air at the bottom of the ocean � ;at least until the spell expires.
+Material Component: A small piece of stone that was once part of either a stone golem, a greater earth elemental, or a castle.
+ <b>Also appears in</b>   Spell Compendium  Races of Faerun  Player's Guide to FaerÃ»n     

@@ -1,0 +1,17 @@
+<b>Moral Facade</b>(Complete Champion)
+
+Abjuration
+ <b>Level:</b>  Bard 3,  Cleric 4,  Paladin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature or object
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+With an uttered incantation and a motion of your hand, you surround your target with a haze that prevents others from discerning its true nature.
+By casting this spell, you cloak the target in an effect that gives a false alignment reading to all divination spells.
+At the time of casting, you must designate the alignment that you wish the spell to reveal.
+   

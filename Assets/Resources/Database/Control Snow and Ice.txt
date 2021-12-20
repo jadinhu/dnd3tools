@@ -1,0 +1,25 @@
+<b>Control Snow and Ice</b>(Frostburn)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> Ice and snow in a volume of 10 ft./level by 10 ft./level by 2 ft./level (S)
+ <b>Duration:</b> 10 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Depending on the version you choose, the control snow and ice spell raises or lowers ice or snow.
+Lower Snow and Ice: This causes snow and ice to sink away to a minimum depth of 1 inch.
+The depth can be lowered by up to 2 feet per caster level.
+The snow and ice is lowered within a squarish depression whose sides are up to 10 feet long per caster level.
+In extremely large and deep snow and ice fields, such as a glacier, the spell creates a crevasse that sweeps creatures downward (without dealing damage), rendering them unable to leave by normal movement for the duration of the spell.
+They can climb out of a crevasse, as normal with a DC 18 Climb check.
+When cast on ice elementals and other ice-based creatures, this spell acts as a slow spell.
+The spell has no effect on other creatures.
+Raise Snow and Ice: This causes snow and ice to rise in height, just as the lower snow and ice version causes it to lower.
+Creatures and objects on top of the snow or ice are raised along with the top level of snow.
+For either version, the character may reduce one horizontal dimension by half and double the other horizontal dimension.
+   

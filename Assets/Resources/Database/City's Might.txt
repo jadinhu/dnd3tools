@@ -1,0 +1,18 @@
+<b>City's Might</b>(Races of Destiny)
+
+Transmutation
+ <b>Level:</b>   City 8,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level; see text
+
+ 	
+You draw upon a city and its inhabitants for additional strength.
+You gain an enhancement bonus to Strength and Constitution, as well as damage reduction, based on the size of the community you are in (see page 137 of the Dungeon Master's Guide).
+If you are not within 100 feet of a community when the spell is cast, the spell has no effect.
+If you move more than 100 feet from the community before the duration elapses, the spell's effect ends immediately.
+For example, you could retain the effect while adventuring within the city's sewers, but heading to a dungeon a mile away would end the effect.
+Material Component: A chip of city stone or brick.
+   

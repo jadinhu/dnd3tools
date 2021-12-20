@@ -1,0 +1,16 @@
+<b>Rage</b>(Player's Handbook v.3.5, p. 268)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Sorcerer 3,  Wizard 3,  Sha'ir 3,  Jester 3,   Liberation 3,  Wrath (SpC) 3,  Hatred 4,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One willing living creature per three levels, no two of which may be more than 30 ft. apart
+ <b>Duration:</b> Concentration + 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Each affected creature gains a +2 morale bonus to Strength and Constitution, a +1 morale bonus on Will saves, and a -2 penalty to AC.
+The effect is otherwise identical with a barbarian's rage (see page 25), except that the subjects aren't fatigued at the end of the rage.
+ <b>Also appears in</b>   Defenders of the Faith: A Guidebook to Clerics and Paladins  Deities and Demigods     

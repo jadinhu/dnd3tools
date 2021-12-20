@@ -1,0 +1,17 @@
+<b>War Master's Charge</b>(Tome of Battle: The Book of Nine Swords, p. 94)
+
+White Raven (Strike)
+ <b>Level:</b>  Crusader 9 (Four White Raven maneuvers),  Warblade 9 (Four White Raven maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack; see text
+ <b>Target:</b> One creature; see text
+
+ 	
+<b>With a great battle cry, you lead your allies in a devastating charge. Fired by your commanding presence and deftly led by your supreme grasp of tactics, you and your allies form an unstoppable wedge.</b>
+	
+You are an inspiring figure on the battlefield, allowing you to lead others on attacks that would strike fear and doubt into even the stoutest warrior?s heart. Under your leadership, the group becomes much more than the sum of its parts.
+	
+As part of this maneuver, you charge an opponent. In addition, all allies within 30 feet of you at the beginning of your turn can also charge this target as an immediate action. You and allied creatures do not block each other when determining if you can charge. Your charge attack deals an extra 50 points of damage, and those of your allies each deal an extra 25 points of damage. For each ally who charges, counting yourself, your charge attack and those of your allies are made with a cumulative +2 bonus (in addition to the normal bonus provided by charging). An opponent struck by you and at least one other ally is stunned for 1 round.
+	
+You and your allies do not provoke attacks of opportunity for moving as part of this charge.</p   

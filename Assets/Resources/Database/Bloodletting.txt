@@ -1,0 +1,25 @@
+<b>Bloodletting</b>(Complete Mage)
+
+Necromancy
+ <b>Level:</b>  Assassin 1,  Hexblade 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> One light weapon you hold
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes; see text
+
+ 	
+With a simple flourish you turn a small weapon into a deadly implement.
+You imbue a light weapon you hold in your hand with the power to wound grievously.
+The next time that weapon deals damage to a living creature, the wound continues to bleed, dealing an extra 1d6 points of damage each round for the remainder of the spell's duration.
+A successful DC 15 Heal check or at least 1 point of magical healing stops this additional damage.
+A creature that is struck by the weapon but takes no damage from the initial attack (such as because of damage reduction) doesn't trigger the spell's effect.
+Check to overcome a target's spell resistance when you first strike the creature.
+If the check fails, the spell has no effect and is discharged, but the weapon still deals damage normally.
+The spell lasts for 3 rounds.
+If you don't deal damage to a living creature during the 3 rounds after casting the spell, it ends with no effect.
+The bleeding effect begins in the round when the creature is struck by the ensorcelled weapon and lasts until the spell ends (if struck on the first round after casting, the subject bleeds for 3 rounds; if struck in the second round after casting, the subject bleeds for 2 rounds, and so on).
+The spell ends immediately if the weapon leaves your hand.
+   

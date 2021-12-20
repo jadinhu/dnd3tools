@@ -1,0 +1,19 @@
+<b>Wrack</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 3,  Mortal Hunter 3,  Sorcerer 4,  Wizard 4,   Pain 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> One humanoid creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject is wracked with such pain that he doubles over and collapses.
+His face and hands blister and drip fluid, and his eyes cloud with blood, rendering him blind.
+For the duration of the spell the subject is considered helpless and cannot take actions.
+The subject's sight returns when the spell's duration expires.
+Even after the spell ends, the subject is still visibly shaken and takes a -2 penalty on attack rolls, saves, and checks for 3d10 minutes.
+ <b>Also appears in</b>   Fiendish Codex II: Tyrants of the Nine Hells  Spell Compendium  Complete Divine     

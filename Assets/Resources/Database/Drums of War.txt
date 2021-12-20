@@ -1,0 +1,17 @@
+<b>Drums of War</b>(Heroes of Battle)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Duration:</b> Concentration plus 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When a bard casts drums of war and plays her instrument, the spell transforms that music into an ominous cadence of drumbeats that fills enemies with doubt.
+All enemies within range of the spell take a -2 penalty on their attack rolls and saving throws as long as the drums of war continue and for an additional 1 round per level afterward.
+Deaf enemies and enemies under the effect of a silence spell are unaffected by this spell.
+Focus: A masterwork musical instrument, which must be played.
+   

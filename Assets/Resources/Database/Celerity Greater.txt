@@ -1,0 +1,10 @@
+<b>Celerity, Greater</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>
+
+ 	
+This spell works like celerity, except upon casting this spell you can immediately take a full-round action (or a standard action plus a move action, or two move actions).
+After performing this action, you are dazed until the end of your next turn.
+   

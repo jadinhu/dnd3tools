@@ -1,0 +1,17 @@
+<b>Searing Blade</b>(Tome of Battle: The Book of Nine Swords, p. 56)
+
+Desert Wind (Boost) [Fire]
+ <b>Level:</b>  Swordsage 4 (Two Desert Wind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> End of turn
+
+ 	
+<b>Your weapon transforms into a raging torrent of flame, causing those around you to recoil slightly from the tremendous heat.</b>
+	
+You convert your ki into fiery energy, allowing it to flow down your arms and across your weapon. Until the end of your turn, your melee attacks deal an extra 2d6 points of fire damage + 1 point per initiator level.
+	
+This maneuver is a supernatural ability.
+   

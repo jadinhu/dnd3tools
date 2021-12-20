@@ -1,0 +1,18 @@
+<b>Ice Dagger</b>(Magic of Faerun)
+
+Evocation [Cold]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Dagger of ice
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a dagger-shaped piece of ice that launches itself at a target within range as a grenadelike weapon.
+The ice dagger deals 1d4 points of cold damage to the target per caster level (maximum 5d4), and the target may make a Reflex save for half damage.
+Creatures within 5 feet of the target take 1 point of cold damage.
+Material Component: A few drops of water made from melted ice.
+ <b>Also appears in</b>   Spell Compendium     

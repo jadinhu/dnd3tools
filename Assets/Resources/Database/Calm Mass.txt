@@ -1,0 +1,20 @@
+<b>Calm, Mass</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Enchantment [Compulsion, Mind-Affecting]
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Any number of animals, beasts, and magical beasts with Intelligence 1 or 2, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell soothes and quiets the subjects, rendering them docile and harmless.
+Animals trained to attack or guard, dire animals, legendary animals, beasts, and magical beasts are entitled to saving throws against this effect; normal animals are not.
+(A druid could calm a normal bear or wolf with little trouble, but it's more difficult to affect a winter wolf, a bulette, or a trained guard dog).
+The subjects remain where they are and do not attack or flee.
+They are not helpless, so they defend themselves normally if attacked.
+Any threat (fire, a hungry predator, or an imminent attack, for example) breaks the spell on the threatened creatures.
+   

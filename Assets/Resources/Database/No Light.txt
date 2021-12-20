@@ -1,0 +1,18 @@
+<b>No Light</b>(Book of Vile Darkness)
+
+Transmutation
+ <b>Level:</b>  Cleric 0,  Sorcerer 0,  Wizard 0,  Bard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The caster creates an area of darkness.
+Normal light sources cannot illuminate the area, but darkvision allows a creature to see within the area.
+Light counters no light (and vice versa), leaving whatever light conditions normally prevail in the overlapping areas of the spells.
+Higher-level light spells counter and dispel no light.
+   

@@ -1,0 +1,15 @@
+<b>Suppress Breath Weapon</b>(Draconomicon)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The target of this spell cannot choose to use its breath weapon unless &quot;forced&quot; to do so by an enchantment (compulsion) spell of higher level, such as lesser geas.
+ <b>Also appears in</b>   Spell Compendium     

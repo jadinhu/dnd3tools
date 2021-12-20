@@ -1,0 +1,16 @@
+<b>Quickswim</b>(Stormwrack)
+
+Transmutation
+ <b>Level:</b>  Bard 1,  Druid 1,  Ranger 1,  Sorcerer 1,  Wizard 1,   Seafolk 1,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D)
+
+ 	
+This spell increases your base swim speed by 10 feet; this adjustment counts as an enhancement bonus.
+It has no effect on other modes of movement, such as land speed, burrow, climb, or fly.
+If you do not have a swim speed, you gain no benefit from this spell.
+Arcane Material Component: A scale from any fish.
+   

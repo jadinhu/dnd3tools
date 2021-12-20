@@ -1,0 +1,18 @@
+<b>Train Animal</b>(Complete Adventurer)
+
+Enchantment (Charm) [Mind-Affecting]
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Animal touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You temporarily boost the number of tricks that an animal knows.
+While this spell is in effect, the affected animal gains a number of additional tricks equal to half your caster level (maximum five).
+For more information on tricks and trained animals, see the descriptions of the Handle Animal skill, page 100 of this book, and pages 74-75 of the Player's Handbook.
+This spell does not modify an animal's attitude toward you, nor does it guarantee that an animal will cooperate when instructed to perform the newly learned tricks.
+ <b>Also appears in</b>   Spell Compendium     

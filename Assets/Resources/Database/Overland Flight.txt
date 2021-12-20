@@ -1,0 +1,15 @@
+<b>Overland Flight</b>(Player's Handbook v.3.5, p. 259)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,  Sha'ir 5,    
+<b>Components:</b>V, S, 
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level
+
+ 	
+This spell functions like a fly spell, except you can fly at a speed of 40 feet (30 feet if wearing medium or heavy armor, or if carrying a medium or heavy load) with average maneuverability.
+When using this spell for long-distance movement, you can hustle without taking nonlethal damage (a forced march still requires Constitution checks).
+This means you can cover 64 miles in an eight-hour period of flight (or 48 miles at a speed of 30 feet).
+See page 164 for more on overland movement.
+   

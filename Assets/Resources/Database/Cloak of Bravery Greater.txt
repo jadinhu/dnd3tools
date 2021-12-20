@@ -1,0 +1,13 @@
+<b>Cloak of Bravery, Greater</b>(Complete Warrior)
+
+Abjuration [Mind-Affecting]
+ <b>Level:</b>   Courage 9,   
+<b>Components:</b>
+ <b>Range:</b> 1 mile; see text
+ <b>Area:</b> 1-mile-radius emanation centered on you
+ <b>Duration:</b> 1 hour/level
+
+ 	
+As cloak of bravery, except all allies within the emanation (including you) are immune to fear effects and gain a +2 morale bonus on attack rolls.
+Allies who don't have line of sight to you are unaffected.
+   

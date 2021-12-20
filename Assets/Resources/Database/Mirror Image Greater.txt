@@ -1,0 +1,16 @@
+<b>Mirror Image, Greater</b>(Player's Handbook II)
+
+Illusion (Figment)
+ <b>Level:</b>  Bard 4,  Beguiler 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal; see text for mirror image (PH 254)
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+Several illusory duplicates of you pop into being.
+This spell functions like mirror image, except that an additional image is created in each round after the first, up to a maximum of eight concurrent images.
+If all images are destroyed, the spell ends.
+This spell also differs from mirror image in that you can cast this spell even when it's not your turn.
+   

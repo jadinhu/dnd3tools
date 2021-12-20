@@ -1,0 +1,16 @@
+<b>Daze Animal</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Enchantment [Compulsion, Mind-Affecting]
+ <b>Level:</b>  Druid 0,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One Medium-size or smaller animal with less than 5 HD
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This enchantment clouds the target animal's mind.
+The subject is not stunned, so attackers get no special advantage against it, but it cannot move or attack.
+   

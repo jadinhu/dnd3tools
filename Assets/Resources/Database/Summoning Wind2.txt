@@ -1,0 +1,27 @@
+<b>Summoning Wind</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Ten miles/level
+ <b>Target:</b> Up to ten creatures/level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You send a message or sound on the wind to a number of specific creatures that you identify while casting the spell.
+The specific identity of each recipient need not be known,
+but you must be able to distinguish them by their position or some feature other than race or character class.
+For example, you could send the message to the soldiers of your palace guard or to the governors of all the provinces in the empire.
+The summoning wind travels to each recipient, provided that it can find a way from you to their locations.
+(It can't pass through walls, for instance).
+The summoning wind is as gentle and unnoticed as a zephyr until it reaches the recipients.
+It then delivers its whisper-quiet message or other sound and dissipates.
+You can prepare the spell to bear a message of up to twenty-five words, cause the spell to deliver other sounds for 1 round, or merely have the summoning wind seem to be a faint stirring of the air.
+You can likewise cause the summoning wind to move as slowly as one mile per hour or as quickly as one mile per 10 minutes.
+When the spell reaches its objective, it swirls and remains until the message is delivered.
+As with magic mouth, summoning wind cannot speak verbal components, use command words, or activate magical effects.
+This spell is commonly used to rally troops, send warnings, or disseminate proclamations.
+ <b>Also appears in</b>   Complete Arcane     

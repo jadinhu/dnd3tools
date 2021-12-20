@@ -1,0 +1,17 @@
+<b>Fool's Gold</b>(Power of Faerun)
+
+Illusion [Glamer]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,  Merchant Prince 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Metal objects of up to 10 cu. in. in volume/level
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will disbelief (if interacted with)
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell makes metal objects, such as a bronze statue or a handful of copper coins, appear to be made of gold. You can affect 10 cubic inches of metal � ;the equivalent of about 150 coins or 3 pounds � ;per level. If you want to affect multiple objects, such as a chest full of coins, you only need to touch one of the objects, providing that all of the other objects to be affected are in contact with one another.
+	
+Material Component: A powdered gem of at least 5 gp in value sprinkled over the object(s).
+   

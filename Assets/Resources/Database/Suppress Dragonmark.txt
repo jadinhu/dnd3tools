@@ -1,0 +1,17 @@
+<b>Suppress Dragonmark</b>(Magic of Eberron, p. 103)
+
+Abjuration
+ <b>Level:</b>  Artificer 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>S, AF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One dragonmarked creature
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> No
+
+ 	
+Using an inversely charged Siberys dragonshard, this spell absorbs the magical energy of the target creature's dragonmark. In casting the spell, you must touch the target creature with the charged dragonshard, requiring either a ranged or melee touch attack. If the creature is struck by the Siberys shard and fails its Will save, it loses the ability to use any spell-like abilities granted by its dragonmark for the duration of the spell.
+	
+<b>Focus:</b> A Siberys dragonshard worth at least 25 gp and inversely tuned, a process requiring 1 hour of uninterrupted concentration. Once the spell is cast, the inverse tuning must be repeated for the focus to work again.
+   

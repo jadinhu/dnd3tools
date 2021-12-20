@@ -1,0 +1,19 @@
+<b>Scatterspray</b>(Forgotten Realms Campaign Setting)
+
+Transmutation
+ <b>Level:</b>  Harper Scout 1,  Hathran 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Six or more Diminutive or Fine objects, all within 1 ft. of each other, whose total weight does not exceed 25 lb.
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None (see text)
+ <b>Spell Resistance:</b> No
+
+ 	
+You can point to a collection of little, unsecured items and cause them to fly off in all directions simultaneously.
+The spray of items makes a burst with a 10-foot radius.
+If the items are fairly hard or sharp (such as stones, sling bullets, coins, or the like), creatures in the burst take 1d8 points of damage.
+A successful Reflex save negates this damage.
+Eggs, fruit, and other soft objects can be used, but the damage then dealt is subdual damage.
+ <b>Also appears in</b>   Spell Compendium  Dragon Compendium     

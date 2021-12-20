@@ -1,0 +1,19 @@
+<b>Crown of Glory</b>(Spell Compendium, p. 56)
+
+Enchantment (Compulsion)
+ <b>Level:</b>   Glory 8,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 20 ft.
+ <b>Target:</b> You and one creature/level in a 20-ft.-radius burst centered on you
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>When you cast this spell, you crown yourself with your deity's favor and draw all eyes towards you.</b>
+	
+You are imbued with an aura of celestial authority, inspiring awe in all lesser creatures that behold your terrible perfection and righteousness. You gain +4 enhancement bonus to Charisma for the duration of the spell.
+	
+In addition, the subject creatures gain a +4 morale bonus on attack rolls, saves, and skill checks, immunity to fear effects, and temporary hit points equal to your caster level (maximum 20).
+   

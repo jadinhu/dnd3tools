@@ -1,0 +1,18 @@
+<b>Urban Shield</b>(Races of Destiny)
+
+Abjuration
+ <b>Level:</b>   City 7,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+The city itself shields you from harm, leaning in to protect you with its walls, lampposts, and other structures.
+You gain cover (+4 bonus to AC, +2 bonus on Reflex saves) against all attacks and spells.
+At the same time, the city reshapes itself to accommodate your attacks.
+Against your attacks and spells, enemies within the city never benefit from cover that would be gained from the walls, objects, or other parts of the city and its structures.
+You must be within a community no smaller than a small city to cast this spell.
+Material Component: A chip of stone or brick.
+   

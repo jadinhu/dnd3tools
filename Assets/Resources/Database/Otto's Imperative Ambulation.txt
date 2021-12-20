@@ -1,0 +1,18 @@
+<b>Otto's Imperative Ambulation</b>(Complete Mage)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/3 levels
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With seemingly no regard for his safety, your target begins moving around the battlefield.
+For the duration of the spell, the subject must begin each of its turns by taking a move action to move at least 10 feet (provoking attacks of opportunity as normal).
+The subject has full control over where it moves, as long as it ends up at least 10 feet from where it started.
+If it is incapable of moving at least 10 feet with a move action � ;due to terrain or other obstacles � ;it is dazed for 1 round instead.
+   

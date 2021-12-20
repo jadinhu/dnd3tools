@@ -1,0 +1,17 @@
+<b>Silverbeard</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Paladin 1 (Clangeddin Silverbeard),    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+Your beard grows and turns to pure and magically hardened silver, increasing the armor bonus of your armor by +2.
+An outfit of regular clothing counts as armor that grants an AC bonus for the purpose of this spell.
+If you do not have a beard, you grow one for the duration of this spell (even if you are a creature that cannot normally grow a beard, such as an elf or a female human).
+You get a +2 circumstance bonus on Diplomacy checks against dwarves.
+Repeated uses of this spell eventually result in your beard turning a natural silver color (if you cannot normally grow a beard, this secondary effect does not occur).
+ <b>Also appears in</b>   Spell Compendium     

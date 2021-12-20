@@ -1,0 +1,17 @@
+<b>Know Bloodline</b>(Lost Empires of Faerun)
+
+Divination
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Mulhorandi priests have used this spell for millennia to select humans of the purest Mulan bloodlines to follow the path of the glorious servant.
+When you cast this spell, you learn the basic ancestry of the subject creature.
+The information revealed includes the subject's type, race, subrace, and all subtypes the creature possesses.
+   

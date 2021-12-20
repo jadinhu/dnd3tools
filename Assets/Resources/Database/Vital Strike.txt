@@ -1,0 +1,16 @@
+<b>Vital Strike</b>(Complete Mage)
+
+Divination
+ <b>Level:</b>  Assassin 3,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> One attack
+
+ 	
+You suddenly see two versions of your target, one a split second ahead of the other, allowing you to target the holes in his defenses.
+You gain temporary, intuitive insight into the actions of your foes.
+Your next single attack roll (if it is made before the end of the next round) is considered a sneak attack, even if your foe is neither flat-footed nor flanked.
+This spell does not allow you to sneak attack creatures normally immune to such attacks, nor does it allow you to make use of other abilities � ;such as certain feats � ;that deal ability damage, or otherwise grant you extra benefits, when you make a sneak attack.
+   

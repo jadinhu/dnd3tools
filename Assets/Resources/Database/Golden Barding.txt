@@ -1,0 +1,23 @@
+<b>Golden Barding</b>(Complete Divine)
+
+Conjuration (Creation) [Force]
+ <b>Level:</b>  Blackguard 1,  Paladin 1,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Special mount touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You conjure forth a glowing, golden suit of barding for your special mount.
+The golden barding you create has no armor check penalty and has no effect on your mount's speed.
+The exact nature of the barding depends on your caster level.
+2nd-3rd: Scale mail barding (+4 armor bonus).
+4th-5th: Chainmail barding (+5 armor bonus).
+6th-7th: Splint mail barding (+6 armor bonus).
+8th-9th:Half-plate barding (+7 armor bonus).
+10th+: Full plate barding (+8 armor bonus).
+Because golden barding is made of force, incorporeal creatures can't bypass it the way they do normal armor.
+ <b>Also appears in</b>   Spell Compendium     

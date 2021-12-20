@@ -1,0 +1,18 @@
+<b>Bestow Wound</b>(Heroes of Horror)
+
+Transmutation
+ <b>Level:</b>  Dread Necromancer 1,  Sorcerer 1,  Wizard 1,   Spite 1,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+If wounded, you can cast this spell and touch a living creature.
+The target takes damage equal to your wounds at the rate of 1 point of damage per your caster level, or the amount needed to bring you up to your maximum hit points, whichever is less.
+At the same time, you heal that much damage, as if a cure spell had been cast on you.
+Material Component: A small eye agate worth at least 10 gp.
+ <b>Also appears in</b>   Book of Vile Darkness     

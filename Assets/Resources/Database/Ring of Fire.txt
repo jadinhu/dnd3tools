@@ -1,0 +1,17 @@
+<b>Ring of Fire</b>(Tome of Battle: The Book of Nine Swords, p. 55)
+
+Desert Wind (Strike) [Fire]
+ <b>Level:</b>  Swordsage 6 (Two Desert Wind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Special; see text
+ <b>Area:</b> Special; see text
+ <b>Saving Throw:</b> Reflex half
+
+ 	
+<b>You move in a blur, your feet wreathed in flaming energy. As you run, you leave a trail of fire behind you. You encircle a foe, and the ring of fire you leave behind bursts into an inferno that engulfs your enemy and everything else in the area.</b>
+	
+As part of this maneuver, you can move up to two times your speed along the ground. All of your movement must be along continuous, solid ground. You leave a trail of flames in your wake. These flames have no effect unless they form a closed area. In this case, a raging inferno erupts within that area. All creatures within the area take 12d6 points of fire damage, with a Reflex save (DC 16 + your Wis modifier) for half damage.
+The inferno erupts the first time you form a closed area. You cannot create multiple areas in one move.
+This maneuver is a supernatural ability.
+   

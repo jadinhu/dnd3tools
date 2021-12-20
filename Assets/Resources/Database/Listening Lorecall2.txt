@@ -1,0 +1,17 @@
+<b>Listening Lorecall</b>(Spell Compendium, p. 133)
+
+Divination
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+<b>You feel conscious of your ears as they warm noticeably. Sounds that seem as though they should be muffled become clear to you.</b>
+	
+You gain a +4 insight bonus on Listen checks. In addition, if you have 5 or more ranks in Listen, you gain blindsense out to 30 feet. If you have 12 or more ranks in Listen, you gain blindsight out to 15 feet.
+	
+A silence spell or effect negates the blindsense or blindsight granted by a listening lorecall spell.
+ <b>Also appears in</b>   Complete Adventurer     

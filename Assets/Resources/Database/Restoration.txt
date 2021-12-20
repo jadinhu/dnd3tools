@@ -1,0 +1,15 @@
+<b>Restoration</b>(Player's Handbook v.3.5, p. 272)
+
+Conjuration (Healing)
+ <b>Level:</b>  Healer 3,  Cleric 4,  Death Delver 4,  Fatemaker 4,  Knight of the Weave 4,  Hunter of the Dead 4,  Runescarred Berserker 4,  Adept 4,  Paladin 4,  Divine Bard 5,    
+<b>Components:</b>V, S, M, 
+
+ 	
+This spell functions like lesser restoration, except that it also dispels negative levels and restores one experience level to a creature who has had a level drained. The drained level is restored only if the time since the creature lost the level is equal to or less than one day per caster level. Thus, if a 10th-level character has been struck by a wight and drained to 9th level, restoration brings the character up to exactly the minimum number of experience points necessary to restore him to 10th level (45,000 XP), gaining him an additional Hit Die and level functions accordingly.
+	
+Restoration cures all temporary ability damage, and it restores all points permanently drained from a single ability score (your choice if more than one is drained). It also eliminates any fatigue or exhaustion suffered by the target.
+	
+Restoration does not restore levels or Constitution points lost due to death.
+	
+Material Component: Diamond dust worth 100 gp that is sprinkled over the target.
+   

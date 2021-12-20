@@ -1,0 +1,24 @@
+<b>Tirumael's Energy Spheres</b>(Magic of Faerun)
+
+Evocation [Acid, Cold, Electricity, Fire, Sonic]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Five floating spheres
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex half (see text)
+ <b>Spell Resistance:</b> Yes (see text)
+
+ 	
+You create a circle of five colored spheres that orbit your head at a distance of 1 foot.
+These spheres provide as much light as a dancing lights spell and can be used offensively or defensively.
+Each sphere corresponds to one of the five types of energy (acid, cold, electricity, fire, sonic).
+On your turn you can direct one or more spheres to strike a creature or creatures in range, no two of which may be more than 30 feet apart.
+Each sphere inflicts 1d4 points of energy damage per four caster levels (max 4d4 each) to a single creature, so an 8th-level caster's sphere inflicts 2d4 points of energy damage.
+The target may make a Reflex save for half damage against each sphere.
+If you are attacked with an effect that causes energy damage, and the sphere of that type of energy is still present, you can have that sphere absorb some of that energy damage, destroying the sphere.
+The sphere absorbs damage that round equal to the amount of damage it would deal if used to attack, so an 8th-level caster's fire sphere absorbs 2d4 points of fire damage.
+This overlaps (does not stack) with the protection granted by endure elements, resist elements, and protection from elements.
+Material Component: Five glass marbles.
+   

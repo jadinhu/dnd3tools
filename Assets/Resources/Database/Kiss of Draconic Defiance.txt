@@ -1,0 +1,24 @@
+<b>Kiss of Draconic Defiance</b>(Dragon Magic)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 40 ft.
+ <b>Area:</b> 40-ft.-radius emanation centered on you
+ <b>Duration:</b> Concentration + 1 round or until expended
+ <b>Saving Throw:</b> Fortitude negates; see text
+ <b>Spell Resistance:</b> Yes; see text
+
+ 	
+A ring of radiant energy spirals out from your body, shattering the magical energies of others.
+This spell projects magical interference from your body, making it more difficult for others to cast spells within its area.
+Any enemy attempting to cast a spell within the area of a kiss of draconic defiance must succeed on a Fortitude saving
+throw; failure means the spell is lost (as if cast) but has no effect.
+Any creature that successfully saves against this spell is immune to its effect for 24 hours thereafter.
+Check spell resistance the first time a creature attempts to cast a spell within the area.
+Furthermore, while this spell is active, you can automatically counter a single spell of 5th level or lower (as
+per the counterspell action) as an immediate action, as long as the caster is within the area of the kiss of dragon defiance.
+Doing so immediately ends the duration of this spell.
+You do not expend any of your own spell slots to counter the other spell and need not make a Spellcraft check to identify it (though you can choose to do so to ensure that it's not higher than 5th level).
+   

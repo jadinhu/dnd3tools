@@ -1,0 +1,17 @@
+<b>Scales of the Lizard</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute
+
+ 	
+When you cast this spell, your skin toughens and shimmers as if covered with scales.
+You gain a +2 enhancement bonus to your natural armor bonus, increasing to +3 at 6th level, +4 at 9th level, and +5 at 12th level or higher.
+The enhancement bonus provided by scales of the lizard stacks with your own natural armor bonus (if any), but not with other enhancement bonuses to natural armor.
+A creature without natural armor has an effective natural armor bonus of +0, much as a character wearing only normal clothing has an armor bonus of +0.
+Focus: A tattoo of a lizard on your skin.
+ <b>Also appears in</b>   Oriental Adventures     

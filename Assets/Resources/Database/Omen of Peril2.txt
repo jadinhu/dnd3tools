@@ -1,0 +1,27 @@
+<b>Omen of Peril</b>(Races of Destiny)
+
+Divination
+ <b>Level:</b>  Cleric 1,  Druid 1,   Destiny 1,   
+<b>Components:</b>V, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+A brief supplication grants you a vision that hints at how dangerous the immediate future is likely to be.
+Based on an assessment of the caster's immediate surroundings and likely path of travel, the caster receives one of three visions: safety, peril, or great danger.
+	
+The base chance for receiving an accurate reply is 70% + 1% per caster level, to a maximum of 90%; the DM makes the roll secretly.
+	
+If the omen of peril is successful, you receive one of three fleeting visions:			Safety: The caster isn't in any immediate danger. If he continues on his present course (or remains where he is if he's been stationary for some time before casting the spell), he'll face no significant monsters, traps, or challenges for the next hour or so.		Peril: The caster will face challenges typical of an adventure: challenging but not overwhelming monsters, dangerous traps, and other hazards for the next hour or so.		Great danger: The caster's very life is at grave risk.	
+He will likely face powerful NPCs or deadly traps in the next hour.
+If the roll fails, you receive one of the other two results, determined randomly by the DM, and you don't necessarily know you failed because the DM rolls secretly.
+Choosing which vision is &quot;correct&quot; takes some educated guesswork on the part of the DM, who should assess the party's likely courses of action and what dangers they're likely to face.
+The form that an omen of peril takes depends on whether the caster worships a specific deity, venerates nature as a druid, or simply upholds abstract principles.
+A druid might see a white dove for safety, a dark cloud obscuring the sun for peril, and a forest fire for great danger.
+A cleric of Fharlanghn might see a vision of a straight road for safety, a crossroads for peril, and a washed-out bridge for great danger.
+Unlike the more powerful augury, an omen of peril doesn't respond to a specific question.
+It only indicates the level of danger likely for the next hour, not what form the danger will take.
+Focus: A set of marked sticks, bones, or similar tokens of at least 25 gp value.
+ <b>Also appears in</b>   Complete Divine     

@@ -1,0 +1,26 @@
+<b>Desert Diversion</b>(Sandstorm)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A gray ray flecked with red springs from your outstretched hand.
+You must make a ranged touch attack to hit the target.
+A target struck is covered with a glittering red field that usurps some forms of planar travel.
+Forms of travel taken over by desert diversion include dimension door, ethereal jaunt, etherealness, gate, greater teleport,
+plane shift, shadow walk, teleport, teleport object, teleportation circle, and similar spells and spell-like abilities.
+If the subject of desert diversion casts one of the above spells, he and those traveling with him (or anyone using the gate or teleportation circle) are diverted.
+This spell can also be cast upon a gate or teleportation circle,
+thereafter diverting all who use the affected spell for the duration of desert diversion.
+Subjects are diverted to a wasteland location, chosen by the caster or randomly determined.
+Until desert diversion ends or is dispelled, the subjects of the spell cannot use any of the abovementioned spells to travel from the area.
+If they try, the casting simply returns them to the same spot in the middle of the waste.
+When the duration expires, the diversion ends, and subjects return to their point of origin.
+   

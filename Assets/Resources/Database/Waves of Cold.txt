@@ -1,0 +1,18 @@
+<b>Waves of Cold</b>(Frostburn)
+
+Necromancy [Cold]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, Coldfire
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Waves of frigid energy render all creatures with the fire subtype in the spell's area shaken for the duration of the spell.
+Any creature with the cold subtype caught in the area of this spell loses its immunity to cold for the duration of the spell.
+Whether or not a creature makes its saving throw, it becomes immune to further castings of this spell for 24 hours.
+Coldfire Component: Two ounces of coldfire.
+   

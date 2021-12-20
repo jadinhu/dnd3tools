@@ -1,0 +1,11 @@
+<b>Curse of Impending Blades, Legion's</b>(Miniatures Handbook)
+
+Necromancy
+ <b>Level:</b>  Bard 3,  Ranger 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Enemies in a 20-ft.-radius burst
+
+ 	
+This spell functions like curse of impending blades, except that it affects multiple enemies.
+   

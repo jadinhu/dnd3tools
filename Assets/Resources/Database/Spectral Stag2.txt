@@ -1,0 +1,31 @@
+<b>Spectral Stag</b>(Player's Guide to FaerÃ»n)
+
+Conjuration (Creation)
+ <b>Level:</b>   Initiate of malar 2,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> One quasi-real staglike creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+You conjure a quasi-real, staglike creature that you can direct to either attack a target or simply carry you on its back.
+When you cast the spell, you decide whether you want the stag to appear next to you or form underneath you so that you may ride it immediately.
+The stag has a speed of 60 feet and can act as soon as it
+appears, moving as you direct.
+Controlling the stag is a free action.
+It can move through the air as if it were on firm land, as a phantom steed spell (caster level 12th).
+It can bear its rider's weight plus up to 10 pounds of additional weight per caster level.
+The stag is a Large creature with an Armor Class of 18 (-1 size, +4 natural armor, + 5 Dex) and 7 hit points +1 hit point per caster level.
+If it loses all its hit points, the spectral stag disappears.
+If directed to attack a creature, the stag charges its target and initiates a bull rush.
+It has an effective Strength of 18 for this purpose.
+The stag cannot be attacked or damaged, but if you are riding it when it attempts a bull rush, the defender may use her attack of opportunity against you instead of the stag.
+If the bull rush fails, the stag (and you, if you are riding it) moves 5 feet straight back to where it was before it moved into the target's space.
+If the bull rush succeeds, the stag moves the defender the maximum distance possible.
+The defender must also make a Fortitude saving throw or be stunned for 1 round.
+When the spell ends, the stag vanishes.
+If you were riding it at the time, you land safely on the ground.
+ <b>Also appears in</b>   Magic of Faerun     

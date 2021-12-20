@@ -1,0 +1,17 @@
+<b>Swift Ready</b>(The Forge of War, p. 117)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Artificer 2,  Assassin 2,  Bard 2,  Duskblade 2,  Hexblade 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute (and 1 swift action to invoke afterward; see text)
+ <b>Range:</b> Touch
+ <b>Target:</b> One, two, or three specific objects; see text
+ <b>Duration:</b> 24 hours or until invoked; see text
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+You can cast this spell on one or more of the following groups of items:
+			One suit of armor or other item of clothing (such as a robe or cloak); plus either				One or two weapons, tools, or magic items, each small enough to be wielded in a single hand; or				One weapon, tool, or magic item that is normally wielded in both hands.		
+Thus, for instance, you could cast the spell on a robe and a staff, or on a suit of armor, a longsword, and a shield. At any time before the spell expires, you can, as a swift action, cause the affected equipment to instantly appear on your body or in your grasp, as though you had taken the time to properly don and prepare it. You must have line of sight to the equipment, and it cannot be in the possession of any other creature. Invoking the spell causes the duration to end instantly.
+   

@@ -1,0 +1,18 @@
+<b>Parboil</b>(Sandstorm)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,  Cleric 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You flash-heat the air in an area, boiling the blood and baking the brains of creatures caught inside.
+The hot air deals 6d6 points of fire damage and 2d4 points of Intelligence damage.
+Creatures that make successful Fortitude saves take half fire damage and no Intelligence damage.
+Arcane Material Component:Water and a pinch of sulfur.
+   

@@ -1,0 +1,18 @@
+<b>Goodberry</b>(Player's Handbook v.3.5, p. 237)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Healer 1,   Gluttony 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> 2d4 fresh berries touched
+ <b>Duration:</b> One day/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Casting goodberry upon a handful of freshly picked berries makes 2d4 of them magical.
+You (as well as any other druid of 3rd or higher level) can immediately discern which berries are affected.
+Each transmuted berry provides nourishment as if it were a normal meal for a Medium creature.
+The berry also cures 1 point of damage when eaten, subject to a maximum of 8 points of such curing in any 24-hour period.
+   

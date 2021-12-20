@@ -1,0 +1,17 @@
+<b>Burning Blade</b>(Tome of Battle: The Book of Nine Swords, p. 52)
+
+Desert Wind (Boost) [Fire]
+ <b>Level:</b>  Swordsage 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> End of turn
+
+ 	
+<b>Your blade bursts into flame as it sweeps toward your foe in an elegant arc.</b>
+	
+A subtle yet precise twisting of your blade unlocks the power of flame. When you initiate this maneuver, fire trails from your melee weapon. For the rest of your turn, your melee attacks deal an extra 1d6 points of fire damage 
++1 point per initiator level.
+This maneuver is a supernatural ability.
+   

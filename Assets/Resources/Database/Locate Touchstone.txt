@@ -1,0 +1,17 @@
+<b>Locate Touchstone</b>(Planar Handbook)
+
+Divination
+ <b>Level:</b>  Bard 1,  Druid 1,  Sorcerer 1,  Wizard 1,  Cleric 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> See text
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You sense the direction of the nearest planar touchstone and gain a vague sense of its power.
+If you have visited the nearest planar touchstone and wish to exclude it from this divination, you instead gain knowledge of the next closest planar touchstone.
+This spell allows you to locate planar touchstones located only on the plane on which it is cast.
+Special: You must have the Planar Touchstone feat in order to cast this spell.
+   

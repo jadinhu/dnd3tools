@@ -1,0 +1,18 @@
+<b>Undeath's Eternal Foe</b>(Player's Guide to FaerÃ»n)
+
+Abjuration [Good]
+ <b>Level:</b>   Initiate of lathander 9,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/5 levels
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You grant one or more creatures special abilities that allow them to effectively destroy undead.
+Each subject of this spell functions as if affected by negative energy protection, except that a +10 sacred bonus applies to its resistance roll against such attacks.
+It also gains a +4 deflection bonus to AC against attacks by undead and is immune to special attacks by undead that deal ability damage or ability drain, or afflict the target with disease or poison.
+The subject can make melee and ranged attacks against ethereal or incorporeal undead as if they were using ghost touch weapons and ignore any damage reduction an undead opponent may have.
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun     

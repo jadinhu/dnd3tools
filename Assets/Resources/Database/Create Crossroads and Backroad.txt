@@ -1,0 +1,20 @@
+<b>Create Crossroads and Backroad</b>(Magic of Faerun)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> One day
+ <b>Range:</b> Touch
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You formtwo crossroads and a backroad that links them.
+The crossroads are vertical, rectangular areas of up to 50 square feet each.
+You must have personally visited the end crossroads location in order to create the backroad.
+The spell summons a crossroads guardian and establishes a crossroads at each end.
+The crossroads guardians always start with a Helpful attitude toward their creator.
+The procedure requires your complete dedication and attention for a full day, preparing and nurturing the site, typically naturalizing it and removing signs of civilization.
+XP Cost: 3,500 XP.
+   

@@ -1,0 +1,19 @@
+<b>Death Armor</b>(Magic of Faerun)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You are surrounded with a crackling black aura that injures creatures that contact it.
+Any creature striking you with its body or handheld weapons takes 1d4 hit points of damage +1 point per 2 caster levels (maximum +5).
+If the creature has spell resistance, it applies to the damage.
+Weapons with exceptional reach, such as longspears, do not endanger their users in this way.
+Material Component: A paste made of exotic herbs, ground bones, and onyx worth 50 gp, which is applied to your body when the spell is cast.
+ <b>Also appears in</b>   Ghostwalk  Spell Compendium     

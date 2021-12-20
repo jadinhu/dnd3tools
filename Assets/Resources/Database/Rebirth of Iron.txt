@@ -1,0 +1,21 @@
+<b>Rebirth of Iron</b>(Complete Mage)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 3 (metal),  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> One former metallic item, destroyed by rust
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+Flecks of rust melt together and lose their ruddy hue.
+The metal creaks as it re-forms and straightens itself.
+You instantly restore a single metal object that has been damaged or destroyed by rust.
+This works even if the object has been reduced to powder, such as by the rusting grasp spell.
+Even if the object is partly missing, such as one partially consumed by a rust monster, the spell functions as long as at least 1/4 of the object remains.
+This spell does not restore the magical properties of any magic item or construct destroyed by rust.
+A slain or destroyed metallic creature such as an iron golem is restored in physical form, but it remains &quot;dead&quot;, having lost all magical qualities.
+   

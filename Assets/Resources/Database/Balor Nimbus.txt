@@ -1,0 +1,18 @@
+<b>Balor Nimbus</b>(Planar Handbook)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Like the legendary balor, your body bursts into lurid flames.
+The flames do not harm you or any equipment you carry or wear.
+However, each round, the flames deal 6d6 points of fire damage to any creature grappling you (or any creature you grapple) on your turn.
+Material Component: A pinch of soot.
+ <b>Also appears in</b>   Spell Compendium     

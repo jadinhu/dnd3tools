@@ -1,0 +1,18 @@
+<b>Pall of Twilight</b>(Complete Mage)
+
+Illusion (Pattern) [Darkness, Mind-Affecting]
+ <b>Level:</b>  Assassin 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A creeping pall of darkness covers the area like running ink, muting sound and color alike.
+This spell reduces illumination in the area to shadowy; these shadows are mental as well as physical.
+All creatures in the area take a -10 penalty on Listen, Search, Sense Motive, and Spot checks.
+A successful Will save negates these penalties, but not the effect of the darkness.
+   

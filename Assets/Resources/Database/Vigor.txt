@@ -1,0 +1,10 @@
+<b>Vigor</b>(Complete Divine)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 3,  Druid 3,    
+<b>Components:</b>
+ <b>Duration:</b> 10 rounds + 1 round/level (max 25 rounds)
+
+ 	
+This spell is the same as lesser vigor, except that it grants fast healing at the rate of 2 hit points per round.
+ <b>Also appears in</b>   Spell Compendium     

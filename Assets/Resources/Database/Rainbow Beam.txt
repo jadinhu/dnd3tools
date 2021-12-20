@@ -1,0 +1,19 @@
+<b>Rainbow Beam</b>(Spell Compendium, p. 165)
+
+Evocation [Light]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You fire a ray of swirling, multihued light drawn from radiant energies. The light's hues wind together but remain independent.</b>
+	
+You must succeed on a ranged touch attack with the ray to strike a target. If you hit, the subject is dazzled for 1 minute. The spell also deals 1d12 points of damage per three caster levels (maximum 5d12). A rainbow beam deals a random type of damage as determined by the following table. If two types of energy are indicated, rainbow beam deals half its damage from each type of energy indicated. Creatures apply energy resistance separately to each type of damage.
+	<table>		<tr>			<th>1d8 </th>			<th>Color </th>			<th>Damage Type </th>		</tr>		<tr>			<td> 1 </td>			<td> red </td>			<td> fire </td>		</tr>		<tr>			<td> 2 </td>			<td> orange </td>			<td> acid </td>		</tr>		<tr>			<td> 3 </td>			<td> yellow </td>			<td> electricity </td>		</tr>		<tr>			<td> 4 </td>			<td> green </td>			<td> poison </td>		</tr>		<tr>			<td> 5 </td>			<td> blue </td>			<td> cold </td>		</tr>		<tr>			<td> 6 </td>			<td> indigo </td>			<td> sonic </td>		</tr>		<tr>			<td> 7 </td>			<td> violet </td>			<td> force </td>		</tr>		<tr>			<td> 8 </td>			<td> multihued </td>			<td> roll twice (ignore further results of 8) </td>		</tr>	</table>	
+Focus: A small clear gem or crystal prism worth at least 10 gp.
+   

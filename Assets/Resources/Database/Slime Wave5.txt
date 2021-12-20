@@ -1,0 +1,19 @@
+<b>Slime Wave</b>(Spell Compendium, p. 192)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Cleric 7,  Druid 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 15-ft.-radius spread
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You finish the spell, and a horrendous wave of green slime explodes outward from the spot where you point.</b>
+	
+You create a wave of green slime (<span class="caps">DMG</span> 76) that begins at the point of origin you choose and violently spreads to the limit of the area. The wave splashes and splatters as it passes; some slime clings to any wall or ceiling the wave touches. Green slime devours flesh and organic materials on contact, and even dissolves metal. Each creature in the area is covered with one patch of green slime. Unlike normal green slime, the slime created by this spell gradually evaporates, disappearing by the end of the duration.
+	
+Material Component: A few drops of stagnant pond water.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Fiendish Codex I: Hordes of the Abyss  Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins     

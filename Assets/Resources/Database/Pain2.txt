@@ -1,0 +1,18 @@
+<b>Pain</b>(Oriental Adventures)
+
+Necromancy
+ <b>Level:</b>  Wu Jen 4,   Maho 4,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Creatures with total HD not exceeding your level, no two of which may be more than 20 ft. apart
+ <b>Duration:</b> 1 round/2 levels
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The target creatures are struck by wracking pains and agony.
+While the spell lasts, affected creatures suffer a -4 penalty on attack rolls, skill checks, and ability checks.
+A successful Fortitude save reduces this penalty to -2.
+Material Component: A live leech.
+ <b>Also appears in</b>   Complete Arcane     

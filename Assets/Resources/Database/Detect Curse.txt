@@ -1,0 +1,20 @@
+<b>Detect Curse</b>(Oriental Adventures)
+
+Divination
+ <b>Level:</b>  Shaman 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature, one object, or a 5-ft. cube
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You determine whether a creature, object, or area has been cursed or carries a curse.
+You can determine the general nature of the curse with a successful Spellcraft check (DC 20).
+In scanning a cursed scroll, you could learn that the curse causes misfortune to the reader, but you could not tell the specific effects.
+If you succeed at the Spellcraft check, you receive a +4 bonus to your effective level when casting remove curse on the item or person analyzed with this spell.
+Note: The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
+Material Component: A small gem worth at least 10 gp.
+   

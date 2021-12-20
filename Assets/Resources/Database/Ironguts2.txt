@@ -1,0 +1,19 @@
+<b>Ironguts</b>(Spell Compendium, p. 126)
+
+Abjuration
+ <b>Level:</b>  Bard 1,  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You mutter the spell and uncork a bottle with a noxious concoction of scorpion venom, toad sweat, adder venom, and the strained brains of carrion crawlers. The poisonous liquid evaporates into a black cloud that surrounds your hand as you reach out to touch the target.</b>
+	
+You enable a creature to better fight off the effect of poison. The subject is filled with antitoxin and gains a +5 alchemical bonus on Fortitude saves against all kinds of poisons, whether injury, contact, ingestion, or inhalation. After the spell ends, the subject is nauseated for 1 round.
+	
+Material Component: A vial containing the diluted poison of four different creatures.
+ <b>Also appears in</b>   Magic of Faerun     

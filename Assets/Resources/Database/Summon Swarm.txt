@@ -1,0 +1,19 @@
+<b>Summon Swarm</b>(Player's Handbook v.3.5, p. 289)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Bard 2,  Druid 2,  Sorcerer 2,  Wizard 2,  Sha'ir 2,  Death Master 2,  Urban Druid 2,  Dread Necromancer 2,   Pestilence 2,  Spider 2,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One swarm of bats, rats, or spiders
+ <b>Duration:</b> Concentration + 2 rounds
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You summon a swarm of bats, rats, or spiders (your choice), which attacks all other creatures within its area. (You may summon the swarm so that it shares the area of other creatures). If no living creatures are within its area, the swarm attacks or pursues the nearest creature as best it can. The caster has no control over its target or direction of travel.
+	
+See the Monster Manual for details of bat, rat, and spider swarms.
+	
+<b>Arcane Material Component:</b> A square of red cloth.
+   

@@ -1,0 +1,17 @@
+<b>Stance of Alacrity</b>(Tome of Battle: The Book of Nine Swords, p. 65)
+
+Diamond Mind (Stance)
+ <b>Level:</b>  Swordsage 8 (Three Diamond Mind maneuvers),  Warblade 8 (Three Diamond Mind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>Your mind and body meld, granting you an edge in combat. You move slightly faster than normal due to a combination of confidence, training, and clarity of mind. This slight edge adds up with each action.</b>
+	
+Your mental swiftness translates to physical action on the battlefield. You are constantly on edge, allowing you to react to multiple attacks and threats. Most warriors can only manage a single counter move each round.
+	
+While you are in this stance, you can use one counter per round without taking an immediate action. You cannot use the same maneuver two times in a round. In essence, one counter you use during the round does not require an immediate action. If you have already taken an immediate action within the past round, such as casting a feather fall spell, you can still use this stance to initiate a counter.
+   

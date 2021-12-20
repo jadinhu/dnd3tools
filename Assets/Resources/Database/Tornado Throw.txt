@@ -1,0 +1,19 @@
+<b>Tornado Throw</b>(Tome of Battle: The Book of Nine Swords, p. 75)
+
+Setting Sun (Strike)
+ <b>Level:</b>  Swordsage 9 (Five Setting Sun maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One or more creatures
+
+ 	
+<b>Like a whirlwind, you twist and spin across the battlefield, tossing foes away left and right.</b>
+	
+As part of initiating this maneuver, you move up to your opponent, throw her aside, and move again. You must move at least 10 feet before making your throw. This movement and your movement after your throw provoke attacks of opportunity as normal. You can move up to double your speed as part of this maneuver. If you fail in your throw attempt, you can still move afterward. After every 10 feet you move, you can attempt another throw against the same opponent or a different foe.
+	
+To make your throw attempt, you must succeed on a melee touch attack. Resolve the throw as a trip attempt (PH 158), but you do not provoke attacks of opportunity, and your opponent cannot try to trip you if you lose the opposed check. You can use your Dexterity or Strength modifier on this check, whichever is better. You gain a +2 bonus on this check for every 5 feet that you have moved during your turn.
+	
+If you succeed in tripping your foe, you throw him up to 10 feet away from you. The target falls prone in the destination space and takes 2d6 points of damage. You choose where he lands. For every 5 points by which you win the opposed check, you gain an additional 5 feet of throw distance and the target takes an additional 1d6 points of damage. For example, if you win by 10, you can place your foe in any space within 20 feet of you, and he takes a total of 4d6 points of damage. You must place the target in an empty space. If you lack the distance to throw your target into a clear space, he falls prone in his current space.
+	
+An enemy you throw with this maneuver does not provoke attacks of opportunity for passing through enemies? threatened areas as part of the throw, and you can throw an enemy through occupied squares.</p   

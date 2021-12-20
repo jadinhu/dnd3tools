@@ -1,0 +1,15 @@
+<b>Living Prints</b>(Spell Compendium, p. 134)
+
+Divination
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level
+
+ 	
+<b>You eyes glow green and you can now see the trails laid down almost a month ago, as clearly as if your quarry had just passed through.</b>
+	
+You perceive tracks as if they had just been made. You must notice the prints normally with a successful Search or Survival check, but this eliminates any penalties to your tracking due to the passage of time or any rainfall since the making of the trail. This spell has no effect on tracks more than thirty days old.
+ <b>Also appears in</b>   Magic of Faerun     

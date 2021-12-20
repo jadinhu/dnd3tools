@@ -1,0 +1,23 @@
+<b>Undeath After Death</b>(Player's Guide to FaerÃ»n)
+
+Necromancy [Evil]
+ <b>Level:</b>   Initiate of bane 7,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing living creature touched
+ <b>Duration:</b> Permanent until discharged
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You tear off a piece of a creature's life force, corrupt it with negative energy and the power of undeath, then bind it back to the same creature's body.
+This process initiates a blasphemous transformation when the creature dies.
+The subject of this spell loses 2 points of Constitution upon casting.
+When it dies, the corrupted life force initiates a slow change in its body, causing it to animate as a crypt spawn at the next sunset (see Chapter 6 in Monstrous Compendium:
+Monsters of FaerÃ»n).
+If the creature's remains are destroyed, the undeath after death spell cannot bring it back as an undead.
+Even if the spell is dispelled before the subject dies, it still does not regain its lost Constitution points.
+Material Components: A piece of obsidian shaped like a heart, which is placed on the subject's chest, and a black onyx gem worth at least 50 gp per HD the subject creature possesses at the time the spell is cast.
+This gem must be placed in the subject's mouth.
+ <b>Also appears in</b>   Magic of Faerun     

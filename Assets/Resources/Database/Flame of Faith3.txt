@@ -1,0 +1,19 @@
+<b>Flame of Faith</b>(Spell Compendium, p. 95)
+
+Evocation
+ <b>Level:</b>  Paladin 2,  Cleric 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Nonmagical weapon touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Using your faith as a guide for your magic, you touch the weapon and it bursts into flame.</b>
+	
+You can temporarily turn any single normal or masterwork melee weapon into a magic, flaming one. For the duration of the spell, the weapon acts as a +1 <b>flaming burst weapon</b>.
+	
+<b>Material Component:</b> A lump of phosphorus, touched to the target weapon.
+   

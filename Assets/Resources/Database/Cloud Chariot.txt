@@ -1,0 +1,23 @@
+<b>Cloud Chariot</b>(Complete Arcane)
+
+Conjuration (Creation) [Water]
+ <b>Level:</b>  Wu Jen 8 (water),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal and touch
+ <b>Target:</b> You and other touched willing creatures
+ <b>Duration:</b> 10 minutes (D)
+
+ 	
+When the spell is cast, you and any willing creatures you touch lift into the air on a magic chariot formed of cloud, then fly away in the direction you desire.
+You can bring one Medium or smaller creature (carrying gear and objects up to its maximum load) per four caster levels.
+A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth.
+A cloud chariot flies at 10 miles per minute, so that you can cover a distance of 100 miles over the spell's full duration.
+You and your passengers feel none of the effects of this swift movement, though, and the ride is perfectly steady and calm in even the worst weather.
+When the spell is dismissed, the cloud settles gently to the ground and dissipates.
+Should the spell duration expire while a cloud chariot is still aloft, the magic fails slowly, with cloud and riders floating downward 60 feet per round for 1d6 rounds.
+If the cloud reaches the ground in that amount of time, it lands safely.
+If not, it falls the rest of the distance, and all creatures riding in it take falling damage.
+A cloud chariot descends slowly if the spell is dispelled, but not if it is negated by an antimagic field.
+Material Component: A small ball of cotton.
+ <b>Also appears in</b>   Oriental Adventures     

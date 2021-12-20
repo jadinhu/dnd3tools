@@ -1,0 +1,20 @@
+<b>Feeblemind</b>(Player's Handbook v.3.5, p. 229)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,  Beguiler 5,  Wu Jen 5,  Sha'ir 5,  Jester 5,  Court Herald 5,   Suffering 5,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+If the target creature fails a Will saving throw, its Intelligence and Charisma scores each drop to 1, giving it roughly the intellect of a lizard.
+The affected creature is unable to use Intelligence- or Charisma-based skills, cast spells, understand language, or communicate coherently.
+Still, it knows who its friends are and can follow them and even protect them.
+The subject remains in this state until a heal, limited wish, miracle, or wish spell is used to cancel the effect of the feeblemind.
+A creature that can cast arcane spells, such as a sorcerer or a wizard, takes a -4 penalty on its saving throw.
+Material Component: A handful of clay, crystal, glass, or mineral spheres.
+   

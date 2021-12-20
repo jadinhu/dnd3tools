@@ -1,0 +1,19 @@
+<b>Chain of Eyes</b>(Spell Compendium, p. 45)
+
+Divination
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Cleric 3,  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With the creature's will to resist brushed aside, you gaze out from its eyes to see your own satisfied smile.</b>
+	
+You can use another creature's vision instead of your own. While this spell gives you no control over the subject, each time it comes into physical contact with another living being, you can choose to transfer your sensor to the new creature. During your turn in a round, you can use a free action to switch from seeing through the current creature's eyes to seeing normally or back again.
+	
+Each transfer attempt allows the new target a saving throw and spell resistance. If a target resists, the spell ends.
+   

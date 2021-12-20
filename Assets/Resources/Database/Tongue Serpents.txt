@@ -1,0 +1,17 @@
+<b>Tongue Serpents</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 hour/level or until discharged
+
+ 	
+The caster's tongue becomes a little but powerful serpent that he may spit up to 30 feet away.
+This serpent then makes a bite attack using the caster's melee attack bonus and dealing damage as a Tiny viper (see the Monster Manual).
+The caster may create one such serpent for every four caster levels, spitting each one as a standard action.
+At the end of the spell's duration, the serpents become bloody bits of organic matter.
+Material Component: A serpent's tongue.
+   

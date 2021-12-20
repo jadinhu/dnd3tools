@@ -1,0 +1,26 @@
+<b>Magnetism</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 3 (Metal),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell allows you to draw iron or steel objects to yourself by projecting a magnetic ray at any object within range.
+The magnetic ray draws objects toward you with an effective Strength score of 30.
+Each round the spell lasts, you can target one item with a ranged touch attack.
+If you hit an item that another creature is holding (such as a weapon), you and the creature holding the item must make opposed rolls, as if you were making a normal disarm attempt.
+You add your base attack bonus and the ray's Strength bonus (+10) to your roll.
+Your opponent uses a melee attack roll, modified by +4 if she is using a weapon in two hands.
+If the weapon is larger or smaller than your size, your opponent gets an additional +/-4 per size category difference.
+If you win the opposed roll, the weapon flies from your opponent's hand to your own.
+If you hit an attended item, such as a weapon at someone's belt, the creature wearing the item can make a Reflex save to keep hold of the item.
+If you hit an unattended item that is not secured or too heavy for the ray to lift, it flies to your hand.
+If the item is secured in some way, you can make a Strength check (using the Strength bonus of the ray) to break or burst whatever is securing it.
+Material Component: A piece of lodestone.
+ <b>Also appears in</b>   Complete Arcane     

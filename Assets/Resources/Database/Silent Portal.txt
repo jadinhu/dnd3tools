@@ -1,0 +1,20 @@
+<b>Silent Portal</b>(Magic of Faerun)
+
+Illusion (Glamer)
+ <b>Level:</b>  Sorcerer 0,  Wizard 0,  Assassin 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Any single portal
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+This simple cantrip negates the sound of opening and closing a single portal (door, window, gate, drawer, chest lid, and so on).
+Even the squeakiest door opens without a sound when under the effect of this spell.
+Silent portal covers only normal means of opening and closing the targeted portal.
+Breaking a window or kicking a door in still makes noise, but opening a door that is falling off its hinges does not (since this is the normal way a door would open).
+Portals composed of magical energy are not affected by this spell.
+In the case of magic or even intelligent portals, spell resistance and a Will save (DC 10 + caster's ability score modifier + other modifiers as appropriate) apply.
+ <b>Also appears in</b>   Spell Compendium     

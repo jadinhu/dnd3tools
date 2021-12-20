@@ -1,0 +1,13 @@
+<b>Shield Counter</b>(Tome of Battle: The Book of Nine Swords, p. 60)
+
+Devoted Spirit (Counter)
+ <b>Level:</b>  Crusader 7 (Two Devoted Spirit maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>As your opponent prepares to make his attack, you bash him with your shield and disrupt his attempt.</b>
+	
+As an immediate action, you can attempt a shield bash against an opponent you threaten. This attack is made with a ?2 penalty. If your shield attack hits, your target?s next attack automatically misses. You can use this maneuver immediately after an opponent declares an attack, but you must do so before the attack?s result has been determined.<   

@@ -1,0 +1,13 @@
+<b>Fly, Mass</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Target:</b> One creature/level, no two of which can be more than 30 ft. apart
+
+ 	
+As fly, except this spell confers the power of flight upon all targeted creatures.
+Once a creature receives the spell, it must remain within 30 feet of at least one other recipient, or the spell is broken for that creature.
+(If only two individuals are affected, the one moving away from the other loses the ability to fly.
+If both are moving away from each other, they both become unable to fly when the distance between them exceeds 30 feet).
+   

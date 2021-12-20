@@ -1,0 +1,20 @@
+<b>Insight of Good Fortune</b>(Player's Handbook II)
+
+Divination
+ <b>Level:</b>  Bard 2,  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute/level or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You toss a small golden die.
+It rolls toward the creature you choose, then disappears in a tiny golden flash of light.
+The subject of the spell becomes unusually lucky.
+Once during the spell's duration, when he makes an attack roll, skill check, saving throw, or ability check, he rolls twice and takes the better result.
+He must choose to use this ability before the check is attempted, and the spell expires once the second die is rolled.
+Material Component: A gold die (worth 20 gp).
+   

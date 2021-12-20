@@ -1,0 +1,15 @@
+<b>Teleport Object</b>(Player's Handbook v.3.5, p. 293)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,  Wu Jen 7,  Sha'ir 7,   Greed 7,   
+<b>Components:</b>
+ <b>Range:</b> Touch
+ <b>Target:</b> One touched object of up to 50 lb./level and 3 cu. ft./level
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+This spell functions like <b>teleport</b>, except that it teleports an object, not you. Creatures and magical forces (such as a <b>delayed blast fireball</b> bead) cannot be teleported.
+	
+If desired, the target object can be sent to a distant location on the Ethereal Plane. In this case, the point from which the object was teleported remains faintly magical until the item is retrieved. A successful targeted <b>dispel magic</b> spell cast on that point brings the vanished item back from the Ethereal Plane.
+   

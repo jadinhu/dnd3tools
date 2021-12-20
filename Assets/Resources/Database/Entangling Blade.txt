@@ -1,0 +1,14 @@
+<b>Entangling Blade</b>(Tome of Battle: The Book of Nine Swords, p. 58)
+
+Devoted Spirit (Strike)
+ <b>Level:</b>  Crusader 4 (One Devoted Spirit maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> See text
+
+ 	
+<b>You hack into your foe?s legs, forcing his movement to slow and his resolution to falter.</b>
+	
+As part of this maneuver, you make a melee attack against an opponent. Your attack deals an extra 2d6 points of damage. In addition, if your attack hits, your target?s speed is reduced by 20 feet until the end of its next turn, which might prevent it from moving entirely. This penalty applies to all movement modes. A flying creature with a fly speed of 0 feet falls to the ground (and takes falling damage appropriately) if it is subject to this effect while in the air.</   

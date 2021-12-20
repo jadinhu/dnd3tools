@@ -1,0 +1,20 @@
+<b>Shadowfade</b>(Manual of the Planes)
+
+Illusion (Shadow)
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal and touch
+ <b>Target:</b> You and up to one touched creature/level
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You open a portal onto the Plane of Shadow, allowing yourself and creatures you touch to pass into that area.
+Unlike the shadow walk spell, this does not grant you the ability to open another such portal automatically, so the spell is often used as a temporary hiding place or a method of gaining access to the Plane of Shadow.
+The portal remains for the duration of the spell, and other creatures may pass through it in either direction if they make a Will save.
+The portal is invisible from the Material Plane and looks like a white hole on the Plane of Shadow.
+As with the shadow walk spell, you must be in a region of heavy shadows to cast shadowfade.
+The spell may only be cast on a plane coexistent with the Plane of Shadow, and it cannot be cast on the Plane of Shadow itself.
+ <b>Also appears in</b>   Spell Compendium     

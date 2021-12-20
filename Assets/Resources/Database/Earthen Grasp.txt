@@ -1,0 +1,25 @@
+<b>Earthen Grasp</b>(Complete Arcane)
+
+Transmutation [Earth]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Animated earthen arm
+ <b>Duration:</b> 2 rounds/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You bring forth from the ground an arm made of dense, compacted earth or soil that can grapple your foes.
+You can cause the arm to rise out of only earth, mud, grass, or sand, and the spell fails if you attempt to cast it in an area with the wrong materials (including stone).
+Treated the arm as a Medium creature, with a base attack bonus equal to your caster level and a Strength score of 14 +2 per three caster levels (16 at 3rd level, 18 at 6th level, and so on).
+The arm doesn't move from the square it appears in, but can make one grapple attempt per round against any creature in
+its square or any adjacent square, provoking attacks of opportunity as normal.
+If the arm can target multiple creatures, the caster chooses one.
+If the caster is unable to choose a target, the arm attacks a random creature within reach (possibly including the caster's allies).
+Each round that it successfully pins a target, the hand deals 1d6 points of lethal damage (plus its Strength modifier).
+The earthen arm has AC 15, hardness 4, and 3 hit points per caster level.
+If reduced to 0 or fewer hit points, it crumbles to dust.
+Material Component: A miniature hand sculpted from clay.
+ <b>Also appears in</b>   Spell Compendium     

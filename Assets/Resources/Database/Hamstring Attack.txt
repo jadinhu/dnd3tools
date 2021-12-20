@@ -1,0 +1,16 @@
+<b>Hamstring Attack</b>(Tome of Battle: The Book of Nine Swords, p. 88)
+
+Tiger Claw (Strike)
+ <b>Level:</b>  Swordsage 7 (Three Tiger Claw maneuvers),  Warblade 7 (Three Tiger Claw maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute
+ <b>Saving Throw:</b> Fortitude half
+
+ 	
+<b>You slice into your opponent?s legs, leaving him hobbled and stumbling about.</b>
+	
+As part of this maneuver, you make a single melee attack. If this attack hits, it deals damage as normal. In addition, the target takes 1d8 points of Dexterity damage and a ?10-foot penalty to speed for 1 minute. A successful Fortitude save (DC 17 + your Str modifier) halves both the Dexterity damage and the
+speed penalty.</   

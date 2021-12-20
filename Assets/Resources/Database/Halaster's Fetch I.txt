@@ -1,0 +1,15 @@
+<b>Halaster's Fetch I</b>(City of Splendors: Waterdeep, p. 153)
+
+Conjuration (Calling) [see text for summon monster I]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One summoned creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+As summon monster I, except called creatures do not disappear at the end of the spell's duration. They do, however, become free-willed and outside the control of the caller after the spell expires.
+   

@@ -1,0 +1,17 @@
+<b>Contagion</b>(Player's Handbook v.3.5, p. 213)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 3, Blackguard 3,  Druid 3,  Urban Druid 3,  Adept 3,  Death Master 3,  Blighter 3,  Sha'ir 4,  Warmage 4,  Wizard 4,  Sorcerer 4,  Dread Necromancer 4,   Destruction 3,  Blightbringer 3,  Pestilence 3,  Hades 4,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject contracts a disease selected from the table below, which strikes immediately (no incubation period). The DC noted is for the subsequent saves (use contagion's normal save DC for the initial saving throw). See the Dungeon Master's Guide for descriptions of each disease, as well as for the general effects of disease.
+	<table>		<tr>			<th>Disease </th>			<th>DC </th>			<th>Damage </th>		</tr>		<tr>			<td> Blinding sickness </td>			<td> 16 </td>			<td> 1d4 Str <sup>1</sup> </td>		</tr>		<tr>			<td> Cackle fever </td>			<td> 16 </td>			<td> 1d6 Wis </td>		</tr>		<tr>			<td> Filth fever </td>			<td> 12 </td>			<td> 1d3 Dex and 1d3 Con </td>		</tr>		<tr>			<td> Mindfire </td>			<td> 12 </td>			<td> 1d4 Int </td>		</tr>		<tr>			<td> Red ache </td>			<td> 15 </td>			<td> 1d6 Str </td>		</tr>		<tr>			<td> Shakes </td>			<td> 13 </td>			<td> 1d8 Dex </td>		</tr>		<tr>			<td> Slimy doom </td>			<td> 14 </td>			<td> 1d4 Con </td>		</tr>		<tr>			<td colspan="3"><sup>1</sup> Each time a victim takes 2 or more points of Strength damage from blinding sickness, he or she must make another Fortitude save (using the disease's save DC) or be permanently blinded. </td>		</tr>	</table>	
+See the Dungeon Master's Guide for descriptions of each disease, as well as for the general effects of disease.
+   

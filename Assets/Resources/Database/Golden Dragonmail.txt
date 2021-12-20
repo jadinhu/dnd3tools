@@ -1,0 +1,20 @@
+<b>Golden Dragonmail</b>(Champions of Valor)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Effect:</b> One suit of magic armor
+ <b>Duration:</b> 1 hour/level (D); see text
+
+ 	
+You create a suit of shining golden full plate around your body.
+The armor is etched with a dragonscale pattern, an image of a gold dragon, or Torm's holy symbol (your choice when you cast the spell).
+It is treated as +1 mithral full plate for all purposes (including arcane spell failure chance), and you are treated as proficient with this armor.
+Removing or destroying the armor dismisses the spell.
+This spell has no effect if you are already wearing armor.
+Torm the True is served by gold and silver dragons, and some of these dragons are the founders of ancient sorcerer bloodlines among the younger races.
+If you are a sorcerer, the armor also gives you resistance to fire 10.
+Focus: A gold coin and a piece of mithral in the shape of a dragonscale.
+   

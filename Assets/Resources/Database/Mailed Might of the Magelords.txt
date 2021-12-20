@@ -1,0 +1,19 @@
+<b>Mailed Might of the Magelords</b>(Lost Empires of Faerun)
+
+Conjuration (Creation) [Force]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You create a translucent, protective field of force (+8 armor bonus) around the subject.
+In addition, the subject becomes immune to 2nd-level or lower spells with the force descriptor and gains damage reduction 5/magic.
+Unlike mundane armor, the force armor created by mailed might of the magelords has no armor check penalty or arcane spell failure chance, and it mandates no speed reduction.
+Furthermore, since the armor is made of force, incorporeal creatures can't bypass it the way they do normal armor.
+Arcane Material Component: A miniature adamantine shield worth at least 250 gp.
+   

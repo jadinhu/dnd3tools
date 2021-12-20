@@ -1,0 +1,33 @@
+<b>Cocoon</b>(Magic of Faerun)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 8,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause silkworm threads to encase your target in a cocoon.
+While in the cocoon, the subject is paralyzed.
+Gradually, the cocoon leeches energy from the subject until he dies, at which point the cocoon grants powers to its holder.
+Once per day, the subject receives one negative level.
+If these levels become permanent, the cocoon &quot;stores&quot; the lost energy in its silk threads (up to 10 levels).
+The cocoon has 100 hp and hardness 10.
+Hacking it off the subject eventually breaks the subject free.
+If the cocoon is not allowed to complete its draining of the subject, it becomes useless and conveys no benefits.
+However, when the victim is reduced to zero levels, he dies and the cocoon falls off, shrinking to the size of a walnut.
+You may then carry the cocoon and draw energy from it.
+If carried, the shrunken cocoon grants you a +4 enhancement bonus to the victim's highest ability score (for instance, if the victim's highest ability score was
+Wisdom, you would gain a +4 enhancement bonus to your Wisdom).
+In the case of a tie, you may select which bonus you get.
+If the victim had any ranks in a Knowledge skill, you gain an enhancement bonus on that skill check equal to the number of ranks possessed by the victim.
+If the victim was a spellcaster, you gain one free spell slot of the highest spell level the victim could cast (even if those spells were of a different class or type than your own).
+The cocoon grants these special powers for one day per level drained from the victim.
+If the victim is restored to life before this duration ends, the cocoon immediately loses all powers.
+Material Component: A silkworm cocoon.
+XP Cost: 1,000 XP.
+ <b>Also appears in</b>   Spell Compendium     

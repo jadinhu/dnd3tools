@@ -1,0 +1,19 @@
+<b>Death Throes</b>(Spell Compendium, p. 60)
+
+Necromancy [Force]
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level or until you are killed
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>As the killing blow falls, you smile with grim satisfaction even as the light of life fades, knowing that your enemy will soon be joining you in the afterlife.</b>
+	
+If you are killed, your body is instantaneously destroyed in an explosion that deals 1d8 points of damage per caster level to everyone in a 30-foot-radius burst.
+	
+This explosion destroys your body, preventing any form of raising or resurrection that requires part of the corpse. A wish, miracle, or true resurrection spell can restore life.
+ <b>Also appears in</b>   Planar Handbook     

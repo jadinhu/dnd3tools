@@ -1,0 +1,19 @@
+<b>Iron Bones</b>(Spell Compendium, p. 125)
+
+Transmutation
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Corporeal undead creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>A brief flash engulfs your undead ally, and through its flesh you can see its skeleton. The skeleton glows a dusky red for a moment.</b>
+	
+This spell functions like stone bones (Spell Compendium page 208), except that the subject creature's skeleton changes to iron. The creature gains a +6 natural armor bonus to AC.
+	
+<b>Arcane Focus</b>: A miniature skull made out of iron or steel.
+ <b>Also appears in</b>   Ghostwalk  Tome of Battle: The Book of Nine Swords  Magic of Faerun     

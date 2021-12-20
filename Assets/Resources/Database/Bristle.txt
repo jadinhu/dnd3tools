@@ -1,0 +1,17 @@
+<b>Bristle</b>(Spell Compendium, p. 40)
+
+Transmutation
+ <b>Level:</b>  Sorcerer/Wizard Variant 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Target:</b> Suit of armor touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With a word and the sudden opening of your hand you complete the spell. Touching a suit of armor instantly causes the armor to sprout long, deadly-looking spines.</b>
+	
+The <b>bristle</b> spell temporarily enhances one suit of armor, causing it to grow long hard spikes that stick out in all directions. This spell does not work on clothing other than armor, but it does function with armor that already has spikes built in. The spikes are flexible enough not to hamper the creature wearing the armor. Each round, the first time the armor wearer attacks a target in melee, the spikes strike out as well, growing in length and hardness. The spikes have an attack bonus equal to your caster level and deal 2d6 points of damage. Your Strength modifier does not apply to this damage.
+   

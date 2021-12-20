@@ -1,0 +1,21 @@
+<b>Animal Spirit</b>(Magic of Incarnum)
+
+Divination [Incarnum]
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You bestow a small portion of the soul-energy of the animal kingdom on the creature touched, granting him some of an animal's sensory capabilities.
+As an immediate action, the target creature can activate the animal spirit.
+While active, the spirit's keen senses provide the recipient of the spell with low-light vision and scent, as well as a +2 insight bonus on Wisdom checks and Wisdom-based skill checks.
+The animal spirit remains active for 1 minute, and then its power is expended and the spell ends.
+No creature can be the target of more than one animal spirit spell simultaneously.
+If a second is cast before the first has been discharged, the second spell dissipates to no effect.
+Essentia: For every point of essentia you invest in this spell, the bonus on Wisdom checks and Wisdom-based skill checks provided by the spirit improves by 2.
+   

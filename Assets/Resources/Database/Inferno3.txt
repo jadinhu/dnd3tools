@@ -1,0 +1,20 @@
+<b>Inferno</b>(Spell Compendium, p. 123)
+
+Transmutation [Fire]
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 6 rounds; see text
+ <b>Saving Throw:</b> Fortitude negates and Re?ex partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Singling out the target, you call upon elemental forces to surround it in fire.</b>
+	
+The target of the inferno takes 6d6 points of fire damage unless it makes a Fortitude save. In each round thereafter, the fire deals 1d6 fewer points of damage (minimum 1d6) until the spell ends or the subject manages to extinguish the flames. Thus, the fire deals 5d6 points of damage in the second round, 4d6 points in the third round, and so forth. Flammable, nonmagical items carried by the target automatically fail their saves to resist this damage.
+After the first round, the subject can attempt a DC 15 Reflex save as a full-round action to extinguish the flames before taking additional damage. Rolling on the ground (the subject becomes prone) allows the target a +2 bonus on this save. Leaping into a large body of water or magically extinguishing the flames automatically ends the effect.
+	
+<b>Material Component</b>: A gob of beeswax.
+ <b>Also appears in</b>   Magic of Faerun  Player's Guide to FaerÃ»n     

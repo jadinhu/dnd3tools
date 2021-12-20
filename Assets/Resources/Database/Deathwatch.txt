@@ -1,0 +1,15 @@
+<b>Deathwatch</b>(Player's Handbook v.3.5, p. 217)
+
+Necromancy [Evil]
+ <b>Level:</b>  Healer 0,  Cleric 1,  Slayer of Domiel 1,  Death Master 1,   Planning 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone-shaped emanation
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Using the foul sight granted by the powers of unlife, you can determine the condition of creatures near death within the spell's range. You instantly know whether each creature within the area is dead, fragile (alive and wounded, with 3 or fewer hit points left), fighting off death (alive with 4 or more hit points), undead, or neither alive nor dead (such as a construct). <b>Deathwatch</b> sees through any spell or ability that allows creatures to feign death.
+   

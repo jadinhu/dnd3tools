@@ -1,0 +1,22 @@
+<b>Nybor's Gentle Reminder</b>(Unapproachable East)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 1 (Red Wizard),  Wizard 1 (Red Wizard),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell is popular with Thayan slave overseers and those
+wishing to make their servants work a little faster, but the Red Wizards mainly employ it as a combat spell.
+The subject suffers agonizing pain for the duration of the spell unless he succeeds on a Fortitude save.
+If the subject fails his saving throw, he is dazed for 1 round, and takes a -2 penalty on all attacks, saving throws, and checks while the spell lasts.
+Nybor's gentle reminder distracts spellcasters, who must make Concentration checks to cast spells while under its effect (see the Concentration skill description in the Player's Handbook).
+Focus: A slender wooden rod at least 1 foot long.
+Note: This spell first appeared in Magic of FaerÃ»n.
+This version supersedes the one originally printed there.
+ <b>Also appears in</b>   Magic of Faerun  Player's Guide to FaerÃ»n     

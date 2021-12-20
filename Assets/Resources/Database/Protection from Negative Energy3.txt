@@ -1,0 +1,19 @@
+<b>Protection from Negative Energy</b>(Spell Compendium, p. 163)
+
+Abjuration
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Swaddling your ally in a protective field drawn by your hand like a blanket, you guard him against negative energy attacks.</b>
+	
+The warded creature gains partial protection against negative energy effects. For as long as the spell lasts, it subtracts 10 from the hit point damage dealt by any negative energy effect (such as an <b>inflict</b> spell) that adversely affects it.
+	
+Negative energy effects that don't deal hit point damage to the subject, such as an energy drain spell, affect the subject normally.
+ <b>Also appears in</b>   Planar Handbook  Libris Mortis: The Book of the Dead     

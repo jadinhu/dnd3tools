@@ -1,0 +1,13 @@
+<b>Extend Shifting</b>(Races of Eberron, p. 185)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, Shifter
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+When you cast this spell while shifting, you magically extend the duration of that use of your shifting ability by 4 rounds. When that use of your shifting ends, you become fatigued for 10 minutes. If you are already fatigued, or if another effect causes you to become fatigued during this time, you become exhausted.
+   

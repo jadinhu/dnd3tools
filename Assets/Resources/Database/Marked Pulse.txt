@@ -1,0 +1,21 @@
+<b>Marked Pulse</b>(Dragonmarked, p. 152)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, Dragonmark
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> 20 ft.
+ <b>Target:</b> One creature/level in a 20-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You unleash a pulse of bluish-green energy that slams into your foes.</b>
+	
+Creatures you select within the spell's area take force damage based on the strength of your dragonmark.
+	<table>		<tr>			<th>Dragonmark </th>			<th>Force Damage </th>		</tr>		<tr>			<td> Least </td>			<td> 2d6 </td>		</tr>		<tr>			<td> Lesser </td>			<td> 3d6 </td>		</tr>		<tr>			<td> Greater </td>			<td> 4d6 </td>		</tr>		<tr>			<td> Siberys </td>			<td> 5d6 </td>		</tr>	</table>	
+If you possess a greater or Siberys dragonmark, any creature that fails its Fortitude save is also knocked prone.
+	
+<b>Dragonmark:</b> Any true dragonmark.
+   

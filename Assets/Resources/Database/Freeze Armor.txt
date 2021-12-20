@@ -1,0 +1,29 @@
+<b>Freeze Armor</b>(Frostburn)
+
+Transmutation [Cold]
+ <b>Level:</b>  Cleric 4,  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Metal equipment of one creature/level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Freeze armor locks suits of metal armor and equipment into a layer of ice and extreme cold, immobilizing and damaging the armor's wearers.
+Unattended, nonmagical metal gets no saving throw.
+Enchanted metal is allowed a saving throw against the spell.
+An item in a creature's possession uses the creature's saving throw (unless its own is higher).
+A creature wearing metal armor that fails its save is frozen in place.
+The spell locks the armor's joints and seams in inches of solid ice.
+The frozen creature takes the damage listed below.
+In addition, it suffers a -6 penalty on attack rolls, a -8 penalty to effective Dexterity, and can't move.
+A frozen character who attempts to cast a spell must make a Concentration check (DC 15 + level of spell being cast) or lose the spell.
+A creature wearing metal armor that makes its save takes half the damage listed below.
+A creature not wearing metal armor that fails its save takes the damage listed below if its armor is affected or if it is holding, touching, wearing, or carrying metal weighing one-fifth of its weight.
+The creature takes minimum damage (1, 2, 3, or 4 points; see the table) each round if it is not wearing metal armor or the metal that it is carrying weighs less than one-fifth of the creature's weight.
+A creature not wearing or carrying metal less than one-fifth of its weight that makes its save is entirely unaffected by freeze armor.
+Any heat intense enough to damage the creature negates cold damage from the spell (and vice versa) on a point-for-point basis.
+For example, if the damage from a freeze armor spell indicates 5 points of cold damage and the creature plunges through a wall of fire in the same round and takes 8 points of fire damage, it winds up taking no cold damage and only 3 points of fire damage.
+   

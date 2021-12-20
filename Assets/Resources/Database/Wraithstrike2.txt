@@ -1,0 +1,15 @@
+<b>Wraithstrike</b>(Spell Compendium, p. 243)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Assassin 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>By presenting your weapon with an overly dramatic flourish and calling out with a sickly-sounding moan, you complete the spell. As you do so, your weapon becomes translucent almost to the point that you cannot see it, though it still weighs as heavily in your hand.</b>
+	
+While this spell is in effect, your melee attacks are resolved as melee touch attacks rather than normal melee attacks.
+ <b>Also appears in</b>   Complete Adventurer     

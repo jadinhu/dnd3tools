@@ -1,0 +1,22 @@
+<b>Alustriel's Banner</b>(Silver Marches)
+
+Illusion (Figment)
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> Figment of a banner and sound of a trumpet or horn
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will disbelief (if interacted with)
+ <b>Spell Resistance:</b> No
+
+ 	
+An early spell created by Alustriel, this illusion has been circulated among the arcane spellcasters of Silverymoon and to others beyond the city.
+A simplified form of minor image, it allows you to cause a banner (such as a battle standard, family crest, or other identifying device) to appear anywhere within range, accompanied by musical fanfare or the sound of a horn blowing.
+The banner may appear large or small (up to 10 feet square), new or old, clean or dirty, and of any color or pattern you desire and bearing any identifying images you desire.
+The banner sheds light as a light spell.
+You can move it anywhere within range as a move-equivalent action.
+The fanfare or horn is normally of the sort announcing the presence of an important person or a military unit, although the spell can create any sort of horn signal.
+Normally, casters use the spell to rally troops or direct people to a particular location, especially at night when its light aspect becomes more useful.
+Material Component: A horn or trumpet, whether normal size or miniature.
+   

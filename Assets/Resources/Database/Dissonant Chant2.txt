@@ -1,0 +1,21 @@
+<b>Dissonant Chant</b>(Spell Compendium, p. 69)
+
+Abjuration [Sonic]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 100-ft.-radius emanation
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your intricate hand motions slow and then stop even as you begin chanting the arcane words that unlock the spell's power. As you conclude, your disembodied words continue on, growing both in tempo and volume.</b>
+	
+You create a distracting and discordant chant. Affected creatures that attempt spellcasting or other activities that require concentration must make Concentration checks (DC equal to this spell's DC + the level of the spell being cast).
+	
+The DCs of activities that already require Concentration checks, such as casting defensively, increase by 4.
+	
+Creatures within the area gain a +4 bonus on saving throws against language-dependent effects.
+ <b>Also appears in</b>   Savage Species     

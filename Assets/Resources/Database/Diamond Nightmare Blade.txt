@@ -1,0 +1,15 @@
+<b>Diamond Nightmare Blade</b>(Tome of Battle: The Book of Nine Swords, p. 62)
+
+Diamond Mind (Strike)
+ <b>Level:</b>  Swordsage 8 (Three Diamond Mind maneuvers),  Warblade 8 (Three Diamond Mind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You spot a single fatal flaw in your opponent?s defenses. With a single attack, you put all the force of your supreme focus into a single, crippling blow.</b>
+	
+You must make a Concentration check as part of this maneuver. The DC of this check is the target creature?s AC. You then make a single melee attack against your target, also as part of the maneuver. If your Concentration check succeeds, this attack deals four times your normal melee damage. If your check fails, your attack is made with a ?2 penalty and doesn?t deal any additional damage.
+	
+If your strike is a critical hit, you stack the multipliers as normal (PH 304).   

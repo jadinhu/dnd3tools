@@ -1,0 +1,15 @@
+<b>Harmonize</b>(Races of Stone)
+
+Transmutation
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level (D)
+
+ 	
+You blend magic and music seamlessly.
+While this spell is in effect, starting a bardic music effect requires only a move action.
+Concentrating on a bardic music effect that requires concentration still requires a standard action.
+ <b>Also appears in</b>   Song and Silence: A Guidebook to Bards and Rogues     

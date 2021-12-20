@@ -1,0 +1,18 @@
+<b>Minute Form</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 8,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute
+
+ 	
+When you cast this spell, your body becomes very small.
+The spell causes you to shrink to Tiny or smaller size, depending on your caster level.
+Your Strength, Dexterity, Constitution, and size modifier to AC and attacks all change based on your new size, as shown on the table below.
+None of your ability scores can be reduced below 1 by this spell.
+The only equipment that changes size with you is ordinary, mundane clothing, so you may not be able to use weapons or magic items effectively in your minute form.
+Material Component: A flea.
+ <b>Also appears in</b>   Complete Arcane     

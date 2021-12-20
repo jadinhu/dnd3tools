@@ -1,0 +1,21 @@
+<b>Anarchic Storm</b>(Spell Compendium, p. 11)
+
+Conjuration (Creation)
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 feet
+ <b>Area:</b> Cylider (20 ft. radius, 20 ft. high)
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You call upon the powers of chaos, and a heavy rain begins to fall around you, its drops a rainbow of soft radiances. Above you, a multicolored lightning bolt flashes.</b>
+	
+The downpour created by this spell falls in a fixed area once created. The storm reduces hearing and visibility, resulting in a � ;4 penalty on Listen, Spot, and Search checks. It also applies a � ;4 penalty on ranged attacks made into, out of, or through the storm. Finally, it automatically extinguishes any unprotected flames and has a 50% chance to extinguish protected flames (such as those of lanterns).
+	
+The rain damages lawful creatures, dealing 2d6 points of damage per round (lawful outsiders take double damage). In addition, each round, a bolt of lightning strikes a randomly selected lawful outsider within the spell's area, dealing 5d6 points of electricity damage. After the spell's duration expires, the water disappears.
+	
+<b>Material Component</b>: A flask of anarchic water (see the anarchic water spell, below).
+ <b>Also appears in</b>   Planar Handbook     

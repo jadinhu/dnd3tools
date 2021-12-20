@@ -1,0 +1,18 @@
+<b>Obscuring Shadow Veil</b>(Tome of Battle: The Book of Nine Swords, p. 78)
+
+Shadow Hand (Strike)
+ <b>Level:</b>  Swordsage 4 (Two Shadow Hand maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+<b>As you strike your opponent, you summon the fell energies of the Shadow Hand school to rob your foe of her sight. Inky, black energy burrows into her eyes, rendering her blind for a few critical moments.</b>
+	
+As a standard action, you can make a single melee attack. If it hits, your opponent takes normal melee damage plus an extra 5d6 points of damage. She must also make a successful Fortitude save (DC 14 + your Wis modifier) or suffer a 50% miss chance on all melee and ranged attacks for 1 round. A successful save negates the miss chance, but not the extra damage.
+	
+This maneuver is a supernatural ability.
+   

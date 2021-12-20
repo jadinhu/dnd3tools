@@ -1,0 +1,15 @@
+<b>Hunter's Mercy</b>(Ghostwalk, p. 54)
+
+Transmutation
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+This transmutation makes a bow strike true. Your first hit with a bow (not including crossbows) in the next round automatically threatens a critical hit. If you don't hit in the round immediately following the casting of this spell, the effect is wasted.
+	
+This spell first appeared in <b>Magic of FaerÃ»n</b>.
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun     

@@ -1,0 +1,18 @@
+<b>Wither Limb</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 2,  Mortal Hunter 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One humanoid creature with limbs
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster chooses to wither either the arms or the legs of the subject.
+Withered legs force a character to fall prone and make it impossible for her to move more than 5 feet per round.
+Withered arms make it impossible for a character to use objects or cast spells with somatic components, and the subject must drop anything she was holding.
+At the end of the spell's duration, the limbs return to normal.
+ <b>Also appears in</b>   Spell Compendium  Libris Mortis: The Book of the Dead     

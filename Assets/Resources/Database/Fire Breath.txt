@@ -1,0 +1,16 @@
+<b>Fire Breath</b>(Complete Arcane)
+
+Evocation [Fire]
+ <b>Level:</b>  Wu Jen 5 (Fire),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+As a standard action, you can breathe a gout of flame once per round for the duration of the spell.
+You make a ranged touch attack with the flame (to a maximum range of 15 feet), dealing 1d8 points of fire damage per two caster levels (maximum 10d8) on a successful hit.
+Fire breath ignites combustibles and damages objects in the area, and it can melt metals with low melting points (such as lead, gold, copper, silver, and bronze).
+The spell does not function underwater.
+ <b>Also appears in</b>   Oriental Adventures     

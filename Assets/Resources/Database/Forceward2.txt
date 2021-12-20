@@ -1,0 +1,24 @@
+<b>Forceward</b>(Player's Guide to FaerÃ»n)
+
+Abjuration
+ <b>Level:</b>  Paladin 3,   Initiate of helm 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> 10 ft.
+ <b>Target:</b> You and any allies within a 10-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> No; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create an unmoving, transparent sphere of force centered on you.
+The interior of the sphere and everything within 5 feet of its edge is illuminated with light equivalent to that of a candle.
+You and your allies may enter the sphere at will.
+Any other creature that tries to enter must make a Will saving throw to succeed.
+Any creature may leave the sphere freely, but a creature that has left must make a successful Will save to enter again, even if it is you or one of your allies.
+Creatures within the area of the sphere at the time of casting are not forced out.
+While in the area of the forceward, you and your allies each gain a +2 sacred bonus on saving throws against effects created by evil creatures.
+Creatures within the area that are not your allies gain no benefit.
+The forceward does not prevent spells or objects from entering the area, so it is possible for two creatures on opposite sides of the sphere's edge to fight without penalties.
+A creature using unarmed attacks or natural weapons in this manner, however, must still make a Will save each round, or its attacks cannot pass the forceward's boundary.
+ <b>Also appears in</b>   Magic of Faerun  Spell Compendium     

@@ -1,0 +1,18 @@
+<b>Mold Touch</b>(Player's Guide to FaerÃ»n)
+
+Conjuration (Creation)
+ <b>Level:</b>   Initiate of nature 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Effect:</b> Patch of brown mold
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You cause a 5-foot-diameter patch of brown mold to appear, centered on the point you touch.
+You can cause it to appear on a living target by making a successful melee touch attack against that creature.
+As described on page 76 of the Dungeon Master's Guide, every living creature within 5 feet of the brown mold takes 3d6 points of nonlethal cold damage each round.
+Fire brought within 5 feet of the patch instantly doubles its size, and cold damage instantly destroys it.
+   

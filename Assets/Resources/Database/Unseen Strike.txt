@@ -1,0 +1,16 @@
+<b>Unseen Strike</b>(Complete Mage)
+
+Illusion (Glamer)
+ <b>Level:</b>  Assassin 4,  Hexblade 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D)
+
+ 	
+You strike your foe, then immediately fade from sight.
+This spell has no immediate effect upon you.
+However, the next time you deliver a successful melee attack, you instantly turn invisible (as the invisibility spell).
+If you do not make a successful melee attack within 1 hour per level of casting the spell, the effect ends.
+   

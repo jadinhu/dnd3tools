@@ -1,0 +1,17 @@
+<b>Greenfire</b>(Unapproachable East)
+
+Evocation [Acid]
+ <b>Level:</b>  Druid 3,  Nentyar Hunter 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> One 5-ft. cube/level (S)
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Reflex half (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You evoke from the earth an upwelling of virulent green energy, burning any creature in the spell's area for 2d6 points of acid damage plus 1 point per caster level (maximum 2d6 +10).
+Any creature in the affected area when the spell is cast is entitled to a Reflex save for half damage; any creature that enters the area of the spell while the greenfire is still present gets no saving throw.
+The greenfire does not harm natural vegetation, ground cover, or plant creatures, if you so desire.
+   

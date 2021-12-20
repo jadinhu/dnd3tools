@@ -1,0 +1,24 @@
+<b>Minor Servitor</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,  Cleric 7,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> One day
+ <b>Range:</b> Touch
+ <b>Effect:</b> One object up to 1 cu. ft./level
+ <b>Duration:</b> Permanent (D)
+ <b>Saving Throw:</b> None (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You imbue an inanimate object with mobility and a semblance of life.
+The animated object is friendly toward you.
+You have no special empathy or connection with the object, although it serves you in specific tasks or endeavors if you communicate your desires to it.
+The object can be of any nonmagical material, including wood, metal, stone, fabric, leather, ceramic, and glass.
+You can also animate masses of raw matter, such as water, a rock from a wall, or a rock on the ground, as long as the volume of material does not exceed 1 cubic foot per caster level.
+For each cubic foot of volume, the animated object has 1 Hit Die.
+The object gains an Intelligence score (roll 3d6) and a Charisma score (roll 1d3) from the spell.
+Other statistics for animated objects are found in the Monster Manual.
+Material Component: A piece or handful of material of the same type as the object to be animated.
+XP Cost: 250 XP per cubic foot of material affected.
+   

@@ -1,0 +1,19 @@
+<b>See Invisibility</b>(Player's Handbook v.3.5, p. 275)
+
+Divination
+ <b>Level:</b>  Runescarred Berserker 1,  Court Herald 2,  Savant 2 (Arcane),  Death Master 2,  Sha'ir 2,  Wu Jen 2,  Duskblade 2,  Beguiler 2,  Knight of the Weave 2,  Adept 2,  Wizard 2,  Sorcerer 2,  Vigilante 3,  Nentyar Hunter 3,  Ebonmar Infiltrator 3,  Bard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 min./level (D)
+
+ 	
+You can see any objects or beings that are invisible within your range of vision, as well as any that are ethereal, as if they were normally visible. Such creatures are visible to you as translucent shapes, allowing you easily to discern the difference between visible, invisible, and ethereal creatures. 
+	
+The spell does not reveal the method used to obtain invisibility. It does not reveal illusions or enable you to see through opaque objects. It does not reveal creatures who are simply hiding, concealed, or otherwise hard to see.
+	
+See invisibility can be made permanent with a permanency spell.
+	
+Material Component: A pinch of talc and a small sprinkling of powdered silver.
+   

@@ -1,0 +1,17 @@
+<b>Benign Transposition</b>(Spell Compendium, p. 27)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Wizard 1,  Sorcerer 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Two willing creatures of up to Large size
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Calling out the arcane words, you suddenly stand where your companion was, and he has taken your place, outside the reach of his foes.</b>
+	
+Two target creatures, of which you can be one, instantly swap positions. Both subjects must be within range. Objects carried by the creatures (up to the creatures' maximum loads) go with them, but other creatures do not, even if they are carried. The movement is instantaneous and does not provoke attacks of opportunity.
+ <b>Also appears in</b>   Miniatures Handbook     

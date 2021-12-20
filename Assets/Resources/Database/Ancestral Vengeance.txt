@@ -1,0 +1,19 @@
+<b>Ancestral Vengeance</b>(Oriental Adventures)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Shaman 2,   Ancestor 2,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you call out to an ancestral spirit, listing the crimes of your target and urging your ancestor to punish the miscreant.
+(The target's alignment is irrelevant to the success of the spell).
+The ancestral spirit imposes this punishment in the form of a sharp blow to the target.
+This attack hits automatically and deals 1d6 points of damage per two caster levels (maximum 5d6), or 1d6 points per caster level (maximum 10d6) if the target is undead.
+A successful Fortitude saving throw reduces the damage by half.
+   

@@ -1,0 +1,19 @@
+<b>Fox's Cunning</b>(Player's Handbook v.3.5, p. 233)
+
+Transmutation
+ <b>Level:</b>  Assassin 2, Trapsmith 1,  Bard 2,  Sorcerer 2,  Wizard 2,  Ebonmar Infiltrator 2,  Fatemaker 2,  Vigilante 2,  Sha'ir 2,  Jester 2,   Baator 2,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The transmuted creature becomes smarter.
+The spell grants a +4 enhancement bonus to Intelligence, adding the usual benefits to Intelligence-based skill checks and other uses of the Intelligence modifier.
+Wizards (and other spellcasters who rely on Intelligence) affected by this spell do not gain any additional bonus spells for the increased Intelligence, but the save DCs for spells they cast while under this spell's effect do increase.
+This spell doesn't grant extra skill points.
+Arcane Material Component: A few hairs, or a pinch of dung, from a fox.
+ <b>Also appears in</b>   Tome and Blood: A Guidebook to Wizards and Sorcerers  Savage Species     

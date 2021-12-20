@@ -1,0 +1,25 @@
+<b>Five-Shadow Creeping Ice Enervating Strike</b>(Tome of Battle: The Book of Nine Swords, p. 77)
+
+Shadow Hand (Strike)
+ <b>Level:</b>  Swordsage 9 (Five Shadow Hand maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute
+ <b>Saving Throw:</b> Fortitude partial; see text
+
+ 	
+<b>With a single lunge, you pierce your enemy to the core. A shadow of ultimate cold falls over his heart and begins to worm through his veins to the five points of his body.</b>
+	
+As part of this maneuver, you make a single melee attack. If you hit, you deal normal melee damage plus an extra 15d6 points of damage, and a shadow spreads out from your enemy?s heart, freezing the blood in his veins. Roll a d20 and refer to the information below to determine toward which point of his body the freezing shadow spreads. This effect functions even if your opponent is not humanoid; once you have struck your foe?s heart, the shadow produces the same effects even in a creature with a different anatomy.
+	
+<b>Result of 1?7</b>: Spreads out to legs. Ability damage: 2d6 Dex. Special effect: Speed is reduced to 0 feet.
+	
+<b>Result of 8?14</b>: Spreads out to arms. Ability damage: 2d6 Str. Special effect: ?6 penalty on attack rolls and Concentration checks.
+	
+<b>Result of 15?20</b>: Struck in the heart. Ability damage: 2d6 Dex, 2d6 Str. Special effect: 2d6 points of Constitution damage.
+	
+A foe struck by this attack must make a successful Fortitude save (DC 19 + your Wis modifier) to resist its effects. On a successful save, the target ignores any special effect from the attack and takes half the indicated ability damage (but still takes normal melee damage as well as the extra 15d6 points of damage). Each of the special effects lasts for 1d6 rounds.
+	
+This maneuver is a supernatural abilit   

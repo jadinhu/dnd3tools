@@ -1,0 +1,16 @@
+<b>Aura of Glory</b>(Spell Compendium, p. 18)
+
+Transmutation
+ <b>Level:</b>  Paladin 2,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Area:</b> 10-ft.-radius spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You invoke the holy words and a soft golden light radiates from you. You feel surer of yourself, bolstered by the power of your beliefs.</b>
+	
+You channel divine power into yourself, spreading glory to your comrades. This spell removes any fear effect from all allies within your aura of courage.
+   

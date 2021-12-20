@@ -1,0 +1,27 @@
+<b>Eyes of the King</b>(Libris Mortis: The Book of the Dead)
+
+Conjuration (Summoning)
+ <b>Level:</b>   Hunger 6,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Unlimited
+ <b>Effect:</b> Magical sensor
+ <b>Duration:</b> Concentration + 5 rounds, up to 1 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You summon four fiendish dire bats blazing with ghoul-green light.
+Similar information-gathering servitors always accompany Doresain, the King of the Ghouls.
+The bats, called eyes of the king, send you visual information.
+You can summon the eyes of the king at any point you can see, but they can then travel outside your line of sight without hindrance.
+Even while outside your line of sight, they follow your mental directions on where to explore.
+The eyes of the king travel together, never separating by more than 40 feet.
+Eyes of the king travel at 40 feet per round (400 feet per minute) if viewing an area ahead as a human would (primarily looking at the floor) or 10 feet per round (100 feet per minute) if examining the ceiling and walls as well as the floor ahead.
+They use their own senses to view their surroundings, including blindsense, which you also benefit from.
+The eyes of the king can travel in any direction as long as the spell lasts.
+You must concentrate to use eyes of the king.
+If you do not concentrate, the bats move to attack the closest active creature.
+Once concentration lapses, the spell ends 5 rounds later.
+Material Component: A bit of bat fur.
+   

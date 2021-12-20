@@ -1,0 +1,19 @@
+<b>Summon Hound Archon</b>(Spell Compendium, p. 214)
+
+Conjuration (Summoning) [Good, Lawful]
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One summoned hound archon
+ <b>Duration:</b> Concentration, up to 1 round/level + 1 round
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You invoke the powers of good and law, and a brilliant beam stabs from the heavens above. Out of that beam strides a red-fleshed, dog-headed humanoid with a greatsword.</b>
+	
+This spell summons a hound archon (MM 16) from the Seven Mounting Heavens of Celestia. It appears where you designate and acts immediately, on your turn. It understands your speech (regardless of your language), and it follows your commands to the best of its ability. You must concentrate to maintain the spell's effect, but commanding the creature is a free action.
+	
+A summoned creature cannot summon or otherwise conjure another creature, nor can it use any teleportation or planar travel abilities.
+ <b>Also appears in</b>   Planar Handbook     

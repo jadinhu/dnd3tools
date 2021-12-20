@@ -1,0 +1,23 @@
+<b>Elemental Eye</b>(Complete Mage)
+
+Divination
+ <b>Level:</b>  Wu Jen 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One object weighing up to 1 pound (see Focus, below)
+ <b>Duration:</b> See text (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You close your eyes, and instantly the area around the chosen object comes into focus.
+You enspell a small object to serve as a magic sensor, much like that created by clairaudience/clairvoyance.
+Once you have touched the object and cast the spell, you have up to 1 hour/level to activate the magic, thus enabling you to plant the object in a location and then move to a different spot to spy on that location.
+Once you have activated the magic � ;that is, once you begin actually using the magic sensor to see � ;the spell lasts for 1 minute/level, or until you choose to end it.
+This spell otherwise functions as clairvoyance.
+If the object is moved, your sight moves with it, but the spell ends if the stone passes out of range.
+Focus: Depending on your chosen element, you must use one of the following as a focus: a stone (earth), a lump of charcoal (fire), a piece of metal (metal), a puddle of water (water), or a chunk of wood (wood).
+In each case, the object must weigh between 1/2 and 1 pound.
+The focus is also the target of the spell.
+   

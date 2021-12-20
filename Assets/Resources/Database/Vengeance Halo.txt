@@ -1,0 +1,19 @@
+<b>Vengeance Halo</b>(Book of Exalted Deeds)
+
+Abjuration [Good]
+ <b>Level:</b>  Cleric 6,   Wrath 6,   
+<b>Components:</b>V, S, DF, Abstinence
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One good-aligned creature; see text
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None or Reflex half; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+A luminous ring of holy power appears above the head of a good creature and remains in place until the spell expires or the creature is slain (reduced to -10 hp).
+If the latter event occurs, the halo discharges an arc of divine energy that deals 1d6 points of damage per caster level (maximum 20d6) to the target's slayer.
+The creature subject to the attack can make a Reflex save to reduce the damage by half.
+Once the vengeance halo unleashes its energy, it disappears and the spell ends.
+Abstinence Component: You must abstain from alcohol for 1 week prior to casting this spell.
+   

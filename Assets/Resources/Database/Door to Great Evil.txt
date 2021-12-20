@@ -1,0 +1,29 @@
+<b>Door to Great Evil</b>(Ghostwalk)
+
+Transmutation [Teleportation]
+ <b>Level:</b>  Paladin 4,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal or touch
+ <b>Target:</b> You or willing paladin touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like teleport, except as noted above and as follows.
+When you cast this spell, you select one of two variants.
+Send Yourself: You teleport yourself, your gear, and your special mount (if any).
+You do not designate a destination; you are automatically transported to the nearest location on the same plane where your talents as a holy soldier are needed.
+There is always at least one evil creature (or one creature committing an evil act) at this location.
+Fighting this creature or creatures is always an appropriate action � ;you are not required to parley, and killing such creatures is always justified according to the rules of your faith.
+The encounter level is less than or equal to your character level minus 2; thus, if you are a 14th-level paladin, you face an encounter of EL 12 or below.
+If you are of a race that has a level adjustment (such as a dark elf ), use your effective character level instead of your actual character level for the purpose of determining the encounter level for this spell.
+Door to great evil guarantees safe arrival for you (on solid ground, not within a raging fire or underwater, no chance of a mishap, and so on), but it does not provide you with a way to return.
+You do, however, have a vague awareness of the distance traveled and know the direction you must go to return to the location where the spell was cast.
+Send Another: This version of the spell functions as above, except that instead of teleporting yourself, you send another willing paladin with her gear and special mount (if any) in your place.
+The challenge to the paladin is based on her character level, not yours.
+All other factors in the spell description above that refer to &quot;you&quot; instead refer to the target paladin in this version.
+This spell is a favorite of paladins of Aluvan and Dracanish, and of Durann to a lesser extent.
+Once per year, many of them go on &quot;door crusades&quot;, in which senior paladins cast this spell on several paladins in a row, sending them to purge evil from many spots beneath the city of Manifest.
+   

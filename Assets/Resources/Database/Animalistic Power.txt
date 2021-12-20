@@ -1,0 +1,19 @@
+<b>Animalistic Power</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Druid 2,  Duskblade 2,  Ranger 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+A sparkling nimbus of green light appears around the creature.
+As the light fades, the creature seems a shade larger and assumes a more animalistic, even feral countenance.
+You imbue the subject with an aspect of the natural world.
+The subject gains a +2 enhancement bonus to Strength, Dexterity, and Constitution.
+Material Component: A bit of animal fur, feathers, or skin.
+   

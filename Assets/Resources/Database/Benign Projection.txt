@@ -1,0 +1,14 @@
+<b>Benign Projection</b>(Champions of Valor)
+
+Illusion (Shadow)
+ <b>Level:</b>   Sanctified 6,   
+<b>Components:</b>V, S, DF, Sacrifice
+ <b>Range:</b> See text
+
+ 	
+This spell functions like project image, except as noted above and as follows.
+You can create an image of your entire body or just your face, and you can cause it to shed light as a candle at will.
+It can only mimic your actions and speech (you cannot direct it to perform other actions).
+The image can cast spells only from the schools of abjuration, divination, and conjuration (healing).
+Sacrifice Component: 1d2 points of Strength damage.
+   

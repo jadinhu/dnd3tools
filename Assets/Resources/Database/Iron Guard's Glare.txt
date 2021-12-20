@@ -1,0 +1,15 @@
+<b>Iron Guard's Glare</b>(Tome of Battle: The Book of Nine Swords, p. 59)
+
+Devoted Spirit (Stance)
+ <b>Level:</b>  Crusader 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>With a quick snarl and a glare that would stop a charging barbarian in his tracks, you spoil an opponent's attack. Rather than strike his original target, your enemy turns his attention toward you.</b>
+	
+While you are in this stance, any opponent that you threaten takes a � ;4 penalty on attack rolls against your allies. This penalty does not apply to attacks made against you. Enemies you threaten become aware of the consequences of the stance.
+   

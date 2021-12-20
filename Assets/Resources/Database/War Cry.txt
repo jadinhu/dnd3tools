@@ -1,0 +1,18 @@
+<b>War Cry</b>(Complete Adventurer)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> See text
+
+ 	
+You attack with a cry that bolsters your own courage as well as intimidating your enemies.
+As a result of this spell, you gain a +2 morale bonus on attack rolls and damage rolls, or a +4 morale bonus on attack rolls and damage rolls made as part of a charge.
+If you deal damage with a melee attack, your foe must succeed on a Will save or become panicked for 1 round (spell resistance applies to this effect).
+An opponent who makes a successful saving throw against this effect cannot be affected again by the same casting of war cry.
+ <b>Also appears in</b>   Ghostwalk  Magic of Faerun  Spell Compendium     

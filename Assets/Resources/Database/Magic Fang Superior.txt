@@ -1,0 +1,13 @@
+<b>Magic Fang, Superior</b>(Draconomicon)
+
+Transmutation
+ <b>Level:</b>  Druid 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Superior magic fang gives every natural weapon you possess an enhancement bonus on attack and damage rolls equal to +1 per four caster levels (maximum +5 at 20th level).
+ <b>Also appears in</b>   Spell Compendium     

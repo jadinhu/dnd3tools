@@ -1,0 +1,20 @@
+<b>Continual Flame</b>(Player's Handbook v.3.5, p. 213)
+
+Evocation [Light]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Warmage 2,  Hunter of the Dead 2,  Sha'ir 2,  Cleric 3,  Adept 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Effect:</b> Magical, heatless flame
+ <b>Target:</b> Object touched
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered and hidden but not smothered or quenched.
+	
+Light spells counter and dispel darkness spells of an equal or lower level.
+	
+Material Component: You sprinkle ruby dust (worth 50 gp) on the item that is to carry the flame.
+   

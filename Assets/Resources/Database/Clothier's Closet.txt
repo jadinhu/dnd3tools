@@ -1,0 +1,21 @@
+<b>Clothier's Closet</b>(Magic of Eberron, p. 94)
+
+Conjuration (Creation)
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, A gem worth at least 100 gp.
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2levels)
+ <b>Effect:</b> One or more sets of clothes
+ <b>Duration:</b> 1 hour/level (D): see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you and your companions need to attend a gale reception at the last minute, you need not despair over your clothing. When you cast <b>clothier's closet</b>, you conjure a 3-inch-diameter wooden rod up to 10 feet long between any two upright supports you choose. For example, you could summon the rod between two walls of a corridor or alcove. On the rod hang a number of outfits as determined by you, each of a size and type you specify while the spell is cast.
+	
+The conjured rod can hold a variety of seperate outfits whose total price does not exceed 100 gp. The outfit types that you can specify include the following: artisan's outfit (1 gp), cleric's vestments (5 gp), cold weather outfit (8 gp), courtier's outfit (30 gp), entertainer's outfit (3 gp), explorer's outfit (10 gp), monk's outfit (5 gp), noble's outfit (75 gp), scholar's outfit (5 gp), or traveler's outift (1 gp).
+	
+The conjured clothing is normal in all respects and does not radiate magic. Even after the duration elapses and the rod and hangers disappear, the clothes remain.
+	
+<b>Speical:</b> A character with any Mark of Hospitality dragonmark, or with the Favored in House feat (Ghallanda), can cast this spell without the material components, but the conjured clothes last only as long as the spell's duration.
+   

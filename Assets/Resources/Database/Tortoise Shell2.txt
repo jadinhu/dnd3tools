@@ -1,0 +1,22 @@
+<b>Tortoise Shell</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Creates a 5-ft.-diameter mystic shell
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a large hemispherical tortoise shell measuring 5 feet in diameter.
+It has 100 hit points, hardness 10, and can float if turned on its back.
+You can move it as if it weighed only 10 pounds.
+To anyone else, it weighs 500 pounds.
+It stands vertically on its own, providing up to nine-tenths cover from half the battlefield, or you can pull it down over yourself like a shelter.
+You can change the shell's orientation as a standard action that doesn't incur an attack of opportunity.
+Up to four Small creatures, two Medium-size creatures, or one Large creature can fit under (or in) the shell.
+Focus: A whole turtle shell.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

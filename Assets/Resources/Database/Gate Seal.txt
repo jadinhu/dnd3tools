@@ -1,0 +1,18 @@
+<b>Gate Seal</b>(Forgotten Realms Campaign Setting)
+
+Abjuration
+ <b>Level:</b>  Bard 6,  Cleric 6,  Druid 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One gate or portal
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You permanently seal a gate or portal.
+Gate seal prevents any activation of the gate or portal, though the seal may be negated by a successful dispel magic cast upon the spell.
+A knock spell does not function on the gate seal, but a chime of opening dispels the spell.
+Material Component: A silver bar worth 50 gp.
+   

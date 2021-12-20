@@ -1,0 +1,17 @@
+<b>Dance of the Unicorn</b>(Complete Divine)
+
+Abjuration
+ <b>Level:</b>  Druid 5,   Purification 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level (D)
+
+ 	
+You surround yourself with a purifying, swirling mist with a radius of 5 feet per caster level that washes the air clean of smoke dust, and poisons.
+Nonmagical contaminants, including inhaled poisons, are automatically negated within the cloud.
+Magical effects, including acid fog, cloudkill, and green dragon breath, are negated only if your level is greater than the offending spell's caster level (or the dragon's HD).
+If your level is lower than the caster level, the dance of the unicorn grants everyone within the mist a +4 bonus on their saving throws against the effect.
+The cloud of mist leaves everything within its area damp.
+ <b>Also appears in</b>   Oriental Adventures     

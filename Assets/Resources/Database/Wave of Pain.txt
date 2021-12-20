@@ -1,0 +1,18 @@
+<b>Wave of Pain</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Bard 6,   Pain 7,   
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Cone
+ <b>Duration:</b> 1 round/2 levels
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+All living creatures within the cone are overcome with pain and suffering.
+They are stunned for the duration of the spell.
+A creature with no discernible anatomy is unaffected by this spell.
+Material Component: A needle.
+   

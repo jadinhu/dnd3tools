@@ -1,0 +1,9 @@
+<b>Mantle of Law</b>(Planar Handbook)
+
+Abjuration [Law]
+ <b>Level:</b>  Cleric 3,  Paladin 3,    
+<b>Components:</b>
+
+ 	
+This spell functions like mantle of chaos, except that you are surrounded by constant blue lawful energy, and mantle of law grants spell resistance against spells with the chaotic descriptor.
+ <b>Also appears in</b>   Spell Compendium     

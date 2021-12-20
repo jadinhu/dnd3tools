@@ -1,0 +1,27 @@
+<b>Spell Phylactery</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Cleric 5 (Mystra),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Scroll touched
+ <b>Duration:</b> Permanent until triggered
+ <b>Saving Throw:</b> None (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You create a set of triggering conditions for the targeted scroll so that if these conditions are met, the spell on the scroll is cast upon you as if you were spending a standard action to cast the scroll yourself.
+If the scroll contains a spell that is not on your spell list, it is not cast when the triggering condition occurs and the magic of the spell phylactery dissipates.
+Any limitations involved in your reading the scroll normally (such as a minimum ability score or requiring a caster level check) still apply, and if they are not met, the spell phylactery magic dissipates.
+The conditions needed to bring the spell into effect must be clear, although they can be general.
+For example, a spell phylactery with a scroll of water breathing might prescribe that any time you are plunged into or otherwise engulfed in water or similar liquid, the water breathing scroll instantly comes into effect.
+If complicated or convoluted conditions are prescribed, the spell phylactery may fail when called on.
+The scroll is activated based solely on the stated conditions, regardless of whether you want it to.
+The scroll prepared with this spell must be bound to your arm or forehead (usually rolled tightly or placed in a small box for this purpose) and counts as a bracer or headband in terms of space limitations for magic items.
+The spell on the scroll must be of a spell level no higher than one-third your caster level (rounded down, maximum 5th level).
+The spell on the scroll must be one that affects your person, and the triggering conditions must be clear as defined in the contingency spell.
+If another person wears the spell phylactery, the magic of this spell ends.
+You may remove and rewear the spell phylactery without penalty, but if 24 hours pass without your wearing it, the magic of the spell phylactery ends.
+The termination of this spell does not harm the spell on the scroll.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

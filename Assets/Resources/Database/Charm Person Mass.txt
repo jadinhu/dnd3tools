@@ -1,0 +1,16 @@
+<b>Charm Person, Mass</b>(Races of Destiny)
+
+Enchantment (Charm) [Mind-Affecting]
+ <b>Level:</b>  Bard 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One or more creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell functions like charm person, except that mass charm person affects a number of creatures whose combined HD do not exceed twice your level, or at least one creature regardless of HD.
+If there are more potential targets than you can affect, you choose them one at a time until you choose a creature with too many HD.
+   

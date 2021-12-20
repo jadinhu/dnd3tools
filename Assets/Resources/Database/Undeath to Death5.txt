@@ -1,0 +1,12 @@
+<b>Undeath to Death</b>(Player's Handbook v.3.5, p. 297)
+
+Necromancy
+ <b>Level:</b>  Dread Necromancer 5,  Cleric 6,  Sorcerer 6,  Wizard 6,  Sha'ir 6,  Death Master 6,  Urban Druid 6,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Area:</b> Several undead creatures within a 40-ft.-radius burst
+ <b>Saving Throw:</b> Will negates
+
+ 	
+This spell functions like circle of death, except that it destroys undead creatures as noted above.
+Material Component: The powder of a crushed diamond worth at least 500 gp.
+ <b>Also appears in</b>   Tome and Blood: A Guidebook to Wizards and Sorcerers  Ghostwalk  Faiths &amp; Pantheons  Magic of Faerun  Deities and Demigods     

@@ -1,0 +1,24 @@
+<b>Entangling Scarf</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 2 (Metal),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature
+ <b>Duration:</b> 2 rounds/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell is similar to iron scarf, but you use the scarf to entangle a foe instead of dealing damage.
+As with iron scarf, you seize a silk scarf and lash it toward one creature within range, and the scarf magically extends to reach the target and wrap around it.
+You must have a line of sight to the target.
+You make a ranged attack roll on the target.
+If you hit, the target must make a successful saving throw or become entangled.
+An entangled creature suffers a -2 penalty on attack rolls and a -4 penalty to effective Dexterity.
+The entangled creature cannot move.
+A creature capable of spellcasting that is bound by this spell must make a Concentration check (DC 15) to cast a spell.
+An entangled creature can slip free with an Escape Artist check (DC 20), or the scarf can be burst with a Strength check (DC 26).
+Focus: A silk scarf.
+ <b>Also appears in</b>   Complete Arcane     

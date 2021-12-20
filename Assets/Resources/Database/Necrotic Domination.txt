@@ -1,0 +1,11 @@
+<b>Necrotic Domination</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Target:</b> Living creature with necrotic cyst
+
+ 	
+This spell functions like dominate person (see page 224 of the Player's Handbook), except you can dominate any humanoid that harbors a necrotic cyst.
+Focus: Caster must possess a mother cyst (see page 28).
+   

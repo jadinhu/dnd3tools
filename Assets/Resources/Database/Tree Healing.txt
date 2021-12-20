@@ -1,0 +1,23 @@
+<b>Tree Healing</b>(Player's Guide to FaerÃ»n)
+
+Conjuration (Healing)
+ <b>Level:</b>   Initiate of nature 5,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal and touch
+ <b>Target:</b> You and one tree
+ <b>Duration:</b> 1 day (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You enter a normal tree, which must be large enough to accommodate your body in all three dimensions.
+You can remain hidden within it for as long as you desire, up to 1 day.
+While you remain inside it, the tree nourishes and heals you.
+You have no need to breathe or eat, and you regain a number of lost hit points equal to your character level for each hour spent in the tree.
+If you remain inside for an entire day, you receive the benefit of a heal spell.
+The tree also grants you total cover and protects you from extreme heat or cold, rain, sunlight, snow, and all other environmental conditions.
+You can hear but not see what occurs outside the tree.
+Minor physical damage to the tree does not harm you, but its partial destruction (to the extent that you no longer fit within it) expels you and deals you 5d6 points of damage.
+If the tree is totally destroyed (by a forest fire or a blight spell, for example), you are expelled from the tree and instantly slain unless you succeed on a DC 18 Fortitude save.
+   

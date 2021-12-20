@@ -1,0 +1,20 @@
+<b>Irresistible Force</b>(Ghostwalk)
+
+Evocation
+ <b>Level:</b>  Paladin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Charging yourself with divine energy, you become the epitome of force in motion.
+You are protected by freedom of movement.
+You may charge as long as you move at least 5 feet.
+You may pass through enemy squares as if they were occupied by allies.
+You gain a +10 bonus on bull rush attempts.
+You gain a +10 bonus on checks made to avoid being tripped.
+If you are pinned, you can still move 5 feet as part of your turn, as long as you are strong enough to move the person pinning you.
+When moving in combat, you act as if you had the Mobility feat.
+   

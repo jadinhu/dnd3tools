@@ -1,0 +1,18 @@
+<b>Wall of Dispel Magic</b>(Underdark)
+
+Abjuration
+ <b>Level:</b>  Bard 4,  Cleric 5,  Druid 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Effect:</b> A plane of dispel magic whose area is up to one 10-ft. square/level
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates a transparent, permeable barrier.
+Anyone passing through it becomes the target of a dispel magic effect.
+A summoned creature targeted in this way can be dispelled by the effect.
+The wall of dispel magic cannot be seen or felt by ordinary means, or even via a see invisibility spell.
+Detect magic indicates the presence of the effect, and true seeing reveals both its presence and its purpose.
+ <b>Also appears in</b>   Spell Compendium     

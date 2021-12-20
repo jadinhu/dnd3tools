@@ -1,0 +1,20 @@
+<b>Enrage Animals</b>(Champions of Ruin)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Animals within 30 ft. of each other
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell incites and enrages animals, making them hostile and vicious.
+Only ordinary animals (those with Intelligence scores of 1 or 2) can be affected by this spell.
+The maximumnumber of Hit Dice of animals you can affect is equal to 2d4 + your caster level.
+A dire animal or an animal trained only to attack on order is allowed a saving throw; other animals are not.
+For example, a ranger could enrage a normal bear or wolf with little trouble, but it's more difficult to drive a trained guard dog into a frenzy so that it attacks its master.
+The affected creatures attack the nearest creature, including any other creatures affected by this spell.
+   

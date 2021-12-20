@@ -1,0 +1,18 @@
+<b>Gaze Screen</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Abjuration
+ <b>Level:</b>  Cleric 2,  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a shimmering, mirrorlike area in the air before the recipient's eyes.
+The area moves with the recipient and does not affect its vision.
+While the spell lasts, there exists a 50% chance that a recipient subjected to a gaze attack need not make a saving throw against the attack, as if averting its eyes, but the foe with the gaze attack is not concealed from the recipient (see Gaze Attacks on page 77 of <span class="caps">DUNGEON</span> MASTER'S Guide).
+The recipient gets no additional protection from averting its eyes while the spell lasts, but it can shut its eyes to avoid the gaze.
+ <b>Also appears in</b>   Dragons of Faerun     

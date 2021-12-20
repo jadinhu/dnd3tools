@@ -1,0 +1,31 @@
+<b>Perinarch</b>(Planar Handbook)
+
+Transmutation
+ <b>Level:</b>  Druid 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Duration:</b> 1 round/level; see text
+ <b>Saving Throw:</b> None (object) and Reflex negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+Unless controlled, the Ever-Changing Chaos of Limbo is just what the plane's name implies: a roiling soup of energy and elements.
+Natives learn to control it or to inhabit areas that have enjoyed some measure of control for a long period, but visitors to areas of &quot;raw&quot; limbo must make a DC 16 Wisdom check to gain control over the dangerous roil.
+The perinarch spell gives the caster automatic control of a radius of raw Limbo (an area not already stabilized or within some other creature's control) in close range.
+Control allows the perinarch (the name sometimes given to those who can cast the perinarch spell) to reshape the raw limbo as she desires, adding or subtracting one of the four basic elements once per round as a standard action.
+A favorite among travelers from the Material Plane is a chunk of earth surrounded by a small atmosphere of air.
+Casting this spell overlaps with the control already (potentially) established by the perinarch with a Wisdom check.
+Allies of the caster may give their control over to the perinarch caster contiguous with the spell being cast, if they so choose.
+Control cannot be wrested away from the caster while the spell is in effect (which is one of the best reasons to cast this spell, even if you have a high Wisdom score).
+If the perinarch moves more than 100 feet away from the area that she controlled, the order she imposed fades away.
+A perinarch is unable to achieve any works of complexity within an area she controls.
+But she can mix two or three elements in a crude fashion; a few examples are provided below.
+The perinarch may attempt to seize control of a new area that already contains foes; however, foes can make a Reflex save to get out of the area.
+Thick Barrier: A perinarch can &quot;thicken&quot; empty air with dust and rock, creating a zone around herself and her allies that outside creatures must hack or force a way through.
+Their speed drops to 5 feet, or 10 feet for Large or larger creatures.
+Fiery Barrier: A perinarch can create a thick field of flame that deals 3d10 points of fire damage to any creature attempting to pass through it.
+The field also deals 3d10 points of fire damage for each round a creature lingers within it.
+Complete Barrier: A perinarch can create a complete barrier of solid stone encircling herself and her allies, preventing access by any other than the most accomplished tunnelers.
+On the other hand, a perinarch can attempt to trap foes within their own bubble of solid stone.
+ <b>Also appears in</b>   Spell Compendium     

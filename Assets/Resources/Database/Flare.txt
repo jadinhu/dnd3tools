@@ -1,0 +1,17 @@
+<b>Flare</b>(Player's Handbook v.3.5, p. 232)
+
+Evocation [Light]
+ <b>Level:</b>  Bard 0,  Druid 0,  Sorcerer 0,  Wizard 0,  Blighter 0,  Wu Jen 0 (Fire),  Sha'ir 0,  Death Master 0,  Jester 0,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Burst of light
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This cantrip creates a burst of light.
+If you cause the light to burst directly in front of a single creature, that creature is dazzled for 1 minute unless it makes a successful Fortitude save.
+Sightless creatures, as well as creatures already dazzled, are not affected by flare.
+   

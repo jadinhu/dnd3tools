@@ -1,0 +1,16 @@
+<b>Giant Killing Style</b>(Tome of Battle: The Book of Nine Swords, p. 72)
+
+Setting Sun (Stance)
+ <b>Level:</b>  Swordsage 3 (One Setting Sun maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You dart between a giant?s legs, lashing at his inner ankles and other vulnerable areas while staying inside his reach where he cannot hope to parry your attacks.</b>
+	
+The Setting Sun school teaches a fighting style that emphasizes using an opponent?s strength and momentum against him. The giant killing strike epitomizes this approach. By sizing up a larger opponent and studying his fighting stance and tendencies, you aim your strikes at vulnerable points on his lower body that he cannot defend effectively. You slice at tendons on your foe?s feet, smash his knees, and cut into his hamstrings.
+	
+When you are in this stance, you gain a +2 bonus on attack rolls and a +4 bonus on damage rolls against opponents of a larger size category than yours. This bonus applies to all attacks you make for the rest of your turn.<   

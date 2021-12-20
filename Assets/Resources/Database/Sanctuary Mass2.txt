@@ -1,0 +1,11 @@
+<b>Sanctuary, Mass</b>(Underdark)
+
+Abjuration
+ <b>Level:</b>   Balance 5,   
+<b>Components:</b>
+ <b>Range:</b> Touch
+ <b>Target:</b> One touched creature/2 levels
+
+ 	
+This spell functions like sanctuary, except that it affects multiple creatures.
+ <b>Also appears in</b>   Spell Compendium     

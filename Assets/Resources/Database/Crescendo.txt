@@ -1,0 +1,19 @@
+<b>Crescendo</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Evocation
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 30 ft.
+ <b>Target:</b> The caster and all allies within a 30-ft. sphere
+ <b>Duration:</b> 4 rounds
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell creates a martial fanfare that slowly builds in volume, inspiring you and your comrades to ever-greater combat prowess.
+During the first round of the spell, the horns and drums can be heard faintly, but no other effect occurs.
+On the second round, as the music becomes louder and more inspiring, each affected creature gains a +1 morale bonus on attack rolls.
+This bonus increases to +2 in the third round, then to +3 in the fourth round as the music gets louder and louder.
+Allies who move more than 30 feet away from you lose the bonus, but they regain it at its then-current level if they later step back within range.
+   

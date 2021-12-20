@@ -1,0 +1,22 @@
+<b>Mantle of Pure Spite</b>(Heroes of Horror)
+
+Necromancy
+ <b>Level:</b>   Spite 8,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level
+
+ 	
+By means of this spell, you wrap yourself in a pulsating nimbus of netherlight � ;the mystical aggregate of all your unresolved frustration and rage.
+Anyone foolish enough to attack you while this nimbus is
+in effect is in for a most unpleasant surprise.
+Each time you are the target of an attack, you gain increasingly greater power over your attacker.
+First, this spell generates a cumulative +1 bonus to all attack rolls and to damage against that foe each and every time it strikes you, up to a maximum bonus equal to your level.
+Second, you gain the ability to overcome any damage reduction your opponent might have, as though you possessed the necessary alignment or weapon materials.
+Last but not least, you gain a cumulative dam age reduction of your own, equal to 1/- each time your opponent strikes you, up to a maximum benefit of DR 15/-.
+If you are fighting multiple opponents, you must keep track of how many times each one has struck you in order to determine the benefits this spell grants you against each.
+A mantle of pure spite provides its benefits even at range, so a wizard launching harmful spells at you from what she thinks is a safe distance will still kindle the mantle of pure spite's nimbus and experience its spiteful reprisals.
+Material Component: A smidgen of your spit.
+   

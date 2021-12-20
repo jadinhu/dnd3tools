@@ -1,0 +1,37 @@
+<b>Elemental Body</b>(Spell Compendium, p. 78)
+
+Transmutation [see text]
+ <b>Level:</b>  Sorcerer/Wizard Variant 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level
+
+ 	
+<b>Drawing upon the power of the elemental planes, your transform your body in a flash of light.</b>
+	
+You can transform your body into a particular type of elemental substance. You and your possessions appear to be made of that element, though in the same general shape and size as your normal appearance.
+	
+You gain the following abilities when you cast <b>elemental body:</b>
+	
+You have the benefits of the <b>attune form</b> spell (page 17) with respect to the appropriate element. If you choose a water body, for example, you can breathe normally on waterdominant planes.
+	
+You are immune to poison, sleep, paralysis, and stunning, and are not subject to extra damage from critical hits or flanking. You gain darkvision out to 60 feet.
+	
+Your creature type remains unchanged, so you are unaffected by spells that target elementals, but you gain the air, earth, fire, or water subtype depending on the elemental substance you chose.
+	
+In addition, you gain the following exceptional abilities according to the element chosen:
+	
+<b>Air:</b> Fly at your normal speed (perfect maneuverability), air mastery (airborne creatures take a � ;1 penalty on attack rolls and damage rolls against you).
+	
+<b>Earth:</b> Earth mastery (you gain a +1 bonus on attack rolls and damage rolls if both you and your foe touch the ground), push (you can start a bull rush maneuver without provoking attacks of opportunity), +3 natural armor bonus to AC.
+	
+<b>Fire:</b> Fire immunity, burn (those you hit in melee and those who attack you with natural weapons must make a Reflex save or catch fire, with a save DC equal to that of a fire elemental of the same size).
+	
+<b>Water:</b> Water: Swim at your normal speed, water mastery (you gain a +1 bonus on attack rolls and damage rolls if both you and your opponent touch water), drench (you can use your elemental form to put out nonmagical open flames and dispel magical fire you touch as if casting <b>dispel magic</b> at your caster level).
+	
+The <b>elemental body</b> spell has the descriptor of the element you choose. So, if you choose a body of fire, <b>elemental body</b> is a fire spell.
+	
+<b>Material Component:</b> A bit of the element in question from a plane other than the one where the spell is being cast.
+ <b>Also appears in</b>   Manual of the Planes     

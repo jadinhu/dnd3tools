@@ -1,0 +1,25 @@
+<b>Detect Manifest Zone</b>(Faiths of Eberron, p. 150)
+
+Divination
+ <b>Level:</b>  Cleric 1,  Paladin 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 120 ft.
+ <b>Area:</b> 120-ft.-radius emanation centered on you
+ <b>Duration:</b> Concentration, up to 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You look about you, your eyes unblinking. As you focus, the landscape around you glows with an unearthly aura.</b>
+	
+You can sense the presence of manifestation zones, areas in which the energies and traits of another plane leak over into the world of Eberron. The amount of information revealed depends on how long you study a particular area or subject.
+	
+<b>1st Round:</b> Presence or absence of a manifest zone. (In some cases, manifest zones are obvious to the naked eye. In such instances, you gain no new information on the first round.) If the zone is in range but not in your line of sight, you discern its direction but not its exact location.
+	
+<b>2nd Round:</b> Age of the manifest zone. You gain a very general sense of how long it has existed, as indicated on the following table. If the zone is going to fade within the next 24 hours, you learn that, too. Otherwise, you gain no sense of how long it will last.
+	
+<b>3rd Round:</b> The plane to which the manifest zone is connected. If the zone is small, and fits entirely within the area of your spell, you learn its exact borders and dimensions. If the zone is larger than that, you do not know the precise location or dimensions of the zone outside your spell area.
+	
+The spell can penetrate barriers, but a thin sheet of lead, 1 inch of common metal, 1 foot of stone, or 3 feet of wood or dirt blocks it.
+	<b><span class="caps">MANIFEST</span> <span class="caps">ZONE</span> <span class="caps">AGE</span> <span class="caps">CATEGORIES</span></b>	<table>		<tr>			<th>Category </th>			<th>Age </th>		</tr>		<tr>			<td> Nascent </td>			<td> Less than 1 day </td>		</tr>		<tr>			<td> New </td>			<td> 1 to 30 days </td>		</tr>		<tr>			<td> Young </td>			<td> 31 days to 1 year </td>		</tr>		<tr>			<td> Mature </td>			<td> 1 to 10 years </td>		</tr>		<tr>			<td> Old </td>			<td> 11 to 100 years </td>		</tr>		<tr>			<td> Ancient </td>			<td> More than 100 years </td>		</tr>	</table>   

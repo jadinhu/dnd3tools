@@ -1,0 +1,21 @@
+<b>Wake Trailing</b>(Stormwrack)
+
+Divination [Water]
+ <b>Level:</b>  Ranger 3,  Druid 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One ship
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You are able to track a vessel over open water by following flotsam and other signs of a ship's recent presence.
+These signs of passage are relatively subtle, but as long as the spell is active you can find those signs on a Survival check, as though you were tracking a Huge, Gargantuan, or Colossal creature (depending on the size of the ship) over soft ground.
+The following modifiers are used in place of those given on page 101 of the Player's Handbook.
+The caster must have the Track feat to use this spell.
+If multiple ships have passed in a given area, you can track a specific ship only if you have some knowledge of the size or type of the ship, or other knowledge that differentiates that ship from the other vessels (for instance, if you know the
+ship is made from a unique type of wood or is crewed by minotaurs).
+Material Component: A bit of driftwood wrapped with red thread.
+   

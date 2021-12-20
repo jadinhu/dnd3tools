@@ -1,0 +1,17 @@
+<b>Hiss of Sleep</b>(Spell Compendium, p. 114)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>From your hiding place, you whisper the spell softly, your words taking on a sonorous drone. One by one, your foes drop to ground, asleep.</b>
+	
+The targets of this spell fall into a comatose slumber. Sleeping creatures are helpless. Slapping or wounding the subjects awakens them, but normal noise does not. Awakening a creature is a standard action.
+ <b>Also appears in</b>   Draconomicon     

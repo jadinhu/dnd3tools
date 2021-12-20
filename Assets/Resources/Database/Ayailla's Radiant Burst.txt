@@ -1,0 +1,19 @@
+<b>Ayailla's Radiant Burst</b>(Book of Exalted Deeds)
+
+Evocation [Good]
+ <b>Level:</b>   Sanctified 2,   
+<b>Components:</b>V, S, Sacrifice
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates (blindness) and Reflex half (shards)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Shards of heavenly light spray from your fingertips, blinding evil creatures in their path for 1 round.
+A successful Fortitude save negates the blindness.
+The luminous shards also sear the flesh of evil creatures, dealing 1d6 points of damage per two caster levels (maximum 5d6).
+A successful Reflex save halves the damage, which is of divine origin.
+Sacrifice: 1d2 points of Strength damage.
+   

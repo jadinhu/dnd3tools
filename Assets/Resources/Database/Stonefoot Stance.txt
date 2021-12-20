@@ -1,0 +1,19 @@
+<b>Stonefoot Stance</b>(Tome of Battle: The Book of Nine Swords, p. 85)
+
+Stone Dragon (Stance)
+ <b>Level:</b>  Crusader 1,  Swordsage 1,  Warblade 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You crouch and set your feet flat on the ground, drawing the resilience of the earth into your body.</b>
+	
+The students of the Stone Dragon discipline model their defenses after the earth itself. The wind might batter the mountain, the river might cut through the plains, but in the end the stone and rock shrug off such assaults. 
+	
+While you are in this stance, you gain a +2 bonus on Strength checks and a +2 bonus to AC against creatures of a size category larger than yours.
+	
+This stance immediately ends if you move more than 5 feet for any reason, such as from a bull rush attack, a telekinesis spell, and so forth.
+   

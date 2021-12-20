@@ -1,0 +1,10 @@
+<b>Dimension Jumper, Greater</b>(Complete Mage)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>
+
+ 	
+You whisk yourself from place to place with but a thought.
+This spell functions like dimension jumper, except that you teleport as a swift action rather than as a move action, and the range of your teleport extends to 60 feet.
+   

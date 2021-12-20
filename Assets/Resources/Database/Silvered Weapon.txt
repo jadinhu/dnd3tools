@@ -1,0 +1,21 @@
+<b>Silvered Weapon</b>(Book of Exalted Deeds)
+
+Transmutation
+ <b>Level:</b>  Paladin 1,  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One weapon or projectile touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates (object, harmless)
+ <b>Spell Resistance:</b> Yes (object, harmless)
+
+ 	
+This spell transforms a single weapon or projectile you are holding into a silvered weapon.
+The weapon may be magical, masterwork, or nonmagical, but it must be in hand when the spell is cast.
+You can't cast this spell on a natural weapon, such as an unarmed strike (instead, see silvered claws).
+The spell cannot be cast on more than one weapon or on multiple projectiles.
+If the weapon targeted by the spell is made of another special material (cold iron or adamantine, for example), it
+loses the benefits of its original special material for the spell's duration.
+Silvered weapon can be made permanent with a permanency spell.
+   

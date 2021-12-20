@@ -1,0 +1,22 @@
+<b>Swim</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 2 (Water),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 3 rounds/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell gives the recipient the ability to swim with the ease of a fish, though it does not impart the ability to breathe water.
+The creature can swim at its normal (land) speed without making Swim checks, so long as it is not carrying more than a light load.
+It gains a +8 competence bonus on any Swim checks to perform some special action or avoid a hazard, though it still suffers the normal penalty for weight carried (-1 per 5 pounds carried).
+It can always choose to take 10, even if rushed or threatened when swimming.
+The creature can use the run action while swimming, provided it swims in a straight line.
+If the creature is carrying more than a light load, it still gains the +8 competence bonus on Swim checks, but it must make Swim checks to move (including the normal penalty for weight carried).
+The other benefits of the spell still apply.
+Material Component: A goldfish scale.
+ <b>Also appears in</b>   Stormwrack  Complete Arcane  Spell Compendium     

@@ -1,0 +1,19 @@
+<b>Corona of Cold</b>(Spell Compendium, p. 52)
+
+Evocation [Cold]
+ <b>Level:</b>  Cleric 3,  Druid 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>As you complete the spell you feel your extremities turn ice cold, numb, and sluggish. The feeling subsides as the cold drains away from your body into the air around you, causing your breath to emerge as white puffs in the now-chill air.</b>
+	
+You are surrounded by a protective aura of cold that also causes damage to others within its radius. You gain resistance to fire 10.
+	
+Starting in the round you cast the spell, <b>corona of cold</b> also deals 1d12 points of cold damage each round at the beginning of your turn to all other creatures within the area. A successful save prevents the damage caused by the spell in that round, but does not prevent damage in future rounds. Creatures damaged by the spell shiver uncontrollably, taking a � ;2 penalty to their Strength and Dexterity and moving at half speed for as long as they remain within the area; these penalties do not stack with consecutive rounds of damage or additional <b>corona of cold</b> spells.
+   

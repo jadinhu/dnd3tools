@@ -1,0 +1,23 @@
+<b>Fang Trap</b>(Serpent Kingdoms)
+
+Abjuration
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched or area up to 5 sq. ft./level
+ <b>Duration:</b> Permanent until discharged (D)
+ <b>Saving Throw:</b> Fortitude negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+While casting this spell, you physically trace the area or handle the object to be trapped.
+A fang trap functions like a glyph of warding, except that it can't be made to activate on the basis of faith or alignment, and you can't be caught in your own fang trap.
+A fang trap is usually cast on a specific spot, such as a doorway or an area of floor.
+It can be set to distinguish between humans and Scaled Ones, or between beings wearing particular items and those who are not.
+The trigger can't be a symbol, but it may be one or more specific items (for example, &quot;six metal rings on digits, no more and no less&quot;).
+When a fang trap discharges, the subject is held immobile for 1 round.
+A successful Fortitude saving throw frees the subject after that period without further effect.
+A failed save means the subject takes 1d4 points of piercing and bludgeoning damage per caster level from the bite of a pair of unseen jaws.
+Material Component: A fang from any snake.
+   

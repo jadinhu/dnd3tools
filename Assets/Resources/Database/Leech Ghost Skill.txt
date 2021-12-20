@@ -1,0 +1,28 @@
+<b>Leech Ghost Skill</b>(Ghostwalk)
+
+Necromancy [Ectomancy]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch (see text)
+ <b>Target:</b> Ghost touched
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You bind the ectoplasmic form of the target ghost onto another creature (hereafter called the &quot;bearer&quot;).
+The ghost clings to the bearer's back or chest in the form of a tattoo for the duration of the spell.
+Leech ghost skill binds only the ghost, not any of its equipment.
+While this ghostly tattoo is in place, the bearer may use the ghost's skill ranks instead of his own as desired, regardless of the nature of the skill.
+For example, a bearer wearing a ghost rogue/wizard tattoo could use the ghost's ranks in Climb, Hide, Knowledge, Spellcraft, or any of the ghost's other skills (including class-exclusive skills that the bearer does not possess) if they exceed his own.
+He still uses his own ability modifiers for making skill checks.
+The bearer does not have access to any of the ghost's other abilities or to any knowledge that is not related to skills (such as bardic knowledge, class abilities, ghost powers, memories, racial bonuses, and so on), nor does he gain the ability to speak or understand any languages that the ghost knows.
+The ghost cannot be attacked or harmed while bound to the target.
+The ghost remains completely aware of its surroundings, though it cannot speak or use any abilities (including mental communication).
+When the spell ends, the ghost is immediately freed and appears in an area adjacent to the bearer.
+If the bearer is killed by any means (even disintegrate or some other effect that destroys his body), the ghost is immediately freed and appears in the bearer's square.
+When it appears, the ghost has all the abilities it had at the time of the binding (such as prepared spells or available spell slots, uses of turn undead, and so on).
+This spell was invented by members of the Piran Sedestadel at the behest of the Yisa-khardomas, who sought a way to punish criminal ghosts and still let them contribute to life in the city.
+Material Component: A silver needle and a vial of acid, together worth 100 gp.
+   

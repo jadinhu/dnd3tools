@@ -1,0 +1,18 @@
+<b>Reaving Aura</b>(Complete Mage)
+
+Necromancy [Evil]
+ <b>Level:</b>  Assassin 1,  Cleric 1,  Hexblade 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius emanation, centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The air around you turns black as it floods with negative energy.
+This spell deals 1 point of damage to every creature in the area that has 0 or fewer hit points.
+Stable creatures that were at -1 to -8 hit points become dying, while creatures at -9 hit points die immediately.
+This spell has no effect on creatures that have 0 or more hit points.
+   

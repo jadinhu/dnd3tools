@@ -1,0 +1,20 @@
+<b>Tail Slap</b>(Races of the Dragon)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Effect:</b> Evoked tail
+ <b>Duration:</b> 1 round/level
+
+ 	
+A partially translucent, scaled tail uncoils from behind you and savagely slaps at your foe.
+You evoke a dragon's tail that you can use to strike at a target once per round as a standard action (including the round in which you evoke it) that deals 1d6 points of damage per two levels (to a maximum of 10d6 points of damage) if you hit your foe with a melee touch attack.
+In addition, if a subject of up to one size category larger than you fails a Strength check (DC equal to your caster level + 12) against your first attack, the driving force of the
+tail slap pushes your foe back 5 feet plus another 5 feet for every 5 points of damage your foe takes.
+If a wall or other solid object prevents the subject from being pushed back, the subject instead slams into the object and takes an extra 2d6 points of damage from the impact (no save).
+The movement of your foe caused by a tail slap does not provoke attacks of opportunity.
+The chance to push your foe back is only gained on the attack you make in the round when you initially cast the spell.
+Special: A dragonblooded character, or a character with the dragon type, has a chance to push back a foe with every attack it makes during the spell's duration, instead of just the first attack made in the round when the spell is cast.
+   

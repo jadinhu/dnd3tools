@@ -1,0 +1,17 @@
+<b>Naturewatch</b>(Magic of Faerun)
+
+Necromancy
+ <b>Level:</b>  Druid 0,  Hathran 0,  Ranger 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Quarter circle emanating from you to the extreme
+
+ 	
+of the range
+Duration: 10 minutes/level
+Saving Throw: None
+Spell Resistance: No
+This is identical with deathwatch, but only functions on animals and plants.
+In addition, it also allows you to determine a variety of other mundane information about the animals and plants (are the plants underwatered, are the animals malnourished, and so forth).
+ <b>Also appears in</b>   Complete Divine  Spell Compendium     

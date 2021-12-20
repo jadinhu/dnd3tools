@@ -1,0 +1,22 @@
+<b>Seed of Life</b>(Complete Champion)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 4,  Paladin 4,  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 10 rounds + 1 round/level (maximum 30 rounds) or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The energy of life flows through you, warming your hand � ;and indeed your very soul.
+But instead of swiftly infusing that life into others to heal their wounds, you feed it slowly and gradually into your ally.
+You implant a tiny seed of positive energy into the subject's soul.
+This seed of life grants the subject fast healing 2 for the duration of the spell, in much the same way as vigor.
+At any point before the duration expires, the subject can exhaust the remaining positive energy in a sudden burst of healing as a standard action.
+When this option is exercised, roll a number of d4s equal to one-half the spell's remaining duration, rounded down (for example, 5d4 if the spell has 11 rounds remaining).
+The result is the number of hit points of damage instantly healed.
+Using this option ends the spell immediately.
+   

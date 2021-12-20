@@ -1,0 +1,23 @@
+<b>Control Sand</b>(Sandstorm)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Druid 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> Dust or sand in a volume of 10 ft./level wide by 10 ft./level long by 2 ft./level deep (S)
+ <b>Duration:</b> 10 min./level (D)
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+Depending on the version you choose, control sand raises or lowers fine particles of material, such as dust or sand.
+For either version, the caster can reduce one horizontal dimension by half and double the other horizontal dimension.
+Lower Sand: This effect causes sand to reduce its depth by as much as 2 feet per caster level, to a minimum depth of 1 inch.
+The dust and sand is lowered within a square-shaped depression whose sides are up to 10 feet long per caster level.
+In extremely large and deep sand piles, such as a sand dune, the spell creates a pit that sweeps creatures downward (without dealing damage), putting them at risk and rendering them unable to leave by normal movement for the duration of the spell.
+When cast on earth elementals, dust paraelementals, and other earth- or dust-based creatures, this spell acts as a slow spell (Will negates).
+The spell has no effect on other creatures.
+Raise Sand: This effect causes dust and sand to rise in height, just as the lower sand version causes it to lower.
+Creatures and objects on top of the dust or sand are raised along with the top level of sand.
+   

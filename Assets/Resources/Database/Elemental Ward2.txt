@@ -1,0 +1,18 @@
+<b>Elemental Ward</b>(Oriental Adventures)
+
+Abjuration
+ <b>Level:</b>  Wu Jen 4 (All),   Nature 4,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft. emanation, centered on you
+ <b>Duration:</b> 1 minute
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell allows you to drive off elementals of a specific type by uttering a fearsome cry.
+When you cast the spell, all elementals within the spell's area flee the area unless they make successful Will saving throws.
+The spell ends if you try to force the barrier against an elemental that has failed its saving throw.
+Material Component: A small quantity of the element opposed to the type being warded against � ;fire for water elementals, earth for air elementals, air for earth elementals, or water for fire elementals.
+ <b>Also appears in</b>   Complete Arcane     

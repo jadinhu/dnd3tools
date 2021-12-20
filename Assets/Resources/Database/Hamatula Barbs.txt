@@ -1,0 +1,19 @@
+<b>Hamatula Barbs</b>(Planar Handbook)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This barbed-devil-inspired transmutation causes the subject to grow a covering of sharp barbs from its skin, equipment, or clothing, whichever is appropriate when the spell is cast.
+Any creature striking the subject with a handheld weapon or a natural weapon takes 1d8 points of slashing and piercing damage from the subject's barbs.
+This damage does not apply to attackers using reach weapons, such as longspears.
+The subject itself is not harmed by its own barbs.
+Material Component: A thorn.
+ <b>Also appears in</b>   Spell Compendium     

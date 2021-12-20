@@ -1,0 +1,21 @@
+<b>Vile Death</b>(Savage Species)
+
+Conjuration (Calling) [Evil]
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Touch
+ <b>Target:</b> One corporeal undead creature
+ <b>Duration:</b> Permanent (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You summon the spirit of a fiend from the depths of Hell or the Abyss and bind it into the body of a corporeal undead creature.
+Both the undead creature and the fiend get a Will saving throw to negate the effects of vile death.
+Some fiends may voluntarily fail the save if you swear to dismiss the effect after a certain task or an amount of time.
+Similarly, some undead may voluntarily fail the save in order to gain the fiend's power, even temporarily.
+Binding the fiend applies the fiendish template from the Monster Manual to the undead creature.
+The resulting creature is independent of you, and may act on its own, and its initial attitude toward you is indifferent.
+Arcane Material Component: A bit of brimstone.
+ <b>Also appears in</b>   Spell Compendium  Heroes of Horror     

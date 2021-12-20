@@ -1,0 +1,18 @@
+<b>Joyful Noise</b>(Complete Adventurer)
+
+Abjuration
+ <b>Level:</b>  Bard 1,  Vigilante 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius emanation, centered on you
+ <b>Duration:</b> Concentration; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create sonic vibrations that negate any magical silence effect in the area.
+This zone of negation moves with you and lasts as long as you continue to concentrate.
+The silence is not dispelled but simply held in abeyance; it remains in effect outside the area of the joyful noise effect.
+Thus, this spell is usually used to move a group out of range of a silence effect.
+ <b>Also appears in</b>   Spell Compendium  Song and Silence: A Guidebook to Bards and Rogues     

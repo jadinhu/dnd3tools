@@ -1,0 +1,23 @@
+<b>Channeled Divine Shield</b>(Player's Handbook II)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> See text
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+As you complete this spell, a shield crafted from divine energy appears before you.
+As you channel energy into the shield, it grows stronger and stronger.
+This spell improves your defenses.
+Themagnitude of this improvement depends on the amount of time you spend casting the spell.
+If you cast this spell as a swift action, you gain damage reduction 2/evil for the duration of this spell.
+If you cast this spell as a standard action, you gain damage reduction 5/evil.
+If you cast this spell as a full-round action, you gain damage reduction 8/evil.
+If you spend 2 rounds casting this spell, you gain damage reduction 10/evil.
+The spell's duration does not begin until you finish casting the spell.
+You do not need to declare ahead of time how long you want to spend casting the spell.
+When you begin casting this spell, you decide that you are finished casting after the appropriate time has passed.
+   

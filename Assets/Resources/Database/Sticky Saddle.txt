@@ -1,0 +1,15 @@
+<b>Sticky Saddle</b>(Spell Compendium, p. 206)
+
+Transmutation
+ <b>Level:</b>  Paladin 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+<b>A colorless glow surrounds you and your mount for an instant. When the glow fades, you feel more attentive to the movements of your mount even while an unseen force holds you fast to it.</b>
+	
+This spell &quot;glues&quot; you to your mount. It becomes impossible for you to fall or be thrown off your mount. Prying you from the saddle requires a DC 20 Strength check, and you gain a +10 bonus on Ride checks related to staying in the saddle. The spell must be cast after you are seated on your mount. If you are not seated on your mount when the spell is cast, the spell fails. If the spell is cast while you are riding bareback, you are &quot;stuck&quot; to the mount's back. Otherwise, you are merely stuck to the saddle, but the saddle is attached to the mount normally. If you are knocked unconscious while this spell is in effect, you automatically remain in the saddle. The spell can be dismissed as an immediate action, and it does not impede the rider from making a soft fall if the mount is dropped in battle.
+   

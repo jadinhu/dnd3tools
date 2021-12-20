@@ -1,0 +1,19 @@
+<b>Raise From The Deep</b>(Spell Compendium, p. 165)
+
+Transmutation [Water]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One creature or object
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Fortitude negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+<b>Water roils and foams as the shipwreck rises to the surface. Floating now effortlessly, it bobs up and down, never sinking more than an inch.</b>
+	
+The subject of this spell gains magical buoyancy and floats on the surface of the water for the duration of the spell, despite its weight or normal buoyancy. It cannot swim below the surface of the water. Creatures that must breathe water can still do so. If the subject is underwater at the time this spell is cast, it rises toward the surface at a speed of 150 feet. The magic of the spell prevents the subject from taking damage from the speed of the ascent.
+	
+This spell is particularly effective at raising sunken ships from the deep. If you know the exact details of the shipwreck (its appearance, its name, the date of its creation, its history, and the circumstances of its sinking), the vertical distance between you and the subject is not a factor. When cast to raise a shipwreck, the spell brings up all surviving fragments of the ship, along with any loose objects that are in contact with the ship or enclosed inside it. The ship and its fragments remain on the surface of the ocean until the spell's duration ends, at which point the ship sinks again if it has not been repaired. (Multiple consecutive castings of the spell might be needed to keep the ship afloat long enough to be fully repaired.)
+   

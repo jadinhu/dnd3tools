@@ -1,0 +1,19 @@
+<b>Forcewave</b>(Spell Compendium, p. 98)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 10 ft.
+ <b>Effect:</b> 10-ft. burst of force centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You catch the drop of water on the string and snap it at your target. The waterdrop swells and becomes a blue-green wave of magical force, tumbling toward your opponents.</b>
+	
+This spell initiates a bull rush against all creatures within 10 feet. The <b>forcewave</b> has a +10 bonus on the bull rush attempt. All creatures are pushed to the extend of the bull rush result, and the result of the bull rush can push creatures beyond the spell's normal range.
+	
+<b>Focus:</b> A small piece of string and a drop of water.
+ <b>Also appears in</b>   Magic of Faerun     

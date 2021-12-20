@@ -1,0 +1,22 @@
+<b>Land Womb</b>(Shining South)
+
+Abjuration
+ <b>Level:</b>  Druid 4,  Hathran 4,  Ranger 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> You and one other creature/level
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You descend into a protective bubble in the earth 10 feet below where you are standing.
+It appears as though the ground opened up and swallowed you.
+A land womb only opens through tillable soil, not rock.
+One additional creature per caster level can accompany you into the land womb.
+Such creatures must be touching one another, with at least one touching you (a ring of hands, for instance).
+Creatures inside the land womb can breath and speak normally, but the space is too tight to move about in or cast spells with somatic components.
+The surface above the land womb cannot be sensed without magical means, and anything within the land womb cannot be detected by divination spells of 4th level or lower.
+At the end of the duration, or upon the spell's dismissal, everything inside the land womb returns to the spot where it stood before the spell took effect.
+ <b>Also appears in</b>   Magic of Faerun  Spell Compendium     

@@ -1,0 +1,26 @@
+<b>Phantom Bear</b>(Complete Divine)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One summoned phantom bear
+ <b>Duration:</b> Concentration up to 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+As phantom wolf, except you instead conjure an incorporeal bear with a fearsome roar.
+Phantom Bear: Huge magical beast (incorporeal); HD 14d10+48; hp 113; Init +9; Spd fly 60 ft. (good); AC 25, touch 25, flat-footed 16; Base Atk +14; Grp � ;; Atk +23 melee touch (2d6 plus 3d6 cold, claw); Full Atk +23 melee touch (2d6 plus 3d6 cold, 2 claws) and +21 melee (2d8 plus 3d6 cold, bite); SA fearsome roar; SQ darkvision 60 ft., incorporeal traits; AL N; SV Fort +13, Ref +17, Will +7; Str
+ � ;, Dex 29, Con 20, Int 11, Wis 17, Cha 28.
+Skills and Feats: Listen +20, Spot +20; Dodge, Combat Reflexes, Mobility, Multiattack, Weapon Focus (bite).
+Fearsome Roar: A phantom bear can loose a fearsome roar every 1d4 rounds.
+All creatures except the caster of the phantom bear spell within 120 feet must succeed on a DC 26 Will save or be frightened for 3d6 rounds.
+Those who are within 30 feet when they fail their saves are panicked instead of frightened.
+Incorporeal Traits: A phantom bear is harmed only by other incorporeal creatures, magic weapons, spells, spell-like abilities, and supernatural abilities.
+It has a 50% chance to ignore any damage from a corporeal source, except for force effects or attacks made with ghost touch weapons.
+It can pass through solid objects, but not force effects, at will.
+Its attacks ignore natural armor, armor, and shields, but deflection bonuses and force effects work normally against them.
+An incorporeal creature always moves silently and cannot be heard with Listen checks if it doesn't wish to be.
+ <b>Also appears in</b>   Spell Compendium     

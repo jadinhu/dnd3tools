@@ -1,0 +1,18 @@
+<b>Suspension</b>(Shining South)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Any nonliving object up to 1,000 lb./level
+ <b>Duration:</b> 1d4 days + 1 day/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like levitate, except as noted above and as follows.
+You can mentally direct the object to move up or down as much as 45 feet each round for the duration of the spell; doing so is a move action.
+When you cease concentration, the object remains in place for the duration of the spell.
+Material Component: A small leather loop suspended from a bent wire of gold.
+   

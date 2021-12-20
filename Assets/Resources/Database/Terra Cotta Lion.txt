@@ -1,0 +1,17 @@
+<b>Terra Cotta Lion</b>(Complete Arcane, p. 126)
+
+Transmutation [Earth]
+ <b>Level:</b>  Wu Jen 5 (Earth),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Target:</b> One statuette touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+As terra cotta warrior, but the spell animates a statuette of a foo lion (a celestial dire lion) into a Huge animated object (Huge construct, 90 hp, AC 13, hardness 6, speed 30 ft., attack slam +9, damage 2d6+7).
+As with terra cotta warrior, the lion has none of the animated object attack forms given in the Monster Manual.
+Focus: A terra cotta statue of a foo lion, up to 1 foot tall and costing 10 gp.
+ <b>Also appears in</b>   Oriental Adventures     

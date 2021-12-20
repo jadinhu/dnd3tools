@@ -1,0 +1,15 @@
+<b>Nature's Favor</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Evocation
+ <b>Level:</b>  Ranger 2,  Druid 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Animal touched
+ <b>Duration:</b> 5 rounds/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+By calling on the power of nature, you grant the target animal a +1 luck bonus on attack and damage rolls for every two caster levels you possess.
+ <b>Also appears in</b>   Complete Adventurer  Complete Divine  Spell Compendium     

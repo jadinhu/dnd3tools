@@ -1,0 +1,19 @@
+<b>Bonefiddle</b>(Spell Compendium, p. 37)
+
+Necromancy
+ <b>Level:</b>  Bard 2,  Sorcerer/Wizard Variant 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature with a skeleton or exoskeleton
+ <b>Duration:</b> Concentration, up to 1 round/level
+ <b>Saving Throw:</b> Fortitude Negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You rub your middle finger across your thumb like a bow against a fiddle while simultaneously humming a discordant tune under your breath. Nearby, you see a translucent bone-white fiddle bow appear and sink into the flesh of your target. It begins sawing, as if playing your target like a fiddle.</b>
+	
+You call up a ghostly fiddle bow in the air above the targeted creature. This bow immediately descends into the target body and begins to saw back and forth against its skeleton. Although the music produced is eerily beautiful, it causes intense pain and anguish in the victim. Each round on its turn, the victim must make a Fortitude save or take 3d6 points of sonic damage and a � ;20 penalty on Move Silently checks. A successful save negates the damage and ends the spell. The spell's effects continue even if the subject moves so that you no longer have line of sight or line of effect to it.
+	
+<b>Focus:</b> A miniature silver fiddle worth at least 30 gp.
+   

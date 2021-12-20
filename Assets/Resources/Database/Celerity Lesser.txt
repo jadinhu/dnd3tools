@@ -1,0 +1,15 @@
+<b>Celerity, Lesser</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+You borrow a slice of time from the future, pulling it into the present so that you can act.
+Upon casting this spell, you can immediately take a move action.
+After performing this action, you are dazed until the end of your next turn.
+   

@@ -1,0 +1,17 @@
+<b>Bladeweave</b>(Spell Compendium, p. 31)
+
+Illusion (Pattern)
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 Swift Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> See text
+
+ 	
+<b>With a shout you unleash the power of the spell, causing every movement you make with your weapon to seem beautiful and full of flourish.</b>
+	
+Once per round, choose one target that you successfully attacked with a melee weapon. That creature must succeed on a Will save or be dazed for 1 round. Spell resistance applies to this effect.
+ <b>Also appears in</b>   Complete Adventurer     

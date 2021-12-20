@@ -1,0 +1,23 @@
+<b>Doomtide</b>(Magic of Faerun)
+
+Illusion (Pattern)
+ <b>Level:</b>  Cleric 4 (Beshaba),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 80 ft.
+ <b>Effect:</b> Eight 10-ft. cubes extending from the caster's location
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You fill an area with illusory black, creeping mist that vaguely resembles thousands of slender grasping tentacles.
+You and one creature you touch are immune to the effect of this spell and can see through it without difficulty.
+When you cast the spell, you decide if the effect remains stationary or moves away from you at a rate of 10 feet per round.
+The mist obscures all sight, including darkvision, beyond 5 feet.
+A creature within 5 feet has one-half concealment (attacks suffer a 20% miss chance).
+Creatures farther away have total concealment (50% miss chance, and the attacker can't use sight to locate the target).
+A moderate wind (11+ mph) disperses the doomtide in 4 rounds; a strong wind (21+ mph) disperses the mist in 1 round.
+Furthermore, creatures within its area must make Will saves or be dazed for as long as they remain in the cloud.
+The spell does not function underwater.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

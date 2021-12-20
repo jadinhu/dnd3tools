@@ -1,0 +1,21 @@
+<b>Kelgore's Grave Mist</b>(Player's Handbook II)
+
+Conjuration/Necromancy [Cold]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft. radius spread, 20 ft. high
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> See text
+
+ 	
+With a gesture, you create a cloud of clammy, thin mist.
+The light in the area seems to dim as the mist appears, and a slight wind washes over the area, sending a chill down your spine.
+This spell creates a thin mist within the spell's area.
+The mist is too thin to have any effect on vision, but the necromantic energy infused within it hampers the living.
+All living creatures within the mist become fatigued and take 1d6 points of cold damage per round.
+If the spell fails to overcome a creature's spell resistance, the subject takes the cold damage but ignores the fatigue.
+Material Component: A handful of dirt taken from a graveyard or tomb.
+   

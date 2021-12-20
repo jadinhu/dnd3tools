@@ -1,0 +1,21 @@
+<b>Blood Sirocco</b>(Spell Compendium, p. 33)
+
+Evocation
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> 60 ft
+ <b>Effect:</b> Cone-shaped emanation centered on you or on a point in space
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a hot exhalation and a circular wave of your outstretched arm, a stifling wind tears across the landscape, kicking up clouds of dust and sand and spreading out to blow over your foes.</b>
+	
+A blood sirocco blows out from your location with the force of a windstorm (<span class="caps">DMG</span> 95). Creatures in the affected area of Small or smaller size are knocked prone and rolled 1d4Ã—10 feet, taking 1d4 points of nonlethal damage per 10 feet. Medium creatures are knocked prone, and creatures of Large or Huge size are unable to move toward the origin point of the cone. A successful Fortitude save allows the creature to move normally in that round.
+	
+In addition, the stifling winds dehydrate those within the cone. In each round when an affected living creature fails its saving throw, it takes 2 points of damage.
+	
+The wind of a blood sirocco automatically extinguishes candles, torches, and similar unprotected flames. It causes protected flames, such as those of lanterns, to dance wildly and has a 50% chance to extinguish these lights. The wind of a blood sirocco continues to blow from the origin point to the wide end of the cone for the duration of the spell. Any creature within this area is entitled a saving throw each round to ignore the effects of the blood sirocco.
+   

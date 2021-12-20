@@ -1,0 +1,19 @@
+<b>Invisibility to Animals</b>(Player's Handbook 3.0)
+
+Abjuration
+ <b>Level:</b>  Druid 1,  Blighter 1,    
+<b>Components:</b>S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature touched/level
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Animals cannot perceive the warded creatures. They act as though the warded creatures are not there. Warded creatures could stand before the hungriest of lions and not be molested or even noticed.
+	
+If a warded character touches an animal or attacks any creature, even with a spell, the spell ends for all recipients.
+	
+Note: Beasts (such as owlbears), magical beasts (such as blink dogs), and vermin (such as giant scorpions) are not &quot;animals&quot; as defined by the spell; see the Monster Manual
+   

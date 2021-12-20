@@ -1,0 +1,20 @@
+<b>Friend to Foe</b>(Player's Handbook II)
+
+Illusion (Phantasm) [Mind-Affecting]
+ <b>Level:</b>  Bard 5,  Beguiler 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature/level, none of which are more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D); see text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your enemies transform into what they each hate the most, suddenly turning against each other.
+You overlay phantasmal images over your enemies, making them appear to each other as loathsome and despicable, implanting an urge to kill and destroy the object of their ire.
+Orcs might see each other as elves or dwarves, demons might see angels, and so on.
+All subjects receive a Will save to see through the phantasm.
+Each individual failing its save turns on the closest ally and attacks until the first time it deals damage, which causes the spell to end for that attacker.
+Material Component: A swatch of white silk.
+   

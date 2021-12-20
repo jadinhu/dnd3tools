@@ -1,0 +1,21 @@
+<b>Cloak of Hate</b>(Heroes of Horror)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>  Bard 5,  Cleric 6,  Sorcerer 6,  Wizard 6,   Spite 6,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Living beings view the subject of this spell with instinctive hostility.
+All <span class="caps">NPC</span> reactions begin one category worse than they
+otherwise would (see page 72 of the Player's Handbook), and any Diplomacy checks to moderate those reactions take a &#8211; 10 circumstance penalty.
+Furthermore, people view the target in the worst possible light.
+If, for example, a community is hunting for an unknown murderer, they will assume that the subject of the spell is guilty of the crime.
+Player characters and NPCs who know the subject well, such as old friends or loved ones, are unaffected.
+Material Component:One ounce of bile.
+   

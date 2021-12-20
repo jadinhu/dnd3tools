@@ -1,0 +1,21 @@
+<b>Life Bolt</b>(Magic of Faerun)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One ray/2 levels
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You draw forth some of your own life force to create a beam of positive energy that harms undead.
+You must make a ranged touch attack to hit, and if it hits an undead creature, it deals 2d4 points of damage to it.
+Creating the beam deals you 1 hit point of damage.
+For every two levels of experience past 1st, you can create an additional ray, up to a maximum of five rays at 9th level.
+If you shoot multiple rays, you can have them strike a single creature or several creatures.
+You must designate targets before you roll spell resistance or damage.
+All rays must be aimed at enemies that are all within 30 feet of each other.
+ <b>Also appears in</b>   Spell Compendium     

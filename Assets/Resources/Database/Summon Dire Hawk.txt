@@ -1,0 +1,17 @@
+<b>Summon Dire Hawk</b>(Races of the Wild)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Druid 2,   Sky 2,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One summoned dire hawk
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell summons a dire hawk (see page 189).
+It appears where you designate and acts immediately, on your turn.
+You may command the dire hawk telepathically as a free action, allowing you to direct its actions as you desire.
+   

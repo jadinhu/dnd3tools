@@ -1,0 +1,27 @@
+<b>Bigby's Warding Hand</b>(Player's Handbook II)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One hand of force
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A spectral human hand springs into existence.
+It pushes into the target, forcing him back as he attempts to move.
+This spell creates a hand of pure force that hinders the subject's ability to move.
+You designate a target when casting this spell.
+You can change the spell's target by taking a move action to do so.
+This spell has no effect on Huge or larger creatures.
+If the target of the spell attempts to move, it must make a Strength check (DC 12 + your key ability modifier).
+If this check fails, the creature moves at half speed.
+The target must make a new check each round to overcome the hand's hindering force.
+The hand is about 1 foot long.
+It has hit points equal to half your full normal hit points, and its AC is 20 (+4 size, +6 natural).
+It makes saving throws using your total save bonuses and takes damage from spells and attacks as normal.
+Focus: A soft glove.
+   

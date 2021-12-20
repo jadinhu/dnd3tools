@@ -1,0 +1,19 @@
+<b>Arc of Lightning</b>(Complete Arcane)
+
+Conjuration (Creation) [Electricity]
+ <b>Level:</b>  Druid 4,  Sorcerer 5,  Wizard 5,  Warmage 5,  Wu Jen 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> A line between two creatures
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> No
+
+ 	
+You create natural conductivity between two creatures, and a bolt of electricity arcs between them.
+This bolt deals 1d6 points of electricity damage per caster level (maximum 15d6) to both creatures and to anything in the line between them.
+Both creatures must be in range, and you must be able to target them (as if this spell had them as its targets).
+Draw the line from any corner in one creature's space to any corner in the other's space.
+Arcane Material Component: Two small iron rods.
+ <b>Also appears in</b>   Miniatures Handbook     

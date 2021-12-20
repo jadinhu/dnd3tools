@@ -1,0 +1,9 @@
+<b>Frostburn</b>(Frostburn)
+
+Necromancy [Cold]
+ <b>Level:</b>  Cleric 4,  Disciple of Thrym 4,    
+<b>Components:</b>
+
+ 	
+This spell functions like lesser frostburn, except that it deals 3d12 points of frostburn damage +1 point per caster level (maximum +20).
+   

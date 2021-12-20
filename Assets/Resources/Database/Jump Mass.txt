@@ -1,0 +1,13 @@
+<b>Jump, Mass</b>(Shining South)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Ranger 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> One creature/level, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like jump, except that it affects a group of creatures in an area, all of which gain a +10 enhancement bonus on Jump checks.
+The enhancement bonus increases to +20 at caster level 10th, and to +30 (the maximum) at caster level 14th.
+Pirates on the Great Sea are fond of this spell during boarding actions.
+   

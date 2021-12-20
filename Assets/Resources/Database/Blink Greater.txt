@@ -1,0 +1,16 @@
+<b>Blink, Greater</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+This spell functions like blink, except you have control over the timing of your &quot;blinking&quot; back and forth between the Ethereal Plane and the Material Plane.
+You can also ready an action to blink away from any physical or magical attack, with the attack missing automatically unless it also affects ethereal targets (as a force effect does).
+While blinking, you have no chance of interfering with your own attacks or your own spells.
+When moving through solid objects, you do not risk materializing inside one unless you actually end your movement there, in which case you materialize and are shunted off to the nearest open space, taking 1d6 points of damage per 5 feet traveled in this manner.
+ <b>Also appears in</b>   Spell Compendium     

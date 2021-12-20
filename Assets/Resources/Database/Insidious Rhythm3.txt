@@ -1,0 +1,17 @@
+<b>Insidious Rhythm</b>(Spell Compendium, p. 124)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You recite a foolhardy ditty, tapping your foot in time. With a wink and a grin you mark your target, who shortly thereafter follows suit.</b>
+	
+The subject takes a � ;4 penalty on Intelligence-based skill checks and Concentration checks due to an endlessly recycling melody stuck in its mind. Whenever the subject attempts to cast, concentrate on, or direct a spell, it must succeed on a Concentration check (DC equal to insidious rhythm's save DC + spell's level) or fail at the attempt.
+ <b>Also appears in</b>   Complete Adventurer  Song and Silence: A Guidebook to Bards and Rogues     

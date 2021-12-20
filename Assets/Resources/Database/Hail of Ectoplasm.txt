@@ -1,0 +1,18 @@
+<b>Hail of Ectoplasm</b>(Ghostwalk)
+
+Conjuration (Creation) [Ectomancy]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 10-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+An explosion of spheres of hardened ectoplasm occurs from a point you designate.
+The spheres deal 1d6 points of bludgeoning damage per two caster levels (maximum 5d6) to creatures within the effect.
+The ectoplasm decays into nothingness after the spell takes effect.
+Material Component: A handful of resin marbles.
+   

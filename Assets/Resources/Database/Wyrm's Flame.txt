@@ -1,0 +1,18 @@
+<b>Wyrm's Flame</b>(Tome of Battle: The Book of Nine Swords, p. 56)
+
+Desert Wind (Strike) [Fire]
+ <b>Level:</b>  Swordsage 8 (Three Desert Wind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+
+ 	
+<b>You spin your blade in a whirling arc. With each revolution, seething flames build upon its length. With a flourish, you bring your blade to a halt, point it at your foe, and unleash a roaring wall of flame.</b>
+	
+Masters of the Desert Wind can twirl and spin their blades with such power that they can evoke a great burst of fire. When you execute this maneuver, you blast forth a cone of fire that deals 10d6 points of fire damage to all in its area. Creatures in the area can attempt a Reflex save (DC 18 + your Wis modifier) for half damage. 
+	
+This maneuver is a supernatural ability.
+   

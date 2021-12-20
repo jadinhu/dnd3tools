@@ -1,0 +1,19 @@
+<b>Improved Mage Armor</b>(Unapproachable East)
+
+Conjuration (Creation) [Force]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You create an invisible but tangible field of force around the subject of the spell.
+This provides an armor bonus to AC of +3 + 1 per 2 caster levels, to a maximum of +8 at 10th caster level.
+Unlike mundane armor, improved mage armor entails no armor check penalty, arcane spell failure chance, or speed reduction.
+Since improved mage armor is made of force, incorporeal creatures can't bypass it the way they do normal armor.
+Material Component: A tiny platinum shield worth at least 100 gp.
+   

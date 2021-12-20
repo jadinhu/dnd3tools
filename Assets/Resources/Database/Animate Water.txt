@@ -1,0 +1,13 @@
+<b>Animate Water</b>(Complete Arcane)
+
+Transmutation [Water]
+ <b>Level:</b>  Druid 1,  Wu Jen 1 (Water),    
+<b>Components:</b>V, S, M, 
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to a 5-ft. cube of water
+
+ 	
+As animate wood, but you can animate a quantity of water up to the maximum volume.
+Water animated by this spell has hardness 0, but has double the normal hit points that an animated object of the same size would have.
+Material Component: A vial of pure spring water mixed with cinnabar oil.
+ <b>Also appears in</b>   Oriental Adventures  Spell Compendium     

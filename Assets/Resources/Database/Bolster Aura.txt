@@ -1,0 +1,18 @@
+<b>Bolster Aura</b>(Complete Champion)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,  Paladin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature or object touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+The divine aura that surrounds you begins to swell, sending off waves of faux power into the ether.
+By casting bolster aura, you make the aura of the target creature or object stronger, possibly causing other creatures to assume that the target is more powerful than it actually is.
+For every two caster levels you possess, the target of a bolster aura spell appears to have 1 Hit Die more than it actually does.
+If the target has no aura, then bolster aura has no effect.
+   

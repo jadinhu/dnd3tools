@@ -1,0 +1,20 @@
+<b>Vile Death</b>(Heroes of Horror)
+
+Conjuration (Calling) [Evil]
+ <b>Level:</b>  Dread Necromancer 7,  Cleric 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Touch
+ <b>Target:</b> One corporeal undead creature
+ <b>Duration:</b> Permanent (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You summon the spirit of a fiend from the depths of Hell or the Abyss and bind it into the body of a corporeal undead creature.
+Binding the fiend applies the fiendish template (see page 108 of the Monster Manual) to the undead creature.
+The resulting creature is independent of you and can act on its own.
+Its initial attitude toward you is indifferent.
+Material Component: A bit of brimstone and a bloodstone worth at least 500 gp.
+XP Cost: 100 XP.
+ <b>Also appears in</b>   Spell Compendium  Savage Species     

@@ -1,0 +1,41 @@
+<b>Safety</b>(Spell Compendium, p. 179)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None or Will negates (harmless)
+ <b>Spell Resistance:</b> No or Yes (harmless)
+
+ 	
+<b>After an intonation and clasping of the subject creature, you grant it knowledge of where safety lies.</b>
+	
+The recipient of this spell can find the shortest, most direct direction to a place of safety, with safety being defined as a location where the individual is not taking immediate damage from the environment, and immediate damage is not imminent. It does not provide the means for the subject to move in that direction.
+	
+A safety spell points out the shortest distance out of a poisonous cloud, or the direction one should dig to reach the surface if entombed in earth. It does not function against the maze spell, because that spell deals no physical damage. Nor does the spell provide knowledge of or protection against the creatures that inhabit those safe places.
+	
+In the D&amp;D cosmology (<span class="caps">DMG</span> 150), safety has the following effects when cast on specific planes:
+	
+<b>Plane of Shadow:</b> Shortest route out of darklands.
+<b>Elemental Plane of Air:</b> Nearest windproof shelter, shortest route out of smoke bank.
+<b>Elemental Plane of Earth:</b> Nearest air pocket or open cavern.
+<b>Elemental Plane of Fire:</b> Shortest route out of magma pools or other unusually hot places.
+<b>Elemental Plane of Water:</b> Nearest pocket of breathable air; shortest route out of hot spot, ice pocket, or red tide.
+<b>Negative Energy Plane:</b> Nearest doldrum area with the minor negative-dominant trait.
+<b>Positive Energy Plane:</b> Nearest edge zone with the minor positive-dominant trait.
+<b>Limbo:</b> Nearest area of stabilized limbo.
+<b>Pandemonium:</b> Nearest shelter from a windstorm.
+<b>Carceri:</b> Shortest route out of a Minethys sandstorm.
+<b>Gehenna:</b> Nearest flat ledge, nearest shelter from Mungoth's acidic snow.
+<b>Nine Hells:</b> Nearest shelter from fireballs on Avernus, rockslides on Malbolge, or cold on Cania.
+<b>Acheron:</b> Nearest shelter from Ocanthus bladestorms.
+	
+On planes you create yourself, safety might provide other information.
+	
+This spell is mostly used in hostile environments, such as one of the Inner Planes, to locate the nearest pocket of habitable space.
+	
+If safety is cast and then followed by a <b>plane shift</b> spell (PH 262), the plane shift sends the subject of safety to a place of relative safety on that plane. It is transported to a pocket of air on the Elemental Plane of Water, for example, or a cool spot on the Elemental Plane of Fire.
+ <b>Also appears in</b>   Manual of the Planes     

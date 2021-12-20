@@ -1,0 +1,19 @@
+<b>Spiritual Advisor</b>(Complete Champion)
+
+Divination
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+When you chant the final words of your incantation, a soft, comforting voice seems to whisper in your ear, &quot;What knowledge may I impart to you?&quot;
+Spiritual advisor allows you to consult with a spirit, an angel, or some other divine aspect of your deity.
+This advisor manifests as a barely shimmering orb that floats above one of your shoulders.
+When it speaks, only you can hear its counsel.
+As long as the spiritual advisor is present, it helps you recall bits of trivia, history, or other knowledge.
+This knowledge can be as general or specific as is required, and the information gained grants you a +4 insight bonus on all Knowledge checks while the spell is in effect.
+You can even attempt checks with Knowledge skills in which you have no skill ranks or retry a Knowledge check you failed before casting the spell.
+   

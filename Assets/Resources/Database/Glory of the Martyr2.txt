@@ -1,0 +1,12 @@
+<b>Glory of the Martyr</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Paladin 4 (Ilmater),    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Target:</b> One creature/level
+
+ 	
+As shield other, except as noted above.
+All creatures are linked to you so you suffer half of their damage.
+If you die while this spell is in effect, the spell ends in a burst of positive energy that heals 1d8 hit points for each creature linked to you.
+ <b>Also appears in</b>   Book of Exalted Deeds  Player's Guide to FaerÃ»n     

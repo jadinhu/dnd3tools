@@ -1,0 +1,16 @@
+<b>Enduring Flight</b>(Races of the Wild)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,   Sky 3,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> See text
+
+ 	
+You can carry more weight aloft while flying, and your flight lasts longer than normal.
+You can fly at normal speed when wearing medium armor or carrying up to a medium load.
+If your ability to fly (whether natural or magical) has a limited duration, that duration is doubled.
+This spell lasts as long as you remain airborne; it ends the moment you land.
+   

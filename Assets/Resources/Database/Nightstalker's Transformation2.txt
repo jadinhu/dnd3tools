@@ -1,0 +1,19 @@
+<b>Nightstalker's Transformation</b>(Spell Compendium, p. 148)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+<b>Moving the potion you hold in a circle before you, you finish speaking the words of the spell before quaffing the potion in one gulp. A moment later you feel discomfort as your connection to the arcane energies of the world around you slips away. In its place, you find your mind and body filled with abilities you lacked before.</b>
+	
+You gain a +4 enhancement bonus to Dexterity, a +3 luck bonus to Armor Class, a +5 luck bonus on Reflex saving throws, a +5 competence bonus on Spot, Listen, Hide, and Move Silently checks, and proficiency with all simple weapons plus the hand crossbow, rapier, sap, shortbow, and short sword. You also gain the Weapon Finesse feat and the evasion ability (PH 50). You deal an extra 3d6 points of damage whenever you attack an opponent that you flank or an opponent denied its Dexterity bonus to Armor Class. This extra damage works like the rogue's sneak attack ability.
+	
+You lose your spellcasting ability for the duration of the spell, including your ability to use spell trigger or spell completion magic items, just as if the spells were no longer on your class list.
+	
+Material Component: A potion of cat's grace, which you drink (and whose effect is subsumed by this spell's effect).
+ <b>Also appears in</b>   Complete Adventurer     

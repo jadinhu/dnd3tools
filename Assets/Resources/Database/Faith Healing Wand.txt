@@ -1,0 +1,9 @@
+<b>Faith Healing Wand</b>(Champions of Valor)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>
+
+ 	
+This spell functions like convert wand (see page 53), except you always transform the wand into a wand of faith healing, no matter what spell the wand normally contains.
+   

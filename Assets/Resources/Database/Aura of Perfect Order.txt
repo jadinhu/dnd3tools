@@ -1,0 +1,15 @@
+<b>Aura of Perfect Order</b>(Tome of Battle: The Book of Nine Swords, p. 57)
+
+Devoted Spirit (Stance) [Law]
+ <b>Level:</b>  Crusader 6 (Two Devoted Spirit maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>A perfect, hazy square of golden energy surrounds you as you enter this stance. Order reigns supreme, driving away the whims of chaos.</b>
+	
+This stance allows you to treat a potential d20 result as an 11. You must decide to use this ability immediately before rolling the d20. You can use this ability once per round. Using this ability does not take an action. You simply decide to invoke it before rolling a d20 for any reason, such as for an attack, save, or check.
+   

@@ -1,0 +1,16 @@
+<b>Blindsight</b>(Player's Guide to FaerÃ»n)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Sorcerer 2,  Wizard 2,  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell grants the subject the blindsight ability out to 30 feet.
+(For details, see page 290 of the Dungeon Master's Guide).
+ <b>Also appears in</b>   Spell Compendium  Savage Species  Underdark  Magic of Faerun     

@@ -1,0 +1,19 @@
+<b>Balor Nimbus</b>(Spell Compendium, p. 24)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,   Abyss 4,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You smash the soot against your flesh and intone the ancient, dark words. Like the legendary balor, your body bursts into lurid flames.</b>
+	
+The flames created by this spell do not harm you or any equipment you carry or wear. Each round, the flames deal 6d6 points of fire damage to any creature grappling you (or any creature you grapple) on your turn.
+	
+<b>Arcane Material Component</b>: A pinch of soot.
+ <b>Also appears in</b>   Planar Handbook     

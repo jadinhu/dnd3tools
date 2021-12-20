@@ -1,0 +1,18 @@
+<b>Warning Shout</b>(Magic of Faerun)
+
+Transmutation [Sonic]
+ <b>Level:</b>  Paladin 1 (Arvoreen),    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> See text
+ <b>Area:</b> See text
+ <b>Duration:</b> 1 round (see text)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You speak up to five words, which are magically amplified to be heard by all hearing creatures within half a mile.
+All within the area hear the words as loud as you spoke them.
+The spell does not harm people who hear it and cannot transmit magical effects (such as a harpy's song, sonic spells, or charm effects), although a creature already affected by a magical effect (such as a suggestion) could respond to a nonmagical trigger word deployed by a warning shout.
+Anyone sleeping naturally (as opposed to magically induced sleep, such as from a sleep spell) within the area is woken by the warning shout.
+ <b>Also appears in</b>   Spell Compendium     

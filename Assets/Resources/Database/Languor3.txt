@@ -1,0 +1,19 @@
+<b>Languor</b>(Spell Compendium, p. 130)
+
+Transmutation
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a low thrumming sound, a blue beam lances from your finger to strike your foe and weaken him.</b>
+	
+You must succeed on a ranged touch attack with the ray to strike a target. This ray causes creatures it hits to become weak and slow for the spell's duration. A struck creature takes a penalty to Strength equal to 1d6+1 per two caster levels (maximum 1d6+10). In addition, a subject that fails a Will save is slowed.
+	
+The spell's slow effect counters and is countered by haste.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Divine     

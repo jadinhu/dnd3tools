@@ -1,0 +1,21 @@
+<b>Opportune Dodge</b>(Complete Scoundrel)
+
+Abjuration
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Uttering a rapid series of words and reaching out your hand, you surround your comrade with a thin, blurry haze.
+Any time the subject of this spell might provoke attacks of opportunity, he can choose to activate this spell's effect (this does not require an action).
+Upon doing so, he contorts or moves so swiftly as to deny one opponent one attack of opportunity.
+Because the opponent never makes its attack of opportunity, its total number of attacks of opportunity per round is not reduced.
+Once the subject negates an attack of opportunity in this way, the spell ends.
+It is possible for the subject to provoke an attack of opportunity, activate this spell's effect to cancel it, and then provoke and be susceptible to another attack of opportunity in the same round.
+The subject does not have to activate the spell's effect to negate the first attack of opportunity he provokes but can save the effect until he chooses to use it or the duration ends.
+   

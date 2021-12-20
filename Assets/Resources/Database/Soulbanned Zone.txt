@@ -1,0 +1,20 @@
+<b>Soulbanned Zone</b>(Magic of Incarnum)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Area:</b> 40-ft. radius emanating from the touched point
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create an immobile area within which no incarnum can be used.
+All soulmelds are suppressed within the soulbanned zone.
+Essentia cannot be invested or reallocated by any creature within the area; currently invested essentia has no effect inside the zone.
+Incarnum creatures are not otherwise affected by the soulbanned zone (they can enter normally).
+Only creatures entirely within the soulbanned zone are affected.
+Should a creature be larger than the area enclosed by the soulbanned zone (or only partially within it), it can use its essentia incarnum-based abilities normally.
+   

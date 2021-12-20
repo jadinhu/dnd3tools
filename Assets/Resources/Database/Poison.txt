@@ -1,0 +1,15 @@
+<b>Poison</b>(Player's Handbook v.3.5, p. 262)
+
+Necromancy
+ <b>Level:</b>  Assassin 4, Blackguard 4, Druid 3,  Warmage 3,  Blighter 3,  Death Master 3,  Urban Druid 3,  Cleric 4,  Dread Necromancer 4,   Slime 3,  Abyss 4,  Pestilence 4,  Scalykind 4,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous; see text
+ <b>Saving Throw:</b> Fortitude negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Calling upon the venomous powers of natural predators, you infect the subject with a horrible poison by making a successful melee touch attack. The poison deals 1d10 points of temporary Constitution damage immediately and another 1d10 points of temporary Constitution damage 1 minute later. Each instance of damage can be negated by a Fortitude save (DC 10 + 1/2 your caster level + your Wis modifier).
+   

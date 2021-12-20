@@ -1,0 +1,23 @@
+<b>Mordenkainen's Private Sanctum</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 30-ft. cube/level (S)
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell insures privacy.
+Anyone looking into the area from outside sees only a dark, foggy mass.
+Darkvision cannot penetrate it.
+No sounds, no matter how loud, can escape the area, so nobody can eavesdrop from outside.
+Those inside can see out normally.
+Magical scrying or divination attempts, such as detect thoughts, clairaudience/clairvoyance, or scrying, cannot penetrate the protected area, and an arcane eye cannot get inside.
+The ward prevents speech between those inside and those outside (because it blocks sound), but it does not prevent other sorts of communication, such as sending or message spells, or empathic communication between a master and a familiar.
+Nor does it prevent creatures or objects from moving into and out of the area.
+Material Components: A thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite.
+ <b>Also appears in</b>   Player's Handbook v.3.5     

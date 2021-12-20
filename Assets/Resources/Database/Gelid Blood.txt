@@ -1,0 +1,18 @@
+<b>Gelid Blood</b>(Frostburn)
+
+Necromancy [Cold]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Cold energy surges through the target's body, congealing the blood in the creature's extremities.
+This effect causes a <del>4 penalty on attacks, Armor Class, and all Strength</del> and Dexterity-related checks, and anyone casting a spell with a somatic component has a 50% chance of spell failure for the duration of the spell.
+If the target makes its Fortitude save, the creature only takes a -2 penalty on attacks, Armor Class, and all Strength-and Dexterity-related checks and has only a 25% chance of spell failure for spells with a somatic component.
+Material Component: A pinch of flour.
+   

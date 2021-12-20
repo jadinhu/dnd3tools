@@ -1,0 +1,23 @@
+<b>Stone Sphere</b>(Spell Compendium, p. 209)
+
+Evocation [Earth]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One 5-ft.-diameter stone sphere
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You toss the marble in the air, and it vanishes as you speak the words of the spell. A larger version of the marble, five feet across, appears in the hallway and bears down on your foe.</b>
+	
+You create a smoothly polished, 5-foot-diameter sphere of stone that moves under your control at a speed of 30 feet. A stone sphere has AC 5, hardness 8, and 500 hit points.
+	
+In the round when you cast the spell, the stone sphere appears at the spot you designate within the spell's range, and you can direct its movement as a free action. In subsequent rounds, you must actively direct the stone sphere in order to move it; otherwise, it remains motionless. Directing the movement of a stone sphere in any round after its initial appearance requires a move action.
+	
+If you move a stone sphere into a square occupied by an enemy, it stops moving and deals 1d6 points of damage per two caster levels (maximum 5d6) to every creature in that square. A successful Reflex save negates the damage.
+	
+Material Component: A smooth sphere of marble 1 inch in diameter.
+ <b>Also appears in</b>   Underdark     

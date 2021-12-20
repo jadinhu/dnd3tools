@@ -1,0 +1,17 @@
+<b>Orb of Electricity, Lesser</b>(Spell Compendium, p. 151)
+
+Conjuration (Creation) [Electricity]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One orb of electricity
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>The air crackles around your outstretched hand and the smell of ozone assaults your nostrils as a ball of electrical energy, its surface crackling with bolts of lightning, streaks from your open palm.</b>
+	
+This spell functions like <b>lesser orb of acid</b>, except that it deals electricity damage.
+ <b>Also appears in</b>   Complete Arcane     

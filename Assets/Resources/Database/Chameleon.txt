@@ -1,0 +1,19 @@
+<b>Chameleon</b>(Complete Arcane)
+
+Illusion (Glamer)
+ <b>Level:</b>  Druid 2,  Wu Jen 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell alters the coloration of the recipient's body and clothing so as to blend in with the surrounding background, granting the creature a +10 circumstance bonus on any Hide checks.
+In areas where the background changes gradually (such as stepping from forest to green field), the coloration shifts quickly enough to grant the bonus while moving at up to one-half normal speed.
+When the background changes abruptly (from forest to stone wall, for example), the creature loses the
+circumstance bonus for 1 round while the coloration change takes effect.
+Material Component: The shed skin of a small lizard.
+ <b>Also appears in</b>   Oriental Adventures     

@@ -1,0 +1,16 @@
+<b>Blood Wind</b>(Spell Compendium, p. 33)
+
+Evocation
+ <b>Level:</b>  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> A single creature with Intelligence 4 or higher
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>After you complete the spell, the subject's limbs ripple with power and grow slightly in length.</b>
+	
+The subject can take a full attack action to use all of its natural weapons or unarmed strikes as if they were thrown weapons with a 20-foot range increment. The subject gestures as if making a melee attack, but the result of the attack affects a target within range. This spell does not actually grant reach, and so does not help provide a flanking bonus or allow the subject to make attacks of opportunity at any range greater than normal. The subject uses its normal melee attack bonuses and deals damage normally if it hits, though the target of the attacks can benefit from cover or concealment.
+ <b>Also appears in</b>   Savage Species     

@@ -1,0 +1,21 @@
+<b>Soul of Shadow</b>(Dragon Magic)
+
+Transmutation [Evil]
+ <b>Level:</b>  Blackguard 2,  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour
+
+ 	
+Flecks of darkness whirl in your eyes, and your shadow seems to grow and writhe, echoing darkness within you.
+This spell infuses your body with energy drawn from the Negative Energy Plane.
+Whenever you cast or are the target of an inflict spell, you can choose for the spell to deal a number of extra points of damage equal to twice the spell's level.
+(Only undead casters typically choose for such spells to &quot;deal&quot; extra damage to them).
+If you cast such a spell that deals at least 10 points of damage to any one target, it also removes the fatigued condition from you (or reduces exhaustion to fatigue).
+If soul of shadow and soul of anarchy are active on you at the same time, you gain damage reduction 3/good or lawful.
+If soul of shadow and soul of order are active on you at the same time, you gain damage reduction 3/chaotic or good.
+Soul of shadow counters and dispels soul of light, and vice versa.
+Special: An evil-aligned dragon capable of casting 5th-level sorcerer spells can cast this spell as a swift action.
+   

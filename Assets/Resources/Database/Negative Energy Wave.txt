@@ -1,0 +1,23 @@
+<b>Negative Energy Wave</b>(Enemies and Allies)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 50 ft.
+ <b>Effect:</b> 50-ft.-radius burst, centered on you
+ <b>Duration:</b> Instantaneous (see text)
+ <b>Saving Throw:</b> Will negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You release a silent burst of negative energy from your body.
+You can affect up to 1d6 hit dice worth of undead creatures per level (maximum 15d6).
+Those closest to you are affected first; among equidistant undead creatures, weaker ones are affected first.
+The spell has one of two effects, which you select when you cast it.
+Rebuked: The undead creatures cower as if in awe.
+(Treat them as stunned).
+The effect lasts 10 rounds.
+Bolstered: Undead creatures gain turn resistance of 1d4 plus your Charisma modifier (minimum +1).
+The effect lasts 10 rounds.			First appeared in Tome and Blood.	
+ <b>Also appears in</b>   Tome and Blood: A Guidebook to Wizards and Sorcerers     

@@ -1,0 +1,30 @@
+<b>Shadow Double</b>(Drow of the Underdark)
+
+Illusion (Shadow)
+ <b>Level:</b>  Assassin 1,  Hexblade 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One shadowy duplicate
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will disbelief
+ <b>Spell Resistance:</b> No
+
+ 	
+You complete the incantation and nearby shadows gather together, assuming your approximate size and shape.
+You create a shadowy duplicate of yourself at a place you indicate within range.
+The shadow double attacks any adjacent target (regardless of the weapon it appears to wield), as you desire, starting in the round when you cast the spell.
+It attacks on your turn once each round, striking with an attack bonus equal to your base attack bonus + the modifier for your spell save DCs.
+Each hit deals 1 point of Strength damage to the target.
+The first time a target is hit, it can attempt a Will save to disbelieve the effect; this negates the damage and renders it immune to further attacks by the shadow double.
+The shadow double occupies a space identical to yours.
+It is not incorporeal, and thus can't share a space with another creature or object.
+It can provide a flanking bonus against any creature that hasn't yet saved successfully against it.
+The shadow double can strike incorporeal creatures, but not ethereal creatures.
+Each round after the first, you can use a standard action to direct the shadow double to attack any other target.
+To attack this new target, the shadow double can move to any new legal space within 30 feet (it moves by instantaneous teleportation).
+If it is not commanded to switch targets, it continues to attack the same target.
+A shadow double can be attacked.
+It has an Armor Class equal to 10 + your size modifier + a deflection bonus equal to the modifier for your spell save DCs, and has one-fifth of your full normal hit points.
+If the shadow double is reduced to 0 hit points, or if you create a second shadow double when the first still exists, the spell ends.
+   

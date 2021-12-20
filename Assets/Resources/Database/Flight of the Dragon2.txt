@@ -1,0 +1,21 @@
+<b>Flight of the Dragon</b>(Spell Compendium, p. 95)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+<b>The wing-claw vaporizes in a puff of acrid smoke, and you feel the muscles of your shoulders warm from the eldritch energies coursing within. Great draconian wings unfurl from your shoulders and reach toward the sky.</b>
+	
+A powerful pair of wings sprout from your shoulders, granting you a fly speed of 100 feet (average). You can't carry aloft more than a light load.
+	
+When flying long distances, you can fly at 15 miles per hour (or 24 miles per hour at a hustle).
+	
+<b>Material Component:</b> A dragon's wing claw.
+	
+<b>Special:</b> Sorcerers cast this spell at +1 caster level.
+   

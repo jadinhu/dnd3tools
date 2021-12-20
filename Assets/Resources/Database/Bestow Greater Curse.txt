@@ -1,0 +1,21 @@
+<b>Bestow Greater Curse</b>(Book of Vile Darkness)
+
+Transmutation
+ <b>Level:</b>  Demonologist 3,  Bard 6,  Cleric 7,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster places a curse on the creature touched, choosing one of the following three effects:			One ability score is reduced to 1, or two ability scores take -6 penalties (to a minimum score of 1).		-8 penalty on attack rolls, saving throws, ability checks, and skill checks.		Each turn, the subject has a 25% chance to act normally; otherwise, he takes no action.	
+A player may invent a new curse, but it should be no more powerful than those listed above, and the Dungeon Master (DM) has final say on the curse's effect.
+A greater curse cannot be dispelled, nor can it can be removed with a break enchantment, limited wish, or remove curse spell.
+A miracle or wish spell removes the greater curse, and any particular greater curse can be removed if the subject performs some deed that the caster designates.
+The deed must be something that the subject can accomplish within one year (assuming he undertakes it immediately).
+For example, the deed might be &quot;Slay the dragon under Castle Bluecraft&quot;, or &quot;Climb the tallest mountain in the world&quot;.
+The cursed victim can have help accomplishing the task, and in some cases another character can lift the curse (see the Curses section of Chapter 2 for guidelines).
+   

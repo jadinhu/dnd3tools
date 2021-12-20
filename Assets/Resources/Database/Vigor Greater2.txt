@@ -1,0 +1,15 @@
+<b>Vigor, Greater</b>(Spell Compendium, p. 229)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 5,  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 10 rounds + 1 round/level (max 35 rounds)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell functions like <b>lesser vigor</b>, except as noted here and that it grants fast healing 4.
+ <b>Also appears in</b>   Complete Divine     

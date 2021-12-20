@@ -1,0 +1,21 @@
+<b>Bleed</b>(Complete Champion)
+
+Necromancy
+ <b>Level:</b>  Blackguard 4,  Cleric 5,  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your touch thins the blood of your target, causing it to spill with unnatural ease.
+For the duration of the spell, the subject bleeds profusely through any open wound.
+Each new hit from a piercing or slashing weapon or effect that deals damage to the subject also deals 1 point of Constitution damage.
+This ability damage is not multiplied on a critical hit.
+Because this spell thins the subject's blood, repeated uses cause additional difficulty.
+In addition to the extra damage, a target subjected to a second use of this spell before the first has expired also takes a -4 penalty on Fortitude saves against disease, poison, or the sickened and nauseated conditions.
+Creatures with no discernible anatomy (such as plants and oozes) and those immune to critical hits (such as undead and constructs) are immune to this spell.
+   

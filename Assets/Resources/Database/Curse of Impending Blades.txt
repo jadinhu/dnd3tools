@@ -1,0 +1,18 @@
+<b>Curse of Impending Blades</b>(Miniatures Handbook)
+
+Necromancy
+ <b>Level:</b>  Bard 2,  Ranger 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject of the spell has a hard time avoiding attacks, sometimes even seeming to stumble into harm's way.
+The subject takes a -2 penalty to AC.
+The curse cannot be dispelled, but it can be removed with a break enchantment, limited wish, miracle, remove curse, or wish spell.
+Arcane Material Component: A nail through a piece of leather.
+   

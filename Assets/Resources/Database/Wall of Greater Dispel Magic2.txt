@@ -1,0 +1,9 @@
+<b>Wall of Greater Dispel Magic</b>(Underdark)
+
+Abjuration
+ <b>Level:</b>  Bard 5,  Cleric 8,  Druid 8,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>
+
+ 	
+This spell functions like wall of dispel magic, except that the effect is that of greater dispel magic.
+ <b>Also appears in</b>   Spell Compendium     

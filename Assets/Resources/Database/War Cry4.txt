@@ -1,0 +1,17 @@
+<b>War Cry</b>(Spell Compendium, p. 236)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You jab your weapon into the air as if in triumph, letting out a cry of victory before you have even made your attack. Foes around you seem surprised by your display even as the feeling grows within you that you cannot fail.</b>
+	
+You gain a +4 morale bonus on attack rolls and damage rolls made as part of a charge.
+	
+If you deal damage with a charge attack, your foe must succeed on a Will save or become panicked for 1 round (spell resistance applies to this effect).
+ <b>Also appears in</b>   Ghostwalk  Magic of Faerun  Complete Adventurer     

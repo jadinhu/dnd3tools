@@ -1,0 +1,25 @@
+<b>True Prayer of the Faithful</b>(Tome of Magic)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Paladin 2,    
+<b>Components:</b>V, DF, <abbr title="True Name">TN, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One or more creatures, no two of which are more than 30 ft. apart; see text
+ <b>Duration:</b> 1 round/level; see text
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Raising your eyes to the skies, you concentrate on a brief prayer using the true language of the universe, using truename power to ask for the favor of your patron deity.
+A flashing, brassy mote of energy spins around those you target.
+When you cast true prayer of the faithful, you ask your patron deity to give your allies (possibly including yourself) a measure of divine aid.
+The subjects of this spell gain a +1 luck bonus on attack rolls, weapon damage rolls, saves, and skill checks.
+This spell automatically affects a single target if you succeed on the required Truespeak check.
+But the higher your Truespeak check result, the more creatures you can affect (see below).
+Truename Component: When you cast this spell, you must correctly speak a truename associated with your deity.
+You learn this truename when you learn this spell.
+It's not your deity's truename, but a term associated with divine assistance.
+The Truespeak DC is 20, and you can have the true prayer of the faithful affect one additional creature for every 5 points by which you exceed the Truespeak DC.
+In addition, you gain an extra round of duration for every personal truename of a target creature you speak during the casting of the spell; your patron deity is better able to identify and assist your friends if you tell the deity their personal truenames.
+   

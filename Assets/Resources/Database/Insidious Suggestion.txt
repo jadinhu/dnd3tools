@@ -1,0 +1,21 @@
+<b>Insidious Suggestion</b>(Races of Eberron, p. 187)
+
+Enchantment (Compulsion) [Language-Dependent, Mind-Affecting, Mindset]
+ <b>Level:</b>  Bard 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Despite their peaceful and cheerful demeanor, the gnomes of Zilargo practice many subtle techniques to ensure that negotiations and social interactions work out in their favor. Although it is typically used only as a last resort when nonmagical negotiating (or blackmail) fails, the insidious suggestion spell comprises a powerful part of gnome negotiating strategy.
+	
+When you cast this spell, it functions just like a <b>suggestion</b> spell (page 285 of the Player's Handbook), except that if the target makes its saving throw, the same suggestion is repeated on your turn in each subsequent round (maximum 1 round per caster level). The target creature must make another saving throw each round or be affected by the suggestion, acting out the specified course of action for up to 1 hour per caster level or until the action is completed (as per the suggestion spell).
+	
+<b>Special:</b> Gnome spellcasters cast this spell at +1 caster level.
+	
+<b>Mindset:</b> The energies you manipulate while preparing this spell enhance your force of personality, granting you a +2 competence bonus on Bluff, Diplomacy, and Intimidate checks.
+   

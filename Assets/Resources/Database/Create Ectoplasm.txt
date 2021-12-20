@@ -1,0 +1,18 @@
+<b>Create Ectoplasm</b>(Ghostwalk)
+
+Conjuration (Creation) [Ectomancy]
+ <b>Level:</b>  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Effect:</b> 1 lb. of raw ectoplasm/level
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create raw ectoplasm.
+The ectoplasm forms from your hands, eyes, or mouth, and may be pale gray, light blue, light green, or pale yellow.
+You may create sticky or slippery ectoplasm.
+The ectoplasm does not vanish until the spell duration has expired, but if the spell is dispelled and the ectoplasm has been in existence for more than 10 minutes, it vanishes instantly.
+   

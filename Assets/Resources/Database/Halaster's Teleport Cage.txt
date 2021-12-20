@@ -1,0 +1,22 @@
+<b>Halaster's Teleport Cage</b>(City of Splendors: Waterdeep)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 feet +5 ft./2 levels)
+ <b>Area:</b> One 10-ft. cube per level
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell modifies the functioning of all conjuration (teleportation) spells and spell-like abilities, including dimension door, greater teleport, refuge, teleport, teleportation circle, and word of recall, into, out of, and within its area.
+If cast in an area adjoining or overlapping another teleport cage, the effects of both spells merge to create a single teleport cage.
+Undermountain, the greatest dungeon of FaerÃ»n, is believed to have been enclosed within the largest teleport cage in existence in the Realms by means of this effect.
+When cast within a teleport cage, such translocation spells simply transport all affected creatures and objects to another random location within the teleport cage.
+For example, if a wizard casts teleport within the confines of Undermountain, the encompassing teleport cage would cause him to appear at another random location within the great dungeon.
+When a caster outside the area encompassed by a teleport cage attempts to teleport into it, this spell redirects their destination to another random location reachable by the spell.
+For example, if a 9th-level wizard in Waterdeep attempted to teleport into the depths of Undermountain, the teleport cage would cause him to appear at another random location within 900 miles of the place where he cast the spell.
+Material Component: Diamond dust worth 1,000 gp.
+   

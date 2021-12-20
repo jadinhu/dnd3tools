@@ -1,0 +1,15 @@
+<b>Spider Form</b>(Drow of the Underdark)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Swift Action
+ <b>Range:</b> Person
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+<b>Your body bloats and writhes until eight massive spider legs burst through your flesh. As the transformation finishes, your skin hardens into a dark exoskeleton.</b>
+	
+As <b>lesser spider form</b>, except you take on the form and abilities of a Large fiendish monstrous spider (MM 289). You are treated as having the spider's Hit Dice (4) for the purpose of adjudicating the special abilities gained from the fiendish template.
+   

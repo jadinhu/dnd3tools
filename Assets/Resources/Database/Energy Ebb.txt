@@ -1,0 +1,16 @@
+<b>Energy Ebb</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates; see text
+
+ 	
+This spell functions like enervation (see page 226 of Player's Handbook), except the creature struck gains negative levels over an extended period.
+You point your finger and utter the incantation, releasing a black needle of crackling negative energy that suppresses the life force of any living creature it strikes.
+You must make a ranged touch attack to hit.
+If the attack succeeds, the subject initially gains one negative level, then continues to gain another negative level each round thereafter as her life force slowly bleeds away.
+The drain can only be stopped by a successful Heal check (DC 23) or the application of a heal, restoration or greater restoration spell.
+If the black needle strikes an undead creature, that creature gains 4d4x;5 temporary hit points that last for up to 1 hour.
+ <b>Also appears in</b>   Spell Compendium     

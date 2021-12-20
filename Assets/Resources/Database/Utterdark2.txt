@@ -1,0 +1,18 @@
+<b>Utterdark</b>(Lords of Madness)
+
+Conjuration (Creation) [Evil]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,   Vile darkness 8,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 3 rounds
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 100-ft./level radius spread
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Utterdark spreads outward from you, creating an area of cold, cloying magical darkness.
+This darkness is similar to that created by the deeper darkness spell, but it cannot be dispelled by magical light (although a light spell or similar effect of equal or higher level can temporarily suppress the utterdark where their areas overlap, restoring normal illumination to the affected area for as long as the light spell or effect lasts).
+Furthermore, evil-aligned creatures can see in this darkness as if it were simply a dimly lighted area.
+Arcane Material Component: A black stick, 6 inches long, with humanoid blood smeared upon it.
+ <b>Also appears in</b>   Book of Vile Darkness     

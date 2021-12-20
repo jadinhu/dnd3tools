@@ -1,0 +1,15 @@
+<b>Visage of the Deity, Lesser</b>(Spell Compendium, p. 231)
+
+Transmutation [Good or Evil]
+ <b>Level:</b>  Cleric 3,  Blackguard 4,  Paladin 4,   Mysticism 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>As you end your prayer, you can feel the hand of your deity upon you. Your appearance reflects her divine power, and her touch grants you resistance from some of the damage of this world.</b>
+	
+You gain a +4 enhancement bonus to Charisma. You also gain resistance to acid 10, cold 10, and electricity 10 if you are good, or resistance to cold 10 and fire 10 if you are evil.
+   

@@ -1,0 +1,17 @@
+<b>Ray of Light</b>(Spell Compendium, p. 167)
+
+Evocation [Light]
+ <b>Level:</b>  Bard 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your palm emits a ray of light. The ray gives off a soft, continuous glow.</b>
+	
+You direct a short ray at the eyes of a target. You must succeed on a ranged touch attack with the ray to strike a target. With a successful ranged touch attack, the subject is blinded for 1d4 rounds.
+   

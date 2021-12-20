@@ -1,0 +1,17 @@
+<b>Resonating Bolt</b>(Complete Arcane)
+
+Evocation [Sonic]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,  Bard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft. line
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You unleash a tremendous bolt of sonic energy from your open hand, dealing 1d4 points of sonic damage per caster level (maximum 10d4) to each creature within its area.
+In addition, a resonating bolt deals full damage to objects and can easily shatter or break interposing barriers.
+If the bolt destroys a barrier, it can continue beyond it if its range permits; otherwise, it stops.
+ <b>Also appears in</b>   Spell Compendium     

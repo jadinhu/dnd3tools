@@ -1,0 +1,25 @@
+<b>Corporeal Instability</b>(Planar Handbook)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your touch transforms a living creature into a spongy, amorphous mass, its shape melting and writhing uncontrollably.
+An affected creature is unable to hold or use any item.
+Clothing, armor, rings, and helmets become useless.
+Large items worn or carried � ;armor, backpacks, and even shirts � ;hamper more than help, reducing the victim's Dexterity score by 4.
+Soft or misshapen feet and legs reduce speed to 10 feet or one-quarter normal, whichever is less.
+The victim becomes blind and cannot cast spells or use magic items, and searing pain renders it incapable of attacking.
+While in this form, the creature has immunity to extra damage from critical hits and sneak attacks due to its amorphous nature.
+Each round the victim spends in an amorphous state causes 1 point of Wisdom drain from mental shock.
+If the victim's Wisdom score is reduced to 0, it falls unconscious.
+A conscious victim can regain its own shape by taking a standard action to attempt a new Fortitude save.
+Success ends the spell effect.
+ <b>Also appears in</b>   Spell Compendium     

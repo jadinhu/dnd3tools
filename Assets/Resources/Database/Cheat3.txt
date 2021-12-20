@@ -1,0 +1,21 @@
+<b>Cheat</b>(Spell Compendium, p. 46)
+
+Transmutation
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,   Greed 1,   
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level or until discharged
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You rattle the dice in your hand and mutter the words of the spell, then check your facedown cards again. The two low cards have somehow become trumps.</b>
+	
+At one point during the duration of this spell, you can attempt to alter the outcome of a game of chance. This spell can affect only nonmagical games, such as those using cards or dice. It cannot affect a game involving magic, nor a magic item involved in a game of chance (such as a <b>deck of many things</b>). Whenever a dice roll is made to determine the outcome of the game, a character under the effect of this spell can demand a reroll and take the better of the two rolls.
+	
+Anyone observing the game of chance is allowed a Will saving throw to realize something fishy is going on, and might suspect that the outcome of the game has been magically altered. For example, Darkon is playing a game that he has a 1 in 4 chance of winning. The DM secretly rolls 1d4 and tells the player that Darkon lost. Because Darkon is under the effect of a <b>cheat</b> spell, the player can have the DM reroll. The spell alters probability, so there is no subterfuge that another character could notice (except for the casting of the spell itself).
+	
+<b>Focus:</b> A pair of dice made from human bones.
+ <b>Also appears in</b>   Draconomicon  Book of Vile Darkness     

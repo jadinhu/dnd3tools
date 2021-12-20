@@ -1,0 +1,18 @@
+<b>Warcry</b>(Book of Exalted Deeds)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Champion of Gwynharwyf 2,  Bard 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Effect:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You unleash a tremendous battle cry that causes creatures
+within a 30-foot cone to cower in fear for 1d4 rounds.
+Any creature that fails its Fortitude save loses its Dexterity bonus to AC and can take no actions.
+Foes gain a +2 bonus to hit cowering creatures.
+   

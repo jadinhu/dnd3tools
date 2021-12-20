@@ -1,0 +1,19 @@
+<b>Servant Horde</b>(Spell Compendium, p. 182)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Invisible, mindless, shapeless servants
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>As you complete this spell, you sense a number of invisible entities form around you.</b>
+	
+This spell creates a number of <b>unseen servants</b> (PH 297) equal to 2d6 +1 per level (maximum +15).
+	
+Material Component: A small stick to which many lengths of knotted thread are attached.
+ <b>Also appears in</b>   Complete Arcane  Oriental Adventures     

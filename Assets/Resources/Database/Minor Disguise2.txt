@@ -1,0 +1,15 @@
+<b>Minor Disguise</b>(Spell Compendium, p. 142)
+
+Transmutation
+ <b>Level:</b>  Bard 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour
+
+ 	
+<b>Your fingertips glow blue, and you add a few details to enhance your disguise.</b>
+	
+You use magic to make minor, cosmetic changes in your appearance. The spell does not change the actual structure of either your features or body. It can add color to hair, paint wrinkles upon your face, give you a scar, or darken your teeth. This spell gives you a +2 competence bonus on the next Disguise check you make during its duration.
+ <b>Also appears in</b>   Magic of Faerun     

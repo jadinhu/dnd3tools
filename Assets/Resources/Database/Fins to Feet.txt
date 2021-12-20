@@ -1,0 +1,17 @@
+<b>Fins to Feet</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell transforms tails or finned extremities into humanoid legs and feet.
+Transformed Medium-size creatures have a land speed of 30 feet, Small and smaller creatures have a land speed of 20 feet, and Large and larger creatures have a land speed of 40 feet.
+This is a common spell among merfolk, naga, and tritons.
+ <b>Also appears in</b>   Stormwrack     

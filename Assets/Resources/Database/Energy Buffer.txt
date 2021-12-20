@@ -1,0 +1,26 @@
+<b>Energy Buffer</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> You
+ <b>Duration:</b> 24 hours or until discharged
+
+ 	
+This abjuration grants you protection against damage from any type of energy: acid, cold, electricity, fire, or sonic.
+The spell protects your equipment as well.
+Whenever you are exposed to energy damage, a multi-hued aura covers your body and absorbs up to 1d6 points per caster level (maximum 15d6) of whatever type of energy triggered the effect.
+The protective aura lasts for 1 round or until it absorbs all the damage it can, whichever comes first.
+Once the aura begins absorbing damage, you cannot change the type of damage it absorbs.
+Energy buffer overlaps (and does not stack with) endure elements, resist elements, and protection from elements.
+If you are warded by energy buffer and one or more of the other spells, the energy buffer spell absorbs damage until it is exhausted, no matter what type of energy the other spells ward against.
+If you are subjected to a second type of energy after energy buffer is activated, any warding spell that protects you from the second type of energy is still effective.
+For example, Mialee casts energy buffer on herself and also receives protection from elements (fire) and resist elements (cold) from Jozan.
+Later, a white dragon and a group of ogres ambush Mialee's party.
+The ogres hurl flasks of alchemist's fire at Mialee, which triggers her energy buffer spell.
+The buffer easily absorbs all the fire damage Mialee would have suffered, and the protection from elements (fire) spell absorbs nothing.
+Later, in the surprise round, the white dragon looses its breath weapon.
+Because Mialee's energy buffer spell is absorbing fire damage, it is ineffective against the cold damage the dragon's breath weapon deals, but Mialee still gets the benefit of the resist elements (cold) spell.
+   

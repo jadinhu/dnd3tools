@@ -1,0 +1,19 @@
+<b>Hibernate</b>(Frostburn)
+
+Necromancy
+ <b>Level:</b>  Cleric 5,  Druid 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 week/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You put a creature into a state of suspended animation, slowing its life functions to almost imperceptible levels and allowing a creature to survive for weeks without food or water.
+This suspension of life functions automatically stabilizes a dying creature, and it can save starving or dehydrated creatures from death.
+Creatures affected by a hibernate spell have a slower metabolism, healing wounds at a rate of just 1 hit point per level per week.
+If the target is unwilling, it is entitled a Will saving throw.
+A successful saving throw negates the effect of the spell; a failure allows the target an additional saving throw whenever it takes damage, when it is splashed with water or other liquids, or when 24 hours pass, whichever comes first.
+   

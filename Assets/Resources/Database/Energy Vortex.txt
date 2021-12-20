@@ -1,0 +1,18 @@
+<b>Energy Vortex</b>(Complete Divine)
+
+Evocation [Acid, Cold, Electricity, Fire, Sonic]
+ <b>Level:</b>  Cleric 4,  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> All creatures within a 20-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast energy vortex, you choose one of five energy types: acid, cold, fire, electricity, or sonic.
+A blast of that energy type bursts in all directions from you, dealing 1d8 points of damage +1 point per caster level (maximum +20) to nearby creatures other than you.
+If you are willing to take the damage yourself, you deal twice as much damage.
+You don't get a Reflex save, but spell resistance applies, as do any resistances and immunities you have to the energy type.
+ <b>Also appears in</b>   Spell Compendium     

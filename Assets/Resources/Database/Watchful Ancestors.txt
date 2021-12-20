@@ -1,0 +1,17 @@
+<b>Watchful Ancestors</b>(Magic of Eberron, p. 103)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Bard 4,  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+You are surrounded by manifestations of the spirits of your long-dead ancestors, which provide you with protection in battle. Opponents gain no bonus from flanking you, as if you had the improved uncanny dodge ability (see the barbarian class feature on page 26 of the Player's Handbook; use your caster level in place of barbarian levels for the purpose of determining whether a rogue can sneak attack you).
+	
+In addition, while this spell is in effect, you add your caster level as an insight bonus on any one Reflex save. Using this function is an immediate action and must be declared before the save is rolled. Using this ability immediately ends the spell, since the protective manifestations expend themselves to provide you with the sudden burst of insight.
+	
+<b>Arcane Material Component:</b> A shred of a burial shroud.
+   

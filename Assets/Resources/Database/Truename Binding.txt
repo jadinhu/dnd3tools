@@ -1,0 +1,16 @@
+<b>Truename Binding</b>(Tome of Magic)
+
+Conjuration (Calling)
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, <abbr title="Experience">XP, <abbr title="True Name">TN, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels); see lesser planar binding text
+ <b>Target:</b> One elemental or outsider of CR 10 or less
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> No and yes; see lesser planar binding text
+
+ 	
+This spell functions like lesser truename binding, except that you can call a single creature of CR 10 or less.
+XP Cost: 200 XP.
+   

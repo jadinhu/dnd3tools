@@ -1,0 +1,17 @@
+<b>Mountain Avalanche</b>(Tome of Battle: The Book of Nine Swords, p. 84)
+
+Stone Dragon (Strike)
+ <b>Level:</b>  Crusader 5 (Two Stone Dragon maneuvers),  Swordsage 5 (Two Stone Dragon maneuvers),  Warblade 5 (Two Stone Dragon maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Saving Throw:</b> Reflex half; see text
+
+ 	
+<b>You wade through your enemies like a stone giant rampaging through a mob of orcs. You crush them underfoot and drive them before you, leaving a trail of the dead in your wake.</b>
+	
+As part of this maneuver, you can move up to double your speed and trample your opponents. You can enter the space of any creature of your size category or smaller. If you enter and occupy all of the space occupied by such a creature, it takes damage equal to 2d6 + 1-1/2 times your Str bonus (if any).
+	
+You can deal trampling damage to a creature only once per round, no matter how many times you move into or through its space. You must move into every square a creature occupies to trample it. If you move over only part of the space a creature occupies (for example, you are a Large creature moving over half the space of a Large opponent), it can either attempt an attack of opportunity against you or it can attempt a Reflex save (DC 15 + your Str modifier) to avoid half of your trampling damage.
+   

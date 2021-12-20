@@ -1,0 +1,14 @@
+<b>Darkvision, Mass</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>
+ <b>Range:</b> 10 feet
+ <b>Target:</b> All creatures in a 10-ft.-radius sphere around you at the time of casting
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+As darkvision, except that all creatures in the area at the time of casting receive the spell's benefits.
+ <b>Also appears in</b>   Complete Arcane  Underdark  Spell Compendium     

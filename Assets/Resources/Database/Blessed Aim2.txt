@@ -1,0 +1,15 @@
+<b>Blessed Aim</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Divination
+ <b>Level:</b>  Paladin 2,  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 60 ft.
+ <b>Effect:</b> 60-ft. spread, centered on you
+ <b>Duration:</b> Concentration
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell grants a +2 morale bonus on all ranged attacks for your allies within the spread.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

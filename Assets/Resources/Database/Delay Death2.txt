@@ -1,0 +1,20 @@
+<b>Delay Death</b>(Races of Destiny, p. 165)
+
+Necromancy
+ <b>Level:</b>  Cleric 3,   Destiny 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject of this powerful spell is unable to die from hit point damage.
+While under the protection of this spell, the normal limit of -9 hit points before a character dies is extended without limit.
+A condition or spell that destroys enough of the subject's body to prohibit raise dead (such as a disintegrate effect) still kills the creature, as does death brought about by ability score damage or drain, level drain, or a death effect.
+The spell does not prevent the subject from entering the dying state by dropping to -1 hit points.
+It merely prevents death as a result of hit point loss.
+If the subject has fewer than -9 hit points when the spell's duration expires, he or she dies instantly.
+ <b>Also appears in</b>   Miniatures Handbook  Spell Compendium     

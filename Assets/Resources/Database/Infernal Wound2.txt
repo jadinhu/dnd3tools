@@ -1,0 +1,17 @@
+<b>Infernal Wound</b>(Spell Compendium)
+
+Transmutation [Evil]
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You wave your hands over the blade and it takes on a gray pallor. Its attacks will now leave a lingering, painful memory in their wake.</b>
+	
+A creature injured by a weapon with infernal wound cast upon it loses 2 additional hit points each round for the duration of the spell (regardless of how many times it is struck during that time). The continuing hit point loss can be stopped by a Heal check (DC 10 + spell level + your relevant ability modifier), a cure spell, or a heal spell.
+ <b>Also appears in</b>   Planar Handbook     

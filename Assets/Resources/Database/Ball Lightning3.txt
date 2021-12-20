@@ -1,0 +1,21 @@
+<b>Ball Lightning</b>(Spell Compendium, p. 23)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One lightning ball
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a circuitous pass of your hand through the air, a crackling ball of lightning appears before you, accompanied by the smell of ozone.</b>
+	
+You create a 5-foot-diameter ball of concentrated electricity that rolls in whichever direction you point, dealing electricity damage to creatures it strikes. It moves 30 feet per round. As part of this movement, it can ascend or jump up to 30 feet to strike a subject. If it enters a space with a creature, it stops moving for the round and deals 1d6 points of electricity damage per caster level (maximum 15d6), though a successful Reflex save negates that damage.
+	
+The ball moves as long as you actively direct it (a move action for you), otherwise it merely stays at rest, damaging any creature in its space. It cannot push aside unwilling creatures or batter down large obstacles. The lightning winks out if it exceeds the spell's range.
+	
+<b>Material Component</b>: A handful of copper and iron pellets.
+ <b>Also appears in</b>   Magic of Faerun  Unapproachable East  Player's Guide to FaerÃ»n     

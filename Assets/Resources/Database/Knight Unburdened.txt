@@ -1,0 +1,17 @@
+<b>Knight Unburdened</b>(The Forge of War, p. 114)
+
+Transmutation
+ <b>Level:</b>  Artificer 1,  Blackguard 1,  Paladin 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject of this spell ignores the standard movement penalties for wearing medium or heavy armor. He suffers all the other drawbacks for the armor he wears, such as maximum Dexterity bonus to AC, armor check penalty on skills, arcane spell failure chance, and so forth.
+	
+Note that a subject of this spell still cannot use class features and other abilities that do not function when he wears medium or heavy armor.
+   

@@ -1,0 +1,25 @@
+<b>Dispelling Breath</b>(Spell Compendium, p. 67)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your breath weapon
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You exhale a cloud of poisonous gas mixed with starlight motes that gravitate toward the spellcasters and summoned monsters within the cloud.</b>
+	
+For this spell to function, you must have a breath weapon, either as a supernatural ability or as the result of casting a spell such as <b>dragon breath</b> (page 73). When you successfully cast this spell, your breath weapon acts as a targeted <b>dispel magic</b> (<b>PH</b> 223).
+	
+For each creature or object that fails its saving throw against your breath weapon and that is the subject of one or more spells, you make a dispel check against the highest level spell currently in effect on the object or creature. A dispel check is 1d20 + 1 per caster level (maximum +15) against a DC of 11 + the spell's caster level. If that check fails, you make dispel checks against progressively weaker spells until you dispel one spell or until you fail all your checks. A creature's magic items are not affected, and creatures and objects that rolled successful saving throws against your breath weapon are likewise not affected.
+	
+If a creature that is the effect of an ongoing spell (such as a monster summoned by <b>monster summoning</b>), is in the area and fails its saving throw against your breath weapon, you can also make a dispel check to end the spell that conjured the creature (returning it whence it came).
+	
+For each ongoing area or effect spell centered within the area of your breath weapon, you make a dispel check to dispel the spell.
+	
+Spells are dispelled prior to the effect of your breath weapon being resolved.
+	
+You can choose to automatically succeed on dispel checks against any spell in the area that you have cast.
+ <b>Also appears in</b>   Draconomicon     

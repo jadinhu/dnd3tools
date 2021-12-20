@@ -1,0 +1,20 @@
+<b>Melf's Acid Arrow</b>(Player's Handbook v.3.5, p. 253)
+
+Conjuration (Creation) [Acid]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Warmage 2,  Duskblade 2,  Sha'ir 2,  Savant 2 (Arcane),   Slime 2,   
+<b>Components:</b>V, S, M, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> One arrow of acid
+ <b>Duration:</b> 1 round + 1 round per three levels
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A magical arrow of acid springs from your hand and speeds to its target.
+You must succeed on a ranged touch attack to hit your target.
+The arrow deals 2d4 points of acid damage with no splash damage.
+For every three caster levels (to a maximum of 18th), the acid, unless somehow neutralized, lasts for another round, dealing another 2d4 points of damage in that round.
+Material Component: Powdered rhubarb leaf and an adder's stomach.
+Focus: A dart.
+   

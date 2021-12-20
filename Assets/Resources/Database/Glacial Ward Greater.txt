@@ -1,0 +1,19 @@
+<b>Glacial Ward, Greater</b>(Frostburn)
+
+Abjuration [Cold]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, Coldfire
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius spherical emanation, centered on you
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A 10-foot-radius globe of swirling coldfire surrounds you, granting you and anyone inside the globe spell resistance 25 against all fire spells and spell-like effects.
+In addition, any creature using a fire-based supernatural ability on a target inside the globe (such as a breath weapon) must also make a caster level check to affect the target.
+The globe does not offer protection against natural heat and fire, including immersion in lava.
+Material Component: A pinch of sulfur.
+Coldfire Component:One ounce of coldfire.
+   

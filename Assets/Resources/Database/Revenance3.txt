@@ -1,0 +1,19 @@
+<b>Revenance</b>(Spell Compendium, p. 175)
+
+Conjuration (Healing)
+ <b>Level:</b>  Blackguard 4,  Cleric 4,  Paladin 4,  Bard 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Dead ally touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You rush to your fallen companion amid the chaos of the battle and cry out the words that will bring her back for one last fight.</b>
+	
+This spell brings a dead ally temporarily back to life. The subject can have been dead for up to 1 round per level. Your target functions as if a raise dead spell (PH 268) had been cast upon her, except that she does not lose a level and has half of her full normal hit points. She is alive (not undead) for the duration of the spell and can be healed normally, but dies as soon as the spell ends. While under the effect of this spell, the subject is not affected by spells that raise the dead.
+	
+The subject gains a +1 morale bonus on attack rolls, damage rolls, saves, and checks against the creature that killed her.
+ <b>Also appears in</b>   Magic of Faerun  Complete Divine     

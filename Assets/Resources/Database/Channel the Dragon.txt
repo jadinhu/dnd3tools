@@ -1,0 +1,24 @@
+<b>Channel the Dragon</b>(Dragon Magic)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 7 (all),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You feel the mighty force of elemental wyrms flood your spirit and reinforce your body. Your flesh hardens, and your eyes gleam.
+	
+Few creatures represent both themystic and the elemental more than dragons. You tap into the spiritual might of these magnificent creatures to gain a breath weapon and a defensive ability based on your favored element (and the dragon variety channeled by the spell). See the table below for details.
+	
+The breath weapon takes the form of a 15-foot cone-shaped burst. Using the breath weapon requires a standard action, and each time you breathe, you must wait 1d4 rounds before breathing again. Spell resistance does not apply against the breath weapon's effect.
+	
+Element (Dragon) Breath Weapon Defensive Ability
+Earth (Copper) Slow, 1d6 rounds (Will negates) DR 5 / adamantine
+Fire (Red) 7d6 fire (Reflex half) Resistance to Fire 30
+Metal (Silver) Paralysis, 1 round (Will negates) DR 5 /adamantine
+Water (White) 7d6 cold (Reflex half) Resistance to Cold 30
+Wood (Green) 7d6 acid (Reflex half) Resistance to Acid 30
+   

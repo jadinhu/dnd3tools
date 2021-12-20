@@ -1,0 +1,20 @@
+<b>Bodak's Glare</b>(Planar Handbook)
+
+Necromancy [Death, Evil]
+ <b>Level:</b>  Cleric 8,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 30 ft.
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell allows you to channel the deadly gaze of the bodak.
+Upon completion of the spell, you may target a creature within range that can see you.
+That creature dies instantly unless it succeeds on a Fortitude save.
+The target need not meet your gaze.
+If you slay a humanoid creature with this attack, it transforms into a bodak 24 hours later unless it has been resurrected in the meantime.
+The bodak is not under your command, but can be controlled as normal with a rebuke undead check.
+ <b>Also appears in</b>   Spell Compendium     

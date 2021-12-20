@@ -1,0 +1,21 @@
+<b>Blackrot</b>(Complete Mage)
+
+Necromancy
+ <b>Level:</b>  Druid 2,  Wu Jen 2 (wood),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One plant creature or one wooden weapon touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude partial or Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The plant-matter creaks and writhes beneath your hand as you generate a malignant rot at its center.
+This spell allows you to deliver a single touch that either damages a plant creature over a number of rounds or renders a wooden weapon poisonous.
+When used as a touch attack against a plant creature, the spell deals 1d8 points of damage per round.
+A successful Fortitude save reduces the duration to 1 round.
+Alternatively, you can touch a weapon with a wooden striking surface (such as a club or quarterstaff).
+Any creature damaged by the weapon is sickened for 1 round unless it succeeds on a Fortitude save.
+Treat this as a poison effect for creatures immune or resistant to such effects.
+   

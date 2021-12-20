@@ -1,0 +1,19 @@
+<b>Giant's Stance</b>(Tome of Battle: The Book of Nine Swords, p. 83)
+
+Stone Dragon (Stance)
+ <b>Level:</b>  Crusader 5 (Two Stone Dragon maneuvers),  Swordsage 5 (Two Stone Dragon maneuvers),  Warblade 5 (Two Stone Dragon maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You swing your weapon in a wide, deadly arc that slams into your foe with incredible force. Only your mastery of the Stone Dragon techniques allows you to make such reckless blows without losing your footing.</b>
+	
+Tapping into the power of the Stone Dragon, you strike with resolute, irresistible force. You learn to set the full weight of your body into each of your attacks. A warrior with less skill would lose his balance and fall to the ground when using this fighting style.
+	
+While you are in this stance, you deal damage as if you were one size larger than normal, to a maximum of Large. This benefit improves your weapon and unarmed strike damage. It does not confer any of the other benefits or drawbacks of a change in size, such as a modifier to ability scores or AC, or an improved reach.
+	
+This stance immediately ends if you move more than 5 feet for any reason, such as from a bull rush attack, a telekinesis spell, and so forth.
+   

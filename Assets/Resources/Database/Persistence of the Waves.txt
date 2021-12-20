@@ -1,0 +1,16 @@
+<b>Persistence of the Waves</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Transmutation
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell bestows the smooth indomitability of waves crashing on a shore.
+The subject gains a +4 enhancement bonus to Constitution and suffers a -2 enhancement penalty to Strength.
+   

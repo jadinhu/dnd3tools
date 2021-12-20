@@ -1,0 +1,15 @@
+<b>Raise Ghost</b>(Ghostwalk)
+
+Conjuration (Healing) [Ectomancy]
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>
+
+ 	
+As raise dead, except that this spell can bring back only a ghost who has been killed.
+It does not restore life to a dead body, but instead brings back a slain ghost as a ghost.
+The spell requires some of the ghost's original ectoplasm (some of the ghost's ectoplasm that has been preserved with magic or alchemy is sufficient).
+Alternatively, you may cast it on a dead creature's body to bring it back as a ghost.
+The creature's soul is aware that it will return as a ghost instead of a living creature and can refuse to accept the spell if it does not want this to happen.
+This form of the spell works only on creatures that can become ghosts.
+As with other forms of this magic, if cast within the Manifest Ward, a raised ghost does not lose a level or a Constitution point when brought back from the dead.
+   

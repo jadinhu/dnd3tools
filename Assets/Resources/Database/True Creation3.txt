@@ -1,0 +1,22 @@
+<b>True Creation</b>(Deities and Demigods)
+
+Conjuration (Creation)
+ <b>Level:</b>   Creation 8,   
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Unattended, nonmagical object of nonliving matter, up to 1 cu. ft./level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a nonmagical, unattended object of any sort of matter.
+Items created are permanent and cannot be negated by dispelling magics or negating powers.
+For all intents and purposes, these items are completely real.
+The volume of the item created cannot exceed 1 cubic foot per caster level.
+You must succeed at an appropriate skill check to make a complex item, such as a Craft (bowmaking) check to make straight arrow shafts or a Craft (gemcutting) check to make a cut and polished gem.
+Unlike the items brought into being by the lower-level spells minor creation and major creation, objects created by the casting of true creation can be used as material components.
+Material Component: A small piece of matter of the same type of item you plan to create � ;a sliver of wood to create arrow shafts, a tiny piece of the appropriate stone to create a polished gem, and so forth.
+XP Cost: The item's gold piece value in XP, or a minimum of 1 XP, whichever is more (see the Player's Handbook for item costs).
+ <b>Also appears in</b>   Eberron Campaign Setting  Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins  Spell Compendium     

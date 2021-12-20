@@ -1,0 +1,19 @@
+<b>Suppress Legacy</b>(Weapons of Legacy)
+
+Necromancy
+ <b>Level:</b>  Hexblade 4,  Sorcerer 5,  Wizard 5,  Wu Jen 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You temporarily disrupt the bond between the target creature and a single legacy item it possesses.
+The target loses access to all legacy abilities granted by that item.
+For the duration of the spell, it cannot activate any of the item's legacy abilities, nor do any continuous effects of the legacy item grant any benefit to the target.
+If the target has more than one legacy item, determine randomly which one is affected.
+This effect cannot be dispelled, but it can be negated by break enchantment, remove curse, or any other effect that removes a curse.
+   

@@ -1,0 +1,14 @@
+<b>Assay Resistance</b>(Complete Arcane)
+
+Divination
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+This spell enables you to divine the exact nature and vulnerabilities of a single creature's magical defenses, giving you a +10 bonus on caster level checks to overcome its spell resistance.
+Assay resistance is effective only against one specific creature per casting, and you must be able to see the creature when you cast the spell.
+   

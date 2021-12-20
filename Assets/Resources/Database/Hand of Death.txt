@@ -1,0 +1,17 @@
+<b>Hand of Death</b>(Tome of Battle: The Book of Nine Swords, p. 77)
+
+Shadow Hand (Strike)
+ <b>Level:</b>  Swordsage 4,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1d3 rounds
+ <b>Saving Throw:</b> Fortitude negates
+
+ 	
+<b>You reach out and tap your foe with a single finger. Her look of puzzlement turns to fear as black energy spreads across her body, rendering her helpless.</b>
+	
+You draw upon the power of shadow to render a single foe helpless. By touching a specific nerve center and channeling your ki, you leave your enemy?s muscles cold, locked, and useless.
+	
+This maneuver functions only against flat-footed opponents. As part of this maneuver, you make a melee touch attack against your opponent. If this attack hits, your opponent must make a successful Fortitude save (DC 14 + your Wis modifier) or be paralyzed for 1d3 rounds.</p   

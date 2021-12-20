@@ -1,0 +1,15 @@
+<b>Avalanche of Blades</b>(Tome of Battle: The Book of Nine Swords, p. 62)
+
+Diamond Mind (Strike)
+ <b>Level:</b>  Swordsage 7 (Three Diamond Mind maneuvers),  Warblade 7 (Three Diamond Mind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>In a flashing blur of steel, you unleash a devastating volley of deadly attacks against your enemy, striking it again and again.</b>
+	
+You lash at an opponent. If your attack hits, you repeat the same attack again and again at nearly superhuman speed, allowing you to score multiple hits in a blur of activity. Unfortunately, as soon as an attack misses, your tempo breaks, and this delicate maneuver crumbles into a flurry of wasted motion.
+	
+As part of this maneuver, you make a single melee attack against an opponent. If that attack hits, resolve your damage as normal. You can then make another attack against that foe with a ?4 penalty on your attack roll. If that attack hits, you can make another attack against that opponent with a ?8 penalty. You continue to make additional attacks, each one with an additional ?4 penalty, until you miss or your opponent is reduced to ?1 hit points or fewer. You must direct all these attacks at a single foe.   

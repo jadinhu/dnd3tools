@@ -1,0 +1,24 @@
+<b>Inferno</b>(Magic of Faerun)
+
+Transmutation [Fire]
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause one creature to burst into flames.
+The subject's clothing, items, hair and flesh burn with ferocity.
+The fire deals 2d6 points of damage per round until the spell ends or the subject manages to extinguish the flames.
+Flammable, nonmagical items carried by the target automatically fail their saves to resist this damage.
+Against creatures lacking flammable flesh, hair, clothing, and items, the spell has no effect.
+After the first round, the target can take a full-round action to attempt to extinguish the flames before taking additional damage.
+It takes a successful Reflex saving throw (DC 15) to extinguish the flames.
+Rolling on the ground allows the character a +2 bonus.
+Leaping into a lake or magically extinguishing the flames automatically smothers the flames.
+Material Component: A gob of beeswax.
+ <b>Also appears in</b>   Spell Compendium  Player's Guide to FaerÃ»n     

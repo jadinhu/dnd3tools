@@ -1,0 +1,18 @@
+<b>Comet Throw</b>(Tome of Battle: The Book of Nine Swords, p. 71)
+
+Setting Sun (Strike)
+ <b>Level:</b>  Swordsage 4 (One Setting Sun maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched; see text
+ <b>Saving Throw:</b> Reflex partial; see text
+
+ 	
+<b>You use your foe?s momentum against him, throwing him through the air to crash into a second enemy.</b>
+	
+This maneuver functions like mighty throw (page 73), except as noted here.
+	
+As part of this maneuver, you must succeed on a melee touch attack against your foe. You can then make a trip attempt against your enemy. You gain a +4 bonus on the ability check.
+	
+If you succeed in tripping your foe, you throw him up to 10 feet away from you in a direction of your choice. You select your enemy?s destination square. The target falls prone in that space and takes 4d6 points of damage. For every 5 points by which you win the opposed check, you gain an additional 5 feet of throw range. For example, if you win by 10, you can place your foe in any space within 20 feet of you. You can throw your opponent into a space occupied by a second foe. In this case, the opponent in the target square also takes 4d6 points of damage and is knocked prone. A Reflex save (DC 14 + your Str modifier) halves this damage and allows the second target to remain standing. The thrown creature then falls prone in a clear space of your choice adjacent to the second target.</   

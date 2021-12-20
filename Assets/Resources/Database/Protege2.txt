@@ -1,0 +1,23 @@
+<b>Protege</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Evocation
+ <b>Level:</b>  Bard 6,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 3 rounds
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute per caster level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You can briefly grant bardic abilities to a creature of your choice.
+	
+The subject of the spell can then function as a bard of half your current bard level with respect to bardic music and bardic knowledge.
+	
+However, Protege imparts no spellcasting ability and does not grant access to spells not normally available to the subject.
+	
+For Perform checks and bardic music prerequisites, the creature uses its own ranks in Perform or half of yours, whichever is better.
+	
+Focus: The caster's instrument.
+ <b>Also appears in</b>   Spell Compendium  Complete Adventurer     

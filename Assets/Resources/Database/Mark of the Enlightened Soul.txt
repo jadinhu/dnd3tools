@@ -1,0 +1,20 @@
+<b>Mark of the Enlightened Soul</b>(Dragon Magic)
+
+Transmutation [Good]
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 3 rounds or until ended
+
+ 	
+Your hands glow softly, as if illuminated from within by a bright light.
+This spell adds a touch of good to your magic, granting you special potency against your evil-aligned enemies.
+Your spells gain the good descriptor.
+Any spell you cast of 3rd level or lower deals +50% damage to evil-aligned creatures.
+As part of the casting of this spell, you can sacrifice one sorcerer spell slot of 5th to 9th level; doing this increases the maximumlevel of spells affected by mark of the enlightened soul to the level of the sacrificed slot minus 1.
+For example, if you spend a 4th-level spell slot to cast the spell and a 7th-level spell slot to augment it, you would deal extra damage to evil-aligned creatures with spells of 6th level or lower.
+Special: A good-aligned caster of the dragonblood subtype can choose to end this spell's duration by activating protection from evil (as the spell, but targeting itself) as a swift action.
+This effect lasts for the normal duration of protection from evil.
+   

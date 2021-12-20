@@ -1,0 +1,20 @@
+<b>Know Vulnerabilities</b>(Magic of Faerun)
+
+Divination
+ <b>Level:</b>  Bard 4,  Cleric 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You learn any vulnerabilities and resistances the target creature has.
+Vulnerabilities include anything that causes the creature more than the normal amount of damage (such as a creature with the cold subtype taking double damage from fire or a crystalline creature's vulnerability to the shatter spell).
+Resistances include any effects that reduce or negate damage the creature takes and immunities to particular attacks.
+The spell identifies resistances and vulnerabilities granted by spell effects.
+For example, if cast upon an iron golem, you learn that it has all the construct defenses, damage reduction 50/+3, is slowed instead of damaged by electricity, is healed instead of damaged by fire, and is vulnerable to rust attacks.
+If cast upon a balor, you learn that it has damage reduction 30/+3, spell resistance 28, is immune to poison and electricity, has acid, cold, and fire resistance 20, and does not have any particular vulnerabilities.
+ <b>Also appears in</b>   Spell Compendium     

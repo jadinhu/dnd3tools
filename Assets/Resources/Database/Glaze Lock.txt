@@ -1,0 +1,17 @@
+<b>Glaze Lock</b>(Frostburn)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Lock touched
+ <b>Duration:</b> 10 min./level; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You jam a locking mechanism with ice, raising its Open Lock DC by 10 and the lock's hardness by 5.
+Fire attacks against the lock deal double damage.
+In cold or lower temperature bands, this spell lasts 1 hour per level.
+   

@@ -1,0 +1,21 @@
+<b>Force Missiles</b>(Spell Compendium, p. 98)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Up to four creatures, no two of which are more than 30 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Sparking bolts of blue magic, like giant magic missiles, streak from your outstretched hand to strike your foes and explode in sparkling bursts.</b>
+	
+You create powerful missiles of magical force, each of which darts from your fingertips and unerringly strikes its target, dealing 2d6 points of damage. The missile then explodes in a burst of force that deals half this amount of damage to any creatures adjacent to the primary target.
+	
+The missile strikes unerringly, even if the target is in melee or has anything less than total cover or concealment. A caster cannot single out specific parts of a creature. The spell can target and damage unattended objects.
+	
+You gain one missile for every four caster levels. You can make more than one missile strike a single target, if desired. However,you must designate targets before rolling for spell resistance or damage.
+   

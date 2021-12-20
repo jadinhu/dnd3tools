@@ -1,0 +1,17 @@
+<b>Fiery Eyes</b>(Oriental Adventures)
+
+Evocation [Fire]
+ <b>Level:</b>  Wu Jen 1 (Fire),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 3 rounds/level
+
+ 	
+This spell causes your eyes to glow with an unnatural fire.
+You can determine the color of the light, from a reddish glow to brilliant yellow.
+Your eyes project beams of bright light to a range of 3 feet, clearly illuminating the area.
+By fixing your sight on one spot within 3 feet of your eyes for 3 rounds, you can cause combustible materials, but not other creatures, to burst into flames.
+If other creatures carry or wear the affected items, however, these flames cause 1d6 points of damage to the creature immediately and may cause further damage (see Catching on Fire in Chapter 3 of the <span class="caps">DUNGEON</span> MASTER's Guide).
+ <b>Also appears in</b>   Complete Arcane     

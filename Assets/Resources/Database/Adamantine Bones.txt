@@ -1,0 +1,17 @@
+<b>Adamantine Bones</b>(Tome of Battle: The Book of Nine Swords, p. 81)
+
+Stone Dragon (Strike)
+ <b>Level:</b>  Crusader 8 (Three Stone Dragon maneuvers),  Swordsage 8 (Three Stone Dragon maneuvers),  Warblade 8 (Three Stone Dragon maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You are an impenetrable tower of defiance on the battlefield. Attacking you is as fruitless as striking a mountain with a walking stick.</b>
+	
+The supreme focus, mental toughness, and physical durability taught by the Stone Dragon discipline culminate in this powerful combat maneuver. When you make a successful attack, your mind focuses your body into the equivalent of a living shard of rock. Even the most ferocious attacks bounce off you without harm.
+	
+As part of this maneuver, you make a single melee attack. If this attack hits, you gain damage reduction 20/adamantine for 1 round.
+   

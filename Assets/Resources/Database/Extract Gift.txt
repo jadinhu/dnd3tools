@@ -1,0 +1,56 @@
+<b>Extract Gift</b>(Fiendish Codex I: Hordes of the Abyss)
+
+Necromancy [Chaotic]
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One demon and one willing creature
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You painstakingly create two magic circles.
+In one stands a demon, and in the other stands your willing subject.
+After an hour-long ritual incantation, you pull a roiling black cloud of demonic essence out of the demon and channel it into the willing recipient.
+You transfer a portion of a demon's essence into a willing creature, enhancing one of its ability scores or skills.
+The demon must be either allied and willing or captured and constrained (as if by a planar binding spell).
+An unwilling demon can make a Will save to negate the effects of the spell.
+Both the recipient and the donor demon must remain within specially prepared circles inscribed on the floor for the entire casting time.
+These circles are similar to summoning circles and can be integrated into a summoning circle without impacting the function of either spell, but neither the demon nor the recipient need be summoned specifically into the circle for this spell's circle � ;each needs only to stand within it during the casting.
+The benefit granted by this spell can be applied to one of the recipient's ability scores (as an enhancement bonus) or to one of his skills (as a competence bonus), as you designate.
+Once this decision is made, it cannot be changed, and the effect cannot be dispelled except by a caster of higher level than you were when you cast the spell.
+If you wish, you can increase the save DC for this spell by allowing the demon power over the target.
+The specific concessions you can make to the demon and the corresponding increases to the save DC are given below.
++1 Increase: The donor demon can track the recipient's location and condition, effectively gaining the effect of a constant status spell on it.
++3 Increase: The demon can see through the recipient's eyes and hear through its ears.
++5 Increase: The demon can telepathically communicate with the recipient as if by Rary's telepathic bond.
++7 Increase: The demon can use demand on the recipient once per day as a spell-like ability (caster level equals your caster level at the time you cast extract gift).
+The effects of the concessions are cumulative, but the save DC increases do not stack.
+Thus, allowing the demon to track the recipient, use its senses, and communicate with it telepathically would increase the save DC by 5.
+Increasing the save DC in this manner is an evil act, since it grants the demon more than the usual opportunity to work its evil.
+Thus, using this option adds the evil descriptor to the spell.
+Ability Bonus: The recipient gains an enhancement bonus to one ability score of your choice.
+The value of this bonus depends on your caster level and the abilities of the donor demon, as given below.
+The maximum value of the bonus you can grant is one-fourth of your caster level (rounded down).
+Thus, you could grant the recipient up to a +2 enhancement bonus at 9th level, or up to a +5 bonus at 20th level.
+You can always choose to grant a bonus lower than your maximum.
+The donor demon's ability modifier for the corresponding score must be at least twice that of the granted bonus.
+Thus, to grant a +2 bonus to Dexterity, you must extract essence from a demon with a Dexterity score of at least 18 (such as a marilith).
+To grant a +5 bonus to Charisma, you need a demon with a Charisma score of at least 30 (such as a lilitu).
+Skill Bonus: The recipient gains a competence bonus on checks made with one skill of your choice.
+The value of this bonus depends on your caster level and the abilities of the donor demon, as given below.
+The maximum value of the bonus you can grant is one-half your caster level (rounded down).
+Thus, you could grant the recipient up to a +4 enhancement bonus at 9th level, or up to a +10 bonus at 20th level.
+You can always choose to grant a bonus lower than your maximum.
+The donor demon's ranks in the selected skill must be at least twice the granted bonus.
+Thus, to grant a +5 bonus on Disable Device checks, you must extract essence from a demon with at least 10 ranks in Disable Device (such as a babau).
+To grant a +10 bonus on Bluff checks, you need a demon with at least 20 ranks in Bluff (such as a balor).
+Material Component: The circles in which the donor and recipient stand during the casting must be inscribed with expensive paints made from powdered diamonds, cold iron, blood, and various rare and exotic pigments.
+Each circle must also be decorated with five flawless sapphires, which serve as conduits between the donor demon and the recipient.
+The total cost of these pigments and gems depends on the nature and magnitude of the bonus to be imparted.
+For an ability bonus, the cost equals the bonus squared times 1,000 gp (1,000 gp for +1, 4,000 gp for +2, 9,000 gp for +3, 16,000 gp for +4, and 25,000 gp for +5).
+For a skill bonus, the cost equals the bonus squared times 100 gp (100 gp for +1, 400 gp for +2, 900 gp for +3, 1,600 gp for +4, 2,500 gp for +5, 3,600 gp for +6, 4,900 gp for +7, 6,400 gp for +8, 8,100 gp for +9, and 10,000 gp for +10).
+XP Cost: You must spend XP equal to 1/25 the required cost of the material components when you cast this spell.
+   

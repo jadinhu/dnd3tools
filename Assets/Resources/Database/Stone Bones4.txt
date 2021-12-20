@@ -1,0 +1,16 @@
+<b>Stone Bones</b>(Tome of Battle: The Book of Nine Swords, p. 84)
+
+Stone Dragon
+ <b>Level:</b>  Crusader 1,  Swordsage 1,  Warblade 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You focus your energy to enhance your defenses, drawing on the power of your weapon?s impact with a foe to toughen yourself against a counterattack.</b>
+	
+The Stone Dragon tradition teaches its disciples to shrug off attacks through a combination of mental focus, pure toughness, and resilience. When you make a successful melee attack, you attune your mind and body to such an incredible extent that only the sharpest weapons can injure you. Lesser armaments cause mere bruises and minor cuts.
+	
+When you use this maneuver, you make a single melee attack. If this attack hits, you gain damage reduction 5/adamantine for 1 round.</p <b>Also appears in</b>   Magic of Faerun  Spell Compendium  Ghostwalk     

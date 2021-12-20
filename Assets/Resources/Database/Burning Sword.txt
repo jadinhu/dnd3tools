@@ -1,0 +1,19 @@
+<b>Burning Sword</b>(Spell Compendium, p. 41)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>By chopping your hand like an axe and uttering the last few phrases of the spell, you cause the weapon you've touched to become wreathed in flickering blue flames.</b>
+	
+The flames from this spell shed azure light out to 30 feet. These flames do not harm the weapon or its wielder, but for the duration of the spell, it delivers fire damage in addition to its normal damage.
+	
+The enchanted weapon deals an extra 1d6 points of fire damage on a successful hit. Also, on a critical hit, the weapon deals additional fire damage based on the weapon's critical multiplier:
+	<table>		<tr>			<th>Critical Multiplier </th>			<th>Additional Fire Damage </th>		</tr>		<tr>			<td> x2 </td>			<td> +1d10 </td>		</tr>		<tr>			<td> x3 </td>			<td> +2d10 </td>		</tr>		<tr>			<td> x4 </td>			<td> +3d10 </td>		</tr>	</table>   

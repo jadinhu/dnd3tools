@@ -1,0 +1,17 @@
+<b>Marked Object</b>(Spell Compendium, p. 139)
+
+Divination
+ <b>Level:</b>  Ranger 1,  Assassin 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 24 hours/level
+
+ 	
+<b>By holding the small item to your nose and reciting the ancient words of power you unleash the spell. You immediately have a sense of the object's owner such that you believe you could find further indications of the creature's passage.</b>
+	
+Upon casting this spell, you become attuned to the specific creature that owns the spell's focus item. (A creature is considered to own an item if it was the last creature to carry the item on its person for 24 hours or more. You do not count when considering what creature was last to carry an item.) This attunement grants you a +10 bonus on Search and Survival checks made to track the item's owner or find evidence of the owner's passage. This spell does not give you insight into who or what the creature you are attuned to is or where that creature ultimately might be. Also, the spell does not provide a trail that is not already there nor provide you with the benefit of the Track feat.
+	
+Arcane Focus: An object owned by the creature or a piece of the creature to be tracked, such as a tuft of hair or a fingernail.
+   

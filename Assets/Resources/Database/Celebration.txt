@@ -1,0 +1,22 @@
+<b>Celebration</b>(Magic of Faerun)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 15-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause any creatures in the area to feel increasingly more intoxicated the longer you perform a drinking song.
+You must perform for at least 1 full round to produce the
+first effects of the celebration spell.
+After that, each full round you perform increases the subject's intoxication, as described in the table below.
+A subject does not need to remain within the area, but those entering the area after the casting of the spell are not affected.
+Your targets receive only one saving throw at the onset of the spell.
+The effects last for the duration of your performance.
+If you stop performing, the effects do not worsen and fade after 1 round per caster level.
+ <b>Also appears in</b>   Spell Compendium     

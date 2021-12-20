@@ -1,0 +1,19 @@
+<b>Tactical Precision</b>(Spell Compendium, p. 218)
+
+Divination [Mind-Affecting]
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You hold aloft a toy soldier and shake it at your allies, calling them to arms as you do so. The toy soldier dissipates, but you feel a connection to your allies as though you could hear each one whispering her intended actions before she performed them.</b>
+	
+When you cast this spell, you grant your allies greater insight into one another's actions, allowing them to better coordinate their attacks. If two affected allies flank the same creature, each gains a +2 insight bonus on melee attack rolls and deals an extra 1d6 points of damage against the flanked creature. Creatures not subject to extra damage from sneak attacks are immune to this extra damage.
+	
+Material Component: A toy soldier.
+ <b>Also appears in</b>   Complete Adventurer     

@@ -1,0 +1,21 @@
+<b>Reciprocal Gyre</b>(Spell Compendium, p. 170)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature or object
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half, then Fortitude negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You finger the tiny loop of wire in your hands as you complete the spell. You manipulate the magical aura of the target, creating a damaging feedback reaction, and the target explodes with white sparks.</b>
+	
+The subject takes 1d12 points of damage per functioning spell or spell-like ability currently affecting it (maximum 25d12). In addition, any creature so affected that fails its Will save must then succeed on a Fortitude save or be dazed for 1d6 rounds.
+	
+Only spells specifically targeted on the creature in question can be used to create the backlash of a reciprocal gyre, so spells that affect an area can't be used to deal reciprocal damage to creatures within their area. Likewise, persistent or continuous effects from magic items can't be used to deal reciprocal damage, but targeted spell effects can be.
+	
+Material Component: A tiny closed loop of copper wire.
+ <b>Also appears in</b>   Complete Arcane     

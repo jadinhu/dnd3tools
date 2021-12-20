@@ -1,0 +1,22 @@
+<b>Black Talon</b>(Player's Guide to FaerÃ»n)
+
+Necromancy
+ <b>Level:</b>   Initiate of cyric 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> No; see text
+
+ 	
+One of your arms transforms into a retractable, rubbery appendage ending in a taloned claw.
+You can attack with this claw as if your natural reach were 5 feet longer than it is.
+(Thus, the spell provides a 10-foot natural reach for most Medium casters).
+You gain a +1 profane bonus on attack rolls with the black talon, and this bonus increases by 1 per four caster levels (to +2 at 5th level, +3 at 9th level, and so forth).
+The talon deals 1d6 points of slashing damage +1 point of negative energy damage per caster level (maximum +10).
+A successful Will save reduces the negative energy damage by half.
+You can also use the talon to make touch attacks, and the profane bonus on attack rolls applies to these as well.
+A successful touch attack deals only the negative energy damage.
+As with similar effects, the negative energy damage from this spell heals undead creatures.
+   

@@ -1,0 +1,23 @@
+<b>Lord of the Sky</b>(Dragon Magic)
+
+Evocation/Transmutation [Electricity]
+ <b>Level:</b>  Shugenja 5 (air),  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+A swirling cloud of black mist surrounds you, shot through with bolts of lightning and covering you in powerful magic.
+By casting this spell, you become more formidable in aerial combat, allowing you to deal with airborne enemies more easily.
+You can fly at a speed of 40 feet with good maneuverability (or 30 feet if you wear medium or heavy armor, or carry a medium or heavy load).
+If you already have a fly speed of 40 feet or greater, your fly speed improves by 10 feet, and your maneuverability improves to good (unless it's already better than that).
+While airborne, you can use a swift action each round to fire a bolt of magical lightning as a ranged touch attack against any other airborne target within 60 feet.
+This attack deals 1 point of electricity damage per caster level (maximum 20 points) and reduces the target's fly speed to 1/2 normal for the duration of the spell.
+This speed reduction doesn't stack, so attacking the same target multiple times yields no extra reduction in fly speed (but continues to deal damage).
+Furthermore, while this spell is active, you can activate one lightning bolt (as the spell) as a standard action.
+Doing so ends the duration of lord of the sky, and if you do not have a natural fly speed, you drift to the ground as per the fly spell.
+Special: If you are of the dragonblood subtype (see page 4), this spell grants you a fly speed of 60 feet (or 40 if encumbered as described above).
+Dragonblooded casters who already have a fly speed of 60 feet or greater instead gain a +10-foot improvement to their fly speed.
+   

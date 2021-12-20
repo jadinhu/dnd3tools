@@ -1,0 +1,20 @@
+<b>Body Blades</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Cleric 2 (Loviatar),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+You sprout daggerlike spikes from all surfaces of your body and clothing.
+The spikes appear metallic but are not actually metal, and never harm you or interfere with your movement or actions.
+They allow you to deal 1d6 points of piercing damage (crit x2) with a successful grapple attack.
+The spikes count as a martial weapon, and the spell grants proficiency with them.
+You can also make a regular melee attack (or off-hand attack) with the spikes, and they count as a light weapon in this case.
+You inflict lethal damage when grappling.
+If a creature grapples you, the spikes deal 2 points of damage to your attacker.
+You get a +4 bonus on Escape Artist checks to escape from a net, rope, grappler, or spell that entangles.
+ <b>Also appears in</b>   Spell Compendium     

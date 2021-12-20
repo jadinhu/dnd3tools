@@ -1,0 +1,13 @@
+<b>Restoration, Mass</b>(Libris Mortis: The Book of the Dead)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 8,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like restoration (see page 272 of Player's Handbook), except as listed above.
+Material Component: Diamond dust worth 100 gp that is tossed into the air.
+ <b>Also appears in</b>   Spell Compendium     

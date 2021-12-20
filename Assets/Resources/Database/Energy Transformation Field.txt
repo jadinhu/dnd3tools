@@ -1,0 +1,43 @@
+<b>Energy Transformation Field</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 4 rounds
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 40-ft.-radius spread
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a lingering zone of transformative magic that absorbs magic energy from magic items or spellcasting in order to power another spell tied to that location.
+For example, you could have an energy transformation field tied to a summon monster V spell that would summon a monster when the field had absorbed enough magic.
+The field absorbs the magic of spells cast, spell-like or supernatural abilities activated, and magic items used within its dimensions.
+Each source of magic provides spell levels of energy to the field equal to the spell level of the effect used.
+Supernatural abilities that emulate spells provide energy equal to the spell level of the effect.
+Supernatural abilities that do not emulate spells provide energy equal to the HD of the creature using the ability.
+For example, a cast fireball spell or a charge from a wand of fireballs would add three spell levels to the field's store, a potion of cure light wounds would add one, and a wish from a ring of three wishes would add nine.
+Effects that don't have a clearly defined spell level (such as the effects of most rods) use the prerequisite caster level needed to create that item (so an immovable rod would provide 2 spell levels every time it was activated because of
+its levitate prerequisite).
+Effects that are absorbed give no indication as to where the magic went; they simply vanish.
+The field only absorbs magic actually used within its area.
+Ongoing magical effects that enter the area, including spells cast from outside the area into the field or continually functioning items such as a +1 mace, are often visibly reduced, but do not have their actual effects hindered.
+For example, a continual flame would dim slightly, but its overall magic would not be affected.
+An energy transformation field has a single spell linked to it.
+When the field has absorbed spell levels equal to the spell level of its linked spell, it automatically casts that spell at a point within the field as designated by you at the time of the casting of the field.
+This expends those absorbed spell levels (although unused levels remain until they are used or expire).
+The cast spell functions as if cast by you in terms of duration and all level-based spell effects.
+Absorbed spell levels fade at a rate of one per day if not used.
+The field automatically triggers its linked spell if it has enough stored spell levels and the duration of its previous casting has expired.
+If a linked spell requires concentration to maintain, the field expends one spell level for every hour of concentration (the field's concentration is only interrupted by its complete destruction).
+Spells that require a target will target the living creature nearest to the energy transformation field.
+Typical spells linked to an energy transformation field are blindness/deafness, fireball, suggestion, summon monster, and wall of force.
+Spells that have a costly material component or an XP cost cannot be linked to a field, but those with a costly focus can be if the focus object is present within the field (typically sealed into a wall or in a secret compartment).
+Halaster of Undermountain reputedly links false vision spells to thwart those who would spy on his master dungeon.
+Only Mordenkainen's disjunction, limited wish, wish, or similar spells can destroy the energy transformation field.
+Spells of lower level such as dispel magic and greater dispelling are absorbed by it, and an antimagic field prevents it from absorbing magical energy within the field but does not otherwise hamper this spell.
+If two or more field spells share an overlapping area, each field has an equal chance of absorbing a spell effect in that area.
+Material Component: Three drops of your blood, an eye from any humanoid, and 5,000 gp worth of powdered diamond.
+XP Cost: 250 XP.
+ <b>Also appears in</b>   Spell Compendium     

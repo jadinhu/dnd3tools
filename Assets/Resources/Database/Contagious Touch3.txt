@@ -1,0 +1,17 @@
+<b>Contagious Touch</b>(Spell Compendium, p. 52)
+
+Necromancy
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Holding out your hand like it's dead, you croak out magic words and imbue your limb with a terrible disease.</b>
+	
+Upon casting this spell, you choose one disease from this list: blinding sickness, cackle fever, filth fever, mindfire, red ache, the shakes, or slimy doom (<b>DMG</b> 292). Any living creature you hit with a melee touch attack during the spell's duration is affected as though by the <b>contagion</b> spell, immediately contracting the disease you have selected unless it makes a successful Fortitude save. You cannot infect more than one creature per round.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Divine     

@@ -1,0 +1,18 @@
+<b>Simbul's Synostodweomer</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal
+ <b>Target:</b> One of your spells
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You channel the spell energy from a spell you know into healing magic.
+After you cast this spell, on your next turn you cast another spell, which is converted to positive energy.
+On the round you cast the second spell, you may touch yourself or another creature, curing 1d6 hit points of damage for every spell level of the spell you cast.
+If the spell you cast was prepared with a metamagic feat, you use the level of the spell slot the spell occupied.
+   

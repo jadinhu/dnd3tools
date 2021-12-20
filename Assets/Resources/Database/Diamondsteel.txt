@@ -1,0 +1,20 @@
+<b>Diamondsteel</b>(Spell Compendium, p. 64)
+
+Transmutation
+ <b>Level:</b>  Paladin 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Suit of metal armor touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+_You pass your hand over the suit of armor several times before finally touching it. As you do so, you feel a warmth grow in the palm of your hand. The warmth passes into the armor and manifests as a 
+sparkling shine._
+	
+<b>Diamondsteel</b> enhances the strength of one suit of metal armor. The armor provides damage reduction equal to half the AC bonus of the armor. This damage reduction can be overcome only by adamantine weapons. For example, a suit of full plate would provide damage reduction 4/adamantine, and a <b>+1 breastplate</b> (+6 AC) would provide damage reduction 3/adamantine.
+	
+<b>Material Component:</b> Diamond dust worth at least 50 gp.
+   

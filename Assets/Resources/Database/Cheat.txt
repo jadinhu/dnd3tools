@@ -1,0 +1,24 @@
+<b>Cheat</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>  Bard 1,  Wizard 1,  Sorcerer 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 minute/level or until used
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+At one point during the duration of this spell, the caster can alter the probability of a game of chance.
+This spell can only affect nonmagical games, such as those using cards or dice.
+It cannot affect a game involving magic, nor a magic item involved in a game of chance (such as a deck of many things).
+Whenever a roll is made to determine the outcome of the game, the caster may force a reroll of the outcome and take the better of the two rolls.
+For example, Darkon is playing a game called dragonscales, which he has a 1 in 4 chance of winning.
+The DM secretly rolls 1d4 and tells the player that Darkon lost.
+Darkon, under the effect of a cheat spell, can have the DM reroll.
+The spell alters probability, so there is no subterfuge that another character could notice (except for the casting of the spell itself ).
+To even an astute observer, it appears that the caster is just lucky.
+Focus: A pair of dice made from human bones.
+ <b>Also appears in</b>   Draconomicon  Spell Compendium     

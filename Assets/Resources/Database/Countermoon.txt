@@ -1,0 +1,18 @@
+<b>Countermoon</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Abjuration
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + S ft./2 levels)
+ <b>Target:</b> One lycanthrope
+ <b>Duration:</b> 12 hours
+ <b>Saving Throw:</b> Will negates (D)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell stops a lycanthrope from changing form, preventing both voluntary shapechanging via the alternate form ability and involuntary shapechanging because of lycanthropy.
+The subject retains whatever form he or she had when the spell was cast for the duration; even death does not cause reversion to normal form until the spell ends.
+Natural lycanthropes gain a +4 competence bonus on the saving throw against this spell.
+Material Component:Hair, scale, or other castoff from the creature to be affected.
+ <b>Also appears in</b>   Savage Species  Spell Compendium     

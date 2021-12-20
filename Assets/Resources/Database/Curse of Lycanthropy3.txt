@@ -1,0 +1,19 @@
+<b>Curse of Lycanthropy</b>(Spell Compendium, p. 57)
+
+Necromancy
+ <b>Level:</b>   Pestilence 6,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Humanoid touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Dipping your hand in blood and then gripping the target fiercely, you call on the curse of lycanthropy to destroy your foe.</b>
+	
+If the target fails its saving throw, it dies, and 1d6 wererats (in wererat form; MM 173) claw their way out of its body. The wererats do not attack you or your allies, but might attack nearby living creatures. If no target is available, the wererats scurry awaty to spread their lycanthropy.
+	
+<b>Material Component:</b> A pint of animal blood.
+   

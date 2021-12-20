@@ -1,0 +1,19 @@
+<b>Weapon of Impact</b>(Spell Compendium, p. 237)
+
+Transmutation
+ <b>Level:</b>  Bard 3,  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One bludgeoning weapon or 50 bludgeoning projectiles, all of which must be in contact with one another at the time of casting
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Fortitude negates (object, harmless)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+<b>You pass your hands over the weapon, and its head glows with a blue-gold radiance.</b>
+	
+This spell makes a bludgeoning weapon have greater impact, improving its ability to deal telling blows. This transmutation doubles the threat range of the weapon. If the spell is cast on sling bullets or other bludgeoning projectiles, the weapon of impact effect on a particular projectile ends after one use, whether or not the missile strikes its intended target.
+	
+Multiple effects that increase a weapon's threat range, such as the Improved Critical feat, don't stack.
+ <b>Also appears in</b>   Magic of Faerun     

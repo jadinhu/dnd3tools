@@ -1,0 +1,16 @@
+<b>Adamantine Hurricane</b>(Tome of Battle: The Book of Nine Swords, p. 66)
+
+Iron Heart (Strike)
+ <b>Level:</b>  Warblade 8 (Three Iron Heart maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One or more adjacent creatures you threaten
+
+ 	
+<b>In a blur of motion, you make a short, twisting leap in the air. As you turn, your weapon flashes through the enemies around you like a blazing comet. As you drop back to the ground in your fighting stance, your enemies crumple to the ground around you.</b>
+	
+You sweep your weapon in a circle around you, striking out at nearby enemies. You strike with the speed and ferocity of a lightning bolt, forcing your enemies to rely on their reflexes for protection rather than their armor and shields.
+	
+You make two melee attacks against each adjacent opponent you threaten when you initiate this maneuver. You receive a +4 bonus on each of these attacks, which are otherwise made with your highest attack bonus.
+   

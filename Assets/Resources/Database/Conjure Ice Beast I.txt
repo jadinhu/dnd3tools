@@ -1,0 +1,23 @@
+<b>Conjure Ice Beast I</b>(Frostburn)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Cleric 1,  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One conjured ice creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates a creature constructed from magical ice.
+It appears where you designate and acts immediately, on your turn.
+It attacks your opponents to the best of its ability.
+If you can communicate with the creature, you can direct it not to attack, to attack particular enemies, or to perform other actions.
+The spell conjures one of the creatures from the 1st-level list of either the summon monster table or the summon nature's ally table (pages 287-288 of the Player's Handbook).
+The conjured creature cannot have the fire subtype.
+You choose which kind of creature to conjure, and you can change that choice each time you cast the spell.
+The conjured creature is a construct made of magical ice, gaining the ice beast template (see page 138).
+In all other ways, conjure ice beast I functions like summon monster I.
+   

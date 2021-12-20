@@ -1,0 +1,16 @@
+<b>Status, Greater</b>(Book of Exalted Deeds)
+
+Divination
+ <b>Level:</b>  Apostle of Peace 4,  Cleric 4,   Community 4,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature touched/3 levels
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+As status (described in the Player's Handbook), but you can also cast a limited selection of spells through the link, as if you were touching the target.
+You can cast any spell that meets the following conditions:			Level: 0, 1st, or 2nd		Range: Touch		Target: Creature touched		Saving Throw: Harmless For example, if you become aware (through the greater status spell) that one of your linked companions is dying, you can cast cure moderate wounds to try to revive her.	
+ <b>Also appears in</b>   Eberron Campaign Setting  Heroes of Battle     

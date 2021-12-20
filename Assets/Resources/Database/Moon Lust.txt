@@ -1,0 +1,23 @@
+<b>Moon Lust</b>(Spell Compendium, p. 143)
+
+Illusion (Pattern) [Mind-Affecting]
+ <b>Level:</b>  Cleric 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Forcefully presenting a silver ingot in your hand, you extol the virtues of the moon's beauty in a language both beautiful and dead. The words of your loving declaration call forth a silver-white glow around your target that swiftly fades.</b>
+	
+This spell instills in the target an obsessive fascination with the moon. If the target fails its save, it fixates on the moon, staring at the moon or imagining it in its mind, and is considered fascinated for the duration of the spell.
+	
+If the saving throw is successful, the subject is instead dazzled for the duration of the spell.
+	
+Sightless creatures are not affected by this spell.
+	
+Focus: A silver ingot worth 5 gp.
+   

@@ -1,0 +1,23 @@
+<b>Mage Burr</b>(Complete Scoundrel)
+
+Transmutation
+ <b>Level:</b>  Bard 1,  Hexblade 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature wearing armor or using a shield
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Sharp ridges, split leather, and cracking patches of rust spread over your enemy's armor like an angry, irritating disease.
+Jagged edges and rough surfaces break forth all over the target creature's armor and shield.
+These protrusions deal no damage and are little more than an uncomfortable annoyance.
+Arcane spellcasters, however, find the effect most distracting, incurring double the normal arcane spell failure chance for armor and shields.
+In addition, any creature affected by this spell takes a -5 penalty on Concentration checks.
+The check penalty does not worsen if an affected creature is both wearing armor and using a shield.
+For example, a wizard wearing chainmail and carrying a light steel shield would normally have a 35% chance of arcane spell failure.
+That wizard, if targeted by this spell, would incur a 70% chance of arcane spell failure, as well as taking a -5 penalty on Concentration checks.
+This spell has no effect on unarmored opponents or on creatures with only natural armor or an AC bonus from items other than armor.
+   

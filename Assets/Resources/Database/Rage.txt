@@ -1,0 +1,17 @@
+<b>Rage</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>   Madness 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> One action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You can put a creature into a screaming blood frenzy.
+In this rage, the creature gains +4 to Strength, +4 to Constitution, and a +2 morale bonus on Will saves.
+Unlike a barbarian rage, no penalty to AC is suffered, and no fatigue period comes after the rage is over.
+ <b>Also appears in</b>   Player's Handbook v.3.5  Deities and Demigods     

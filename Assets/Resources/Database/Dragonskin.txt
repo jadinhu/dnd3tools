@@ -1,0 +1,16 @@
+<b>Dragonskin</b>(Draconomicon)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+Your skin toughens and becomes scaly like that of a chromatic dragon, of a color that you select.
+You gain an enhancement bonus to your natural armor equal to +3, +1 per two levels above 5th (to a maximum of +5 at 9th level), as well as energy resistance equal to twice your caster level (maximum of 20 at 10th level) against the type of energy appropriate to the color you select: acid (black or green), cold (white), electricity (blue), or fire (red).
+Material Component: A dragon's scale.
+Special: Sorcerers cast this spell at +1 caster level.
+ <b>Also appears in</b>   Spell Compendium     

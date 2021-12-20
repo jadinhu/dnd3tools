@@ -1,0 +1,26 @@
+<b>Slime Wave</b>(Fiendish Codex I: Hordes of the Abyss)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Cleric 7,  Druid 7,   Ooze 7,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 15-ft.-radius spread
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> No
+
+ 	
+You summon forth a column of green slime that quickly flattens out over a circular area 30 feet in diameter.
+You create a wave of green slime that begins at the location you choose (within range) and violently spreads to the limit of the area.
+The wave splashes and splatters as it moves, clinging to the walls and ceilings of enclosed areas as well as the floor.
+In addition, one patch of green slime adheres to each creature in the area for every 5 feet of its face.
+Green slime devours flesh and organic materials on contact and even dissolves metal.
+A patch of green slime deals 1d6 points of Constitution damage per round that it is in contact with flesh.
+Against wood or metal, green slime deals 2d6 points of damage per round, ignoring the hardness of metal but not that of wood.
+It does not harm stone.
+On the first round of contact, the slime can be scraped off a creature (most likely destroying the scraping device), but after that it must be frozen, burned, or cut away � ;processes that damage the victim as well as the slime.
+Extreme cold or heat, sunlight, or a remove disease spell destroys the green slime.
+Unlike normal green slime, the slime created by this spell evaporates at the end of the spell's duration.
+Material Component: A few drops of stagnant pond water.
+ <b>Also appears in</b>   Spell Compendium  Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins     

@@ -1,0 +1,16 @@
+<b>Supreme Blade Parry</b>(Tome of Battle: The Book of Nine Swords, p. 70)
+
+Iron Heart (Stance)
+ <b>Level:</b>  Warblade 8 (Three Iron Heart maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You drop into a relaxed pose, allowing your defenses to flow naturally and easily. Your blade lashes out to absorb or deflect each attack you face, blunting the force of your enemies? blows.</b>
+	
+As a student of the Iron Heart discipline, you learn that a simple flick of the wrist or turn of the blade can transform a deadly strike into a wild miss. In battle, you enter a steady rhythm that makes you frustratingly difficult to fight. You disrupt each attack with a perfectly timed counter, leaving your foes? strikes weak and ineffectual.
+	
+While you are in this stance, you gain damage reduction 5/? against any opponent that does not catch you flat-footed. To gain this benefit, you must be proficient with the weapon you carry. You gain this benefit while unarmed only if you have the Improved Unarmed Strike feat.<   

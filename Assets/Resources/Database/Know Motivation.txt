@@ -1,0 +1,17 @@
+<b>Know Motivation</b>(Oriental Adventures)
+
+Divination [Mind-Affecting]
+ <b>Level:</b>  Shaman 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Quarter circle emanating from you to the extreme of the range
+ <b>Duration:</b> Concentration, up to 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (see text)
+ <b>Spell Resistance:</b> No
+
+ 	
+You can sense the basic needs, drives, and emotions of creatures within the spell area.
+Each round, you can focus your attention on one creature within the area and learn what is currently motivating its actions � ;for example, hunger, thirst, fear, fatigue, pain, uncertainty, rage, hatred, curiosity, hostility, friendliness, love, and so on.
+Focus: A prayer written on a strip of cloth and tied around your forehead.
+   

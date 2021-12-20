@@ -1,0 +1,19 @@
+<b>Blast of Flame</b>(Spell Compendium, p. 31)
+
+Conjuration (Creation) [Fire]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> 60 ft
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>As you cast the spell, your hand becomes sheathed in barely perceptible yellow flames. With a roar, the flames burst from your hand in the shape of a cone, leaving your hand trailing wisps of smoke.</b>
+	
+Flames fill the area, dealing 1d6 points of fire damage per caster level (maximum 10d6) to any creature in the area that fails its saving throw.
+	
+<b>Material Component:</b> A bit of wick soaked in oil.
+   

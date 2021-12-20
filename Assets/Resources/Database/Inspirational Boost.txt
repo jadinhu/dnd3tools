@@ -1,0 +1,16 @@
+<b>Inspirational Boost</b>(Complete Adventurer)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round or special; see text
+
+ 	
+When you play your instrument, sing your song, recite your epic poem, or speak your words of encouragement, you fill your allies with greater confidence than normal.
+While this spell is in effect, the morale bonus granted by your inspire courage bardic music increases by 1.
+The effect lasts until your inspire courage effect ends.
+If you don't begin to use your inspire courage ability before the beginning of your next turn, the spell's effect ends.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,19 @@
+<b>Rusting Fog</b>(The Forge of War, p. 115)
+
+Transmutation
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Cloud spreads in 20-ft. radius, 20 ft. high)
+ <b>Duration:</b> 1 round/2 levels
+ <b>Saving Throw:</b> None or Fortitude negates (object); see text
+ <b>Spell Resistance:</b> No
+
+ 	
+The corrosive vapors created by this spell rust any metal they touch. Nonmagical objects made of iron, iron alloys, or other ferrous metals take 1d4 points of damage for every round of exposure. This damage ignores hardness. Metal armor affected by rusting fog loses 1d4 points of Armor Class for each round of exposure, as well as taking damage. An item reduced to 0 hit points is destroyed. Ferrous creatures within the cloud suffer the same damage as objects.
+	
+Magic items can resist with a successful Fortitude save. They are entitled to a new save for each round of exposure, but need not save again once they succeed.
+	
+<b>Material Component</b>: Rust particles from a formerly magic metal item.
+   

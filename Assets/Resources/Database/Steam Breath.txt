@@ -1,0 +1,18 @@
+<b>Steam Breath</b>(Complete Arcane)
+
+Evocation [Fire]
+ <b>Level:</b>  Wu Jen 3 (Water),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You expel a powerful breath of superheated steam that extends outward as a cone of scalding mist.
+Creatures within the cone take 1d6 points of fire damage per caster level (maximum 10d6).
+The steam clouds dissipate instantly after the damage is dealt.
+Material Component: A glowing piece of charcoal doused with water.
+ <b>Also appears in</b>   Oriental Adventures     

@@ -1,0 +1,15 @@
+<b>Sonic Shield</b>(Player's Handbook II)
+
+Evocation
+ <b>Level:</b>  Bard 3,  Duskblade 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>The air around you shifts and shimmers as a field of pure sonic energy forms before you. This shield repels all attacks with a blast of energy that sends the attacker stumbling backward.</b>
+	
+This spell grants you a +4 deflection bonus to AC. In addition, anyone who successfully hits you with a melee attack takes 1d8 points of sonic damage and must make a Fortitude saving throw or be knocked 5 feet away from you into an unoccupied space of your choice. If no space of sufficient size is available for it to enter, it instead takes an extra 1d8 points of sonic damage.
+   

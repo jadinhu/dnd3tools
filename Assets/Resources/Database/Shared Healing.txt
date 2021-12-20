@@ -1,0 +1,19 @@
+<b>Shared Healing</b>(Magic of Eberron, p. 101)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will half (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You grant the target creature the ability to cure its own wounds. The subject can cure up to twice your caster level in hit points (maximum 20 hit points) while the spell's duration lasts, and can spread this healing out among several uses. Drawing on the power of the spell is a standard action that does not provoke attacks of opportunity. This spell does not allow the subject to cure others.
+	
+If the target creature uses up its allotted healing before the duration elapses, the spell immediately ends. If any curing power remains available when the spell ends, that curing is immediately applied to the subject.
+	
+<b>Special:</b> A character with any Mark of Healing dragonmark, or with the Favored in House feat (Jorasco), casts this spell at +1 caster level.
+   

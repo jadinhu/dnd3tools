@@ -1,0 +1,32 @@
+<b>Phantasmal Thief</b>(Book of Vile Darkness)
+
+Conjuration (Creation)
+ <b>Level:</b>  Wizard 8,  Sorcerer 8,   Greed 8,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One object
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+An invisible force, not unlike an unseen servant, comes into being where the caster wishes.
+On the caster's turn, this force steals objects from others as she inaudibly directs it to (a free action).
+A phantasmal thief can only steal from creatures.
+It cannot break into locked chests or steal unattended objects.
+A phantasmal thief has a Hide bonus of +20 (useful against those who can see invisible creatures) and a Move Silently bonus of +20.
+If a phantasmal thief goes undetected, it can steal any object a creature possesses but is not carrying or wearing.
+Even objects in a bag of holding can be stolen.
+It can only steal objects, bring objects to the caster, or put them back where they came from.
+It can take no other actions.
+A phantasmal thief takes 1 round to steal an object and another round to bring it to the caster.
+A phantasmal thief can only hold one object at a time; the object becomes invisible in the grasp of the phantasmal thief.
+The phantasmal thief cannot take an item if the thief is detected by the creature it's trying to steal from (usually by a Listen or Spot check).
+However, the thief, however, can repeat the attempt next round.
+It cannot be harmed in any way, although it can be dispelled.
+A phantasmal thief can also steal an object from a creature's hand.
+It does this as if it had the Improved Disarm feat and a +20 Strength bonus.
+If a phantasmal thief is used in this way, it disappears after it brings the stolen object to the caster.
+Material Component: A spool of green thread.
+ <b>Also appears in</b>   Spell Compendium  Draconomicon     

@@ -1,0 +1,19 @@
+<b>Amorphous Form</b>(Underdark)
+
+Transmutation
+ <b>Level:</b>  Assassin 3,  Prime Underdark Guide 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing corporeal creature touched
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject and all its gear become amorphous and oozelike. This new form is boneless and fluid, enabling the subject to pass through holes or narrow openings as small as 2 inches in diameter. While amorphous, the subject is immune to poison, polymorphing, and stunning, it cannot be flanked, and it is not subject to critical hits. It gains a swim speed (if it does not have one already) equal to its land speed. The subject can remain submerged as long as desired without breathing.
+	
+The subject's armor (including natural armor) becomes worthless, though its modifiers for size, Dexterity, and deflection still apply to Armor Class, as do armor bonuses from force effects (for example, from the mage armor spell). While amorphous, the subject can't attack or cast spells that require verbal, somatic, material, or focus components. (This limitation does not rule out the casting of any spells that the subject might have prepared using the metamagic feats Eschew Materials, Silent Spell, and Still Spell.) The subject loses all supernatural abilities while in amorphous form, and its magic items cease functioning as long as it remains amorphous.
+	
+Material Component: A pinch of gelatin.
+ <b>Also appears in</b>   Spell Compendium     

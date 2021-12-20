@@ -1,0 +1,17 @@
+<b>Construct Essence</b>(Races of Eberron, p. 183)
+
+Transmutation
+ <b>Level:</b>  Artificer 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living construct touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+As <b>lesser construct essence</b> with the following additional effects. The living construct becomes immune to critical hits, sneak attacks, ability damage, ability drain, death effects, and necromancy effects. The living construct also gains darkvision out to 60 feet.
+	
+This spell counters and dispels lesser humanoid essence and humanoid essence. If this spell is cast on a creature under the effect of lesser humanoid essence, the latter spell is automatically ended. If this spell is cast on a creature under the effect of humanoid essence, both spells are dispelled and have no effect. It has no effect if cast on a creature under the effect of greater humanoid essence.
+   

@@ -1,0 +1,12 @@
+<b>Fire Orb</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>
+
+ 	
+As <b>acid orb</b>, except fire orb deals fire damage.
+A creature struck directly takes the orb's damage, and the flash of heat dazes it for 1 round.
+A dazed creature can take no actions (but defends itself normally).
+A successful Fortitude save reduces damage by half and negates the daze effect.
+   

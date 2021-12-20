@@ -1,0 +1,25 @@
+<b>Soul of Light</b>(Dragon Magic)
+
+Transmutation [Good]
+ <b>Level:</b>  Paladin 2,  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour
+
+ 	
+Bright, clear light sprouts from your body, quickly flaring before fading to a faint white pulse. This spell infuses your body with energy drawn from the Positive Energy Plane, making it easier to repair injuries.
+	
+Whenever you cast or are the target of a conjuration (healing) spell, you can choose for the spell to heal a number of extra points of damage equal to twice the spell's level.
+	
+If such a spell heals at least 10 points of damage, it also removes the fatigued condition from the target (or reduces exhaustion to fatigue).
+	
+If soul of light and soul of anarchy are active on you at the same time, you gain damage reduction 3/evil or lawful.
+	
+If soul of light and soul of order are active on you at the same time, you gain damage reduction 3/chaotic or evil.
+	
+Soul of light counters and dispels soul of shadow, and vice versa.
+	
+Special: A good-aligned dragon capable of casting 5th-level sorcerer spells can cast this spell as a swift action.
+   

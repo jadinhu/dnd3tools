@@ -1,0 +1,16 @@
+<b>Bounding Assault</b>(Tome of Battle: The Book of Nine Swords, p. 62)
+
+Diamond Mind (Strike)
+ <b>Level:</b>  Swordsage 4 (Two Diamond Mind maneuvers),  Warblade 4 (Two Diamond Mind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You spring across the battlefield, using your focus and ability to act quickly to make an attack while moving.</b>
+	
+You combine speed and power into a deadly combination. With this maneuver, you move across the battlefield in a blur, pausing only to deliver a ferocious attack.
+	
+As part of this maneuver, make a double move. After you move, you can also make a melee attack. You gain a +2 bonus on this attack. This maneuver is considered a charge attack when determining if feats and other abilities apply to your attack.
+   

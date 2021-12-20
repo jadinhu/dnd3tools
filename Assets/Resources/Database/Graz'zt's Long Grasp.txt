@@ -1,0 +1,26 @@
+<b>Graz'zt's Long Grasp</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+The caster causes one of her hands to detach from her arm.
+She can control the hand by thought alone as a free action.
+It can fly at a speed of 20 feet (perfect maneuverability).
+On casting the spell, the caster takes 2d4 points of damage, but she is healed by the same amount when the hand returns to her arm (unless it is destroyed or otherwise prevented from reaching her arm before the end of the spell).
+The damage heals normally.
+As long as the spell lasts, the floating hand can deliver any spell with a range of touch that the caster can cast.
+The spell gives the caster a +2 bonus on her melee touch attack with the disembodied hand, which functions as if it were attached to her.
+The hand can flank targets as a creature can.
+The hand can punch opponents (as a normal unarmed attack with a +2 attack bonus), or it can grasp things and move them (with the caster's normal Strength).
+The hand can make grapple attacks, but it is considered Tiny.
+If the hand goes beyond the spell's range, if the caster can no longer see it, or if she is not directing it, the hand attempts to return to her on its own, reattaching to the end of the wrist.
+The hand has improved evasion (half damage on a failed Reflex save and no damage on a successful save), the caster's save bonuses, and AC 22.
+The caster's Intelligence modifier applies to the hand's AC as if it were the hand's Dexterity.
+The hand has 2d4 hit points, the same number that the caster lost in creating it.
+   

@@ -1,0 +1,20 @@
+<b>Invest Light Protection</b>(Player's Handbook II)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous; see text
+ <b>Saving Throw:</b> Will half (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless); see text
+
+ 	
+You invest the target with an infusion of divine energy.
+His wounds knit shut, while the power you grant to him helps ward off future injuries.
+You heal a living creature you touch of 1d4 points of damage +1 per two caster levels (maximum +3).
+In addition, the creature touched gains damage reduction 1/evil for 1 minute.
+Like cure light wounds, this spell deals damage to undead creatures instead of curing them.
+In addition, on a failed save undead creatures take an extra 1 point of damage from any weapon or physical attack capable of overcoming good damage reduction for 1 minute.
+   

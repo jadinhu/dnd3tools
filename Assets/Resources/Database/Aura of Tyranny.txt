@@ -1,0 +1,15 @@
+<b>Aura of Tyranny</b>(Tome of Battle: The Book of Nine Swords, p. 57)
+
+Devoted Spirit (Stance) [Evil]
+ <b>Level:</b>  Crusader 6 (Two Devoted Spirit maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>A sickly gray radiance surrounds you, sapping the strength of your allies and funneling it to you.</b>
+	
+While you are in this stance, you drain hit points from your allies. At the end of your turn, you can choose to deal 2 points of damage to each willing ally within 10 feet. For each ally who takes this damage, you heal 1 point of damage.
+   

@@ -1,0 +1,15 @@
+<b>Aspect of the Deity, Lesser</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Transmutation [Evil, Good]
+ <b>Level:</b>  Paladin 4,   Mysticism 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+When you cast this spell, your body changes into a form more like your deity's (in a very limited fashion, of course).
+You gain an enhancement bonus (1d4+1 points) to your Charisma score.
+You also gain resistance 10 to two or three energy types: acid, cold, and electricity if you are good, cold and fire if you are evil.
+   

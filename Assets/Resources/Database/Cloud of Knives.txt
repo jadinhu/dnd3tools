@@ -1,0 +1,21 @@
+<b>Cloud of Knives</b>(Player's Handbook II)
+
+Conjuration
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You conjure a cloud of sharp knives around you.
+The knives float in the air around your upper body, pointing in the direction you look.
+Each round as a free action at the beginning of your turn, you can release one of these knives at any target within 30 feet that you can see.
+This is a ranged attack that uses an attack bonus equal to your caster level + your key ability modifier.
+Each successful hit deals 1d6 points of damage +1 per three caster levels (maximum +5) and threatens a critical hit on a roll of 19-20.
+Damage reduction applies to knife attacks from this spell.
+The knives are treated as magic for the purpose of overcoming damage reduction.
+Material Component: A knife.
+Optional Material Component:Using a silvered dagger (22 gp) in the casting of this spell allows the knives to overcome damage reduction as if they were both magic and silver, but the knives deal 1 less point of damage.
+   

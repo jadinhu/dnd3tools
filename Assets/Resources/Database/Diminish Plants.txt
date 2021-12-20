@@ -1,0 +1,22 @@
+<b>Diminish Plants</b>(Player's Handbook v.3.5, p. 221)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Ranger 3,  Blighter 3,  Death Master 3,  Urban Druid 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> See text
+ <b>Target:</b> See text
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell has two versions.
+Prune Growth: This version causes normal vegetation (grasses, briars, bushes, creepers, hedges, thistles, trees, vines, and so forth) within long range (400 feet + 40 feet per level) to shrink to about one-third of their normal size, becoming untangled and less bushy.
+The affected vegetation appears to have been carefully pruned and trimmed.
+At your option, the area can be a 100-foot-radius circle, a 150-foot-radius semicircle, or a 200-foot-radius quarter-circle.
+You may also designate portions of the area that are not affected.
+Stunt Growth: This version targets normal plants within a range of 1/2 mile, reducing their potential productivity over the course of the following year to one-third below normal.
+Diminish plants counters plant growth.
+This spell has no effect on plant creatures.
+   

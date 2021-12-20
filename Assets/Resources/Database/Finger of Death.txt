@@ -1,0 +1,18 @@
+<b>Finger of Death</b>(Player's Handbook v.3.5, p. 230)
+
+Necromancy [Death]
+ <b>Level:</b>  Blighter 6,  Sorcerer 7,  Wizard 7,  Warmage 7,  Sha'ir 7,  Death Master 7,  Dread Necromancer 7,  Druid 8,  Urban Druid 8,   Blightbringer 6,  Abyss 6,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You can slay any one living creature within range.
+The target is entitled to a Fortitude saving throw to survive the attack.
+If the save is successful, the creature instead takes 3d6 points of damage +1 point per caster level (maximum +25).
+The subject might die from damage even if it succeeds on its saving throw.
+   

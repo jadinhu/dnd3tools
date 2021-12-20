@@ -1,0 +1,15 @@
+<b>Bolts of Bedevilment</b>(Eberron Campaign Setting, p. 109)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>   Madness 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Up to three creatures
+ <b>Duration:</b> 1 rounds/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell empowers you with the ability to use three ray attacks, one per round, during a period of one round per level. Using a ray attack is a standard action. The ray affects one living creature, clouding his mind so that he takes no actions. The subject is dazed, not stunned, so attackers get no special advantage against him.
+   

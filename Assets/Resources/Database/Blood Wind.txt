@@ -1,0 +1,22 @@
+<b>Blood Wind</b>(Savage Species)
+
+Evocation
+ <b>Level:</b>  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 caster levels)
+ <b>Target:</b> A single creature with Intelligence of 4 or higher
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject may take a full attack action to use one of its natural weapons as if it were a thrown weapon with a 20-foot range increment.
+The subject may do so every round while the spell is in effect.
+The subject gestures with the natural weapon as if making a melee attack.
+The effect of this attack always emanates from the subject's location.
+The attack does not get a flanking bonus or help a combatant get one.
+The subject uses its highest melee attack bonus, and deals damage normally if it hits.
+All normal modifiers to ranged combat apply.
+If the subject has more than one natural weapon, it may choose which weapon to use during each round the spell is in effect.
+ <b>Also appears in</b>   Spell Compendium     

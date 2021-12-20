@@ -1,0 +1,21 @@
+<b>Steelsting</b>(Dragons of Faerun)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./levels)
+ <b>Area:</b> Cylinder 10 ft. wide, 25 ft. long
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Tiny pinpricks tingle over your entire body as if a swarm of needles is trying to emerge from beneath your flesh.
+As you complete the incantation, daggerlike shards of force burst forth from your skin.
+You create a brief maelstrom of daggerlike, flying darts of force that spin, slice, and rebound within the area.
+All within the area take 1d6 points of force damage per caster level (maximum 10d6).
+The name is a misnomer, since the spell creates neither steel nor a true sting.
+Origin: This spell was created decades ago by Rythtalies of Amn, who patterned it after the blade barrier spell employed by a cleric of Bhaal.
+He then taught it to Jalanvaloss.
+ <b>Also appears in</b>   City of Splendors: Waterdeep     

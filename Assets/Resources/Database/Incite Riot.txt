@@ -1,0 +1,19 @@
+<b>Incite Riot</b>(Player's Handbook II)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>  Bard 5,  Beguiler 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You sow discord among your enemies, spurring them to physical violence.
+Each creature that fails its saving throw attacks the nearest creature on its next turn, whether friend or foe.
+An affected creature attacks with whatever weapon is in hand, or with natural weapons.
+An unarmed creature attacks with an unarmed strike.
+An affected creature not already adjacent to another creature will move or (if possible) charge the nearest creature; if the nearest creature is not within range of a charge, the subject moves toward the nearest creature along the most efficient route.
+   

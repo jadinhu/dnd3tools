@@ -1,0 +1,19 @@
+<b>Hail of Stone</b>(Spell Compendium, p. 108)
+
+Conjuration (Creation) [Earth]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Cylinder (5-ft. radius, 40 ft. high)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You hold the jade chip before you and blow on it as you end the spell. The chip flares with a green flame and vanishes as rocks begin to fall on your pursuers.</b>
+	
+You create a rain of stones that deals 1d4 points of damage per caster level (maximum 5d4) to creatures and objects within the area.
+	
+Material Component: A piece of jade worth at least 5 gp.
+   

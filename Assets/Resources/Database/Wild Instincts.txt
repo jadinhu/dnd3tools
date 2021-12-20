@@ -1,0 +1,15 @@
+<b>Wild Instincts</b>(Races of Eberron, p. 191)
+
+Divination [Mindset]
+ <b>Level:</b>  Druid 2,  Ranger 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+When you cast this spell, you sharpen your instincts and your awareness of your immediate surroundings. While the spell is in effect, you retain your Dexterity bonus to AC even if f lat-footed or attacked by an unseen opponent, and you gain a +10 insight bonus on Listen and Spot checks.
+	
+<b>Mindset:</b> The energies you manipulate while preparing this spell enhance your senses, granting you a +1 insight bonus on Listen and Spot checks (or a +2 bonus on Listen and Spot checks if you are a shifter). This bonus is replaced by the bonus granted when the spell is cast.
+   

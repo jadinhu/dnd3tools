@@ -1,0 +1,17 @@
+<b>Acid Storm</b>(Magic of Faerun)
+
+Evocation [Acid]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Cylinder (20-ft. radius, 20 ft. high)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause acid to rain downward.
+The acid deals 1d6 points of acid damage per caster level (maximum 15d6).
+Focus: A flask of acid.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n  Spell Compendium     

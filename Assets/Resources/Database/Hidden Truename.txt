@@ -1,0 +1,20 @@
+<b>Hidden Truename</b>(Tome of Magic)
+
+Abjuration
+ <b>Level:</b>  Cleric 6,  Druid 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, <abbr title="True Name">TN, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature with an Intelligence score of 3 or higher
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You chant a personal truename in an ever-quieter voice as you slowly lower your hand and crouch, trying to erase traces of the personal truename from the cosmos.
+The subject gains protection from those who would use her personal truename for ill purposes, and a modicum of defense against utterances that use more general truenames.
+The subject of a hidden truename spell gets a +2 bonus on saving throws against utterances.
+In addition, those trying to research the personal truename of a creature protected by hidden truename take a -8 penalty on the Knowledge check required to do so.
+(Truename research rules are detailed on page 196).
+Truename Component:When you cast this spell, you must correctly speak the personal truename of the creature you're trying to protect.
+   

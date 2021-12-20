@@ -1,0 +1,9 @@
+<b>Cure Minor Wounds</b>(Player's Handbook v.3.5, p. 216)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 0,  Druid 0,  Adept 0,  Healer 0,  Divine Bard 0,  Urban Druid 0,    
+<b>Components:</b>
+
+ 	
+This spell functions like cure light wounds, except that it cures only 1 point of damage.
+   

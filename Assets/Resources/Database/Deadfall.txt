@@ -1,0 +1,19 @@
+<b>Deadfall</b>(Spell Compendium, p. 59)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> Mass of dead wood forming in a cylinder (20-ft. radius, 40 ft. high); see text
+ <b>Duration:</b> Instantaneous; see text
+ <b>Saving Throw:</b> Reflex partial; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With the final word of the spell you call into being a huge tower of logs and branches. It collapses to the ground with a roar, crushing creatures beneath its weight.</b>
+	
+Pick a point on the ground as the center of the radius and bottom of the cylinder. <b>Deadfall</b> creates a tangled mass of huge branches, logs, and fallen trees on the ground. The deadfall immediately collapses in on itself with terrific force and noise. Creatures and objects in the area take 1d6 points of damage per caster level (maximum 20d6). In addition, creatures in the area must succed on a Reflex save or be knocked prone.
+	
+Once you cast the spell, a considerable volume of dead wood remains behind. This pile of brush is 5 feet high, with a 20 foot radius, and it counts as dense rubble (<b>DMG</b> 90).
+   

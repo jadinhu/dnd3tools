@@ -1,0 +1,16 @@
+<b>Fiendish Quickening</b>(Book of Vile Darkness)
+
+Transmutation
+ <b>Level:</b>  Cleric 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, Fiend
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 round/level
+
+ 	
+For the duration of this spell, the caster's teleport or teleport without error spell-like ability is quickened.
+This means that the caster can teleport as a free action and still have time during the round to attack and/or move.
+The caster can use his quickened teleport or teleport without error once per round.
+This spell does not affect teleport spells in any way, only the spell-like ability of fiends to teleport themselves.
+   

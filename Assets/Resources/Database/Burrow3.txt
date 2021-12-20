@@ -1,0 +1,21 @@
+<b>Burrow</b>(Underdark)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Harper Scout 2,  Prime Underdark Guide 2,  Ranger 2,  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject's hands sprout claws as hard as stone.
+It can use these claws to burrow through earth, sand, clay, and gravel (but not solid rock), excavating with enough speed to move through the earth at a speed of 10 feet, much like a badger.
+The subject can use the claws as weapons that deal 1d6 points of damage.
+If its normal unarmed damage is greater than 1d6, the damage does not change.
+The subject is considered armed while this spell is in effect.
+Arcane Focus: A claw from a burrowing creature.
+This spell supersedes the version from Races of FaerÃ»n.
+ <b>Also appears in</b>   Spell Compendium  Races of Faerun     

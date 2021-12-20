@@ -1,0 +1,17 @@
+<b>Dancing Blade Form</b>(Tome of Battle: The Book of Nine Swords, p. 67)
+
+Iron Heart (Stance)
+ <b>Level:</b>  Warblade 5 (Two Iron Heart maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You strike forward like a slithering snake, extending yourself almost beyond your ability to maintain your balance. Your foe stumbles backward, surprised that you could reach him from such a great distance.</b>
+	
+By carefully distributing your weight and establishing a steady, rugged posture, you can reach out and strike opponents with your melee attacks at a greater than normal distance. A warrior with less training and expertise would fall flat on his face attempting this maneuver. You, on the other hand, have the grace, focus, and skill needed to complete this complex move.
+	
+While you are in this stance, you gain a bonus to your reach during your turn. When you make a melee attack, your reach increases by 5 feet. Your reach is not improved when it is not your turn, such as when you make an attack of opportunity. You cannot improve your reach by more than 5 feet by using this ability in conjunction with other maneuvers.
+   

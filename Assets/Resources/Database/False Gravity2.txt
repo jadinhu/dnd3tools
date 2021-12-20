@@ -1,0 +1,21 @@
+<b>False Gravity</b>(Spell Compendium, p. 87)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You clatter the magnets in your hand and set your foot on the wall. Your second step carries you onto the wall, and you can walk up it with ease.</b>
+	
+The subject of this spell can travel on any solid surface as though that surface possessed its own gravity. For example, the subject could walk or even run up a wall as though the wall were a perfectly level floor. The subject can switch &quot;down&quot; as often as it likes during the spell's duration, though only once per round, as a free action. Unattended objects fall, as normal.
+	
+The subject of <b>false gravity</b> can fly by choosing a solid surface and letting itself fall through the air toward it. A character &quot;flying&quot; in this fashion moves at 30 feet per round and can make one turn, in any direction, once per round by redefining its personal gravity. A creature falling in this fashion loses all &quot;downward momentum when it changes its gravity.
+	
+<b>Material Component:</b> A pair of magnets.
+ <b>Also appears in</b>   Planar Handbook     

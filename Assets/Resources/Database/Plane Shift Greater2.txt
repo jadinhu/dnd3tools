@@ -1,0 +1,17 @@
+<b>Plane Shift, Greater</b>(Spell Compendium, p. 159)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Cleric 7,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched, or up to eight willing creatures joining hands
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You and the others link hands, and you concentrate on the forked copper rod. You rap the fork against your thigh and speak the words of the spell. You know where you're going, and as the landscape around you fades, a new plane takes shape around you.</b>
+	
+This spell functions like <b>plane shift</b> (PH 262), except that if you have visited the desired location, the spell takes you to the precise location (rather than 5 to 500 miles distant).
+ <b>Also appears in</b>   Planar Handbook     

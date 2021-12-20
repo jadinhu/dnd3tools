@@ -1,0 +1,25 @@
+<b>Flesh to Salt</b>(Sandstorm)
+
+Transmutation
+ <b>Level:</b>  Druid 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You call the essence of salt forth in the target, dealing 1d6 points of damage per two caster levels (maximum 10d6).
+If the target takes more than half of its current hit points in damage from the spell, it must make a Fortitude saving throw or its body completely crystallizes.
+The subject, but not its carried gear, turns into a mindless, inert statue.
+If a statue resulting from this spell is broken or damaged, the subject has similar damage or deformities if ever returned to its original state.
+The creature is not dead, but it does not seem to be alive either when viewed with spells such as deathwatch.
+The transformed creature takes on the consistency of rock salt (hardness 2, 5 hp per inch of thickness).
+Salt statues are extremely susceptible to dissolution by water � ;if exposed to flooding or heavy rain, they take damage that is not reduced by hardness.
+A constant blast of water (for example, a geyser from a decanter of endless water) deals 10 points of damage per minute.
+A steady rain deals 1 point of damage per minute.
+A stone to flesh spell affects salt as if it were stone, returning an affected creature to its original state.
+Material Component: A lump of rock salt.
+   

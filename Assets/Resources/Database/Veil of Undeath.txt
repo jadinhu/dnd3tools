@@ -1,0 +1,21 @@
+<b>Veil of Undeath</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 8,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 min./level
+
+ 	
+You gain many of the traits common to undead creatures.
+While the spell lasts, you have immunity to mind-affecting spells and abilities, poison, sleep, paralysis, stunning, disease, death, extra damage from critical hits, nonlethal damage, death from massive damage, ability drain, energy drain, fatigue, exhaustion, damage to physical ability scores, and any effect requiring a Fortitude save unless it is harmless or affects objects.
+You need not breathe, eat, or sleep.
+For the duration of the spell, your Con becomes � ;.
+You lose any bonus hit points gained from having a Con bonus (this can't reduce hit points to fewer than 1 per HD).
+If your Con modifier is normally a penalty, you don't gain any hit points by casting this spell.
+Like an undead creature, you are damaged by cure spells and healed by inflict spells.
+You don't actually gain the undead type by casting this spell.
+Material Component: A black sapphire worth 1,000 gp.
+   

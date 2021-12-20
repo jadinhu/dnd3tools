@@ -1,0 +1,25 @@
+<b>Phantasmal Thief</b>(Spell Compendium, p. 155)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,   Greed 8,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One invisible, mindless, shapeless thief
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>As you invoke this spell, the spool begins to spin, the thread vanishing as it unravels. There is a wrinkle of force that flashes briefly; then it evaporates, leaving only the promise of power behind.</b>
+	
+An invisible force, not unlike the product of an <b>unseen servant</b> spell (PH 297), comes into being where you wish. On your turn, this force steals objects from others as you inaudibly direct it (a free action). A phantasmal thief can steal an object from a creature or can pick up an unattended object, as long as the object weighs no more than 1 pound per caster level. It cannot break into locked chests. A phantasmal thief has a Hide modifier (useful against those who can see invisible creatures) and a Move Silently modifier both equal to your caster level.
+	
+If a phantasmal thief goes undetected, it can steal any object a creature possesses but is not holding or wearing. Even objects in a bag of holding can be stolen. It can steal objects, bring objects to you, or put them back where they came from. It can take no other actions. A phantasmal thief needs 1 round to steal an object and another round to bring it to you.
+	
+A phantasmal thief can hold only one object at a time, and the object becomes invisible in its grasp. A thief cannot take an item if it is detected by the creature it's trying to steal from (with a Listen or Spot check). However, the thief can repeat the attempt in the next round. It cannot be harmed in any way, although it can be dispelled.
+	
+A phantasmal thief can steal an object from a creature's hand by making a successful disarm attempt. It does so with a bonus on the disarm check equal to your caster level. If a phantasmal thief is used in this way, it disappears after it brings the stolen object to you.
+	
+Material Component: A spool of green thread.
+ <b>Also appears in</b>   Book of Vile Darkness  Draconomicon     

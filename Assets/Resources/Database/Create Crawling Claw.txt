@@ -1,0 +1,23 @@
+<b>Create Crawling Claw</b>(Monster Compendium: Monsters of FaerÃ»n)
+
+Transmutation [Evil]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Severed left hands within a 5-foot-radius circle
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You may create a number of crawling claws up to twice your caster level.
+The hands to be transformed must all be within a 5-footradius circle.
+To begin the spell, you must cast magic circle against good around yourself and the claws.
+The magic circle need not endure throughout the create crawling claw spell's 1-hour casting time; simply initiating the spell inside the circle is good enough.
+Once created, the crawling claws will be under your direct telepathic command, so long as your instructions are very simple and you are within 100 feet.
+If you leave that area, you must give the crawling claws simple standing orders beforehand.
+Creating a crawling claw out of someone's hand does not preclude the use of a resurrection spell to bring that person back to life.
+Stories are told of adventurers who were resurrected and later attacked by their own left hands.
+Material Components: Clippings from a ghoul's fingernails, and a ring that someone else lost.
+   

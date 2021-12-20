@@ -1,0 +1,17 @@
+<b>Blinding Spittle</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One missile of spit
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Using a ranged touch attack (with a -4 penalty), you spit caustic saliva into your target's eyes.
+The spittle blinds your target until he can wash his eyes with water or other rinsing fluid.
+This spell has no effect on creatures without eyes or that don't depend on eyes for vision.
+ <b>Also appears in</b>   Spell Compendium  Player's Guide to FaerÃ»n     

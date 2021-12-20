@@ -1,0 +1,29 @@
+<b>Blasphemy</b>(Player's Handbook v.3.5, p. 205)
+
+Evocation [Evil, Sonic]
+ <b>Level:</b>  Cleric 7,  Nar Demonbinder 7,  Death Master 7,   Evil 7,  Hades 7,  Hatred 7,  Mysticism 7,  Orc 7,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 40 ft.
+ <b>Area:</b> Nonevil creatures in a 40-ft.-radius spread centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None or Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Any nonevil creature within the area of a <b>blasphemy</b> spell suffers the following ill effects.
+	<table>		<tr>			<th>HD </th>			<th>Effect </th>		</tr>		<tr>			<td> Equal to caster level </td>			<td> Dazed </td>		</tr>		<tr>			<td> Up to caster level � ;1 </td>			<td> Weakened, dazed </td>		</tr>		<tr>			<td> Up to caster level � ;5 </td>			<td> Paralyzed, weakened, dazed </td>		</tr>		<tr>			<td> Up to caster level � ;10 </td>			<td> Killed, paralyzed, weakened, dazed </td>		</tr>	</table>	
+The effects are cumulative and concurrent. No saving throw is allowed against these effects.
+	
+<b>Dazed:</b> The creature can take no actions for 1 round, though it defends itself normally.
+	
+<b>Weakened:</b> The creature's Strength score decreases by 2d6 points for 2d4 rounds.
+	
+<b>Paralyzed:</b> The creature is paralyzed and helpless for 1d10 minutes.
+	
+<b>Killed:</b> Living creatures die. Undead creatures are destroyed.
+	
+Furthermore, if you are on your home plane when you cast this spell, nonevil extraplanar creatures within the area are instantly banished back to their home planes. Creatures so banished cannot return for at least 24 hours. This effect takes place regardless of whether the creatures hear the <b>blasphemy</b>. The banishment effect allows a Will save (at a -4 penalty) to negate.
+	
+Creatures whose Hit Dice exceed your caster level are unaffected by <b>blasphemy</b>.
+   

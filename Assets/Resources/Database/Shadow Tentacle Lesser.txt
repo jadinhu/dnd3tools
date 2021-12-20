@@ -1,0 +1,28 @@
+<b>Shadow Tentacle, Lesser</b>(Lords of Darkness)
+
+Abjuration (Shadow)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One shadow
+ <b>Duration:</b> Concentration (1 round/level max)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can animate any nearby shadow into a ropelike tentacle.
+The target shadow transforms into a thick, ropy tentacle.
+One end of the shadow tentacle remains rooted to the location where it fell on the floor, wall, ceiling, et cetera, while the opposite end can attack and curl about a target.
+The animated shadow tentacle extends 5 feet per level of the caster (up to 50 feet) from its anchoring point.
+The caster directs the shadow tendril, indicating a target for it to attack.
+The tentacle makes a melee touch attack using the caster's attack bonus.
+The tentacle does not inflict damage, but can be used to entangle an opponent.
+A successful melee touch attack means that the tentacle has entangled its victim.
+The shadow tentacle is anchored, so it can hold its victim motionless if the caster desires; otherwise, the entangled victim can move at half speed up to the length of the animated tentacle.
+The shadow tentacle has 20 hit points, AC 15, and can be burst with a Strength check (DC 23).
+A character can also free himself from the tentacle with an Escape Artist check (DC 20).
+Changing targets is a standard action.
+When the caster changes targets, the tentacle releases its current victim and immediately attacks the new target.
+The tentacle is not affected by bright light, sunlight, or light spells.
+   

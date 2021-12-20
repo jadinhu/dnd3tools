@@ -1,0 +1,19 @@
+<b>Doublestrike Arrow</b>(Champions of Ruin)
+
+Transmutation
+ <b>Level:</b>  Ranger 4,  Justice of Weald and Woe 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> One arrow or bolt
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell is cast upon a single arrow or crossbow bolt, enabling it to strike two targets instead of one.
+The character firing the arrow selects the two targets, both of which must be within 30 feet of each other, and makes a separate attack roll against each target (using the same attack bonus).
+After striking or missing the first target, the arrow swerves and continues on course to the second target.
+A doublestrike missile cannot hit the same target twice, and it is destroyed even if it misses its intended targets.
+Material Component: Arrow or bolt.
+   

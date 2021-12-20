@@ -1,0 +1,21 @@
+<b>Magic of the Dragonheart</b>(Dragon Magic)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level
+
+ 	
+You speak your own name as you clench your fists at your side.
+An aura of bright energy forms around you, coalescing into the shape of a translucent dragon above your head.
+This spell grants you a variety of benefits related to your draconic feats.
+If you have no draconic feats, this spell has no effect.
+While this spell is active, you are considered to have two more draconic feats than normal for the purpose of determining the benefit of your draconic feats.
+For example, if you have the Draconic Heritage feat (see page 17), you would gain a +2 bonus to the specified saves for the duration of this spell, over and above the bonus already granted by that feat.
+In addition, for the purpose of determining the benefit of a draconic feat, treat magic of the dragonheart as if its spell level equaled 1/2 your caster level.
+For example, an 8th-level sorcerer that has the Draconic Flight feat (Complete Arcane 77) would gain a fly speed of 40 feet after casting this spell, as if it were a 4th-level spell.
+Finally, you gain a competence bonus equal to 1/2 your caster level (maximum +10) on skill checks made with the class skill granted by your Draconic Heritage feat (if you have the feat).
+   

@@ -1,0 +1,17 @@
+<b>Combat Readiness</b>(Drow of the Underdark)
+
+Divination
+ <b>Level:</b>  Assassin 1,  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The target's eyes widen, and shine briefly with a white light.
+The touched creature gains a +1 insight bonus on initiative checks for every three caster levels you have (minimum +1, maximum +6).
+In addition, if the target is flanked, its opponents gain no bonus on attack rolls (but still gain any other benefits derived from flanking, such as extra sneak attack damage).
+   

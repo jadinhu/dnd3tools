@@ -1,0 +1,19 @@
+<b>Fireburst</b>(Spell Compendium, p. 93)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Effect:</b> Burst of fire extending 10 ft. from you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a grand circular gesture the air around you fills with flame. An instant later the fire explodes outward, engulfing everything close to you.</b>
+	
+<b>Fireburst</b> causes a powerful explosion of flame to burst from you, damaging anyone within 10 feet of you. All creatures and objects within that area, except for you and any creatures or objects that share your space, take 1d8 points of fire damage per caster level (maximum 5d8).
+	
+<b>Material Component:</b> A bit of sulfur.
+ <b>Also appears in</b>   Miniatures Handbook  Complete Arcane     

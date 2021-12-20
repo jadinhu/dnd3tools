@@ -1,0 +1,17 @@
+<b>Cone of Cold</b>(Player's Handbook v.3.5, p. 212)
+
+Evocation [Cold]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,  Warmage 5,  Wu Jen 5 (Water),  Sha'ir 5,  Death Master 5,   Blightbringer 5,  Water 6,  Cold 6,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Cone of cold creates an area of extreme cold, originating at your hand and extending outward in a cone.
+It drains heat, dealing 1d6 points of cold damage per caster level (maximum 15d6).
+Arcane Material Component: A very small crystal or glass cone.
+   

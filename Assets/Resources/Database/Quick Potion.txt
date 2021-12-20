@@ -1,0 +1,17 @@
+<b>Quick Potion</b>(Spell Compendium, p. 164)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> Flask of water touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+<b>You mutter the last of the spell's words and wave your fingers over the flask. Coppery sparks drop from your fingertips and suffuse the water with a deep rusty shade. As the sparks dissolve fully, you begin casting your next spell.</b>
+	
+You transform the water in a flask so that it is capable of storing a spell in the manner of a potion. On your next turn, you or another spellcaster can cast a spell into the water, transforming the water into a potion of the appropriate type. Only spells suitable for making potions can be used in this way.
+   

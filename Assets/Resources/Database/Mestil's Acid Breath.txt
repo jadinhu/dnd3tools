@@ -1,0 +1,17 @@
+<b>Mestil's Acid Breath</b>(Magic of Faerun)
+
+Conjuration (Creation) [Acid]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Cone
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You breathe forth a cone of acidic droplets.
+The cone inflicts 1d6 points of acid damage per caster level (maximum 10d6).
+Material Component: A handful of fire ants (alive or dead).
+   

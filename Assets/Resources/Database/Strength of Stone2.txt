@@ -1,0 +1,15 @@
+<b>Strength of Stone</b>(Spell Compendium, p. 211)
+
+Transmutation
+ <b>Level:</b>  Paladin 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You call upon the fortitude of the powers of good, and your flesh turns an ivory-gray hue as you draw power up through the earth itself.</b>
+	
+The spell grants you a +8 enhancement bonus to Strength. The spell ends instantly if you lose contact with the ground. This means you cannot jump, tumble, charge, run, or move more than your speed in a round (because these acts cause both of your feet to leave the ground) without breaking the spell. A natural stone wall or ceiling counts as the ground for the purpose of this spell (so you could climb a cavern wall and not lose the spell).
+ <b>Also appears in</b>   Tome of Battle: The Book of Nine Swords     

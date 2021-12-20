@@ -1,0 +1,12 @@
+<b>Summon Clockwork Mender Swarm</b>(Monster Manual IV)
+
+Conjuration (Summoning) [Lawful]
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>
+ <b>Effect:</b> One swarm of clockwork menders
+
+ 	
+This spell functions like summon monster I, except that you summon a single clockwork mender swarm.
+The swarm can be directed to attack opponents, to use its swarm repair ability, and even to use its swarm sacrifice ability.
+Arcane Focus: A broken metal gear.
+   

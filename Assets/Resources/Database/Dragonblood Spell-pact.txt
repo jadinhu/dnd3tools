@@ -1,0 +1,29 @@
+<b>Dragonblood Spell-pact</b>(Dragons of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 min.
+ <b>Range:</b> Touch
+ <b>Target:</b> You and one willing creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Magic swirls around you and your ally, sparkling with the intensity of secret knowledge.
+This spell allows two willing dragonblood creatures to trade known spells.
+The two creatures agree upon a spell to swap.
+These spells must be of the same level, though not of the same school.
+This effect does not grant the creatures the ability to learn more spells.
+When a spell is traded, it is no longer in the repertoire of the trader.
+Each participant must expend XP equal to 100 times the minimum caster level necessary to cast the spell.
+For instance, Darsikh (an 11th-level half-bronze dragon sorcerer) casts this spell to trade with Arethnektilhimon (an old brass dragon who casts as an 11th-level sorcerer).
+They agree that Darsikh will give Arethnektilhimon hallucinatory terrain in return for shadow conjuration.
+When the trade is decided and the spell cast, each expends 800 XP (100 x; 8, since 8 is the minimum caster level necessary for sorcerers to cast 4th-level spells).
+The old spells are no longer in the repertoire of the casters, and are replaced by the spells they have newly chosen.
+Material Component: Blood; each participant must take 1d4 points of damage when they cut themselves in a blood ceremony to seal their trade.
+XP Cost: 100 x the minimum caster level necessary to cast the traded spells.
+Both participants expend this amount.
+Special: Only dragons and dragonblood creatures can cast this spell.
+   

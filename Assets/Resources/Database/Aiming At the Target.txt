@@ -1,0 +1,15 @@
+<b>Aiming At the Target</b>(Complete Arcane)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,  Wu Jen 5,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Concentration, up to 20 minutes; see text
+
+ 	
+When you cast this spell as a swift action (see page 86), you increase your ability to concentrate on a spell you have already cast.
+This spell is one of only a few spells (finding the center being another) that you can cast while maintaining concentration on another spell.
+Aiming at the target gives you a +10 circumstance bonus on Concentration checks you make to maintain concentration on the other spell, and its effect lasts as long as you concentrate on the other spell (to a maximum of 20 minutes).
+ <b>Also appears in</b>   Oriental Adventures     

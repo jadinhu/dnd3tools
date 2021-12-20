@@ -1,0 +1,16 @@
+<b>Quicksilver Motion</b>(Tome of Battle: The Book of Nine Swords, p. 65)
+
+Diamond Mind (Boost)
+ <b>Level:</b>  Swordsage 7 (Three Diamond Mind maneuvers),  Warblade 7 (Three Diamond Mind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>In the blink of an eye, you make your move. Your speed, reflexes, and boundless confidence combine to allow you to make a fast, bold move that catches your foes off guard.</b>
+	
+With a burst of energy, you move forward to press an attack, draw an item from your backpack, or take some other move action. Your training, mental acuity, and drive allow you to move with greater speed and confidence than other warriors.
+	
+This maneuver requires a swift action to initiate. You can take a free move action after you initiate this maneuver. You can use any of the options available for a move action. You can then use the rest of your actions as normal. For example, you could use this maneuver to move next to a foe, then take a full attack action. You could move, then make a charge attack, and so forth. The move action you gain from this maneuver provokes attacks of opportunity as normal.
+   

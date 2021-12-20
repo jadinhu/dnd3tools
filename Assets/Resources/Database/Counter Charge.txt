@@ -1,0 +1,20 @@
+<b>Counter Charge</b>(Tome of Battle: The Book of Nine Swords, p. 71)
+
+Setting Sun (Counter)
+ <b>Level:</b>  Swordsage 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>With a quick sidestep, you send a charging opponent sprawling.</b>
+	
+With this counter, you can attempt to redirect a creature that intends to make a charge attack against you. Immediately before the creature makes its charge attack, make your choice of an opposed Strength or Dexterity check against it. The target makes its check using the same ability you chose for your check.
+	
+If you are of a larger size category than the attacking creature, you use your superior bulk to redirect your foe and gain a +4 bonus on your Strength check (if you opt for a Strength check). If you are of a smaller size category, you use leverage, misdirection, and trickery to gain a +4 bonus on your Dexterity check (if you use that option).
+	
+If you succeed on the Strength or Dexterity check, the creature does not get to attack you. You can then move it up to 2 squares in a direction of your choice away from you.
+	
+If you fail the Strength or Dexterity check, the creature gains a +2 bonus on its charge attack, in addition to the normal +2 bonus from taking the charge attack action.
+   

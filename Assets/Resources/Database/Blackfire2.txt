@@ -1,0 +1,21 @@
+<b>Blackfire</b>(Spell Compendium, p. 29)
+
+Necromancy [Evil]
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude partial and Reflex negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With the dark words still on your tongue, a ray of black energy springs from your hand to wrap the indicated target in black flames that absorb heat rather than create it. The black fire crackles and hisses, emanating the smells of hot metal and sulfur.</b>
+	
+You must succeed on a ranged touch attack with the ray to strike a target. On a successful attack, a living target is engulfed in chill black flames that feed on the fuel of their victim's life force. A creature engulfed in blackfire must make a successful Fortitude save each round that the spell is in effect or take 1d4 points of Constitution damage and become nauseated. A creature that makes its Fortitude save takes no damage for that round and is sickened instead. In addition to its effects on the subject, blackfire can spread rapidly. Each round on its turn, any living creature adjacent to a creature engulfed in blackfire must succeed on a Reflex save or become engulfed itself.
+	
+Any creature that has its Constitution reduced to 0 or lower by the spell is turned into a pile of black ash and can be returned to life only by true resurrection or wish, the caster of which must succeed on a DC 30 caster level check to restore the victim to life. If a creature succeeds on its Fortitude save in 3 consecutive rounds, the blackfire affecting it gutters out. The black flames cannot otherwise be extinguished by normal means (such as immersion in water or smothering), but antimagic field, a successful dispel magic, remove curse, or break enchantment snuffs it out. As well, a creature protected by death ward has immunity to blackfire's effects.
+	
+Material Component: A pinch of dust from a vampire destroyed by sunlight.
+ <b>Also appears in</b>   Complete Arcane     

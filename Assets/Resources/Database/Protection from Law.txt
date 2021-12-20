@@ -1,0 +1,14 @@
+<b>Protection from Law</b>(Player's Handbook v.3.5, p. 266)
+
+Abjuration [Chaotic]
+ <b>Level:</b>  Cleric 1,  Sorcerer 1,  Wizard 1,  Adept 1,  Disciple of Thrym 1,  Runescarred Berserker 1,  Divine Bard 1,  Sha'ir 1,  Savant 1 (Divine),   Chaos 1,  Limbo 1,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature Touched
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> No; see text
+
+ 	
+This spell functions like <b>protection from evil</b>, except that the deflection and resistance bonuses apply to attacks from lawful creatures, and lawful summoned creatures cannot touch the subject.
+   

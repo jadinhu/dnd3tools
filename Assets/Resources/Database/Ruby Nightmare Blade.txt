@@ -1,0 +1,17 @@
+<b>Ruby Nightmare Blade</b>(Tome of Battle: The Book of Nine Swords, p. 65)
+
+Diamond Mind (Strike)
+ <b>Level:</b>  Swordsage 4 (Two Diamond Mind maneuvers),  Warblade 4 (Two Diamond Mind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>With a moment?s thought, you instantly perceive the deadliest place to strike your enemy as you study her defenses, note gaps in her armor, and read subtle but important clues in how she carries herself or maintains her fi ghting stance.</b>
+	
+The ruby nightmare blade is a favored finishing move of warriors who study the Diamond Mind discipline. By intently analyzing your foe?s stance and moves, you find the precise spot that you must strike to end the fight with a decisive blow.
+	
+You attempt a Concentration check as part of this maneuver, using the target creature?s AC as the DC of the check. You then make a single melee attack against your target. This attack is also made as part of this maneuver. If your Concentration check succeeds, this melee attack deals double normal melee damage. If your check fails, your attack is made with a ?2 penalty and deals only normal melee damage.
+	
+If your strike is a critical hit, you stack the multipliers as normal (PH 304).   

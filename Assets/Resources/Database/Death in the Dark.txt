@@ -1,0 +1,15 @@
+<b>Death in the Dark</b>(Tome of Battle: The Book of Nine Swords, p. 76)
+
+Shadow Hand (Strike)
+ <b>Level:</b>  Swordsage 7,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+<b>You catch your foe unaware, allowing you to deal a single, deadly strike that slays her instantly.</b>
+	
+This maneuver functions only against a flat-footed opponent. As part of this maneuver, make a single melee attack. If this attack hits, you deal normal damage and the target must make a Fortitude save (DC 17 + your Wis modifier). If the target fails this save, she takes an extra 15d6 points of damage. If her save succeeds, she takes an extra 5d6 points of damage. This maneuver functions only against opponents who are vulnerable to critical hits.
+   

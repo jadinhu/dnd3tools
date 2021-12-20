@@ -1,0 +1,23 @@
+<b>Ritual of Renaming</b>(Tome of Magic)
+
+Transmutation
+ <b>Level:</b>  Cleric 8,  Druid 8,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, <abbr title="Experience">XP, <abbr title="True Name">TN, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Touch
+ <b>Target:</b> One willing creature with a Intelligence score of 3 or higher
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Repeatedly waving your hand over the subject and repeating both the old and the new personal truename, you magically meld them with the power of your voice until the old name is no more.
+When an archrival learns your personal truename, that enemy has a great degree of power over you.
+If your personal truename spreads to other hostile forces and factions, you might find yourself uniquely vulnerable to their machinations.
+Only a ritual of renaming will give you a new personal truename.
+Once complete, the ritual of renaming gives the target a new personal truename that is known to the caster, the target, and everyone in attendance.
+Anyone who previously used research techniques (see page 196) to learn the target's personal truename will discover that the old truename doesn't work anymore.
+Truename Component: When you cast this spell, you must make a successful Truespeak check to correctly speak both the old personal truename of the creature you're renaming and the new personal truename.
+If you fail the check, the spell fizzles and you lose the XP.
+XP Cost: 500 XP.
+   

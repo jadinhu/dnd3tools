@@ -1,0 +1,19 @@
+<b>Revive Outsider</b>(Spell Compendium, p. 175)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> Dead outsider touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Sprinkling the components of its home plane over the body of the outsider, you chant and pass around the corpse three times. With the final words of the spell, the outsider's eyes open, alive once more.</b>
+	
+You restore life to a dead outsider, as with the <b>raise dead</b> spell (PH 268). You can restore to life any creature of the outsider type of up to your level in Hit Dice, and the creature can have been dead for any length of time.
+	
+Material Components: A bit of soil, water, or other unworked, natural material from the outsider's native plane, and a diamond worth at least 5,000 gp.
+ <b>Also appears in</b>   Manual of the Planes     

@@ -1,0 +1,23 @@
+<b>Blood of Fire</b>(Oriental Adventures)
+
+Necromancy
+ <b>Level:</b>  Shaman 5,   Maho 5,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Up to four creatures
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you cut a mystic pattern into one palm with a knife and enchant your own blood.
+The spell creates one missile of blood per three caster levels (maximum of five missiles).
+You can then send these missiles of blood streaking from the upturned palm, which explode on impact.
+You can choose a separate target for each missile, but you must make a ranged touch attack for each missile.
+A direct hit deals 2d8 points of damage with no saving throw allowed.
+Creatures within 5 feet of a creature struck by a missile must make successful Reflex saves or take the same damage.
+(Missiles that miss their target do not cause damage to any creature).
+Material Component: Your blood.
+Cutting the pattern in your palm deals 2 points of damage to you.
+   

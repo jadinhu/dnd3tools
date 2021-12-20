@@ -1,0 +1,14 @@
+<b>Strategic Charge</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Blackguard 1,  Paladin 1 (Red Knight),    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You gain the benefits of the Mobility feat, even if you do not meet the prerequisites.
+You do not have to be charging to gain this benefit.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,20 @@
+<b>Curse of the Brute</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Transmutation
+ <b>Level:</b>  Paladin 2,  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You can grant an enhancement bonus up to +1 per caster level to one physical ability of the creature touched (Strength, Constitution, or Dexterity).
+However, this temporarily suppresses both the creature's Intelligence and Charisma, each by the amount of the enhancement bonus.
+If this lowers any ability below 3, the spell fails.
+Thus, a 5th-level cleric might cast curse of the brute on a barbarian to increase the barbarian's Strength by 4 points.
+Doing this increases the barbarian's Strength by 4 points but lowers his Intelligence by 4 points and his Charisma by 4 points.
+If the barbarian's original Intelligence or Charisma was 6 or lower, the spell would fail without effect.
+   

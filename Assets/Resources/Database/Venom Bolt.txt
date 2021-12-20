@@ -1,0 +1,23 @@
+<b>Venom Bolt</b>(Serpent Kingdoms)
+
+Evocation [Acid]
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 100 ft.
+ <b>Area:</b> 100-ft. line
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half, Fortitude partial (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You release a beam of fell energy from your eye, mouth, fingertip, or tail tip that travels in a straight line.
+Every creature in its path takes 2d8 points of acid damage, though the beam is not actually composed of any acidic substance.
+A successful Reflex save halves this damage.
+Furthermore, every creature in the path of the venom bolt must also make a successful Fortitude save or be paralyzed for 1d4+1 rounds.
+Success means the subject is slowed for 1 round.
+Creatures do not block the beam, but walls and other solid barriers do.
+Yuan-ti and their creations (such as tainted ones and broodguards) are immune to the effects of this spell, as are creatures with the Snake Blood feat (see Feats in <span class="caps">FORGOTTEN</span> <span class="caps">REALMS</span> Campaign Setting).
+Other Scaled Ones are immune to the paralysis effect and need not save against it.
+Material Component: A drop of venom from any sort of poisonous snake.
+   

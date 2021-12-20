@@ -1,0 +1,25 @@
+<b>Animate Weapon</b>(Complete Mage)
+
+Transmutation
+ <b>Level:</b>  Assassin 2,  Hexblade 2,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> Concentration + 1 round
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your weapon leaps from your hands, suddenly capable of fighting on its own.
+A weapon affected by this spell gains the ability to move and attack on its own and functions in most ways like an animated object of its size (MM 13).
+Treat a light weapon as an object two size categories smaller than its wielder, a one-handed weapon as one size category smaller than its wielder, and a two-handed weapon as an object of the same size as its wielder.
+However, the weapon deals its normal damage, not the damage noted for an animated object of its size, and it gains a bonus on attack rolls equal to the ability modifier used to set your spell save DCs.
+Diminutive or smaller objects are unaffected by the spell.
+An animated weapon attacks the nearest enemy to the best of its ability.
+You can use a move action to direct it to a different target, but if at the end of your turn you are more than 30 feet from the weapon, the spell ends.
+A weapon held or carried by another creature can't be affected by this spell.
+The weapon doesn't gain the benefit of any of your class features, feats, or other special abilities that would improve its combat ability.
+If the weapon has an enhancement bonus or other special properties, these apply as normal.
+For example, an animated +1 flaming longsword gains a +1 enhancement bonus on attack rolls and damage rolls and deals an extra 1d6 points of fire damage on a successful hit.
+   

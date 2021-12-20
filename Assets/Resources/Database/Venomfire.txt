@@ -1,0 +1,17 @@
+<b>Venomfire</b>(Serpent Kingdoms)
+
+Transmutation [Acid]
+ <b>Level:</b>  Cleric 3,  Druid 3,  Ranger 4,    
+<b>Components:</b>V, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You cause the subject's venom to become caustic, dealing an additional 1d6 points of acid damage per caster level with each use.
+This spell has no effect on creatures that do not naturally produce poison.
+Material Component: A drop of acid.
+   

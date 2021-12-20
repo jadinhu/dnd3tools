@@ -1,0 +1,20 @@
+<b>Zone of Respite</b>(Manual of the Planes)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 2 rounds
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 30 ft. cube/level
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a region that is temporarily proof against interplanar intrusion.
+This includes spells and abilities that use other planes, including dimension door, teleport, plane shift, and travel through such planes as the Astral Plane, the Ethereal Plane, and the Plane of Shadow.
+Summoning and calling spells does not function within the zone of respite, but summoned and called creatures outside the zone of respite may be sent inside it.
+Gate spells and other portals may not be created within the zone of respite, but existing portals are unaffected by the spell.
+Creatures within coterminous or coexistent planes must retreat to the edges of the zone of respite and cannot enter the corresponding area on the coterminous or coexistent plane.
+Material Component: A small amount of blood from a gorgon.
+   

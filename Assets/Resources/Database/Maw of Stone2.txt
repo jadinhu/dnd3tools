@@ -1,0 +1,25 @@
+<b>Maw of Stone</b>(Spell Compendium, p. 140)
+
+Transmutation
+ <b>Level:</b>   Cavern 7,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One cave mouth or natural tunnel up to 20 ft. in diameter
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> Reflex partial; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>The rock comes alive, opening into a huge maw of deadly stone.</b>
+	
+You cause a single natural opening or natural chamber to become animated. The opening or chamber cannot move, but it can attack. You can order it to attack any creature, or a specific type of creature. You also can order it to attack under a specific circumstance, such as when creatures try to leave or when they touch something.
+	
+An animated opening can attack only creatures that try to move through it. An animated chamber can attack every creature inside. Only one maw of stone can be in effect on a particular opening or chamber at a time.
+	
+The animated opening has an attack bonus equal to your level +10. The maw of stone deals damage equal to 2d8 points + your caster level.
+	
+An animated opening can make one immediate attack against a creature passing through. If it succeeds, the target must make a Reflex save or it cannot pass through the maw.
+	
+The animated stone has an Armor Class of 15 and hardness 8. Dealing 60 points of damage to it ends the spell.
+ <b>Also appears in</b>   Forgotten Realms Campaign Setting     

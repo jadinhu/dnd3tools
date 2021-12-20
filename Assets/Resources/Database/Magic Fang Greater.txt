@@ -1,0 +1,14 @@
+<b>Magic Fang, Greater</b>(Player's Handbook v.3.5, p. 250)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Ranger 3,  Death Master 3,  Urban Druid 3,   Dragon 3,  Scalykind 3,   
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 hour/level
+
+ 	
+This spell functions like magic fang, except that the enhancement bonus on attack and damage rolls is +1 per four caster levels (maximum +5).
+Alternatively, you may imbue all of the creature's natural weapons with a +1 enhancement bonus (regardless of your caster level).
+Greater magic fang can be made permanent with a permanency spell.
+   

@@ -1,0 +1,20 @@
+<b>Indifference</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell drains emotion from the creature touched.
+The subject becomes immune to fear and compulsion effects of 2nd level or lower and gains a +4 circumstance modifier on saving throws against fear or compulsion effects of 3rd level or higher.
+Furthermore, morale bonuses or penalties do not affect the subject while the spell lasts.
+However, the subject's lack of emotion imposes a -4 circumstance penalty on Charisma checks.
+If the subject already is under a fear or compulsion effect when receiving this spell, a failed saving throw ends that effect and leaves the subject dazed for 1 round.
+Material Component: A small stone.
+   

@@ -1,0 +1,53 @@
+<b>Weapon of the Deity</b>(Spell Compendium, p. 237)
+
+Transmutation
+ <b>Level:</b>  Blackguard 3,  Cleric 3,  Paladin 3,   Mysticism 4,   
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates (object, harmless)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+<b>Wielding the weapon your deity favors, you call upon that divine force to imbue it with power.</b>
+	
+You must be holding your deity's favored weapon to cast this spell. You can use the weapon as if you had proficiency with it even if you normally do not. The weapon gains a +1 enhancement bonus on attack rolls and damage rolls and an additional special ability (see the list below). A double weapon gains this enhancement bonus and special ability for only one of its two ends, as chosen by you.
+	
+When you reach caster level 9th, the enhancement bonus of the weapon increases to +2. At 12th level, the bonus rises to +3, at 15th level it is +4, and at 18th level it becomes +5.
+	
+The list below includes deities from the core pantheon as well as other deities described in D&amp;D supplements, along with the five alignment components. If a cleric worshiping a different deity casts this spell, the DM should assign an appropriate weapon special ability of the same power level as those given here.
+	
+<b>DEITIES</b>
+<b>Bahamut:</b> +1 frost heavy pick
+<b>Boccob:</b> +1 spell storing quarterstaff
+<b>Corellon Larethian:</b> +1 keen longsword
+<b>Ehlonna:</b> +1 frost longsword
+<b>Erythnul:</b> +1 mighty cleaving morningstar
+<b>Fharlanghn:</b> +1 defending quarterstaff
+<b>Garl Glittergold:</b> +1 throwing battleaxe
+<b>Gruumsh:</b> +1 returning shortspear
+<b>Heironeous:</b> +1 shock longsword
+<b>Hextor:</b> +1 mighty cleaving heavy flail
+<b>Kord:</b> +1 mighty cleaving greatsword
+<b>Kurtulmak:</b> +1 shock shortspear
+<b>Lolth:</b> +1 keen whip
+<b>Moradin:</b> +1 throwing warhammer
+<b>Nerull:</b> +1 keen scythe
+<b>Obad-Hai:</b> +1 defending quarterstaff
+<b>Olidammara:</b> +1 keen rapier
+<b>Pelor:</b> +1 flaming heavy mace
+<b>St. Cuthbert:</b> +1 mighty cleaving heavy mace
+<b>Vecna:</b> +1 frost dagger
+<b>Wee Jas:</b> dagger of venom
+<b>Tiamat:</b> +1 flaming heavy pick
+<b>Yondalla:</b> +1 defending short sword
+	
+<b>ALIGNMENTS</b>
+<b>Good:</b> +1 frost warhammer
+<b>Evil:</b> +1 mighty cleaving light flail
+<b>Neutral:</b> +1 defending heavy mace
+<b>Law:</b> +1 flaming longsword
+<b>Chaos:</b> +1 shock battleaxe
+ <b>Also appears in</b>   Magic of Faerun  Faiths of Eberron  Ghostwalk  Defenders of the Faith: A Guidebook to Clerics and Paladins  Complete Divine     

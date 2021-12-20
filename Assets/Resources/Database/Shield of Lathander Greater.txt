@@ -1,0 +1,9 @@
+<b>Shield of Lathander, Greater</b>(Player's Guide to FaerÃ»n)
+
+Abjuration
+ <b>Level:</b>   Initiate of lathander 7,   
+<b>Components:</b>
+
+ 	
+This spell functions like shield of Lathander, except that the target gains damage reduction 20/-, immunity to negative energy and energy drain, and resistance 10 to acid, cold, electricity, fire, and sonic energy.
+   

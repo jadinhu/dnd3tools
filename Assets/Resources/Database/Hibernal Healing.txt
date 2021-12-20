@@ -1,0 +1,16 @@
+<b>Hibernal Healing</b>(Frostburn)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 4,  Disciple of Thrym 4,  Cleric 5,    
+<b>Components:</b>V, S, Frostfell
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You absorb slush, snow, and ice, channeling the cold energy stored within to cure 10 points of damage per caster level, to a maximum of 150 points at 15th level.
+The spell melts all slush, snow, and ice within 10 feet of the caster.
+   

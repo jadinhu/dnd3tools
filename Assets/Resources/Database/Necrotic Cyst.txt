@@ -1,0 +1,25 @@
+<b>Necrotic Cyst</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject develops an internal spherical sac that contains fluid or semisolid necrotic flesh.
+The internal cyst is noticeable as a slight bulge on the subject's arm, abdomen, or face (wherever you chose to touch the target) or it is buried deeply enough in the flesh of your target that it is not immediately obvious � ;the subject may not realize what was implanted within her.
+From now on, undead foes and necromantic magic are particularly debilitating to the subject � ;the cyst enables a sympathetic response between free-roaming external undead and itself.
+Whenever the victim is subject to a spell or effect from the school of necromancy, she makes saving throws to resist at a -2 penalty.
+Whenever the subject is dealt damage by the natural weapon of an undead (claw, bite, or other attack form), she takes an additional 1d6 points of damage.
+Victims who possess necrotic cysts may elect to have some well-meaning chirurgeon remove them surgically.
+The procedure is a bloody, painful process that incapacitates the subject for 1 hour on a successful DC 20 Heal check, and kills the subject with an unsuccessful Heal check.
+The procedure takes 1 hour, and the chirurgeon can't take 20 on the check.
+Protection from evil or a similar spell prevents the necrotic cyst from forming.
+Once a necrotic cyst is implanted, spells that manipulate the cyst and its bearer are no longer thwarted by protection from evil.
+Focus: Caster must possess a mother cyst (see page 28).
+   

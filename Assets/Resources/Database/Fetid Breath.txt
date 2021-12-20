@@ -1,0 +1,21 @@
+<b>Fetid Breath</b>(Ghostwalk)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> Cone
+ <b>Duration:</b> 1 round (see text)
+ <b>Saving Throw:</b> Fortitude negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell functions like stinking cloud, except as noted above and as follows.
+You exhale a 10-foot cone of stinking gas.
+Though the cone persists for only 1 round, creatures who succumb to its effects are still nauseated for 1d4+1 rounds after leaving the area of the cone.
+A creature that has a special saving throw bonus against poison may apply that to its saving throw against this spell.
+Creatures immune to poison are unaffected by fetid breath.
+Legends maintain that this spell was created either by the yuan-ti or by an arcane worshipper of Khostren.
+Material Component: A clove of garlic or an onion, which you must eat.
+   

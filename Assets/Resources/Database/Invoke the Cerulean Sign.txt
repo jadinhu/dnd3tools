@@ -1,0 +1,29 @@
+<b>Invoke the Cerulean Sign</b>(Lords of Madness)
+
+Evocation
+ <b>Level:</b>  Druid 2,  Ranger 2,  Bard 3,  Cleric 3,  Paladin 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Multiple aberrations whose combined total Hit Dice do not exceed twice caster level in a spread emanating from the character to the extreme of the range
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> No
+
+ 	
+The cerulean sign is an ancient symbol said to embody the purity of the natural world, and as such it is anathema to aberrations.
+While druids and rangers are the classes most often known to cast this ancient spell, its magic is nearly universal and can be mastered by all spellcasting classes.
+When you cast this spell, you trace the cerulean sign in the air with a hand, leaving a glowing blue rune in the air for a
+brief moment before it flashes and fills the area of effect with a pulse of cerulean light.
+Any aberration within the area must make a Fortitude saving throw or suffer the following ill effects.
+Closer aberrations are affected first.
+Each effect lasts for 1 round.
+None: The aberration suffers no ill effect, even if it fails the
+saving throw.
+Sickened: The aberration takes a -2 penalty on attack rolls, saving throws, skill checks, and ability checks for 1 round.
+Nauseated: The aberration cannot attack, cast spells, concentrate on spells, or do anything but take a single move action for 1 round.
+Dazed: The aberration can take no actions, but has no penalty to its Armor Class, for 1 round.
+Stunned: The aberration drops everything held, can't take actions, takes a -2 penalty to AC, and loses its Dexterity bonus to AC (if any) for 1 round.
+Once a creature recovers from an effect, it moves up one level on the table.
+Thus, a creature that is stunned by this spell is dazed the round after that, nauseated the round after that, sickened the round after that, and then recovers fully the next round.
+   

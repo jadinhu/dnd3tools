@@ -1,0 +1,22 @@
+<b>Darsson's Fiery Furnace</b>(Shining South)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Up to one 10-ft. cube/level (S)
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You raise the temperature in the affected area to the level of extreme heat (as defined under Heat Dangers, page 303 of the Dungeon Master's Guide).
+For every minute spent breathing the air in the area, a creature vulnerable to heat takes 1d6 points of lethal damage (no save).
+In addition, the creature must make a Fortitude save every 5 minutes (DC 15, +1 per previous check) or take 1d4 points of nonlethal damage.
+Those wearing heavy clothing or any sort of armor take a -4 penalty on their saves.
+In addition, those wearing metal armor, as well as those coming in contact with metal that has been in the area for
+at least 1 hour, are affected as if by a heat metal spell.
+This spell was originally developed as a means of cooking food (cast inside cauldrons, brick ovens, and smoke houses), but wizards quickly determined that it could be used as a deterrent (on long hallways or in treasure vaults, for example) or for creating a comfortable environment for heat-loving pets.
+Darsson's fiery furnace can be made permanent with a permanency spell.
+   

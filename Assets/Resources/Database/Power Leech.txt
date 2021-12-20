@@ -1,0 +1,20 @@
+<b>Power Leech</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>    Corrupt 5  
+<b>Components:</b>V, S, Corrupt, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster creates a conduit of evil energy between himself and another creature.
+Through the conduit, the caster can leech off ability score points at the rate of 1 point per round.
+The other creature takes 1 point of drain from an ability score of the caster's choosing, and the caster gains a +1 enhancement bonus to the same ability score per point drained during the casting of this spell.
+In other words, all points drained during this spell stack with each other to determine the enhancement bonus, but they don't stack with other castings of power leech or with other enhancement bonuses.
+The enhancement bonus lasts for 10 minutes per caster level.
+Corruption Cost: 1 point of Wisdom drain.
+   

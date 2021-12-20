@@ -1,0 +1,19 @@
+<b>Ray of Ice</b>(Spell Compendium, p. 167)
+
+Evocation [Cold]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A cyan ray beams from your fingertips. You shudder with cold as the ray leaves your hand.</b>
+	
+You launch a ray of numbing cold at your enemy. You must succeed on a ranged touch attack with the ray to strike a target. If successful, the ray deals 1d6 points of cold damage per two caster levels (maximum 5d6). The target must also make a Reflex save or be frozen to the ground with its feet encased in ice. A frozen creature cannot move, receives no Dexterity bonus to AC, and incurs a -2 penalty on attack rolls. A frozen creature can free itself with a DC 18 Strength check or by dealing 15 points of damage to the ice.
+	
+Material Component: Ice or a vial of melted mountain snow.
+   

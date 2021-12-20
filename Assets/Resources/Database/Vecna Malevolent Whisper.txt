@@ -1,0 +1,17 @@
+<b>Vecna Malevolent Whisper</b>(Complete Mage)
+
+Enchantment (Compulsion) [Death, Mind-Affecting]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature that has 10 hit points or fewer
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You whisper a horrific word of power that rends the soul of your subject.
+A weaker (and perhaps older) variant of the power word spells, this horrible malediction was supposedly created by the Whispered One himself, long before his ascension to godhood.
+The subject of the spell is reduced to -9 hit points (no roll to check for becoming stable is necessary).
+   

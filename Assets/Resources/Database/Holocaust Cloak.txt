@@ -1,0 +1,16 @@
+<b>Holocaust Cloak</b>(Tome of Battle: The Book of Nine Swords, p. 54)
+
+Desert Wind (Stance) [Fire]
+ <b>Level:</b>  Swordsage 3 (One Desert Wind maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>Fire trails from your blade as you spin it about, cloaking you in flames that leap out to burn those who attack you.</b>
+	
+The flame from your weapon hangs in midair, providing you with a fiery defense against your attackers. An adjacent opponent that hits you with a melee attack while you are in this stance takes 5 points of fire damage. Your holocaust cloak does not harm a creature using a reach weapon to attack you.
+This stance is a supernatural ability.
+   

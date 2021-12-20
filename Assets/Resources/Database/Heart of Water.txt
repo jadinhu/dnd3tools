@@ -1,0 +1,22 @@
+<b>Heart of Water</b>(Complete Mage)
+
+Transmutation [Water]
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,  Wu Jen 3 (water),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D) or until expended
+
+ 	
+The crashing of waves echoes in your ears.
+This spell converts part of your body into elemental water, which makes you better able to navigate aquatic environments and slip through confined spaces.
+You gain a swim speed equal to your land speed, which grants you certain benefits (including a +8 racial bonus on
+Swim checks; see MM 311).
+You also gain the ability to breathe water (as if under the effect of a water breathing spell).
+Finally, you gain a +5 enhancement bonus on Escape Artist checks.
+Furthermore, while this spell is active, you can activate a freedom of movement effect (as the spell) on yourself as a swift action.
+This benefit lasts for 1 round per level, at the end of which time the spell's entire effect ends.
+If heart of water is active on you at the same time as heart of air, heart of earth, or heart of fire, you gain light fortification.
+If all four of these spells are active on you at the same time, you become immune to extra damage from critical hits and sneak attacks.
+   

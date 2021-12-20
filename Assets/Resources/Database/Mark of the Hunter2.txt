@@ -1,0 +1,21 @@
+<b>Mark of the Hunter</b>(Spell Compendium, p. 138)
+
+Divination
+ <b>Level:</b>  Ranger 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature, which must be a favored enemy
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>By pointing your finger at one of your favored enemies, you mark it with a glowing rune that only you can see.</b>
+	
+Your favored enemy bonuses against a foe with a mark of the hunter are 4 higher than they would otherwise be.
+	
+Furthermore, the rune limns your enemy, making the foe easier for you to attack. The subject of a mark of the hunter spell gains no bonus to Armor Class against your attacks from any cover less than total cover, nor does it gain a miss chance against your attacks from any concealment less than total concealment. Other effects that grant a miss chance (such as incorporeality) work normally.
+	
+Material Component: A bit of skin or bone from the relevant favored enemy type or subtype.
+ <b>Also appears in</b>   Complete Divine     

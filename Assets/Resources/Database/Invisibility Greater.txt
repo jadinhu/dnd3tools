@@ -1,0 +1,12 @@
+<b>Invisibility, Greater</b>(Player's Handbook v.3.5, p. 245)
+
+Illusion (Glamer)
+ <b>Level:</b>  Assassin 4, Bard 4,  Jester 4,  Wu Jen 4,  Beguiler 4,  Vigilante 4,  Slayer of Domiel 4,  Runescarred Berserker 4,  Ebonmar Infiltrator 4,  Wizard 4,  Sorcerer 4,  Sha'ir 4,    
+<b>Components:</b>V, S, 
+ <b>Target:</b> You or creature touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+
+ 	
+This spell functions like invisibility, except that it doesn't end if the subject attacks.
+   

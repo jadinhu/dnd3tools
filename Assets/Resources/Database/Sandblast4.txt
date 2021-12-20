@@ -1,0 +1,17 @@
+<b>Sandblast</b>(Spell Compendium, p. 180)
+
+Evocation
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Whipping your hand in a wide arc, you spray sand from your fingers in a powerful blast.</b>
+	
+Creatures in the area take 1d6 points of nonlethal damage. Any creature that fails its Reflex save is also stunned for 1 round. You are not harmed by the spell.
+ <b>Also appears in</b>   Lost Empires of Faerun  Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Divine     

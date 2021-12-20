@@ -1,0 +1,11 @@
+<b>Undeniable Gravity, Legion's</b>(Miniatures Handbook)
+
+Transmutation
+ <b>Level:</b>  Bard 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> Creatures in a 20-ft.-radius burst
+
+ 	
+This spell functions like undeniable gravity, except that it affects multiple creatures.
+   

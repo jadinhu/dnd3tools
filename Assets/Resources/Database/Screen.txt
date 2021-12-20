@@ -1,0 +1,27 @@
+<b>Screen</b>(Player's Handbook v.3.5, p. 274)
+
+Illusion (Glamer)
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,  Beguiler 8,  Sha'ir 8,   Trickery 7,  Gnome 7,  Illusion 8,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 30-ft. cube/level (S)
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None or Will disbelief (if interacted with); see text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell combines several elements to create a powerful protection from scrying and direct observation.
+When casting the spell, you dictate what will and will not be observed in the spell's area.
+The illusion created must be stated in general terms.
+Thus, you could specify the illusion of yourself and another character playing chess for the duration of the spell, but you could not have the illusory chess players take a break, make dinner, and then resume their game.
+You could have a crossroads appear quiet and empty even while an army is actually passing through the area.
+You could specify that no one be seen (including passing strangers), that your troops be undetected, or even that every fifth person or unit should be visible.
+Once the conditions are set, they cannot be changed.
+Attempts to scry the area automatically detect the image stated by you with no save allowed.
+Sight and sound are appropriate to the illusion created.
+A band of people standing in a meadow could be concealed as an empty meadow with birds chirping, for instance.
+Direct observation may allow a save (as per a normal illusion), if there is cause to disbelieve what is seen.
+Certainly onlookers in the area would become suspicious if a marching army disappeared at one point to reappear at another.
+Even entering the area does not cancel the illusion or necessarily allow a save, assuming that hidden beings take care to stay out of the way of those affected by the illusion.
+   

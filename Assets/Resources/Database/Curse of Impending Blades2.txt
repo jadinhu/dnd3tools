@@ -1,0 +1,21 @@
+<b>Curse of Impending Blades</b>(Spell Compendium, p. 56)
+
+Necromancy
+ <b>Level:</b>  Bard 2,  Ranger 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You grip the nail-pierced hunk of leather and cast the spell. A small black dagger jets from the tip of the nail and strikes your opponent squarely in the chest.</b>
+	
+The target of the spell has a hard time avoiding attacks, sometimes even seeming to stumble into harm's way. The subjects takes a -2 penalty to AC.
+	
+The curse cannot be dispelled, but it can be removed with a <b>break enchantment</b>, <b>limited wish</b>, <b>miracle</b>, <b>remove curse</b>, or <b>wish</b> spell.
+	
+<b>Arcane Material Component:</b> A nail through a piece of leather.
+   

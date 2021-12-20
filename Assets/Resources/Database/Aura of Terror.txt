@@ -1,0 +1,17 @@
+<b>Aura of Terror</b>(Draconomicon)
+
+Necromancy [Fear, Mind-Affecting]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+You become surrounded by an aura of fear.
+Whenever you charge or attack, you inspire fear in all creatures within 30 feet that have fewer Hit Dice than your caster level.
+Each potentially affected opponent must succeed on a Will save or become shaken � ;a condition that lasts until the opponent is out of range.
+A successful save leaves that opponent immune to your frightful presence for 24 hours.
+If you cast this spell when you already have the frightful presence ability or a fear aura, the existing ability becomes more effective in the following ways:			The radius of the area affected by the ability increases by 10 feet.		The Will saving throw to resist the fear effect has a DC equal to your normal frightful presence DC or this spell's save DC, whichever is higher.		Creatures that would normally be shaken by your fear aura are frightened instead, and creatures that would normally be frightened are panicked.	
+   

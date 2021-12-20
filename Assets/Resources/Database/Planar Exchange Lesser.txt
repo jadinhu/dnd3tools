@@ -1,0 +1,10 @@
+<b>Planar Exchange, Lesser</b>(Planar Handbook)
+
+Conjuration (Calling)
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>
+
+ 	
+As planar exchange, except that you trade places with a celestial brown bear, celestial griffon, fiendish dire ape, or fiendish tiger, at your option.
+If the called creature is slain, you take 2d6 points of damage and the spell ends.
+ <b>Also appears in</b>   Spell Compendium     

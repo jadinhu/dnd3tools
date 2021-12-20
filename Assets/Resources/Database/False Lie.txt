@@ -1,0 +1,20 @@
+<b>False Lie</b>(Complete Mage)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your subject takes on a shifty, dishonest demeanor.
+False lie causes the subject to appear dishonest and deceptive.
+Sense Motive checks made against the subject take a -10 penalty, and any failure convinces the observer that the subject is lying, even if she is not.
+Anyone who casts a spell that reveals lies (such as discern lie)
+can attempt a caster level check (DC 11 + your caster level); if this fails, the spell registers the individual as lying even when she is not.
+Material Component: A serpent's tongue.
+   

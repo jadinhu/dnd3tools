@@ -1,0 +1,24 @@
+<b>Despoil</b>(Fiendish Codex I: Hordes of the Abyss)
+
+Transmutation [Evil]
+ <b>Level:</b>  Cleric 9,   Corruption 9,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Area:</b> 100 ft./level-radius spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial (plants) or Fortitude negates (other living creatures)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The rotting plant matter melts away in your hand as a wave of sickly green energy washes over the ground, withering plants and weakening all creatures and objects in its wake.
+You blight and corrupt a vast area of land.
+Any plant creature in the area that has more than 1 Hit Die must succeed on a Fortitude saving throw or die.
+Even with a successful save, it takes 5d6 points of damage.
+Less hardy plants simply shrivel and die, and the ground cannot support such plant life ever again.
+Every other living creature in the area (other than you) must succeed on a Fortitude saving throw or take 1d4 points of Strength damage.
+Every unattended object in the area, including structural features such as walls and doors, grows brittle and loses half its hardness (rounded down, to a minimum of 1), then takes 1d6 points of damage, which automatically bypass any remaining hardness.
+Only a wish or miracle spell will enable normal plants to grow in the area ravaged by a despoil spell.
+Damaged objects can be repaired with mending spells.
+Material Component: The fresh or preserved corpse of a living creature.
+ <b>Also appears in</b>   Lords of Madness  Book of Vile Darkness     

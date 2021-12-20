@@ -1,0 +1,17 @@
+<b>Shock and Awe</b>(Spell Compendium, p. 189)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>  Assassin 1,  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Upon completing this spell, you feel a nagging compulsion to divert your attention from your enemies. Shaking off the feeling, you note with satisfaction that your targeted enemies seem even more distracted than you.</b>
+	
+This spell distracts its targets, preventing them from reacting with the deftness they might otherwise possess. Only effective when cast in the surprise round of combat and against flat-footed creatures, this spell causes those it affects to take a -10 penalty on their next initiative check. Targets that cannot be caught flat-footed (such as a rogue with uncanny dodge) cannot be affected by this spell.
+   

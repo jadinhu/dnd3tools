@@ -1,0 +1,18 @@
+<b>Orb of Acid</b>(Complete Arcane)
+
+Conjuration (Creation) [Acid]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,  Warmage 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One orb of acid
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> No
+
+ 	
+An orb of acid about 3 inches across shoots from your palm at its target, dealing 1d6 points of acid damage per caster level (maximum 15d6).
+You must succeed on a ranged touch attack to hit your target.
+A creature struck by the orb takes damage and becomes sickened by the acid's noxious fumes for 1 round.
+A successful Fortitude save negates the sickened effect but does not reduce the damage.
+ <b>Also appears in</b>   Spell Compendium     

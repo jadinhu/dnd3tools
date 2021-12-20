@@ -1,0 +1,23 @@
+<b>Land Womb</b>(Spell Compendium, p. 130)
+
+Abjuration
+ <b>Level:</b>  Druid 4,  Ranger 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> You and one other creature/ level
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Others watch you speak the spell, and the earth opens up and swallows you whole. You remain safe and secure beneath the ground, untouched by events above.</b>
+	
+You cannot enter a land womb through stone or rock, only through tillable soil. The land womb holds you secure 10 feet below the surface. Anyone in a land womb cannot be perceived by divination spells of 4th level or less.
+	
+You can bring one additional creature per caster level with you into the land womb. All creatures to be brought into the land womb must be touching each other (for instance, holding hands in a ring).
+	
+Land womb creates an underground space large enough to hold all target creatures. While space is tight, spellcasting by targets is still possible while in the confines of the spell's effect. You can no longer hear or see anything on the surface by nonmagical means.
+	
+You can end the spell at will, but those who are with you cannot. At the end of the spell's duration, all within the land womb return to the spot where they stood before the spell took effect.
+ <b>Also appears in</b>   Magic of Faerun  Shining South     

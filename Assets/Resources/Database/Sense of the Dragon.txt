@@ -1,0 +1,21 @@
+<b>Sense of the Dragon</b>(Races of the Dragon)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+As you finish casting the spell on yourself, a mild ringing arises inside your head that changes pitch depending on the locations of objects and creatures around you.
+The subject gains augmented nonvisual senses out to a distance of 30 feet.
+The subject does not need to make Spot or Listen checks to pinpoint the location of a creature within 30 feet, provided that it has line of effect to that creature.
+Any opponent the subject cannot see still has total concealment against the recipient of this spell, and the subject still has the normal miss chance when attacking foes that have concealment.
+Visibility still affects the movement of the subject, and the recipient of this spell is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see.
+Sense of the dragon can bemade permanent with a permanency spell in regard to yourself for a cost of 1,500 XP.
+Material Component: A worn dragon scale.
+   

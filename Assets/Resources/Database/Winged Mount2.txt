@@ -1,0 +1,15 @@
+<b>Winged Mount</b>(Complete Divine)
+
+Transmutation
+ <b>Level:</b>  Blackguard 4,  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Your touched mount
+ <b>Duration:</b> 10 min./level
+
+ 	
+This spell causes your mount to sprout giant, feathery white wings.
+This grants the mount a fly speed of 60 ft., with a maneuverability of good.
+The mount is slowed as normal for weight carried, barding worn, and environmental factors.
+ <b>Also appears in</b>   Book of Exalted Deeds  Spell Compendium     

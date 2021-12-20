@@ -1,0 +1,16 @@
+<b>Burning Brand</b>(Tome of Battle: The Book of Nine Swords, p. 52)
+
+Desert Wind (Boost) [Fire]
+ <b>Level:</b>  Swordsage 2,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> End of turn
+
+ 	
+<b>Your weapon transforms into a roaring gout of flame. As you swing your burning blade, it stretches out beyond your normal reach to scorch your foes.</b>
+	
+When you initiate this maneuver, your weapon turns into a burning brand for the rest of your turn. The brand increases your reach by 5 feet, and your melee attacks made with the brand deal fire damage equal to your normal melee damage. You still gain all the normal benefits from a high Strength score, feats, and other effects that increase your melee damage. For example, an attack with a longsword that normally deals 1d8+4 points of slashing damage would instead deal 1d8+4 points of fire damage. You otherwise attack with your weapon as normal. 
+This maneuver is a supernatural ability.
+   

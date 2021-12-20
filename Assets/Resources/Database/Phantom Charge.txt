@@ -1,0 +1,20 @@
+<b>Phantom Charge</b>(Complete Champion)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Blackguard 4,  Paladin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal and touch
+ <b>Target:</b> You and your special mount or fiendish companion
+ <b>Duration:</b> Instantaneous
+
+ 	
+You and your mount utter a fierce call as one.
+The beating of its hooves grows almost deafening, and the world around you begins to shimmer.
+If you cast this spell while mounted on your special mount or mount-sized fiendish companion, you tap into the energies normally released only when you summon or dismiss that creature, creating a short-range teleportation effect.
+Between a single pair of steps, you and your mount can teleport directly forward once, moving up to 5 feet per two caster levels.
+Many paladins use this spell to attack over rough terrain that would normally prevent a charge.
+Because this spell can be cast while your mount is moving, the creature can move part of its speed both before and after the spell takes effect.
+If you cast this spell in conjunction with master cavalier (page 124) and war-mount (page 129), the three spells have a synergistic effect.
+See the master cavalier spell description for details.
+   

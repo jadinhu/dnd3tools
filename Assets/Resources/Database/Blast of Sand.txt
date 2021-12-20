@@ -1,0 +1,18 @@
+<b>Blast of Sand</b>(Sandstorm)
+
+Conjuration (Creation) [Earth]
+ <b>Level:</b>  Druid 4,  Sorcerer 4,  Wizard 4,   Sand 4,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> No
+
+ 	
+Sand sprays from your outstretched palm with enough force to strip flesh from bone and scour surfaces.
+The spell deals 1d6 points of damage per caster level (maximum 10d6).
+Do not divide damage from sand scour by four when applying it to objects.
+Material Component: A pinch of sand.
+   

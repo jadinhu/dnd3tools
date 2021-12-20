@@ -1,0 +1,15 @@
+<b>Iron Heart Surge</b>(Tome of Battle: The Book of Nine Swords, p. 68)
+
+Iron Heart
+ <b>Level:</b>  Warblade 3 (One Iron Heart maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> See text
+
+ 	
+<b>By drawing on your mental strength and physical fortitude, you break free of a debilitating state that might otherwise defeat you.</b>
+	
+Your fighting spirit, dedication, and training allow you to overcome almost anything to defeat your enemies. When you use this maneuver, select one spell, effect, or other condition currently affecting you and with a duration of 1 or more rounds. That effect ends immediately. You also surge with confidence and vengeance against your enemies, gaining a +2 morale bonus on attack rolls until the end of your next turn.
+   

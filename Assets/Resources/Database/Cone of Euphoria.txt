@@ -1,0 +1,19 @@
+<b>Cone of Euphoria</b>(Dragons of Faerun)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 3,  Druid 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> 20-ft. cone
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You dazzle your targets by breathing a beautiful cone of sparkling motes.
+As a standard action, you can breathe a cone of sparkling motes that causes euphoria.
+All those within the area must make a successful Will save or become dazed for 1d6 rounds.
+You must wait 1d4 rounds between each use.
+Material Component: A pinch of sparkling gem dust worth 10 gp.
+   

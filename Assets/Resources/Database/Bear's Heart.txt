@@ -1,0 +1,17 @@
+<b>Bear's Heart</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Transmutation
+ <b>Level:</b>  Beastmaster 4,  Druid 4,  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 20 ft.
+ <b>Target:</b> Living allies within 20 ft.
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> No
+
+ 	
+You turn your living allies (one per caster level) into fierce warriors, but exhaust them in the process.
+Allies gain a +4 enhancement bonus to Strength, and also +1d4 temporary hit points per caster level.
+When the spell ends, any remaining temporary hit points from its effect are lost, and each ally takes 1 point of subdual damage per level of the caster.
+   

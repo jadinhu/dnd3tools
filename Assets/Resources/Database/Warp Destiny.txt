@@ -1,0 +1,16 @@
+<b>Warp Destiny</b>(Races of Destiny)
+
+Transmutation
+ <b>Level:</b>   Destiny 6,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+You reshape your personal fate to potentially avoid some tragic action, but the ripples caused in your destiny have unpleasant side effects for a brief period.
+After learning the result of a saving throw that you have rolled, you may cast this spell to reroll the save, but with an insight bonus equal to your caster level (maximum +20).
+Alternatively, if you are struck in combat you can apply the insight bonus to your AC against the attack (even if flat-footed); if your new AC exceeds the attack roll, the attack misses you.
+Casting this spell has a side effect: until the start of your next turn, you take a -4 penalty on all saving throws and to your AC.
+   

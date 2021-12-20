@@ -1,0 +1,21 @@
+<b>Sculpt Sound</b>(Player's Handbook v.3.5, p. 275)
+
+Transmutation
+ <b>Level:</b>  Bard 3,  Vigilante 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature or object/level, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You change the sounds that creatures or objects make.
+You can create sounds where none exist (such as making trees sing), deaden sounds (such as making a party of adventurers silent), or transform sounds into other sounds (such as making a caster's voice sound like a pig snorting).
+All affected creatures or objects must be transmuted in the same way.
+Once the transmutation is made, you cannot change it.
+You can change the qualities of sounds but cannot create words with which you are unfamiliar yourself.
+For instance, you can't change your voice so that it sounds as though you are giving the command word to activate a magic item unless you know that command word.
+A spellcaster whose voice is changed dramatically (such as into that of the aforementioned snorting pig) is unable to cast spells with verbal components.
+   

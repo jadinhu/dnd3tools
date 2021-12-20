@@ -1,0 +1,9 @@
+<b>Energy Surge</b>(Player's Handbook II)
+
+Transmutation [see text for lesser energy surge]
+ <b>Level:</b>  Duskblade 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>
+
+ 	
+This spell functions like lesser energy surge, except that the attack deals an extra 2d6 points of energy damage.
+   

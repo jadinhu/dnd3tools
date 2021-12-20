@@ -1,0 +1,16 @@
+<b>Sword Stream</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Evocation
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 5 ft. wide out to limit of range
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Sword stream causes moisture in the air to sparkle, coalesce, then shoot away from your fingertips in a high-pressure stream.
+Each creature in the effect takes 1d8 points of damage, plus 1 additional point per caster level to a maximum of +10.
+   

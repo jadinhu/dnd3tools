@@ -1,0 +1,22 @@
+<b>Amber Sarcophagus</b>(Book of Exalted Deeds)
+
+Evocation
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You infuse an amber sphere with magical power and hurl it toward the target.
+If you succeed on a ranged touch attack, the amber strikes the target and envelops it in coruscating energy that hardens immediately, trapping the target within a translucent, immobile amber shell.
+The target is perfectly preserved and held in stasis, unharmed yet unable to take any actions.
+Within the amber sarcophagus, the target is protected against all attacks, including purely mental ones.
+The amber sarcophagus has hardness 5 and 10 hp per caster level (maximum 200 hp).
+If it is reduced to 0 hp, it shatters and crumbles to worthless amber dust, at which point the target is released from stasis (although it is flat-footed until its next turn).
+Left alone, the amber sarcophagus traps the target for the duration of the spell, then disappears before releasing the target from captive stasis.
+Material Component: An amber sphere worth at least 500 gp.
+   

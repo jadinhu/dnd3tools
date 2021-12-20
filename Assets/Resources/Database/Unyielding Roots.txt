@@ -1,0 +1,21 @@
+<b>Unyielding Roots</b>(Complete Divine)
+
+Transmutation
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch Area/Effect/Target: Willing creature touched
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The creature you touch grows thick tree roots that anchor him to the ground and provide him with life-sustaining healing.
+(If the creature you touch isn't touching the ground, the unyielding roots spell has no effect).
+For the duration of the spell, the touched creature can't move from his current space, nor can he be moved from his space by bull rushes, overruns, magic such as Bigby's forceful hand, or any effect short of a massive earthquake.
+Such attempts simply fail.
+If an overrun attempt is made against a creature with unyielding roots, the rooted creature must block rather than avoid the overrun.
+The rooted creature automatically wins the Strength check to stop the overrun and can make a Strength check (opposed by the overrunning creature's Strength or Dexterity check) to knock the overrunning creature prone.
+The roots draw life energy from the ground that feed the touched creature, healing up to 30 points of damage per round, neutralizing poisons automatically, and wiping away negative levels (as the restoration spell).
+The touched creature gets a +4 bonus on Fortitude and Will saves as long as the roots remain, but a -4 penalty on Reflex saves.
+ <b>Also appears in</b>   Spell Compendium     

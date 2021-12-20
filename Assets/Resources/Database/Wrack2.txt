@@ -1,0 +1,19 @@
+<b>Wrack</b>(Complete Divine)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> One humanoid
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A humanoid subject of the spellcaster's choosing is wracked with such pain that he doubles over and collapses.
+His face and hands blister and drip fluid, and the eyes cloud with blood, rendering him blind.
+For the duration of the spell, the subject is considered helpless and cannot take actions.
+Even when the spell ends, the subject is still visibly shaken and suffers a -2 penalty on attack rolls, saves, and checks for 3d10 minutes.
+The subject's sight returns at the end of the spell's duration.
+ <b>Also appears in</b>   Fiendish Codex II: Tyrants of the Nine Hells  Spell Compendium  Book of Vile Darkness     

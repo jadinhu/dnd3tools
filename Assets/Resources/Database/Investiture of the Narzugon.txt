@@ -1,0 +1,26 @@
+<b>Investiture of the Narzugon</b>(Fiendish Codex II: Tyrants of the Nine Hells)
+
+Transmutation [Evil, Investiture]
+ <b>Level:</b>  Blackguard 4,  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+A moan precedes the transformation that results when you imbue the target with the baleful power of a narzugon.
+You bind the dread essence of a narzugon to a target creature, filling it with the misery and horror that defines the devil's existence.
+The subject of this spell can use a baleful gaze as a standard action.
+The gaze affects a single creature within 20 feet.
+That creature must succeed on a Will save against the spell's save DC or be immobilized for 1 round as if affected by a hold monster spell.
+Baatezu are immune to this gaze attack.
+Once a creature has successfully resisted this effect, it cannot be affected by this gaze from the same creature for 24 hours.
+The subject also gains resistance to fire 10.
+This resistance stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the narzugon).
+While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture.
+After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute.
+Material Component: A fist-sized chunk of brimstone.
+   

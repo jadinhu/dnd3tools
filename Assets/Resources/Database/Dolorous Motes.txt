@@ -1,0 +1,23 @@
+<b>Dolorous Motes</b>(Book of Exalted Deeds)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,  Bard 4,    
+<b>Components:</b>V, S, Sacrifice
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> 1 10-ft. cube/level
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates flickering motes of light that cause intense mental anguish.
+Creatures inside or passing through a cloud of dolorous motes must succeed on a Will save or be dazed for 1 round.
+A new save may be made each round.
+Leaving and then re-entering a cloud of motes forces a new save.
+The caster can create one large cloud of flickering motes or several smaller clouds.
+For example, a 5th-level caster could create five separate clouds, each filling a 10-foot cube anywhere within the spell's range.
+Conversely, the caster can group one or more 10-foot-cubes together to form larger clouds or barriers.
+The affected cubes need not be adjacent to one another, but each cloud is stationary once placed.
+Sacrifice: 1d3 points of Wisdom damage.
+   

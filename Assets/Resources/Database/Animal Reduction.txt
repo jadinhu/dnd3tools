@@ -1,0 +1,31 @@
+<b>Animal Reduction</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Ranger 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One willing animal of size Small, Medium-size, Large, or Huge
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You reduce the target animal's size by one category.
+For example, a Large tiger affected by this spell becomes a Medium-size tiger.
+This decrease in size allows the animal to fit better into tight spaces, such as the typical dungeon room or subterranean passage.
+The size change also has a number of other effects, as given in the Monster Manual and summarized below.
+If this spell would cause any ability score to drop to 0 or below, that score instead becomes 1 while all other effects apply normally.
+Huge to Large: The subject loses 8 points of Strength, 4 points of Constitution, and 3 points of natural armor, while gaining 2 points of Dexterity, a +1 bonus to AC, and a +1 bonus on attack rolls.
+Overall, this change results in a -3 penalty on melee attack rolls, a +2 bonus on ranged attack rolls, a -4 penalty on melee damage rolls, a -1 penalty to AC, and -2 hit points per Hit Die.
+The subject's lace/reach becomes 5 feet by 10 feet/5 feet.
+Large to Medium-Size: The subject loses 8 points of Strength, 4 points of Constitution, and 2 points of natural armor, while gaining 2 points of Dexterity, a +1 bonus to AC, and a +1 bonus on attack rolls.
+Overall, this change results in a -3 penalty on melee attack rolls, a +2 bonus on ranged attack rolls, a -4 penalty on melee damage rolls, no change to AC, and -2 hit points per Hit Die.
+The subject's reach becomes 5 feet by 5 feet/5 feet.
+Medium-Size to Small: The subject loses 4 points of Strength and 2 points of Constitution, while gaining 2 points of Dexterity, a +1 bonus to AC, and a +1 bonus on attack rolls.
+Overall, this change results in a -1 penalty on melee attack rolls, a +2 bonus on ranged attack rolls, a -2 penalty on melee damage rolls, a +2 bonus to AC, and -1 hit point per Hit Die.
+The subject's face/reach becomes 5 feet by 5 feet/5 feet.
+Small to Tiny: The subject loses 4 points of Strength while gaining 2 points of Dexterity, a +1 bonus to AC, and a +1 bonus on attack rolls.
+Overall, this change results in a -1 penalty on melee attack rolls, a +2 bonus on ranged attack rolls, a -2 penalty on melee damage rolls, a +2 bonus to AC, and no change to hit points.
+The subject's face/reach becomes 2 1/2 feet by 2 1/2 feet/0 feet.
+   

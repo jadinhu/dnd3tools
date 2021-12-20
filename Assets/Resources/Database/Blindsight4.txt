@@ -1,0 +1,17 @@
+<b>Blindsight</b>(Spell Compendium, p. 32)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Druid 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature Touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You touch your intended subject, which then turns its head rapidly about as if looking for the source of some sound.
+	
+This spell grants the subject the blindsight ability (MM 306) effective out to 30 feet.
+ <b>Also appears in</b>   Savage Species  Underdark  Magic of Faerun  Player's Guide to FaerÃ»n     

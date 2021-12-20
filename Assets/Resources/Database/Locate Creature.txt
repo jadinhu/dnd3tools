@@ -1,0 +1,19 @@
+<b>Locate Creature</b>(Player's Handbook v.3.5, p. 249)
+
+Divination
+ <b>Level:</b>  Assassin 4, Bard 4,  Sha'ir 4,  Savant 4 (Arcane),  Urban Druid 4,  Wu Jen 4,  Thayan Slaver 4,  Beguiler 4,  Vigilante 4,  Ebonmar Infiltrator 4,  Wizard 4,  Sorcerer 4,  Court Herald 4,    
+<b>Components:</b>V, S, M, 
+ <b>Duration:</b> 10 min./level
+
+ 	
+This spell functions like locate object, except this spell locates a known or familiar creature.
+You slowly turn and sense when you are facing in the direction of the creature to be located, provided it is within range.
+You also know in which direction the creature is moving, if any.
+The spell can locate a creature of a specific kind (such as a human or a unicorn) or a specific creature known to you.
+It cannot find a creature of a certain type (such as humanoid or animal).
+To find a kind of creature, you must have seen such a creature up close (within 30 feet) at least once.
+Running water blocks the spell.
+It cannot detect objects.
+It can be fooled by mislead, nondetection, and polymorph spells.
+Material Component: A bit of fur from a bloodhound.
+   

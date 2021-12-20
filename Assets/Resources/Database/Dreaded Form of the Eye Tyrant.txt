@@ -1,0 +1,19 @@
+<b>Dreaded Form of the Eye Tyrant</b>(Complete Mage)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Your body withers away to dust, leaving only a floating head, which quickly grows oversized and misshapen.
+Your eyes fuse together as a single orb in your forehead, and ten writhing eyestalks sprout from your skull.
+You take the form of a beholder (MM 26).
+You gain 30 temporary hit points, which disappear at the end of the spell's duration.
+You can use only one eye ray each round, and each of your ten eye rays can be used only once during the spell's duration.
+For example, once you use your disintegrate eye ray, you can't use that eye ray again during this casting of the spell.
+See the Polymorph Subschool sidebar on page 91 for more details.
+   

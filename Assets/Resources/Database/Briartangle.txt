@@ -1,0 +1,14 @@
+<b>Briartangle</b>(Player's Guide to FaerÃ»n)
+
+Transmutation
+ <b>Level:</b>   Initiate of nature 4,   
+<b>Components:</b>
+
+ 	
+This spell functions like entangle, except as follows.
+The entangling plants are changed to tangled briars covered with sharp thorns that grow to a height of 6 feet.
+Each entangled creature takes 1d8 points of piercing damage +1 point per two caster levels in the round it becomes entangled.
+In each subsequent round that it attempts to break free or move within the briars, it takes a like amount of damage.
+An entangled creature attempting to cast a spell within the briars must make a successful Concentration check (DC 20 + the spell's level) or lose the spell.
+The briars are thick and tall enough to grant cover to creatures within or behind them.
+   

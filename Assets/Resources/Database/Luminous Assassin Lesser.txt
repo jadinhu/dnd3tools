@@ -1,0 +1,23 @@
+<b>Luminous Assassin, Lesser</b>(Player's Handbook II, p. 117)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One summoned assassin
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You conjure a vaguely humanoid being composed of yellow light. It wields a radiant blades and moves with unearthly grace.</b>
+	
+A <b>Lesser Luminous Assassin</b> appears above one creature within range and drops onto it, slashing and stabbing. The assassin attacks as it falls, and the target creature is considered flat-footed against this initial attack. Place the assassin in any square adjacent to the creature that can hold the assassin.
+	
+After its initial attack, a <b>Lesser Luminous Assassin</b> attacks its target every round, taking its turn after your turn is completed. It fights intelligently and does not need to be directed by you. If the creature flees, the assassin pursues it to the best of its ability. If the creature dies or escapes, the assassin waits for you to direct it to another creature (a free action). You cannot command the assassin to do anything except attack creatures or wait (do nothing but defend itself), nor can you direct it to attack another creature if the originally targeted creature still lives and is within the spell's range. 
+	
+The assassin and all its possessions vanish when the spell's duration expires.
+	
+<b>Focus:</b> A serrated dagger.
+   

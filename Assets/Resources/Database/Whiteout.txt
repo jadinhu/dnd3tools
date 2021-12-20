@@ -1,0 +1,24 @@
+<b>Whiteout</b>(Frostburn)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> Cloud centered on target spreads 120 ft. and is 20 ft. high
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None (see text)
+ <b>Spell Resistance:</b> No
+
+ 	
+A swirling snow and a strong wind arise around you or a creature you designate, and follows you or the creature from that point on.
+Characters in whiteout conditions take a -2 penalty to AC, lose any Dexterity bonus to AC, move at half speed, and take a -4 penalty on Dexterity-based skill checks, as well as Search, Spot, and any other checks that rely on vision.
+The character also gains total concealment (50% miss chance).
+These effects end when the character leaves the area of whiteout.
+Whiteout conditions stack with wind and snowfall.
+Visibility is 5 feet.
+In addition, any creature trying to move within the effects of this spell must make a Survival check (DC 10 + caster level) every move action or wander lost inside the whiteout.
+A creature that fails can't leave the area, but can move around within it.
+Groups of creatures roped or otherwise physically held together can use the lead creature's Survival check and stay together.
+A new check can be made once per minute.
+   

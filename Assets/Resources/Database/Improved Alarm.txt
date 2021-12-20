@@ -1,0 +1,16 @@
+<b>Improved Alarm</b>(Manual of the Planes)
+
+Abjuration
+ <b>Level:</b>  Bard 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 25-ft.-radius emanation centered on a point in space
+ <b>Duration:</b> 8 hours/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+As the alarm spell, and in addition the spell works on creatures traveling through the area on coterminous or coexistent planes, such as the Astral Plane, the Ethereal Plane, and the Plane of Shadow.
+Focus: A bell made of carved crystal, worth at least 100 gp.
+   

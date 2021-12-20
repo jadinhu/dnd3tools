@@ -1,0 +1,21 @@
+<b>Clearstone</b>(Lost Empires of Faerun)
+
+Transmutation [Earth]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Stone or stone object touched, up to 1 cu. ft./level
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You cause a rock or section of stone to become transparent.
+This spell affects naturally occurring stone, ore, gemstones in the rough, and even worked stone such as a statue or tunnel wall, but not worked metals, cut gems, or fabricated stone materials such as brick or concrete.
+Visibility through the affected stone is perfectly clear and limited only by the available light or by objects and creatures embedded in the stone (such as a creature using meld into stone).
+Clearstone grants line of sight, but not line of effect, through the affected stone.
+This spell does not change a stone's hardness or other qualities in any way.
+Clearstone can be made permanent using permanency (minimum caster level 11th, 1,500 XP).
+Arcane Material Component: A small, flat piece of glass.
+   

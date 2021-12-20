@@ -1,0 +1,17 @@
+<b>Lucky Streak</b>(Complete Scoundrel)
+
+Transmutation
+ <b>Level:</b>  Bard 1,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+A tinkling laugh and a momentary shine surround your ally, leaving him with an aura of confidence and a sly smile.
+You improve the luck of the subject creature.
+For the duration of the spell, any reroll the subject makes using a luck feat gains a +2 luck bonus.
+   

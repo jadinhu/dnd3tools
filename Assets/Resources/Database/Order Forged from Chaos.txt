@@ -1,0 +1,16 @@
+<b>Order Forged from Chaos</b>(Tome of Battle: The Book of Nine Swords, p. 92)
+
+White Raven
+ <b>Level:</b>  Crusader 6 (Two White Raven maneuvers),  Warblade 6 (Two White Raven maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 move action
+ <b>Range:</b> Personal
+ <b>Target:</b> Allied creatures within 30 ft.
+
+ 	
+<b>You bark a series of stern orders, directing your comrades to shift formation. The power of your presence is such that they obey without consciously thinking about it.</b>
+	
+You excel at using your commanding presence to direct your allies on the battlefield. After a few short, barked orders from you, your allies switch positions and assume a tactically advantageous position.
+	
+When you initiate this maneuver, all allies within 30 feet of you can immediately take a single move action to move up to their speed. This movement provokes attacks of opportunity, and it does not count toward fulfilling the minimum movement requirements of any special abilities or feats, such as
+a scout?s skirmish ability.</p   

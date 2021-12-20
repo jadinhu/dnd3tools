@@ -1,0 +1,18 @@
+<b>Light of Courage</b>(Complete Champion)
+
+Abjuration [Good]
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Holy symbol touched
+ <b>Duration:</b> 1 round/level, or until discharged
+ <b>Saving Throw:</b> Will half
+ <b>Spell Resistance:</b> No
+
+ 	
+Your holy symbol is wreathed in a wrathful, iridescent glow that causes undead creatures to wither before its celestial light.
+You temporarily infuse your holy symbol with divine power.
+If you make a turning check before the duration expires, each undead creature that you target takes 1d8 points of damage per two caster levels you possess (maximum 10d8) in addition to effects of the turning (if any).
+The turning check need not succeed to trigger this effect.
+   

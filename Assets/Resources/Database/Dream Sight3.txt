@@ -1,0 +1,20 @@
+<b>Dream Sight</b>(Oriental Adventures)
+
+Divination
+ <b>Level:</b>  Shaman 4,    
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> See text
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+You fall into a deep sleep while your spirit leaves your body in incorporeal form and travels to distant locations.
+Your spirit can move 100 feet per round, and can see and hear anything you could if you were in the same location.
+The spirit can be blocked by any spell that wards incorporeal creatures, and it can be detected and attacked in the same way as incorporeal creatures can.
+A shaman can use commune with lesser spirit or commune with greater spirit (if you are over 4th level) to contact you, you cannot see creatures protected by invisibility to spirits, and you are warded by a protection from spirits spell.
+Your spirit can do nothing but move and observe � ;it cannot speak, attack, cast spells, or perform any other action.
+At the end of the spell, your spirit instantaneously returns to your body and you wake up.
+If your body is disturbed while your spirit is wandering, the spell ends immediately.
+Material Component: A stick of incense worth at least 5 gp.
+ <b>Also appears in</b>   Spell Compendium  Heroes of Horror  Complete Divine     

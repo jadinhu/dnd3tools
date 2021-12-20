@@ -1,0 +1,15 @@
+<b>Decapitating Scarf</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 7 (Metal),    
+<b>Components:</b>
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+As iron scarf, but if you succeed with your ranged attack roll, the scarf wraps around the target's neck.
+The target may then attempt a Fortitude saving throw; failure indicates that you are able to yank the scarf and decapitate the victim.
+This spell works only against creatures with heads, and decapitation is only effective against living creatures (except vampires).
+Oozes and many aberrations have no heads and are thus immune to this spell.
+Constructs and most undead are not harmed by the removal of their heads, so the spell is ineffective against them.
+Living creatures that make successful Fortitude saves take 1d4 points of damage per caster level (maximum 20d4) before freeing themselves from the decapitating scarf.
+ <b>Also appears in</b>   Complete Arcane     

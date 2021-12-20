@@ -1,0 +1,16 @@
+<b>Blade Thirst</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Ranger 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One slashing weapon
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You grant a slashing weapon a +3 enhancement bonus.
+The weapon takes on a blue, fiery glow, shedding illumination as if it were a torch.
+ <b>Also appears in</b>   Spell Compendium     

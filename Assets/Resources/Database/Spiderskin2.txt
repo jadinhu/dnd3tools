@@ -1,0 +1,20 @@
+<b>Spiderskin</b>(Underdark)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Spiderskin makes the subject's skin tougher and more like a carapace.
+The spell grants the recipient a +1 enhancement bonus to its existing natural armor bonus, a +1 racial bonus on saves against poison, and a +1 racial bonus on Hide checks.
+Each of these bonuses increases by 1 for every three caster levels above 3rd, for a maximum of +5 at caster level 12th.
+The enhancement bonus provided by spiderskin stacks with the target's natural armor bonus, but not with other enhancement bonuses to natural armor.
+A creature without natural armor has an effective natural armor bonus of +0, much as a character wearing only normal clothing has an armor bonus of +0.
+Material Component: A piece of a spider.
+ <b>Also appears in</b>   Spell Compendium     

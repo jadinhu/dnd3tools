@@ -1,0 +1,17 @@
+<b>Ghostly Tail</b>(Races of the Dragon)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Effect:</b> Evoked tail
+ <b>Duration:</b> 1 hour/level
+
+ 	
+A partially translucent, scaled tail uncoils from behind you, as if it had always been there, and slaps at foes that leave themselves open to attack.
+You evoke a partially translucent, scaled tail that can attack foes that are vulnerable to attacks of opportunity.
+If your foe takes an action that would provoke an attack of opportunity from you, even if you are not holding a melee weapon that would normally threaten your foe, your evoked dragon's tail attacks the target with a melee touch attack, dealing 2d6 points of damage on a successful hit.
+You can only strike with a ghostly tail if you have not already taken your allowed number of attacks of opportunity in the round.
+Special: A dragonblooded character, or a character with the dragon type, deals an extra 1 point of damage per level with a ghostly tail (maximum 20 points).
+   

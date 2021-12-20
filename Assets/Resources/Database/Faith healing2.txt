@@ -1,0 +1,17 @@
+<b>Faith healing</b>(Spell Compendium, p. 87)
+
+Conjuration (Healing)
+ <b>Level:</b>  Blackguard 1,  Cleric 1,  Paladin 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You place your hands on your loyal acolyte and blue-silver radiance discharges from your hands. The horrendous wounds across his chest heal, leaving no scar.</b>
+	
+When laying your hand upon a living creature, you channel positive energy that cures 8 points of damage +1 point per caster level (up to +5). The spell works only on a creature that worships the same deity as you. A target with no deity or a different deity from yours is unaffected by the spell, even if the target would normally be harmed by positive energy.
+ <b>Also appears in</b>   Magic of Faerun     

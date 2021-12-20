@@ -1,0 +1,18 @@
+<b>Earthfast</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> One stone structure or rock formation, up to 25 cu. ft./level
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> Fortitude negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You reinforce a rock formation or stone structure.
+The earthfast spell doubles the structure's hit points and hardness.
+The spell collapses if you move beyond the range of the spell.
+This does not function on constructs.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,13 @@
+<b>Stunning Breath, Greater</b>(Spell Compendium, p. 211)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your breath weapon
+ <b>Duration:</b> Instantaneous
+
+ 	
+This spell functions like <b>stunning breath</b>, except that creatures that fail their Fortitude saves are stunned for 2d4 rounds.
+ <b>Also appears in</b>   Draconomicon     

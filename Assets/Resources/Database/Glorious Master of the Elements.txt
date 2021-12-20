@@ -1,0 +1,22 @@
+<b>Glorious Master of the Elements</b>(Dragon Magic)
+
+Evocation [Acid, Cold, Electricity, Fire]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Target:</b> One creature
+ <b>Duration:</b> 5 rounds
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A surge of arcane energy explodes from your fingertips, sending white, red, and yellow jolts lancing outward.
+This spell allows you to channel the awesome energy of the primal elements.
+For the duration of the spell, you can, as a standard action, make a ranged touch attack against any target within 60 feet.
+If successful, you deal 1d6 points of energy damage per two caster levels (maximum 10d6).
+Before making the attack, select the energy type from among acid, cold, electricity, and fire.
+Additionally, each time you successfully make an attack on a target using this spell, you gain a cumulative +2 bonus on the damage roll for each subsequent attack on the same target.
+This bonus is cumulative only for the duration of the spell and applies only to damage dealt by this spell.
+Special: If you are of the dragonblood subtype (see page 4), your ranged touch attacks from this spell instead deal 1d8 points of damage per two caster levels (maximum 10d8).
+   

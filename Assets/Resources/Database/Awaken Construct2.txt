@@ -1,0 +1,21 @@
+<b>Awaken Construct</b>(Spell Compendium, p. 21)
+
+Transmutation
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 8 hours
+ <b>Range:</b> Touch
+ <b>Target:</b> One construct
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Tendrils of writhing light cover your hand and the brain it holds. The light disperses into the construct you touch, enveloping it in a soft white corona for several seconds before the creature's body absorbs the radiance.</b>
+	
+This spell awakens a humanoid-shaped construct to humanlike sentience. An awakened construct's Intelligence, Wisdom, and Charisma scores are all 3d6. The spell does not work on constructs that are constructs only temporarily (such as objects affected by an animate objects spell). The awakened creature is independent of both you and the being who originally made it, though it is initially friendly toward both you and its maker. (See MM 290 for information on skills and feats the creature gains.)
+	
+<b>Material Component</b>: The brain of a humanoid that has been dead less than 8 hours.
+	
+<b>XP Cost</b>: 5,000 XP.
+ <b>Also appears in</b>   Savage Species     

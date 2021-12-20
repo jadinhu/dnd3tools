@@ -1,0 +1,14 @@
+<b>Commune With City</b>(Races of Destiny)
+
+Divination
+ <b>Level:</b>   City 4,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+You become one with a community that you are in, attaining knowledge of the surrounding community.
+You instantly gain knowledge of as many as three facts from among the following subjects: the population of the community, the dominant race within the community and the percentage of the population it encompasses, any given race's percentage of the total population, the level of the highest-level character in a given class, the type and alignment of one of the community's power centers (if the community has more than one, roll randomly), a significant economic factor affecting trade within the city, or a major news item within the city (see Gather Information, page 74 of the Player's Handbook).
+   

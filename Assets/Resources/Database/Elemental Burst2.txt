@@ -1,0 +1,25 @@
+<b>Elemental Burst</b>(Oriental Adventures)
+
+Evocation
+ <b>Level:</b>  Wu Jen 1 (All),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 10-ft. burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half or negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you designate a target point � ;an item composed of one of the five elements (wood, fire, water, stone, or air).
+The item then releases the magical energy within it in a sudden, explosive burst.
+The effects of the burst depend on the element that makes up the target item: Wood,Metal, or Stone: The item throws off sharp slivers.
+Creatures within the burst take 1d8 points of damage (half with a successful Reflex save).
+Fire: The fire shoots out glowing sparks, causing 1d4 points of damage (no damage with a successful Reflex save).
+This is a fire effect.
+Water:Water pushes out in a sharp wave, knocking creatures within the burst prone.
+A successful Reflex save allows an affected creature to remain standing.
+Creatures add a +4 bonus on their saving throws for each size category they are larger than Medium-size, or a -4 penalty for each size category they are smaller than Medium-size.
+Creatures with more than two legs, or otherwise exceptionally stable creatures, get a +4 stability bonus.
+The spell does not noticeably affect the structure of the target item.
+ <b>Also appears in</b>   Complete Arcane     

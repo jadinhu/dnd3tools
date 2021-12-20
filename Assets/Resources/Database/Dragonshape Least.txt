@@ -1,0 +1,16 @@
+<b>Dragonshape, Least</b>(Dragon Magic)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Your body shrinks to the size of a housecat, as red-brown scales replace your normal skin and your fingers turn into sharp claws.
+A sinuous barbed tail grows from the base of your spine, and two leathery wings burst from your back.
+You take the form of a Tiny pseudodragon (MM210).
+For details, see The Polymorph Subschool on page 60.
+   

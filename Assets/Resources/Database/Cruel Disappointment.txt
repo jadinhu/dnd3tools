@@ -1,0 +1,19 @@
+<b>Cruel Disappointment</b>(Book of Vile Darkness)
+
+Illusion (Phantasm) [Evil, Fear, Mind-Affecting]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will disbelief (if interacted with) and Will negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The next time the subject of this spell attempts an action that requires a die roll to determine success, the action fails.
+However, the spell creates the phantasmal image in the subject's mind that the action succeeded.
+The subject behaves accordingly for 1 round.
+During the next round, the phantasm fades and the subject now realizes that he was fooled.
+If the subject fails a second Will save, he then takes a -4 morale penalty on attack rolls, saves, and checks for 1d6+1 rounds afterward.
+   

@@ -1,0 +1,21 @@
+<b>Bloodstar</b>(Spell Compendium, p. 34)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> A Bloodstar
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>In a ruby flash a blood-colored, glowing crystal appears near your foes to suck the blood from their wounds.</b>
+	
+You create a magic construct called a bloodstar that shoots from your hand and hovers in the air anywhere within the limit of the range (each round, you can move the bloodstar anywhere within range with a standard action spent concentrating on the new position). The bloodstar pulses with ruby light (providing illumination in a 20-foot radius). Any creature you initially designate within 10 feet of the bloodstar that takes damage from any source must make a saving throw. On a failed save, the victim takes 1 point of Constitution damage. Each time victims are damaged, they can attempt new saves.
+	
+The bloodstar cannot be attacked or harmed by physical attacks.
+	
+Focus: A ruby worth at least 30 gp.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

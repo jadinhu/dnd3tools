@@ -1,0 +1,18 @@
+<b>Nature's Balance</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You lend some of your ability score points to your target.
+You suffer a penalty of 1d4+1 points to any single ability score of your choice, and your target gains an equal enhancement bonus to the same ability score.
+(You don't get a saving throw to avoid the loss).
+If you cast this spell a second time within 1 hour, you suffer 2d10 points of damage.
+ <b>Also appears in</b>   Spell Compendium  Player's Guide to FaerÃ»n     

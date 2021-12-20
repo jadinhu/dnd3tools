@@ -1,0 +1,18 @@
+<b>Net of Shadows</b>(Magic of Faerun)
+
+Illusion (Shadow) [Darkness]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to one creature/level, no two of which can be more than 25 ft. apart
+ <b>Duration:</b> 3 rounds
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause ordinary shadows to fly toward the creatures in the area, forming dark nets that cover and enfold the target or targets.
+The net does not hamper movement, but a creature enfolded in a net cannot see beyond 5 feet, even with darkvision.
+The folds of a net hide the creature within it, giving the creature nine-tenths concealment (attacks suffer a 40% miss chance).
+The net also hampers the enfolded subject's own attacks, granting nine-tenths concealment to creatures within 5 feet and total concealment to creatures more than 5 feet away.
+   

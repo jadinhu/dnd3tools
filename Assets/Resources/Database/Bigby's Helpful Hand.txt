@@ -1,0 +1,28 @@
+<b>Bigby's Helpful Hand</b>(Player's Handbook II)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> One hand of force
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A magical construct in the shape of a hand appears next to you.
+Its fingers open toward you, waiting for you to hand it an item.
+This spell creates a hand of magical force that holds items for you, helps you complete long, involved tasks, and otherwise aids you.
+The spell grants you a +2 competence bonus on Craft, Disable Device, and Open Lock checks for the duration of the spell.
+It can hold a single object weighing up to 20 pounds.
+You can grasp the object that the hand carries or place an object in its grasp as a swift action.
+The hand remains in your square at all times.
+It matches your speed, and you can bring the hand and the object along with you if you use dimension door, teleport, and similar spells.
+You cannot order the hand to move away from you.
+If you are separated from the hand, the spell immediately ends.
+The hand is about 1 foot long.
+It has hit points equal to half your full normal hit points, and its AC is 20 (+4 size, +6 natural).
+It makes saving throws using your total save bonuses and takes damage from spells and attacks as normal.
+Focus: A soft glove.
+   

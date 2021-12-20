@@ -1,0 +1,20 @@
+<b>Electric Loop</b>(Spell Compendium, p. 78)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer/Wizard Variant 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/3 levels, each of which is adjacent to another target
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half; See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Spitting a harsh-sounding arcane word, you snap your fingers, and lightning leaps among your foes.</b>
+	
+You create one small stroke of lightning that targets one creature per three caster levels you possess (maximum four creatures). Each target must be in a square adjacent to another target. The spell deals 1d6 points of electricity damage per two caster levels (maximum 5d6) to each target. A creature that fails its Reflex save must make a successful Will save or be stunned for 1 round.
+	
+<b>Material Component:</b> A loop of copper
+wire and a magnet.
+   

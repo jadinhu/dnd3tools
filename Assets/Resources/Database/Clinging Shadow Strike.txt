@@ -1,0 +1,16 @@
+<b>Clinging Shadow Strike</b>(Tome of Battle: The Book of Nine Swords, p. 76)
+
+Shadow Hand (Strike)
+ <b>Level:</b>  Swordsage 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+<b>Your weapon transforms into solid darkness. When it strikes home, it discharges in a swirling orb of shadow that engulfs your foe?s eyes.</b>
+	
+As part of this maneuver, you make a single melee attack. If it hits, you deal an extra 1d6 points of damage, and your opponent must make a successful Fortitude save (DC 11 + your Wis modifier) or suffer a 20% miss chance on all melee and ranged attacks for 1 round. A successful save negates the miss chance, but not the extra damage.
+	
+This maneuver is a supernatural ability.</p   

@@ -1,0 +1,29 @@
+<b>Spellmantle</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Cleric 6 (Mystra),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You protect the subject with a magical aura that protects it against one specified spell for every four levels you have.
+The spells must be of 4th level or lower and not spells delivered by a touch attack.
+When the subject of the spellmantle is the target of or within the area of one of the spells it protects against, the mantle absorbs the spell's energy completely.
+The subject can then direct this energy to one of two purposes: Healing: The target immediately receives a cure spell of the level of the spell that was absorbed.
+The cure spell functions as if you had cast it upon the target.
+If the target is unconscious the spell automatically converts to a cure spell without her choice.
+Receive Spell: The energy can immediately trigger a spell upon the target.
+You designate the spell when you cast the spellmantle, and it must be a spell of 4th level or lower that you have prepared at the time of casting.
+This does not cause you to lose the prepared spell.
+If the level of the incoming spell is lower than that of your designated spell, the target cannot activate this affect.
+Your designated spell functions as if you had cast it upon the target.
+The duration of this triggered spell can outlast the spellmantle itself.
+For example, you can designate lightning bolt as one of the spells the spellmantle absorbs and choose magic circle against evil to be the spell the subject receives, so every time she is in the area of a lightning bolt (or any of the other spells that you designate for this spell), she is immediately protected by magic circle against evil.
+The spellmantle can absorb 1d4 spell levels +1 per four levels (maximum 1d4+5), after which it dissipates.
+If the spellmantle lacks sufficient capacity to absorb a spell, the spellmantle has no effect.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

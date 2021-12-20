@@ -1,0 +1,21 @@
+<b>Celestial Brilliance</b>(Book of Exalted Deeds)
+
+Evocation [Good, Light]
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,   Glory 4,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched
+ <b>Duration:</b> 1 day/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The object touched sheds light brighter than bright sunlight, channeled directly from the celestial realms.
+The light extends to a 120-foot radius: bright light to 60 feet and dim light in another 60 feet.
+Creatures with light sensitivity take twice the usual penalty when they are within 60 feet of the object.
+Undead creatures take 1d6 points of damage each round they are within the bright light.
+Evil outsiders, as well as undead creatures that are specifically harmed by sunlight, take 2d6 points of damage each round in the bright light.
+Celestial brilliance brought into an area of magical darkness (or vice versa) is temporarily negated, so that the otherwise prevailing light conditions exist in the overlapping areas of effect.
+Celestial brilliance counters or dispels any darkness spell of equal or lower level, such as deeper darkness.
+   

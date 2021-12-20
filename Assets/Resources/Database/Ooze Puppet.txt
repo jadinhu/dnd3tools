@@ -1,0 +1,19 @@
+<b>Ooze Puppet</b>(Spell Compendium, p. 150)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One ooze
+ <b>Duration:</b> 24 hours/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a few chanted words and a mystic pass of your arm, your magic reaches out to invisibly surround the ooze, placing it under your control.</b>
+	
+You telekinetically take control of the targeted ooze, manipulating it and forcing it to move and attack as you see fit. You can force the ooze to perform as you desire, within the limits of its abilities. Controlling the ooze's actions for an entire round is a move action for you. When the ooze is not directed to move, attack, or undertake any actions by you, telekinetic force holds it immobile. Once control is established, you must have line of sight to the ooze to manipulate it, but distance is not otherwise a factor, unless you and the ooze are on different planes (at which point the spell ends).
+	
+If a controlled ooze splits, such as a black pudding (MM 201) struck by a slashing weapon, you retain control of only one of the resultant oozes (choose randomly).
+   

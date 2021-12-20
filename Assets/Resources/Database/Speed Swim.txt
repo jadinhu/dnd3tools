@@ -1,0 +1,20 @@
+<b>Speed Swim</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Yes (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You give the subject creature the ability to swim at speed 30 feet (ignoring the effects of armor and encumbrance)
+without having to make Swim checks.
+He gets a +8 racial bonus on any Swim check to perform some special action or avoid a hazard.
+He can always choose to take 10, even if rushed or threatened when swimming.
+He can use the run action while swimming, provided he swims in a straight line.
+Focus: A miniature wooden paddle.
+   

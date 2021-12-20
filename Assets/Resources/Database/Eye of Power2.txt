@@ -1,0 +1,21 @@
+<b>Eye of Power</b>(Spell Compendium, p. 87)
+
+Divination (Scrying)
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Unlimited
+ <b>Effect:</b> Magical sensor
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Your invocation creates a miniature floating eye of faintly glowing blue energy. Spying your enemy from the safety of your magical sensor, you unleash your spell.</b>
+	
+This spell functions like <b>arcane eye</b> (PH 200), except as noted here. You can cast any spell of 3rd level or lower that has a range other tan personal through the eye. Any spell so cast functions as though it had been cast from the eye's location rather than yours. Casting any spell of higher than 3rd level through the eye not only produces no effect (though the spell is still expended), but it destroys the <b>eye of power</b> and ends the spell.
+	
+Unlike an <b>arcane eye</b>, an <b>eye of power</b> is visible and corporeal, so it can be destroyed. The eye is a Fine object with AC 18 and 77 hit points. It usues your save bonuses for saving throws.
+	
+<b>Material Component:</b> A bit of bat fur.
+   

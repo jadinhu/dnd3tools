@@ -1,0 +1,14 @@
+<b>Sudden Leap</b>(Tome of Battle: The Book of Nine Swords, p. 89)
+
+Tiger Claw (Boost)
+ <b>Level:</b>  Swordsage 1 (One Tiger Claw maneuver),  Warblade 1 (One Tiger Claw maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+<b>You leap to a new position in the blink of an eye, leaving your opponents baffled.</b>
+	
+You can make a Jump check as a swift action and move the distance determined by your check result. You provoke attacks of opportunity with this movement, and you must move in a straight line. As with any movement, you can attempt a Tumble check to avoid any attacks you provoke with this sudden leap. You can?t move through enemies, unless you succeed on the appropriate Tumble check.</p   

@@ -1,0 +1,20 @@
+<b>Channel the Mishtai</b>(Magic of Incarnum)
+
+Necromancy [Incarnum]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You invite the soul-energy of a long-departed mishtai (see the rilkan and skarn race descriptions in Chapter 1) to share a living body.
+The would-be host must have an Intelligence, Wisdom, and Charisma of at least 5.
+The mishtai that you channel is drawn from one particular era of the millennia of ancient mishtai history, and it possesses a particular station in the highly ordered mishtai society.
+The mishtai helps or hinders but does not control the subject.
+Roll 1d6 and consult the table below to determine the nature of the mishtai that shares the subject's body and its effects upon him (if the subject is a skarn or rilkan, roll 1d10 instead).
+Essentia: Every point of essentia invested in this spell extends the duration by 1 minute.
+   

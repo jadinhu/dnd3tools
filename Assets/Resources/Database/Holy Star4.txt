@@ -1,0 +1,21 @@
+<b>Holy Star</b>(Spell Compendium, p. 115)
+
+Abjuration
+ <b>Level:</b>  Cleric 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Protective star of energy
+ <b>Duration:</b> 3 rounds (D)
+
+ 	
+<b>By calling upon the power of your deity, you bring into existence a glowing mote of energy near your shoulder. While no brighter than a candle, the mote of light fills your body with an inner warmth and feeling of reassuring protection.</b>
+	
+You create a glowing mote of energy that stays near your shoulder, providing light equal to that of a candle. This star has the following three functions, and you can designate which function to activate as a free action on your turn.
+	
+<b>Spell Turning:</b> A holy star can turn a total of four to seven (1d4+3) spell levels, as the spell turning spell (PH 282). Any turning potential depleted through this use remains so for the duration of the spell; the holy star does not return to full capacity every time you choose this function. If its entire spell turning capacity is expended, this function no longer works, but the others do.
+	
+<b>Protection:</b> A holy star gives you a +6 circumstance bonus to AC.
+	
+<b>Fire Bolt:</b> A holy star lashes out with a beam of energy as a ranged touch attack against a creature (you choose the target) up to 90 feet away (no range increment). This attack uses your attack bonus and deals fire damage equal to 1d6 points per two caster levels (maximum 10d6).
+ <b>Also appears in</b>   Magic of Faerun  Savage Species  Player's Guide to FaerÃ»n     

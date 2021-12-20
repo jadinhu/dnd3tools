@@ -1,0 +1,22 @@
+<b>True Reincarnate</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Transmutation
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Dead creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None (see text)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell is the same as reincarnate, except that the druid can reincarnate a creature that has been dead up to 10 years per caster level.
+True reincarnate can even bring back a subject whose body has been wholly destroyed, provided that you unambiguously identify that creature in some fashion (reciting the deceased's time and place of birth or death is the most common method).
+Upon completion of this spell, the subject has a new body, and all physical ills and afflictions are repaired.
+Refer to the description and the table for the reincarnate spell (in the Player's Handbook) to determine the subject's new incarnation.
+When rolling to determine the new form, roll twice; the returning creature can select from either of the two forms indicated.
+The subject suffers neither loss of level (or Constitution point) nor loss of any prepared spells or spell slots.
+You can reincarnate someone killed by a death effect or someone who has been turned into an undead creature and then destroyed, as well as someone killed by hit point loss.
+XP Cost: 1,000 XP.
+   

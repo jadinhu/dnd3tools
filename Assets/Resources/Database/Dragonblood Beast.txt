@@ -1,0 +1,26 @@
+<b>Dragonblood Beast</b>(Dragonmarked, p. 149)
+
+Transmutation
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, M, Dragonmark
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Close (25ft. + 5ft./2 levels)
+ <b>Target:</b> One animal
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject gains the dragonblood subtype (see page 140) as well as one or more of the following physical traits chosen by your at the time of the casting.
+<b>Dragon's Scales:</b> Dragonlike scales give the target a natural armor bonus equal to +1 per two caster levels (maximum +10). If the animal already has scales, its own scales become more resilient.
+<b>Dragon's Teeth:</b> Damage from the target's bite attack increase by one step, as if the creature's size had increased by one category. To determine the amount of the increase, find the bite attack's damage on the two progressions given below and improve to the next higher die value.
+<b>Progression 1:</b> 1d2, 1d3 1d4, 1d6, 1d, 2d6, 3d6, 4d6, 6d6, 8d, 12d6,
+<b>Progression 2:</b> 1d10, 2d8, 3d8, 4d8, 6d8, 8d8, 12d8,
+If the target does not normally have a bite attack, it does not gain one from this spell.
+<b>Dragon's Wings:</b> These wings give the target a fly speed of 90 feet (poor). If the target already has wings, they transform to look more like dragon's wings, but it's fly speed and maneuverability remain unchanged.
+<b>Special:</b> A character with any Mark of Handling casts this spell at an increased caster level. The increase in caster level depends on the strength of the caster's dragonmark.
+	<table>		<tr>			<th>Dragonmark </th>			<th>Caster Level </th>		</tr>		<tr>			<td> Least </td>			<td> +1 </td>		</tr>		<tr>			<td> Lesser </td>			<td> +2 </td>		</tr>		<tr>			<td> Greater or Siberys </td>			<td> +3 </td>		</tr>	</table>	
+<b>Material Component:</b> A pinch of Siberys dragonshard dust (if the caster has a true dragonmark) or Khyber dragon shard dust (if the caster has an aberrant dragonmark).
+	
+<b>Dragonmark:</b> Any true or aberrant dragonmark.
+   

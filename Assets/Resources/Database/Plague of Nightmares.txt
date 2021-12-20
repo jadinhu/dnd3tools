@@ -1,0 +1,26 @@
+<b>Plague of Nightmares</b>(Book of Vile Darkness)
+
+Enchantment [Evil, Mind-Affecting]
+ <b>Level:</b>    Corrupt 8  
+<b>Components:</b>V, S, AF, Corrupt, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster can give the subject demon-haunted dreams so vivid and frightening that sleep provides no rest and the subject eventually turns to suicide.
+The caster must have a chunk of flesh from the target and succeed at a touch attack when she casts plague of nightmares.
+If the target fails the Fortitude save, the spell begins to take effect.
+Thereafter, the caster must chant for 12 hours per week and pay the corruption cost each week to maintain the spell.
+The subject begins to feel the effect of this spell the next time he sleeps, as nightmares of evil gods and demons plague him.
+These nightmares continue each night, and each night the subject takes 1d4 points of Charisma damage and gains no natural healing for that day.
+When the subject reaches 0 Charisma, he enters a trance in which he mentally offers his soul to a demon to be devoured.
+That night the subject dies and is beyond even a true resurrection spell.
+The subject gets a new saving throw each day to resist the spell, and one success is enough to end the nightmares.
+If the spell ultimately succeeds, the focus disappears, alerting the caster that the subject is dead.
+Focus: A fresh or preserved (still bloody) 1-ounce portion of another creature's flesh.
+Corruption Cost: 1d6 points of Strength damage, taken all at once at the end of each week.
+   

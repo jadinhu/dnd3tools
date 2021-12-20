@@ -1,0 +1,13 @@
+<b>Lion's Charge</b>(Miniatures Handbook)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Ranger 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+This spell grants you the pounce special ability (see page 313 of the Monster Manual).
+ <b>Also appears in</b>   Spell Compendium  Savage Species     

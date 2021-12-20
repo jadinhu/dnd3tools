@@ -1,0 +1,20 @@
+<b>Terra Cotta Warrior</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 3 (Earth),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One statuette touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell turns an innocuous statuette of decoration and devotion into a full-sized warrior, ready to fight your foes.
+The statuette becomes a Medium animated object (Medium construct, 35 hp, AC 14, hardness 6, speed 40 ft., attack slam +2, damage 1d6+1) that attacks a specified target on your turn as directed by you.
+You can change the designated target as a move action (as if directing an active spell).
+The statuette can be reused if the terra cotta warrior remains intact at the end of the spell, but if the warrior is reduced to 0 or fewer hit points, it crumbles to powder and the statuette is lost.
+See page 13 of the Monster Manual for full information on animated objects, but the terra cotta warrior has none of the given attack forms.
+Focus: A terra cotta statue of a warrior, up to 6 inches tall and costing 1 gp.
+ <b>Also appears in</b>   Oriental Adventures     

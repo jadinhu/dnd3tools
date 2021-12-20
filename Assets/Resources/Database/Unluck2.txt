@@ -1,0 +1,20 @@
+<b>Unluck</b>(Spell Compendium, p. 227)
+
+Divination
+ <b>Level:</b>  Bard 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Spewing a curse of bad luck, you fling a piece of broken mirror at your target. The mirror shard dissipates harmlessly as soon as it leaves your hand, and the sound of rolling dice is perceptible for an instant.</b>
+	
+When you cast this spell, you negatively influence the randomness of fortune for the target. Whenever the affected creature undertakes an action involving random chance (specifically, whenever any die roll is made for the creature, including attack rolls, damage rolls, and saving throws), two separate rolls are made and the worse result applied.
+	
+A creature carrying a stone of good luck is immune to the effect of unluck.
+	
+Material Component: A piece of a broken mirror.
+ <b>Also appears in</b>   Complete Arcane     

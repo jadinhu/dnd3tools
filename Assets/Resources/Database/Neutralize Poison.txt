@@ -1,0 +1,21 @@
+<b>Neutralize Poison</b>(Player's Handbook v.3.5, p. 257)
+
+Conjuration (Healing)
+ <b>Level:</b>  Nentyar Hunter 2,  Urban Druid 3,  Druid 3,  Ranger 3,  Healer 3,  Adept 3,  Bard 4,  Death Delver 4,  Fatemaker 4,  Knight of the Weave 4,  Runescarred Berserker 4,  Paladin 4,  Cleric 4,  Court Herald 4,   Arborea 4,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature or object of up to 1 cu. ft./level touched
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+You detoxify any sort of venom in the creature or object touched. A poisoned creature suffers no additional effects from the poison, and any temporary effects are ended, but the spell does not reverse instantaneous effects, such as hit point damage, temporary ability damage, or effects that don't go away on their own. For example, if a poison has dealt 3 points of Constitution damage to a character and threatens to deal more damage later, this spell prevents the future damage but does not repair the damage already done.
+	
+The creature is immune to any poison it is exposed to during the duration of the spell. Unlike with delay poison, such effects aren't postponed until after the duration � ;the creature need not make any saves against poison effects applied to it during the length of the spell.
+	
+This spell can instead neutralize the poison in a poisonous creature or object for the duration of the spell, at the caster's option.
+	
+Arcane Material Component: A bit of charcoal.
+   

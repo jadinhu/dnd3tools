@@ -1,0 +1,22 @@
+<b>Flash-freeze</b>(Frostburn)
+
+Transmutation [Cold, Earth]
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 10-ft. square/level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+All earth, stone, and water in the spell's area is drained of heat.
+Earth, mud, and stone become everfrost and water freezes.
+You affect a 10-foot-square area to a depth of 1 foot.
+Magical, enchanted, dressed, or worked stone cannot be affected.
+Earth, stone, or water creatures are not affected.
+This spell can be used to create small icebergs in large bodies of water.
+These icebergs float, but are extremely slippery and unstable, requiring a DC 15 Balance check per round to stay on the iceberg.
+Icebergs may be propelled through the water by the current, paddling, or other means.
+   

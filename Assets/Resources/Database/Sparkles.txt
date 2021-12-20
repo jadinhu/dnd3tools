@@ -1,0 +1,20 @@
+<b>Sparkles</b>(Shining South)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 10-ft.-radius/level spread
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a cloud of multicolored, sparkling motes that shower down and attach to any living creature in the area.
+The sparkles visibly outline anything to which they stick, cannot be removed by nonmagical means, continue to twinkle and glow until the spell fades, and visibly outline invisible things in the area for the duration of the spell.
+Any creature covered by motes takes a -40 penalty on Hide checks.
+This spell is popular during festivals in Halruaa, where the wizards cast it over the cities from their skyships and let the motes decorate the celebrants.
+However, others have found more practical uses for it, including exposing invisible and hiding foes.
+Arcane Material Component: A pinch of ground mica.
+   

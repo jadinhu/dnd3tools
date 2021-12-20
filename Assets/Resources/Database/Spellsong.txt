@@ -1,0 +1,16 @@
+<b>Spellsong</b>(Champions of Valor)
+
+Transmutation
+ <b>Level:</b>   Initiate of eilistraee 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+When you cast this spell, you immediately prepare one spell of 4th level or lower in this spell's slot.
+The spell must be a spell you could normally prepare in that slot (for example, you could not prepare a wizard spell or a domain spell).
+The spell works like any spell prepared in the normal manner, including requiring the normal components.
+Like a bard spell, casting spellsong always requires a verbal component, and you cannot use Silent Spell or similar effects to cast the spell without a verbal component.
+   

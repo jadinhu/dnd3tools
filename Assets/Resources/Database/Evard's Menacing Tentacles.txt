@@ -1,0 +1,19 @@
+<b>Evard's Menacing Tentacles</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Two black tentacles sprout from your shoulder blades and arch over your shoulders.
+The tentacles have 10-foot reach and are animate.
+Each round as a free action, starting on the turn when you cast the spell, you can direct each tentacle to attack one opponent within reach.
+The tentacles use your base attack bonus and Strength score, and each deals bludgeoning damage equal to 1d8 points + your Str modifier.
+The tentacles threaten the area within their reach, and each can make one attack of opportunity per round.
+The tentacles also grant you a +4 bonus on Climb checks.
+Material Component: A piece of octopus, squid, or carrion crawler tentacle.
+   

@@ -1,0 +1,21 @@
+<b>Summon Giants</b>(Frostburn)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Disciple of Thrym 4,  Cleric 8,   Winter 8,   
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more summoned creatures
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You summon one or more giants that attack your enemies.
+They appear where you designate and act immediately, on your turn.
+The giants attack your opponents to the best of their ability.
+If you speak Giant, you can direct the giants not to attack, to attack particular enemies, or to perform other actions.
+Summoned giants act normally on the last round of the spell and disappear at the end of their turn.
+Choose a giant kind from the table below.
+Focus: A lock of hair from a giant of the desired kind.
+   

@@ -1,0 +1,19 @@
+<b>Secure Corpse</b>(Book of Exalted Deeds)
+
+Necromancy
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Stores one creature's corpse in your holy symbol
+ <b>Duration:</b> 1 day/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell turns your holy symbol into a magical receptacle capable of holding one creature's corpse.
+The corpse must be within range of the spell, in which case it is transformed into divine energy.
+The energy is then drawn into the holy symbol, and the corpse is placed in stasis (as the gentle repose spell) for the duration of the spell.
+The caster can release the corpse from the holy symbol by dismissing the spell.
+If the spell ends or is dismissed, or if the holy symbol is destroyed, the contained corpse materializes in a square adjacent to the holy symbol's present or last location.
+   

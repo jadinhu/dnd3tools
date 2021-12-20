@@ -1,0 +1,10 @@
+<b>Arcane Fusion, Greater</b>(Complete Mage)
+
+Universal
+ <b>Level:</b>  Sorcerer 8,    
+<b>Components:</b>
+
+ 	
+You weave two powerful spells together in your mind and release them in a single intertwined display of magical prowess.
+This spell works like arcane fusion, except that you choose any 4th-level or lower sorcerer spell that you know and any 7th-level or lower sorcerer spell that you know to cast together.
+   

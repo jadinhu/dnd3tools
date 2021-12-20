@@ -1,0 +1,15 @@
+<b>Embrace the Wild</b>(Spell Compendium, p. 79)
+
+Transmutation
+ <b>Level:</b>  Ranger 1,  Druid 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 Minutes/level (D)
+
+ 	
+<b>While picturing a certain kind of animal in your mind, you cry out in imitation of its most common call. Immediately thereafter, you perceive your surroundings as the animal you imagined would.</b>
+	
+Upon casting the spell, you gain the senses of animal creatures. You gain low-light vision and either blindsense out to 30 feet or scent (your choice). You also gain a +2 bonus on Listen and Spot checks.
+   

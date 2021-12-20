@@ -1,0 +1,19 @@
+<b>Improvisation</b>(Spell Compendium, p. 121)
+
+Transmutation
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+With an elaborate flourish and call for luck, you toss the dice in your hand into the air. Immediately you feel as though fate favors you, filling you with confidence.
+	
+You gain access to a floating &quot;pool&quot; of luck, which manifests as bonus points you can use as desired to improve your odds of success at various tasks. This bonus pool consists of 2 points per caster level, which you can spend as you like to improve attack rolls, skill checks, and ability checks, although no single check can receive a bonus greater than one-half your caster level. You must declare any bonus point usage before the appropriate roll is made. Used points disappear from the pool, and any points remaining when the spell ends are wasted. These points count as luck bonuses for the purpose of stacking.
+	
+For example, a 14th-level bard pauses while chasing a pickpocket to cast improvisation. At any time during the next 14 rounds, he could use the points to provide himself a +7 luck bonus on a Spot check, a +7 luck bonus on a Climb check, and a +7 luck bonus on two of his attacks.
+	
+Material Component: A pair of dice.
+ <b>Also appears in</b>   Complete Adventurer  Song and Silence: A Guidebook to Bards and Rogues     

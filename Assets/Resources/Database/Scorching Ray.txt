@@ -1,0 +1,18 @@
+<b>Scorching Ray</b>(Player's Handbook v.3.5, p. 274)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Adept 2,  Warmage 2,  Duskblade 2,  Sha'ir 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more rays
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You blast your enemies with fiery rays.
+You may fire one ray, plus one additional ray for every four levels beyond 3rd (to a maximum of three rays at 11th level).
+Each ray requires a ranged touch attack to hit and deals 4d6 points of fire damage.
+The rays may be fired at the same or different targets, but all bolts must be aimed at targets within 30 feet of each other and fired simultaneously.
+   

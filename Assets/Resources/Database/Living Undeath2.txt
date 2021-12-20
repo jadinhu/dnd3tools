@@ -1,0 +1,19 @@
+<b>Living Undeath</b>(Spell Compendium, p. 134)
+
+Necromancy
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You invoke the will of your gods and your skin sags and becomes sallow, your eyes hollow, and your flesh foul and rotted.</b>
+	
+This spell imparts a physical transformation upon the subject, not unlike the process that produces a zombie. While the subject does not actually become undead, its vital processes are temporarily bypassed with no seeming ill effect. The subject is not subject to sneak attacks and critical hits for the duration of the spell, as if it were undead.
+	
+While the spell is in effect, the subject takes a -4 penalty to its Charisma score (to a minimum of 1).
+ <b>Also appears in</b>   Miniatures Handbook     

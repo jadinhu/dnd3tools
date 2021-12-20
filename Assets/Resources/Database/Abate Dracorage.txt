@@ -1,0 +1,23 @@
+<b>Abate Dracorage</b>(Dragons of Faerun)
+
+Abjuration
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One dragon
+ <b>Duration:</b> 1 day/level; see text
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+As you speak the ancient words, the torrent of rage begins to drain from the eyes of the dragon before you.
+	
+This spell helps calm the effects, of the Dracorage. It instantaneously restores 5 points of Wisdom damage resulting from the Dracorage (but not other sources) and returns the dragon's negative attitude toward nondragons one step closer in the positive direction (from unfriendly to indifferent, for example).
+	
+In addition, the spell also protects the dragon from having to make another save against the Dracorage for a number of days equal to the caster's level (maximum 20 days).
+	
+This spell counters or dispels aggravate Dracorage.
+	
+Origin: The abate Dracorage spell was rediscovered by the song dragon, Karasendrieth the Dragon Bard, while carrying out research at the Ilmatari Monastery of the Yellow Rose.
+   

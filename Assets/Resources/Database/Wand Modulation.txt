@@ -1,0 +1,27 @@
+<b>Wand Modulation</b>(Complete Scoundrel)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> One touched wand
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Yes (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+Manipulating the very magic that infuses your wand, you alter that energy, opening the magic item to a new power of your choosing.
+By casting wand modulation on the target wand you hold, you temporarily alter it to cast a different spell.
+After casting this spell, the next spell you cast upon the target wand affects the remaining charges, allowing the wand to discharge that spell instead of the one it was created to cast.
+The spell cast after wand modulation must be of a lower level than the spell the wand normally casts.
+Replacement spells cast from the affected wand are cast at the minimum caster level.
+Each use of an affected wand now expends 2 charges from the wand instead of the usual single charge.
+If the wand holds insufficient charges to invoke the new spell, it cannot be activated.
+You can't use wand modulation to change a wand's spell to one with a costly material component or focus or with an
+XP component, even if the original spell has a similar component or focus.
+For example, a 5th-level wizard facing an angry fire elemental wishes to cast magic missile (a 1st-level spell) from his wand of scorching ray (a 2nd-level spell), which happens to have a caster level of 5th.
+He casts wand modulation and in the following round casts magic missile.
+The wand can now cast magic missile as a 1st-level caster (the minimum caster level), but each use expends 2 charges.
+The wizard can now use the wand to cast magic missile for 5 minutes, after which it reverts back to a normal wand of scorching ray.
+   

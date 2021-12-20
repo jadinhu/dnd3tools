@@ -1,0 +1,19 @@
+<b>Know Greatest Enemy</b>(Magic of Faerun)
+
+Divination
+ <b>Level:</b>  Blackguard 3,  Paladin 3 (Savras),    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Quarter circle emanating from you to the extreme of the range
+ <b>Duration:</b> Concentration, up to 1 round/level
+ <b>Saving Throw:</b> None (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell evaluates the creatures in the area and determines the relative power level of each.
+Creatures are evaluated as follows:
+Among creatures within the same category, you know which is the most powerful, but not why.
+For example, among a group of ogres (CR 2), you would know one of them (an ogre with 2 levels of barbarian, CR 4) was the most powerful, but not know if it was because the ogre had class levels, because of a template (such as half-fiendish), or for other reasons.
+Any spell of 3rd level or higher that prevents scrying attempts on a creature (such as nondetection) or area (such as false vision) thwarts this spell's ability to evaluate that creature or creatures within that area.
+ <b>Also appears in</b>   Spell Compendium     

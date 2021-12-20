@@ -1,0 +1,26 @@
+<b>Healing Spirit</b>(Player's Handbook II)
+
+Conjuration (Healing)
+ <b>Level:</b>  Paladin 3,  Bard 4,  Cleric 4,  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One conjured healing spirit
+ <b>Duration:</b> 1 round/2 levels
+ <b>Saving Throw:</b> Will half (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless); see text
+
+ 	
+A 1-foot-diamater ball of light appears and moves by your command, healing those it touches.
+You conjure an incorporeal object of magical energy that appears in any square within range.
+This healing spirit resembles a 1-foot-diameter ball of light.
+It sheds bright illumination in a 10-foot radius and shadowy illumination for another 20 feet.
+A healing spirit cannot be affected by attacks or spells.
+A healing spirit flies at a speed of 30 feet with perfect maneuverability.
+In the round you cast the spell and at the start of your turn once per round thereafter, you can direct the healing spirit to move and touch a creature by entering its space.
+The spirit's touch carries positive energy, healing a living creature of 1d8 points of damage.
+Since undead are powered by negative energy, a healing spirit damages them instead of healing them.
+The spirit can affect an unwilling target (such as an undead) by succeeding on an incorporeal touch attack, using your base attack bonus and a Strength bonus of +0.
+An undead creature hit by such an attack can use spell resistance against the effect and is allowed a Will save for half damage.
+If a healing spirit travels farther from you than the spell's range, it winks out of existence and the spell ends.
+   

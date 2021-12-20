@@ -1,0 +1,22 @@
+<b>Dhulark's Glasstrike</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 60 ft.
+ <b>Target:</b> One creature or 4 cubic ft. of material
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You transform the target into glass.
+You can cast either of these two versions: Glass Creature: As flesh to stone, but the target becomes glass.
+Glass Object: An object of up to 4 cubic feet in volume is affected.
+Part of a larger object (such as a floor or wall) can be transformed by this spell.
+Neither version of the spell affects magic items (magic items carried by a transformed creature remain intact).
+When the duration ends, the target returns to its original materials.
+If the target was broken or damaged while in glass form, its normal form has similar damage.
+Focus: A piece of glass from a mirror.
+   

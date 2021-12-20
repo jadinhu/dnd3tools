@@ -1,0 +1,18 @@
+<b>Ghost Touch Armor</b>(Spell Compendium, p. 102)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Armor of creature touched
+ <b>Duration:</b> 1 minute / level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Confronted with incorporeal enemies, you give the armor you touch the power to defend against such foes.</b>
+	
+The subject's armor gains the ghost touch special ability (<span class="caps">DMG</span> 219).
+<b>Material Component</b>: A tiny shield made of resin.
+ <b>Also appears in</b>   Ghostwalk  Libris Mortis: The Book of the Dead     

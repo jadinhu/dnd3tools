@@ -1,0 +1,23 @@
+<b>Force Chest</b>(Spell Compendium, p. 97)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Box of force 2 ft. on a side
+ <b>Duration:</b> 24 hours/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Holding your hands as if to grip a box,you feel the pressure of one appear as you complete the spell. The password you choose to unlock the box echoes through your mind.</b>
+	
+This spell brings into being a lidded box of force. The box appears in your hands, and you can choose to make it either invisible or merely translucent. The chest has no weight worth noting.
+	
+Solid walls of force form the chest's five sides and lid. You and other creatures cannot open the lid except by first speaking the password (determined by you at the time of casting). Both objects and Tiny and smaller creatures can fit in the box; it holds enough air to supply one Tiny, two Diminutive, or four Fine creatures for 1 hour.
+	
+Like a wall of force spell, a force chest is immune to damage of all kinds and resists dispel magic, but it is susceptible to disintegrate and Mordenkainen's disjunction, and it can be destroyed by a sphere of annihilation or a rod of cancellation. The box is a spell effect, and Open Lock and Use Magic Device cannot open it.
+	
+<b>Material Component:</b> A 2-inch-square glass cube.
+   

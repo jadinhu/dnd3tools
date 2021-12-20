@@ -1,0 +1,21 @@
+<b>Emerald Flame Fist</b>(Complete Arcane)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creatures or objects touched
+ <b>Duration:</b> 1 round/level; see text
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+One of your hands bursts into an aura of brilliant emerald flame, shedding light equal to that of a torch.
+You take no damage or penalties from the flames, but on a melee touch attack, an emerald flame fist deals 3d6 points of fire damage +1 point per caster level (maximum +20).
+The creature you touch must then succeed on a Fortitude save or be engulfed by the fiercely hot aura of flame.
+Each round on your turn, a creature engulfed in the flaming aura takes 3d6 points of fire damage +1 point per caster level (maximum +20) until the spell ends (Fortitude save each round for half).
+You can use your flaming touch attack repeatedly until one of your targets is engulfed, at which point the flame leaves your hand.
+You can use this spell to attack an object.
+Nonmagical, unattended objects are automatically engulfed in green flame and take 3d6 points of fire damage +1 point per caster level each round.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,19 @@
+<b>Righteous Aura</b>(Miniatures Handbook)
+
+Abjuration [Good, Light]
+ <b>Level:</b>  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level
+
+ 	
+You are bathed in an unearthly glow for the duration of the spell (as if a daylight spell had been cast on you).
+You get a +4 sacred bonus to your Charisma score.
+If you die, your body is converted into an explosive blast of energy in a 20-footradius burst centered where you fell, dealing 2d6 points of damage per caster level (maximum 20d6) to all nongood creatures in the burst's area.
+Good creatures in the area are healed by the same amount, and undead take double this damage.
+Spell resistance cannot prevent this damage, but a successful Reflex save reduces it to half.
+Your body is disintegrated, so you cannot be raised with a raise dead spell.
+Spells that do not require an intact body, such as true resurrection, can be used to bring you back to life as normal.
+ <b>Also appears in</b>   Spell Compendium     

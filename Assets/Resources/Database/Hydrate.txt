@@ -1,0 +1,18 @@
+<b>Hydrate</b>(Sandstorm)
+
+Conjuration (Healing)
+ <b>Level:</b>  Bard 2,  Cleric 2,  Druid 2,  Paladin 2,  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half; see text
+ <b>Spell Resistance:</b> Yes; see text
+
+ 	
+This spell allows you to create moisture within the body of a living creature, healing damage from dehydration.
+Hydrate heals 2d8 points +1 point per caster level (maximum +10) of dessication damage, removes all nonlethal damage from dehydration, and clears up any lingering effects of the dehydrated condition.
+When cast on a creature of the fire subtype, hydrate deals damage instead of healing.
+Such a creature can apply spell resistance and attempt a Will save to take half damage.
+   

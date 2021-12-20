@@ -1,0 +1,14 @@
+<b>Demonflesh</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>  Blackguard 1,  Demonologist 1,   Demonic 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 minute/level
+
+ 	
+The caster grows the thick, leathery flesh of a demon, gaining a +1 natural armor bonus to Armor Class for every five caster levels (at least +1, maximum +4).
+This spell has no effect if the caster is an evil outsider.
+ <b>Also appears in</b>   Fiendish Codex I: Hordes of the Abyss     

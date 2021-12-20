@@ -1,0 +1,21 @@
+<b>Embrace of Endless Day</b>(Faiths of Eberron, p. 150)
+
+Conjuration
+ <b>Level:</b>  Cleric 4,  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level or until expended
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>In a burst of holy light, you gift your companion with the faintest spark of the divine. His eyes glow dimly with sacred power.</b>
+	
+You imbue the target with positive energy which he can then release, in controlled amounts or all at once. You bestow 3 &quot;points&quot; of positive energy per caster level (maximum 30).
+	
+The target can expend this energy to heal with a touch, or harm creatures vulnerable to positive energy, as a paladin's lay on hands ability. Each &quot;point&quot; of positive energy removes or deals 1 point of damage.
+	
+The target also gains a +1 sacred bonus on saves against necromantic and death effects until all the bestowed energy has been expended.
+   

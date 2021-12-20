@@ -1,0 +1,29 @@
+<b>Moon Blade</b>(Forgotten Realms Campaign Setting)
+
+Evocation
+ <b>Level:</b>  Hathran 3,  Nentyar Hunter 3,   Moon 3,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> A swordlike beam
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A 3-foot-long, blazing beam of moonlight springs forth from your hand.
+Anyone who can cast moon blade can wield the beam with proficiency.
+However, if you are proficient with any type of sword, you can wield the beam as if it were any type of sword and thus gain the benefits of any special sword skill you might have, such as Weapon Focus.
+Attacks with the moon blade are melee touch attacks.
+Its strike saps vitality or life force, causing no visible wounds but dealing 1d8 points of damage plus 1 point per
+two caster levels (to a maximum of +15) to any type of creature except undead.
+Undead are visibly wounded by a moon blade.
+Their substance boils away from its touch, and they take 2d8 points of damage plus 1 point per caster level (to a maximum of +30) per blow.
+The blade is immaterial, and your Strength modifier does not apply to the damage.
+A successful moon blade strike temporarily scrambles magic.
+On the target's next turn after a hit from a moon blade, the creature must make a Concentration check to use any spell or spell-like ability.
+The DC is 10 + points of damage dealt + spell level.
+(An opponent hit by a moon blade while casting a spell must make the usual Concentration check to avoid ruining the spell in addition to the check on its next turn).
+The moon blade spell has no connection with the magic items known as moonblades borne and made by some elves.
+Arcane Material Component: A small candy made with wintergreen oil.
+ <b>Also appears in</b>   Spell Compendium     

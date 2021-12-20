@@ -1,0 +1,15 @@
+<b>Polymorph Self</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Transmutation
+ <b>Level:</b>  Ranger 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D)
+
+ 	
+As polymorph other, except that you assume the form of a different creature.
+The remainder of the Player's Handbook descriptive text of this spell no longer applies.
+Note: This version of the spell is now official and supersedes the version presented in the Player's Handbook.
+   

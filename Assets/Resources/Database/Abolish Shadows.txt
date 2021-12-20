@@ -1,0 +1,21 @@
+<b>Abolish Shadows</b>(Unapproachable East)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 feet
+ <b>Area:</b> 30-ft.-radius burst, centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A burst of dark energy leaps forth from your body and disrupts all shadows in the area of effect.
+	
+This has two primary effects:
+First, shadow creatures (including shadows, shades, and other monsters or beings of the shadow type) take 1d6 points of damage per caster level, to a maximum of 10d6. Creatures subject to this effect are entitled to a Fortitude saving throw for half damage.
+Second, spells of the shadow subschool or the darkness descriptor (including shadow conjurations and shadow evocations) may be dispelled. Make a dispel check (1d20 + your caster level, maximum +10) against a DC of 11 + the target spell's caster level.
+	
+Material Component: A small piece of obsidian.
+   

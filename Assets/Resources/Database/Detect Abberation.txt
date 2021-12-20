@@ -1,0 +1,27 @@
+<b>Detect Abberation</b>(Eberron Campaign Setting, p. 110)
+
+Divination
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, DF, Gatekeeper
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped emanation
+ <b>Duration:</b> Concentration, up to 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can detect the presence of aberrations by observing the disruption of the natural order around them. The amount of information revealed depends on how long you study a particular area.
+	
+<b>1st Round:</b> Presence or absence of aberrations.
+	
+<b>2nd Round:</b> Number of aberrations in the area and the strength of the strongest aberration's aura. If the strongest aberration aura's strength is overwhelming (see below) and the creature has HD of at least twice your character level, you are stunned for 1 round and the spell ends.
+	
+<b>3rd Round:</b> The strength and location of each aberration's aura. If an aura is outside your line of sight, then you discern its direction but not its exact location.
+	
+<b>Aura Strength:</b> The strength of an aberration's aura is determined by the HD of the aberration, as given on the following table:
+	<table>		<tr>			<th>HD </th>			<th>Strength </th>		</tr>		<tr>			<td> 1 or less </td>			<td> Faint </td>		</tr>		<tr>			<td> 2 � ;4 </td>			<td> Moderate </td>		</tr>		<tr>			<td> 5 � ;10 </td>			<td> Strong </td>		</tr>		<tr>			<td> 11 or more </td>			<td> Overwhelming </td>		</tr>	</table>	
+Unlike similar spells, <b>detect aberration</b> does not reveal lingering auras.
+	
+Each round, you can turn to detect aberrations in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
+   

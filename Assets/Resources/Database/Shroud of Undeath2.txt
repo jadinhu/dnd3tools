@@ -1,0 +1,21 @@
+<b>Shroud of Undeath</b>(Magic of Faerun)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+You shroud yourself with invisible negative energy so that nonintelligent undead perceive you as a fellow undead creature, ignoring you.
+Your appearance does not change, and while intelligent undead do not immediately recognize you as alive, they are likely to question whether you are actually undead.
+If used in conjunction with a disguise or an illusion to appear undead, this spell gives you a +5 bonus on your Disguise check.
+If you attack an undead creature while this spell is in effect, the spell immediately ends.
+When using this spell, inflict spells heal you and cure spells hurt you.
+You are treated as if you were undead for the purpose of all spells and effects.
+A successful turn (or rebuke) attempt against an undead of your Hit Dice requires you to make a Will saving throw (DC 10 + cleric's Charisma modifier) or be panicked (or cowering) for 10 rounds.
+A turn attempt that would destroy (or command) undead of your Hit Dice requires you to make a Will save (DC 15 + cleric's Charisma modifier) or be stunned (or charmed as with charm monster) for 10 rounds.
+Material Component: Dust or bone fragments from any destroyed undead creature.
+ <b>Also appears in</b>   Ghostwalk     

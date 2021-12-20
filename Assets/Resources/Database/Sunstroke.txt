@@ -1,0 +1,18 @@
+<b>Sunstroke</b>(Sandstorm)
+
+Necromancy
+ <b>Level:</b>  Druid 1,  Sorcerer 1,  Wizard 1,   Summer 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause a living creature to experience the effects of heatstroke.
+The target takes 2d6 points of nonlethal damage.
+If the target fails a Fortitude save, it immediately becomes fatigued, or exhausted if already fatigued.
+Since this spell causes heatstroke, the damage and fatigue dealt can only be healed after that condition is treated properly (see page 13).
+   

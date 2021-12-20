@@ -1,0 +1,27 @@
+<b>Bigby's Disrupting Hand</b>(Player's Handbook II)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One hand of force
+ <b>Duration:</b> 1 minute (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A small, spectral human hand springs into existence before your target.
+It hovers in the air, ready to deliver a backhanded blow.
+Like Bigby's interposing hand, this spell creates a magical construct in the form of a human hand.
+The hand targets a single opponent of your choice within range.
+You choose this opponent as you cast the spell.
+You can target a different opponent with this spell by taking a move action to do so.
+When the subject of Bigby's disrupting hand attempts to cast a spell, the hand punches him.
+This attack causes no damage, but it forces the subject to make a Concentration check with a DC equal to this spell's save DC.
+If the subject fails the check, the hand's blow ruins his casting attempt.
+The hand is about 1 foot long.
+It has hit points equal to half your full normal hit points, and its AC is 20 (+4 size, +6 natural).
+It makes saving throws using your total save bonuses and takes damage from spells and attacks as normal.
+Focus: A soft glove.
+   

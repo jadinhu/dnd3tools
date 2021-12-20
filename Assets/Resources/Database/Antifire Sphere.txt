@@ -1,0 +1,18 @@
+<b>Antifire Sphere</b>(Sandstorm)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Area:</b> 10-ft.-radius emanation from touched creature
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> No; see text
+
+ 	
+You bring into being a mobile, spherical energy field that protects against fire.
+All creatures within the area of the spell gain immunity to fire damage.
+In addition, the sphere prevents the entrance of any creature with the fire subtype and hedges out such creatures that are in the area when the spell is cast.
+You must overcome a creature's spell resistance to keep it at bay.
+   

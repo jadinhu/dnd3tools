@@ -1,0 +1,16 @@
+<b>Death Hail</b>(Frostburn)
+
+Conjuration (Creation) [Cold, Death]
+ <b>Level:</b>  Druid 6,   Winter 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Cylinder (40-ft radius, 20 ft. high)
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> No
+
+ 	
+You call into being an intense storm of death hail in the area you designate.
+Creatures in the area must succeed on a Fortitude save or take 1d2 points of Strength and Constitution damage.
+   

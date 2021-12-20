@@ -1,0 +1,20 @@
+<b>Were-doom</b>(Book of Vile Darkness)
+
+Evocation [Chaos, Evil]
+ <b>Level:</b>  Cleric 9,  Druid 9,   Bestial 9,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 50-ft./level radius
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell must be cast at night.
+Lycanthropy infects 1d4 humanoid creatures in the area, designated randomly.
+These creatures immediately change into their animal or hybrid forms (their choice) and begin savagely attacking all around them.
+To determine the type of lycanthropy that afflicts a subject, roll on the following table.
+See the Lycanthrope template in the Monster Manual for more information on lycanthropy, including how to cure it.
+Material Component: A bit of a lycanthrope's fur or skin.
+   

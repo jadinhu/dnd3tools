@@ -1,0 +1,32 @@
+<b>Improved Blink</b>(Unapproachable East)
+
+Transmutation
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Like the 3rd-level arcane spell blink, you flicker back and forth between the Material and Ethereal planes.
+However, you are capable of controlling the timing of your blinks and therefore make better use of them.
+Blinking by means of this spell has several effects: Physical attacks against you have a 50% miss chance, and the Blind-Fight feat doesn't help the attacker.
+If the attack is capable of striking invisible or incorporeal creatures, the miss chance is only 20%.
+An attacker who can both see and strike ethereal creatures takes no penalty.
+You have no chance of interfering with your own attacks.
+Individually targeted spells have a 50% chance to fail against you while blinking, unless your attacker can target invisible, ethereal creatures.
+You have no chance of interfering with your own spells.
+You take only half damage from area attacks (or full damage from those that extend onto the Ethereal Plane).
+While blinking, you strike as an invisible creature (+2 bonus on attack rolls), denying your target any Dexterity bonus to AC.
+You take only half damage from falling, since you are subject to gravity only while you are on the Material Plane.
+You can ready an action to blink away from a specific enemy attack, physical or magical.
+If you do so, the attack misses automatically unless it can
+also affect ethereal targets.
+You move at three-quarters speed, since movement on the Ethereal Plane is at half speed and you spend about half your time there and half your time material.
+While blinking, you can step through (but not see through) solid objects.
+You do not risk materializing inside a solid object unless you actually end your move inside one, in which case you materialize and are shunted off to the nearest open space.
+You take 1d6 points of damage per 5 feet traveled in this manner.
+Since you spend about half your time on the Ethereal Plane, you can see and even attack ethereal creatures.
+You interact with ethereal creatures in roughly the same way you interact with material ones (their attacks have a 50% miss chance against you, and so on).
+   

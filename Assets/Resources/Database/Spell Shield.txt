@@ -1,0 +1,15 @@
+<b>Spell Shield</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Cleric 2 (Mystra),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject gains a +3 resistance bonus on saving throws against spells and spell-like abilities (but not against supernatural and extraordinary abilities).
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

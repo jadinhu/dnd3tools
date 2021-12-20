@@ -1,0 +1,16 @@
+<b>Soul Ward</b>(Complete Champion)
+
+Abjuration
+ <b>Level:</b>  Cleric 2,  Druid 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Your comrade's thoughts and feelings meld with yours, each bolstering the other, through the touch of your hand.
+This spell functions like body ward (page 117), except that you choose one of the three mental abilities � ;Intelligence, Wisdom, or Charisma � ;rather than a physical ability to be affected.
+   

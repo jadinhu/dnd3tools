@@ -1,0 +1,29 @@
+<b>Mindless Rage</b>(Complete Adventurer)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You fill the subject with so great a rage that it can do nothing but focus on engaging you in personal physical combat.
+The target must be able to see you when you cast this spell.
+If the subject later loses line of sight to you, the spell immediately ends.
+(A subject can't voluntarily break line of sight with you, such as by closing its eyes, to end this spell prematurely).
+If the subject threatens you, it must make a full attack against you using its melee weapons or natural melee attacks.
+If the subject doesn't threaten you, it must move at up to twice its speed, ending its movement as close to you as possible.
+If it moves close enough with a single move to threaten you, it may stop and make a melee attack against you as normal.
+While under the effect of a mindless rage spell, the subject can make use of all normal melee combat skills, abilities, and feats � ;either offensive or defensive.
+However, the subject can't make ranged attacks, cast spells, or activate magic items that require a command word, a spell trigger, or spell completion to function.
+The subject can't make any attack against a creature other than you.
+The subject of this spell, though overcome with rage, is by no means rendered idiotic or suicidal.
+For example, an affected creature will not charge off a cliff in an attempt to reach you.
+An interesting side effect of mindless rage occurs when the spell affects any character or creature with the rage ability (such as a barbarian).
+In these cases, the mindless rage spell automatically activates the character's rage ability (and counts as one of the character's uses of rage for that day).
+Focus: A scarlet handkerchief or similar piece of cloth, waved in the target's direction while you vocalize the verbal component.
+ <b>Also appears in</b>   Spell Compendium     

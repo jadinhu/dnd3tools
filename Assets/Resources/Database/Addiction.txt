@@ -1,0 +1,19 @@
+<b>Addiction</b>(Book of Vile Darkness)
+
+Enchantment
+ <b>Level:</b>  Assassin 1,  Bard 2,  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, Drug
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster gives the subject an addiction to a drug (see the Drugs section of Chapter 3 for descriptions of drugs and information on addiction).
+A caster of less than 5th level can force the subject to become addicted to any drug with a low addiction rating.
+A 6th- to 10th-level caster can force addiction to any drug with a medium addiction rating, and an 11th- to 15th-level caster can force addiction to a drug with a high addiction rating.
+Casters of 16th level or higher can give the subject an addiction to a drug with an extreme addiction rating.
+Drug Component: The chosen drug for the addiction.
+   

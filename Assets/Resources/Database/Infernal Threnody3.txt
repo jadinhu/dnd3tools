@@ -1,0 +1,17 @@
+<b>Infernal Threnody</b>(Spell Compendium, p. 122)
+
+Evocation [Evil, Sonic]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 50 ft.
+ <b>Area:</b> 50-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>The melody you create is a low but melodious dirge that blankets the area in a barely perceptible red aura. You feel invigorated with dark power.</b>
+	
+You can strike up a pulsing, powerful rhythm that temporarily boosts by 2 the effective caster level of each evil-aligned divine spellcaster within range. This increase does not grant access to additional spells, but it does improve all spell effects that are dependent on caster level. Within the spell's area, each evil-aligned divine spellcaster gains a +4 profane bonus on Charisma checks to rebuke undead, and each good-aligned divine spellcaster takes a � ;4 profane penalty on Charisma checks to turn undead.
+ <b>Also appears in</b>   Complete Adventurer  Song and Silence: A Guidebook to Bards and Rogues     

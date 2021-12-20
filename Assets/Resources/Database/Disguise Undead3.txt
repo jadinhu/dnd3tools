@@ -1,0 +1,25 @@
+<b>Disguise Undead</b>(Spell Compendium, p. 66)
+
+Illusion (Glamer)
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> 1 corporeal undead
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>One cannot just march a ghoul into the Duke's Court. But as the fumes issuing from the cocoon surround the creature, the form of the ghoul is replaced with that of a stately courtier armed with a rapier. Of course, it will have to keep its mouth shut.</b>
+	
+You make one undead � ;including its clothing, armor, weapons, and equipment � ;look different. You can make it seem 1 foot shorter or taller, thin, fat, or in between. You cannot change the creature's body type. For example, a wight could look human, humanoid, or like any other generally human-shaped bipedal creature. Otherwise, the extent of the apparent change is up to you. You could add or obscure a minor feature, such as a mole or a beard, or make it look like an entirely different creature.
+	
+The spell does not provide the abilities or mannerisms of the chosen form. It does not alter the perceived tactile (touch) or audible (sound) properties of the undead or its equipment. A battleaxe made to look like a dagger still functions as a battleaxe.
+	
+This spell also foils magical means of detecting undead. The subject of <b>disguise undead</b> detects as a creature of the type simulated.
+	
+Creatures get Will saves to recognize the glamer as an illusion if they interact with the subject (such as by touching the undead and having that not match what they see, in the case of this spell).
+	
+<b>Focus:</b> A cocoon of a death's head moth.
+ <b>Also appears in</b>   Tome and Blood: A Guidebook to Wizards and Sorcerers  Ghostwalk  Magic of Faerun     

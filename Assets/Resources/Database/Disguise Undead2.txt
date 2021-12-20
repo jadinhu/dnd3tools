@@ -1,0 +1,24 @@
+<b>Disguise Undead</b>(Magic of Faerun)
+
+Illusion (Glamer)
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One corporeal undead
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None (harmless)
+
+ 	
+You make one undead � ;including clothing, armor, weapons, and equipment � ;look different.
+You can make it seem 1 foot shorter or taller, thin, fat, or in between.
+You cannot change the creature's body type.
+For example, a wight could look human, humanoid, or like any other generally human-shaped bipedal creature.
+Otherwise, the extent of the apparent change is up to you.
+You could add or obscure a minor feature, such as a mole or a beard, or make it look like an entirely different creature.
+The spell does not provide the abilities or mannerisms of the chosen form.
+It does not alter the perceived tactile (touch) or audible (sound) properties of the undead or its equipment.
+A battleaxe made to look like a dagger still functions as a battleaxe.
+Note: Creatures get Will saves to recognize the glamer as an illusion if they interact with it (such as by touching the undead and having that sensory input not match what they see, in the case of this spell).
+Focus: A cocoon of a death's head moth.
+ <b>Also appears in</b>   Spell Compendium  Tome and Blood: A Guidebook to Wizards and Sorcerers  Ghostwalk     

@@ -1,0 +1,17 @@
+<b>Righteous Fury</b>(Miniatures Handbook)
+
+Evocation [Good]
+ <b>Level:</b>  Paladin 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject's charge attacks deal double damage.
+(The subject does not have to be mounted or wielding a lance).
+If the subject makes more than one attack on a charge, the double damage applies only to the first attack.
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun     

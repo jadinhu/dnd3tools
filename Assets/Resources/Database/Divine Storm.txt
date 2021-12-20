@@ -1,0 +1,23 @@
+<b>Divine Storm</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Evocation
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Whirling disk of weapons, up to 30-ft. radius
+ <b>Duration:</b> Concentration
+ <b>Saving Throw:</b> Reflex negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a spinning disk of weapons, of the type favored by your deity.
+These weapons whirl around a central point, creating an
+immobile circular barrier.
+Any creature passing through the divine storm takes 1d6 points of damage, plus an additional 2 points per caster level (maximum +20).
+You choose the plane of rotation of the weapons: horizontal, vertical, or slanted.
+Creatures within the divine storm when it is invoked can dodge out of the way and take no damage if they make a successful Reflex save.
+Once the divine storm is in place, any creature entering or passing through the disk automatically takes damage.
+A divine storm serves as one-half cover (+4 AC) for anyone beyond it.
+Divine Focus: A tiny replica of the deity's weapon on a silver chain.
+   

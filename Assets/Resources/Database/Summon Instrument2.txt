@@ -1,0 +1,20 @@
+<b>Summon Instrument</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Effect:</b> One musical instrument
+ <b>Duration:</b> Concentration plus 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell conjures one instrument of the type the caster typically favors.
+The quality of this summoned instrument can vary widely (roll 1d6): poor (1), average (2-5), or masterwork (6).
+Only one instrument appears per casting, and it cannot be exchanged for another.
+The caster can, however, reject the instrument simply by dismissing the spell.
+This is a real instrument temporarily borrowed from elsewhere, not a figment or creation.
+For that reason, it is considered good form to deposit a small fee inside the instrument before it returns whence it came.
+ <b>Also appears in</b>   Player's Handbook v.3.5     

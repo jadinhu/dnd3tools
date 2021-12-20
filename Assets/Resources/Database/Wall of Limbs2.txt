@@ -1,0 +1,25 @@
+<b>Wall of Limbs</b>(Spell Compendium, p. 234)
+
+Evocation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> A wall of whirling limbs up to 20 ft. long/level, or a ring of whirling limbs with a radius of up to 5 ft./2 levels, either form 20 ft. high
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Reflex negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>By flexing your arm and speaking the repetitive words of power, you unleash the spell. In the distance, the ground is covered in a writhing mass. As you watch, over the course of a few seconds, the writhing mass rises up and forms a wall of thousands of wriggling arms resembling your own.</b>
+	
+An immobile, vertical curtain of whirling limbs springs into existence. The limbs resemble your own forelimbs.
+	
+A creature attempting to move through the wall takes 5d6 points of damage and must succeed on a DC 18 Strength check or become stuck within the wall and unable to move (a charging creature gains a +2 bonus on the Strength check). The creature takes 5d6 points of damage each round at the beginning of your turn until freed. A creature can free itself with a DC 18 Strength check, or by dealing 30 points of damage to a 5-foot section of wall.
+	
+A creature that starts its turn next to a wall of limbs must succeed on a DC 18 Strength check or be grabbed by the flailing arms and become stuck, as above.
+	
+If you evoke the wall so that it appears where creatures are, each creature takes damage as if passing through the wall. Each such creature can avoid the wall (ending up on the side of its choice) and thus take no damage by making a successful Reflex save.
+	
+A wall of limbs provides cover against attacks made through it.
+ <b>Also appears in</b>   Savage Species     

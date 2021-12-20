@@ -1,0 +1,29 @@
+<b>Dragonmark Symbol</b>(Dragonmarked, p. 150)
+
+Abjuration
+ <b>Level:</b>  Cleric 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, Dragonmark
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> 0 ft.; see text
+ <b>Effect:</b> One symbol
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You use a dragonshard to trace a copy of your dragonmark on a surface. The shard disappears as you complete the rune, which glows momentarily, then fades away.</b>
+	
+This spell functions like a <b>symbol of death</b> (<b>PH</b> 289), except that each creature within the radius of a <b>dragonmark symbol</b> must attempt a Fortitude saving throw each round at the beginning of its turn. Failure means that a creature is nauseated. These effects end after the creature moves farther than 60 feet from the symbol.
+	
+Unlike <b>symbol of death</b>, <b>dragonmark symbol</b> has no hit point limit; once triggered, a <b>dragonmark symbol</b> simply remains active for 10 minutes per caster level.
+	
+Creatures possessing the dragonmark of your house do not trigger the symbol and are unaffected by it if it is triggered by others. However, they sense its presence if they are within 60 feet. Because aberrant dragonmarks are unique, a <b>dragonmark symbol</b> spell cast by a character with an aberrant dragonmark affects all creatures except the caster.
+	
+You can make a <b>dragonmark symbol</b> permanent using a <b>permanency</b> spell (CL 14th, 3,000 XP).
+	
+<b>Note:</b> Magic traps such as <b>dragonmark symbol</b> are hard to detect and disable. A rogue (only) can use the Search skill to find a <b>dragonmark symbol</b> and Disable Device to thwart it. The DC in each case is 25 + spell level, or 31 for <b>dragonmark symbol</b>.
+	
+<b>Material Component:</b> A Siberys dragonshard (if you possess a true dragonmark) or a Khyber dragonshard (if you possess an aberrant dragonmark) worth at least 1,000 gp.
+	
+<b>Dragonmark:</b> Any true or aberrant dragonmark.
+   

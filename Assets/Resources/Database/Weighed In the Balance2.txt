@@ -1,0 +1,16 @@
+<b>Weighed In the Balance</b>(Underdark)
+
+Necromancy
+ <b>Level:</b>   Balance 9,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Creatures in a 30-ft.-radius spread centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell harms or heals creatures within its area based on their alignments and life status, as given in the table below.
+The effect does the most harm to those creatures most extreme in alignment and most out of balance with the natural world.
+ <b>Also appears in</b>   Spell Compendium     

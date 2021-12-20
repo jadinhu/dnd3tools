@@ -1,0 +1,18 @@
+<b>Thin Air</b>(Frostburn)
+
+Necromancy [Cold]
+ <b>Level:</b>  Cleric 2,  Druid 2,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 30-ft.-radius emanation
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell thins the oxygen in the area, causing creatures caught therein to suffer the effects of extreme altitude sickness.
+Subjects failing their saves take 1 point of damage to all ability scores because of altitude sickness (see page 90 of the Dungeon Masters Guide).
+Characters acclimated to high altitude receive a +4 competence bonus on their saving throws.
+Creatures that do not breathe are immune to the effects of the spell.
+   

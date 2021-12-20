@@ -1,0 +1,19 @@
+<b>Pavilion of Grandeur</b>(Spell Compendium, p. 152)
+
+Conjuration (Creation)
+ <b>Level:</b>   Creation 9,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Extradimensional pavilion, up to five 10-ft. cubes/level (S), plus feast for 12 creatures/level
+ <b>Duration:</b> 24 hours/level (D) plus 12 hours; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Thinking sweet thoughts of home and hearth, you conjure an invisible bastion of comfort and security.</b>
+	
+You conjure up a grand pavilion-sized tent that has a single entrance on the plane from which the spell was cast. The entry point looks like a faint shimmering in the air that is 10 feet wide by 15 feet high. Only those you designate can enter the pavilion, and the entrance is shut and made invisible behind you when you enter. You can open it again from your own side at will. Once observers have passed beyond the entrance, they are in a spacious tent decorated in the colors of your faith. The lighting can vary between darkness and daylight, and the temperature between 40 and 90 degrees Fahrenheit, at your discretion when casting the spell.
+	
+The pavilion is sumptuously furnished, including a full meal for a dozen creatures per caster level. Anyone who spends 1 hour dining here gains benefits identical to those of a <b>heroes' feast</b> spell (PH 240). While in the pavilion, creatures heal naturally at double the normal rate (not including fast healing or regeneration).
+   

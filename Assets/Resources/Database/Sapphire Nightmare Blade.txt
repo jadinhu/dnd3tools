@@ -1,0 +1,15 @@
+<b>Sapphire Nightmare Blade</b>(Tome of Battle: The Book of Nine Swords, p. 65)
+
+Diamond Mind (Strike)
+ <b>Level:</b>  Swordsage 1,  Warblade 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>Your study your enemy for a brief moment, watching his defensive maneuvers and making a strike timed to take advantage of a lull in his vigilance.</b>
+	
+The sapphire nightmare blade is one of the most basic, but important, maneuvers that a Diamond Mind adept studies. It illustrates that a keen mind can pierce even the toughest defenses.
+	
+You attempt a Concentration check as part of this maneuver, using the target creature?s AC as the DC of the check. You then make a single melee attack against your target. The attack is also part of this maneuver. If your Concentration check succeeds, the target is fl at-footed against your attack, and you deal an extra 1d6 points of damage. If your check fails, your attack is made with a ?2 penalty and deals normal damage.</   

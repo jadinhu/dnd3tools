@@ -1,0 +1,25 @@
+<b>Avoid Planar Effects</b>(Spell Compendium, p. 19)
+
+Abjuration
+ <b>Level:</b>  Cleric 2,  Druid 2,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> 20 ft.
+ <b>Target:</b> One creature/level in a 20-ft.-radius burst centered on you
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>The danger of the plane surprises you, and you have barely time to bark out a few elder words of power. In a moment you're safe, and you gain a brief respite � ;time enough to cast more permanent protective spells.</b>
+	
+You gain a temporary respite from the natural effects of a specific plane. These effects include extremes in temperature, lack of air, poisonous fumes, emanations of positive or negative energy, or other attributes of the plane itself (<span class="caps">DMG</span> 150).
+	
+Avoid planar effects provides protection from the 3d10 points of fire damage that characters normally take when on a plane with the fire-dominant trait. Avoid planar effects allows a character to breathe water on a water-dominant plane and ignore the threat of suffocation on an earth-dominant plane. A character protected by avoid planar effects can't be blinded by the energy of a major positive-dominant plane and automatically stops gaining temporary hit points when they equal the character's full normal hit point total. Negative-dominant planes don't deal damage or bestow negative levels to characters protected by avoid planar effects.
+	
+In addition, some effects specific to a plane are negated by avoid planar effects. In the D&amp;D cosmology, avoid planar effects negates the deafening effect of Pandemonium and the cold damage on the Cania layer of the Nine Hells. The DM can add additional protections for a cosmology he creates. If the campaign has an Elemental Plane of Cold, for example, avoid planar effects protects against the base cold damage dealt to everyone on the plane.
+	
+The effects of gravity traits, alignment traits, and magic traits aren't negated by avoid planar effects, nor is the special entrapping trait of certain planes (such as Elysium and Hades).
+	
+The spell does not provide protection against creatures, native or otherwise, nor does it protect against spells, special abilities, or extreme and nonnatural formations within the plane. This spell allows you to survive on the Elemental Plane of Earth, for instance, but it won't protect you if you walk into a pool of magma on that same plane.
+ <b>Also appears in</b>   Manual of the Planes  Planar Handbook     

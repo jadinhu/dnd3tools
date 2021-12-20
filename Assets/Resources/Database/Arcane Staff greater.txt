@@ -1,0 +1,14 @@
+<b>Arcane Staff, Greater</b>(Tower of High Sorcery)
+
+Transmutation 
+ <b>Level:</b> Anagakok 7, Beholder Mage 7, Deathwalker 7, Fleshcrafter 7, Sha-ir 7, Sorcerer 7, Wizard 7, Soul Reaper 7, Sublime Chord 7   
+<b>Components:</b>V, S, F
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Non-magic quarterstaff touched
+ <b>Duration:</b> Permanent until discharged (D)
+ <b>Saving Throw:</b> Permanent until discharged (D)
+ <b>Spell Resistance:</b> Yes (object)
+ 	
+As arcane staff, except that you can store up to your spellcasting level + ability modifier (Intelligence if a wizard, Charisma if a sorcerer) in total spell levels within the quarterstaff, and the spells you store can be up to 6th-level.
+   

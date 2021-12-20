@@ -1,0 +1,16 @@
+<b>Longstrider</b>(Player's Handbook v.3.5, p. 249)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,  Urban Druid 1,   Travel 1,  Arborea 1,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D)
+
+ 	
+This spell increases your base land speed by 10 feet.
+(This adjustment counts as an enhancement bonus).
+It has no effect on other modes of movement, such as burrow, climb, fly, or swim.
+Material Component: A pinch of dirt.
+   

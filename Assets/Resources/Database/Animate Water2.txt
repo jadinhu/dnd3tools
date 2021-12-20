@@ -1,0 +1,13 @@
+<b>Animate Water</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 2 (Water),   River 2,   
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to a 5-ft. cube of water
+ <b>Duration:</b> Concentration, up to 1 round/level (D)
+
+ 	
+As animate wood, but you can only animate a Small or smaller quantity of water.
+Material Component: A small vial of pure spring water mixed with cinnabar oil.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

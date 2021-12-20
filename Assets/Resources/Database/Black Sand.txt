@@ -1,0 +1,22 @@
+<b>Black Sand</b>(Sandstorm)
+
+Necromancy [Darkness, Evil]
+ <b>Level:</b>  Cleric 3,   Sand 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Reflex negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates an area of black sand (see page 20), infused with shadowstuff and negative energy.
+A region of black sand literally swallows light, emitting magical darkness rising to a height of 20 feet over the surface.
+Creatures that come in contact with the sand take 1d4 points of damage per round from negative energy (no save).
+Those reduced to 0 hit points crumble into black sand themselves.
+Creatures can make Reflex saves to avoid being caught in the area upon which the spell is first cast.
+Only the surface of the sand is affected by the spell, so creatures burrowing beneath an area of black sand are unaffected unless they break its surface.
+Creatures that do so immediately take damage from the spell.
+Black sand can be made permanent with a permanency spell.
+   

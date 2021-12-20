@@ -1,0 +1,20 @@
+<b>Boneblast</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Blackguard 1,  Cleric 2,    
+<b>Components:</b>V, S, M, Undead
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature that has a skeleton
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half or Fortitude negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster causes some bone within a touched creature to break or crack.
+The caster cannot specify which bone.
+Because the damage is general rather than specific, the target takes 1d3 points of Constitution damage.
+A Fortitude save reduces the Constitution damage by half,
+or negates it if the full damage would have been 1 point of Constitution damage.
+Material Component: The bone of a small child that still lives.
+   

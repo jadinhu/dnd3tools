@@ -1,0 +1,17 @@
+<b>Ectoplasmic Decay</b>(Ghostwalk)
+
+Necromancy [Ectomancy]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a barely visible spread of energy that is harmful to ectoplasm but harmless to everything else.
+All ectoplasmic creatures and objects in the area take 1d6 points of damage per caster level.
+Material Component: A flat, sharpened disk made of resin.
+   

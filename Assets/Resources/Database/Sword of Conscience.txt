@@ -1,0 +1,18 @@
+<b>Sword of Conscience</b>(Book of Exalted Deeds)
+
+Enchantment (Compulsion) [Good, Mind-Affecting]
+ <b>Level:</b>  Champion of Gwynharwyf 4,  Cleric 4,  Exalted Arcanist 4,  Paladin 4,  Slayer of Domiel 4,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One evil creature
+ <b>Duration:</b> Instantaneous; see text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The target creature, which must be evil, is struck by pangs of conscience and remorse.
+The creature instantaneously takes Wisdom and Charisma damage according to the magnitude of its evil.
+The creature regains lost abilities normally; they do not automatically return when the spell's duration expires.
+This effect is not language-dependent.
+   

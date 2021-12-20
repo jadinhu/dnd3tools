@@ -1,0 +1,19 @@
+<b>Steal Size</b>(Races of the Dragon)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One humanoid creature larger than you
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You throw the powdered iron toward your target, and the creature shrinks before your eyes � ;just as you simultaneously grow larger.
+You eclipse, balance, or minimize the size advantage of another creature.
+A target that fails a Fortitude save shrinks by one size category, halving its height, length, and width and dividing its weight by eight, as the reduce person spell, while you grow by one size category, doubling your height, length, and width and multiplying your weight by eight, as the enlarge person spell.
+If the spell ends for either of you, the spell ends for both of you.
+Material Component: A dash of powdered iron.
+   

@@ -1,0 +1,22 @@
+<b>Arboreal Transformation</b>(Complete Mage)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 9 (wood),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 day/level and permanent; see text
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your subject's skin splits open, revealing wood and bark.
+Leaves sprout from his limbs even as he starts to grow.
+You transform the subject of the spell into a Huge oak tree.
+For a number of days equal to your caster level, that oak tree animates as a treant (though it can't animate trees) and serves as you command.
+You can either command it to follow you, or you can leave it somewhere with a triggering phrase as described in the liveoak spell (PH 248).
+When the spell's duration expires, the subject becomes in all respects a normal tree, taking root where it stands if capable.
+A creature that succeeds on its saving throw is instead slowed (as the spell) as his body fights off the transformation from within.
+When the spell's duration expires, the subject returns to normal.
+   

@@ -1,0 +1,18 @@
+<b>Tail Sweep</b>(Races of the Dragon)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 feet
+ <b>Area:</b> 10-foot-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A partially translucent, scaled tail uncoils from behind you and sweeps through the area, then vanishes as quickly as it appeared.
+You evoke a dragon's tail that savagely sweeps through the space around you in a 10-foot radius, dealing 1d6 points of damage per level to all creatures that fail a Reflex saving throw and half that damage to creatures that succeed on the save.
+Creatures that fail the Reflex save are also knocked prone.
+Special: A dragonblooded character, or a character with the dragon type, casts this spell at +1 caster level.
+   

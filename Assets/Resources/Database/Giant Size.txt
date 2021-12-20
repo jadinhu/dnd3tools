@@ -1,0 +1,18 @@
+<b>Giant Size</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute
+
+ 	
+When you cast this spell, you grow to Huge, Gargantuan, or Colossal size, depending on your caster level.
+Your Strength, Dexterity, Constitution, natural armor, size modifier to Armor Class and attack rolls, and space and reach all change as shown on the accompanying table.
+(You need not assume the largest size you are capable of; you can choose to grow only to a smaller size if you wish).
+All your equipment changes size with you, allowing you to use weapons or magic items effectively in your giant form.
+See Table 2-2: Increasing Weapon Damage by Size, page 28 of the Dungeon Master's Guide, to determine the damage dealt by any weapons carried when you cast giant size.
+Material Component: The scale of a dragon or hairs from the head of a giant.
+ <b>Also appears in</b>   Oriental Adventures     

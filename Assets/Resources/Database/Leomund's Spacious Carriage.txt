@@ -1,0 +1,25 @@
+<b>Leomund's Spacious Carriage</b>(CityScape)
+
+Conjuration (Creation)
+ <b>Level:</b>  Bard 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> A full-sized carriage and phantom horses
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+With a faint shimmering and a rushing breeze, an ornate carriage appears on the street, pulled by four snorting, faintly translucent horses.
+You conjure up a carriage capable of seating four passengers comfortably or six in cramped conditions, as well as the horses needed to pull it.
+These &quot;horses&quot; are similar to those created by the phantom steed spell, though they do not gain any of the special, level-based abilities conferred by that spell.
+They respond to your thoughts alone, and they can pull the carriage at a speed of up to 50 feet.
+The carriage resists flames as if it were stone.
+It is impervious to normal missiles (but not the sort cast by siege engines or giants).
+The interior contains lush, cushioned seats.
+The side windows can be opened to allow for missile fire or spellcasting.
+If the windows are open, everyone inside is considered to have cover.
+but they are not impervious to missiles as they would otherwise be.
+Material Component: A few splinters of gold-painted oak, several strands of horse hair, and a strip of leather.
+   

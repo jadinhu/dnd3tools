@@ -1,0 +1,21 @@
+<b>Dawn Shroud</b>(Champions of Valor)
+
+Evocation [Light]
+ <b>Level:</b>  Cleric 5,  Druid 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing creature touched
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> Will half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause the target to glow with the rosy light of the dawn.
+In addition to acting as a daylight spell, the light is harmful to oozes and undead.
+When the spell is cast, and at the beginning of each of your
+turns thereafter, such creatures take 1d6 points of damage if within the bright light of the spell (out to 60 feet) or 1 point of damage per round if within the shadowy illumination of the spell (more than 60 feet, out to 120 feet).
+If the subject is touched by such a creature using a touch attack, or if it hits the subject with a natural weapon or unarmed strike, it takes 1d6 points of damage + 1 point per caster level (maximum 1d6+15), with a Will saving throw for half damage.
+If you cast this spell on yourself, you can suppress or restore this light as a free action once each round.
+This spell was created by clerics of the church of Lathander, but they do not try to restrict its use to only those of their faith.
+   

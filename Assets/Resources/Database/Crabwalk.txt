@@ -1,0 +1,19 @@
+<b>Crabwalk</b>(Spell Compendium, p. 53)
+
+Transmutation
+ <b>Level:</b>  Bard 1,  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> None
+
+ 	
+_The creature you touch now moves much faster, scuttling about with disconcerting ease.
+	
+When the subject of this spell charges, it gains a +4 bonus on its attack roll and takes no penalty to Armor Class. This benefit replaces the normal +2 bonus on attack rolls and -2 penalty to AC that a charge attack normally confers. If the creature is capable of multiple attacks after a charge, such as a lion with the pounce ability, the bonus applies only to the first attack.
+	
+<b>Material Component:</b> A crab's leg.
+   

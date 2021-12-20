@@ -1,0 +1,21 @@
+<b>Fugue</b>(Spell Compendium, p. 100)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 30-ft.-radius spread
+ <b>Duration:</b> Concentration, up to 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Upon completing the spell, a discordant cacophony of haunting and alien music rises up in the area you designate. Although the strange music reaches your ears, you feel no effect from it.</b>
+	
+Creatures that fail their save become affected by the haunting fugue in semirandom ways. On each affected creature's turn (as long as it remains in the affected area), you make a Perform check. The check result determines how the victim's mind and body are affected by the spell. You can select any of the effects for Which your Perform check equals or exceeds the required DC.
+	<table>		<tr>			<td> <b>DC</b> </td>			<td> <b>Result</b> </td>		</tr>		<tr>			<td> 15 </td>			<td> Victim takes 3d6 points of nonlethal damage </td>		</tr>		<tr>			<td> 20 </td>			<td> Victim takes 3d6 points of sonic damage </td>		</tr>		<tr>			<td> 25 </td>			<td> Victim is knocked prone </td>		</tr>		<tr>			<td> 30 </td>			<td> Victim is nauseated for 1 round </td>		</tr>		<tr>			<td> 35 </td>			<td> Victim is stunned for 1 round </td>		</tr>		<tr>			<td> 40 </td>			<td> Victim attacks nearest target </td>		</tr>	</table>	
+All creatures that succeed on their saves against the spell are disoriented and take a -2 penalty on attack rolls and skill checks as long as they remain in te affected area.
+	
+<b>Focus:</b> A miniature violin bow made of platinum worth 250 gp.
+   

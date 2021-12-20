@@ -1,0 +1,36 @@
+<b>Mordenkainen's Capable Caravel</b>(Stormwrack)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ship plus extradimensional space, up to three 10-ft. cubes/level (S)
+ <b>Duration:</b> 1 day/2 levels (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You conjure into existence a fine, seaworthy ship to carry you and your companions safely and comfortably.
+A caravel is a fairly small, double-decked sailing ship (see page 98 for more information).
+It holds a generous amount of cargo and offers cramped quarters for crew and passengers.
+The ship produced by this spell has even more room for cargo and passengers, contained within an extradimensional space.
+The entry point to this space is a hatch on the aft upper deck.
+Lifting the hatch reveals a set of wooden stairs, which descend about 6 feet to a horizontal shimmering in the air about 4 feet wide.
+Only those you designate can enter this space, and the extradimensional portal is shut and made invisible behind you when you enter.
+Those without authorization to enter instead continue descending the steps to an ordinary cargo hold.
+You can open the portal again from your own side at will.
+Those who pass beyond the portal's entrance find themselves in a magnificent foyer with many staterooms whose doors open from this space.
+The atmosphere is clean, fresh, and warm.
+You can create any deck plan you desire within the limit of the spell's effect.
+The cabins are furnished, and the galley contains sufficient foodstuffs and preparation equipment to serve three full meals per day per person per caster level.
+A staff of near-transparent pursers (up to two per caster level), liveried and obedient, wait upon all who enter.
+They function as unseen servant spells except that they are visible and can go anywhere within the extradimensional space.
+Since the place can be entered only through its special portal, outside conditions do not affect the passenger space, nor do conditions inside it pass to the plane beyond.
+Bad weather or other marine hazards can still threaten the vessel, but even if it sinks, the passenger space remains safe and isolated (though exiting it might prove difficult).
+The ship is crewed by a minimum complement of spectral deckhands, which perform the basic tasks of maintenance.
+These, like the cabin servants, behave as unseen servants but can travel anywhere on board ship and can enter the extradimensional space if you so direct.
+The spectral deckhands respond to the direction of the helmsman, reducing the number of crew necessary to control the caravel to 1.
+If you do not provide a real helmsman, the ship will steer itself on the last course a living helmsman provided but will not be able to avoid collisions or hazards or adjust to changing conditions.
+Focus: A miniature ship carved from mahogany, rigged with silk sails and gold thread, with a total value of 500 gp.
+   

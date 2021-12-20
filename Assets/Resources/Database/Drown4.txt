@@ -1,0 +1,22 @@
+<b>Drown</b>(Underdark)
+
+Conjuration (Creation) [Water]
+ <b>Level:</b>  Druid 6,   Watery death 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create water in the lungs of the subject, causing it to begin drowning.
+The subject's hit points immediately drop to 0, and it falls unconscious.
+In the next round, it loses another hit point (bringing its hp to -1) and is dying.
+In the following round, it dies.
+(For details on drowning, see the Drowning rule in the Dungeon Master's Guide).
+Coughing and other attempts by the subject to physically expel the water from its lungs are useless.
+However, another creature can stabilize the subject with a DC 15 Heal check before death.
+Undead, constructs, creatures that do not need to breathe, and creatures that can breathe water are unaffected by this spell.
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun  Book of Vile Darkness     

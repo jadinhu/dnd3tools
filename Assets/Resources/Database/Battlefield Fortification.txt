@@ -1,0 +1,18 @@
+<b>Battlefield Fortification</b>(Heroes of Battle)
+
+Transmutation [Earth]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> See text
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You shift earth to create a shallow trench or a berm, as described on page 35.
+The trench or berm created is a straight line up to 5 feet long per two caster levels.
+A berm created by this spell is 2 squares wide.
+This spell has no effect when cast in an area of stone such as an unworked cavern floor, a flagstone floor, or a cobblestone street.
+   

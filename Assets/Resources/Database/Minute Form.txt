@@ -1,0 +1,19 @@
+<b>Minute Form</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 8,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute
+
+ 	
+When you cast this spell, you shrink to Tiny, Diminutive, or Fine size, depending on your caster level).
+Your Strength, Dexterity, Constitution, size modifier to Armor Class and attack rolls, and space and reach all change as shown on the accompanying table.
+(You need not assume the smallest size you are capable of; you can choose to shrink only to a larger size if you wish).
+None of your ability scores can be reduced below 1 by this spell.
+All your equipment changes size with you, allowing you to use weapons or magic items effectively in your smaller form.
+See Table 2-3: Decreasing Weapon Damage by Size, page 28 of the Dungeon Master's Guide, to determine the damage dealt by any weapons carried when you cast minute form.
+Material Component: A flea.
+ <b>Also appears in</b>   Oriental Adventures     

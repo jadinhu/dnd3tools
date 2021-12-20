@@ -1,0 +1,15 @@
+<b>Tojanida Sight</b>(Stormwrack)
+
+Divination
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 min./level (D)
+
+ 	
+You gain all-around vision, allowing you to see in any direction.
+You gain a +4 bonus on Spot and Search checks, and you cannot be flanked for the duration of the spell.
+However, you cannot avert your eyes when confronted by a creature with a gaze attack, though you can still close your eyes in such a circumstance.
+   

@@ -1,0 +1,18 @@
+<b>Portal View</b>(Underdark, p. 60)
+
+Divination (Scrying)
+ <b>Level:</b>  Bard 4,  Sorcerer 4,  Wizard 4,   Portal (Alternative) 3,   
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One portal
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Portal view makes a portal transparent from your side only for the duration of the spell.
+It does not actually open the portal, so no line of effect is established, but it does enable line of sight.
+Portal view does not reveal any of the portal's special properties (such as one-way or creature-only); it only allows creature on your side to view the portal's destination.
+Arcane Focus: A glass eye.
+   

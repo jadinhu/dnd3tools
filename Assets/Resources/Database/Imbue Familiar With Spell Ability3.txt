@@ -1,0 +1,25 @@
+<b>Imbue Familiar With Spell Ability</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Universal
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Your familiar
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You transfer some of your currently prepared spells, and the ability to cast them, to your familiar.
+If you are a sorcerer, you imbue your familiar with spells you know how to cast.
+You can imbue a maximum of one spell per three levels.
+The maximum level of the spells to be imbued is one-third of your level, rounded down (maximum5th level).
+Multiple castings of the spell do not increase these limits.
+The transferred spell's variable characteristics (range, duration, area, and so on) function according to your level.
+Once you cast imbue familiar with spell ability on your familiar, you cannot prepare a new 6th-level spell to replace it until the familiar uses the transferred spells or is slain.
+(If you are a sorcerer, you simply cannot cast imbue familiar with spell ability again until the familiar uses the imbued spells).
+In either case, the spell slots you transfer are not available to you until the familiar uses them.
+If the transferred spells require focuses or material components, the familiar must have them to use the spells.
+Any XP costs from a transferred spell are deducted from your total when the familiar casts the spell.
+ <b>Also appears in</b>   Spell Compendium  Complete Arcane     

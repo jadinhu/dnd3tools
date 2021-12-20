@@ -1,0 +1,17 @@
+<b>Reduce Animal</b>(Player's Handbook v.3.5, p. 269)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Ranger 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One willing animal of Small, Medium, Large, or Huge size
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like reduce person, except that it affects a single willing animal (not one with which you are engaged in combat, for instance).
+This decrease in size allows the animal to fit better into tight spaces, such as the typical dungeon room or subterranean passage.
+Reduce the damage dealt by the animal's natural attacks as shown on Table 2-3 in the Dungeon Master's Guide.
+   

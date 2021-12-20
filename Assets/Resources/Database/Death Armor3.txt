@@ -1,0 +1,19 @@
+<b>Death Armor</b>(Spell Compendium, p. 60)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>You smear yourself with white paste, drawing a skull on your bare flesh. Immediately a wreath of black flames crackles to life around you.</b>
+	
+The black flames created by this spell injure creatures that contact them. Any creatures striking you with its body or handheld wapons takes 1d4 points of damage +1 point per two caster levels (maximum +10). If the creature has spell resistance, it applies to the damage. Weapons with reach, such as longspears, do not endanger their users in this way.
+	
+<b>Material component:</b> Paste made from ground bones
+	
+Focus: An onyx worth 50 gp.
+ <b>Also appears in</b>   Ghostwalk  Magic of Faerun     

@@ -1,0 +1,24 @@
+<b>Prismatic Sphere</b>(Player's Handbook v.3.5, p. 264)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,  Warmage 9,  Sha'ir 9,   Protection 9,  Sun 9,  Family 9,   
+<b>Components:</b>V, 
+ <b>Range:</b> 10 ft.
+ <b>Effect:</b> 10-ft.-radius sphere centered on you
+
+ 	
+This spell functions like prismatic wall, except you conjure up an immobile, opaque globe of shimmering, multicolored light that surrounds you and protects you from all forms of attack.
+The sphere flashes in all colors of the visible spectrum.
+	
+The sphere's blindness effect on creatures with less than 8 HD lasts 2d4x;10 minutes.
+	
+You can pass into and out of the prismatic sphere and remain near it without harm. However, when you're inside it, the sphere blocks any attempt to project something through the sphere (including spells). Other creatures that attempt to attack you or pass through suffer the effects of each color, one at a time.
+	
+Typically, only the upper hemisphere of the globe will exist, since you are at the center of the sphere, so the lower half is usually excluded by the floor surface you are standing on.
+	
+The colors of the sphere have the same effects as the colors of a prismatic wall.
+	
+Prismatic sphere can be made permanent with a permanency spell.
+	<table>		<tr>			<th>Color </th>			<th>Order </th>			<th>Effect of Color </th>			<th>Negated By </th>		</tr>		<tr>			<td> Red </td>			<td> 1st </td>			<td> Stops nonmagical ranged weapons. </td>			<td> <b>Cone of cold</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Deals 20 points of fire damage (Relfex half). </td>			<td> </td>		</tr>		<tr>			<td> Orange </td>			<td> 2nd </td>			<td> Stops magical ranged weapons. </td>			<td> <b>Gust of wind</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Deals 40 points of acid damage (Reflex half). </td>			<td> </td>		</tr>		<tr>			<td> Yellow </td>			<td> 3rd </td>			<td> Stops poisons, gases and petrification. </td>			<td> <b>Disintegrate</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Deals 80 points of electricity damage (Reflex half). </td>			<td> </td>		</tr>		<tr>			<td> Green </td>			<td> 4th </td>			<td> Stops breath weapons </td>			<td> <b>Passwall</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Poison (Kills; Fortitude partial for 1d6 points of Con damage instead). </td>			<td> </td>		</tr>		<tr>			<td> Blue </td>			<td> 5th </td>			<td> Stops divination and mental attacks. </td>			<td> <b>Magic missle</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Turned to stone (Fortitude negates). </td>			<td> </td>		</tr>		<tr>			<td> Indigo </td>			<td> 6th </td>			<td> Stops all spells. </td>			<td> <b>Daylight</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Will save or become insane (as insanity spell). </td>			<td> </td>		</tr>		<tr>			<td> Violet </td>			<td> 7th </td>			<td> Energy field destroys all objects and effects. </td>			<td> <b>Dispel magic</b> </td>		</tr>		<tr>			<td> </td>			<td> </td>			<td> Creatures sent to another plane (Will negates). </td>			<td> </td>		</tr>	</table>	
+Note: The violet effect makes the special effects of the other six colors redundant, but these six effects are included here because certain magic items can create prismatic effects one color at a time, and spell resistance might render some colors ineffective (see above).
+   

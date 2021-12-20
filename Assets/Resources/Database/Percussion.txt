@@ -1,0 +1,21 @@
+<b>Percussion</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Illusion (Figment)
+ <b>Level:</b>  Bard 0,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25ft. + 5 ft./2 levels)
+ <b>Effect:</b> Illusory sounds
+ <b>Duration:</b> 5 minutes/level (D)
+ <b>Saving Throw:</b> Will disbelief (if interacted with)
+ <b>Spell Resistance:</b> No
+
+ 	
+Percussion fills the immediate area with the sounds of drums, chimes, and other percussive instruments.
+The music can range from the gentle tapping of a single tom-tom to the thunder of a squad of drummers.
+Upon casting the spell, you set the tempo of the drums and the rhythm they repeat.
+Thereafter, you can change the tempo, rhythm, or volume simply by concentrating for 1 round.
+Bards often use this spell to provide background accompaniment for their own music and songs.
+The sounds produced are no louder than real drums would be, but the effect is realistic enough to fool anyone who can't see that no drummers are present.
+Material Component: Two smooth wooden sticks, which you must touch together to cast the spell.
+   

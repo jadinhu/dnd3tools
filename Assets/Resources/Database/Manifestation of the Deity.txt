@@ -1,0 +1,21 @@
+<b>Manifestation of the Deity</b>(Complete Scoundrel)
+
+Illusion (Pattern) [Fear, Mind-Affecting]
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Effect:</b> An image of the deity you worship
+ <b>Duration:</b> 1 round/3 levels (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> No
+
+ 	
+As you invoke the name of your deity, a towering, spectral image of the god appears above you, turning its wrath upon your foes.
+You summon a looming illusion of the deity you worship, overlaid on your form.
+The divine manifestation appears ghostly and fearsome, with its favored weapon drawn, and makes threatening overtures (roaring, spouting scripture, making dreadful threats, and the like).
+The image is transparent enough that you receive no concealment.
+Any enemy who can see the effect becomes shaken for 1 round.
+A successful Will save negates the effect, and that creature can no longer be affected by this casting of the spell.
+No creature can be affected more than once by the same casting of manifestation of the deity.
+   

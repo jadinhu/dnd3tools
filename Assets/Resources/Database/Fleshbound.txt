@@ -1,0 +1,24 @@
+<b>Fleshbound</b>(Secrets of Sarlona, p. 127)
+
+Abjuration
+ <b>Level:</b>  Cleric 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One possessed creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A field of magical energy surrounds your opponent, which shrieks as the spirit possessing it is forcibly locked to its body. As you prepare your next attack, you know that the possessing spirit will remember this fight.</b>
+	
+When this spell is cast on a possessed creature, the posÂ­sessing spirit is temporarily bound within its host and inextricably locked to that host's life force. If the fleshbound creature takes damage, the possessing spirit feels its pain.
+	
+While under the effect of this spell, the host creature automatically falls under the complete control of the possessing spirit (<span class="caps">ECS</span> 101). For the purpose of combat, the fleshbound creature uses its own attacks and special abiliÂ­ties, but does not gain any additional abilities not already granted by being possessed.
+	
+Each round as a full-round action, a fleshbound creaÂ­ture can make a special Will save (DC equal to spell's save DC minus possessing spirit's HD + your caster level). A quori spirit possessing an Inspired host can add the levels of the host body to its Hit Dice for the purpose of resisting this spell. If the spirit succeeds on the save, it can abandon the host body as a free action. If it chooses not to abandon the host, the possessing spirit remains bound.
+	
+Any attack that deals hit point damage or ability damage to the host creature deals the same damage to the possessing spirit. The possessing spirit cannot be killed in this way, but if it or the host creature is taken to 0 or fewer hit points, the possessing spirit is forced from the body as if subject to a dismissal spell. Also, its psychic wounds prevent it from possessing any other host for a number of days (as reckoned on the Material Plane) equal to the amount of hit point damage and ability damage dealt to it.
+	
+<b>Material Component:</b> A sphere of volcanic glass, which is shattered as the spell is cast.<   

@@ -1,0 +1,20 @@
+<b>Heart of Earth</b>(Complete Mage)
+
+Transmutation [Earth]
+ <b>Level:</b>  Druid 4,  Sorcerer 4,  Wizard 4,  Wu Jen 4 (earth),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D) or until expended
+
+ 	
+You feel your flesh strengthen with the power of stone.
+This spell converts part of your body into elemental earth, which toughens you considerably.
+You gain a +8 bonus on checks to resist a bull rush, overrun, or trip attack.
+You also gain temporary hit points equal to twice your caster level (up to 30 hp).
+Furthermore, while this spell is active, you can activate a stoneskin effect (as the spell) on yourself as a swift action.
+This benefit lasts for 1 round per level (or until the stoneskin's total protection is consumed), at the end of which time the spell's entire effect ends.
+If heart of earth is active on you at the same time as heart of air, heart of fire, or heart of water, you gain light fortification.
+If all four of these spells are active on you at the same time, you become immune to extra damage from critical hits and sneak attacks.
+   

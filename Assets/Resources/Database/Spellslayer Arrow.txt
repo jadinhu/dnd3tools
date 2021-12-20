@@ -1,0 +1,21 @@
+<b>Spellslayer Arrow</b>(Champions of Ruin)
+
+Transmutation
+ <b>Level:</b>  Assassin 2,  Justice of Weald and Woe 2,  Ranger 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> One masterwork arrow or bolt
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell is cast upon a masterwork arrow or bolt, transforming it into a glowing missile that destabilizes other forms of magic.
+In addition to dealing normal damage, a spellslayer arrow deals an extra 1d4 points of damage for each ongoing spell currently in effect on the target.
+For example, an arrow would deal an extra 3d4 points of damage to a creature under the effects of bull's strength,
+haste, and mage armor.
+The arrow or bolt must be fired during the same round the spell is cast, or the magic dissipates and is lost.
+The projectile is destroyed even if it misses its target.
+Material Component:Masterwork arrow or bolt.
+   

@@ -1,0 +1,19 @@
+<b>Blindsight</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,  Cleric 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell grants the Blindsight feat.
+The target creature gains sensitivity to vibrations, so that it maneuvers and fights as well as a sighted creature.
+The target creature's senses extend to a 30-foot radius, and the creature need not make Spot or Listen checks to notice creatures within this range.
+Invisibility and darkness are irrelevant, though the creature can't discern ethereal beings.
+(For details, see Blindsight, page 73 of the <span class="caps">DUNGEON</span> MASTER's Guide).
+ <b>Also appears in</b>   Spell Compendium  Savage Species  Underdark  Player's Guide to FaerÃ»n     

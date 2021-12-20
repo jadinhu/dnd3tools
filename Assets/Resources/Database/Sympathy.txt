@@ -1,0 +1,24 @@
+<b>Sympathy</b>(Player's Handbook v.3.5, p. 292)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,  Wu Jen 8,  Sha'ir 8,  Druid 9,  Urban Druid 9,   Temptation 8,  Lust 8,  Community 8,  Joy 8,  Greed 9,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One location (up to a 10-ft. cube/level) or one object
+ <b>Duration:</b> 2 hours/level (D)
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause an object or location to emanate magical vibrations that attract either a specific kind of intelligent creature or creatures of a particular alignment, as defined by you.
+The particular kind of creature to be affected must be named specifically � ;for example, red dragons, hill giants, wererats, lammasus, or vampires.
+A creature subtype (such as goblinoid) is not specific enough.
+Likewise, the specific alignment must be named � ;for example, chaotic evil, chaotic good, lawful neutral, or neutral.
+Creatures of the specified kind or alignment feel elated and pleased to be in the area or desire to touch or to possess the object.
+The compulsion to stay in the area or touch the object is overpowering.
+If the save is successful, the creature is released from the enchantment, but a subsequent save must be made 1d6x;10 minutes later.
+If this save fails, the affected creature attempts to return to the area or object.
+Sympathy counters and dispels antipathy.
+Material Component: 1,500 gp worth of crushed pearls and a drop of honey.
+   

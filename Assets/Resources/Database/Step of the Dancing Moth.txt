@@ -1,0 +1,15 @@
+<b>Step of the Dancing Moth</b>(Tome of Battle: The Book of Nine Swords, p. 80)
+
+Shadow Hand (Stance)
+ <b>Level:</b>  Swordsage 5 (Two Shadow Hand maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You focus your inner reserve of ki energy to generate flowing shadows that lift you off the ground. You walk across the roughest ground, even water, with ease.</b>
+	
+While you are in this stance, you can walk up to 5 feet above the ground. Your speed becomes 20 feet while you are in this stance, and you cannot run. You ignore any terrain feature that fails to project more than 5 feet above the ground, such as difficult terrain, burning lava, water, and so forth. In addition, you ignore the standard penalties on Hide and Move Silently checks for moving quickly.
+   

@@ -1,0 +1,16 @@
+<b>Citygate</b>(Dragon Compendium)
+
+Transmutation (Teleportation)
+ <b>Level:</b>  Urban Druid 9,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Effect:</b> One city gate set in a city wall up to 20 feet wide and 20 feet tall teleports those who pass through it
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause a gate built into a city's wall to teleport, as greater teleport, any creature that passes through it to a second city gate designated by you when the spell is cast. Once you select the destination, you can't change it. Both the departure point and arrival point must be in city gates set in walls that surround a city of small town size or larger (<span class="caps">DUNGEON</span> MASTER'S Guide, page 137). The spell fails if you attempt to set the gate to teleport creatures into a solid object, to a place with which you are not familiar and have no clear description of, or to another plane. The spell fails if either city gate is closed, and the effects of the spell end instantly if either gate is physically closed during the spell's duration. This spell is most often used to aid in the quick evacuation of a city in a time of disaster, but with a little forethought and planning it can also be used to stage sudden invasions of a city.
+Focus: Ambers worth a total of at least 1,000 gp must be buried in the ground underneath each gate.
+   

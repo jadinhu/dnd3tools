@@ -1,0 +1,15 @@
+<b>Summon Nature's Ally II</b>(Player's Handbook v.3.5, p. 288)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>summon nature's ally I</b>, except that you can summon one 2nd-level creature or 1d3 1st-level creatures of the same kind.
+	<b>2ND <span class="caps">LEVEL</span></b>	<table>		<tr>			<td> Bear, black (animal) </td>		</tr>		<tr>			<td> Crocodile (animal) </td>		</tr>		<tr>			<td> Dire badger </td>		</tr>		<tr>			<td> Dire bat </td>		</tr>		<tr>			<td> Elemental, Small (any) </td>		</tr>		<tr>			<td> Hippogriff </td>		</tr>		<tr>			<td> Shark, Medium <sup>1</sup> (animal) </td>		</tr>		<tr>			<td> Snake, Medium viper (animal) </td>		</tr>		<tr>			<td> Squid <sup>1</sup> (animal) </td>		</tr>		<tr>			<td> Wolverine (animal) </td>		</tr>		<tr>			<td> <sup>1</sup> may be summoned only into an aquatic or watery environment </td>		</tr>	</table>   

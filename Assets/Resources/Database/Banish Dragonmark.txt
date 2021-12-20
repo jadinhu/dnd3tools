@@ -1,0 +1,20 @@
+<b>Banish Dragonmark</b>(Dragonmarked, p. 148)
+
+Abjuration
+ <b>Level:</b>  Cleric 5,  Wizard 5,  Sorcerer 5,    
+<b>Components:</b>V, S, M, Dragonmark
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Close (25ft. + 5ft./2 levels)
+ <b>Target:</b> One dragonmarked creature
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> Will Negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+If the subject fails its save, its dragonmark i stripped away for the spell's duration. The affected subject cannot use any of its dragonmarked spell-like abilities (or any other abilities that rely on dragonmarks) during this time.
+If the target creature's dragonmark is one step more powerful than yours, that creature it gains a +2 bonus to its Will save. If the target creature's dragonmark is two steps more powerful than yours, that creature it gains a +4 bonus to its Will save. 
+	
+<b>Material Component.</b> A pinch of Eberron dragonshard dust.
+	
+<b>Dragonmark:</b> Any true or aberrant dragonmark.
+   

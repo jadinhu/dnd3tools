@@ -1,0 +1,23 @@
+<b>Dire Hunger</b>(Spell Compendium, p. 65)
+
+Transmutation
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You feel pangs of hunger well up within your abdomen as you complete the spell. A blood-red glow of energy radiates from your intended target and the hunger you felt subsides. The target creature's face elongates into a toothy, dinosaurlike snout filled with serrated teeth, and its belly distends as if the creature were undernourished.</b>
+	
+The spell's subject becomes maddened by terrible pangs of hunger, viewing all creatures as food sources.
+	
+The subject creature gains a new bite attack that does damage according to the creature's size:
+	<table>		<tr>			<td> Fine </td>			<td> 1 </td>		</tr>		<tr>			<td> Diminutive </td>			<td> 1d2 </td>		</tr>		<tr>			<td> Tiny </td>			<td> 1d3 </td>		</tr>		<tr>			<td> Small </td>			<td> 1d4 </td>		</tr>		<tr>			<td> Medium </td>			<td> 1d6 </td>		</tr>		<tr>			<td> Large </td>			<td> 1d8 </td>		</tr>		<tr>			<td> Huge </td>			<td> 2d6 </td>		</tr>		<tr>			<td> Gargantuan </td>			<td> 2d8 </td>		</tr>		<tr>			<td> Colossal </td>			<td> 4d6 </td>		</tr>	</table>	
+The subject creature adds 1-1/2 times its Strength bonus to this damage. If the creature already has a bite attack that deals more damage, use that damage value instead.
+	
+The subject creature eschews all other attacks or actions except for its new bite attack, but it defends itself normally. It moves to attack the nearest living creature it can get to and attacks this creature until it is dead or until another living creature is closer. The subject creature attacks whatever living creature is nearest, regardless of former allegiance or personal connection. If moving toward the nearest living creature would move the creature into a dangerous area (precarious footing, a huge fire, or a deadly trap is in the way) the subject creature moves around the hazard if it can or moves to attack another creature if moving around the hazard isn't possible. If such movement brings the subject creature closer to another living creature, it attacks that creature instead. If the subject of the spell cannot detect or get to a living creature nearby, it goes looking for one to attack.
+   

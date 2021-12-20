@@ -1,0 +1,26 @@
+<b>Favorable Wind</b>(Stormwrack)
+
+Evocation [Air]
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped emanation
+ <b>Duration:</b> 10 min./level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell produces a stream of wind that can fill a ship's sails, disperse vapors and gases, and keep flying creatures at bay.
+The wind force is strong, with a speed of about 30 mph.
+It begins where you stand and blows directly away from you; you can easily propel a sailing vessel by standing astern of the mast and directing the wind forward to fill the sails.
+Tiny or smaller creatures in the path of the wind are knocked prone, or if flying are blown back 1d6x;10 feet.
+Small creatures are checked and cannot make headway against the wind.
+Small airborne creatures are instead blown back 1d6x;5 feet.
+Medium and larger creatures can move normally within the effect.
+A favorable wind can't push a creature beyond the limit of its range.
+Any creature, regardless of size, takes a -2 penalty on ranged attacks and on Listen checks in the area of a favorable wind.
+The wind automatically extinguishes candles, torches, and similar unprotected flames.
+In addition to the above-noted effects, favorable wind can do anything that a strong natural wind could do.
+It can fan a large fire, disperse gases and vapors to the limit of its range in 1 round, and make sailing difficult for small craft nearby.
+   

@@ -1,0 +1,15 @@
+<b>Critical Strike</b>(Spell Compendium, p. 56)
+
+Divination
+ <b>Level:</b>  Assassin 1,  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>Upon uttering the ancient phrase that completes the spell, you feel the weapon in your hand drawn toward a creature standing nearby.</b>
+	
+Whenever you make a melee attack agains a flanked foe or against a foe denied its Dexterity bonus, you deal an extra 1d6 points of damage, your weapon's threat range is doubled(as if under the effect of <b>keen edge</b>), and you gain a +4 insight bonus on rolls made to confirm critical threats. The increased threat range granted by this spell doesn't stack with any other effect that increases your weapon's threat range. Creatures immune to extra damage from sneak attacks are immne to the extra damage dealt by your attacks.
+ <b>Also appears in</b>   Complete Mage  Complete Adventurer     

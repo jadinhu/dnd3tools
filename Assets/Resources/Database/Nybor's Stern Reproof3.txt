@@ -1,0 +1,22 @@
+<b>Nybor's Stern Reproof</b>(Unapproachable East)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 7 (Red Wizard),  Wizard 7 (Red Wizard),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell causes stabbing pains even greater than those of Nybor's gentle reminder.
+The target creature must succeed on a Fortitude save or die instantly.
+If he survives, the subject is dazed for 1d4 rounds unless he succeeds on a Will save.
+Regardless of whether he succeeds on this second save, the subject takes a -2 penalty on all attacks, saving throws, and checks while the spell lasts.
+Nybor's stern reproof distracts spellcasters, who must make Concentration checks to cast spells while under its effects (see the Concentration skill description in the Player's Handbook).
+Focus: A slender gold-chased adamantine rod 1 foot long, worth at least 1,000 gp.
+Note: This spell first appeared in Magic of FaerÃ»n.
+This version supersedes the one originally printed there.
+ <b>Also appears in</b>   Magic of Faerun  Player's Guide to FaerÃ»n     

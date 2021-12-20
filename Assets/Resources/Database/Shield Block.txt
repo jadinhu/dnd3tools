@@ -1,0 +1,14 @@
+<b>Shield Block</b>(Tome of Battle: The Book of Nine Swords, p. 60)
+
+Devoted Spirit (Counter)
+ <b>Level:</b>  Crusader 2,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+<b>With a heroic burst of effort, you thrust your shield between your defenseless ally and your enemy.</b>
+	
+As an immediate action, you can grant an AC bonus to an adjacent ally equal to your shield?s AC bonus + 4. You apply this bonus in response to a single melee or ranged attack that targets your ally. You can initiate this maneuver after an opponent makes his attack roll, but you must do so before you know whether the attack was a success or a failure.</p   

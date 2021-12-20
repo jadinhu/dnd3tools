@@ -1,0 +1,17 @@
+<b>Celestial Blood</b>(Book of Exalted Deeds)
+
+Abjuration [Good]
+ <b>Level:</b>  Apostle of Peace 6,  Cleric 6,   Pleasure 6,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Nonevil creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You channel holy power to grant the subject some of the protection enjoyed by celestial creatures.
+The subject gains resistance 10 to acid, cold, and electricity, a +4 bonus on saving throws against poison, and damage reduction 10/evil.
+Material Component: A vial of holy water, with which you anoint the subject's head.
+   

@@ -1,0 +1,17 @@
+<b>True Prayer of the Chosen</b>(Tome of Magic)
+
+Transmutation
+ <b>Level:</b>  Paladin 3,  Cleric 4,    
+<b>Components:</b>V, S, DF, <abbr title="True Name">TN, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Raising your eyes to the skies, you speak your own truename to your patron deity, asking for protection as your mission takes you into harm's way.
+A golden coruscation surrounds you.
+True prayer of the chosen grants you a +3 insight bonus on saving throws and to Armor Class.
+For the duration of the spell, you are protected by the power of your deity, who gives you divine insight into the threats you're about to face.
+Truename Component: When you cast this spell, you must correctly speak your personal truename.
+   

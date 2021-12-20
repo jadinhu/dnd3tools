@@ -1,0 +1,19 @@
+<b>Fatigue</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Shaman 4,  Sohei 4,   Maho 4,   
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject becomes fatigued, suffering an effective penalty of -2 to Strength and Dexterity.
+A fatigued character cannot run or charge and becomes exhausted by doing something that would normally cause fatigue.
+If the subject is already fatigued when you cast the spell, it becomes exhausted, moving at half normal speed and suffering an effective penalty of -6 to Strength and Dexterity.
+The subject can negate the effects of the spell through normal rest.
+The creature must rest for 8 hours to remove the fatigue.
+   

@@ -1,0 +1,17 @@
+<b>Portal-to-Portal Redirect</b>(Underdark, p. 60)
+
+Transmutation
+ <b>Level:</b>   Portal (Alternative) 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One portal
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A portal-to-portal redirect spell changes the destination of the portal on which it is cast for the duration of the spell.
+The caster may choose any existing portal through which she has traveled as the new, temporary destination.
+This spell does not change any of the portal's special properties (such as one-way or creature-only).
+   

@@ -1,0 +1,19 @@
+<b>Raise Ice Forest</b>(Frostburn)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>V, S, DF, Frostfell
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 20-ft. square of snow/level
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Immediately after casting this spell, ice trees erupt from frostfell regions within the spell's area.
+The ice trees resemble any type of tree designated by the caster (deciduous, evergreen, oak, or others).
+Trees have 5-footdiameter trunks and rise to a height of 15 feet.
+Three trees appear in each 20-foot-square frostfell region in the area.
+Ice Tree: 5 feet thick; hardness 8; hp 80; break DC 45; Climb DC 20.
+   

@@ -1,0 +1,21 @@
+<b>Renewal Pact</b>(Complete Divine)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 7,   Pact 7,   
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing living creature touched
+ <b>Duration:</b> Permanent until triggered
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell creates a pact between the target and a deity that uses divine energy to wipe away any of a host of conditions that may afflict the target.
+Once this spell is cast, the pact remains dormant until the target is subjected to one or more of the following adverse conditions: ability damage, blinded, confused, dazed, dazzled, deafened, diseased, exhausted, fatigued, feebleminded,
+insanity, nauseated, sickened, stunned, or poisoned.
+One round after the target is affected by a condition that triggers the renewal pact, the target receives a heal spell (caster level equal to the caster of the renewal pact.
+A creature can be subject to only one renewal pact at a time.
+Casting renewal pact on a target who already has an untriggered renewal pact voids the earlier pact.
+XP Cost: 500 XP.
+ <b>Also appears in</b>   Spell Compendium     

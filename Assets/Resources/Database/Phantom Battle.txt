@@ -1,0 +1,27 @@
+<b>Phantom Battle</b>(Player's Handbook II)
+
+Illusion (Figment)
+ <b>Level:</b>  Bard 3,  Beguiler 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create an illusory horde of snarling ogres, fierce orcs, and proud knights in armor, all locked in battle.
+Creatures in the area move cautiously as they are caught up in the phantom melee.
+This spell creates the illusion of a fierce battle.
+Your enemies move cautiously and pass up the opportunity to strike their foes, since the roar and confusion of the battle distracts them.
+All creatures within the area of the spell that fail their saving throws cannot make attacks of opportunity.
+In addition, all creatures within the area are considered flanked.
+A creature ignores these effects when it leaves the spell's area.
+If a creature reenters the spell's area after leaving it, the creature can attempt another save to resist the spell if its initial save failed.
+A creature that enters the area for the first time after the spell is cast must also make a saving throw to resist the effect.
+A phantom battle spell produces noise appropriate to a mob of creatures locked in battle.
+Anyone in the battle can plainly see that the conjured fighters are no threat, since they strike solely at other phantom warriors, but the din, tumult, and confusion make it difficult to focus on the true foes at hand.
+A creature that succeeds on its save can still see the spectral outline of the illusion, but is able to block out the distraction and fight as normal.
+When you cast this spell, you can choose for it not to affect a number of allies you designate less than or equal to your caster level.
+   

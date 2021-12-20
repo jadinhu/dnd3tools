@@ -1,0 +1,19 @@
+<b>Vigor, Lesser</b>(Spell Compendium, p. 229)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 1,  Druid 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 10 rounds + 1 round/level (max 15 rounds)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>The sounds of battle ring in your ears as you lay hands on your fallen comrade. You can spare neither time nor magic to do more right now, but the blood flow slows to a trickle and her breathing becomes less labored, even as you are called to the aid of another.</b>
+	
+The subject gains fast healing 1, enabling it to heal 1 hit point per round until the spell ends and automatically becoming stabilized if it begins dying from hit point loss during that time. <b>Lesser vigor</b> does not restore hit points lost from starvation, thirst, or suffocation, nor does it allow a creature to regrow or attach lost body parts.
+	
+The effects of multiple <b>vigor</b> spells do not stack; only the highest-level effect applies.
+ <b>Also appears in</b>   Complete Divine     

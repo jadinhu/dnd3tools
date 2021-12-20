@@ -1,0 +1,11 @@
+<b>Forestfold</b>(Complete Divine)
+
+Transmutation
+ <b>Level:</b>  Ranger 3,  Druid 4,    
+<b>Components:</b>
+
+ 	
+This spell grants you a +20 competence bonus on Hide and Move Silently checks.
+The spell ends if you move more than 10 feet from where you stood when you cast the spell.
+It is otherwise the same as camouflage.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Savage Species  Complete Adventurer  Spell Compendium     

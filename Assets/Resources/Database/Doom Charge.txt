@@ -1,0 +1,16 @@
+<b>Doom Charge</b>(Tome of Battle: The Book of Nine Swords, p. 58)
+
+Devoted Spirit (Strike) [Evil]
+ <b>Level:</b>  Crusader 5 (One Devoted Spirit maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round
+
+ 	
+<b>Prerequisite</b>: evil alignment
+	
+<b>You cloak yourself in a black, terrible aura of contempt and spite.</b>
+	
+You must make a charge attack as part of this maneuver. If your target is good-aligned, your attack deals an extra 6d6 points of damage. In addition, if your charge attack hits and the target is good-aligned, you become wreathed in unholy energy. You gain damage reduction 10/? until the beginning of your next turn.</p   

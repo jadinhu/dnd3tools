@@ -1,0 +1,18 @@
+<b>Ease Pain</b>(Book of Exalted Deeds)
+
+Conjuration (Healing)
+ <b>Level:</b>  Apostle of Peace 2,  Beloved of Valarian 2,  Cleric 2,    
+<b>Components:</b>S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Ease pain immediately removes any lingering effects of pain, including penalties imposed by symbol of pain, angry ache, and similar spells.
+It does not heal any damage or other effects not directly related to pain.
+If the target creature is under some effect that causes continuing damage, the pain is eased only for a moment.
+Ease pain cannot bypass the need for a Concentration check to cast a spell under such circumstances, nor can it allow a creature subject to death by thorns to act normally (since the spell's damage is ongoing).
+   

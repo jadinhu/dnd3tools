@@ -1,0 +1,20 @@
+<b>Shield of the Archons</b>(Book of Exalted Deeds)
+
+Abjuration [Good]
+ <b>Level:</b>  Apostle of Peace 7,  Cleric 7,    
+<b>Components:</b>V, Archon
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Effect:</b> Mobile shield
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+A mystic shield of beneficent energies interposes itself between you an incoming magical attack.
+The shield blocks harmful spells, spell-like abilities, and supernatural abilities.
+It can only block one such attack each round, intercepting the first but not any later attacks until your next turn.
+Any targeted magical attack that strikes the shield is dissipated, but it has a 5% chance per spell level to shatter the shield as well.
+Attacks with no spell level have a 5% chance per 2 caster levels to shatter the shield.
+An attack that shatters the shield is dissipated without harming you.
+If you are within the area or effect of a harmful spell or effect that is not directly targeted on you, the shield of the archons grants you a +4 bonus on your saving throw against the effect.
+   

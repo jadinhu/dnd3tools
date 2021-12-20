@@ -1,0 +1,16 @@
+<b>Superior Resistance</b>(Savage Species)
+
+Abjuration
+ <b>Level:</b>  Bard 5,  Cleric 5,  Druid 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You imbue the subject with a powerful magical energy that protects him from harm, granting a +6 resistance bonus on saves.
+Arcane Material Component: A miniature cloak of fine cloth.
+   

@@ -1,0 +1,19 @@
+<b>Contingent Energy Resistance</b>(Draconomicon)
+
+Abjuration
+ <b>Level:</b>  Cleric 4,  Druid 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D)
+
+ 	
+This spell functions similarly to contingency, but with a more limited scope.
+While contingent energy resistance is in effect, if you are dealt damage associated with one of the five types of energy (acid, cold, electricity, fire, or sonic), the spell automatically grants you resistance 10 against that type of energy for the remainder of the spell's duration (just as if you were under the effect of a resist energy spell of the appropriate type).
+Once the energy type protected against by a particular casting of this spell is determined, it can't be changed.
+You can't have more than one contingent energy resistance in effect on yourself at the same time � ;if you cast the spell a second time while an earlier casting is still in effect, the earlier spell automatically expires.
+The energy resistance granted by this spell does not stack with similar benefits against the same energy type (such as from the resist energy spell).
+However, it is possible to be simultaneously under the effect of resist energy (fire) and contingent energy resistance (electricity), or any other two such spells that protect against different types of energy.
+Material Component: A pearl worth at least 100 gp.
+ <b>Also appears in</b>   Spell Compendium     

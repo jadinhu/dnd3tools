@@ -1,0 +1,22 @@
+<b>Curse of the Elemental Lords</b>(Dragon Magic)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature/4 levels
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Ghostly images of elemental beasts fly from your outstretched arm, striking foes and placing a shadowy curse upon them.
+This spell places a curse on the targets, making them more susceptible to your magical attacks.
+When you cast this spell, select acid, cold, electricity, or fire; any creature affected by the spell takes an extra 1d6 points of damage from any of your spells that deal damage of that energy type.
+The extra damage isn't added to other effects, such as a weapon's flaming special ability, nor does it apply to damage dealt by other characters.
+As part of the casting of this spell, you can sacrifice one additional sorcerer spell slot of up to 9th level; doing this increases the extra damage from the spell by 1 point per level of the sacrificed slot.
+For example, if you spend a 4th-level spell slot to cast curse of the elemental lords and a 6th-level spell slot to augment it, the resulting curse adds 1d6+6 points of damage to the damage taken by targets of your spells of the chosen energy type.
+Curse of the elemental lords can't be dispelled, but it can be removed by any effect that would remove a curse.
+Special: If you are of the dragonblood subtype (see page 4), the extra damage from this spell also applies to your breath weapon (assuming that it deals the appropriate type of damage).
+   

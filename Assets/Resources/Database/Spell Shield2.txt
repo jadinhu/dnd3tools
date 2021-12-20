@@ -1,0 +1,16 @@
+<b>Spell Shield</b>(Player's Guide to FaerÃ»n)
+
+Abjuration
+ <b>Level:</b>   Initiate of mystra 2,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action; see text
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject gains a +3 resistance bonus on saving throws against spells and spell-like abilities, but not against supernatural or extraordinary abilities.
+At 11th level, you can cast this spell on yourself as a free action.
+ <b>Also appears in</b>   Magic of Faerun     

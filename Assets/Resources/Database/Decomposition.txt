@@ -1,0 +1,22 @@
+<b>Decomposition</b>(Complete Divine)
+
+Necromancy
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 50 ft.
+ <b>Area:</b> All enemies within a 50-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Whenever an enemy within the area takes normal (not subdual) damage, that wound festers for an additional 1 point of damage per round thereafter for the duration of the spell.
+A successful Heal check (DC 15) or the application of any cure spell or other healing magic (heal, healing circle, and so on) stops the festering.
+Only one wound festers at a time; additional wounds suffered while the first is still festering are not subject to this effect.
+Once festering has been stopped, however, any new wound suffered while the subject is within the area (before the spell expires) begins the process anew.
+For example, a subject who takes 6 points of damage from an attack while within the area of a decomposition spell takes 1 point of damage from festering the next round, and another 1 point on the round after that.
+On the following round, that subject receives 4 points of healing from a cure light wounds spell, so the festering stops and the subject takes no festering damage that round.
+The next round, the subject remains within the emanation and takes another 3 points of damage in battle.
+The festering begins again, inflicting 1 point of festering damage on the next round.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Spell Compendium     

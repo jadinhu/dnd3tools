@@ -1,0 +1,17 @@
+<b>Trait Removal</b>(Serpent Kingdoms)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Touch
+ <b>Target:</b> One touched living creature
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You temporarily remove one extraordinary or supernatural ability of your choice from the target creature.
+This spell does not work on constructs, oozes, or undead.
+Material Component: A pinch of ash.
+   

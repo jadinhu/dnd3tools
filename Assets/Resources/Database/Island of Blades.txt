@@ -1,0 +1,16 @@
+<b>Island of Blades</b>(Tome of Battle: The Book of Nine Swords, p. 78)
+
+Shadow Hand (Stance)
+ <b>Level:</b>  Swordsage 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You cloak yourself in a swirling nimbus of shadow energy. These shadows spin and flow around you, preventing any creature near you from being able to anticipate your attacks.</b>
+	
+Your turn your enemies? strengths against them, improving your combat ability as well as that of an ally. When you and a comrade move to attack an opponent, you time your attacks and position yourself to frustrate your opponent?s defenses.
+	
+If both you and an ally are adjacent to the same creature, the two of you gain the benefit for flanking that opponent. You can gain this benefit against multiple opponents at the same time, as can your allies. If both you and an ally are adjacent to the same two creatures, the two of you gain the benefit of flanking against both creatures.</   

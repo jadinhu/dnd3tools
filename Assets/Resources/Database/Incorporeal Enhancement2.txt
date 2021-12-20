@@ -1,0 +1,17 @@
+<b>Incorporeal Enhancement</b>(Spell Compendium)
+
+Necromancy [Evil]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One incorporeal undead/level
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Calling upon the dark power of the Plane of Negative Energy, you bolster the power of incorporeal undead.</b>
+	
+The undead affected by this spell gain a +1 deflection bonus to Armor Class, +1d8 bonus hit points, a +1 enhancement bonus on attack rolls, and a +2 bonus to turn resistance. Each of these enhancements improves by the base amount for every five caster levels beyond 5th, so that a 20th-level caster grants undead +4 to AC, +4d8 bonus hit points, +4 on attack rolls, and +8 to turn resistance.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

@@ -1,0 +1,15 @@
+<b>Stalking Shadow</b>(Tome of Battle: The Book of Nine Swords, p. 74)
+
+Setting Sun (Counter)
+ <b>Level:</b>  Swordsage 5 (Two Setting Sun maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>When the creature you are battling tries to back away, you step next to it in the blink of an eye, forcing it to stand and ght or suffer the consequences of withdrawal.</b>
+	
+Using your watchful eye and your ability to judge an opponent?s actions, you move at precisely the same time your enemy begins to move.
+	
+If an opponent in a square adjacent to you moves, you can initiate this maneuver to make a 5-foot step into the space (or one of the squares) it occupied. This movement does not provoke attacks of opportunity.</p   

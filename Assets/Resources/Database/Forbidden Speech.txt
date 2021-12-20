@@ -1,0 +1,24 @@
+<b>Forbidden Speech</b>(Book of Vile Darkness)
+
+Enchantment [Evil, Mind-Affecting]
+ <b>Level:</b>    Corrupt 5  
+<b>Components:</b>V, S, Corrupt, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> 1 living creature
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster makes it impossible for a single creature to speak about a single topic.
+The topic should be as narrow as possible for the spell to work properly.
+An appropriate topic might be events that occurred while the creature was in captivity, the whereabouts and names of tormentors, the secret location of a hidden treasure, the password into a guarded compound, the command word of a magic item, or the explanation behind some major occurrence.
+Invalid topics include verbal components of spells, a creature's whole life history, or anything too broad for a reasonable definition of a single topic.
+Whether a topic is too broad is up the DM, who can double the corruption cost and have the spell automatically fail if the caster persists in attempting an invalid topic.
+Thus, this can be a dangerous spell to attempt.
+The affected creature cannot communicate regarding the topic in any way.
+Speech becomes gibberish, writing is reduced to an indecipherable scrawl, gestures are impossible, and even telepathy (including detect thoughts) is scrambled.
+The creature has not forgotten the information, however, and it can be a maddening occurrence for the creature to be unable to communicate information that might be of life-and-death importance to friends and allies.
+Corruption Cost: 1d6 points of Strength damage.
+   

@@ -1,0 +1,22 @@
+<b>Daggerspell Stance</b>(Complete Adventurer)
+
+Abjuration
+ <b>Level:</b>  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, AF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+This spell, favored by the Daggerspell Guardians (see page 167), improves your ability to defend yourself when wielding a pair of daggers.
+The spell, like many of the daggerspell techniques, depends on the use of daggers to bring down a foe.
+The spell's effect cannot be realized unless you are wielding two daggers, but the spell does not end if you drop, throw, or otherwise lose a hold on one or both of your daggers.
+While this spell is in effect, if you make a full attack while holding a dagger in each hand, you gain a +2 insight bonus on attack rolls and damage rolls made with daggers in that round.
+The magical energy that permeates your daggers while this spell is active allows you to deflect the magical energy of many spells.
+When wielding two daggers and fighting defensively, you gain spell resistance equal to 5 + your caster level.
+The spell focuses your concentration so that when you devote all of your attention to defense, you can turn the
+force of most blows away from your body with your daggers.
+When wielding two daggers and using the total defense action, you gain both the spell resistance benefit described above and damage reduction 5/magic.
+Focus: A pair of daggers.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,19 @@
+<b>Plant Body</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You imbue the subject with powerful transformative magic, granting it some of the characteristics of the plant type.
+The subject's skin becomes covered over with moss and ivy, not unlike the appearance of a shambling mound.
+Any spell or effect that affects plant creatures also affects the subject.
+A plant creature is immune to critical hits, mind-affecting effects, poison, sleep, paralysis, stunning, and polymorphing.
+The subject's ability scores, skills, and feats are unaffected (although its new form may make it difficult or impossible for the subject to use certain skills or feats).
+ <b>Also appears in</b>   Spell Compendium     

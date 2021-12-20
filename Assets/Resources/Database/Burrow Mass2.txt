@@ -1,0 +1,10 @@
+<b>Burrow, Mass</b>(Underdark)
+
+Transmutation
+ <b>Level:</b>  Harper Scout 4,  Prime Underdark Guide 4,  Ranger 4,  Druid 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>
+ <b>Target:</b> One creature/level, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like burrow, except that it affects multiple creatures.
+ <b>Also appears in</b>   Spell Compendium     

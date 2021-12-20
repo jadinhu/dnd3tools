@@ -1,0 +1,21 @@
+<b>Call Kolyarut</b>(Spell Compendium, p. 42)
+
+Conjuration (Calling) [Lawful]
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One called kolyarut
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>As you complete the spell, the powers of Mechanus respond. The kolyarut does not manifest before you as much as assembles itself in your presence, a single whirling cog unfolding until the construct stands complete. &quot;Who is to be punished?&quot; it asks in the flat voice of a clock mechanism.</b>
+	
+By casting this spell, you receive the aid of a kolyarut inevitable (<b>MM</b> 159). If you know an individual kolyarut's name, you can request that individual by speaking the name during the spell (though you might get a different creature, anyway).
+	
+You can ask the kolyarut to perform one duty for you. The task must take no more than 1 hour to complete. The inevitable does not ask for any payment for the task.
+	
+<b>XP Cost:</b> 250 XP.
+ <b>Also appears in</b>   Planar Handbook     

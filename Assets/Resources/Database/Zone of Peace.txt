@@ -1,0 +1,15 @@
+<b>Zone of Peace</b>(CityScape)
+
+Transmutation
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Area:</b> 10-ft./level emanation
+
+ 	
+The entire chamber glows with a faint, comforting light.
+This spell works as peacebond, except that every individual in the area must successfully save, or have all their weapons remain trapped in their sheaths for the duration, or until they leave the area.
+You cannot designate any exceptions, including yourself.
+If subjects are attacked, they are immediately entitled to a second save to overcome the effect.
+They can repeat this save in every round that the assault continues.
+   

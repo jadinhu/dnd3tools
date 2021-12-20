@@ -1,0 +1,10 @@
+<b>Orb of Sound, Lesser</b>(Complete Arcane)
+
+Conjuration (Creation) [Sonic]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,  Warmage 1,    
+<b>Components:</b>
+ <b>Effect:</b> One orb of sonic energy
+
+ 	
+This spell functions like lesser orb of acid, except it deals 1d6 points of sonic damage, plus an additional 1d6 points of damage per two caster levels beyond 1st: 2d6 at 3rd level, 3d6 at 5th level, 4d6 at 7th level, and the maximum of 5d6 at 9th level or higher.
+ <b>Also appears in</b>   Spell Compendium     

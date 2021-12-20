@@ -1,0 +1,19 @@
+<b>Burning Blood</b>(Complete Arcane)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature; see text
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You taint a living creature's blood with a hot, corrosive infusion, dealing 1d8 points of acid damage and 1d8 points of fire damage per round.
+The subject can attempt a Fortitude save each round to negate the damage, but a successful save does not prevent damage in future rounds.
+Searing pain limits the subject to a single move action in any round when it fails its Fortitude save.
+Burning blood does not affect creatures of the construct, elemental, ooze, plant, or undead types.
+Material Component: A drop of blood and a pinch of saltpeter.
+ <b>Also appears in</b>   Draconomicon  Spell Compendium     

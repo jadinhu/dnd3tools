@@ -1,0 +1,12 @@
+<b>Mighty Wallop, Greater</b>(Races of the Dragon)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>
+ <b>Duration:</b> 1 hour/level
+
+ 	
+As mighty wallop, except that the bludgeoning melee weapon damage increases by one size category for every four caster levels you have, to a maximum of five size categories or up to an effective size of Colossal.
+For a Small weapon that increases by more than one size category, begin by referring to the table in the mighty wallop spell description.
+Once the weapon has been adjusted to an effective size of Medium, or if it was already a Medium or larger weapon, refer to Table 2-2: Increasing Damage by Weapon Size (<span class="caps">DMG</span> 28).
+   

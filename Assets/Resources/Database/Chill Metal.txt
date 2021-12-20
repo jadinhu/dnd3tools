@@ -1,0 +1,29 @@
+<b>Chill Metal</b>(Player's Handbook v.3.5, p. 209)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 2,  Disciple of Thrym 2,  Blighter 2,  Death Master 2,  Urban Druid 2,   Cold 2,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Metal equipment of one creature per two levels, no two of which can be more than 30 ft. apart; or 25 lb. of metal/level, none of which can be more than 30 ft. away from any of the rest
+ <b>Duration:</b> 7 rounds
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+Chill metal makes metal extremely cold.
+Unattended, nonmagical metal gets no saving throw.
+Magical metal is allowed a saving throw against the spell (Magic item's saving throws are covered in the Dungeon Master's Guide).
+An item in a creature's possession uses the creature's saving throw bonus unless its own is higher.
+A creature takes cold damage if its equipment is chilled.
+It takes full damage if its armor is affected or if it is holding, touching, wearing, or carrying metal weighing one-fifth of its weight.
+The creature takes minimum damage (1 point or 2 points; see the table) if it's not wearing metal armor and the metal that it's carrying weighs less than one-fifth of its weight.
+On the first round of the spell, the metal becomes chilly and uncomfortable to touch but deals no damage.
+The same effect also occurs on the last round of the spell's duration.
+During the second (and also the next-to-last) round, icy coldness causes pain and damage.
+In the third, fourth, and fifth rounds, the metal is freezing cold, causing more damage, as shown on the table below.
+Any heat intense enough to damage the creature negates cold damage from the spell (and vice versa) on a point-for-point basis.
+For example, if the damage roll from a chill metal spell indicates 5 points of cold damage and the subject plunges through a wall of fire in the same round and takes 8 points of fire damage, it winds up taking no cold damage and only 3 points of fire damage.
+Underwater, chill metal deals no damage, but ice immediately forms around the affected metal, making it more buoyant.
+Chill metal counters and dispels heat metal.
+   

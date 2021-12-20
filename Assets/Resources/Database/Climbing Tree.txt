@@ -1,0 +1,22 @@
+<b>Climbing Tree</b>(Complete Mage)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 1,  Ranger 1,  Wu Jen 1 (wood),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> A thin but sturdy tree
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+At your call, a tree snakes up from the earth, in seconds growing as tall as trees that have lived for years.
+You cause a 1-foot-diameter tree to grow in the center of any adjacent square.
+The tree can grow as high as 10 feet per caster level (to a maximum of 50 feet).
+The branches are evenly spaced and perfect for climbing; ascending the tree requires a successful DC 5 Climb check.
+The tree can grow only in soft terrain, such as dirt, soil, or sand.
+The tree has hardness 5 and 120 hit points; if cut down, it vanishes instantly.
+It can't be animated by any means, such as with animate plants, nor can it serve as the basis for any plant-related spell such as tree stride.
+Treat the tree as a slender pillar (<span class="caps">DMG</span> 64) for terrain purposes.
+   

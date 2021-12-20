@@ -1,0 +1,17 @@
+<b>Electric Jolt</b>(Spell Compendium, p. 78)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer 0,  Wizard 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A white-hot electric spark dances on your fingertip and then bolts toward your target.
+	
+You release a small stroke of electrical energy. You must succeed on a ranged touch attack with the ray to strike a target. The spell deals 1d3 points of electricity damage.
+ <b>Also appears in</b>   Magic of Faerun     

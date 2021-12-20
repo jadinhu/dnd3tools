@@ -1,0 +1,21 @@
+<b>Darts of Life</b>(Complete Champion)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more creatures per round
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Small orbs of light circle your head. With a gesture, you cause one to spin off and strike your friend, healing him of damage.</b>
+	
+You create ten gently pulsing darts of pale blue light that orbit your head like ioun stones. As a free action, you can launch one dart per round at an ally you designate within range. Alternatively, as a standard action, you can launch up to three darts per round at one or more designated allies within range. As a full-round action, you can launch all remaining orbs at one or more allies within range.
+	
+Each dart heals 1d8 points of damage the target has taken, as though it were a cure spell.
+Since undead are powered by negative energy, this spell damages them instead of curing their wounds.
+An undead creature can apply spell resistance to this effect, and you must make a successful ranged touch attack for each dart you attempt to launch against such a creature.
+   

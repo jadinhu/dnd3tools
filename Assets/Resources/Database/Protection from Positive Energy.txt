@@ -1,0 +1,17 @@
+<b>Protection from Positive Energy</b>(Libris Mortis: The Book of the Dead)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Undead creature touched
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The warded creature gains partial protection against positive energy effects.
+Subtract 10 from the hit point damage dealt by any positive energy effect (such as cure spells) that affects the warded creature.
+Positive energy effects that wouldn't deal hit point damage to the target (such as turning attempts) affect the target normally.
+ <b>Also appears in</b>   Spell Compendium  Planar Handbook     

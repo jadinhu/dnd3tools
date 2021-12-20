@@ -1,0 +1,17 @@
+<b>Cause Fear</b>(Player's Handbook v.3.5, p. 208)
+
+Necromancy [Fear, Mind-Affecting]
+ <b>Level:</b>  Bard 1, Blackguard 1,  Death Master 1,  Sha'ir 1,  Death Delver 1,  Duskblade 1,  Vigilante 1,  Disciple of Thrym 1,  Adept 1,  Dread Necromancer 1,  Wizard 1,  Sorcerer 1,  Cleric 1,  Jester 1,   Death 1,  Blackwater 1,  Abyss 1,  Orc 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature with 5 or fewer HD
+ <b>Duration:</b> 1d4 rounds or 1 round; see text
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The affected creature becomes frightened. If the subject succeeds on a Will save, it is shaken for 1 round. Creatures with 6 or more Hit Dice are immune to this effect.
+	
+<b>Cause fear</b> counters and dispels <b>remove fear</b>.
+   

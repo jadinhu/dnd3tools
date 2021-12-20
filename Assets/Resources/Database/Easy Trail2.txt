@@ -1,0 +1,20 @@
+<b>Easy Trail</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Druid 2,  Harper Scout 2,  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Effect:</b> 30-ft. cone trailing behind you
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You radiate an energy that gently pushes plants aside, allowing easy passage and hiding your trail after you pass.
+Anyone in the area of the spell (including the caster) finds the undergrowth held aside while they pass.
+This essentially provides a &quot;trail&quot; through any terrain (see Table 9-5: Terrain and Overland Movement, page 143 of the Player's Handbook).
+Once the effect of the spell passes, the plants return to their normal shape.
+The DC to track anyone who traveled within the area of this spell is increased by +5 (the equivalent of hiding the trail).
+This spell has no effect on plant creatures (that is, they aren't pushed or held aside).
+ <b>Also appears in</b>   Spell Compendium  Complete Adventurer  Shining South     

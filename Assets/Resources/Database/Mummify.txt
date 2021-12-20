@@ -1,0 +1,18 @@
+<b>Mummify</b>(Sandstorm)
+
+Necromancy
+ <b>Level:</b>  Cleric 6,  Druid 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You flash-dry a creature, killing it and preserving it in an instantaneous mummification process.
+A creature that makes a successful Fortitude saving throw instead takes 6d6 points of dessication damage and is dehydrated.
+If the damage kills the target, it is still mummified.
+Arcane Material Component: A strip of salted cloth.
+   

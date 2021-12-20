@@ -1,0 +1,21 @@
+<b>Hardening</b>(Spell Compendium, p. 109)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One item of a volume no greater than 10 cu. ft./level; see text
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+<b>You rub your hands along the length of the object, intoning the spell. A warm red glow emits from your hands, strengthening the object.</b>
+	
+This spell increases the hardness of materials. Paper becomes harder to tear, glass becomes harder to break, wood becomes more resilient, and so on. For every two caster levels, add 1 point of hardness to the material targeted by the spell. This hardness increase improves only the material's resistance to damage. Nothing else is modified by the improvement. For example, a longsword (treat steel as iron, base hardness 10) affected by a hardening spell cast by a 12th-level caster would have hardness 16 for the purpose of ignoring damage caused by someone making a sunder attack. The sword's hit points, attack and damage modifiers, and other factors are not affected. A hardening spell does not in any way affect a substance's resistance to other forms of transformation. Ice still melts, paper and wood still burn, rock still becomes transmutable to mud with the proper spell, and so on.
+	
+This spell affects up to 10 cubic feet of material per level of the caster. If cast upon a metal or mineral, the spell affects only 1 cubic foot per level.
+	
+Material Component: An ointment made with 50 gp of diamond dust per 10 cubic feet of material.
+ <b>Also appears in</b>   Eberron Campaign Setting  Deities and Demigods  Magic of Faerun     

@@ -1,0 +1,17 @@
+<b>Clever Positioning</b>(Tome of Battle: The Book of Nine Swords, p. 70)
+
+Setting Sun (Strike)
+ <b>Level:</b>  Swordsage 2,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> Reflex partial
+
+ 	
+<b>With a swift flurry of motion, you knock you foe off balance, slip into his space, and force him into the spot you just occupied.</b>
+	
+You make a melee attack, and while your opponent is slightly off balance from your blow, you find the leverage needed to pull him into your space while moving into his space.
+	
+As part of this maneuver, you make a single melee attack against a target. If your attack hits, the target takes damage normally and must make a Reflex save (DC 12 + your Dex modifier). If this save fails, you swap positions with the target. If the target is Large or larger, you can occupy any of the squares that make up its space. The target must in turn occupy the square, or one of the squares, you previously occupied. You cannot use this maneuver if you or the target would end up sharing the same space as another creature or an impassable terrain feature, such as a wall. If your target occupies a larger space than you do, he chooses his final position according to the guidelines given above.
+   

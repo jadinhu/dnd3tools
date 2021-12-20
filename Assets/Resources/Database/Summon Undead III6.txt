@@ -1,0 +1,15 @@
+<b>Summon Undead III</b>(Spell Compendium, p. 215)
+
+Conjuration (Summoning) [Evil]
+ <b>Level:</b>  Blackguard 3,  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more summoned creatures, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>summon undead I</b>, except that you can summon one undead from the 3rd-level list, two undead of the same kind from the 2nd-level list, or four undead of the same kind from the 1st-level list.
+	<b><span class="caps">SUMMON</span> <span class="caps">UNDEAD</span> <span class="caps">LISTS</span></b>	<table>		<tr>			<th><b>Spell Level</b> </th>			<th><b>Undead Creature</b> </th>		</tr>		<tr>			<td> <b>1st</b> </td>			<td> <b>Human warrior skeleton (MM 226)</b>, <b>kobold zombie (MM 266)</b> </td>		</tr>		<tr>			<td> <b>2nd</b> </td>			<td> <b>Owlbear skeleton (MM 226)</b>, <b>bugbear zombie (MM 267)</b> </td>		</tr>		<tr>			<td> <b>3rd</b> </td>			<td> <b>Ghoul (MM 118)</b>, <b>troll skeleton (MM 227)</b>, <b>ogre zombie (MM 267)</b> </td>		</tr>		<tr>			<td> 4th </td>			<td> Allip (MM 10), ghast (MM 119), wyvern zombie (MM 267) </td>		</tr>		<tr>			<td> 5th </td>			<td> Mummy (MM 190), shadow (MM 221), vampire spawn (MM 253), wight (MM 255) </td>		</tr>	</table> <b>Also appears in</b>   Ghostwalk  Magic of Faerun  Heroes of Horror  Libris Mortis: The Book of the Dead  Player's Guide to FaerÃ»n     

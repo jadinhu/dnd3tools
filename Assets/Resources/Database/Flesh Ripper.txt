@@ -1,0 +1,15 @@
+<b>Flesh Ripper</b>(Book of Vile Darkness, p. 96)
+
+Evocation [Evil]
+ <b>Level:</b>  Cleric 3,  Mortal Hunter 3,    
+<b>Components:</b>V, S, Undead, Fiend
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster evokes pure evil power in the form of a black claw that flies at the target. If a ranged touch attack roll succeeds, the claw deals 1d8 points of damage per caster level (maximum 10d8). On a critical hit, in addition to dealing double damage, the wound bleeds for 1 point of damage per round until it is magically healed.
+ <b>Also appears in</b>   Tome of Battle: The Book of Nine Swords     

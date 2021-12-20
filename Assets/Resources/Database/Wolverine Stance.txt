@@ -1,0 +1,16 @@
+<b>Wolverine Stance</b>(Tome of Battle: The Book of Nine Swords, p. 90)
+
+Tiger Claw (Stance)
+ <b>Level:</b>  Swordsage 3 (One Tiger Claw maneuver),  Warblade 3 (One Tiger Claw maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>Like a cornered wolverine, you fight with unmatched ferocity and rage when your opponents force you into close quarters.</b>
+	
+When an opponent has you in his grasp, you transform into a snarling, frothing, raging beast. You hack with your weapon at your foe?s arms or tentacles, your wild frenzy allowing you to fight even with a large, awkward weapon. When you are in the grasp of a larger foe, your frenzy ignites into an inferno as you desperately attempt to break free.
+	
+While you are in this stance, you can attack a foe grappling you with any one-handed weapon. You do not take the ?4 penalty for fighting while grappled. If your foe is of a larger size category than yours, your feral rage ignites and grants you a +4 bonus on damage rolls against that creature while it continues to grapple you.</   

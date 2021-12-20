@@ -1,0 +1,18 @@
+<b>Castigating Strike</b>(Tome of Battle: The Book of Nine Swords, p. 57)
+
+Devoted Spirit (Strike)
+ <b>Level:</b>  Crusader 7 (Two Devoted Spirit maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Area:</b> 30-ft-radius burst; see text
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute
+ <b>Saving Throw:</b> Fortitude partial; see text
+
+ 	
+<b>With a howling battle cry, your weapon crackles with energy. As you strike your foe, that energy detonates in a burst that scythes through those who stand against your cause.</b>
+	
+When you use this strike, make a single melee attack. If you hit your opponent and his alignment has at least one component different from yours, a blast of divine energy originates from your attack?s point of impact. The target of this strike takes an extra 8d6 points of damage and must succeed on a Fortitude save (DC 17 + your Cha modifier) or take a ?2 penalty on attack rolls for 1 minute. 
+	
+All of your opponents within a 30-foot-radius burst of the target creature must also succeed on a Fortitude save. Those who fail take 5d6 points of damage and take a ?2 penalty on attack rolls for 1 minute. A successful save results in half damage and negates the attack penalty.<   

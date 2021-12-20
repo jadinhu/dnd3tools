@@ -1,0 +1,19 @@
+<b>Aspect of the Platinum Dragon</b>(Dragon Magic)
+
+Transmutation (Polymorph) [Good]
+ <b>Level:</b>  Sorcerer 7,    
+<b>Components:</b>V, S, Good
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Your body expands in size while growing a sheen of platinum scales and mighty claws and teeth.
+A pair of great wings sprouts from your back.
+You take the form of an aspect of Bahamut (see page 108).
+You gain 110 temporary hit points, which disappear at the end of the spell's duration.
+For details, see The Polymorph Subschool on page 60.
+(if you don't have access to Draconomicon, replace the aspect's Tempest Breath feat with Great Cleave).
+Good: Only good-aligned characters can cast this spell.
+   

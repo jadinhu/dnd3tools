@@ -1,0 +1,23 @@
+<b>Energy Ebb</b>(Spell Compendium, p. 80)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You point your finger and utter the incantation, releasing a black needle of crackling negative energy that suppresses the life force of any living creature it strikes.</b>
+	
+This spell functions like <b>enervation</b> (<b>PH</b> 226), except the creature struck gains negative levels over an extended period.
+	
+You must succeed on a ranged touch attack with the ray to strike a target. If the attack succeeds, the subject initially gains one negative level, then continues to gain another negative level each round thereafter as its life force slowly bleeds away. The drain can be stopped only by a successful DC 23 Heal check or the application of a <b>heal</b>, <b>restoration</b>, or <b>greater restoration</b> spell.
+	
+Each round after the first, on your turn, the affected creature can attempt a Fortitude saving throw to end the effect.
+	
+If you strike an undead creature, that creature gains 4d4Ã—5 temporary hit points that last for up to 1 hour.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

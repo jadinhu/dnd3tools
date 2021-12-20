@@ -1,0 +1,17 @@
+<b>Summon Monster II</b>(Player's Handbook v.3.5, p. 286)
+
+Conjuration (Summoning) [see text for summon monster I]
+ <b>Level:</b>  Bard 2, Blackguard 2,  Cleric 2,  Sorcerer 2,  Wizard 2,  Knight of the Chalice 2,  Wu Jen 2,  Sha'ir 2,   Summoner 2,   
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more summoned creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>summon monster I</b>, except that you can summon one creature from the 2nd-level list or 1d3 creatures of the same kind from the 1st-level list.
+	
+Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
+	<b>2ND <span class="caps">LEVEL</span></b>	<table>		<tr>			<th><b>Monster</b> </th>			<th><b>Alignement</b> </th>		</tr>		<tr>			<td> Celestial giant bee </td>			<td> LG </td>		</tr>		<tr>			<td> Celestial giant bombardier beetle </td>			<td> NG </td>		</tr>		<tr>			<td> Celestial riding dog </td>			<td> NG </td>		</tr>		<tr>			<td> Celestial eagle </td>			<td> CG </td>		</tr>		<tr>			<td> Lemure (devil) </td>			<td> LE </td>		</tr>		<tr>			<td> Fiendish squid <sup>1</sup> </td>			<td> LE </td>		</tr>		<tr>			<td> Fiendish wolf </td>			<td> LE </td>		</tr>		<tr>			<td> Fiendish monstrous centipede, Large </td>			<td> NE </td>		</tr>		<tr>			<td> Fiendish monstrous scorpion, Medium </td>			<td> NE </td>		</tr>		<tr>			<td> Fiendish shark, Medium <sup>1</sup> </td>			<td> NE </td>		</tr>		<tr>			<td> Fiendish monstrous spider, Medium </td>			<td> CE </td>		</tr>		<tr>			<td> Fiendish snake, Medium viper </td>			<td> CE </td>		</tr>		<tr>			<td colspan="2"><sup>1</sup> may be summoned only into an aquatic or watery environment </td>		</tr>	</table>   

@@ -1,0 +1,15 @@
+<b>Painless Death</b>(Ghostwalk, p. 56)
+
+Necromancy
+ <b>Level:</b>  Cleric 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One willing living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The touched creature dies painlessly and instantly.
+   

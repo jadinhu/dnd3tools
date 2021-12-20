@@ -1,0 +1,20 @@
+<b>Vestigewrack</b>(Tome of Magic)
+
+Necromancy [Evil]
+ <b>Level:</b>  Blackguard 2,  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft.
+ <b>Target:</b> One incorporeal creature or apparition/level in a 20-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You hold the curved dagger aloft, and as you slice it through the air at the incorporeal creature before you, you speak words of power that remind it of the life it once had, and the pain of its loss.
+Clutching a curved blade, you make a downward cutting motion that produces a field of pulsing, unholy, red light around you.
+Each incorporeal creature within this light must succeed on a Fortitude save or be wracked with sensations of loss.
+This effect manifests as a -2 penalty on attack rolls, damage rolls, skill checks, and saves for as long as the creature remains in range, and for 1d4 rounds afterward.
+In addition, every corporeal user of pact magic gains a +2 bonus on binding checks made against any vestige within range of this spell.
+Focus: An ornate sacrificial dagger or kukri worth 300 gp.
+   

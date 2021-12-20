@@ -1,0 +1,14 @@
+<b>War Leader's Charge</b>(Tome of Battle: The Book of Nine Swords, p. 93)
+
+White Raven (Strike)
+ <b>Level:</b>  Crusader 6 (Two White Raven maneuvers),  Warblade 6 (Two White Raven maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You summon a great fury within your lungs, releasing it with a titanic shout as you charge forward. Your reckless move startles your foes and puts greater force behind your attack.</b>
+	
+As a student of the White Raven, you learn to focus the energy within you into an overwhelming charge. In battle, you must lead from the front. As part of this maneuver, you charge an opponent. You do not provoke attacks of opportunity for moving as part of this charge. If your charge attack hits, it deals an extra 35 points of damage.
+   

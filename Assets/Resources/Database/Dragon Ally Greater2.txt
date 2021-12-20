@@ -1,0 +1,17 @@
+<b>Dragon Ally, Greater</b>(Spell Compendium, p. 72)
+
+Conjuration (Calling)
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One called dragon of 22 HD or less
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>lesser dragon ally</b>, except you can call a single dragon of up to 22 HD.
+	
+<b>XP Cost:</b> 500 XP
+ <b>Also appears in</b>   Draconomicon     

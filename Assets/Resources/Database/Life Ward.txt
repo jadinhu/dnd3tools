@@ -1,0 +1,19 @@
+<b>Life Ward</b>(Spell Compendium, p. 131)
+
+Abjuration
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a brush of your hand you surround the creature in crawling shadows, a cloak of negative energy that whirls and swims across the creature's body.</b>
+	
+A creature warded by this spell gains protection from the effects of positive energy, including magical healing. The spell can be cast upon undead to offer additional protection against the turning abilities of clerics. The subject is immune to all positive energy effects, including conjuration (healing) spells, channeled positive energy such as from the turn undead ability, or other effects that derive their power from positive energy.
+	
+This spell offers protection from the blinding effect of the Positive Energy Plane, and warded creatures gain no temporary hit points while there.
+   

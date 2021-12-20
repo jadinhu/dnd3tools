@@ -1,0 +1,20 @@
+<b>Touch of Fatigue</b>(Player's Handbook v.3.5, p. 294)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 0,  Wizard 0,  Adept 0,  Duskblade 0,  Blighter 0,  Sha'ir 0,  Death Master 0,   Sloth 1,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You channel negative energy through your touch, fatiguing the target.
+You must succeed on a touch attack to strike a target.
+The subject is immediately fatigued for the spell's duration.
+This spell has no effect on a creature that is already fatigued.
+Unlike with normal fatigue, the effect ends as soon as the spell's duration expires.
+Material Component: A drop of sweat.
+   

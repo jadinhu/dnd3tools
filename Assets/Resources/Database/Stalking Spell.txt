@@ -1,0 +1,12 @@
+<b>Stalking Spell</b>(Savage Species)
+
+Illusion (Glamer)
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+
+ 	
+As improved invisibility, except as noted above and that the creature is hidden from hearing and scent as well.
+The subject radiates silence to a radius of 5 feet and neither leaves a scent nor can be detected by the scent ability.
+   

@@ -1,0 +1,17 @@
+<b>Song of Festering Death</b>(Book of Vile Darkness)
+
+Evocation [Evil]
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Concentration
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster sings a wailing ululation, requiring a successful Perform (singing) check (DC 20).
+If the Perform check succeeds and the target fails a Fortitude saving throw, the subject's flesh bubbles and festers into pestilent blobs, dealing the subject 2d6 points of damage each round.
+If the subject dies, she bursts with a sickening pop as steamy gore spills onto the ground.
+   

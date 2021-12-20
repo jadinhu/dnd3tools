@@ -1,0 +1,17 @@
+<b>Summon Nature's Ally VIII</b>(Player's Handbook v.3.5, p. 289)
+
+Conjuration (Summoning) [see text]
+ <b>Level:</b>  Druid 8,   Animal 8,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>summon nature's ally I</b>, except that you can summon one 8th-level creature, 1d3 7th-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
+	
+When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
+	<b>8TH <span class="caps">LEVEL</span></b>	<table>		<tr>			<td> Dire shark <sup>1</sup> </td>		</tr>		<tr>			<td> Roc </td>		</tr>		<tr>			<td> Salamander, noble [NE] </td>		</tr>		<tr>			<td> Tojanida, elder </td>		</tr>		<tr>			<td> <sup>1</sup> may be summoned only into an aquatic or watery environment </td>		</tr>	</table>   

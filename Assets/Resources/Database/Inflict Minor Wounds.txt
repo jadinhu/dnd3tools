@@ -1,0 +1,10 @@
+<b>Inflict Minor Wounds</b>(Player's Handbook v.3.5, p. 244)
+
+Necromancy
+ <b>Level:</b>  Cleric 0,  Blighter 0,  Death Master 0,    
+<b>Components:</b>
+ <b>Saving Throw:</b> Will negates
+
+ 	
+This spell functions like inflict light wounds, except that you deal 1 point of damage and a Will save negates the damage instead of halving it.
+   

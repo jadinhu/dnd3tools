@@ -1,0 +1,17 @@
+<b>Summon Nature's Ally VII</b>(Player's Handbook v.3.5, p. 289)
+
+Conjuration (Summoning) [see text]
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>summon nature's ally I</b>, except that you can summon one 7th-level creature, 1d3 6th-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
+	
+When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
+	<b>7TH <span class="caps">LEVEL</span></b>	<table>		<tr>			<td> Arrowhawk, elder </td>		</tr>		<tr>			<td> Dire tiger </td>		</tr>		<tr>			<td> Elemental, greater (any) </td>		</tr>		<tr>			<td> Djinni (genie) [NG] </td>		</tr>		<tr>			<td> Invisible stalker </td>		</tr>		<tr>			<td> Pixie <sup>2</sup> (sprite) [NG; with sleep arrows] </td>		</tr>		<tr>			<td> Squid, giant <sup>1</sup> (animal) </td>		</tr>		<tr>			<td> Triceratops (dinosaur) </td>		</tr>		<tr>			<td> Tyrannosaurus (dinosaur) </td>		</tr>		<tr>			<td> Whale, cachalot <sup>1</sup> (animal) </td>		</tr>		<tr>			<td> Xorn, elder </td>		</tr>		<tr>			<td> <sup>1</sup> may be summoned only into an aquatic or watery environment </td>		</tr>		<tr>			<td> <sup>2</sup> Can't cast <b>Otto's irresistible dance</b> </td>		</tr>	</table>   

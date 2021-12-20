@@ -1,0 +1,18 @@
+<b>Bite of the Weretiger</b>(Spell Compendium, p. 28)
+
+Transmutation
+ <b>Level:</b>  Druid 5,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Target:</b> You
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You snarl, and your features shift into those of a tiger. Your hands grow sharp claws, and the thick skin and striped fur of a tiger covers your body.</b>
+	
+You gain a +12 enhancement bonus to Strength, a +4 enhancement bonus to Dexterity, a +6 enhancement bonus to Constitution, and a +5 enhancement bonus to natural armor. Your hands become claws, granting you two claw attacks, and your mouth becomes that of a tiger, giving you a bite attack. You can attack with both claws at your full base attack bonus, but your bite attack takes a � ;2 penalty (as if you had the Multiattack feat). Each claw deals 1d8 points of damage (1d6 if you are Small) + your Str modifier, and your bite deals 2d6 points of damage (2d6 if you are Small) + 1/2 your Str modifier. You gain the benefits of the Blind-Fight and Power Attack feats, as well. If your base attack bonus is +6 or higher, you do not gain any additional attacks. 
+	
+Material Component: A tiger's claw.
+   

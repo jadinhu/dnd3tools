@@ -1,0 +1,16 @@
+<b>Sign of Sealing, Greater</b>(Complete Arcane)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+
+ 	
+This spell functions like sign of sealing, except that it can also be used to seal an open space (such as a corridor or an archway), creating a magical barrier of force that repels any creature attempting to pass.
+In addition, doors and objects protected by a greater sign of sealing are strengthened, increasing their hardness by 10 and gaining 5 hit points per caster level.
+Any object protected by the sign is treated as a magic item for the purpose of making saving throws and gains a +4 resistance bonus on all saves.
+If its seal is broken, a greater sign of sealing deals 1d6 points of damage per caster level (maximum 20d6) in a 40-foot radius (Reflex half).
+A greater sign of sealing cannot be passed with a knock spell, but it can be dispelled (DC 15 + the caster level of the sign's creator).
+It can be disarmed with a successful DC 31 Disable Device check.
+Material Component: A crushed emerald worth at least 500 gp.
+   

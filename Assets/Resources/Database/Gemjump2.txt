@@ -1,0 +1,23 @@
+<b>Gemjump</b>(Spell Compendium, p. 101)
+
+Conjuration [Teleportation]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Unlimited; see text
+ <b>Target:</b> You and willing creatures totaling up to one / 3 levels; see text
+ <b>Duration:</b> Until triggered
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> No; see text
+
+ 	
+<b>You mutter over the iridescent, faceted gem. It twinkles in response, and you feel a strong link between you and the stone. When you speak the word, the two of you will be reunited.</b>
+	
+This spell teleports you to the location of a specially prepared gem.
+	
+You initially cast gemjump upon the focus, which you must touch. As a standard action any time after you prepare the stone, you can utter a command word and instantly teleport to the location of the gem, provided you and the stone are on the same plane.
+The teleport is always on target (as though you are using a greater teleport spell). If the area containing the gem is too small for you, you appear in the nearest sufficiently large space.
+You can transport, in addition to yourself, one Medium or smaller creature per three caster levels, and can bring along objects as long as their weight does not exceed your maximum load.
+An unwilling creature can't be teleported by gemjump. Likewise, a creature's Will save (or spell resistance) prevents items in its possession from being teleported. Unattended, nonmagical objects receive no saving throw. 
+<b>Focus</b>: A gem worth 500 gp.
+ <b>Also appears in</b>   Magic of Faerun     

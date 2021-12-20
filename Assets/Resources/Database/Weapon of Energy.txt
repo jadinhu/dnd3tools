@@ -1,0 +1,23 @@
+<b>Weapon of Energy</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Person
+ <b>Target:</b> One weapon
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude (object, harmless)
+ <b>Spell Resistance:</b> None
+
+ 	
+You cause a weapon to gain the ability to deal energy damage in addition to its other abilities, similar to how a flaming burst weapon deals extra fire damage on a hit or critical hit.
+The weapon can deal acid, cold, electricity, fire, or sonic damage, chosen by you at the time of casting.
+The weapon deals +1d6 damage of that energy type on a successful hit.
+On a critical hit, the weapon deals an additional +1d10 points of energy damage.
+If the weapon's critical multiplier is x3, add +2d10 points of energy damage instead, and if the multiplier is x4, add +3d10 points of bonus energy damage.
+This spell can be cast on a weapon that already deals energy damage, but if the weapon already creates the same type of damage as the spell, the effects do not stack.
+For example, if cast on a +1 flaming longsword to give it additional fire damage, the spell has no effect, but it can give the weapon any of the other types of energy damage.
+This spell has a subtype that is the same as the energy created by the target weapon.
+For example, weapon of energy is a fire spell when used to give a weapon bonus fire damage.
+ <b>Also appears in</b>   Spell Compendium     

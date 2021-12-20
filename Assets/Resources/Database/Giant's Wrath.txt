@@ -1,0 +1,21 @@
+<b>Giant's Wrath</b>(Spell Compendium, p. 105)
+
+Transmutation [Earth]
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> One pebble/3 levels
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With your best giant's shout you rattle some pebbles in your closed hand, completing the spell that will allow them to become boulders.</b>
+	
+You infuse a handful of stone pebbles with powerful transmutation magic. For the duration of the spell, you can hurl one pebble as an attack action that provokes attacks of opportunity. The instant the pebble leaves contact with your hand, its size and the force of your throw increase dramatically, as the pebble transforms into a boulder. The boulder has a range increment of 120 feet, and you must succeed on a ranged attack to strike a target with the boulder. If you hit the target, the boulder deals 2d6 points of bludgeoning damage + your Str modifier. You gain an insight bonus equal to your caster level on attack rolls and damage rolls (maximum +10) with these boulders.
+	
+If you drop a pebble or give it to another creature, the pebbles' magic dissipates harmlessly.
+	
+<b>Material Component:</b> The pebbles to be transmuted.
+   

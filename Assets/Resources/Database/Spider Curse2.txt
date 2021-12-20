@@ -1,0 +1,25 @@
+<b>Spider Curse</b>(Spell Compendium, p. 200)
+
+Transmutation [Mind-Affecting]
+ <b>Level:</b>   Spider 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One Medium or smaller humanoid
+ <b>Duration:</b> 24 hours/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You pour the power of the spell into the body of another. That creature, now but a vessel of your will, takes the shape of a centaur-like spider creature called a drider.</b>
+	
+You turn a humanoid into a creature resembling a drider (MM 89) that obeys your mental commands.
+	
+The transmuted subject gains a spider's body with a humanoid head, arms, and torso, just like a drider.
+	
+The subject has a drider's speed, natural armor, bite attack, and poison (but see below). The subject gains a +4 bonus to Strength, Dexterity, and Constitution. The subject becomes size Large, with a space of 10 feet and a reach of 5 feet. The subject gains a � ;1 penalty to AC and on attack rolls due to size. The subject retains its Intelligence, Wisdom, and Charisma scores, level and class, hit points (despite any change in Constitution), alignment, base attack bonus, and base saves. (New Strength, Dexterity, and Constitution scores might affect final Armor Class, attack, and save bonuses.) The subject's equipment remains and continues to function as long as it fits a drider's body shape. Otherwise it is subsumed into the new form and ceases to function for the duration of the spell. Retained items include anything worn on the upper body (head, neck, shoulders, hands, arms, and waist). Nonfunctioning items include anything worn on the legs, feet, or the whole body (armor, robes, vestments, and boots).
+	
+The subject's bite delivers a poison with a Fortitude save DC of 16 + your Wisdom bonus. Initial and secondary damage is 1d6 points of Strength damage.
+	
+Your control over the subject is like that provided by a <b>dominate person</b> spell (PH 224). (You telepathically control the creature as long as it remains within range.)
+ <b>Also appears in</b>   Forgotten Realms Campaign Setting     

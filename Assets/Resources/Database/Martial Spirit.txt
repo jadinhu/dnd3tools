@@ -1,0 +1,16 @@
+<b>Martial Spirit</b>(Tome of Battle: The Book of Nine Swords, p. 60)
+
+Devoted Spirit (Stance)
+ <b>Level:</b>  Crusader 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>As you cleave through your foes, each ferocious attack you make lends vigor and strength to you and your allies.</b>
+	
+While you are in this stance, you or an ally within 30 feet heals 2 points of damage each time you make a successful melee attack. This healing represents the vigor, drive, and toughness you inspire in others. Your connection to the divine causes such inspiration to have a real, tangible effect on your allies? health.
+	
+Each time you hit an opponent in melee, you can choose a different recipient within range to receive this healing.</p   

@@ -1,0 +1,13 @@
+<b>Mountain Tombstone Strike</b>(Tome of Battle: The Book of Nine Swords, p. 84)
+
+Stone Dragon (Strike)
+ <b>Level:</b>  Crusader 9,  Swordsage 9,  Warblade 9,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You slam into your foe, turning bones into dust and muscle into bloody pulp. Your foe?s body is left a crippled, twisted mockery.</b>
+	
+Your attack causes damage to the structure of your foe?s body. As part of this maneuver, you make a single melee attack. If this attack hits, you deal 2d6 points of Constitution damage in addition to your normal damage.</   

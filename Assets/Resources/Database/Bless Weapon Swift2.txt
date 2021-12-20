@@ -1,0 +1,13 @@
+<b>Bless Weapon, Swift</b>(Spell Compendium, p. 31)
+
+Transmutation
+ <b>Level:</b>  Paladin 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You invoke the holy words quickly, and your weapon flashes a momentary blue-white radiance.</b>
+	
+This spell functions like <b>bless weapon</b> (PH 205), except as noted above.
+ <b>Also appears in</b>   Miniatures Handbook     

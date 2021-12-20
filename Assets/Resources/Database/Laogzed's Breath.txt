@@ -1,0 +1,12 @@
+<b>Laogzed's Breath</b>(Savage Species)
+
+Conjuration (Creation)
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Cone
+ <b>Duration:</b> Instantaneous
+
+ 	
+As stinking cloud, except as noted above and that the nauseating vapors persist for 10 rounds.
+ <b>Also appears in</b>   Serpent Kingdoms     

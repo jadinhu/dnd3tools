@@ -1,0 +1,18 @@
+<b>Suspend Disease</b>(Book of Vile Darkness)
+
+Abjuration
+ <b>Level:</b>  Cleric 1,  Druid 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell keeps a disease already infecting the subject from harming him for that day.
+The disease is in no way cured, and the subject cannot make a save to throw off the disease.
+Casters who intend to cast spells with a disease component find this spell particularly useful.
+Material Component: A drop of bile.
+   

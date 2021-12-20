@@ -1,0 +1,21 @@
+<b>Bodak's Glare</b>(Spell Compendium, p. 34)
+
+Necromancy [Death, Evil]
+ <b>Level:</b>  Cleric 8,   Abyss 8,   
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> 30 ft
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You invoke the powers of deep darkness and your eyes vanish, looking like holes in the universe itself.
+	
+Upon completion of the spell, you target a creature within range that can see you. That creature dies instantly unless it succeeds on a Fortitude save. The target need not meet your gaze.
+	
+If you slay a humanoid creature with this attack, 24 hours later it transforms into a bodak (MM 28) unless it has been resurrected in the meantime. The bodak is not under your command, but can be controlled as normal with a rebuke undead check.
+	
+Focus: A black onyx gem worth at least 500 gp.
+ <b>Also appears in</b>   Planar Handbook     

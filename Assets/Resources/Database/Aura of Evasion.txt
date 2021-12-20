@@ -1,0 +1,17 @@
+<b>Aura of Evasion</b>(Draconomicon)
+
+Abjuration
+ <b>Level:</b>  Cleric 5,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Area:</b> 10-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> No
+
+ 	
+You and all creatures within 10 feet of you gain evasion, but only against breath weapons.
+(If a breath weapon would normally allow a Reflex saving throw for half damage, a creature within an aura of evasion that successfully saves takes no damage instead).
+The effect of this spell doesn't stack with any existing evasion or improved evasion abilities.
+Material Component: Powdered emerald worth 500 gp.
+   

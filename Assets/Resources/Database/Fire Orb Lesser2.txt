@@ -1,0 +1,9 @@
+<b>Fire Orb, Lesser</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>
+
+ 	
+As <b>lesser acid orb</b>, except lesser fire orb deals fire damage.
+   

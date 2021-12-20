@@ -1,0 +1,18 @@
+<b>Molten Strike</b>(Heroes of Battle)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 5-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You launch a ball of molten rock that detonates, showering nearby creatures with red-hot stone and flames.
+The explosion deals 2d6 points of fire damage to every creature within the area.
+In addition, any creature that fails its Reflex save catches fire (see page 304 of the Dungeon Master's Guide) and takes an additional 1d6 points of fire damage each round until it douses the fire by succeeding on a DC 15 Reflex save.
+Material Component: A stone marble.
+   

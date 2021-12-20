@@ -1,0 +1,19 @@
+<b>Summon Undead I</b>(Player's Guide to FaerÃ»n)
+
+Conjuration (Summoning) [Evil]
+ <b>Level:</b>  Blackguard 1,  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One summoned creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like summon monster I, except that you summon an undead creature.
+Summon undead I conjures one of the creatures from the 1st-level list on the Summon Undead table below.
+You choose which creature to summon, and you can change that choice each time you cast the spell.
+Summoned undead do not count toward the total Hit Dice of undead that you can control with animate dead or the cleric command undead ability.
+Focus: A tiny bag, a small (not lit) candle, and a carved bone from any humanoid.
+ <b>Also appears in</b>   Ghostwalk  Magic of Faerun  Heroes of Horror  Libris Mortis: The Book of the Dead  Spell Compendium     

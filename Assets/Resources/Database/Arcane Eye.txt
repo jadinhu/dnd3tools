@@ -1,0 +1,24 @@
+<b>Arcane Eye</b>(Player's Handbook v.3.5, p. 200)
+
+Divination (Scrying)
+ <b>Level:</b>  Trapsmith 2,  Sorcerer 4,  Wizard 4,  Hoardstealer 4,  Ebonmar Infiltrator 4,  Sha'ir 4,  Death Master 4,  Savant 4 (Arcane),  Court Herald 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Unlimited
+ <b>Effect:</b> Magical sensor
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create an invisible magical sensor that sends you visual information.
+You can create the arcane eye at any point you can see, but it can then travel outside your line of sight without hindrance.
+An arcane eye travels at 30 feet per round (300 feet per minute) if viewing an area ahead as a human would (primarily looking at the floor) or 10 feet per round (100 feet per minute) if examining the ceiling and walls as well as the floor ahead.
+It sees exactly as you would see if you were there.
+The eye can travel in any direction as long as the spell lasts.
+Solid barriers block its passage, but it can pass through a hole or space as small as 1 inch in diameter.
+The eye can't enter another plane of existence, even through a gate or similar magical portal.
+You must concentrate to use an arcane eye.
+If you do not concentrate, the eye is inert until you again concentrate.
+Material Component: A bit of bat fur.
+   

@@ -1,0 +1,18 @@
+<b>Azuth's Exalted Triad</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+You alter one of your prepared spells so that you can cast it multiple times before it is expended.
+The prepared spell must be of 3rd level or lower, and once the exalted triad is cast, you may cast the altered spell two additional times (a total of three times) before it is expended.
+The altered spell functions normally and requires components or XP for each use as if you were casting three separate spells.
+If you later choose to prepare a different spell in that spell slot, any extra castings provided by the exalted triad are lost.
+You cannot cast exalted triad more than once upon a prepared spell.
+This spell was created by the clerics of Azuth.
+   

@@ -1,0 +1,24 @@
+<b>Mystic Lash</b>(Player's Guide to FaerÃ»n)
+
+Evocation [Electricity, Evil]
+ <b>Level:</b>   Initiate of bane 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 15 ft.
+ <b>Effect:</b> Electric whip
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a long whip of ghostly red energy that emanates from your hand and never harms you.
+You can wield this weapon as if it were an actual whip and you were proficient with it.
+You must succeed on a ranged touch attack with the mystic lash to strike a target.
+Any creature struck by it takes 1d6 points of electricity damage per three caster levels (maximum 4d6) and must succeed on a Fortitude save or be stunned for 1 round.
+You gain a bonus on damage rolls equal to your Charisma modifier, but your Strength modifier does not apply, since the lash is immaterial.
+If you release the lash from your hand after it hits a target, it continues to attack that target automatically, leaving your hand free.
+If the lash's target falls unconscious, dies, or is destroyed, the lash returns to you on its next action.
+If you do not grasp it on the round it returns, it dissipates; otherwise, you can use the lash on another creature and begin the cycle again.
+As with a normal whip, you can use the mystic lash to make trip or disarm attacks, but only if you are actually wielding it.
+It cannot make such attacks on its own.
+ <b>Also appears in</b>   Magic of Faerun  Lords of Darkness     

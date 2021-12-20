@@ -1,0 +1,18 @@
+<b>Charnel Fire</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Effect:</b> One corpse
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None (Will negates for undead)
+ <b>Spell Resistance:</b> No (Yes for undead)
+
+ 	
+With sinister flame and brimstone, the caster completely consumes one dead body so that absolutely nothing remains.
+A creature whose body is destroyed by a charnel fire spell can only be brought back to life through a true resurrection spell.
+If this spell is cast upon a corporeal undead, the creature gets a Will saving throw, and the caster must overcome its spell resistance (if any).
+If the undead creature fails its save, it is destroyed forever.
+   

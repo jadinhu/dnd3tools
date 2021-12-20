@@ -1,0 +1,16 @@
+<b>Strike of Perfect Clarity</b>(Tome of Battle: The Book of Nine Swords, p. 70)
+
+Iron Heart (Strike)
+ <b>Level:</b>  Warblade 9 (Four Iron Heart maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>Your supreme focus and perfect fighting form allow you to make a single, devastating attack. You execute a flawless strike to drop your foe with a single attack.</b>
+	
+The ultimate Iron Heart maneuver teaches the precise, perfect cut necessary to slay almost any creature. Only the mightiest foes can withstand this attack. Adepts of the Iron Heart tradition seek to use this attack to end fights as quickly as possible. You might open a fight with a quick flurry of attacks, but once a foe is injured, you seek to end the battle with this decisive strike.
+	
+You make a single melee attack as part of this strike. If your attack hits, it deals an extra 100 points of damage (in addition to your normal melee damage).
+   

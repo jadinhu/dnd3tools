@@ -1,0 +1,24 @@
+<b>Smoke Stairs</b>(Complete Scoundrel)
+
+Transmutation [Air]
+ <b>Level:</b>  Assassin 2,  Druid 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+You step into intangible smoke and ascend as nimbly as if it were a flight of steps.
+You gain the ability to run up columns of smoke as if they were normal stairs.
+Casting this spell successfully requires smoke from a natural fire large enough to fill a 5-foot square, such as a normal campfire, bonfire, or any significant amount of burning debris (torch f lames or creatures made of fire or smoke do not suffice).
+After casting this spell, you can move into the column of smoke produced by such fires and can ascend vertically into a square filled with smoke.
+To your eyes the smoke coalesces into ghostly steps, though other observers see nothing different.
+When stepping into the column you are considered to be in the smoke above the flame and take no damage from the fire.
+Every 5 feet of upward movement costs 2 squares of movement.
+For example, an assassin with a speed of 30 feet casts smoke stairs on himself, then moves 10 feet across the ground to a smoking fire and ascends 10 feet vertically in a single move action.
+If anything dissipates the column of smoke while you are moving though it using this spell, you lose your footing and fall.
+Examples include a gust of wind spell and an air elemental's whirlwind form.
+If the fire creating the smoke is extinguished, the smoke stairs effect lingers for 1 round before dispersing.
+Material Component: A handful of dried leaves.
+   

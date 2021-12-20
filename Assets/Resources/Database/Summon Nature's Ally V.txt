@@ -1,0 +1,17 @@
+<b>Summon Nature's Ally V</b>(Player's Handbook v.3.5, p. 289)
+
+Conjuration (Summoning) [see text]
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>summon nature's ally I</b>, except that you can summon one 5th-level creature, 1d3 4th-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.
+	
+When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
+	<b>5TH <span class="caps">LEVEL</span></b>	<table>		<tr>			<td> Arrowhawk, adult </td>		</tr>		<tr>			<td> Bear, polar (animal) </td>		</tr>		<tr>			<td> Dire lion </td>		</tr>		<tr>			<td> Elasmosaurus <sup>1</sup> (dinosaur) </td>		</tr>		<tr>			<td> Elemental, Large (any) </td>		</tr>		<tr>			<td> Griffon </td>		</tr>		<tr>			<td> Janni (genie) </td>		</tr>		<tr>			<td> Rhinoceros (animal) </td>		</tr>		<tr>			<td> Satyr [CN; with pipes] </td>		</tr>		<tr>			<td> Snake, giant constrictor (animal) </td>		</tr>		<tr>			<td> Nixie (sprite) </td>		</tr>		<tr>			<td> Tojanida, adult <sup>1</sup> </td>		</tr>		<tr>			<td> Whale, orca <sup>1</sup> (animal) </td>		</tr>		<tr>			<td> <sup>1</sup> may be summoned only into an aquatic or watery environment </td>		</tr>	</table>   

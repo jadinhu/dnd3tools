@@ -1,0 +1,25 @@
+<b>Aspect of the Werebeast</b>(Races of Eberron, p. 183)
+
+Transmutation [Mindset]
+ <b>Level:</b>  Druid 4,  Ranger 4,    
+<b>Components:</b>V, S, Shifter
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+When you cast this spell, you tap into your shifter nature to transform yourself into a hybrid of your natural form and a specific animal. This transformation resembles the hybrid forms of some lycanthropes, and grants similar bonuses and abilities. When you cast aspect of the werebeast, choose one of the animal forms listed below to determine your hybrid form:
+	
+<b>Bear:</b> You gain a +4 enhancement bonus to Strength and Constitution. In addition, if you have a natural claw attack, you gain the improved grab special attack. This ability allows you to make a free grapple attempt against a foe at least one size category smaller than you whenever you hit with your natural claw attack. For more information, see page 310 of the Monster Manual.
+	
+<b>Tiger:</b> You gain a +4 enhancement bonus to Strength and Dexterity. In addition, you gain the pounce special attack, allowing you to follow a charge with a full attack (including rake attacks). For more information, see page 313 of the Monster Manual.
+	
+<b>Wolf:</b> You gain a +4 enhancement bonus to Dexterity and Constitution and a +10 feet enhancement bonus to your land speed. In addition, if you have a natural bite attack, you can attempt to trip your opponent as a free action without making a touch attack or provoking an attack of opportunity. If this trip attempt fails, your opponent cannot react to trip you.
+	
+Razorclaw shifters tend to prefer the bear or tiger aspects of this spell, while longtooth shifters prefer the wolf aspect.
+	
+As with other spells and effects, aspect of the werebeast does not stack with itself. You cannot gain multiple benefits from the spell even if you cast it multiple times with different aspects.
+	
+<b>Mindset:</b> While this spell is prepared, the duration of your shifting is increased by 1 round.
+   

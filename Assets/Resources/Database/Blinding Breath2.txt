@@ -1,0 +1,15 @@
+<b>Blinding Breath</b>(Spell Compendium, p. 31)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 Swift Action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your Breath Weapon
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You expel your breath weapon, which crackles with eye-splitting intensity.</b>
+	
+This spell functions like breath flare (page 38), except that targets that fail their saving throws against your breath weapon are permanently blinded, rather than dazzled.
+ <b>Also appears in</b>   Draconomicon     

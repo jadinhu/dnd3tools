@@ -1,0 +1,18 @@
+<b>Urchin's Spines</b>(Stormwrack)
+
+Transmutation
+ <b>Level:</b>  Ranger 1,  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates; see text (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The transmuted creature's skin (including clothing and armor) is covered by 2-inch spines.
+An opponent who grapples the subject or strikes it with a natural weapon takes 1d3 points of piercing damage from the spines, which also inject a mildly irritating poison.
+The opponent must make a DC 13 Fortitude save or take initial and secondary damage of 1d2 Dexterity.
+Arcane Material Component: A spine from a sea urchin.
+   

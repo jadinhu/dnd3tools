@@ -1,0 +1,15 @@
+<b>Light of Mercuria</b>(Spell Compendium, p. 132)
+
+Evocation
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> You and up to two rays; see text
+ <b>Duration:</b> 10 minutes/level (D) or until discharged; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes; see text
+
+ 	
+This spell functions like <b>light of Lunia</b>, except that the radiance created is golden. Your light rays deal 2d6 points of damage, or 4d6 points of damage against undead and evil outsiders.
+ <b>Also appears in</b>   Planar Handbook     

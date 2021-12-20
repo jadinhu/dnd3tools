@@ -1,0 +1,22 @@
+<b>Adept Spirit</b>(Magic of Incarnum)
+
+Divination [Incarnum]
+ <b>Level:</b>  Cleric 2,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You bestow the soul of a great ancient spellcaster on the creature touched, giving him great skill with magic.
+As an immediate action, the target creature can activate the adept spirit.
+While active, the spirit's wisdom and learning provide the recipient of the spell with a +1 insight bonus to caster level and a +2 insight bonus on Will saves, Concentration checks, Intelligence checks, and Intelligence-based skill checks.
+The adept spirit remains active for 1 minute, and then its power is expended and the spell ends.
+No creature can be the target of more than one adept spirit spell simultaneously.
+If a second is cast before the first has been discharged, the second spell dissipates to no effect.
+Essentia: For every point of essentia you invest in this spell, the bonus on Will saves, Concentration checks, Intelligence checks, and Intelligence-based skill checks provided by the spirit improves by 1.
+(The bonus to caster level is not improved by essentia investment).
+   

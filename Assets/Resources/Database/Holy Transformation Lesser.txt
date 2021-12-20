@@ -1,0 +1,15 @@
+<b>Holy Transformation, Lesser</b>(Spell Compendium, p. 116)
+
+Transmutation [Good]
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+<b>A charge of holy energy courses through you, causing a barely visible golden aura to surround you. You feel a closeness to your deity as well as a noticeable increase in physical girth and power.</b>
+	
+When you cast this spell, you assume the physical appearance and many of the qualities and abilities of a protectar (Miniatures Handbook 66). While under the effect of the spell, your creature type changes to outsider (good), and your size changes to Medium. You have the space and reach of a protectar (5 feet/5 feet). You gain a +2 sacred bonus to Strength and Constitution. You gain a fly speed of 60 feet (good). You gain darkvision out to 60 feet. You gain a +2 sacred bonus on saving throws. You gain the ability to speak and understand Celestial.
+   

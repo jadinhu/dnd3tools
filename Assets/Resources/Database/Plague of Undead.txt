@@ -1,0 +1,26 @@
+<b>Plague of Undead</b>(Heroes of Horror)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 9,  Dread Necromancer 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One or more corpses within range
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell unleashes great necromantic power, raising a host of undead creatures.
+Plague of undead turns the bones or bodies of dead creatures within the spell's range into undead skeletons or zombies with maximum hit points for their Hit Dice.
+The undead remain animated until destroyed.
+(A destroyed skeleton or zombie can't be animated again).
+Regardless of the specific numbers or kinds of undead created with this spell, a single casting of plague of undead can't create more HD of undead than four times your caster level.
+The undead you create remain under your control indefinitely and follow your spoken commands.
+However, no matter how many times you use this spell or animate dead (see page 198 of the Player's Handbook), you can only control 4 HD worth of undead creatures per caster level; creatures you animate with either spell count against this limit.
+If you exceed this number, newly created creatures fall under your control and any excess undead from previous castings of this spell or animate dead become uncontrolled.
+Anytime this limit causes you to release some of the undead you control through this spell or animate dead, you choose which undead are released.
+The bones and bodies required for this spell follow the same restrictions as animate dead.
+All the material to be animated by this spell must be within range when the spell is cast.
+Material Component: A black sapphire worth 100 gp or several black sapphires with total value of 100 gp.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

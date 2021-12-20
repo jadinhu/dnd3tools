@@ -1,0 +1,25 @@
+<b>Call Avalanche</b>(Frostburn)
+
+Evocation [Cold]
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 10 ft.-radius/level spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell may only be cast outside.
+Immediately upon completion of the spell, an avalanche of ice and snow falls out of the sky, dealing 8d6 points of crushing damage and potentially burying Large or smaller creatures within the area.
+Creatures making their Reflex saving throws take half damage and are not buried.
+Those that fail their saves are buried and take an additional 1d6 points of nonlethal damage per minute while still buried.
+If such a creature falls unconscious while buried, it must make a DC 15 Constitution check.
+If that check fails, it takes 1d6 points of lethal damage each minute thereafter until freed or dead.
+The ice and snow remains until melted by natural or unnatural means.
+A rapid melting of the ice and snow could cause a flash flood (see Freezing and Thawing, page 10).
+A 9th-level caster buries Large or smaller creatures.
+At 12th level, the maximum size of a creature increases to Huge.
+At 15th, Gargantuan creatures are also buried, and at 18th level, a creature of up to Colossal size is buried by the snow.
+   

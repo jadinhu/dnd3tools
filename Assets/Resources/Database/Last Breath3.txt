@@ -1,0 +1,19 @@
+<b>Last Breath</b>(Spell Compendium, p. 130)
+
+Transmutation
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Dead creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Rushing to the body of your fallen ally, you call out magic words that will bring back life and breath to your friend.</b>
+	
+Last breath restores life to a recently deceased creature, creating a new body for the returning spirit to inhabit. However, the spell must be cast within 1 round of the victim's death. This spell functions like <b>reincarnate</b> (PH 270), except that the reincarnated creature receives no level loss, no Constitution loss, and no loss of spells. The creature has -1 hit points (but is stable).
+	
+Material Component: Rare oils and unguents worth a total of at least 500 gp, spread over the remains.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Divine     

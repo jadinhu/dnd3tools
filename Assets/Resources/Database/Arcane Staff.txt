@@ -1,0 +1,18 @@
+<b>Arcane Staff</b>(Tower of High Sorcery)
+
+Transmutation 
+ <b>Level:</b> Anagakok 5, Beholder Mage 5, Chameleon 5, Deathwalker 5, Fleshcrafter 5, Sha-ir 5, Sorcerer5, Wizard 5, Soul Reaper 5, Sublime Chord 5, Suel Arcanamach 5    
+<b>Components:</b>V, S, F
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Non-magic quarterstaff touched
+ <b>Duration:</b> Permanent until discharged (D)
+ <b>Saving Throw:</b> Permanent until discharged (D)
+ <b>Spell Resistance:</b> Yes (object)
+ 	
+Spells you can normally cast may be placed into a prepared quarterstaff. You can store a number of spell levels equal to your caster level, but no spell can be higher than 4th level. For example, a 9th-level wizard could store two 4th-level spells and a 1stlevel spell; or one 4th-level spell, one 3rd-level spell, and one 2nd-level spell; or any other combination totaling nine levels. 0th-level spells cannot be stored within an arcane staff.
+
+A spell stored within the quarterstaff can be cast just as any other spell. It does not count against your normal allotment of spells for a given day. You use up any applicable material components and expend any experience cost to cast the spell when you store it in the staff. You cannot have more than one prepared arcane staff at any given time.
+
+Focus: The masterwork quarterstaff that stores the spells.
+   

@@ -1,0 +1,16 @@
+<b>Blessing of Bahamut</b>(Spell Compendium, p. 31)
+
+Abjuration [Good]
+ <b>Level:</b>  Paladin 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>You hear a distant dragon's roar that no one els detects, and your skin takes on a platinum sheen.</b>
+	
+You gain damage reduction 10/magic for the spell's duration.
+<b>Material Component:</b> A canary feather, which is flung into the air.
+   

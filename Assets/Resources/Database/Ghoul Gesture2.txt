@@ -1,0 +1,21 @@
+<b>Ghoul Gesture</b>(Spell Compendium, p. 104)
+
+Necromancy
+ <b>Level:</b>   Hunger 3,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft. / level)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 round / level
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A green ray stabs from your pointing finger to strike the belly of your enemy.</b>
+	
+You must succeed on a ranged touch attack with the ray to strike a target. A subject that is successfully targeted must make a Fortitude save or be paralyzed for the duration of the spell.
+	
+A subject of the ray that succeeds on its Fortitude save is instead sickened for the duration of the spell. <b>Neutralize poison</b> removes the sickened condition. 
+	
+<b>Material Component</b>: A small scrap of cloth taken from clothing worn by a ghoul, or a pinch of earth from a ghoul's lair.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

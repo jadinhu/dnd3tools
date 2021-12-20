@@ -1,0 +1,19 @@
+<b>Earthbind</b>(Spell Compendium, p. 76)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your foe will reach you in seconds. You cast this spell, and yellow strips of magical energy loop about its wings, hampering its flight and dragging it to ground.</b>
+	
+You hinder the subject creature's ability to fly (whether through natural or magical means) for the duration of the spell. If the target fails its saving throw, its fly speed (if any) becomes 0 feet. An airborne creature subjected to this spell falls to the ground as if under the effect of a <b>feather fall</b> spell. Even if a new effect would grant the creature the ability to fly, that effect is suppressed for the duration of the <b>earthbind</b> spell.
+	
+<b>Earthbind</b> has no effect on other forms of movement, or even on effects that might grant airborne movement without granting fly speed (such as jumping or <b>levitate</b> or <b>air walk</b> spells).
+ <b>Also appears in</b>   Draconomicon  Monster Manual V     

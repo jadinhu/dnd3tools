@@ -1,0 +1,17 @@
+<b>Force Shapechange</b>(Races of Eberron, p. 185)
+
+Abjuration
+ <b>Level:</b>   Truth 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature/level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you specify targets you know or believe to be shapechangers. Any shapechanger targeted by the spell takes 3d10 points of damage from wracking pain and reverts to its true form for the duration of the spell. A successful save negates the reversion and halves the damage dealt.
+	
+For the purpose of this spell, a shapechanger is any creature with the shapechanger type or a supernatural or extraordinary ability that allows it to assume an alternate form. A wizard who knows alter self is not a shapechanger (since a spell is not a supernatural or extraordinary ability), but a barghest is (since it has the supernatural ability to assume alternate forms, even though its type is outsider).
+ <b>Also appears in</b>   Oriental Adventures     

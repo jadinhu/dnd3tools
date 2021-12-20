@@ -1,0 +1,32 @@
+<b>Wall of Water</b>(Sandstorm)
+
+Conjuration (Creation) [Water]
+ <b>Level:</b>  Cleric 4,  Druid 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Wall of water 1 ft. thick whose area is up to one 10-ft. square/level (S)
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You cause a vertical wall of swirling water to appear.
+You can double the area of the wall's effect by halving its thickness.
+Any creature attempting to pass through a square occupied by a wall of water must make a Swim check (DC 14 + your spellcasting ability modifier) or become trapped in the water, unable to move.
+A creature trapped in this fashion can attempt another Swim check each round and might drown (see Drowning, page 304 of the Dungeon Master's Guide).
+If you conjure the wall so that it appears where creatures are, each creature must make a Swim check or become trapped; those that succeed can choose on which side they wish to emerge from the water.
+Any nonmagical flame is extinguished if carried through a wall of water.
+Few forms of physical attack can harm a wall of water directly.
+Thrown weapons are ineffective through it, and attacks with other ranged weapons are made with a -2 penalty for every 5 feet of wall through which they must pass (in addition to normal range penalties; minimum penalty -2).
+A breach in the wall closes immediately after the attack that made it goes through.
+The water blocks line of effect for any fire spell.
+Creatures on one side of the wall have cover against those on the other side unless the creature making the attack is under the effect of freedom of movement.
+If any 5-foot section of water takes 20 or more points of fire damage in a single round, that section evaporates into steamy fog that lasts for 1 minute.
+If any 5-foot section of wall takes 20 or more points of cold damage in 1 round, that length freezes for 10 minutes.
+Treat a frozen section as a wall of ice instead.
+In either instance, do not divide damage by four, as is normal for objects.
+Control water can open and hold open a breach in a wall of water, so long as that spell can affect enough of the wall.
+A wall of water can be made permanent with a permanency spell.
+Arcane Material Component: A vial of water.
+ <b>Also appears in</b>   Spell Compendium     

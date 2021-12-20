@@ -1,0 +1,28 @@
+<b>Mudslide</b>(Stormwrack)
+
+Conjuration (Creation) [Earth, Water]
+ <b>Level:</b>  Druid 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10.
+
+ 	
+ft./level)
+Effect: 40-ft.-radius spread
+Duration: Instantaneous
+Saving Throw: Reflex half; see text
+Spell Resistance: No
+You create a landslide of mud and water, which crushes, buries, and mires those caught in its path.
+The mud covers the area of the spell to a depth of about 10 feet (although it might fill low-lying areas or fail to cover high points in the area, at the DM's discretion).
+Creatures within the spell's effect must make a Reflex save.
+Those who fail take 8d6 points of damage and are buried (see Avalanches on page 90 of the Dungeon Master's Guide).
+Those who succeed take 3d6 points of damage and are not buried.
+Creatures of the fire subtype who are actually aflame (such as salamanders, azers, and fire elementals) instead take 8d8 or 3d8 points of damage, respectively.
+A creature who escapes burial ends up on top of the mudslide, mired in deep mud.
+After the initial slide, the mudslide persists indefinitely, producing an area of deep bog (average depth 10 feet) until the water in it evaporates.
+It requires 4 squares of movement to enter 1 square of deep bog, and running or charging are impossible in the area.
+Underwater, the mudslide remains indefinitely, producing an area of deep muck.
+It costs 2 squares of movement to enter a square containing deep muck, the DC of Balance and Tumble checks increases by 5, and the DC of Move Silently checks increases by 2.
+Aboveground, the mud normally dries out in 2 to 3 days.
+A transmute mud to rock spell hardens the slide into stone, trapping any creatures still within.
+   

@@ -1,0 +1,11 @@
+<b>Wall of Deadly Chains</b>(Book of Vile Darkness)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>
+ <b>Saving Throw:</b> Reflex half
+
+ 	
+As wall of chains, except as noted above, and the wall sports loose lengths of spiked chain that strike anyone within 5 feet of the wall.
+Those within that area take 3d6 points of damage each round.
+   

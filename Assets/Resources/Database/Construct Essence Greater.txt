@@ -1,0 +1,21 @@
+<b>Construct Essence, Greater</b>(Races of Eberron, p. 183)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living construct touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As <b>construct essence</b>, with the following additional effects.
+	
+The target loses the living construct subtype for the duration of the spell. It becomes immune to mind-affecting spells and abilities and any effect that requires a Fortitude save (unless the effect is harmless or also affects objects). The target living construct is no longer affected by spells that affect living creatures (such as cure light wounds and harm), and spells from the healing subschool provide no benefit.
+	
+The target living construct has no Constitution score, although its hit points remain the same. If reduced to 0 to -9 hit points, it is not destroyed, but the spell ends. If reduced to -10 hit points, the living construct is killed as normal.
+	
+This spell counters and dispels greater humanoid essence, lesser humanoid essence and humanoid essence. If this spell is cast on a creature under the effect of lesser humanoid essence or humanoid essence, the latter spell is automatically ended. If this spell is cast on a creature under the effect of greater humanoid essence, both spells are dispelled and have no effect.
+   

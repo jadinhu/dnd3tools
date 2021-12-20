@@ -1,0 +1,19 @@
+<b>Summon Instrument</b>(Player's Handbook v.3.5, p. 285)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Bard 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> One summoned handheld musical instrument
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell summons one handheld musical instrument of your choice.
+This instrument appears in your hands or at your feet (your choice).
+The instrument is typical for its type.
+Only one instrument appears per casting, and it will play only for you.
+You can't summon an instrument too large to be held in two hands (such as a harp, piano, harpsichord, alphorn, or pipe organ).
+ <b>Also appears in</b>   Song and Silence: A Guidebook to Bards and Rogues     

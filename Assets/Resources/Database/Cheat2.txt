@@ -1,0 +1,24 @@
+<b>Cheat</b>(Draconomicon)
+
+Transmutation [Evil]
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,   Greed 1,   
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level or until used
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+At one point during the duration of this spell, you can attempt to alter the outcome of a game of chance.
+This spell can only affect nonmagical games, such as those using cards or dice.
+It cannot affect a game involving magic, nor a magic item involved in a game of chance (such as a deck of many things).
+Whenever a roll is made to determine the outcome of the game, a character under the effect of this spell may demand
+a reroll and take the better of the two rolls.
+For example, Darkon is playing a game that he has a 1 in 4 chance of winning.
+The DM secretly rolls 1d4 and tells the player that Darkon lost.
+Because Darkon is under the effect of a cheat spell, the player can have the DM reroll.
+The spell alters probability, so there is no subterfuge that another character could notice (except for the casting of the spell itself ).
+Focus: A pair of dice made from human bones.
+ <b>Also appears in</b>   Spell Compendium  Book of Vile Darkness     

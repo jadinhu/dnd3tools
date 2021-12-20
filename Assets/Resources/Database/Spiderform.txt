@@ -1,0 +1,24 @@
+<b>Spiderform</b>(Forgotten Realms Campaign Setting)
+
+Transmutation
+ <b>Level:</b>   Drow 5,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D)
+
+ 	
+You can polymorph into a drider or Tiny, Small, Medium-size, or Large monstrous spider (see the Monster Manual).
+You regain lost hit points as if you rested for a day on the initial transformation.
+The spell lasts until you decide to resume your normal shape.
+You acquire the physical and natural abilities of the creature you polymorph into, including natural size, Strength, Dexterity, and Constitution scores, armor, attack routines, and movement capabilities.
+Unlike polymorph self, you acquire the poisonous bite and web-spinning ability of whichever spider form you choose.
+You do not suffer any disorientation.
+You retain your Intelligence, Wisdom, and Charisma scores, level and class, hit points (despite any change in Constitution score), alignment, base attack bonus, and base saves.
+(New Strength, Dexterity, and Constitution scores may affect final attack and save bonuses).
+You can cast spells and use magic items if you choose drider form, but no other spider form is capable of spellcasting or manipulating devices.
+If you choose drider form, your equipment remains and continues to function as long as it fits a drider's body shape.
+Retained items include anything worn on the upper body (head, neck, shoulders, hands, arms, and waist).
+Otherwise your equipment is subsumed into the new form and ceases to function for the duration of the spell.
+ <b>Also appears in</b>   Spell Compendium     

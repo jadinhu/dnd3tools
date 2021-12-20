@@ -1,0 +1,19 @@
+<b>Arcane Lock</b>(Player's Handbook v.3.5, p. 200)
+
+Abjuration
+ <b>Level:</b>  Thayan Slaver 1,  Sorcerer 2,  Wizard 2,  Knight of the Weave 2,  Wu Jen 2,  Sha'ir 2,  Savant 2 (Arcane),  Court Herald 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> The door, chest, or portal touched, up to 30 sq. ft./level in size
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+An arcane lock spell cast upon a door, chest, or portal magically locks it.
+You can freely pass your own arcane lock without affecting it; otherwise, a door or object secured with this spell can be opened only by breaking in or with a successful dispel magic or knock spell.
+Add 10 to the normal DC to break open a door or portal affected by this spell.
+(A knock spell does not remove an arcane lock; it only suppresses the effect for 10 minutes).
+Material Component: Gold dust worth 25 gp.
+   

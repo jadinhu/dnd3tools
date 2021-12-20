@@ -1,0 +1,23 @@
+<b>Shadow Cache</b>(Spell Compendium, p. 183)
+
+Illusion (Shadow)
+ <b>Level:</b>  Bard 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Area:</b> 1-ft.-diameter circle
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With a flourish, you open an invisible portal. Plunging your arm inside, you see your hand vanish as though it were invisible.</b>
+	
+You can temporarily stash small items on the Plane of Shadow (<span class="caps">DMG</span> 152) or permanently dispose of them there. This spell opens a small portal to the Plane of Shadow that is invisible on the Material Plane and appears as a small disk on the Plane of Shadow.
+	
+You can reach into the Plane of Shadow through the portal created by shadow cache, but only small, nonliving objects can pass entirely through the hole. The cache can hold up to 30 cubic feet of material, or 250 pounds.
+	
+You can recover objects placed in the portal throughout the duration of the spell, or by casting another hadow cache later. A shadow cache remains stationary at the point where you create it. Items placed in a shadow cache can possibly be picked up by natives of the Plane of Shadow, and in any event are slowly moved by the morphic trait of the plane. For every 24 hours that passes, there is a 10% chance each day that objects placed on the Plane of Shadow with shadow cache are gone (either moved or taken).
+	
+The spell cannot be cast on the Plane of Shadow itself, but only on planes coexistent with the Plane of Shadow.
+ <b>Also appears in</b>   Manual of the Planes     

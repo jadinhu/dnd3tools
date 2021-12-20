@@ -1,0 +1,19 @@
+<b>Bombardment</b>(Magic of Faerun)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 15-ft.-radius burst centered on spot
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause a rain of rocks to fall from the sky, burying your opponents.
+The spell deals 1d8 points of damage per caster level (maximum 10d8) and buries any target who fails his save.
+Buried subjects suffocate (see Suffocation, page 88 of the <span class="caps">DUNGEON</span> MASTER's Guide) until they climb from under the rocks (this is a full-round action).
+A buried creature has nine-tenths cover and concealment.
+Focus: A quartz crystal embedded in rock.
+ <b>Also appears in</b>   Spell Compendium  Player's Guide to FaerÃ»n     

@@ -1,0 +1,19 @@
+<b>Cometfall</b>(Complete Divine, p. 159)
+
+Conjuration (Creation)
+ <b>Level:</b>  Cleric 6,  Druid 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> 400-pound ball of rock and ice
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> No
+
+ 	
+You conjure a bright, glowing comet, which appears in midair above your enemies, then strikes the ground with tremendous force. The comet appears 5 feet per caster level above the ground or at the ceiling, whichever is lower. The comet immediately falls, dealing 2d6 points of damage per 10 feet fallen to everything in the 10-foot-square area directly below it (maximum 20d6).
+	
+The force of the comet can also knock creatures prone. Creatures who failed their Reflex save are subject to a trip attempt. The comet has a +11 bonus (+7 for effective Strength of 25 and +4 for being Large) on the trip check.
+	
+The comet breaks apart on impact, filling the 10 -foot-square area with dense rubble (as described on page 90 of the <b>Dungeon Master's Guide</b>).
+ <b>Also appears in</b>   Spell Compendium     

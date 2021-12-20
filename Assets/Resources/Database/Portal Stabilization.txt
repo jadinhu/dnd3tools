@@ -1,0 +1,16 @@
+<b>Portal Stabilization</b>(Underdark, p. 60)
+
+Transmutation
+ <b>Level:</b>   Portal (Alternative) 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels).
+ <b>Target:</b> One portal
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You temporarily stabilize a malfunctioning portal,making it safer for use.
+Any time the portal is activated during the duration of this spell (or immediately, if it is continuously active), add +30% to the required roll on Table 2-2: Portal Malfunction in the <span class="caps">FORGOTTEN</span> <span class="caps">REALMS</span> Campaign Setting.
+   

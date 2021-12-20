@@ -1,0 +1,25 @@
+<b>Plague of Undead</b>(Spell Compendium, p. 158)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One or more corpses within range
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Unleashing a cold rush of necromantic energy, you cause a host of undead to rise from the bodies of the fallen.</b>
+	
+This spell turns the bones or bodies of dead creatures into undead skeletons (MM 225) or zombies (MM 265) with maximum hit points for their Hit Dice. If you can control them, these undead follow your spoken commands. The undead remain animated until destroyed (a destroyed skeleton or zombie can't be animated again).
+	
+Regardless of the specific numbers or kinds of undead created with this spell, you can't create more HD of undead with this spell than four times your caster level with a single casting of plague of undead.
+	
+The undead you create remain under your control indefinitely. No matter how many times you use this spell or animate dead (PH 198), however, you can control only 4 HD worth of undead creatures per caster level. The limit imposed by this spell and the animate dead spell are the same, meaning that creatures you animate with either spell count against this limit. If you exceed this number, all the newly created creatures fall under your control and any excess undead from previous castings of this spell or animate dead become uncontrolled. Any time you must release part of the undead that you control because of this spell or animate dead, you choose which undead are released until the total HD of undead you control is equal to four times your caster level.
+	
+The bones and bodies required for this spell follow the same restrictions as animate dead.
+	
+Material Component: A black sapphire worth 100 gp or several black sapphires with a total value of 100 gp.
+   

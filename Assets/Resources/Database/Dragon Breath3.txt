@@ -1,0 +1,33 @@
+<b>Dragon Breath</b>(Spell Compendium, p. 73)
+
+Evocation [Good or Evil]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>Using magic to mimic a dragon's breath, you spew forth a gout of energy.</b>
+	
+You gain the ability to breathe a gout of energy as a standard action that mimics a dragon's breath. Once you've used the breath attack, you must wait 1d4 rounds before doing so again.
+	
+When you cast dragon breath, you choose one true dragon whose breath you're emulating. If you choose a chromatic dragon, then the spell gains the evil descriptor. If you choose a metallic dragon, then it gains the good descriptor. Particulars for the breath weapons of each of the true dragons are provided below.
+	
+Chromatic Dragons
+Black: 30-ft. line of acid, 1d8/2 caster levels (maximum 10d8); Reflex half.
+Blue: 30-ft. line of electricity, 1d8/2 caster levels (maximum 10d8); Reflex half.
+Green: 15-ft. cone of acid, 1d8/2 caster levels (maximum 10d8); Reflex half.
+Red: 15-ft. cone of fire, 1d8/2 caster levels (maximum 10d8); Reflex half. 
+White: 15-ft. cone of cold, 1d8/2 caster levels (maximum 10d8); Reflex half. 
+	
+Metallic Dragons
+Brass: 15-ft. cone of sleep, lasts 1d6 rounds; Will negates.
+Bronze: 30-ft. line of electricity, 1d8/2 caster levels (maximum 10d8); Reflex half.
+Copper: 15-ft. cone of slow, lasts 1d6 rounds; Will negates.
+Gold: 15-ft. cone of fire, 1d8/2 caster levels (maximum 10d8); Reflex half.
+Silver: 15-ft. cone of paralysis, lasts 1d6 rounds; Fort negates.
+	
+<b>Arcane Material Component:</b> A dragonscale of the appropriate color.
+ <b>Also appears in</b>   Draconomicon  Complete Divine     

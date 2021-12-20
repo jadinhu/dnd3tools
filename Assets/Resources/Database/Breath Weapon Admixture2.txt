@@ -1,0 +1,17 @@
+<b>Breath Weapon Admixture</b>(Spell Compendium, p. 39)
+
+Transmutation [see text]
+ <b>Level:</b>  Sorcerer/Wizard Variant 9,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your breath weapon
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You spit out two forms of energy as your breath weapon streaks toward your opponents.</b>
+	
+For this spell to function, you must have a breath weapon, either as a supernatural ability or as the result of casting a spell such as dragon breath (page 73). When you successfully cast this spell, you choose one type of energy other than that normally associated with your breath weapon: acid, cold, electricity, fire, or sonic. You can modify your breath weapon to add an equal amount of the energy you choose. For example, a great wyrm red dragon whose breath weapon normally deals 24d10 points of fire damage could use this spell to produce a cone dealing 24d10 points of fire damage and 24d10 points of acid damage. Even opposed types of energy, such as fire and cold, can be combined using this spell. If you choose sonic energy, the save DC of your breath weapon is reduced by 2.
+	
+When you use this spell to produce acid, cold, electricity, or fire energy, it is a spell of that type. For example, breath weapon admixture is an acid spell when you cast it to add acid damage to your breath weapon.
+ <b>Also appears in</b>   Draconomicon     

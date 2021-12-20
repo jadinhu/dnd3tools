@@ -1,0 +1,21 @@
+<b>Call Forth the Beast</b>(Heroes of Horror)
+
+Enchantment (Compulsion) [Evil, Mind-Affecting]
+ <b>Level:</b>   Corrupt 5,   
+<b>Components:</b>V, S, AF, Corrupt
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One humanoid of Hit Dice equal to caster level +4 or less
+ <b>Duration:</b> Permanent until discharged, then 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The target of this spell experiences no immediate effect. The next time she falls asleep, however, she immediately reawakens with a chaotic evil alignment and a bloodthirsty, temperamental, and even psychotic disposition. The subject has no particular goals during this time except to shed blood and slaughter anyone who aggravates or irritates her; even the most innocent action might result in violence.
+	
+When the spell expires, the subject passes out momentarily, and reawakens with no memory of anything she might have done while under the effect of the spell. So far as she can tell, she simply fell asleep hours earlier, and she has no idea what has happened since then. She has gained no rest, cannot prepare arcane spells, and might be fatigued (if appropriate). 
+	
+Focus: The tongue of an executed murderer.
+	
+Corruption Cost: 1d4 points of Constitution damage.
+   

@@ -1,0 +1,17 @@
+<b>Naturewatch</b>(Spell Compendium, p. 146)
+
+Necromancy
+ <b>Level:</b>  Druid 0,  Ranger 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone-shaped emanation
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Reaching out with your heart, you seek knowledge of the health of plants and animals in the area.</b>
+	
+This spell is similar to <b>deathwatch</b> (PH 217), but it functions only on animals and plants. In addition, it also allows you to determine a variety of other mundane information about the animals and plants (whether or not the plants are dehydrated, the animals are malnourished, and so forth).
+ <b>Also appears in</b>   Magic of Faerun  Complete Divine     

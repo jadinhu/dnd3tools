@@ -1,0 +1,19 @@
+<b>Crisis of Confidence</b>(Heroes of Battle)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Hexblade 2,  Bard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You strip away the target's leadership qualities, leaving the creature virtually incapable of commanding troops.
+The target may not add its Charisma bonus (if any) to rally checks.
+The target's commander rating (if any) is reduced to 0, and it loses any commander aura(s) it possesses.
+The target can add its commander rating (if any) as a bonus on its Will save.
+See Chapter 4 for more details on rally checks, commander ratings, and commander auras.
+   

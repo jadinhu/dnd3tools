@@ -1,0 +1,18 @@
+<b>Creeping Cold</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 3 rounds
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You turn the subject's sweat to ice, creating blisters as the ice forms on and inside the skin.
+The spell deals 1d6 cumulative points of cold damage per round it is in effect (that is, 1d6 on the 1st round, 2d6 on the second, and 3d6 on the third).
+Only one save is allowed against the spell; if successful, it halves the damage each round.
+Focus: A small glass or pottery vessel worth at least 25 gp filled with ice, snow, or water.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

@@ -1,0 +1,21 @@
+<b>Darklight</b>(Book of Vile Darkness)
+
+Evocation [Darkness]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,  Assassin 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature or object touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The caster makes one creature or object radiate special darkness called darklight in a 5-foot-radius sphere.
+This spell is most useful in a large, naturally dark area.
+Within the darklight sphere, creatures that can normally see in the light can see, even though there is no light.
+Only creatures and objects in the sphere can be seen, and only creatures in the sphere can see within the sphere, unless other observers can naturally see in the dark.
+Thus, while two creatures in the sphere can see each other, a creature standing outside the sphere can neither see the creatures in the sphere (assuming it doesn't have darkvision), nor can it be seen by them.
+A creature with darkvision standing outside the sphere could see those within the sphere, but those inside could not discern the creature.
+The darklight spell's sphere is invisible in normal light and does not function in magical darkness.
+   

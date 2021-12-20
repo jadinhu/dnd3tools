@@ -1,0 +1,13 @@
+<b>Flashing Sun</b>(Tome of Battle: The Book of Nine Swords, p. 54)
+
+Desert Wind (Strike)
+ <b>Level:</b>  Swordsage 2 (One Desert Wind maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>Almost a blur of acceleration, your shining blade flashes as you attack with impossible speed.</b>
+	
+Flashing sun allows you to make an additional melee attack during this round. As part of this maneuver, you take a full attack action and make your normal melee attacks. However, you can make one additional attack this round at your highest attack bonus. All the attacks you make this round, including the extra attack granted by this maneuver, are made with a ?2 penalty.</p   

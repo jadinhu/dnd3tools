@@ -1,0 +1,12 @@
+<b>Deeper Darkness</b>(Player's Handbook v.3.5, p. 217)
+
+Evocation [Darkness]
+ <b>Level:</b>  Assassin 3, Blackguard 3, Cleric 3,  Adept 3,  Ebonmar Infiltrator 3,  Slayer of Domiel 3,  Blighter 3,  Death Master 3,   Baator 4,   
+<b>Components:</b>
+ <b>Duration:</b> One day/level (D)
+
+ 	
+This spell functions like <b>darkness</b>, except that the object radiates shadowy illumination in a 60-foot radius and the darkness lasts longer.
+Daylight brought into an area of deeper darkness (or vice versa) is temporarily negated, so that the otherwise prevailing light conditions exist in the overlapping areas of effect.
+Deeper darkness counters and dispels any light spell of equal or lower level, including daylight and light.
+   

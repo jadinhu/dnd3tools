@@ -1,0 +1,24 @@
+<b>Investiture of the Barbed Devil</b>(Fiendish Codex II: Tyrants of the Nine Hells)
+
+Transmutation [Evil, Investiture]
+ <b>Level:</b>  Blackguard 4,  Cleric 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+With brisk arcane gestures that glow with a fiery red light, you imbue a target with the might of a barbed devil, causing long thorns to sprout all over its body.
+You cause the target of this spell to grow a number of long barbs similar to those found on a barbed devil.
+While under the effect of the spell, the target does not provoke attacks of opportunity when initiating a grapple.
+If the subject already has improved grab or the Improved Grapple feat, it instead gains a +4 profane bonus on grapple checks.
+Whenever the subject successfully makes a grapple check to grab a foe, pin a foe, or deal damage, it impales its foe on its barbs, dealing extra damage based on its size.
+The subject also gains resistance to fire 10.
+This resistance stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the barbed devil).
+While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture.
+After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute.
+Material Component: A fist-sized chunk of brimstone.	<table>		<tr>			<th>Size </th>			<th>Damage</th>		</tr>		<tr>			<td> Tiny or smaller </td>			<td> 1d8 </td>		</tr>		<tr>			<td> Small </td>			<td> 2d8 </td>		</tr>		<tr>			<td> Medium </td>			<td> 3d8 </td>		</tr>		<tr>			<td> Large </td>			<td> 4d8 </td>		</tr>		<tr>			<td> Huge </td>			<td> 5d8 </td>		</tr>		<tr>			<td> Gargantuan </td>			<td> 6d8 </td>		</tr>		<tr>			<td> Colossal </td>			<td> 7d8 </td>		</tr>	</table>
+   

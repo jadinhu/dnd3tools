@@ -1,0 +1,23 @@
+<b>Doomtide</b>(Spell Compendium, p. 70)
+
+Illusion (Pattern)
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 80 ft.
+ <b>Effect:</b> Eight 10-ft. cubes extending straight from you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You fill an area with illusory black, creeping mist that vaguely resembles thousands of slender grasping tentacles.</b>
+	
+Creatures within the area must make Will saves or be dazed for 1 round. Any creature moving into the mist, or a creature that begins its turn in the mist, must succeed on a Will save or also be dazed for 1 round.
+	
+The mist filling the area obscures all sight, including darkvision, beyond 5 feet. A creature within 5 feet has concealment. Creatures farther away have total concealment.
+	
+When you cast the spell, you decide if the effect remains stationary or if its point of origin moves straight away from you at a rate of 10 feet per round.
+	
+A moderate wind disperses the effect in 4 rounds; a strong wind disperses the mist in 1 round.
+ <b>Also appears in</b>   Magic of Faerun  Complete Divine     

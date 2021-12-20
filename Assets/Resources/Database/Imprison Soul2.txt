@@ -1,0 +1,23 @@
+<b>Imprison Soul</b>(Heroes of Horror)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 9,  Dread Necromancer 9,   Spite 9,   
+<b>Components:</b>V, S, M, AF, 
+ <b>Casting Time:</b> 1 standard action; see text
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Permanent; see text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+By casting imprison soul, you place the subject's soul in a receptacle, such as a gem, ring, or some other miniscule object, leaving her body lifeless.
+While trapped, the subject takes 1d4 points of Constitution damage per day until dead or freed.
+The rituals to prepare the receptacle require three days.
+Destroying or opening the receptacle ends the spell, releasing the soul.
+To cast the spell, you must know the name of the target.
+The receptacle must be within spell range and you must know where it is.
+Material Component: A portion of the target's body (a fingernail, a strand of hair, or some other small part).
+Focus: A Tiny or smaller object to be the receptacle for the subject's soul.
+Note: This updated version of this spell supersedes earlier published descriptions.
+ <b>Also appears in</b>   Book of Vile Darkness     

@@ -1,0 +1,23 @@
+<b>Iceberg</b>(Frostburn)
+
+Evocation [Cold]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 60-foot radius
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None or Reflex half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Iceberg is a brutal and direct spell.
+When cast, the spell creates a single large block of ice that drops from the sky onto a spot you select.
+The iceberg then shatters if it encounters a solid surface.
+Elephant-sized blocks of ice scatter in all directions, affecting nearby creatures based on how far they are from the center of the area.
+Within 20 Feet of the Center Point: Any creature or object directly beneath the iceberg takes 20d6 points of crushing damage (no save) and is buried in snow (see page 90).
+Between 20 Feet and 40 Feet of the Center Point: Creatures and objects in the middle section of the area also take 20d6 points of crushing damage, but are entitled to a Reflex save for half damage.
+They are buried in snow (see page 90).
+Between 40 Feet and 60 Feet of the Center Point: Creatures in the outermost section may be struck by flying debris for 10d6 points of damage.
+They are entitled to a Reflex save for half damage, and are not buried regardless of whether the saving throw is successful or not.
+   

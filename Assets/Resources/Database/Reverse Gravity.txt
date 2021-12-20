@@ -1,0 +1,21 @@
+<b>Reverse Gravity</b>(Player's Handbook v.3.5, p. 273)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,  Sha'ir 7,  Druid 8,  Urban Druid 8,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Up to one 10-ft. cube per two levels (S)
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell reverses gravity in an area, causing all unattached objects and creatures within that area to fall upward and reach the top of the area in 1 round.
+If some solid object (such as a ceiling) is encountered in this fall, falling objects and creatures strike it in the same manner as they would during a normal downward fall.
+If an object or creature reaches the top of the area without striking anything, it remains there, oscillating slightly, until the spell ends.
+At the end of the spell duration, affected objects and creatures fall downward.
+Provided it has something to hold onto, a creature caught in the area can attempt a Reflex save to secure itself when the spell strikes.
+Creatures who can fly or levitate can keep themselves from falling.
+Arcane Material Component: A lodestone and iron filings.
+   

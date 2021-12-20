@@ -1,0 +1,19 @@
+<b>Summon Greater Elemental</b>(Spell Compendium, p. 214)
+
+Conjuration (Summoning) [see text]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One summoned elemental
+ <b>Duration:</b> Concentration, up to 1 round/level + 1 round
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You call upon the powers of nature, and they respond to your command. A huge wave wells up before you, dark eyes within it regarding you from beneath the water. You point at the boat in the bay, and say, &quot;Sink it.&quot;</b>
+	
+This spell summons a greater elemental (MM 96 � ;100) � ;air, earth, fire, or water, at your option � ;from the appropriate Elemental Plane. The greater elemental appears where you designate and acts immediately, on your turn. It understands your speech (regardless of your language), and it follows your commands to the best of its ability. You must concentrate to maintain the spell's effect, but commanding the creature is a free action.
+	
+When you use a summoning spell to summon an air, earth, fire, or water creature, it is a spell of that type.
+ <b>Also appears in</b>   Planar Handbook     

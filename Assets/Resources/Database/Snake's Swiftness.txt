@@ -1,0 +1,20 @@
+<b>Snake's Swiftness</b>(Miniatures Handbook)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject may immediately make one melee or ranged attack, even if it has already taken its action for the round.
+Taking this action doesn't affect the subject's normal place in the initiative order.
+This is a single attack and follows the standard rules for attacking.
+This spell does not allow the subject to make more than one additional attack in a round.
+If the subject has already made an additional attack, due to a prior casting of this spell, from the haste spell, or from any other source, this spell fails.
+Arcane Material Component: A few scales from a snake.
+ <b>Also appears in</b>   Spell Compendium     

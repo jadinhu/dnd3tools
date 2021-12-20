@@ -1,0 +1,19 @@
+<b>Light of Lunia</b>(Planar Handbook, p. 100)
+
+Evocation [Good, Light]
+ <b>Level:</b>  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> You and creature(s) touched with ray (up to 2); see text
+ <b>Duration:</b> 10 min./level (D) or until used up; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You begin to glow with the light of fabled Lunia, the first layer of the Seven Mounting Heavens of Celestia.
+	
+Silvery radiance emanates from you in a 30-foot radius, and dim light extends for an additional 30 feet.
+	
+Beginning one turn after you cast this spell, you can choose to expend some or all of the light of Lunia as a ray of light. You can make a single ranged touch attack that deals 1d6 points of damage with a range of 30 feet. This dims your silvery radiance to half (15-foot light, with dim light for an additional 15 feet). You can choose to fire one additional ray with the same characteristics either on the same round (if you can take multiple attacks in a round) or on a subsequent round. Firing the second ray quenches your radiance, and the spell ends.
+ <b>Also appears in</b>   Spell Compendium     

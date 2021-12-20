@@ -1,0 +1,19 @@
+<b>Jaws of the Wolf</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more created wolves
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You turn small wooden carvings into wolves (one for every two caster levels) that appear between you and your opponents.
+The wolves act on their own but obey your mental commands.
+The wolves are normal in all respects except that they have spell resistance 13 and the special ability of frightful presence (see the Monster Manual).
+At the end of the spell, the wolves become carvings again.
+Focus:One carving of a wolf for each that you create.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,9 @@
+<b>Wings of Air, Greater</b>(Draconomicon)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>
+
+ 	
+As wings of air, but the creature's maneuverability improves by two steps � ;from clumsy to average, poor to good, or average to perfect.
+ <b>Also appears in</b>   Spell Compendium     

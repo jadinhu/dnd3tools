@@ -1,0 +1,28 @@
+<b>Dragon Cloud</b>(Book of Exalted Deeds)
+
+Conjuration (Calling) [Air]
+ <b>Level:</b>   Sanctified 8,   
+<b>Components:</b>V, S, Sacrifice
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Special (see text)
+ <b>Effect:</b> One conjured dragon cloud (see text)
+ <b>Duration:</b> 1 min. + 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You must cast this spell outdoors, in a place where clouds are visible.
+It calls forth a spirit of elemental air, binds it to a nearby cloud (either a normal cloud or storm cloud), and gives it a dragonlike form.
+Upon forming, the dragon-shaped cloud swoops toward you, arriving in 1 minute regardless of the actual distance from you.
+(The time it takes to reach you counts toward the spell's duration).
+Once it arrives, you can command the dragon cloud like a summoned creature (see the summon nature's ally I spell in the Player's Handbook for details).
+The dragon cloud speaks Auran.
+At the end of the spell's duration, the dragon cloud evaporates into nothingness as the bound elemental spirit returns to its home plane.
+The dragon cloud cannot pass through liquids or solid objects.
+Sacrifice: 1d3 points of Constitution damage.
+The dragon cloud has the following statistics:
+Dragon Cloud: Huge elemental (air, extraplanar, good); HD 21d8+84; hp 178; Init +10; Spd fly 150 ft. (average); AC 26, touch 14, flat-footed 20; Base Atk +15; Grp +30; Atk +20 melee (2d6+10/19-20, bite); Full Atk +20 melee (2d6+7/19-
+20, bite), +15 melee (2d4 +32, claws); Space/Reach 15 ft. across/15 ft.; SA breath weapon; SQ darkvision 60 ft., damage reduction 10/magic, elemental traits; AL N; SV Fort +11, Ref +18, Will +7; Str 25, Dex 23, Con 18, Int 6, Wis 11, Cha 11.
+Skills and Feats: Listen +19, Spot +19; Dodge, Flyby Attack, Improved Critical (bite), Improved Initiative, Mobility, Spring Attack.
+Breath Weapon (Ex): 100-ft.-long line-shaped burst of lightning every 1d4 rounds; 10d6 points of electricity damage; DC 24 Reflex save for half damage.
+   

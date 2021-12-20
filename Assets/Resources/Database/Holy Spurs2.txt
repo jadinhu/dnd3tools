@@ -1,0 +1,17 @@
+<b>Holy Spurs</b>(Spell Compendium, p. 115)
+
+Transmutation
+ <b>Level:</b>  Paladin 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Your special mount
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You invoke the holy powers and your mount's legs glow with a brilliant yellow radiance.</b>
+	
+This spell increases your special mount's base land speed by 40 feet. This adjustment is treated as an enhancement bonus.
+ <b>Also appears in</b>   Miniatures Handbook     

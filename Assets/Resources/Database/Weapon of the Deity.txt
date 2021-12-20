@@ -1,0 +1,20 @@
+<b>Weapon of the Deity</b>(Complete Divine)
+
+Transmutation
+ <b>Level:</b>  Blackguard 4,  Cleric 4,  Paladin 4,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Target:</b> One weapon you hold
+ <b>Duration:</b> 1 round/level
+
+ 	
+You must be using your deity's favored weapon to cast this spell.
+You may use the weapon as if you had proficiency with it even if you normally do not.
+The weapon gains a +1 enhancement bonus on attack and damage rolls and an additional special ability (see the list below).
+A double weapon gains this enhancement bonus and special ability for only one of its two heads, as chosen by the caster.
+When you reach 9th caster level, the enhancement bonus of the weapon increases to +2.
+At 12th level, the bonus rises to +3, at 15th level it is +4, and at 18th level it is +5.
+The list below includes deities from the core pantheon only, along with the five alignment components.
+If a cleric worshiping a different deity casts this spell, the DM should assign an appropriate special property of the same power level as those listed here.
+ <b>Also appears in</b>   Magic of Faerun  Faiths of Eberron  Ghostwalk  Spell Compendium  Defenders of the Faith: A Guidebook to Clerics and Paladins     

@@ -1,0 +1,20 @@
+<b>Anticold Sphere</b>(Frostburn)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius emanation, centered on you
+ <b>Duration:</b> 10 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You bring into being a mobile, spherical energy field that protects against cold.
+All creatures within the area of the spell are granted immunity to cold.
+In addition, the sphere prevents the entrance of any creature with the cold subtype.
+The effect hedges out such creatures in the area when it is cast.
+This spell may be used only defensively, not aggressively.
+Forcing an abjuration barrier against creatures that the spell keeps at bay collapses the barrier (see Abjuration, page 172 of the Player's Handbook).
+ <b>Also appears in</b>   Spell Compendium     

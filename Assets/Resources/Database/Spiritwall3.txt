@@ -1,0 +1,21 @@
+<b>Spiritwall</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Effect:</b> Wall whose area is up to one 10-ft. square/level or a sphere or hemisphere with a radius of up to 1 ft./level
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates an immobile, swirling mass of greenish-white forms that look like tortured spirits.
+One side of the wall, selected by you, emits a low groaning that causes creatures within a 60-foot spread to make a Will save or flee in panic for 1d4 rounds (this is a sonic fear effect).
+The barrier is semimaterial and opaque, providing total concealment.
+It blocks magical effects and provides nine-tenths cover against physical attacks.
+Creatures can easily move through a spiritwall, but at a cost.
+A living creature that merely touches the wall takes 1d10 points of damage as its life force is disrupted.
+1 living creature that actually passes through the wall takes 1d10 points of damage, as above, and must make a successful Fortitude save or receive one negative level.
+Material Component: A clear, faceted gemstone.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

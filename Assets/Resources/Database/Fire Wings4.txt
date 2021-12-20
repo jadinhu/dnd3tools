@@ -1,0 +1,21 @@
+<b>Fire Wings</b>(Spell Compendium, p. 93)
+
+Transmutation [Fire]
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+<b>In a flash of light and a roar of fire, your arms become wings of flame.</b>
+	
+This spell transforms your arms into wings of brilliant fire. The flame does not damage you or any items you carry. Because your arms are transformed, you cannot hold items in your hands or cast spells that require somatic components, but rings, bracers, and other items worn on your arms when you cast the spell still function normally. The wings allow you to fly at speed of 60 feet (or 40 feet if you wear medium or heavy armor), with good maneuverability. You can charge but not run while flying, and you cannot carry more than a light load aloft. Using a <b>fire wings</b> spell requires only as much concentration as walking, so you can take other actions normally.
+	
+If the spell duration expires while you are aloft, you descend at a rate of 60 feet per round for 1d6 rounds, then fall the rest of the distance if you haven't already landed. Because dispelling a spell effectively ends it, the subjects also descends in this way if the <b>fire wings</b> spell is dispelled, but not if it is negated by and <b>antimagic field</b>. If you are not flying, you can make up to two attacks each round with the fire wings as if they were natural weapons, a successful attack deals 2d6 points of fire damage. The wings can be extinguished (and the spell canceled) by a <b>quench</b> spell, immersion in water, or a wind of hurricane or greater force.
+	
+<b>Material Component:</b> The feather or a bird, which you must burn when you cast the spell.
+	
+<b>Focus:</b> A golden amulet shaped like a phoenix (worth 150 gp)
+ <b>Also appears in</b>   Complete Arcane  Oriental Adventures  Complete Divine     

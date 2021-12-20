@@ -1,0 +1,18 @@
+<b>Ghoul Touch</b>(Player's Handbook v.3.5, p. 235)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Duskblade 2,  Sha'ir 2,  Death Master 2,  Dread Necromancer 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living humanoid touched
+ <b>Duration:</b> 1d6+2 rounds
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Imbuing you with negative energy, this spell allows you to paralyze a single living humanoid for the duration of the spell with a successful melee touch attack.
+Additionally, the paralyzed subject exudes a carrion stench that causes all living creatures (except you) in a 10-foot-radius spread to become sickened (Fortitude negates).
+A neutralize poison spell removes the effect from a sickened creature, and creatures immune to poison are unaffected by the stench.
+Material Component: A small scrap of cloth taken from clothing worn by a ghoul, or a pinch of earth from a ghoul's lair.
+   

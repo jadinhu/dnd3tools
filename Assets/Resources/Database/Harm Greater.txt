@@ -1,0 +1,11 @@
+<b>Harm, Greater</b>(Heroes of Horror)
+
+Necromancy
+ <b>Level:</b>  Cleric 7,  Dread Necromancer 7,    
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+
+ 	
+As harm (see page 239 of the Player's Handbook), except as noted above and in that this spell deals 1d12 points of damage per caster level, to a maximum of 20d12 at 20th level.
+   

@@ -1,0 +1,17 @@
+<b>Vine Mine</b>(Magic of Faerun)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Spread of 10-ft. radius/level
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create and direct the rapid growth of vines, creating a variety of effects.
+When you cast the spell, choose one of the following effects:			entangle (as the spell)		climbing aid (treat as knotted ropes)		bind helpless targets (DC 25 to escape)		hamper movement (as heavy undergrowth)		camouflage (add +4 competence bonus on Hide checks) As a standard action, you may redirect the vines' growth (thus changing the effect).	
+Material Component: A crown of ivy leaves.
+ <b>Also appears in</b>   Spell Compendium     

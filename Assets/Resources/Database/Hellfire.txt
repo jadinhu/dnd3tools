@@ -1,0 +1,16 @@
+<b>Hellfire</b>(Book of Vile Darkness)
+
+Evocation [Evil]
+ <b>Level:</b>   Diabolic 4,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 5-ft.-radius spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster creates a small explosion of brimstone and fire that deals 3d6 points of special diabolic fire damage.
+The diabolic flames are not subject to being reduced by protection from elements (fire), fire shield (chill shield), or similar magic.
+ <b>Also appears in</b>   Fiendish Codex II: Tyrants of the Nine Hells     

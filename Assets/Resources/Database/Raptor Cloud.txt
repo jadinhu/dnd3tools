@@ -1,0 +1,24 @@
+<b>Raptor Cloud</b>(Secrets of Sarlona, p. 128)
+
+Conjuration
+ <b>Level:</b>  Druid 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Swirling cloud of hawklike shadows
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Reflex half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A gray aura flares around you, reshaping itself into a dark cloud of hawklike shadows. You feel a lightness in your limbs, and a surge of protective energy as the cloud shrieks and wheels around you.</b>
+	
+When you cast this spell, a mass of avian shadows surÂ­rounds you, protecting you from attacks even as it grants you buoyant dexterity. The swirling shadows grant you concealment and soft cover (+4 to AC, but you gain no bonus on Reflex saves and cannot use your cover to make Hide checks). Furthermore, any creatures attempting melee attacks against you take 1d8 points of slashing damage from the raptor cloud. Creatures get no save against this damage, but spell resistance (if any) applies.
+	
+Creatures wielding reach weapons can attack you without taking damage, but creatures that have natural reach take damage as above.
+	
+Though a raptor cloud moves with you, you cannot deal damage with it by pushing it against creatures or objects. Only creatures that make melee attacks against you are subject to the cloud's defensive damage. However, you can elect to expend the spell's energy at any point by tarÂ­geting the raptor cloud against a single adjacent creature or object as a standard action. This attack deals 6d8 points of damage (Reflex half) and ends the spell.
+	
+A raptor cloud gives you a certain amount of lift as it swirls around you, granting you a +5 bonus on Jump and Tumble checks as you roll and weave through melee.
+	
+<b>Material Component:</b> The shed claw of a falcon or hawk.</   

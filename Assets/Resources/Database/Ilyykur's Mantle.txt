@@ -1,0 +1,15 @@
+<b>Ilyykur's Mantle</b>(Unapproachable East)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+You cloak yourself in a luminous aura that protects you against hostile magic.
+The aura has two effects: You gain a luck bonus of +1 per 3 caster levels (maximum +5) on saving throws against spells and spell-like abilities, and you gain electricity resistance 10.
+Material Component: An uncut diamond worth at least 50 gp.
+   

@@ -1,0 +1,14 @@
+<b>Guided Arrow</b>(Miniatures Handbook)
+
+Divination
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+Targets of your ranged attacks do not get bonuses to Armor Class because of cover.
+You still can't hit creatures with total cover.
+   

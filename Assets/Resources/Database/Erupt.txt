@@ -1,0 +1,20 @@
+<b>Erupt</b>(Serpent Kingdoms)
+
+Transmutation [Fire]
+ <b>Level:</b>  Cleric 9,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Area:</b> Burst with a radius of 100 ft./level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You draw molten lava up through the ground.
+Every creature within the area that fails a Fortitude saving throw takes 10 points of fire damage per caster level and catches on fire (see Catching on Fire, page 303 of the Dungeon Master's Guide).
+Furthermore, anyone wearing metal armor who fails the saving throw is also affected as though by a heat metal spell.
+A successful saving throw negates the heat metal effect and halves the damage.
+Structures and unattended objects automatically take full damage (no save).
+Erupt leaves its entire area a blackened ruin incapable of supporting plant or animal life for a full year.
+   

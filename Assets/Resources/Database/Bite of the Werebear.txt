@@ -1,0 +1,19 @@
+<b>Bite of the Werebear</b>(Spell Compendium, p. 27)
+
+Transmutation
+ <b>Level:</b>  Druid 6,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With an inhuman roar, your face extends and expands, and your hands enlarge into clawed paws. Powerful muscle builds under your skin, and you become a half-bear creature.</b>
+	
+You gain a +16 enhancement bonus to Strength, a +2 enhancement bonus to Dexterity, a +8 enhancement bonus to Constitution, and a +7 enhancement bonus to natural armor. Your hands become claws, granting you two claw attacks, and your mouth becomes that of a bear, giving you a bite attack. You can attack with both claws at your full attack bonus, but your bite attack takes a � ;2 penalty (as if you had the Multiattack feat). Each claw deals 1d8 points of damage (1d6 if you are Small) + your Str modifier, and your bite deals 2d8 points of damage (2d6 if you are Small) + 1/2 your Str modifier. You gain the benefits of the Blind-Fight and Power Attack feats, as well. If your base attack bonus is +6 or higher, you do not gain any additional attacks.
+	
+Material Component: A tuft of bear fur.
+   

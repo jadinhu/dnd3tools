@@ -1,0 +1,19 @@
+<b>Trance of the Verdant Domain</b>(Dragon Magic)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Hexblade 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A halo of green-gold light surrounds you, and then snakes outward into the mind of a nearby foe.
+You project an instantaneous surge of mental energy that overwhelms a weak-minded foe.
+The target stops and stares blankly, fascinated for 3 rounds.
+In addition, any creature under the effect of this spell takes a -2 penalty on saves against mind-affecting effects you create.
+Special: A green dragon capable of casting 6th-level sorcerer spells can cast this spell as a swift action.
+   

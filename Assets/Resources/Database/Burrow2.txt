@@ -1,0 +1,19 @@
+<b>Burrow</b>(Spell Compendium, p. 41)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You invoke the spell and your hands glow with a yellow aura, the aura lengthening and forming into translucent mole hands. The smell of freshly turned earth fills the air.</b>
+	
+The subject can burrow through earth and loose rock (but not solid stone) with a speed of 30 feet (or 20 feet if it wears medium or heavy armor, or if it carries a medium or heavy load).
+	
+<b>Arcane Focus:</b> A claw from a burrowing creature.
+ <b>Also appears in</b>   Underdark  Races of Faerun     

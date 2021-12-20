@@ -1,0 +1,26 @@
+<b>Grimwald's Graymantle</b>(Forgotten Realms Campaign Setting)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You imbue a skull or bone with a pale gray radiance and then hurl (or touch) the skull or bone to hit a target creature.
+You can attack with the skull on the round you cast the spell, but otherwise it is a standard action.
+If the skull or bone hits the target, the gray radiance is transferred from the skull to the creature, covering it entirely.
+For the duration of the spell, the creature cannot regain hit points or ability score points by any means.
+Nor can the creature remove negative levels.
+Natural regeneration (such as that of trolls) is stopped, as are the effects of a ring of regeneration, potion of healing, or staff of curing.
+Spells that return lost hit points (cure light wounds, heal) do not work on that individual.
+Other necromantic spells function normally, including those that cure other afflictions (disease, blindness).
+Those that remove hit points (cause light wounds) are unaffected by the spell.
+The subject can improve his current hit points by boosting his Constitution score and can receive temporary hit points (from an aid spell, for example).
+Upon the expiration of the spell, automatic healing abilities and items such as a ring of regeneration or a troll's regeneration ability begin to function again.
+Material Component: The skull or bone used.
+   

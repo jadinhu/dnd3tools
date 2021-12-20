@@ -1,0 +1,26 @@
+<b>Spirit Ally, Lesser</b>(Oriental Adventures)
+
+Conjuration (Calling) [see text]
+ <b>Level:</b>  Shaman 4,   Celestial 4,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One summoned spirit of up to 8 HD
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+By casting this spell, you request the services of a spirit (of up to 8 HD) that shares your philosophical alignment.
+If you know an individual spirit's name, you may request that individual by speaking the name during the casting of
+the spell (though you might get a different creature anyway).
+You may ask the spirit to perform one task for you, and the spirit may request some service in return.
+The more demanding your request, the greater return favor the spirit asks for.
+This bargaining takes at least 1 round, so any actions by the spirit begin in the round after it arrives.
+If you agree to the service, the spirit performs the task you requested, reports back to you afterward (if possible), and returns to its home.
+You are honor bound to perform the return favor.
+A spirit may accept some form of payment, such as a magic item, in return for its service.
+The spirit may keep it or may deliver the item to another shaman somewhere else, where it can help the spirit's cause.
+Note: When you use a calling spell that calls an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type.
+For example, lesser spirit ally is a fire spell when it calls a fire elemental.
+   

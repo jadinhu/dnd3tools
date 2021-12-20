@@ -1,0 +1,15 @@
+<b>Mind Over Body</b>(Tome of Battle: The Book of Nine Swords, p. 64)
+
+Diamond Mind (Counter)
+ <b>Level:</b>  Swordsage 3,  Warblade 3,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>Your training and mental toughness allow you to use your focus to overcome physical threats. By focusing your mind, you ignore the effect of a deadly poison or debilitating sickness.</b>
+	
+Your diligent training and intense mental focus combine to allow you to overcome physical threats with the raw power of your mind.
+	
+You can use this maneuver any time you would be required to make a Fortitude save. Make a Concentration check instead of the Fortitude save and use the result of that check to determine the save?s success. You must use this maneuver before you attempt the Fortitude save. A result of a natural 1 on your Concentration check is not an automatic failure.</p   

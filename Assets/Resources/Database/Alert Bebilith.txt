@@ -1,0 +1,19 @@
+<b>Alert Bebilith</b>(Book of Vile Darkness)
+
+Conjuration (Calling) [Evil]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One bebilith
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When in the presence of a demon, the caster conjures a bebilith � ;a demon that hunts other demons � ;to kill or chase off the original demon.
+This spell is a risky proposition, however.
+To determine the effect of the spell, subtract the Hit Dice of the demon from 12 (the HD of the bebilith), add the result to a caster level check, and consult the above table.
+If this spell is cast while not in the presence of a demon, the bebilith acts as if the caster level check result was a 10.
+Material Component: A bit of demon's flesh and a lump of iron.
+   

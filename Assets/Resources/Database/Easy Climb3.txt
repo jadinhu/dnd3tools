@@ -1,0 +1,17 @@
+<b>Easy Climb</b>(Spell Compendium, p. 76)
+
+Transmutation
+ <b>Level:</b>  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Vertical path 10 ft. wide and 20 ft. tall/level
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+<b>By pushing upward with your hand and speaking in a commanding voice, you cause indentations to form in the surface you designate.</b>
+	
+You create a path of handholds and footholds up the surface of a cliff face, tree trunk, wall, or other vertical obstacle. This effect changes the surface to the equivalent of a very rough wall (Climb DC 10).
+ <b>Also appears in</b>   Complete Adventurer  Magic of Faerun     

@@ -1,0 +1,22 @@
+<b>Dancing Blade</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 4 (Metal),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One sword
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast this spell, you cause the target sword to hover and fight in the air, defending the character you designate.
+The sword must be either unattended or in the possession of the willing ally who will benefit from the spell.
+The sword fights using that character's base attack bonus and its base damage, with no adjustment for Strength or other ability scores.
+If the character is not proficient with the sword, the sword suffers a -4 penalty on its attack rolls.
+The sword stays within 5 feet of the character you designate, and drops to the ground if that character is dying or dead.
+Controlling the sword requires no concentration, and the character can fight with another weapon at the same time.
+The dancing blade prevents two opponents from receiving a flanking bonus against the character, though additional opponents can still gain a flanking bonus.
+Material Component: A tiny stick puppet.
+ <b>Also appears in</b>   Complete Arcane  Player's Handbook II     

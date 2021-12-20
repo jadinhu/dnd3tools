@@ -1,0 +1,22 @@
+<b>Ironguard, Greater</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You or a creature you touch is immune to nonmagical metal and magic metal with less than a +3 enhancement bonus.
+Metal items pass through you, and you can walk through metal barriers such as iron bars.
+Spells, spell-like abilities, and supernatural effects affect you normally.
+If the spell expires while metal is inside you, the object is shunted out of your body (or you away from the metal, if it is an immovable object such as a set of iron bars).
+You and the object each take 1d6 points of damage as a result (ignoring the object's hardness for determining damage to it).
+Because you pass through metal, you may ignore armor bonuses from metal armor on opponents you attack with unarmed attacks.
+Material Component: A tiny shield of wood, glass, or crystal.
+Focus: A small nugget of adamantine worth 100 gp.
+ <b>Also appears in</b>   Spell Compendium     

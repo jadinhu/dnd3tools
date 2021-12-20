@@ -1,0 +1,12 @@
+<b>Teleport, Mass</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Transmutation [Teleportation]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Target:</b> Touched objects or touched willing creatures weighing up to 100 lb./level
+
+ 	
+As teleport, except as noted above.
+You do not have to teleport yourself when you cast a mass teleport spell.
+ <b>Also appears in</b>   Magic of Faerun     

@@ -1,0 +1,15 @@
+<b>Zeal</b>(Spell Compendium, p. 244)
+
+Abjuration
+ <b>Level:</b>  Blackguard 2,  Paladin 2,   Competition 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Swift Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>You invoke a divine shield to protect you as you close with a chosen opponent.</b>
+	
+Choose a foe as you cast this spell. You gain a +4 deflection bonus to AC against all attacks of opportunity from opponents other than the chosen foe. Also, you can move through enemies as if they were allies for the duration of this spell, as long as you finish your movement closer to your chosen foe than when you began it.
+ <b>Also appears in</b>   Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins     

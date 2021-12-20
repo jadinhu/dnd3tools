@@ -1,0 +1,17 @@
+<b>Sniper's Shot</b>(Spell Compendium, p. 194)
+
+Divination
+ <b>Level:</b>  Assassin 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>While muttering a short chant you focus your awareness, looking only at the areas of your foe that seem most vital to its survival.</b>
+	
+Your ranged attacks made before the start of your next turn can be sneak attacks regardless of the distance between you and your target. You must still fulfill the other conditions for making a sneak attack against the target.
+	
+This spell doesn't grant you the ability to make a sneak attack if you don't already have that ability.
+ <b>Also appears in</b>   Complete Adventurer     

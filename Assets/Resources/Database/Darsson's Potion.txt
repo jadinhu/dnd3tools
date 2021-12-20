@@ -1,0 +1,19 @@
+<b>Darsson's Potion</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Knight of the Weave 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> Flask of water touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You transform the water in a flask so that it is capable of storing a spell in the manner of a potion.
+On your next turn, you or another spellcaster can cast a
+spell into the water, transforming the water into a potion of the appropriate type.
+Only spells suitable for making potions can be used this way.
+The person casting the spell to be stored must spend XP as if a potion were being created with the Brew Potion feat.
+   

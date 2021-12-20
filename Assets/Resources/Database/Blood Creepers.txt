@@ -1,0 +1,23 @@
+<b>Blood Creepers</b>(Player's Handbook II)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Thorny vines burst from the creature's body, punching through bone, flesh, and skin to enwrap its arms and legs and tether it to the ground.
+The subject takes 1 point of piercing damage per caster level (maximum 15) as the creepers rip apart its body.
+In addition, the creepers entwine securely around it, trapping its legs and arms.
+The subject is immobilized (unable to move from its current location) and entangled.
+Each round, the subject takes an extra 1 point of piercing damage per caster level (maximum 15) unless it is able to escape.
+A trapped creature can attempt to break free with a DC 20 Strength check or wriggle free with a DC 25 Escape Artist check, either of which ends the spell if successful.
+Other creatures can use the aid another action as normal on these checks.
+They can make attacks against these vines as if they were wooden objects with a thickness of 3 inches (see Smashing an Object, PH 185).
+Despite its name, blood creepers is equally effective on living and nonliving creatures.
+   

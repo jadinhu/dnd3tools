@@ -1,0 +1,22 @@
+<b>Feign Death</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One willing, living creature whose level or Hit Dice do not exceed the caster's
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You put the recipient into a deathlike condition.
+At your option, this can be a cataleptic state that is impossible to distinguish from death, or the subject can appear to be in a coma or deep sleep.
+Although able to smell, hear, and know what is going on, the subject is blind and has no sense of touch or pain.
+The subject does not need to eat, drink, or breathe.
+While the spell is in effect, the subject is immune to subdual damage, and any normal or ability damage inflicted is reduced by half.
+In addition, the subject is immune to mind-affecting attacks, paralysis, poison, disease, and energy drain.
+The effects of any poison or disease already affecting the subject when the spell takes effect are halted until the spell ends.
+If the subject has any negative levels when the spell takes effect, the saving throw to remove it is delayed until the spell ends.
+   

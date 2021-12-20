@@ -1,0 +1,18 @@
+<b>Heart Ripper</b>(Oriental Adventures)
+
+Necromancy
+ <b>Level:</b>  Wu Jen 4,   Maho 4,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> 1d4 +1/level living creatures in a 20-ft. cube
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With the sweep of a hand, you send invisible bolts of force surging toward the targets.
+If a target has fewer than 5 Hit Dice and it fails its saving throw, the unleashed power caves in the creature's chest and drives its heart from the body, instantly killing the creature.
+This spell affects creatures with the fewest Hit Dice first and then affects those with the next lowest Hit Dice, and so on, until reaching the maximum given above or until it has targeted all creatures within the 20-foot cube.
+Undead, constructs, oozes, and other creatures with no anatomy or no heart are unaffected by the spell, as are all creatures with more than 5 Hit Dice.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

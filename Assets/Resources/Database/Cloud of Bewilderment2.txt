@@ -1,0 +1,16 @@
+<b>Cloud of Bewilderment</b>(Player's Guide to FaerÃ»n)
+
+Evocation
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft. cone
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You breathe out an invisible cone of noxious air.
+Each creature in the area is nauseated for 1d6 rounds.
+ <b>Also appears in</b>   Magic of Faerun     

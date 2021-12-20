@@ -1,0 +1,23 @@
+<b>Scattergloom</b>(Dragons of Faerun, p. 118)
+
+Evocation [Darkness]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 100-ft.-radius burst
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>When you speak the triggering phrase, six puffs of shadow burst forth from your location, flying out to cover the six areas you target in your mind.</b>
+	
+You create four cylinders of magical <b>darkness</b> within the area, which randomly and rapidly move around at ground level, giving concealment to nearby creatures. The cylinders of shadow (called &quot;glooms&quot;) occupy space as Medium creatures (a 5-foot square), are 10 feet tall, and cannot leave the area of the spell.
+	
+A creature fully engulfed by one or more of these glooms has concealment. This concealment applies to attacks made against or by creatures in these glooms.
+	
+The glooms are under your limited control. While the spell is in effect, you can use a free action on your turn to direct a controlled gloom to attach itself to and envelop a particular target and follow it. The target can attempt a Will saving throw to avoid being enveloped. Success indicates the gloom dissipates; failure means the target is surrounded by magical darkness. Once it is attached to a target, a gloom stays with that target until the spell's duration expires.
+	
+<b>Origin</b>: This spell was created centuries ago by a steel dragon who eschewed human contact and masqueraded as a cruel necromancer who dwelt in an isolated tower.
+   

@@ -1,0 +1,20 @@
+<b>Rigor Mortis</b>(Heroes of Horror)
+
+Necromancy
+ <b>Level:</b>  Cleric 2,  Death Delver 2,    
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1d6+2 rounds
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell allows you to wrap a single target in death's embrace, making him both feel and appear dead for the duration of the spell.
+You must be able to touch the target, and the target must have a Wisdom score, but otherwise the spell can affect any creature, including intelligent undead.
+You must succeed on a melee touch attack to affect unwilling targets, and those who fail their saving throws immediately fall to the ground as though dead.
+All vital functions (if any) are suspended; subjects of this spell do not breathe, pump blood, or otherwise indicate in any way that they still live.
+Any physical harm done to someone in this state immediately grants another saving throw to awaken from the artificial torpor.
+Material Component: A pinch of ash from a cremated body of any kind.
+   

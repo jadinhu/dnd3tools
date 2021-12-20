@@ -1,0 +1,17 @@
+<b>Aberrate</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, Fiend
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster transforms one creature into an aberration.
+	
+The subject's form twists and mutates into a hideous mockery of itself. The subject's type changes to aberration, and it gains a +1 natural armor bonus to AC (due to the toughening and twisting of the flesh) for every four levels the caster has, up to a maximum of +5.
+   

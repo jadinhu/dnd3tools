@@ -1,0 +1,19 @@
+<b>Bastion of Good</b>(Book of Exalted Deeds)
+
+Abjuration [Good]
+ <b>Level:</b>  Apostle of Peace 7,  Cleric 7,    
+<b>Components:</b>V, S, Abstinence
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> 20-ft.-radius spherical emanation centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A nimbus of light surrounds you, protecting you and those around you from spell effects and the attacks of evil creatures.
+The aura excludes all spell effects of up to 3rd level, exactly as a minor globe of invulnerability does.
+In addition, the nimbus protects creatures within it as a magic circle against evil at double strength.
+Warded creatures gain a +4 deflection bonus to AC and a +4 resistance bonus on saves against attacks from evil creatures, and they are protected from possession, mental control, and bodily contact by summoned or conjured creatures.
+Abstinence Component: You must fast for 24 hours before casting this spell.
+   

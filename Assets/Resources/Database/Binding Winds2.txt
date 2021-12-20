@@ -1,0 +1,22 @@
+<b>Binding Winds</b>(Magic of Faerun)
+
+Evocation
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Concentration
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a flurry of air to encircle and hold your target.
+The binding winds do not move.
+They become a physical barrier surrounding the subject.
+The target may act normally, except that she cannot move from her current location.
+The winds carry her voice away, so she can speak but will not be heard, and she cannot hear anything but the roar of the winds.
+Furthermore, no sonic or language-dependent spells or effects may be cast into or out of the binding winds (though spells cast by the caster upon himself function normally).
+Ranged attacks made into or out of the binding winds suffer a -2 penalty.
+Binding winds hold flying creatures in midair.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

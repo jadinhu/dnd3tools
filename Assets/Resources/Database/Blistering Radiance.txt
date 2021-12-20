@@ -1,0 +1,19 @@
+<b>Blistering Radiance</b>(Complete Arcane)
+
+Evocation [Fire, Light]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,  Cleric 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 50-ft.-radius spread
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None and Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A blazing ball of light is hurled toward the point you designate, erupting into a brilliant hovering sphere.
+All sighted creatures in the area are dazzled (no save), and the heat from the blistering radiance deals 2d6 points of fire damage to all creatures and objects in the area each round on your turn (Fortitude save for half).
+Like fireball, blistering radiance erupts if it strikes any material body or solid barrier before attaining the prescribed range, and you must make a successful ranged touch attack to send the sphere through a narrow opening or passage.
+Blistering radiance counters or dispels any darkness spell of equal or lower level.
+Material Component: A bit of tinder and a small lens.
+ <b>Also appears in</b>   Spell Compendium     

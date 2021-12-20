@@ -1,0 +1,18 @@
+<b>Choking Sands</b>(Sandstorm)
+
+Necromancy
+ <b>Level:</b>  Cleric 5,  Druid 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous; see text
+ <b>Saving Throw:</b> Fortitude negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You coat the target's lungs with dust and sand.
+The target can cough up the sand by taking a full-round action and making a Fortitude save.
+If it chooses not to do so, it must make Constitution checks to avoid suffocation (see page 304 of the Dungeon Master's Guide).
+Material Component: A tiny stuffed animal filled with sand.
+   

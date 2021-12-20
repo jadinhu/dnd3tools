@@ -1,0 +1,21 @@
+<b>Swim</b>(Spell Compendium, p. 217)
+
+Transmutation [Water]
+ <b>Level:</b>  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Making the sound of crashing waves with your throat completes the spell. With a wave of your hand, your subject seems more streamlined, with a hint of webbed appendages.</b>
+	
+This spell gives the recipient a swim speed of 30 feet (although not the ability to breathe water or hold one's breath beyond normal limits). As long as the creature isn't carrying more than a light load, it can swim without making Swim checks. It also gains a +8 bonus on any Swim checks to perform special actions or avoid hazards, though it still takes the normal penalty for weight carried ( � ;1 per 5 pounds). The recipient can choose to take 10 on Swim checks, even if rushed or threatened, and can use the run action while swimming if it swims in a straight line.
+	
+If the creature is carrying more than a light load, it must make Swim checks to move (taking the normal penalty for weight carried), but all other benefits of the spell still apply.
+	
+Material Component: A goldfish scale.
+ <b>Also appears in</b>   Stormwrack  Complete Arcane  Oriental Adventures     

@@ -1,0 +1,17 @@
+<b>Monstrous Thrall</b>(Spell Compendium, p. 142)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>   Domination 9,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 24 hours/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Calling upon your reserves of personal power, you reach outward with your mind and gain control of the will of your foe.</b>
+	
+This spell functions like <b>true domination</b> (page 224), except that the subject can be any creature and is permanently dominated if it fails its initial Will save. A subject ordered to take an action against its nature receives a saving throw with a -4 penalty to resist taking that particular action. If the save succeeds, the subject still remains your thrall despite its minor mutiny. Once a subject makes a successful saving throw to resist a specific order, it makes all future saving throws to resist taking that specific action without a penalty.
+ <b>Also appears in</b>   Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins  Draconomicon     

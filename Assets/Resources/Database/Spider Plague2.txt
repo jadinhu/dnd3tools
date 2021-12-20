@@ -1,0 +1,23 @@
+<b>Spider Plague</b>(Spell Compendium, p. 201)
+
+Conjuration (Summoning) [see text]
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Five summoned spiders
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your eyes rolling wildly in their sockets, you cackle the last few words to call upon your deity's power. A number of massive spiders spring up from the earth in the location you indicate.</b>
+	
+This spell summons five celestial or fiendish Large monstrous spiders (MM 289). They appear where you designate and act immediately, on your turn. They attack your opponents to the best of their ability. If you can communicate with the spiders, you can direct them not to attack, to attack particular enemies, or to perform other actions.
+	
+A celestial spider summoned by this spell has damage reduction 5/magic; resistance to acid 5, cold 5, and electricity 5; spell resistance 9; and a smite evil attack that provides a +4 bonus on one damage roll.
+	
+A fiendish creature (MM 107) summoned by this spell has damage reduction 5/magic; resistance to acid 5 and fire 5; spell resistance 9; and a smite good attack that provides a +4 bonus on one damage roll.
+	
+When you use a summoning spell to summon an evil or good creature, it is a spell of that type.
+ <b>Also appears in</b>   Savage Species     

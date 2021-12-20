@@ -1,0 +1,19 @@
+<b>Arcane Fusion</b>(Complete Mage)
+
+Universal
+ <b>Level:</b>  Sorcerer 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+You weave two spells together in your mind and release them in a single burst of magic.
+When you cast this spell, choose any 1st-level sorcerer spell you know and any 4th-level or lower sorcerer spell you know.
+Neither spell chosen can have a casting time longer than 1 standard action.
+Both spells take effect in the order you choose, as if you had cast them one after the other using only one standard action, but you don't expend any additional spell slots to cast those spells.
+Effectively, you cast two other spells using this spell's 5th-level spell slot.
+Each of the chosen spells has its normal effect, including range, target, area, duration, saving throw, and spell resistance as appropriate to the spell's level.
+If either spell requires a material component, focus, XP cost, or other special cost, these must be used or paid as part of the casting of arcane fusion.
+   

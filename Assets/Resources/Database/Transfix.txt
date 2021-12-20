@@ -1,0 +1,21 @@
+<b>Transfix</b>(Complete Arcane)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,  Wu Jen 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> One or more humanoids within a 10-ft.-radius emanation
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell causes any Medium or smaller humanoids within the area of the spell to become paralyzed.
+When casting the spell, you must specify a condition that will end it (&quot;Wait here until the dragon arrives&quot;), even if that condition can never feasibly be met (&quot;Stay here until the sun shines at night&quot;).
+Subjects in the area that fail their saves immediately become aware of the condition, but they cannot communicate it due to their paralyzed state (although someone could use a spell such as detect thoughts to ascertain the condition).
+For every hour the creatures are transfixed before the condition is met, they are allowed another saving throw to break free of the spell's effect.
+So long as the spell operates, any Medium or smaller humanoid that enters its area must make a successful saving throw or become transfixed with the same exit conditions (they too become aware of the exit conditions on becoming transfixed).
+Likewise, any creatures removed from the area are freed from the spell's effects.
+Material Component: A drop of pine resin.
+ <b>Also appears in</b>   Oriental Adventures  Spell Compendium     

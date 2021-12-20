@@ -1,0 +1,17 @@
+<b>Spell Snare, Greater</b>(Magic of Eberron, p. 102)
+
+Abjuration
+ <b>Level:</b>  Artificer 6,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> Eberron dragonshard touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None (object)
+ <b>Spell Resistance:</b> No (object)
+
+ 	
+As <b>spell snare</b>, except that the dragonshard component of this spell can absorb a spell or spell-like ability of up to 6th level.
+	
+<b>Material Component:</b> An Eberron dragonshard worth at least 100 gp. Unlike most material components, the dragonshard is consumed when the spell snare effect functions, not when the spell is cast.
+   

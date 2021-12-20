@@ -1,0 +1,25 @@
+<b>Knock</b>(Player's Handbook v.3.5, p. 246)
+
+Transmutation
+ <b>Level:</b>  Telflammar Shadowlord 1,  Trapsmith 1,  Thayan Slaver 1,  Savant 2 (Arcane),  Sha'ir 2,  Wu Jen 2,  Sorcerer 2,  Beguiler 2,  Ebonmar Infiltrator 2,  Hoardstealer 2,  Wizard 2,  Urban Druid 2,   Greed 3,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One door, box, or chest with an area of up to 10 sq. ft./level
+ <b>Duration:</b> Instantaneous; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The knock spell opens stuck, barred, locked, held, or arcane locked doors.
+It opens secret doors, as well as locked or trick-opening boxes or chests.
+It also loosens welds, shackles, or chains (provided they serve to hold closures shut).
+If used to open a arcane locked door, the spell does not remove the arcane lock but simply suspends its functioning for 10 minutes.
+In all other cases, the door does not relock itself or become stuck again on its own.
+Knock does not raise barred gates or similar impediments (such as a portcullis), nor does it affect ropes, vines, and the like.
+The effect is limited by the area.
+A 3rd-level caster can cast a knock spell on a door of 30 square feet or less (for example, a standard 4-foot-by-7-foot
+door).
+Each spell can undo as many as two means of preventing egress.
+Thus if a door is locked, barred, and held, or quadruple locked, opening it requires two knock spells.
+   

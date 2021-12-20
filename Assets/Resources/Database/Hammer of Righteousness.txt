@@ -1,0 +1,21 @@
+<b>Hammer of Righteousness</b>(Book of Exalted Deeds)
+
+Evocation [Force, Good]
+ <b>Level:</b>   Sanctified 3,   
+<b>Components:</b>V, S, Sacrifice
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Magic warhammer of force
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A great warhammer of positive energy springs into existence, launches toward a target that you can see within the range of the spell, and strikes unerringly.
+The hammer of righteousness deals 1d6 points of damage per caster level to the target, or 1d8 points of damage per caster level if the target is evil.
+The caster can decide to deal nonlethal damage instead of lethal damage with the hammer, or can split the damage evenly between the two types.
+How the damage is split must be decided before damage is rolled.
+The hammer is considered a force effect and has no miss chance when striking an incorporeal target.
+A successful Fortitude save halves the damage.
+Sacrifice: 1d3 points of Strength damage.
+   

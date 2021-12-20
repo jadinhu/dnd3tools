@@ -1,0 +1,24 @@
+<b>Desiccating Bubble</b>(Savage Species)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> 3-ft.-radius sphere of air
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A globe of supernaturally dry air rolls in whichever direction you point and engulfs those it strikes.
+It moves 30 feet per round and can leap up to 30 feet to strike a target.
+If it enters a space with a creature, it stops moving for the round and deals 2d4 points of damage as it evaporates moisture from the target.
+(The subject can negate this damage with a successful Reflex save).
+Oozes, creatures composed of water (such as water elementals), and creatures with the aquatic subtype take 2d6 points of damage.
+The bubble moves as long as you actively direct it (a move-equivalent action for you); otherwise, it merely stays at rest.
+The surface of the bubble has a spongy, yielding consistency (similar to that of a soap bubble, but not fragile and allowing objects to pass through it without affecting the spell) and so does not cause damage except by absorbing moisture.
+It cannot batter down large obstacles.
+The bubble winks out if it exceeds the spell's range.
+Arcane Material Component: A tiny bag or bladder filled with air, and a sprinkle of dust.
+ <b>Also appears in</b>   Spell Compendium     

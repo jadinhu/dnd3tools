@@ -1,0 +1,19 @@
+<b>Bone Chill</b>(Frostburn)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> No
+
+ 	
+A ray of burning cold erupts from your fingertips.
+Corporeal undead struck by the ray are covered in a layer of ice, rendering the subject immobile as if held.
+Each round on its turn, the subject may attempt a new saving throw to break free of the ice.
+(This is a full-round action that does not provoke attacks of opportunity).
+Material Component: A small piece of bone and a 1-inch cube of ice.
+   

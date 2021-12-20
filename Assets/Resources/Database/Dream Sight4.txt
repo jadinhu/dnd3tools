@@ -1,0 +1,17 @@
+<b>Dream Sight</b>(Spell Compendium, p. 74)
+
+Divination
+ <b>Level:</b>   Dream 6,   
+<b>Components:</b>S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> See text
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+<b>In sleep your spirit rises to travel about and observe the world.</b>
+	
+You fall into a deep sleep while your spirit leaves your body invisibly in incorporeal form and travels to distant locations. Your spirit can move 100 feet per round, and can see and hear anything you could if you were in the same location. The spirit can be blocked by any spell that wards incorporeal creatures, and it can be detected and attacked in the same way as incorporeal creatures can. Your spirit can do nothing bu move and observe &#8211; it cannot speak, attack, cast spells, or perform any other action.
+	
+At the end of the spell, your spirit instantaneously return to your body and you wake up. If your body is disturbed or attacked while your spirit is wandering, the spell ends immediately.
+ <b>Also appears in</b>   Oriental Adventures  Heroes of Horror  Complete Divine     

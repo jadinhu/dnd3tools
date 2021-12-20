@@ -1,0 +1,18 @@
+<b>Touchstone Lightning</b>(Planar Handbook)
+
+Transmutation [Electricity]
+ <b>Level:</b>  Druid 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One or more rays of electricity
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You can convert an unused usage of your higher-order planar touchstone ability into a ray of electricity (see the Planar Touchstone feat, page 41).
+This ray exhausts one use of your higher-order ability and deals 5d6 points of electricity damage to the target with a successful ranged touch attack.
+For every five levels gained above 7th, you may fire one additional ray of electricity (to a maximum of three rays at 17th level).
+Each ray exhausts one of your higher-order ability uses.
+   

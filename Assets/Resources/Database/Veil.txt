@@ -1,0 +1,23 @@
+<b>Veil</b>(Player's Handbook v.3.5, p. 298)
+
+Illusion (Glamer)
+ <b>Level:</b>  Thayan Slaver 4,  Bard 6,  Sorcerer 6,  Wizard 6,  Beguiler 6,  Wu Jen 6,  Sha'ir 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One or more creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> Concentration + 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes; see text
+
+ 	
+You instantly change the appearance of the subjects and then maintain that appearance for the spell's duration.
+You can make the subjects appear to be anything you wish.
+A party might be made to resemble a mixed band of sprites led by a treant.
+The subjects look, feel, and smell just like the creatures the spell makes them resemble.
+Affected creatures resume their normal appearances if slain.
+You must succeed on a Disguise check to duplicate the appearance of a specific individual.
+This spell gives you a +10 bonus on the check.
+Unwilling targets can negate the spell's effect on them by making Will saves or with spell resistance.
+Those who interact with the subjects can attempt Will disbelief saves to see through the glamer, but spell resistance doesn't help.
+   

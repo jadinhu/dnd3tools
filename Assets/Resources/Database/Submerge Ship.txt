@@ -1,0 +1,24 @@
+<b>Submerge Ship</b>(Spell Compendium, p. 211)
+
+Evocation [Water]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Ship touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Holding forth a miniature rudder, you touch the target ship. Immediately you feel connected to it, knowing the intricate details of its construction. You sense an invisible aura surrounding the ship and permeating its every space. Although it seems to be riding lower in the water than its weight would suggest, you instinctively know that you can control its every movement.</b>
+	
+You grant the ship touched a swim speed of 60 feet and the ability to move beneath the surface of the water. You can control the ship's speed and direction as a free action. All interior spaces of the ship remain dry even if a doorway or porthole is open while the ship is underwater. Any creature aboard
+the ship when the spell is cast can move about the ship with ease (including climbing and jumping) as if it were afloat on a calm sea. Such creatures can breathe water for the duration of the spell as long as they remain within 10 feet of the ship. External forces, such as a storm or an angry dragon, can still jostle the ship and cause it to shake and possibly knock passengers and objects from it, but nothing falls from the ship as a result of your direction of its movement.
+	
+You can transfer control of the ship to another individual by giving that individual the miniature rudder you used as a focus to cast the spell. If the focus is ever lost or becomes unattended, the spell's duration expires.
+	
+Once the spell ends (either because the duration expired, the focus was lost or became unattended, or the magic was successfully dispelled), the magic lingers for 1 additional round per caster level. During this time, the ship ascends toward the water's surface at a rate of 60 feet per round. If the ship is still underwater when this additional time runs out, it immediately sinks, and its passengers risk drowning.
+	
+Focus: A miniature wooden rudder inlaid with silver, worth 2,500 gp.
+   

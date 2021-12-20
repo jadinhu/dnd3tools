@@ -1,0 +1,16 @@
+<b>Distracting Ember</b>(Tome of Battle: The Book of Nine Swords, p. 52)
+
+Desert Wind (Boost) [Fire]
+ <b>Level:</b>  Swordsage 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 30 ft.
+ <b>Effect:</b> One summoned fire elemental
+ <b>Duration:</b> End of turn
+
+ 	
+<b>A wave of heat sweeps over the area, forms a small dust funnel, and ignites into flame next to your foe.</b>
+	
+This boost allows you to conjure a Small fire elemental (MM 99) to threaten your enemy, providing you or an ally with the benefit of a flanking position. You can use this ability to place the elemental in any space within range. The elemental remains until the end of your current turn. It threatens all creatures within its reach. It takes no actions or attacks of opportunity during your turn.
+This maneuver is a supernatural ability.
+   

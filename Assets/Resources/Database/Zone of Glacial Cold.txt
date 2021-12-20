@@ -1,0 +1,16 @@
+<b>Zone of Glacial Cold</b>(Frostburn)
+
+Conjuration [Cold]
+ <b>Level:</b>  Druid 2,  Ranger 2,  Sorcerer 2,  Wizard 2,  Disciple of Thrym 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> 20-ft. radius
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a zone of icy cold within the spell's area, dealing 1d6 points of cold damage per round.
+Arcane Material Component: A snowball.
+   

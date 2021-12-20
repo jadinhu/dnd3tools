@@ -1,0 +1,16 @@
+<b>Protection from Charm</b>(Oriental Adventures)
+
+Abjuration
+ <b>Level:</b>  Wu Jen 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The recipient of this spell gains a +1 resistance bonus for every three caster levels (maximum +5) on any Will saving throw against charm or compulsion effects.
+Material Component: A piece or hair or other item from the body of a creature with an innate charm or dominate person ability, such as a succubus or vampire.
+ <b>Also appears in</b>   Complete Arcane     

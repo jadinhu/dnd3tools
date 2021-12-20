@@ -1,0 +1,21 @@
+<b>Lastai's Caress</b>(Book of Exalted Deeds)
+
+Enchantment (Compulsion) [Good, Mind-Affecting]
+ <b>Level:</b>  Cleric 2,   Pleasure 2,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One known evil creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your gentle touch fills the target with tremendous feelings of love and compassion, and has the power to unnerve and debilitate evil creatures.
+You must succeed on a melee touch attack to affect an unwilling target.
+It has no effect on a creature that you do not know is evil.
+An evil creature touched by the spell must wrestle with the pleasant feelings invoked by the spell.
+Roll on the table below at the beginning of the creature's turn each round to see what condition applies to the subject in that round.
+Instead of rolling on the table above, the caster may elect to leave the creature shaken for the duration of the spell.
+Material Component: A peach seed.
+   

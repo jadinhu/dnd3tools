@@ -1,0 +1,10 @@
+<b>Halaster's Fetch Vi</b>(City of Splendors: Waterdeep)
+
+Conjuration (Calling)
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>
+
+ 	
+As summon monster VI, except called creatures do not disappear at the end of the spell's duration.
+However, they become free-willed and outside the control of the caller after the spell expires.
+   

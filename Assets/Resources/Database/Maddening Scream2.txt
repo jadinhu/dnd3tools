@@ -1,0 +1,17 @@
+<b>Maddening Scream</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>   Madness 8,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> One action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1d4+1 rounds
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject cannot keep himself from screaming, gibbering, and leaping about as though completely mad.
+This spell makes it impossible for the victim to do anything other than race about caterwauling, worsens the Armor
+Class of the subject by -4, makes Reflex saving throws impossible except on a roll of 20, and makes it impossible to use a shield.
+ <b>Also appears in</b>   Eberron Campaign Setting  Spell Compendium  Complete Divine  Deities and Demigods  Lords of Madness     

@@ -1,0 +1,17 @@
+<b>Stretch Weapon</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Bard 2,  Cleric 2,  Duskblade 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 0 ft.
+ <b>Target:</b> Melee weapon wielded
+ <b>Duration:</b> One attack
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+With a single utterance, the weapon in your hand elongates without becoming awkward or weighty.
+The affected weapon stretches, extending toward its target, though it can be wielded normally.
+The spell adds an additional 5 feet of reach to a melee weapon for a single attack.
+   

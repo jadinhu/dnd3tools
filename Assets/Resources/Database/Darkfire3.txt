@@ -1,0 +1,23 @@
+<b>Darkfire</b>(Spell Compendium, p. 59)
+
+Evocation [Fire]
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Flame in your palm
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your hand feels warm cupping the eldritch flames. You cannot see the fire in the shadows, but you know it is there, as will those who will soon feel the hungry flames.</b>
+	
+Dark flames appear in your hand. You can hurl them or use them to touch enemies. The flames appear in your open hand and harm neither you nor your equipment. They emit no light but produce the same amount of heat as an actual fire.
+	
+Beginning the following round, you can strike opponents with a melee touch attack, dealing 1d6 points of damage per 2 caster levels (maximum 5d6. Alternatively, you can hurl the flames up to 120 feet as a thrown weapon. When doing so, you make a ranged touch attack (with no range penalty) and deal the same damage as with the melee attack. No sooner do you hurl the flames than a new set appears in your hand.
+	
+The <b>darkfire</b> is invisible to normal vision but can be seen with darkvision as easily as normal flame can be seen in darkness (this means that <b>darkfire</b> can be used as a signal or beacon for creatures with darkvision).
+	
+The spell does not function underwater.
+ <b>Also appears in</b>   Magic of Faerun  Lords of Darkness     

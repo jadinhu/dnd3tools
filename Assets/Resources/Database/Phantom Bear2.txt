@@ -1,0 +1,40 @@
+<b>Phantom Bear</b>(Spell Compendium, p. 155)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One summoned phantom bear
+ <b>Duration:</b> Concentration, up to 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>The ghostly image of a great bear appears before you. It rises silently on its hind legs and violently falls onto its forepaws, still making no sound. Then it opens its mouth, releasing a tremendous roar.</b>
+	
+This spell functions like <b>phantom wolf</b> (page 157), except that you conjure an incorporeal bear with a fearsome roar.
+	
+<b>Phantom Bear &#8211; CR 14</b>
+	
+N Huge magical beast (incorporeal)
+Init +9; Senses: darkvision 60 ft.; Listen +20, Spot +20
+	
+AC 25, touch 25, flat-footed 16; Dodge, Mobility
+hp 147 (14 HD)
+Fort +13, Ref +17, Will +7
+	
+Speed: fly 60 ft. (good)
+Melee: 2 claws +23 incorporeal touch (2d6 plus 3d6 cold) and bite +22 incorporeal touch (2d8 plus 3d6 cold)
+Space: 15 ft.; Reach 15 ft.
+Base Atk: +14; Grp � ;
+Atk Options: Combat Reflexes
+Special Actions: fearsome roar
+	
+Abilities: Str � ;, Dex 29, Con 20, Int 11, Wis 17, Cha 28
+SQ: incorporeal traits
+Feats: Combat Reflexes, Dodge, Mobility, Multiattack, Weapon Focus (bite)
+Skills: Listen +20, Spot +20
+	
+<b>Fearsome Roar (Su)</b>: 120-ft. radius, once every 1d4 rounds, Will DC 26 negates. Creatures within 30 feet become panicked, others within the area become frightened for 3d6 rounds if they fail their saves.
+ <b>Also appears in</b>   Complete Divine     

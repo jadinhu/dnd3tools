@@ -1,0 +1,17 @@
+<b>Dazing Strike</b>(Tome of Battle: The Book of Nine Swords, p. 67)
+
+Iron Heart (Strike)
+ <b>Level:</b>  Warblade 5 (Two Iron Heart maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+<b>Through focus, raw power, and expert aim, you make a mighty attack against your foe, leaving him temporarily knocked senseless by your attack.</b>
+	
+The proper application of force to just the right part of a foe?s anatomy allows you to disrupt his actions. While he stumbles back, senseless, you press the advantage.
+	
+You make a single melee attack as part of this strike. If this attack hits, the target takes melee damage normally and must make a Fortitude save (DC 15 + your Str modifier) or be dazed for 1 round.</p   

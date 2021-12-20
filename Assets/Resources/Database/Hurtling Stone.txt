@@ -1,0 +1,16 @@
+<b>Hurtling Stone</b>(Heroes of Battle)
+
+Conjuration [Creation]
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft. line
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates a 50-pound stone that speeds away from the caster in a straight line, dealing 6d6 points of damage to each creature in its path.
+In addition, any Medium or smaller creatures in its path are knocked prone.
+   

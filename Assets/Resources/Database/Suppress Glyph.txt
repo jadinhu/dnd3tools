@@ -1,0 +1,20 @@
+<b>Suppress Glyph</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Cleric 6 (Deneir),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 100 ft.
+ <b>Area:</b> 100-ft.-radius emanation centered on you.
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You gain an enhanced awareness of magical writing within range.
+Magical writing such as a glyph of warding, explosive runes, sepia snake sigil, or symbol is covered by a blue nimbus of light (which sheds light equal to a candle).
+This reveals the location of the writing but prevents it from being triggered.
+You and other creatures could read a book warded by explosive runes, or open a drawer guarded by a glyph of warding, or pass through a doorway protected by a symbol without effect.
+This spell covers and negates any active or triggered magical writing (such as a quickly scribed symbol of fear or a triggered symbol of death), although creatures that have already succumbed to the effects of the writing are unaffected.
+Once this spell ends, all magical writing in the area can be triggered normally, and active or triggered writings resume their function if they have any duration left.
+ <b>Also appears in</b>   Spell Compendium     

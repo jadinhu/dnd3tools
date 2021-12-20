@@ -1,0 +1,13 @@
+<b>Sword and Hammer</b>(Player's Guide to FaerÃ»n)
+
+Evocation [Force]
+ <b>Level:</b>   Initiate of tyr 4,   
+<b>Components:</b>
+
+ 	
+This spell functions like spiritual weapon, except as indicated here.
+When you cast the spell, two weapons made of force come into being: a longsword and a warhammer.
+Both weapons grant you a +1 bonus on attack rolls.
+If you direct the weapons to attack the same foe, they flank that opponent, and each gains the appropriate bonus (+2) on attack rolls for flanking.
+The weapons do not deal sneak attack damage even if you have levels in a class that grants the sneak attack ability.
+   

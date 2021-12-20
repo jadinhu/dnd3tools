@@ -1,0 +1,17 @@
+<b>Status, Greater</b>(Eberron Campaign Setting, p. 116)
+
+Divination
+ <b>Level:</b>   Community 4,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One touched creature/3 levels
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+As <b>status</b>, but you can also cast a limited selection of spells through the link, as if you were touching the target. You can cast any spell that meets the following conditions:
+			Level: 0, 1st, or 2nd		Range: Touch		Target: Creature touched		Saving Throw: Yes (harmless)		
+For example, if you become aware (through the <b>greater status</b> spell) that one of your linked companions is dying, you can cast <b>cure moderate wounds</b> to try to revive her.
+ <b>Also appears in</b>   Book of Exalted Deeds  Heroes of Battle     

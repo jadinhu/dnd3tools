@@ -1,0 +1,17 @@
+<b>Claw at the Moon</b>(Tome of Battle: The Book of Nine Swords, p. 86)
+
+Tiger Claw (Strike)
+ <b>Level:</b>  Swordsage 2,  Warblade 2,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You leap into the air, catching your foe off guard as you slice down into him.</b>
+	
+You learn to leap into the air and slice at a foe?s vulnerable points. Like a great cat, you spring into the air and attack your foe from an unexpected direction.
+	
+As part of this maneuver, you attempt a Jump check to leap into the air and make a melee attack that targets your foe?s upper body, face, and neck. The Jump check?s DC is equal to your target?s AC. If this check succeeds, your attack deals an extra 2d6 points of damage. If this attack threatens a critical hit, you gain a +4 bonus on your roll to confirm the critical hit.
+	
+If your check fails, you can still attack, but you do not deal extra damage or gain a bonus on a roll to confirm a critical hit. The maneuver is still considered expended.   

@@ -1,0 +1,25 @@
+<b>Dragonmark Whip</b>(Dragonmarked, p. 150)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>S, Dragonmark
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Effect:</b> One 10-foot-long whip
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your dragonmark began to writhe and uncoil, springing from your hand in a 10-foot-long whip of scintillating energy.</b>
+	
+A <b>dragonmark whip</b> is treated as a magic weapon for the purpose of bypassing damage reduction. It has a 10-foot reach, but you do not threaten the area into which you can make an attack. You are considered proficient in its use, and it cannot be targeted by sunder or disarm attempts. Each successful melee attack with a <b>dragonmark whip</b> deals 1d8 points of damage +1 point per caster level (maximum +10).
+	
+You can use a dragonmark whip to deliver touch spells of 4th level or lower instead of actually touching your target. This is treated as a normal touch attack, but uses the whip's reach and your attack bonus with the whip. On a successful attack, the whip does no damage. You cannot hold the charge if you miss with a <b>dragonmark whip</b>.
+	
+If a <b>dragonmark whip</b> fails to penetrate the spell resistance of a chosen target, it cannot damage that target for the remainder of the spell's duration.
+	
+While a <b>dragonmark whip</b> is uncoiled, you appear to have no dragonmark on your body, but you can use any of your dragonmark spell-like abilities as normal.
+	
+<b>Dragonmark:</b> Any lesser or greater true or aberrant dragonmark, or any Siberys dragonmark.
+   

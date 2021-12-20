@@ -1,0 +1,11 @@
+<b>Conviction, Legion's</b>(Miniatures Handbook)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Allies in a 20-ft.-radius burst
+
+ 	
+This spell functions like conviction, except that it affects multiple allies at a distance.
+   

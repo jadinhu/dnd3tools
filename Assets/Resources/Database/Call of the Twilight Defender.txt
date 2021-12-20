@@ -1,0 +1,20 @@
+<b>Call of the Twilight Defender</b>(Dragon Magic)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Druid 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One twilight guardian
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The very ground erupts in a shower of stone and dirt, accompanied by a thunderclap.
+Standing in the center of the damaged ground is a creature of stone, wood, and plant parts resembling the regal form of a guardian dragon.
+This spell summons one twilight guardian (see page 121) to fight for you.
+The spell functions like a summon nature's ally spell, but with one exception.
+At any time, a summoned twilight guardian can sacrifice itself by simply touching you (a standard action); the twilight guardian is immediately destroyed, and you gain a number of hit points equal to 1/2 the twilight guardian's remaining hit points before its sacrifice.
+Special: A character who learns this spell gains a +1 competence bonus on Knowledge (nature) checks.
+   

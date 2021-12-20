@@ -1,0 +1,17 @@
+<b>Beastland Ferocity</b>(Spell Compendium, p. 25)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 1,  Druid 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You cast the spell and lay your hand upon your ally, and beneath your glowing fingers, give him a mixed gift � ;the ability to fight on, but at the cost of not knowing when to stop.</b>
+	
+The subject becomes such a tenacious combatant that it continues to fight without penalty even while disabled or dying. While between � ;1 and � ;9 hit points, the creature gains a +4 enhancement bonus to Strength. If the creature is reduced to � ;10 hit points, it dies normally.
+ <b>Also appears in</b>   Planar Handbook     

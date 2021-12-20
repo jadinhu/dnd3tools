@@ -1,0 +1,16 @@
+<b>Holy Spurs</b>(Miniatures Handbook)
+
+Transmutation
+ <b>Level:</b>  Paladin 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Your special mount
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell increases your special mount's base land speed by 40 feet.
+This adjustment is treated as an enhancement bonus.
+ <b>Also appears in</b>   Spell Compendium     

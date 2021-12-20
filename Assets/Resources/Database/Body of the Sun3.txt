@@ -1,0 +1,17 @@
+<b>Body of the Sun</b>(Spell Compendium, p. 35)
+
+Transmutation [Fire]
+ <b>Level:</b>  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> 5 ft.
+ <b>Area:</b> 5-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>By drawing on the power of the sun, you cause your body to emanate fire.</b>
+	
+Fire extends 5 feet in all directions from your body, illuminating the area and dealing 1d4 points of fire damage per two caster levels (maximum 5d4). Adjacent creatures take fire damage each round on your turn.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Divine     

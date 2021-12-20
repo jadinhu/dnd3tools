@@ -1,0 +1,16 @@
+<b>Ivory Flesh</b>(Frostburn)
+
+Transmutation
+ <b>Level:</b>  Bard 1,  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject's flesh and all his equipment turn white, granting him a +5 circumstance bonus on Hide checks in heavy snow or ice areas.
+In any nonwhite-hued area (including ebony ice), ivory flesh instead incurs a -5 penalty on Hide checks.
+   

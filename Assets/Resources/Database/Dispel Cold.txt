@@ -1,0 +1,9 @@
+<b>Dispel Cold</b>(Frostburn)
+
+Abjuration [Fire]
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>
+
+ 	
+This spell functions like dispel evil (see page 222 of the Player's Handbook), except that you are surrounded by constant, blue-white cold energy, and the spell affects cold creatures and spells rather than evil ones.
+   

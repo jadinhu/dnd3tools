@@ -1,0 +1,21 @@
+<b>Astral Hospice</b>(Spell Compendium, p. 17)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels
+ <b>Effect:</b> See text
+ <b>Duration:</b> 24 hours/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You fish out the gem and, floating in the Astral Plane, cast the spell. A small pinprick of light appears next to you, widening to form a circular portal of a bronze hue. You step through the portal and begin the process of healing.</b>
+	
+This spell can be cast only upon the Astral Plane (<span class="caps">DMG</span> 154). It opens up a small planar portal to a demiplane where natural healing can occur (unlike on the Astral Plane itself). The firm surface of the demiplane is roughly 50 feet square, and the demiplane extends 50 feet above the surface. The demiplane's traits (including time, gravity, and magic) match those of the Material Plane, and the demiplane is self-contained; walking to one end returns a character to the point from which he began. The demiplane has no unusual planar traits.
+	
+The only way in or out of the demiplane is through the entrance created by you, and only those named or described by you upon the casting of the spell can enter. The portal continues to exist and remains visible on the Astral Plane only while the hospice demiplane exists. When you leave the demiplane, the portal seals shut and vanishes. Anyone still in the hospice demiplane at that time appears on the Astral Plane at the location of the hospice's entrance.
+	
+<b>Material Component</b>: A single flawless gemstone of at least 250 gp value.
+ <b>Also appears in</b>   Planar Handbook     

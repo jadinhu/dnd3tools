@@ -1,0 +1,32 @@
+<b>Caligarde's Claw</b>(Player's Guide to FaerÃ»n)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Invisible claw of force
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Caligarde's claw creates a Medium claw of invisible force at any spot you designate within the spell's range.
+You can either send the claw to attack one specific target or order it to guard an area.
+The claw's orders may be switched each round as a free action, if you so desire.
+The claw has Strength 22, Dexterity 18, AC 16 (+4 Dex, +2 for invisibility), and hit points equal to one-half your full normal total.
+It attacks at your base attack bonus, applying modifiers for its own statistics as appropriate (+6 for Str and +2 for invisibility).
+It can make multiple attacks per round with a full attack action if your base attack bonus is high enough to allow it.
+Since it counts as an invisible attacker, the target loses its Dexterity bonus (if any) to AC unless it has uncanny dodge.
+A Caligarde's claw deals 1d6+6 points of damage with each successful attack.
+The claw is corporeal and can be destroyed, which ends the spell.
+Since it is invisible, any attacks made against it have a 50% miss chance.
+If ordered to attack a single target, the claw moves from its current position toward the designated target at a speed of 90 feet, provided the target is within range of the sp ell.
+It attacks on your turn and continues to attack until it or its target is destroyed, or the spell's duration ends, or you redirect it to a new target or to guard duty.
+While it is assigned to attack a specific target, the claw cannot make attacks of opportunity.
+If you order the claw to guard an area, it flies at a speed of 90 feet to any 5-foot square you designate within the spell's range and waits there.
+While on guard duty, it does not attack on its own, but it makes attacks of opportunity whenever a foe performs an action that provokes such an attack within 5 feet of its position.
+The claw functions as though it had the Combat Reflexes feat for this purpose, so it may make a total of five attacks of opportunity per round.
+A claw in guard mode cannot take attack actions or full attack actions; it can only wait for an action that provokes an attack of opportunity.
+Material Component: A small, dried claw from an animal.
+   

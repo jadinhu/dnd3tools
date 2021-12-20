@@ -1,0 +1,20 @@
+<b>Inky Cloud</b>(Spell Compendium, p. 123)
+
+Conjuration (Creation)
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> 30-ft.-radius spread centered on you
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Black bubbles of ink boil up from the vial in your hand and quickly spread to fill all the water around you with darkness, blocking your vision.</b>
+	
+You create an inky cloud that billows out from your location. The cloud obscures all sight, including darkvision, beyond 5 feet. A creature within 5 feet has concealment. Creatures farther away have total concealment.
+A moderate current disperses the cloud in 4 rounds; a strong current disperses the cloud in 1 round. This spell functions only underwater.
+	
+<b>Material Component</b>: A small vial containing the ink of a squid or octopus.
+ <b>Also appears in</b>   Savage Species     

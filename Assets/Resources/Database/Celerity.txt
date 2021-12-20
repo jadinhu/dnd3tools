@@ -1,0 +1,12 @@
+<b>Celerity</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Bard 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>
+
+ 	
+This spell works like lesser celerity, except that you pull even more time into the present.
+When you cast this spell, you can immediately take a standard action, as if you had readied an action.
+You can even interrupt another creature's turn when you cast this spell.
+However, after you take the standard action granted by this spell, you are dazed until the end of your next turn.
+   

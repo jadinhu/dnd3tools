@@ -1,0 +1,16 @@
+<b>Longstrider, Mass</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Ranger 4,  Druid 5,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Reality bends at your behest, speeding up your allies.
+All allies in the area gain a +10-foot enhancement bonus to their speed scores.
+   

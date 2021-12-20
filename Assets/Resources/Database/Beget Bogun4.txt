@@ -1,0 +1,55 @@
+<b>Beget Bogun</b>(Spell Compendium, p. 26)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Effect:</b> Tiny Construct
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+With the bogun made, you take the final step and imbue it with sentience, breathing life into your new servant and companion.
+	
+<b>Beget bogun</b> allows you to infuse living magic into a small mannequin that you have created from vegetable matter. This is the final spell in the process of creating a bogun. See the bogun's description for further details.
+	
+Material Component: The mannequin from which the bogun is created
+	
+XP Cost: 25 XP.
+	
+Bogun CR 1
+N, CN, LN, NE, or NG Tiny construct
+Init +3; Senses darkvision 60 ft., low-light vision; Listen +1,
+Spot +1
+Languages telepathic link with master
+AC 15, touch 15, flat-footed 12
+hp 11 (2 HD)
+Fort +0, Ref +3, Will +1
+Speed 20 ft. (4 squares), fly 50 ft. (good)
+Melee nettles +1 (1d4 � ;2 plus poison)
+Space 2-1/2 ft.; Reach 0 ft.
+Base Atk +1; Grp � ;5
+Atk Options poison (nettles, DC 11, 1d6 Dex/1d6 Dex)
+Abilities Str 7, Dex 16, Con � ;, Int 8, Wis 13, Cha 10
+SQ construct traits (MM 307)
+Feats Stealthy
+Skills Hide +10, Move Silently +9
+	
+A bogun is a small nature servant created by a druid. Like a homunculus, it is an extension of its creator, sharing the same alignment and link to nature. A bogun does not fight particularly well, but it can perform any simple action, such as attacking, carrying a message, or opening a door or window. For the most part, a bogun simply carries out its creator's instructions. Because it is self-aware and somewhat willful, however, its behavior is not entirely predictable. On rare occasions (5% of the time), a bogun might refuse to perform a particular task. In that case, the creator must make a DC 11 Diplomacy check to convince the creature to cooperate. Success means the bogun performs the task as requested; failure indicates that it either does exactly the opposite or refuses to do anything at all for 24 hours (DM's option as to which).
+	
+A bogun cannot speak, but the process of creating one links it telepathically with its creator. It knows what its creator knows and can convey to him or her everything it sees and hears, up to a range of 500 yards. A bogun never travels beyond this range willingly, though it can be removed forcibly. In that case, it does everything in its power to regain contact with its creator. An attack that destroys a bogun also deals its creator 2d10 points of damage. If its creator is slain, a bogun also dies, and its body collapses into a heap of rotting vegetation.
+	
+A bogun looks like a vaguely humanoid mound of compost. The creator determines its precise features, but a typical bogun stands about 18 inches tall and has a wingspan of about 2 feet. Its skin is covered with nettles and branches.
+	
+Combat: A bogun attacks by brushing against opponents with harsh nettles that deliver an irritating poison. Construction: Unlike a homunculus, a bogun is created from natural materials available in any forest. Thus, there is no gold piece cost for its creation. All materials used become permanent parts of the bogun.
+	
+The creator must be at least 7th level and possess the Craft Wondrous Item feat to make a bogun. Before casting any spells, the creator must weave a physical form out of living (or once-living) vegetable matter to hold the magical energy. A bit of the creator's own body, such as a few strands of hair or a drop of blood, must also be incorporated into this crude mannequin. The creator can assemble the body personally or hire someone else to do it. Creating this mannequin requires a DC 12 Craft (basketweaving or weaving) check.
+	
+Once the body is finished, the creator must animate it through an extended magical ritual that requires a week to complete. The creator must labor for at least 8 hours each day in complete solitude in a forest grove; any interruption from another sentient creature undoes the magic. If the creator is personally weaving the creature's body, that process and the ritual can be performed together.
+	
+When not actively working on the ritual, the creator must rest and can perform no other activities except eating, sleeping,or talking. Missing even one day causes the process to fail. At that point, the ritual must be started anew, though the previously crafted body and the grove can be reused.
+	
+On the final day of the ritual, the creator must personally cast control plants, wood shape, and beget bogun. These spells can come from outside sources, such as scrolls, rather than being prepared, if the creator prefers.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Divine  Monster Manual II     

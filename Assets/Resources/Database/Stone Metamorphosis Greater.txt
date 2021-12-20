@@ -1,0 +1,10 @@
+<b>Stone Metamorphosis, Greater</b>(Underdark)
+
+Transmutation [Earth]
+ <b>Level:</b>  Cleric 6,  Druid 6,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>
+ <b>Target:</b> Stone or stone objects touched, up to 10 cu. ft. + 10 cu. ft./level
+
+ 	
+This spell functions like stone metamorphosis, except as noted.
+   

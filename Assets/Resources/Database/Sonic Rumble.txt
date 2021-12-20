@@ -1,0 +1,19 @@
+<b>Sonic Rumble</b>(Spell Compendium, p. 195)
+
+Evocation [Sonic]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Concentration, up to 1 round/level
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your final words of the spell become a deep, rumbling hum, as loud as the din of a battlefield, and they blast outward from you in a cone.</b>
+	
+You create a cone of powerful sound. If used to attack, the cone deals 1d6 points of sonic damage per two levels (maximum 10d6) each round a creature is within the area; a successful Reflex save reduces this damage by half. Targets within the area of a silence spell are immune.
+	
+Focus: A hollow cone of brass and gold worth 50 gp.
+   

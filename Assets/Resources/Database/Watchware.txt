@@ -1,0 +1,24 @@
+<b>Watchware</b>(Unapproachable East)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Effect:</b> Object touched
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a mystical connection with a single inanimate object.
+When that object is damaged, moved, or touched at any later time, you are instantly aware of the fact.
+If another creature physically touches the object, you also receive a mental image of the creature, which counts as firsthand knowledge of the creature should you later choose to cast scrying or a similar spell on that creature.
+The watchware is activated when the item is disturbed for any reason, whether someone touches it or pokes it with a pole, a cat walks on it, or an earthquake knocks it over.
+The watchware functions only once and is then discharged.
+Since its components are expensive, most sorcerers and wizards reserve watchware to protect valuable, out-of-the-way items.
+A watchware is a magical trap.
+A rogue can find a watchware with a successful Search check (DC 25 + spell level, or 30 for watchware) and disarm it with a successful Disable Device check (DC 25 + spell level, or 30 for watchware).
+You can designate a password that allows another creature to handle the object without sounding the mental alarm if you so choose.
+Material Component: A sprinkling of rare sands and powdered reagents worth at least 500 gp.
+   

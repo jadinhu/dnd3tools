@@ -1,0 +1,25 @@
+<b>Arcane Maul</b>(Secrets of Sarlona, p. 126)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> See text
+ <b>Effect:</b> See text
+ <b>Area:</b> See text
+ <b>Duration:</b> Instantaneous, 1 round/level (D); see text
+ <b>Saving Throw:</b> Fortitude half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>As you crush the clay hammer in your fist, you feel a force wrap about your hand. The shimmering shape of a warhammer appears before you, ready to be swung.</b>
+	
+This spell creates a powerful aura of pure force that can be wielded as a melee weapon or hurled as an area attack. When the spell is cast, you choose which version of the arcane maul to employ and in which hand to wield the melee version. An arcane maul cannot be first used in melee and then hurled, nor can the melee version be switched from hand to hand.
+	
+When used as a melee weapon, an arcane maul acts as a +4 warhammer (1d8 + 4/x3) for 1 round per level, and it can be wielded regardless of proficiency with the warhammer. Used empty-handed, an arcane maul appears as a shimÂ­mering, hammer-shaped force field. When it is used in a hand already holding a weapon, the shimmering force field wraps around both hand and weapon, but all effects of the material weapon (mundane or magic, including damage, bonuses, threat range, and special abilities) are lost for the duration of the spell. An arcane maul can be used with a weapon in your off hand, but the regular penalties for two-weapon fighting apply.
+	
+If hurled, an arcane maul shoots out from your fist as a line 50 feet long, then fills a 20-foot-radius burst at the end of its range. Creatures within the area of the line and burst take ld6 points of force damage per two levels (maximum 10d6) and are stunned for 1 round. A successful Fortitude save halves damage and negates the stun effect.
+	
+A hurled arcane maul damages objects in its area. It destroys nonmagical crystal, glass, ceramic, or porceÂ­lain, smashing those substances into dozens of pieces. Objects that weigh more than your caster level in pounds take damage as normal. If the damage caused to an interÂ­posing barrier shatters or breaks through it, an arcane maul can continue beyond the barrier if the area permits; otherwise it stops at the barrier just as any other spell effect does.
+	
+Material Component: A small clay hammer, crushed in the fist as the spell is cast.<   

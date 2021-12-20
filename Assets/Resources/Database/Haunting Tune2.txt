@@ -1,0 +1,17 @@
+<b>Haunting Tune</b>(Spell Compendium, p. 110)
+
+Enchantment (Compulsion) [Fear, Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature/level, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>The spell wrapped within your music makes even the most hard-hearted quail.</b>
+	
+Targets that fail their saves become shaken.
+ <b>Also appears in</b>   Magic of Faerun     

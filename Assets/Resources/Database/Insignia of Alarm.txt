@@ -1,0 +1,23 @@
+<b>Insignia of Alarm</b>(Races of Destiny)
+
+Abjuration
+ <b>Level:</b>  Bard 2,  Cleric 2,  Paladin 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 400 ft. + 40 ft./level spread, centered on you
+ <b>Target:</b> All wearers of special insignia within range
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell alerts all wearers of a specific insignia (see below) within range.
+Such creatures hear a single mental &quot;ping&quot; (as the alarm spell, page 197 of the Player's Handbook) when this spell is cast.
+This spell requires significant preparation.
+Before using this spell you must forge specially crafted insignias.
+These can be crafted in the form of amulets, badges, rings, or any similar object, but each one must bear the same logo, crest, or symbol.
+Each insignia costs 10 gp.
+Militias, guilds, or churches within a city use this spell to call all its members together.
+Focus: A specially prepared insignia (see above).
+   

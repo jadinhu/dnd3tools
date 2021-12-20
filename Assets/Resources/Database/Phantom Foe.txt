@@ -1,0 +1,25 @@
+<b>Phantom Foe</b>(Spell Compendium, p. 156)
+
+Illusion (Phantasm) [Mind-Affecting]
+ <b>Level:</b>  Assassin 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will disbelief
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>By waving around a tiny pewter figurine and picturing in your mind the figurine attacking the target creature, you complete the spell. You feel a phantasmal force leap from the figurine toward your target.</b>
+	
+If the target creature fails its saving throw, this spell creates in the subject's mind an illusory double of whichever creature currently threatens it that it deems most dangerous. The form of this phantom foe changes as appropriate whenever the target perceives a different threatening creature more dangerous than the last. This illusory double provides two effects.
+	
+First, the subject believes it is being flanked by the phantom foe and the real creature the foe duplicates. Thus, the duplicated creature is always considered to be flanking the subject in melee. A creature that can't be flanked is immune to this aspect of the spell.
+	
+Second, the subject of the spell is unable to determine that the phantom foe is not a real threat, and whenever the subject attempts to attack the creature duplicated by the phantom foe, that creature benefits from a 50% miss chance against attacks from the subject of the spell. Because this miss chance comes from the subject's inability to tell the phantom foe from the original, it is rolled separately from any miss chance that applies due to displacement or concealment.
+	
+Creatures other than the subject cannot see the phantom foe, although they can attempt to guess its location by how the target acts. If the subject is not threatened by any creature at the start of its turn, the spell ends.
+	
+Focus: A tiny pewter figure of a warrior that is worth 10 gp.
+   

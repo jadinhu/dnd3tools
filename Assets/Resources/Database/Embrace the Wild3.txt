@@ -1,0 +1,19 @@
+<b>Embrace the Wild</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Ranger 3,    
+<b>Components:</b>V, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+This spell allows you to adopt the nature and some abilities of a wild animal.
+You retain your own form, but you gain the natural and extraordinary senses of the creature you choose, as well as its skill ranks (though these do not stack with any ranks
+you already have in the same skills), for the duration of the spell.
+Thus, depending on your choice of animal, you could gain blindsight, scent, and ranks in Listen, Spot, or other skills.
+Embrace the wild does not grant you the animal's natural attacks, methods of locomotion, feats, or nonsensory extraordinary abilities, such as trample or improved grab.
+Focus:Hide, skin, or feathers of the selected animal, or an item or component of its lair.
+You must have obtained the focus from the animal yourself.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Adventurer     

@@ -1,0 +1,15 @@
+<b>Breath Flare</b>(Spell Compendium, p. 38)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 Swift Action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your Breath Weapon
+ <b>Duration:</b> 1 round
+
+ 	
+<b>You exhale your breath weapon, and it flashes brilliantly, surprising your foes.</b>
+	
+For this spell to function, you must have a breath weapon that uses fire or electricity, either as a supernatural ability or as the result of casting a spell such as dragon breath (page 73). When you successfully cast this spell, your breath weapon is suffused with bright light. In addition to taking the normal fire or electricity damage, creatures that fail their saving throws against the breath weapon are dazzled for 1 minute per caster level. Sightless creatures are not affected by breath flare.
+ <b>Also appears in</b>   Draconomicon     

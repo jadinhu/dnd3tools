@@ -1,0 +1,25 @@
+<b>Wood Wose</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One nature servant
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A wood wose is a translucent, green nature spirit that you can command to perform simple natural tasks.
+It can build a campfire, gather herbs, feed an animal companion, catch a fish, or perform any other simple task that doesn't involve knowledge of technology.
+It cannot, for example, open a latched chest, since it doesn't know how a latch works.
+The wose can perform only one activity at a time, but it repeats the same activity if told to do so.
+Thus, if you commanded it to gather leaves, it would continue to do so while you turned your attention elsewhere, as long as you remained within range.
+The wose has an effective Strength score of 2, so it can lift 20 pounds or drag 100 pounds.
+It can trigger traps, but the 20 pounds of force it can exert is not enough to activate most pressure plates.
+Its speed is 15 feet in any direction, even up.
+A wood wose cannot attack in any way; it is never allowed an attack roll or a saving throw.
+It cannot be killed, but it dissipates if it takes 6 points of damage from area attacks.
+If you attempt to send the wose beyond the spell's range (measured from your current position), it ceases to exist.
+ <b>Also appears in</b>   Complete Divine  Spell Compendium     

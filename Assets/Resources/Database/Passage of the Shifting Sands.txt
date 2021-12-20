@@ -1,0 +1,24 @@
+<b>Passage of the Shifting Sands</b>(Dragon Magic)
+
+Transmutation/Evocation [Air]
+ <b>Level:</b>  Druid 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D) or until expended
+
+ 	
+You entire body sparkles as color fades from your form.
+A stiff breeze picks up as you collapse into thousands of particles of sand, sent flying on the warm wind.
+You and all your belongings become a flying cloud of sand, swirling and formless yet retaining your consciousness.
+You lose your normal shape and become a sand cloud, taking up the same space you do in your normal form.
+You can fly at a speed of 40 feet (perfect maneuverability), but you lose any other movement rates you had in your normal form.
+Treat this otherwise as gaseous form (PH 234).
+If you end your movement in the same space as another creature, that creature is blinded for 1 round (Fortitude negates).
+Spell resistance does not apply against this effect.
+Furthermore, while this spell is active, you can activate a
+gust of wind effect (as the spell) as a swift action.
+Doing so ends the duration of passage of the shifting sands.
+Special: A blue dragon capable of casting 6th-level sorcerer spells can cast this spell as a swift action.
+   

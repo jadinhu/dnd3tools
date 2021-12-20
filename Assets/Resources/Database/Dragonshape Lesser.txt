@@ -1,0 +1,15 @@
+<b>Dragonshape, Lesser</b>(Dragon Magic)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+You feel a fire burning deep within you.
+	
+Crimson scales quickly grow over your body, a pair of great wings sprouts from your shoulders, and the scent of sulfur fills the air as you transform into a dragon. You take the form of a Large young red dragon (see below). You gain 60 temporary hit points, which disappear at the end of the spell's duration. For details, see The Polymorph Subschool on page 60.
+   

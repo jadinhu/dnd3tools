@@ -1,0 +1,26 @@
+<b>Demonic Blood Infusion</b>(Ghostwalk)
+
+Transmutation [Chaotic, Evil]
+ <b>Level:</b>  Cleric 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You grant the subject infernal power by transforming its blood into the blood of a demon.
+The subject gains the fiendish template and the chaotic and evil subtypes, and it becomes chaotic evil if it is not already.
+The creature counts as an outsider for the purpose of spells and effects that affect only certain creature types.
+However, any effect that banishes, binds, or sends away outsiders does not function against the subject; instead, it simply causes demonic blood infusion to end immediately.
+When the spell ends, all its effects terminate immediately, and the target is nauseated for 1d4 rounds.
+Repeated use of this spell tends to corrupt the target and force it to become chaotic evil if it was not already.
+Each time demonic blood infusion is cast upon a creature it must attempt a Will saving throw.
+Failure means the subject becomes chaotic if it was not already.
+If the subject is chaotic but nonevil, failure causes it to become evil.
+Each time the spell is used against the same creature, the DC for this saving throw increases by 1.
+Demonic blood infusion was invented by the followers of Orcus, who use it to boost the power of their church's mortal servants.
+Material Component: A vial of demon's blood worth 100 gp.
+   

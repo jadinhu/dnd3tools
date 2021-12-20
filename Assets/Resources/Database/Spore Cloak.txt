@@ -1,0 +1,20 @@
+<b>Spore Cloak</b>(Races of Faerun)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 5,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+You become shrouded in a dense cloud of yellow mold spores.
+You can see through the cloud with ease and are not affected by it in any way, but it provides you one-half concealment (20% miss chance).
+The cloak of swirling yellow spores travels with you and does not leave a trail as you move.
+Anyone who passes through your square, or anyone whom you successfully overrun, bull rush, grapple, or who otherwise shares your area must make a Fortitude saving throw or suffer 1d6 points of temporary Constitution damage; another Fortitude saving throw is required 1 minute later to avoid taking 2d6 points of temporary Constitution damage.
+As long as the spore cloak is active, you are immune to fungal infestations such as the spores of brown or yellow mold and the rotting touch of violet fungi.
+If you fail a saving throw against a fire spell or effect, the spores are instantly burnt away and the spell ends.
+If you are in direct sunlight, the spell continues but the spores become inert until you reach shelter.
+Inert spores continue to provide one-half concealment but cannot infest others and do not provide protection from fungal attacks.
+   

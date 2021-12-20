@@ -1,0 +1,16 @@
+<b>Verraketh's Shadow Crown</b>(Races of Faerun)
+
+Enchantment (Charm) [Mind-Affecting]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Created by the legendary Shadowking of the Talfir, Verraketh's shadow crown cloaks the top of your head in a crown of magical shadow.
+For the duration of this spell, your bardic music abilities tap the Shadow Weave instead of the Weave.
+You receive a +4 competence bonus on Perform checks while under the effects of this spell.
+The effects of this spell do not stack with the Shadow Weave Magic feat.
+   

@@ -1,0 +1,25 @@
+<b>Favorable Sacrifice</b>(Spell Compendium, p. 89)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>The gems vaporize in your hand as you intone the spell. The rising vapors surround your ally, granting him the blessing of your beliefs.</b>
+	
+The subject receives the protection of a divine power commensurate with the value of the expended material component. Only one of the benefits described below applies per casting of this spell; they do not stack.
+	
+By expending 250 gp, you grant the subject damage reduction 5/magic; resistance to acid, cold, electricity, fire, and sonic 10; and spell resistance equal to your caster level.
+	
+By expending 1,000 gp, you grant the subject damage reduction 10/magic; resistance to acid, cold, electricity, fire, and sonic 15; and spell resistance equal to your caster level +5.
+	
+By expending 10,000 gp, you grant the subject damage reduction 20/magic; resistance to acid, cold, electricity, fire, and sonic 20; and spell resistance equal to your caster level +10.
+	
+<b>Material Component:</b> Gems worth a total of 250 gp, 1,000 gp, or 10,000 gp.
+ <b>Also appears in</b>   Miniatures Handbook     

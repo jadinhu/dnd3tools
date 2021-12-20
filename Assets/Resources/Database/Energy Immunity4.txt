@@ -1,0 +1,20 @@
+<b>Energy Immunity</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Abjuration
+ <b>Level:</b>  Cleric 6,  Druid 6,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This abjuration grants a creature complete protection against damage from whichever one of five energy types you select: acid, cold, electricity, fire, or sonic.
+The spell protects the recipient's equipment as well.
+Energy immunity absorbs only damage.
+The recipient could still suffer unfortunate side effects, such as drowning in acid (since drowning damage results fromthe lack of oxygen), being deafened by a sonic attack, or becoming encased in ice.
+Note: Energy immunity overlaps (and does not stack with) endure elements, resist elements, and protection from elements.
+If a character is warded with energy immunity and one or more of the other spells, the energy immunity spell makes the others irrelevant.
+ <b>Also appears in</b>   Spell Compendium  Complete Arcane  Draconomicon     

@@ -1,0 +1,15 @@
+<b>Time Stands Still</b>(Tome of Battle: The Book of Nine Swords, p. 66)
+
+Diamond Mind (Strike)
+ <b>Level:</b>  Swordsage 9 (Four Diamond Mind maneuvers),  Warblade 9 (Four Diamond Mind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>The raindrops themselves stand still as you act at the speed of thought. You move like a blur, catching your enemies by surprise with a complex action carried out in a tiny fraction of the time normally needed to complete it.</b>
+	
+In an unmatched burst of speed, agility, and decisive action, you move more quickly than the eye can follow. You can lash out with your blade, striking your opponent so rapidly that observers can?t keep track of your moves.
+	
+As part of this maneuver, you can use a full attack action two times in succession. Take your first full attack as normal. Once you have resolved those attacks, you can then take another full attack action. You must resolve these actions separately. You cannot combine the attacks provided by both actions as you wish. Instead, you must take them separately and in order as normal for a full attack.</p   

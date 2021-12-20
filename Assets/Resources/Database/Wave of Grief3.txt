@@ -1,0 +1,19 @@
+<b>Wave of Grief</b>(Spell Compendium, p. 236)
+
+Enchantment [Evil, Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Blackguard 2,  Cleric 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Emitting a mournful wail, you send out a pulse of magic imbued with sorrow and sadness.</b>
+	
+All within the cone when the spell is cast take a -3 penalty on attack rolls, saving throws, ability checks, and skill checks.
+	
+Material Component: Three tears.
+ <b>Also appears in</b>   Book of Vile Darkness  Complete Divine     

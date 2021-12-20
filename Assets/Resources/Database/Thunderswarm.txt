@@ -1,0 +1,33 @@
+<b>Thunderswarm</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Evocation [Electricity]
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> Pattern of lightning spreads similar to a fireball (see text)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None or Reflex half (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Like the arcane spell meteor swarm, thunderswarm evokes blasts similar to those of the spell fireball, except that this spell creates balls of lightning.
+When you cast it, either four large (2-foot-diameter) spheres or eight small (1-foot-diameter) spheres spring from your outstretched hand and streak in a straight line to the spot you designate.
+Each sphere leaves a trail of sparks behind it.
+Any creature in the straight-line path of these spheres is struck by each one and takes a total of 16d6 points of electricity damage (no save).
+The spheres dissipate after dealing this damage.
+If the spheres reach their destination, each bursts like an electrical fireball in a spread.
+The patterns of their detonation and damage dealt to creatures in the area depend on the size of the spheres, as follows.
+(See the meteor swarm spell description in the Player's Handbook for details on the patterns).
+Large Spheres: Each large sphere has a 15-foot-radius spread and deals 4d8 points of electricity damage.
+The four spheres explode with their points of origin forming either a large diamond or a large box pattern (your choice) around the spell's central point of origin.
+The blasts are 20 feet apart along the sides of the pattern, creating overlapping areas of the spell's effect and exposing the center to all four blasts.
+Small Spheres: Each small sphere has a 7 1/2-footradius
+spread and deals 2d6 points of electricity damage.
+These spheres explode with their points of origin forming either a box-within-a-diamond pattern or a diamond-within-a-box pattern around the spell's central point of origin.
+Each of the pattern's outer sides measures 20 feet long.
+All four areas overlap in the center of the pattern, and two or three areas overlap in various peripheral sections.
+A creature caught in one of the blasts may attempt a Reflex save for half damage.
+Creatures struck by multiple blasts must save against each blast separately.
+Any creature that fails a save is stunned for 1d4 rounds in addition to taking full damage.
+   

@@ -1,0 +1,17 @@
+<b>Tremorsense</b>(Underdark)
+
+Transmutation
+ <b>Level:</b>  Harper Scout 3,  Ranger 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You can automatically pinpoint the location of any object or creature within 30 feet that is in contact with the ground.
+Arcane Focus: A fleck of skin from a creature that has
+tremorsense.
+ <b>Also appears in</b>   Spell Compendium     

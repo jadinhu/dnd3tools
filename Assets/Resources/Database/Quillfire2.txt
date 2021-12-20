@@ -1,0 +1,17 @@
+<b>Quillfire</b>(Spell Compendium, p. 164)
+
+Transmutation
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>You evoke the power of nature, and the back of your hand bristles with a spikelike growth of quills.</b>
+	
+Your hand sprouts poisonous quills that you can use in melee or as a ranged attack.
+	
+The quills deal 1d8 points of damage. They can be thrown (range increment 10 feet). The quills are poisonous (injury DC equal DC of quillfire, 1d6 Str/1d6 Str).
+ <b>Also appears in</b>   Magic of Faerun     

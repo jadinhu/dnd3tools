@@ -1,0 +1,16 @@
+<b>Clear Mind</b>(Spell Compendium, p. 47)
+
+Abjuration
+ <b>Level:</b>  Paladin 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+_A silver glow sheathes your body as you complete the spell. As the glow fades, you feel a touch of the divine at the back of your mind. This divine touch spreads until you feel your concerns and anxieties 
+fade away._
+	
+You gain a +4 sacred bonus on saving throws made against mind-affecting spells and effects.
+   

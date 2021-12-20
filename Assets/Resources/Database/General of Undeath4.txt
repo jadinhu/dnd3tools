@@ -1,0 +1,15 @@
+<b>General of Undeath</b>(Spell Compendium, p. 102)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 8,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 24 hours
+
+ 	
+<b>You focus on the darkness within your soul, willing it to grow and grant you the power to control a greater number of undead minions.</b>
+	
+This spell increases the number of Hit Dice of undead that you can control by an amount equal to your caster level. When the duration expires, you lose control of the extra undead as if you had voluntarily relinquished control of them.
+   

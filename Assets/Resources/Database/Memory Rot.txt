@@ -1,0 +1,19 @@
+<b>Memory Rot</b>(Magic of Faerun)
+
+Evocation
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a cloud of spores that infests the brain of the subject creature, gradually destroying the creature's mind.
+The spores permanently drain 1d6 points of Intelligence immediately.
+Each round thereafter, the spores gradually eat away at the subject's brain, permanently draining 1 additional point of Intelligence.
+The subject may roll a Fortitude save each round to combat the effects of the spores.
+A successful save ends the spores' advance and halts any further loss of Intelligence.
+ <b>Also appears in</b>   Spell Compendium     

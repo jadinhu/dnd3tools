@@ -1,0 +1,16 @@
+<b>Low-light Vision</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Assassin 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You give the subject creature lowlight vision.
+Arcane Material Component: A small candle.
+ <b>Also appears in</b>   Complete Arcane  Unapproachable East  Spell Compendium  Magic of Faerun     

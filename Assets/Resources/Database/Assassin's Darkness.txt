@@ -1,0 +1,21 @@
+<b>Assassin's Darkness</b>(Complete Scoundrel, p. 95)
+
+Evocation [Darkness]
+ <b>Level:</b>  Assassin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 40-ft.-radius spherical emanation
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> No
+
+ 	
+Covering your eyes and spitting a harsh whisper, you conjure a globe of absolute blackness before you.
+As you step forward, your sight alone pierces the darkness, showing you your disoriented victims within.
+You call a globe of absolute darkness into being, which only you can see through.
+All other creatures within or who enter this spell's area are blinded while they remain in the area.
+Even creatures that have darkvision cannot see through this magical obscurement, although creatures capable of seeing in magical darkness (such as devils) are not affected by it.
+While you are outside the sphere, you can see nothing within, and every creature within has total concealment.
+Upon entering the spell's area, however, you can see as if the area were illuminated by bright light and can interact with those within as normal, even though they cannot see you.
+   

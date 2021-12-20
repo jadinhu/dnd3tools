@@ -1,0 +1,23 @@
+<b>Monstrous Regeneration</b>(Magic of Faerun)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 round/2 levels
+ <b>Saving Throw:</b> Will half (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You give the target the regeneration ability that some monsters possess.
+Attacks against the creature except fire and acid inflict subdual damage instead of lethal damage.
+It heals subdual damage at a rate of 4 points per round.
+A regenerating creature that has been rendered unconscious through subdual damage can be killed with a coup de grace.
+The attack has to inflict fire or acid damage.
+Attack forms that don't inflict hit point damage (for example, most poisons and disintegration) ignore regeneration.
+Regeneration also does not restore hit points lost from starvation, thirst, or suffocation.
+A regenerating creature can regrow lost portions of its body (although the spell duration is usually not long enough to allow this except for very small portions such as fingers) and can reattach severed limbs as a move-equivalent action.
+Severed parts that are not reattached wither and die normally.
+When the spell ends, all the creature's subdual damage is converted to normal damage.
+   

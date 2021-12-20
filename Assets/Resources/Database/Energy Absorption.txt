@@ -1,0 +1,22 @@
+<b>Energy Absorption</b>(Complete Mage)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,  Wu Jen 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level or until expended
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Your skin warms, and your chest fills with a rush of cool air.
+The sensation fades as you touch your subject, transferring a spark of all the energies of magic.
+The subject gains resistance 10 against all five energy types: acid, cold, electricity, fire, and sonic.
+As an immediate action, the subject can cause the spell to absorb the power of a single energy-based attack.
+The subject gains immunity to any energy types used in that attack (but only for that attack), and also heals a number of points of damage equal to 1/2 the damage the effect would normally have caused.
+For instance, if a red dragon breathes fire on the subject for 87 points of damage, he could decide as an immediate action to absorb the effect, thus healing 43 points of damage instead of taking any damage.
+Hit points in excess of the subject's normal maximum are lost.
+Taking advantage of this function ends the duration of the spell.
+   

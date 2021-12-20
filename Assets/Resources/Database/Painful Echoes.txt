@@ -1,0 +1,21 @@
+<b>Painful Echoes</b>(Complete Mage)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature/4 levels, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your shout seems to echo into eternity, causing your foes to twitch and writhe as the reverberations pummel them internally.
+You set up painful vibrations within your subjects.
+Each round, the spell deals 1d4 points of sonic damage and sickens each subject for 1 round.
+A successful Fortitude save negates the damage and the sickening effect for that round, but the subject must continue to save every round until the duration expires.
+Creatures that are immune to extra damage from critical hits are immune to the sickening effect.
+If a subject under the effect of painful echoes is affected by deafening blast (see page 101) or resonating agony (see page 115), the two spells interact to create a greater effect.
+See the deafening blast and resonating agony spells for details.
+   

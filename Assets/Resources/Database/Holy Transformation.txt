@@ -1,0 +1,13 @@
+<b>Holy Transformation</b>(Spell Compendium, p. 116)
+
+Transmutation [Good]
+ <b>Level:</b>  Cleric 7,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+This spell functions like <b>lesser holy transformation</b>, but when you cast this spell, you assume the physical appearance and many of the qualities and abilities of a hound archon (MM 16). While under the effect of the spell, your creature type changes to outsider (archon, good, lawful), and your size changes to Medium. You have the space and reach of a hound archon (5 feet/5 feet). You gain a +4 sacred bonus to Strength and Constitution. You gain darkvision out to 60 feet. You gain a +4 sacred bonus on saving throws. You gain damage reduction 5/evil. Evil creatures within 10 feet of you take a -2 penalty on attack rolls and saving throws. You gain the ability to speak and understand Celestial.
+   

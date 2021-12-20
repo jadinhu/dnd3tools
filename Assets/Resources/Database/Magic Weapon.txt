@@ -1,0 +1,17 @@
+<b>Magic Weapon</b>(Player's Handbook v.3.5, p. 251)
+
+Transmutation
+ <b>Level:</b>  Cleric 1, Blackguard 1,  Sha'ir 1,  Wu Jen 1 (Metal),  Duskblade 1,  Knight of the Chalice 1,  Knight of the Weave 1,  Hunter of the Dead 1,  Disciple of Thrym 1,  Wizard 1,  Sorcerer 1,  Paladin 1,  Death Master 1,   War 1,  Dwarf 1,  Metal 1,  Revered Ancestor 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+Magic weapon gives a weapon a +1 enhancement bonus on attack and damage rolls. (An enhancement bonus does not stack with a masterwork weapon's +1 bonus on attack rolls). 
+	
+You can't cast this spell on a natural weapon, such as an unarmed strike (instead, see magic fang). A monk's unarmed strike is considered a weapon, and thus it can be enhanced by this spell.
+   

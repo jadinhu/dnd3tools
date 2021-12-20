@@ -1,0 +1,17 @@
+<b>Skin of the Steel Dragon</b>(Champions of Valor)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/3 levels
+
+ 	
+This spell grants you spell resistance equal to 10 + your caster level.
+If you are a sorcerer, this spell also grants you a +5 resistance bonus on saving throws against poison.
+Some of Mystra's servants are steel dragons, shapeshifting creatures who love living among humanoids.
+Some sorcerers claim their magic comes from a long-ago dragon ancestor, one of the first steel dragons to serve Mystra in FaerÃ»n.
+Material Component: A piece of steel in the shape of a seven-pointed star or a steel holy symbol of Mystra's faith.
+   

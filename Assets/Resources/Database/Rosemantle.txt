@@ -1,0 +1,18 @@
+<b>Rosemantle</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Cleric 1 (Lathander),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You cause the target to glow with a soft, faint, rosy radiance equal to candlelight.
+This glow protects the target against effects that work by directly causing pain (such as Nybor's gentle reminder), nausea, and fear effects by granting a +1 sacred bonus per caster level (up to +10) on saving throws against those spells and effects.
+The target also becomes temporarily immune to poison (as the delay poison spell).
+This spell only suppresses these effects, not negates them, so the effects resume when this spell expires.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

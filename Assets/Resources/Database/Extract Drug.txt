@@ -1,0 +1,18 @@
+<b>Extract Drug</b>(Book of Vile Darkness)
+
+Conjuration (Creation)
+ <b>Level:</b>  Bard 1,  Cleric 1,  Druid 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Effect:</b> One dose of a drug
+ <b>Duration:</b> Permanent
+
+ 	
+The caster infuses a substance with energy and creates a magical version of a drug.
+The magical version manifests as greenish fumes that rise from the chosen focus.
+The fumes must then be inhaled as a standard action within 1 round to get the drug's effects.
+The type of drug extracted depends on the substance used.
+There may be other drugs that can be extracted with rarer substances, at the DM's discretion.
+Focus: 15 lb. or 1 cubic foot of the material in question.
+   

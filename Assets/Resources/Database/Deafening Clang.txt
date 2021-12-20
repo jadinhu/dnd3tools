@@ -1,0 +1,18 @@
+<b>Deafening Clang</b>(Magic of Faerun)
+
+Transmutation [Sonic]
+ <b>Level:</b>  Paladin 1 (Gaerdal Ironhand),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+You empower the touched weapon with magic that causes it to emit a loud clang when it is struck against a hard surface, such as a floor, wall, or creature.
+The item can create this noise once per round.
+The clang has the effect of a thunderstone (see page 114 of the Player's Handbook) except that the caster and the weapon user are unaffected by the sound and the deafness lasts 1 minute.
+If an attack with the weapon misses the target but was enough to make a touch attack, the weapon strikes the creature with sufficient force to activate the deafening clang.
+ <b>Also appears in</b>   Spell Compendium     

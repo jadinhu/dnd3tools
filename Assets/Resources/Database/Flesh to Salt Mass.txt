@@ -1,0 +1,11 @@
+<b>Flesh to Salt, Mass</b>(Sandstorm)
+
+Transmutation
+ <b>Level:</b>  Druid 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>
+ <b>Target:</b> One or more creatures, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like flesh to salt, except that it affects multiple creatures.
+You can transform one additional creature for every four caster levels, to a maximum of five creatures at 20th level.
+   

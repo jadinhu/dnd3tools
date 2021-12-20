@@ -1,0 +1,21 @@
+<b>Manyjaws</b>(Player's Guide to FaerÃ»n)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One pair of disembodied, flying jaws per caster level (maximum ten pairs)
+ <b>Duration:</b> 3 rounds
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you summon several pairs of mystical, disembodied jaws that fly about and attack your foes.
+These pairs of jaws may be commanded to attack separate targets, or multiple pairs may be sent to attack a single foe.
+The jaws originate at your location and fly out to attack their targets, moving at a fly speed of 40 feet with perfect maneuverability.
+You may redirect as many of the jaws as you desire as a standard action.
+Each round on your action, each pair of jaws automatically hits its target and deals 1d4 points of damage, or half that amount with a successful Reflex save.
+A creature targeted by multiple pairs of jaws in a single round makes only one saving throw, with success halving the total damage.
+Material Component: A pair of teeth.
+ <b>Also appears in</b>   Spell Compendium     

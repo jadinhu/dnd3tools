@@ -1,0 +1,26 @@
+<b>Bane Bow</b>(Complete Divine)
+
+Evocation
+ <b>Level:</b>  Ranger 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Ranged weapon touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell allows you to channel divine power into any ranged weapon you choose.
+The weapon gains a +5 enhancement bonus on attack and damage rolls, plus the bane quality (+7 enhancement bonus on attack and damage rolls, plus an additional 2d6 points of damage) against foes of a type you specify.
+You must choose one of your favored enemy categories as the type that your bane bow is effective against.
+The spell is automatically canceled 1 round after the weapon leaves your hand.
+You cannot have more than one bane bow at a time.
+If this spell is cast on a magic weapon, the powers of the spell supersede any that the weapon normally has, rendering the normal enhancement bonus and powers of the weapon inoperative for the duration of the spell.
+This spell is not cumulative with other spells that modify weapons in some way.
+This spell does not work on artifacts.
+Note: A masterwork weapon's bonus on attack rolls does not stack with a magic enhancement bonus on attacks.
+Ammunition fired from a bane bow loses its magic qualities (taking those of the bane bow instead), but it retains its
+material qualities for the purpose of overcoming damage reduction.
+For example, a bane bow can still shoot silver arrows that bypass the damage reduction of lycanthropes.
+   

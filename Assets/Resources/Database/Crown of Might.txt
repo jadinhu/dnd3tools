@@ -1,0 +1,23 @@
+<b>Crown of Might</b>(Player's Handbook II, p. 108)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Duskblade 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level (D) or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>A crown of plain copper appears upon the recipient's head. The crown has a front piece fashioned to resemble a bull's head.</b>
+	
+This spell creates a crown of magical energy that grants the spell's recipient a +2 enhancement bonus to Strength. 
+	
+As an immediate action, the creature wearing a crown of might can discharge its magic to gain a +8 enhancement bonus to Strength for 1 round. The spell ends after the wearer uses the crown in this manner. 
+	
+The crown occupies space on the body as a headband, hat, or helm. If the crown is removed, the spell immediately ends.
+	
+Focus: A copper hoop 6 inches in diameter.
+   

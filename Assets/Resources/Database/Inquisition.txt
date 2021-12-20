@@ -1,0 +1,19 @@
+<b>Inquisition</b>(Book of Exalted Deeds)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>   Sanctified 5,   
+<b>Components:</b>Sacrifice
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature with an Intelligence of 6 or more
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With this spell, the caster compels the target creature to divulge information it may be hiding.
+If the target fails its save, it is forced to reply to the caster's questions (one question per three caster levels), speak truthfully, and not respond in such a way that the answers provided may be misleading.
+The questions posed may be answered with a simple yes or no, or they may require a more detailed response.
+This spell cannot be used to force the target to divulge information it doesn't know, and the target creature is unable to fabricate lies of any kind while under the spell's hold.
+Sacrifice: 1d4 points of Constitution damage.
+   

@@ -1,0 +1,17 @@
+<b>Precipitate Complete Breach</b>(Planar Handbook)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Complete planar breach; see text
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As precipitate breach, except casting this spell creates a complete breach, as described on page 152.
+Material Component: Jade dust worth 1,000 gp sprinkled in the center of the effect.
+XP Cost: 1,000 XP.
+   

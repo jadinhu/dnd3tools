@@ -1,0 +1,15 @@
+<b>Rhino's Rush</b>(Spell Compendium, p. 176)
+
+Transmutation
+ <b>Level:</b>  Paladin 1,  Ranger 1,   Wrath (SpC) 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>A violent fury consumes you. You seek nothing more than to charge at your enemies and bash in their heads.</b>
+	
+This spell allows you to propel yourself in a single deadly charge. The first charge attack you make before the end of the round deals double damage on a successful hit.
+   

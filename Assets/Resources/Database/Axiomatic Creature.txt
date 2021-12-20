@@ -1,0 +1,26 @@
+<b>Axiomatic Creature</b>(Book of Exalted Deeds)
+
+Transmutation
+ <b>Level:</b>  Cleric 8,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, Archon
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> One corporeal creature of lawful or neutral alignment that is native to the Material Plane
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell transforms the target into an axiomatic creature � ;a perfect version of itself.
+The spell rids the creature of noticeable flaws, makes its fur or scales appear shinier, and so forth.
+Animals touched by this spell become magical beasts, but otherwise the creature's type is unchanged.
+If the target has an Intelligence of 2 or less, the spell imbues the target with an Intelligence of 3.
+As an axiomatic creature, the target gains the following special attack:
+Smite Chaos (Su): Once per day, the target can make a normal attack to deal extra damage equal to its HD total (maximum +20) against a chaotic opponent.
+The target gains the following special quality:
+Linked Minds (Ex): The target can communicate telepathically with other axiomatic creatures of its type within 300 feet.
+If one in the group is not flat-footed, none of them are, and no axiomatic creature in the group is considered flanked unless they all are.
+The target also gains darkvision with a range of 60 feet, spell resistance equal to double its HD (maximum 25), and resistance to cold, electricity, fire, and sonic attacks based on its HD, as shown below:
+Material Component: A diamond wand worth at least 10,000 gp.
+XP Cost: 1,000 XP.
+   

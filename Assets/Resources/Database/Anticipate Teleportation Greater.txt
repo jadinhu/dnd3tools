@@ -1,0 +1,13 @@
+<b>Anticipate Teleportation, Greater</b>(Complete Arcane)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>
+ <b>Casting Time:</b> 10 minutes
+ <b>Duration:</b> 24 hours
+
+ 	
+As anticipate teleportation, except that greater anticipate teleportation identifies the type of the arriving creature (and any companions accompanying it) and creates a delay of 3 rounds, providing the recipient with even more warning and preparation time.
+Focus: A tiny hourglass of platinum and crystal filled with diamond dust, costing 1,000 gp.
+The hourglass must be carried or worn by the spell's recipient while the spell is in effect.
+ <b>Also appears in</b>   Spell Compendium     

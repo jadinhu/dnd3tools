@@ -1,0 +1,20 @@
+<b>Flashburst</b>(Forgotten Realms Campaign Setting)
+
+Evocation [Fire]
+ <b>Level:</b>  Hathran 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> A 20-ft.-radius burst
+ <b>Duration:</b> Instantaneous (see text)
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Flashburst creates a blinding, dazzling flash of light.
+Sighted creatures within the area are automatically dazzled for 1 round (-1 penalty on attack rolls), and possibly blinded for 2d8 rounds (Will negates).
+Creatures outside the area, but within 120 feet of the burst, can be blinded if they have line of sight to the burst (Will negates).
+The spell does not dazzle creatures outside the burst area.
+In addition to the obvious effects, a blinded character suffers a 50% miss chance in combat (all opponents have full concealment), loses any Dexterity bonus to AC, grants a +2 bonus on attackers' attack rolls (they are effectively invisible), moves at half speed, and suffers a <del>4 penalty on most Strength</del> and Dexterity-based skill checks.
+Arcane Material Component: A pinch of sulfur or phosphorus.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,33 @@
+<b>Awaken Sand</b>(Sandstorm)
+
+Transmutation
+ <b>Level:</b>  Druid 6,   Sand 6,   
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 24 hours
+ <b>Range:</b> Touch
+ <b>Target:</b> 15-ft. area of sand touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You awaken a region of sand, or similar material, to humanlike sentience.
+To succeed, you must make a DC 18 Will save.
+The awakened sand is friendly toward you.
+You have no special empathy or connection with sand you awaken, although it serves you in specific tasks or endeavors if you communicate your desire to it.
+The sand creature you awaken has the same statistics as a Huge animated object with a base land speed of 40 feet and a burrow speed of 20 feet.
+Unlike normal animated objects, awakened sand beings have the earth subtype, and their Intelligence, Wisdom, and Charisma scores are each 3d6.
+A sand being has immunity to polymorphing.
+The awakened sand can speak one language you know, plus one additional language that you know per point of Intelligence bonus (if any) it has.
+A sand creature can engulf Large or smaller creatures as a standard action.
+It cannot make a slam attack during a round in which it engulfs.
+The sand creature merely has to move over the opponents, affecting as many as it can cover.
+Opponents can make attacks of opportunity against the creature, but if they do so they are not entitled to a saving throw.
+Those who do not attempt attacks of opportunity must succeed on a DC 19 Reflex save or be engulfed; on a success, they are pushed back or aside (opponent's choice) as the creature moves forward.
+Engulfed opponents are considered grappled and are trapped within the sand creature's body.
+The sand creature deals 1d6+3 points of damage to trapped opponents each round after the one in which it engulfed them.
+Opponents that need to breathe risk suffocation (see page 304 of the Dungeon Master's Guide).
+The save DC is Strength-based.
+Sand creatures are amorphous and can do anything sand would be expected to do � ;hide perfectly atop other sand, form into dunes and drifts, and pour through small openings (although passing through an opening two size categories smaller than the creature takes a full-round action).
+XP Cost: 500 XP.
+   

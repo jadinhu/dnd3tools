@@ -1,0 +1,16 @@
+<b>Punishing Stance</b>(Tome of Battle: The Book of Nine Swords, p. 69)
+
+Iron Heart (Stance)
+ <b>Level:</b>  Warblade 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You chop down violently with your weapon, lending extra force to your blows. These attacks come at a cost, as your enemies slash at your undefended legs and flanks.</b>
+	
+You hold your weapon overhead, allowing you to chop down with superior force. However, this fighting stance leaves you vulnerable to an opponent?s attacks. Only an initiate of the Iron Heart tradition can manage the perilous balance between trading attack power for defense. A lesser warrior would leave himself nearly helpless to resist an opponent?s attacks.
+	
+While you are in this stance, you deal an extra 1d6 points of damage with all melee attacks. You also take a ?2 penalty to AC, because this fighting stance emphasizes power over a defensive posture.<   

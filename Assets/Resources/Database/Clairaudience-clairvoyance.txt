@@ -1,0 +1,17 @@
+<b>Clairaudience-clairvoyance</b>(Player's Handbook v.3.5, p. 209)
+
+Divination (Scrying)
+ <b>Level:</b>  Assassin 4, Trapsmith 1,  Bard 3,  Savant 3 (Arcane),  Sha'ir 3,  Beguiler 3,  Vigilante 3,  Court Herald 3,  Hoardstealer 3,  Wizard 3,  Sorcerer 3,  Ebonmar Infiltrator 4,   Drow 2,  Knowledge 3,  Lust 3,  Mentalism 3,  Planning 3,   
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> Magical sensor
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Clairaudience/clairvoyance</b> creates an invisible magical sensor at a specific location that enables you to hear or see (your choice) almost as if you were there. You don't need line of sight or line of effect, but the locale must be known � ;a place familiar to you or an obvious one, such as behind a door, around a corner, or in a grove of trees. Once you have selected the locale, the sensor doesn't move, but you can rotate it in all directions to view the area as desired. Unlike other scrying spells, this spell does not allow magically or supernaturally enhanced senses to work through it. If the chosen locale is magically dark, you see nothing. If it is naturally pitch black, you can see in a 10- foot radius around the center of the spell's effect. <b>Clairaudience/clairvoyance</b> functions only on the plane of existence you are currently occupying.
+	
+<b>Arcane Focus:</b> A small horn (for hearing) or a glass eye (for seeing).
+   

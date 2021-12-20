@@ -1,0 +1,19 @@
+<b>Echo Skull</b>(Spell Compendium)
+
+Divination
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Animal skull touched
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+<b>You cast the spell and the animal skull in your hand glows green, the radiance fading quickly. You cast your perception into the skull and see your own form holding it. You switch your viewpoint back and set the skull aside, able to eavesdrop and surprise any trespassers.</b>
+	
+You can see, hear, and speak through a diny dried animal skull at any distance. As long as you and the skull remain on the same plane, you can see and hear as if you were standing where it is, and during your turn you can swith your perception from its location to your own or back again as a free action.
+	
+<b>Focus:</b> A tiny dried animal skull.
+ <b>Also appears in</b>   Magic of Faerun     

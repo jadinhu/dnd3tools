@@ -1,0 +1,23 @@
+<b>Backbiter</b>(Complete Arcane)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,  Wu Jen 1 (Wood),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One weapon
+ <b>Duration:</b> 1 round/level or until discharged
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You cast this spell on any wooden-hafted two-handed weapon (such as a greataxe or heavy flail) or any wooden-hafted reach weapon (such as a longspear or glaive).
+The next time that weapon is used to make a melee attack, its shaft twists around so that the weapon strikes the wielder instead, with the attack roll applied against the attacker's own AC.
+The wielder gets no warning or knowledge of the spell's effect on his weapon, and though he makes the attack, the self-dealt damage can't be consciously reduced (though damage reduction applies) or changed to nonlethal damage.
+Once the weapon attacks its wielder (whether successfully or not), the spell is discharged.
+The spell can target a weapon of any size as long as its wielder normally uses it as a two-handed weapon or a reach weapon.
+For example, a Small longspear wielded by a halfling could be the target of the spell, but not the same Small longspear wielded by a human; in the human's hands, the weapon is too small to twist around and strike its wielder.
+Magic weapons targeted by this spell receive a Will save.
+An item in a creature's possession uses its own Will save bonus or its wielder's bonus, whichever is higher.
+Focus: A dagger.
+ <b>Also appears in</b>   Spell Compendium  Oriental Adventures     

@@ -1,0 +1,19 @@
+<b>Stalwart Pact</b>(Complete Divine)
+
+Evocation
+ <b>Level:</b>  Cleric 5,   Pact 5,   
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing living creature touched
+ <b>Duration:</b> Permanent until triggered, then 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell allows the target to enter a binding agreement with a deity that provides a measure of protection when the need is dire.
+Once this spell is cast, the pact remains dormant until the target is reduced to half or less of her full normal hit points.
+The target immediately gains 5 temporary hit points per caster level, damage reduction of 5/magic, and a +4 luck bonus on saving throws.
+The hit points, damage reduction, and saving throw bonus evaporate when the spell ends.
+XP Cost: 250 XP.
+ <b>Also appears in</b>   Spell Compendium  Races of Destiny     

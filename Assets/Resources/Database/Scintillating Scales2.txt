@@ -1,0 +1,15 @@
+<b>Scintillating Scales</b>(Spell Compendium, p. 181)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+<b>You invoke the words of this spell, and your skin glistens and shimmers with a silvery protective aura that makes you shine.</b>
+	
+This spell transforms your natural armor bonus to Armor Class into a deflection bonus to your Armor Class. While your overall Armor Class might not change, the deflection bonus applies to melee touch attacks and ranged touch attacks, including incorporeal touch attacks. If you have no natural armor bonus, this spell has no effect.
+ <b>Also appears in</b>   Draconomicon     

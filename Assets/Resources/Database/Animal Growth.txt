@@ -1,0 +1,27 @@
+<b>Animal Growth</b>(Player's Handbook v.3.5, p. 198)
+
+Transmutation
+ <b>Level:</b>  Ranger 4,  Druid 5,  Sorcerer 5,  Wizard 5,  Wu Jen 5,  Sha'ir 5,   Scalykind 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Up to one animal (Gargantuan or smaller) per two levels, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A number of animals grow to twice their normal size and eight times their normal weight. This alteration changes each animal's size category to the next largest (from Large to Huge, for example), grants it a +8 size bonus to Strength and a +4 size bonus to Constitution (and thus an extra 2 hit points per HD), and imposes a -2 size penalty to Dexterity. The creature's existing natural armor bonus increases by 2. The size change also affects the animal's modifier to AC and attack rolls and its base damage, as detailed on Table 2-2 in the <b>Dungeon Master's Guide</b>. The animal's space and reach change as indicated on Table 8-4: Creature Size and Scale (page 149), but its speed does not change.
+	
+The spell also grants each subject damage reduction 10/magic and a +4 resistance bonus on saving throws.
+	
+<b>Special: When casting <b>animal growth</b> as a Scalykind Domain spell, only ophidian and reptilian creatures are affected.</b>
+	
+If insufficient room is available for the desired growth, the creature attains the maximum possible size and may make a Strength check (using its increased Strength) to burst any enclosures in the process. If it fails, it is constrained without harm by the materials enclosing it � ;the spell cannot be used to crush a creature by increasing its size.
+	
+All equipment worn or carried by an animal is similarly enlarged by the spell, though this change has no effect on the magical properties of any such equipment. Any enlarged item that leaves the enlarged creature's possession instantly returns to its normal size.
+	
+The spell gives no means of command or influence over the enlarged animals.
+	
+Multiple magical effects that increase size do not stack, which means (among other things) that you can't use a second casting of this spell to further increase the size of an animal that's still under the effect of the first casting.
+   

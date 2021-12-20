@@ -1,0 +1,23 @@
+<b>Fierce Pride of the Beastlands</b>(Spell Compendium, p. 92)
+
+Conjuration (Summoning) [Chaotic, Good]
+ <b>Level:</b>  Cleric 8,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Two or more summoned creatures, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Green-white fog rises from the ground as you intone this spell, and great feline shadows take shape within the misty cloud. The first of a pride of golden-pelted lions with silver eyes emerges from the fog.</b>
+	
+When the spell is complete, 2d4 celestial lions (<b>MM</b> 274) appear. Ten minutes later, 1d4 celestial dire lions (<b>MM</b> 63) appear. Each creatures has maximum hit points per Hit Die. once these creatures appear, they serve you for the duration of the spell.
+	
+A celestial lion called by this spell has damage reduction 5/magic; resistance to acid 5, cold 5 and electricity 5; spell resistance 9; and a smite evil attack that provides a +5 bonus on one damage roll.
+	
+A celestial dire lion called by this spell has damage reduction 5/magic; resistance to acid 10, cold 10 and electricity 10; spell resistance 13; and a smite evil attack that provides a +8 bonus on one damage roll.
+	
+The creatures obey you explicitly and never attack you, even if someone else manages to gain control over them. You do not need to concentrate to maintain control over the creatures. You can dismiss them singly or in groups at any time.
+   

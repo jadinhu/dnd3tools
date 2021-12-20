@@ -1,0 +1,18 @@
+<b>Negative Energy Burst</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 20-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You release a silent burst of negative energy from a point you indicate.
+The burst deals 1d8 points of damage to living creatures in the area +1 point per caster level (maximum 1d8+10).
+A successful Will save reduces damage by half.
+Since undead are powered by negative energy, this spell cures them of a like amount of damage, rather than harming them.
+   

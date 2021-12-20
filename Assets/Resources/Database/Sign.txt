@@ -1,0 +1,17 @@
+<b>Sign</b>(Miniatures Handbook)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Cleric 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level
+
+ 	
+You are granted a vision that shows you how your foes will act each round and allows you to respond quickly to them.
+When you cast this spell, you may set your initiative check result at 20 + your initiative modifier (but only if doing so increases the result).
+You know the initiative check results of all your foes while the spell is in effect, and you know which opponent will act first in case of ties.
+This spell applies to all foes in your line of sight.
+Material Component: A small piece of dried goat intestine or some tea leaves.
+ <b>Also appears in</b>   Spell Compendium     

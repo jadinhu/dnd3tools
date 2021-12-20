@@ -1,0 +1,23 @@
+<b>Investiture of the Ice Devil</b>(Fiendish Codex II: Tyrants of the Nine Hells)
+
+Transmutation [Evil, Investiture]
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Malevolent blue light suffuses the target as the temperature nearby drops ominously.
+You infuse a creature with the savage brutality and cold cunning of an ice devil.
+While under the effect of this spell, whenever the subject hits a living creature with a melee attack, that creature must succeed on a Will save against the spell's DC or be slowed for 3 rounds.
+The subject also deals an extra 1d6 points of cold damage with each successful melee attack that it makes with a weapon or natural weapon.
+In addition, the subject gains resistance to cold and fire 10.
+The resistance to fire stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the ice devil).
+While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture.
+After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute.
+Material Component: A fist-sized chunk of brimstone.
+   

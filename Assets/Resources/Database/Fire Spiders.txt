@@ -1,0 +1,26 @@
+<b>Fire Spiders</b>(Magic of Faerun)
+
+Conjuration (Summoning) [Fire]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 240 fiery spiders that cover a 20-ft.-radius spread
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You call forth a swarm of 240 fire elementals the size of common spiders.
+The fire spiders each have 1/4 d8 HD (1 hp), speed 10 ft., climb 10 ft., and AC 18 (+8 size).
+They distribute themselves evenly within the initial area of the spell (six creatures per 5-foot square), and after the first round they move as a swarm, seeking creatures and objects to attack and ignite.
+The attacks by the fire spiders in a 5-foot-square area can be treated as an area attack by the group, inflicting fire damage equal to the number of spiders in that square (a Reflex saving throw halves the damage).
+Unlike with a creeping doom spell, the fire spiders do not die after inflicting damage, and only disappear if they are slain, the spell duration expires, or they are somehow banished to their home plane.
+Fire spiders can ignite flammable objects if they rest on one for 2 or more rounds.
+As fire elementals, the fire spiders are immune to fire and are thwarted by barriers that block neutral outsiders.
+Water or other nonflammable liquid (including acid) kills them, a flask destroying 2d4 fire spiders in a targeted 5-foot square and causing 1 point of splash damage to adjacent squares (killing one spider in each adjacent square).
+If some of the creatures die, the swarm condenses, growing smaller in area, maintaining the density of six creatures per 5-foot area.
+Thousands of years ago, the drow used this spell to set on fire a large portion of what is now the Border Forest, separating it further from the forest of Cormanthor.
+Material Component: A handful of rubies or ruby dust worth
+at least 500 gp.
+ <b>Also appears in</b>   Spell Compendium     

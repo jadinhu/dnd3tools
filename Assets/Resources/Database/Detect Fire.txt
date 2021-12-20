@@ -1,0 +1,11 @@
+<b>Detect Fire</b>(Frostburn)
+
+Divination [Cold]
+ <b>Level:</b>  Cleric 1,  Disciple of Thrym 1,    
+<b>Components:</b>
+
+ 	
+This spell functions like detect evil (see page 218 of the Player's Handbook), except that it detects heat energy from normal fire, fire spells, fire magic items, clerics of fire deities, and all living beings other than those with the cold subtype.
+You are vulnerable to an overwhelming heat aura if you have the cold subtype.
+Living beings without the fire subtype are detected with a heat aura strength of faint only, regardless of level or Hit Dice.
+   

@@ -1,0 +1,23 @@
+<b>Spell Flower</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You are able to hold the charge on one touch spell per forelimb of your body as long as you don't use that limb to cast other spells or touch anything with it.
+Each touch spell you cast resides in a different forelimb.
+For the duration of this spell, any touch spells you cast are only discharged if you cast another spell with that forelimb or touch something with that forelimb.
+For example, a human sorcerer casts this spell, then casts chill touch and holds the charge in his left hand, then casts shocking grasp and holds the charge in his right hand.
+Because of the spell flower, he can hold the charge on both of these spells at the same time.
+If he cast another spell with a somatic component (which requires the use of one of his hands), he immediately loses one of his held touch spells (his choice), but if the spell he casts is also a touch spell, he may immediately hold the charge in the available hand.
+If he chooses to attack with a touch spell, it works normally.
+Since he has multiple limbs that are considered armed, he may make an off-hand attack with the other touch spell in the same round (with the normal penalties for fighting with two weapons).
+A marilith spellcaster could do the same as the sorcerer in the previous example, except that she could hold the charge on up to six touch spells.
+She could also use any of her spell-like or supernatural abilities, since those do not interfere with holding the charge.
+If the spell flower ends, the most recent touch spell cast remains as a held charge and all other held spells dissipate.
+ <b>Also appears in</b>   Spell Compendium     

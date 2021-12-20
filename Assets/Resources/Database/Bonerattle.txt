@@ -1,0 +1,18 @@
+<b>Bonerattle</b>(Ghostwalk)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 1,  Bone Collector 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature with bones
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates a deep resonating vibration that damages bone.
+It does not affect creatures that do not have true bones (such as elementals, incorporeal creatures, most golems, oozes, plants, or purely ectoplasmic creatures) or that are under the effect of spells that alter their bones (such as stone bones, or a polymorph spell to turn into a boneless creature), but does affect creatures with exoskeletons instead of humanlike bones (such as vermin).
+The spell deals 1d4 points of damage per caster level (maximum 5d4).
+Arcane Material Component: A tiny bell carved from a bone.
+   

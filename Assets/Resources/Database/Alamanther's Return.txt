@@ -1,0 +1,25 @@
+<b>Alamanther's Return</b>(Magic of Faerun)
+
+Transmutation [see text]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 full round (see text)
+ <b>Range:</b> See text
+ <b>Effect:</b> One spell or spell-like ability
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> See text
+
+ 	
+You duplicate the effect of any one spell or spell-like ability you have seen.
+This spell can only duplicate spells and spell-like abilities of 8th level or lower.
+This duplication functions like the ability of a wish spell to duplicate another spell, except that it is not limited by type of spell (divine or arcane) or by what school the effect is from.
+A duplicated spell or spell-like ability functions as if you had the appropriate spell prepared and were casting it yourself.
+If the casting time of the spell is greater than 1 full round, add 1 full round to the casting time of Alamanther's return.
+If the spell or ability has an XP cost, you must pay that XP cost in addition to the XP cost of this spell.
+If the spell has a costly material component, you must provide that component or pay an additional XP cost equal to the gp value of that component divided by 5.
+Alamanther of Aglarond, a former consort of the Simbul, created this spell.
+He was eventually destroyed in one of his frequent battles against the Red Wizards of Thay.
+Material Component: A silver mirror worth 50 gp.
+XP Cost: 1,000 XP or more.
+   

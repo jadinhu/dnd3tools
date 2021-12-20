@@ -1,0 +1,14 @@
+<b>Bonesplitting Strike</b>(Tome of Battle: The Book of Nine Swords, p. 81)
+
+Stone Dragon (Strike)
+ <b>Level:</b>  Crusader 4 (Two Stone Dragon maneuvers),  Swordsage 4 (Two Stone Dragon maneuvers),  Warblade 4 (Two Stone Dragon maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>Your attack slams home with a ferocious crack of shattered bones and pulped flesh. Your target reels backward, still alive but severely crippled.</b>
+	
+A Stone Dragon adept is an implacable foe. Your attacks smash through armor and turn bone into dust. By focusing your strength into a single, devastating attack, you smash an opponent to the core. His very health and endurance are left wrecked by your attack. As part of this maneuver, you make a single melee attack. If your attack hits, the target takes normal damage as well as 2 points of Constitution damage.
+   

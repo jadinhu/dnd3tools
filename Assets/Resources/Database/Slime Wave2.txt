@@ -1,0 +1,25 @@
+<b>Slime Wave</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Cleric 7,  Druid 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 15-ft.-radius spread
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a wave of green slime that begins at the range you choose and violently spreads to the limit of the area.
+The wave splashes and splatters as it passes; some slime clings to any wall or ceiling.
+Green slime devours flesh and organic materials on contact, and even dissolves metal.
+Each creature is covered with one patch of green slime for every 5 feet of its face.
+A patch of green slime deals 1d6 points of temporary Constitution damage per round while it devours flesh.
+Against wood or metal, green slime deals 2d6 points of damage per round, ignoring metal's hardness but not that of wood.
+It does not harm stone.
+On the first round of contact, the slime can be scraped off a creature (most likely destroying the scraping device), but after that it must be frozen, burned, or cut away (applying damage to the victim as well).
+Extreme cold or heat, sunlight, or a remove disease spell destroys the green slime.
+Unlike normal green slime, the slime created by this spell gradually evaporates, disappearing by the end of the duration.
+Material Component: A few drops of stagnant pond water.
+ <b>Also appears in</b>   Spell Compendium  Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Fiendish Codex I: Hordes of the Abyss  Complete Divine     

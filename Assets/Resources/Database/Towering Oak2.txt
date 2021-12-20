@@ -1,0 +1,15 @@
+<b>Towering Oak</b>(Spell Compendium, p. 221)
+
+Illusion (Glamer)
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>You evoke the power of the forests, giving yourself the ability to speak for them. You loom over others like a mighty tree dwarfs lesser plants.</b>
+	
+You draw on the oak's strength to improve your ability to intimidate your enemies. You gain a +10 competence bonus on Intimidate checks and a +2 enhancement bonus to Strength.
+ <b>Also appears in</b>   Magic of Faerun     

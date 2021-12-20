@@ -1,0 +1,22 @@
+<b>Charge of the Triceratops</b>(Spell Compendium, p. 45)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Ranger 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Holding your hand to your head � ;index and middle fingers extended in a V � ;you call upon the ancient power of the triceratops. You touch your intended target, which then grows large horns, a bony skull plate, and a thickened hide.</b>
+	
+The horns created by this spell grant a natural gore attack that deals 1d8 points of damage (1d6 points of damage if the subject creature is Small, 2d6 if Large). If the gore attack is used as part of a charge, it deals double damage.
+	
+If the gore attack is used as a primary weapon, the subject adds 1-1/2 times its Strength bonus to the damage of the attack. If it is used as a secondary weapon, the subject adds only 1/2 its Strength bonus to the 
+damage roll, and takes a � ;5 penalty on the attack roll.
+	
+The recipient also gains a +4 enhancement bonus to its natural armor.
+   

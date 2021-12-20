@@ -1,0 +1,17 @@
+<b>Conviction, Mass</b>(Spell Compendium, p. 52)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Allies in a 20-ft.-radius burst
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You hold the holy passage aloft and invoke the power of its words. Around you, your friends are bathed in a sea-blue nimbus of light.</b>
+	
+This spell functions like <b>conviction</b>, except that it affects multiple allies at a distance.
+   

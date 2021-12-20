@@ -1,0 +1,21 @@
+<b>Weather Eye</b>(Spell Compendium, p. 238)
+
+Divination
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> 1 mile + 1 mile/level
+ <b>Area:</b> 1-mile radius + 1-mile/level centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Using your connection to the divine forces and nature, you gaze into your scrying device and summon images to mind of what the future holds for the weather.</b>
+	
+You can accurately predict the natural weather up to one week into the future. If unnatural forces currently affect the weather, then weather eye reveals the spells or abilities in effect, though not the source of those abilities.
+	
+Material Component: Incense.
+	
+Focus: A scrying device of some kind (bowl, mirror, crystal ball, and so forth).
+ <b>Also appears in</b>   Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins     

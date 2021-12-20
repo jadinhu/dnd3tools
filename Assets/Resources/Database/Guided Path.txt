@@ -1,0 +1,19 @@
+<b>Guided Path</b>(Complete Mage)
+
+Divination
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+With a sudden flash of insight, you know exactly where to turn and which streets to travel.
+This spell imparts to you the most direct route to a type of location within 1 mile.
+In this instance, a location is defined as a particular sort of building or establishment.
+For example, you could learn the route to the nearest tavern, temple, or blacksmith's workshop.
+You can't obtain directions to a specific location, such as the shop of Rufus the blacksmith.
+Additionally, the location's purpose must be publicly known.
+If the thieves guild secretly operates out of a warehouse, you can't obtain directions to the &quot;headquarters of the thieves guild&quot;, because that is not publicly available information.
+   

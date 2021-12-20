@@ -1,0 +1,13 @@
+<b>Rabid Wolf Strike</b>(Tome of Battle: The Book of Nine Swords, p. 88)
+
+Tiger Claw (Strike)
+ <b>Level:</b>  Swordsage 2,  Warblade 2,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You foam at the mouth and scream in rage as you make a powerful attack against your enemy. You set aside all thoughts of defense as you lunge forward.</b>
+	
+For a split-second, you unleash the barely controlled, primal rage that surges within you. As part of this maneuver, you make a single melee attack. You gain a +4 bonus on this attack roll and deal an extra 2d6 points of damage. You take a ?4 penalty to AC until the start of your next turn, as this wild strike sends you off balance and hinders your defenses.</p   

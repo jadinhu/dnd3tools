@@ -1,0 +1,21 @@
+<b>Detoxify</b>(Eberron Campaign Setting, p. 110)
+
+Conjuration (Healing)
+ <b>Level:</b>   Feast 8,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 Standard action
+ <b>Range:</b> 30ft
+ <b>Target:</b> Creatures and objects in a 30-ft.-radius spread
+ <b>Duration:</b> Instantaneous and 10 min./level; see text
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You detoxify any sort of venom within 30 feet of you. 
+	
+A poisoned creature suffers no additional effects from the poison, and any temporary effects are ended, but the spell does not reverse instantaneous effects, such as hit point damage, ability damage, or effects that don't go away on their own. This effect is instantaneous; no immunity to later poisoning is conveyed by the spell.
+	
+The venom of any creatures affected by the spell loses its potency for 10 minutes per caster level.
+	
+Any poison in the air, in food, on weapons or traps, or otherwise in the radius of the spell is instantaneously neutralized.
+   

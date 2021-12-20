@@ -1,0 +1,21 @@
+<b>Rejuvenative Corpse</b>(Spell Compendium, p. 172)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> One humanoid creature that died within the past week
+ <b>Duration:</b> 24 hours or until discharged; see text
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+<b>Hunger gnaws at your innards as you complete the spell. Your hands glow with black crackling energy, which discharges into the corpse you touch. For a moment, the corpse glows with a similar blackness before fading.</b>
+	
+You charge a dead body with negative energy, giving it the ability to heal an undead creature that dines upon its flesh. The corpse remains charged with this energy for up to 24 hours. If an undead creature eats a full meal of the corpse's flesh within this time (a humanlike undead creature, such as a ghoul, generally taking 10 minutes), the undead gains fast healing 1 upon completing its feast, which lasts for the next 5 minutes. This effect does not stack with any fast healing the undead has from other sources. This spell does not allow the undead to regrow or attach lost body parts. Eating the flesh discharges the spell from the corpse.
+	
+You can cast this spell multiple times on a corpse, allowing more than one undead to benefit from eating it, though a single undead gorging itself on multiple &quot;meals&quot; does not gain any extra benefit while the first meal is in effect (the fast healing does not stack). A typical Medium corpse is usually enough for ten such meals, a Small corpse five, Tiny two, and Diminutive one.
+	
+A living creature that eats a charged corpse must succeed on a Fortitude saving throw or immediately contract filth fever (<span class="caps">DMG</span> 292; no incubation time). Creatures that are neither alive nor undead and eat the charged corpse are unaffected.
+   

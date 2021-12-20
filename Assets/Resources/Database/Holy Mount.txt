@@ -1,0 +1,17 @@
+<b>Holy Mount</b>(Spell Compendium, p. 115)
+
+Transmutation
+ <b>Level:</b>  Paladin 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Your special mount
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Touching your special mount, you feel the divine power seep into your trusted friend and watch as a golden nimbus surrounds it.</b>
+	
+Your special mount gains the celestial template (MM 31) for the duration of the spell.
+   

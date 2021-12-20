@@ -1,0 +1,17 @@
+<b>Low-light Vision</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Assassin 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The target creature gains low-light vision: the ability to see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination.
+The target retains the ability to distinguish color and detail under these conditions.
+Arcane Material Component: A small candle.
+ <b>Also appears in</b>   Unapproachable East  Savage Species  Spell Compendium  Magic of Faerun     

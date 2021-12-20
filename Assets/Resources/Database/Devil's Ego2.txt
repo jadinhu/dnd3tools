@@ -1,0 +1,18 @@
+<b>Devil's Ego</b>(Fiendish Codex II: Tyrants of the Nine Hells)
+
+Transmutation [Evil]
+ <b>Level:</b>   Diabolic 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level
+
+ 	
+You intone profane words of prayer and run your fingers across your face.
+As they pass, your features soften, becoming attractive and appealing.
+You feel a powerful confidence building inside you.
+You gain a +4 profane bonus to Charisma, adding the usual benefits to Charisma-based skill checks and other uses of the Charisma modifier.
+If you have levels in a noncleric spellcasting class that relies on Charisma, this spell does not grant additional bonus spells, though it could increase the save DCs for spells you cast from that class.
+In addition, for the duration of this spell, your type changes to outsider, making you immune to spells and effects that specifically target humanoids, such as charm person and hold person.
+ <b>Also appears in</b>   Book of Vile Darkness     

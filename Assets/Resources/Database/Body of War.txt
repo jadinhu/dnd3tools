@@ -1,0 +1,21 @@
+<b>Body of War</b>(Spell Compendium, p. 35)
+
+Transmutation
+ <b>Level:</b>  Sorcerer/Wizard Variant 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+<b>Throwing back your arms as you complete the spell, you feel your body grow heavy and unresponsive. A moment of panic grips you as your chest ceases to expand and you realize you are no longer breathing. Cold sweeps over your body as you glance down at your now-metallic flesh.</b>
+	
+When you cast this spell, you assume the physical appearance and many of the qualities and abilities of a warforged titan (<span class="caps">EBERRON</span> <b>Campaign Setting</b> 302). While under the effect of the spell, your creature type changes to construct, and your size changes to Huge. You have the space and reach of a warforged titan (15 feet/15 feet). Your mindset changes so that you relish combat and cannot cast spells, even from magic items. You gain the Strength and Dexterity of an average warforged titan (Str 28, Dex 8), but you retain your own mental ability scores. You have no Constitution score while affected by this spell. Your base land speed becomes 50 feet. You gain darkvision out to 60 feet. You also gain low-light vision.
+	
+Your class and level, hit points, alignment, base attack bonus, and base saving throw bonuses all remain the same. You lose any extraordinary special abilities of your own form, as well as spell-like and supernatural abilities. You keep all extraordinary special attacks derived from class levels (such as a barbarian's rage or a rogue's sneak attack), but you lose any from your normal form that are not derived from class levels. You cannot speak or cast spells while in warforged titan form. Your natural armor bonus becomes +18, regardless of any natural armor bonus from your normal form, and you gain damage reduction 10/adamantine.
+	
+As a construct, you have the following qualities: immunity to all mind-affecting spells and abilities, poison, sleep effects, paralysis, stunning, disease, death effects, necromancy effects, critical hits, nonlethal damage, ability drain, fatigue, exhaustion, energy drain, and to any effect that requires a Fortitude save (unless the effect also works on objects or is harmless). You also gain the warforged titan's two attack forms (axe and maul), along with the trample special ability (damage 1d8+13; Reflex DC 25 half). The warforged titan's axe deals 2d8 points of slashing damage and has a Ã—3 critical modifier; its maul (essentially a huge warhammer) deals 2d8 points of bludgeoning damage and also has a Ã—3 critical modifier. Your equipment melds into your new form and becomes nonfunctional.
+	
+<b>Material Component:</b> A miniature bronze hammer.
+   

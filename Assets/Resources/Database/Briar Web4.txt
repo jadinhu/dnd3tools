@@ -1,0 +1,19 @@
+<b>Briar Web</b>(Spell Compendium, p. 39)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Medium (100 ft. + 10 ft./ level)
+ <b>Area:</b> 40-ft.-radius spread
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With a sound like a thousand knives being unsheathed, the plants in the area grow sharp thorns and warp into a thick briar patch.</b>
+	
+This spell causes grasses, weeds, bushes, and even trees to grow thorns and wrap and twist around creatures in or entering the area. The spell's area becomes difficult terrain, and creatures move at half speed within the affected area. Any creature moving through the area also takes 1 point of nonmagical piercing damage for each 5 feet moved.
+	
+A creature with <b>freedom of movement</b> or the woodland stride ability is unaffected by this spell.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Defenders of the Faith: A Guidebook to Clerics and Paladins  Complete Divine     

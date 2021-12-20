@@ -1,0 +1,19 @@
+<b>Deific Bastion</b>(Complete Champion)
+
+Transmutation
+ <b>Level:</b>  Blackguard 3,  Cleric 3,  Paladin 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Shield or heavy armor touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+Calling upon your patron for protection, you imbue your defenses with an unnatural resilience.
+You must either be holding a shield or wearing heavy armor to cast this spell.
+The shield or armor gains a +1 enhancement bonus plus an additional special ability that depends on your deity, as given on the table below.
+This enhancement bonus is defensive only; it does not cause a shield to function as a magic weapon if it is used to make a shield bash.
+The enhancement bonus of the armor or shield is +2 if your caster level is 9th-11th, +3 if it's 12th-14th level, +4 if it's 15th-16th, and +5 if it's 18th or higher.
+   

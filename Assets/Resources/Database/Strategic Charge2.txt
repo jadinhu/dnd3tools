@@ -1,0 +1,15 @@
+<b>Strategic Charge</b>(Spell Compendium, p. 210)
+
+Abjuration
+ <b>Level:</b>  Blackguard 1,  Paladin 1,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>A red nimbus surrounds you as you move smoothly across the crowded battlefield.</b>
+	
+You gain the benefit of the Mobility feat (PH 98), even if you not meet the prerequisites. You do not have to be charging to gain this benefit.
+ <b>Also appears in</b>   Magic of Faerun     

@@ -1,0 +1,26 @@
+<b>Ruby Ray of Reversal</b>(Player's Guide to FaerÃ»n)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One natural or magical hazard; see text
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+From your fingertips springs a thin line of bright red light that can negate any of several magical or mundane hazards.
+Each version of this spell can target one of the hazards described below and &quot;correct&quot; it in the manner described.
+Unless specifically stated otherwise, this spell affects
+magical and mundane hazards of the indicated type equally.
+For example, a ruby ray of reversal can eliminate the webs of a monstrous spider or the effect of a web spell.			Any trap targeted by the ray is sprung.	
+This version of the spell may have adverse effects on creatures standing within a trap's area.
+You must be aware of a trap to cast ruby ray of reversal on it.			The spell unties knots and causes chains, manacles, and similar restraining devices to fall away.	
+Entangle and similar magical effects are dispelled.
+Doors (or chests, drawers, cabinets, and so on) that are locked, barred, or under the effect of an arcane lock spell are opened.			A hole with a radius of up to 1 foot is created in a wall of force, forcecage, or similar spell or effect.	
+This function of the spell does not destroy the targeted effect, but creatures trapped by it may be able to wriggle free.			A creature that has been polymorphed, turned to stone, or otherwise transformed from its natural state is returned to its natural form.		A magic jar spell is dispelled if a ruby ray of reversal targets the crystal holding the caster's soul.		Webs, slime, grease, and other substances that would hamper movement are destroyed in an area with a radius of up to 20 feet.	
+(Treat this effect as a spread, as described on page 175 of the Player's Handbook).
+Material Component: A ruby worth at least 1,000 gp.
+   

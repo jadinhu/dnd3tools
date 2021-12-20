@@ -1,0 +1,15 @@
+<b>Halo of Sand</b>(Sandstorm)
+
+Abjuration [Earth]
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 min./level
+
+ 	
+Halo of sand creates a thin band of sand that swirls and twists around your body, helping to deflect incoming attacks.
+The sand does not make it difficult for others to see you, but it grants a +1 deflection bonus to AC.
+This deflection bonus increases by 1 for every three caster levels above 3rd, to a maximum of +4 at caster level 12th.
+   

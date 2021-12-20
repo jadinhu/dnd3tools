@@ -1,0 +1,18 @@
+<b>Master's Touch</b>(Player's Handbook II)
+
+Divination
+ <b>Level:</b>  Bard 2,  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+With a mere utterance, you grant the creature special insight into how best to complete a task at hand.
+You cast this spell immediately before the target makes a skill check.
+The subject envisions how a master might accomplish the same task, gaining a +4 insight bonus on its skill check.
+Master's touch has no effect on skill checks that represent effort over more than 1 round of time (Craft checks, for example).
+ <b>Also appears in</b>   Complete Adventurer  Spell Compendium     

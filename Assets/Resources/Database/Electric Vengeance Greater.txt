@@ -1,0 +1,11 @@
+<b>Electric Vengeance, Greater</b>(Player's Handbook II)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+This spell functions like electric vengeance, except as noted here.
+This spell deals 5d8 points of damage +1 per caster level (maximum +15), and the target of the spell must succeed on a Fortitude save or be dazed until the end of your next turn.
+   

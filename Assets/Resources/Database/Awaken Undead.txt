@@ -1,0 +1,27 @@
+<b>Awaken Undead</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy [Evil]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,   Deathbound 6,   
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> All mindless undead within a circle 25 ft. in radius + 5 ft./2 levels
+ <b>Duration:</b> Permanent (D)
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell grants intelligence to mindless undead such as skeletons and zombies.
+Undead with Intelligence scores are unaffected.
+Mindless undead within the radius gain Intelligence 4+1d6.
+Undead cannot gain more intelligence than typical of their original kind.
+A skeletal dog simply has Intelligence 2, while a skeletal orc makes the die roll but can't have more than Intelligence 8.
+Undead do not regain any skills or feats they had in life.
+Undead regain the armor and weapon proficiencies they had in life (assume the undead were formerly warriors unless your DM specifies otherwise) and will don armor and take up weapons while obeying your commands.
+A zombie fighter can wear any armor and wield any simple or martial weapon, while a zombie warhorse can wear any armor.
+Undead also regain any extraordinary abilities they had in life, such as poison or scent.
+Awakened undead gain a +2 profane bonus on their Will saving throws to resist control undead.
+Awakened undead also gain +2 turn resistance (or retain their own turn resistance, if any, and if it is better than +2).
+Material Component: A humanoid fingerbone.
+XP Cost: 200 XP.
+ <b>Also appears in</b>   Spell Compendium  Savage Species     

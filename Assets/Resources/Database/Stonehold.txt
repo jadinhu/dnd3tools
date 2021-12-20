@@ -1,0 +1,25 @@
+<b>Stonehold</b>(Magic of Faerun)
+
+Conjuration (Creation) [Earth]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> One 10-ft. square/level
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> See below
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+This spell conjures thick, stony arms that spring forth from a rock or stone formation whenever anyone passes near it.
+Each 10-foot square in the spell's area contains one stone
+arm.
+The arms attempt to grapple any creature that enters their area.
+Each arm has a Strength of 20 and a base attack bonus of +1/caster level (plus Strength bonus).
+The arms are Medium-size.
+Once an arm has grappled a target, it automatically inflicts 1d6+5 points of damage per round.
+An arm maintains its grapple until the subject escapes, even holding a victim long after death.
+Each arm has 1 hp/caster level, AC 18, and hardness 8, and saves as the caster.
+Before they attack, the arms remain beneath the surface of the stone.
+They may be discovered (but not disarmed) as a magic trap.
+ <b>Also appears in</b>   Spell Compendium     

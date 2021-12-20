@@ -1,0 +1,19 @@
+<b>Thunderhead</b>(Spell Compendium, p. 219)
+
+Evocation [Electricity]
+ <b>Level:</b>  Druid 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One Creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Black mist forms near the ground and sweeps upward to join a small cloud forming above the creature you designate as your target. Miniature peals of thunder erupt from the cloud.</b>
+	
+Thunderhead creates a small thundercloud over the subject's head. The cloud moves with the subject, following it unerringly even if he becomes invisible or leaves the region. In every round of the spell's duration, a miniature bolt of lightning leaps from the thundercloud to strike the subject. Each bolt deals 1 point of electricity damage that is negated by a successful Reflex save.
+	
+<b>Material Component:</b> A small piece of copper wire.
+   

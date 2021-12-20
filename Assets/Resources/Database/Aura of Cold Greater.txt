@@ -1,0 +1,11 @@
+<b>Aura of Cold, Greater</b>(Frostburn)
+
+Transmutation [Cold]
+ <b>Level:</b>  Cleric 7,  Druid 7,    
+<b>Components:</b>
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius spherical emanation, centered on you
+
+ 	
+This spell functions exactly like lesser aura of cold, except it deals 2d6 points of cold damage to all creatures within 10 feet.
+   

@@ -1,0 +1,17 @@
+<b>Poison Thorns</b>(Spell Compendium, p. 159)
+
+Transmutation
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+<b>Black, glistening thorns emerge from your skin, causing you no damage but endangering those who attack you in melee.</b>
+	
+This spell functions like <b>thornskin</b> (page 219), except as noted above, and a scratch from the thorns is sufficient to deliver a dose of poison to your attacker. Any creature grappling you is exposed to the poison each round at the start of your turn. The poison from the thorns deals 1d4 points of Strength damage immediately and another 1d4 points of Strength damage 1 minute later. Each instance of damage can be negated by a successful Fortitude save (DC 10 + 1/2 your caster level + your Wis modifier).
+	
+Material Component: A dried black rose.
+ <b>Also appears in</b>   Complete Divine     

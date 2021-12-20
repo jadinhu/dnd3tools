@@ -1,0 +1,14 @@
+<b>Bloodhound</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Divination
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level
+
+ 	
+If you fail a Wilderness Lore check to track a creature while this spell functions, you can immediately attempt another roll against the same DC to establish the trail.
+It the reroll fails, you must search for the trail for 30 minutes (if outdoors) or 5 minutes (if indoors) before trying again.
+ <b>Also appears in</b>   Complete Adventurer  Spell Compendium     

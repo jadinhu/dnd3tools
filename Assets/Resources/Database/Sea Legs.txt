@@ -1,0 +1,18 @@
+<b>Sea Legs</b>(Shining South)
+
+Transmutation
+ <b>Level:</b>  Bard 1,  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You grant a creature the ability to maneuver easily while aboard ship, even during inclement weather.
+Any creature affected by a sea legs spell automatically succeeds on Balance checks (DC 20 or lower) made due to sloped surfaces and slightly slippery conditions.
+Furthermore, the creature can move at its normal speed while balancing on a ship's deck, rather than half speed.
+See the Balance skill description in the Player's Handbook for more information.
+   

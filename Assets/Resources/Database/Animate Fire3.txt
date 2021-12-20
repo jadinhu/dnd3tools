@@ -1,0 +1,19 @@
+<b>Animate Fire</b>(Spell Compendium, p. 12)
+
+Transmutation [Fire]
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels
+ <b>Target:</b> One Small fire
+ <b>Duration:</b> Concentration, up to 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>By casting the mixture in your hand at the fire, you complete the spell. Immediately thereafter, a part of the flame coalesces into a vaguely humanoid shape more solid looking than the rest.</b>
+	
+You animate a fire, which must be approximately the size of a campfire. The animated fire has the statistics of a Small fire elemental (MM 98), and attacks as you direct. It cannot move beyond the range of its source fire (25 ft. + 5 ft./2 levels).
+	
+<b>Material Component</b>: A handful of charcoal, sulfur, and soda ash.
+ <b>Also appears in</b>   Complete Arcane  Oriental Adventures     

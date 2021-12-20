@@ -1,0 +1,16 @@
+<b>Spider Hand</b>(Book of Vile Darkness)
+
+Transmutation
+ <b>Level:</b>  Cleric 1,  Druid 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster's hand
+ <b>Duration:</b> Concentration (up to 1 minute/level)
+
+ 	
+The caster detaches his hand, which transforms into a Small monstrous spider (see the Monster Manual) that he controls.
+The caster can see through its eyes, and it can travel up to 20 feet per level away from him.
+If the spider is killed or prevented from returning to the caster, his hand is restored when the spell ends, but he takes 1d6 points of damage.
+If the caster directs the spider to return to his arm (a move-equivalent action), then lets the spell end, he takes no damage.
+   

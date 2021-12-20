@@ -1,0 +1,22 @@
+<b>Whip of Thorns</b>(Champions of Ruin)
+
+Transmutation
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Effect:</b> 15-foot-long whip covered with sharp thorns
+ <b>Duration:</b> 1 round/level, or until discharged
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast this spell, a piece of vine grows into a thorn-studded whip capable of savagely ripping your opponent's flesh.
+You can wield this whip as if you were proficient, and it follows all the rules for a whip except that it deals 1d8+1 points of lethal damage per strike.
+Any time you strike a Large or smaller opponent successfully with the whip, you can release it and entangle the creature.
+Doing this ends the spell, but the thorny vine continues to wrap around your enemy until the opponent breaks free with a successful Escape Artist check (DC equal to the save DC of the spell).
+On a failed check, the creature takes an additional 1d4 points of damage and remains entangled.
+On a successful check that exceeds the DC by 10 or less, the creature takes the additional damage in the process of freeing itself.
+A creature can also attempt to burst the vine with a DC 20 Strength check, although it takes 1d4 points of damage whether or not the attempt succeeds.
+Material Component: A tiny piece of vine.
+   

@@ -1,0 +1,16 @@
+<b>Inspired Aim</b>(Book of Exalted Deeds)
+
+Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
+ <b>Level:</b>  Cleric 3,  Ranger 3,  Bard 4,   Fey 3,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 40 ft.
+ <b>Target:</b> Allies with 40-ft.-radius emanation centered on you
+ <b>Duration:</b> Concentration
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You inspire allies within the spell's area to focus their minds on hitting their intended targets.
+All affected allies gain a +2 insight bonus on all ranged attacks.
+   

@@ -1,0 +1,26 @@
+<b>Familiar Pocket</b>(Complete Arcane)
+
+Universal
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One container or garment with a pocket touched
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast this spell, a garment or container becomes a safe haven for a Tiny or smaller familiar.
+The spell turns the target item or pocket into a comfortable extradimensional space (about 1 cubic foot).
+The familiar can fit inside the space without creating any noticeable bulge in the item.
+Whenever the familiar is touching you, you can whisk it inside the space as a free action by speaking a command word chosen by you when the spell is cast.
+If the familiar can speak, it can command itself inside.
+As a free action, you can call the familiar forth or it can leave the space on its own.
+Once inside, the familiar has total cover (+4 AC) and concealment (20% miss chance), and as a free action, you or the familiar can further seal the space to make it airtight and waterproof.
+The air supply inside the sealed space lasts for 1 hour, but with the pocket unsealed, the familiar can remain inside indefinitely.
+The familiar cannot attack or cast spells from within the space, but can use supernatural or spell-like abilities as normal (provided they don't require line of sight, which the pocket blocks).
+The spell ends if the familiar pocket is placed within or taken into another extradimensional space (such as a portable hole).
+If your familiar is within the pocket when the spell duration expires or if the spell ends abnormally (as above), it appears in your space unharmed.
+Material Component: A tiny golden needle and a strip of fine cloth given a half twist and fastened at the ends.
+ <b>Also appears in</b>   Tome and Blood: A Guidebook to Wizards and Sorcerers  Spell Compendium     

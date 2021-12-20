@@ -1,0 +1,9 @@
+<b>Repair Moderate Damage</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>
+
+ 	
+As repair light damage, except you repair 2d8 points of damage +1 point per caster level (maximum +10) to a construct.
+ <b>Also appears in</b>   Eberron Campaign Setting  Tome and Blood: A Guidebook to Wizards and Sorcerers  Miniatures Handbook  Dragon Compendium  Spell Compendium     

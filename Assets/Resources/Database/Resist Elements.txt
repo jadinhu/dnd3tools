@@ -1,0 +1,12 @@
+<b>Resist Elements</b>(Psionics Handbook 3.0)
+
+Abjuration
+ <b>Level:</b>  Ranger 1,  Cleric 2,  Druid 2,  Paladin 2,  Sorcerer 2,  Wizard 2,  Blighter 2,  Nentyar Hunter 2,   Fire 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Duration:</b> 1 minute/level
+
+ 	
+As endure elements, except resist elements absorbs the first 12 points of damage.
+Note: Resist elements overlaps (and does not stack with) endure elements and protection from elements. If a character is warded by protection from elements and one or both of the other spells, the protection spell absorbs damage until it is exhausted. If a character is warded by resist elements and endure elements at the same time, the resist spell absorbs damage but the endure spell does not.
+   

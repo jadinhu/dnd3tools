@@ -1,0 +1,17 @@
+<b>Soulmeld Blessing</b>(Magic of Incarnum)
+
+Evocation [Incarnum]
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 20 ft.
+ <b>Target:</b> Up to one creature/level in a 20-ft. radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+When you cast soulmeld blessing, you provide each affected creature with a surfeit of essentia.
+Affected creatures can immediately reallocate their essentia pool as if they had taken a swift action to do so (even though it isn't their turn and no action is required).
+Essentia that cannot be reallocated with a swift action (for example, essentia invested in an incarnum feat) cannot be redistributed.
+   

@@ -1,0 +1,19 @@
+<b>Crumble</b>(Spell Compendium, p. 56)
+
+Transmutation
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One structure or construct
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+<b>With a final word and gesture, time takes control of the object, eroding it away before your eyes, aging it several centuries in a few seconds.</b>
+	
+You bring the forces of erosion to bear on a fabricated structure such as a stone, bridge, a wooden building, an iron wall, a construct, or any other object not formed by nature itself.
+	
+The erosion deals 1d8 points of damage per caster level to the object (hardness does not apply) to a maximum of 10d8. The maximum size of the object affected depends on your level. If you cast this spell on an object of greater size than you can affect, the spell fails.
+	<table>		<tr>			<td> <b>Level</b> </td>			<td> <b>Size of Object Affected</b> </td>		</tr>		<tr>			<td> Up to 9th </td>			<td> Large </td>		</tr>		<tr>			<td> 10th-15th </td>			<td> Huge </td>		</tr>		<tr>			<td> 16th-18th </td>			<td> Gargantuan </td>		</tr>		<tr>			<td> 19th-20th </td>			<td> Colossal </td>		</tr>	</table> <b>Also appears in</b>   Magic of Faerun  Complete Divine     

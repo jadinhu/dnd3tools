@@ -1,0 +1,17 @@
+<b>Absorb Strength</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>    Corrupt 4  
+<b>Components:</b>V, S, AF, Corrupt, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+The caster eats at least a portion of the flesh of another creature's corpse, thereby gaining one-quarter of the creature's Strength score as an enhancement bonus to the caster's Strength score, and one-quarter of the creature's Constitution score as an enhancement bonus to the caster's Constitution.
+	
+Focus: A fresh or preserved (still bloody) 1-ounce portion of another creature's flesh.
+	
+Corruption Cost: 2d6 points of Wisdom damage.
+   

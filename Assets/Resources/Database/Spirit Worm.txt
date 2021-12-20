@@ -1,0 +1,19 @@
+<b>Spirit Worm</b>(Magic of Faerun)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 round/level (see text)
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a lingering decay in the spirit and body of the target.
+If the target fails its saving throw, it takes 1 point of temporary Constitution damage each round while the spell lasts (maximum 5 points of Constitution).
+If it makes its save, it does not lose any Constitution but takes 1d2 points of damage each round while the spell lasts (maximum 5d2).
+The damage remains after the spell ends.
+Material Component: A piece of fire-blackened ivory or bone carved in the shape of a segmented worm.
+ <b>Also appears in</b>   Spell Compendium     

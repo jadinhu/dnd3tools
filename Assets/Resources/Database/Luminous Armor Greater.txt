@@ -1,0 +1,10 @@
+<b>Luminous Armor, Greater</b>(Book of Exalted Deeds)
+
+Abjuration
+ <b>Level:</b>   Sanctified 4,   
+<b>Components:</b>
+
+ 	
+This spell functions like luminous armor, except that it imparts the benefits of full plate (+8 armor bonus to AC).
+Sacrifice: 1d3 points of Strength damage.
+   

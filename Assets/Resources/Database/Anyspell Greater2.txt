@@ -1,0 +1,9 @@
+<b>Anyspell, Greater</b>(Spell Compendium, p. 15)
+
+Transmutation
+ <b>Level:</b>   Spell 6,   
+<b>Components:</b>
+
+ 	
+This spell functions like anyspell, except you can read and prepare any arcane spell of up to 5th level, and the prepared spell occupies your 6th-level domain spell slot.
+   

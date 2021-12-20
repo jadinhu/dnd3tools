@@ -1,0 +1,13 @@
+<b>Anyspell, Greater</b>(Forgotten Realms Campaign Setting)
+
+Transmutation
+ <b>Level:</b>   Spell 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 15 minutes
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+As anyspell, except you can read and prepare any arcane spell of up to 5th level, and the prepared spell occupies your 6th-level domain spell slot.
+   

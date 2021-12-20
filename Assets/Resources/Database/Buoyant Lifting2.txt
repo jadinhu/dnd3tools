@@ -1,0 +1,17 @@
+<b>Buoyant Lifting</b>(Spell Compendium, p. 40)
+
+Evocation
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>S, DF, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One willing creature/level, no two of which are more than 20 ft. apart
+ <b>Duration:</b> 1 minute/level (D); see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With a sharp jab of your finger, the water around your indicated subjects begins to push them toward the surface.</b>
+	
+The subjects of this spell are borne toward the surface at 60 feet per round until they are floating on it. The subject then rests at the top of the liquid (rescuing it from drowning if it was a sinking air-breather) and can swim away under its own power or be moved by others (such as with a rope). If the subject is removed from the liquid, the spell ends.
+ <b>Also appears in</b>   Savage Species     

@@ -1,0 +1,17 @@
+<b>Metal Skin</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 5 (Metal),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell transforms the skin of the recipient into a gleaming metallic surface.
+The recipient's natural armor bonus becomes +8 (unless it was already better than +8), but the creature also becomes somewhat slow and stiff, suffering a -2 penalty to effective Dexterity for the duration of the spell.
+Material Component: A small piece of rhinoceros hide.
+ <b>Also appears in</b>   Complete Arcane     

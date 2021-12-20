@@ -1,0 +1,18 @@
+<b>Aquatic Escape</b>(Complete Scoundrel)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Your arms and legs fuse with your body as bright silvery scales cover your skin.
+You take the form of a Diminutive fish.
+Use the statistics for the toad (MM 282) except for the following changes: Add the aquatic subtype, replace the land speed with a swim speed of 30 feet, remove the amphibious special quality, and replace the toad's skills with Listen +4, Spot +4, and Swim +13.
+A fish adds its Dexterity modifier, not its Strength modifier, to Swim checks, and gains a +8 racial bonus on Swim checks due to its swim speed.
+See the polymorph subschool description on page 91 for more details.
+As its name suggests, this spell's most common use is to make a quick getaway in a watery environment, but it also allows a clever druid to overcome a flooded corridor or similar obstacle.
+   

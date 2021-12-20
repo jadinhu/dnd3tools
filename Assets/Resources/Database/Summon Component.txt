@@ -1,0 +1,18 @@
+<b>Summon Component</b>(Complete Mage)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Noncostly material component for a single spell
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You cup your hand and the object you desire appears in your palm.
+You conjure the material component or components for a single spell that you can cast.
+No component you summon can be worth more than a single gold piece, and it can't be a magic item.
+Summoned components disappear when the spell duration expires, if they were not consumed in casting the spell.
+   

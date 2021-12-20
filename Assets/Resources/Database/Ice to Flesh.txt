@@ -1,0 +1,22 @@
+<b>Ice to Flesh</b>(Frostburn)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One frozen creature or a cylinder of ice from 1 ft. to 3 ft. in diameter and up to 10 ft. long
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates (object); see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell restores a frozen creature to its normal state, restoring life and goods.
+The creature must make a DC 15 Fortitude save to survive the process.
+Any frozen creature, regardless of size, can be restored.
+The spell also can convert a mass of ice into a fleshy substance.
+Such flesh is inert and lacking a vital life force unless a life force or magical energy is available.
+(For example, an ordinary ice sculpture would become a corpse).
+You can affect an object that fits within a cylinder from 1 foot to 3 feet in diameter and up to 10 feet long or a cylinder of up to those dimensions in a larger mass of ice.
+Material Component: A cube of ice and a drop of blood.
+   

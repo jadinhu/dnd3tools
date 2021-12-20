@@ -1,0 +1,15 @@
+<b>Returning Weapon</b>(Races of the Wild)
+
+Transmutation
+ <b>Level:</b>  Assassin 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> One thrown weapon
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> No (harmless)
+
+ 	
+The weapon targeted by this spell gains the ability to return to the hand of its thrower (as the returning special ability described on page 225 of the Dungeon Master's Guide).
+   

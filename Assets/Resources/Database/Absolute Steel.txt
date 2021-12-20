@@ -1,0 +1,17 @@
+<b>Absolute Steel</b>(Tome of Battle: The Book of Nine Swords, p. 66)
+
+Iron Heart (Stance)
+ <b>Level:</b>  Warblade 3 (One Iron Heart maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You shift your weight to the back of your feet and hold your blade carefully forward at the ready. Your muscles twitch slightly as you prepare to dodge the next attack you face.</b>
+	
+The absolute steel stance allows you to enhance your mobility and speed. You move quickly, keep a sharp eye on your enemies, and are ready to instantly sidestep any incoming attacks.
+	
+While you are in this stance, you gain a +10-foot enhancement bonus to your speed. If you move at least 10 feet during your turn, you gain a +2 dodge bonus to AC until the beginning of your next turn.
+   

@@ -1,0 +1,19 @@
+<b>Reverse Arrows</b>(Spell Compendium, p. 175)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level or until discharged
+
+ 	
+<b>As you clasp the shell in one hand and the ball of sap in the other, a silver radiance flecked with blue lines surrounds you. You pocket the items, but the radiance remains.</b>
+	
+This spell functions like <b>protection from arrows</b> (PH 266), except as noted here. If any projectile fired from a ranged weapon that strikes you has all its damage negated by your damage reduction (10/magic), the projectile is turned back upon the creature that fired it. The attacker's attack roll is used to determine if the reversed projectile strikes the attacker, but the damage is rerolled. If the attacker is also protected by a reverse arrows spell, it is possible for the projectile to bounce between both individuals until one of the spells is discharged from accumulated damage.
+	
+Once this spell has prevented a total of 10 points of damage per caster level (maximum 100 points), it is discharged.
+	
+Focus: A piece of shell from a tortoise and a ball of tree sap.
+ <b>Also appears in</b>   Magic of Faerun     

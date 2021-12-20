@@ -1,0 +1,10 @@
+<b>Halaster's Fetch V</b>(City of Splendors: Waterdeep)
+
+Conjuration (Calling)
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>
+
+ 	
+As summon monster V, except called creatures do not disappear at the end of the spell's duration.
+However, they become free-willed and outside the control of the caller after the spell expires.
+   

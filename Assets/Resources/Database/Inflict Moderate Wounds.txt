@@ -1,0 +1,9 @@
+<b>Inflict Moderate Wounds</b>(Player's Handbook v.3.5, p. 244)
+
+Necromancy
+ <b>Level:</b>  Cleric 2, Blackguard 2,  Blighter 2,  Death Master 2,  Dread Necromancer 2,    
+<b>Components:</b>
+
+ 	
+This spell functions like inflict light wounds, except that you deal 2d8 points of damage +1 point per caster level (maximum +10).
+   

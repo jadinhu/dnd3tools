@@ -1,0 +1,21 @@
+<b>Seed of Undeath</b>(Complete Mage)
+
+Necromancy
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> Living humanoid or animal touched
+ <b>Duration:</b> 1 day/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject's face briefly takes on a gaunt, pale look and a death's-head rictus before returning to normal.
+You plant a kernel of negative energy in a subject, which is held in check by the positive energy inherent to the subject's own life force.
+Seed of undeath does not, in and of itself, harm the subject.
+Should the subject die before the spell expires, however, it rises as a zombie 1 round later (as per the animate dead spell), as long as a sufficient corpse remains.
+Any undead created in this manner are automatically under your control.
+At any given time, you can have a number of HD worth of undead animated through seed of undeath equal to your own HD, and they count against the maximum number of HD worth of undead you can control at any time (as described under animate dead).
+Material Component: A black onyx gem worth 25 gp per HD of the subject.
+   

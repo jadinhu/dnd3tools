@@ -1,0 +1,17 @@
+<b>Curse of the Putrid Husk</b>(Book of Vile Darkness)
+
+Illusion (Phantasm) [Evil, Fear, Mind-Affecting]
+ <b>Level:</b>  Bard 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round + 1d10 minutes
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This illusion forces the subject to believe his flesh is rotting and falling off his body, and that his internal organs are spilling out.
+If the target fails his saving throw, he is dazed (and horrified) for 1 round.
+On the following round, he falls unconscious for 1d10 minutes, during which time he cannot be roused normally.
+   

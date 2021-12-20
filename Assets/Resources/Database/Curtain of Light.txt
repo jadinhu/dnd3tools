@@ -1,0 +1,27 @@
+<b>Curtain of Light</b>(Book of Exalted Deeds)
+
+Evocation [Light]
+ <b>Level:</b>   Sanctified 5,   
+<b>Components:</b>V, S, Sacrifice
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Curtain of light whose area is up to one 5-ft. square/level
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+An immobile, vertical curtain of brilliant light energy springs into existence.
+This barrier cannot pass through spaces occupied by creatures and objects, but it can bend around them.
+One side of the curtain, selected by you, sends forth flashes of light, dealing 2d4 points of damage to evil creatures within 10 feet and 1d4 points of damage to evil creatures past 10 feet but within 20 feet.
+The curtain deals this damage when it appears and at the start of the caster's turn each round.
+In addition, the curtain deals 2d6 points of damage +1 point of damage per caster level (maximum +20) to any evil creature passing through it.
+Contact with the curtain deals double damage to undead creatures.
+A curtain of light can be made permanent with a permanency spell.
+A permanent curtain of light that is destroyed becomes inactive for 10 minutes, and then reforms.
+Curtain of light counters any magical darkness spell of 5th level or lower with which it comes into contact.
+Any magical darkness spell of 5th level or higher counters curtain of light.
+The curtain of light is impervious to all physical attacks and spells except antimagic field, dispel magic, greater dispel magic,
+and Mordenkainen's disjunction.
+Sacrifice: 1d4 points of Strength damage.
+   

@@ -1,0 +1,16 @@
+<b>Scything Blade</b>(Tome of Battle: The Book of Nine Swords, p. 69)
+
+Iron Heart (Boost)
+ <b>Level:</b>  Warblade 7 (Three Iron Heart maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>You strike at one foe with a long, high backhand cut, then make a quick turn to continue the stroke against another nearby enemy.</b>
+	
+You swing your weapon in a wide, deadly arc. With your supreme skill and martial training, you aim your attack so that as you strike one opponent, you set yourself up perfectly to make a second attack against a different foe. As your weapon strikes one opponent, it cuts into him, then ricochets to your second target.
+	
+If the first melee attack you make during your turn hits, you can immediately make a free attack at your highest attack bonus against a different enemy that you threaten. You can only gain one free attack each time you initiate this maneuver, regardless of how many successful attacks you make in this round.
+   

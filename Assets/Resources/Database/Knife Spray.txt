@@ -1,0 +1,17 @@
+<b>Knife Spray</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Evocation
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Cone
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause moisture in the air to sparkle, coalesce, then spray away from your fingertips, driving into all creatures in the cone of effect.
+Each creature in the area takes 1d6 points of damage, plus 1 additional point per caster level to a maximum of +5.
+A Reflex save is allowed for half damage.
+   

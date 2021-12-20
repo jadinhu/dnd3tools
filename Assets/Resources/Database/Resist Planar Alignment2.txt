@@ -1,0 +1,17 @@
+<b>Resist Planar Alignment</b>(Spell Compendium, p. 174)
+
+Abjuration
+ <b>Level:</b>  Cleric 1,  Druid 1,  Paladin 1,  Ranger 1,  Sorcerer 1,  Wizard 1,   Hades 2,  Limbo 2,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You can tell that your target feels the oppression of the plane around you, the rank evil of the place. A few spoken phrases, backed by magical power, and that oppression seems to lift.</b>
+	
+This abjuration grants a creature limited protection from a plane's alignment traits (<span class="caps">DMG</span> 149). When the subject visits a plane with an alignment trait, this spell grants it immunity to penalties on its Charisma-based checks that mildly aligned planes impose on visitors of opposed alignments. The Charisma-, Wisdom-, and Intelligence based check penalties associated with strongly aligned planes are halved while the spell's duration lasts.
+ <b>Also appears in</b>   Planar Handbook     

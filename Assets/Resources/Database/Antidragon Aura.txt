@@ -1,0 +1,17 @@
+<b>Antidragon Aura</b>(Draconomicon)
+
+Abjuration
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> 1 creature/two levels, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+All targets gain a +2 luck bonus to Armor Class and on saving throws against the attacks, spells, and special attacks (extraordinary, supernatural, and spell-like) of dragons.
+This bonus increases by +1 for every four caster levels above 7th (to +3 at 11th, +4 at 15th, and a maximum of +5 at 19th).
+Material Component: A chunk of platinum worth at least 25 gp (slightly less than 1 ounce).
+ <b>Also appears in</b>   Spell Compendium     

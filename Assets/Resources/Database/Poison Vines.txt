@@ -1,0 +1,11 @@
+<b>Poison Vines</b>(Complete Divine)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>
+ <b>Saving Throw:</b> Fortitude negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With this spell you create a mass of entangling vines. The spell otherwise works as the <b>entangle</b> spell, but the entangling plants are poisonous (contact, 1d6 Dex/2d6 Dex). A successful Fortitude save is required only upon the first entry into the spell's area (and again 1 minute later); creatures don't have to save each time they enter (or each round they remain within). You are immune to the poison of the vines you create, and you can select a number of other targets equal to your level to share this immunity.
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun     

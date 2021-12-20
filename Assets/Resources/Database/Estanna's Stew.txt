@@ -1,0 +1,23 @@
+<b>Estanna's Stew</b>(Book of Exalted Deeds)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 2,  Druid 2,  Paladin 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Fills pot with healing stew (1 serving/2 levels)
+ <b>Duration:</b> Instantaneous (see text)
+ <b>Saving Throw:</b> Will half (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell calls upon Estanna, goddess of hearth and home (described in Chapter 2: Variant Rules), to fill a specially crafted stewpot with a potent healing stew.
+The caster must be hold the pot in hand when Estanna's stew is cast; otherwise, the spell fails and is wasted.
+The spell creates one serving per two caster levels (maximum 5).
+A single serving heals 1d6+1 points of damage and requires a standard action to consume.
+Any portion of the stew that is not consumed disappears after 1 hour.
+The stew can be splashed onto a single undead creature within 10 feet.
+If a ranged touch attack succeeds, the undead creature takes 1d6+1 points of damage per serving splashed on it.
+The undead creature can apply spell resistance and can attempt a Will save to take half damage.
+Focus: An engraved stewpot worth at least 50 gp.
+   

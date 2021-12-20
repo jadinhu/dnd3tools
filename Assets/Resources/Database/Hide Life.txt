@@ -1,0 +1,22 @@
+<b>Hide Life</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 day
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous (see text)
+
+ 	
+You isolate your life force in one single part of the body-typically the little finger on the left hand.
+You can then remove this part and store it in some safe place.
+Once the spell takes effect, you can no longer be killed by ordinary means: If damage or a spell effect would normally render you disabled, dying, or dead, you ignore the usual effects.
+Instead, you are staggered (only able to take partial actions).
+While this spell is in effect, if you would otherwise be disabled or dying, you do not lose hit points for taking actions or having a negative hit point total.
+Healing does not automatically return you to 0 hit points but simply adjusts your current total upward.
+If you would otherwise be dead, you cannot benefit from healing and simply fall down dead if the spell is ended.
+If the hidden body part is ever destroyed, the spell is broken and your life force returns to your body if you would not otherwise be dead.
+Material Component: A small sickle made of the purest silver, which you use to detach the body part to be stored.
+XP Cost: 5,000 XP.
+   

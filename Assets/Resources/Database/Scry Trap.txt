@@ -1,0 +1,21 @@
+<b>Scry Trap</b>(Magic of Eberron, p. 101)
+
+Abjuration
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> See text
+
+ 	
+You ward a creature against scrying, granting it defenses capable of terribly wounding any would-be scryer. If the subject of this spell comes within 10 feet of a sensor created by a divination (scrying) spell, the scry trap automatically activates. The caster of the scrying spell takes 1d6 points of damage per your caster level (maximum 15d6) and is blinded for 1 minute. A successful Will save halves the damage and negates the blindness; spell resistance also applies against this effect.
+	
+In addition, the caster of the scrying spell must succeed on a caster level check (DC 10 + your caster level) or the scrying spell is dispelled immediately (spell resistance does not apply against this effect). The subject of scry trap becomes automatically aware when the spell triggers, although the subject gains no knowledge as to the nature of the scrying spell or its caster.
+	
+<b>Special:</b> A character with any Mark of Detection dragonmark, or with the Favored in House feat (Medani), casts this spell at +1 caster level.
+	
+<b>Material Component:</b> Powdered glass from a broken mirror.
+   

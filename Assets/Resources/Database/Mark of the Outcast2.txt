@@ -1,0 +1,18 @@
+<b>Mark of the Outcast</b>(Underdark)
+
+Necromancy
+ <b>Level:</b>  Blackguard 1,  Cleric 2,  Druid 2,   Watery death 2,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates an indelible mark on the target's face (or other upward body part, if the subject doesn't have a head).
+The mark is visible to normal vision, lowlight vision, and darkvision.
+The wearer of such a mark takes a -5 circumstance penalty on Bluff and Diplomacy checks and a -2 penalty to Armor Class.
+The mark cannot be dispelled, but it can be removed with a break enchantment, limited wish,miracle, remove curse, or wish spell.
+ <b>Also appears in</b>   Spell Compendium     

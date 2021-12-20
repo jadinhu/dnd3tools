@@ -1,0 +1,13 @@
+<b>Invisibility Purge</b>(Player's Handbook v.3.5, p. 245)
+
+Evocation
+ <b>Level:</b>  Cleric 3,  Knight of the Chalice 3,  Savant 3 (Divine),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level (D)
+
+ 	
+You surround yourself with a sphere of power with a radius of 5 feet per caster level that negates all forms of invisibility. Anything invisible becomes visible while in the area.
+   

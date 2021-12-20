@@ -1,0 +1,18 @@
+<b>Steelsting</b>(City of Splendors: Waterdeep)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 5-ft.-radius cylinder, 25 ft. tall
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a brief maelstrom of flying darts of force that spin, slice, and rebound within the area.
+Each creature within the area is targeted by 1d3+1 melee attacks from these darts (check for each creature separately).
+The darts strike with an attack bonus equal to your caster level + your Intelligence or Charisma bonus (for wizards or sorcerers, respectively), dealing 2d6 points of damage per hit.
+The name is a misnomer, for the spell creates neither steel nor a true sting.
+ <b>Also appears in</b>   Dragons of Faerun     

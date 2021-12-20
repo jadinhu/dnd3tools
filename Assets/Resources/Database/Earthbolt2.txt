@@ -1,0 +1,19 @@
+<b>Earthbolt</b>(Oriental Adventures)
+
+Evocation
+ <b>Level:</b>  Wu Jen 3 (Earth),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 5-ft. wide path to close range (25 ft. + 5 ft./2 levels)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With a shout, you strike the ground at your feet and create a bolt of geomantic force.
+This bolt travels through the earth, causing the earth, rock, or sand to fly into the air, striking creatures along its path.
+A creature caught in the area takes 1d6 points of damage per caster level (maximum 10d6).
+This spell functions only if you are standing on dirt, clay, stone, or sand.
+It does not function if you are on a wooden floor or other surface.
+ <b>Also appears in</b>   Complete Arcane     

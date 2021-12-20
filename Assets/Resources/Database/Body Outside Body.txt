@@ -1,0 +1,21 @@
+<b>Body Outside Body</b>(Complete Arcane)
+
+Conjuration (Creation)
+ <b>Level:</b>  Wu Jen 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Effect:</b> One duplicate/5 levels
+ <b>Duration:</b> 1 minute
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates one or more indistinguishable duplicates of you, all of which share your ability scores, personality, class levels, skills, feats, and memories.
+They carry the same arms, armor, and equipment as you do (but only have mundane versions of any magic gear), and they cannot cast spells or use any spell completion or spell trigger items.
+They are friendly toward each other and your companions and will follow any order you give them (even actions that you wouldn't normally do yourself, such as charging a dragon or jumping off a cliff).
+The duplicates you create each have one-quarter of your hit point total at the time of casting and take damage as normal in combat.
+If a duplicate is slain, it disappears and you take 10 points of damage.
+At the end of the spell's duration, all remaining duplicates (and any equipment created with them) disappear without dealing damage to you.
+Material Component: A few of your hairs, fingernail parings, or flakes of skin.
+ <b>Also appears in</b>   Oriental Adventures     

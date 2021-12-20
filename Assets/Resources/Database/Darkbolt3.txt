@@ -1,0 +1,18 @@
+<b>Darkbolt</b>(Lords of Madness)
+
+Evocation [Darkness, Evil]
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,   Vile darkness 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster makes a ranged touch attack against a foe, launching a bolt of cold darkness from his left hand.
+The bolt deals 1d8 points of damage per two caster levels (maximum 5d8).
+Half the damage is cold, and the other has no specific type.
+When struck, the foe must also succeed on a Fortitude save or be stunned for 1 round, overwhelmed by the evil charge of the darkbolt.
+ <b>Also appears in</b>   Forgotten Realms Campaign Setting  Book of Vile Darkness  Spell Compendium     

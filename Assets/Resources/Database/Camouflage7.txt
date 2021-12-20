@@ -1,0 +1,15 @@
+<b>Camouflage</b>(Underdark)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Harper Scout 1,  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+You change the coloring of your skin and clothing to match the environment around you.
+Throughout the duration of the spell, your coloration changes instantly to match the background of any new environment you enter, with no effort on your part.
+This effect grants you a +10 circumstance bonus on Hide checks.
+ <b>Also appears in</b>   Ghostwalk  Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Savage Species  Spell Compendium  Magic of Faerun  Complete Divine     

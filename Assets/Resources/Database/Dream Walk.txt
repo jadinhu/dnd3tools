@@ -1,0 +1,17 @@
+<b>Dream Walk</b>(Heroes of Horror)
+
+Conjuration (Teleportation)
+ <b>Level:</b>   Oneiromancy 4,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched, or up to eight willing creatures joining hands
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You move yourself or some other creature into a dreamscape.
+You must either be able to see the dreamer whose dreams you wish to enter or be within 30 feet of her.
+This spell otherwise functions exactly as plane shift.
+   

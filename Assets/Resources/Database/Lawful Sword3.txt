@@ -1,0 +1,17 @@
+<b>Lawful Sword</b>(Spell Compendium, p. 131)
+
+Evocation
+ <b>Level:</b>  Paladin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Calling to mind thoughts of justice, you run your fingers along the weapon, imbuing it with power.</b>
+	
+This spell functions like <b>holy sword</b> (PH 242), except as follows. The weapon functions as a +5 axiomatic weapon (+5 enhancement bonus on attack rolls and damage rolls, lawful-aligned, deals an extra 2d6 points of damage against chaotic opponents). It also emits a magic circle against chaos effect (as the spell).
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n  Races of Faerun     

@@ -1,0 +1,17 @@
+<b>Burrow, Mass</b>(Spell Compendium, p. 41)
+
+Transmutation
+ <b>Level:</b>  Ranger 3,  Druid 4,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature/level, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You call upon the power of the spell and, in turn, each of your allies' hands gain a yellow nimbus, forming into the hands of large moles.</b>
+	
+This spell functions like <b>burrow</b>, except that it affects multiple creatures.
+ <b>Also appears in</b>   Underdark     

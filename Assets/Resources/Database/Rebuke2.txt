@@ -1,0 +1,19 @@
+<b>Rebuke</b>(Spell Compendium, p. 170)
+
+Enchantment (Compulsion) [Fear, Mind-Affecting]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,   Hades 2,   
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You rap the switch in your hand and then sharply against your thigh, finishing the final gesture that will bring discomfort to your foe.</b>
+	
+When the spell is cast, the subject is dazed for 1 round and shaken for the duration of the spell. Furthermore, a spellcaster targeted by rebuke must make a successful Concentration check (DC equal to the save DC for this spell + the level of the spell being cast) to cast spells while under its effect.
+	
+Focus: A stick at least 1 foot long.
+ <b>Also appears in</b>   Oriental Adventures     

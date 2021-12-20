@@ -1,0 +1,18 @@
+<b>Crown of Courage</b>(The Forge of War, p. 113)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>  Bard 3,  Paladin 4,  Cleric 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Area:</b> 30-ft.-radius emanation centered on the creature
+ <b>Duration:</b> 1 hour/level (D) or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell creates a crown of magical energy that grants the spell?s recipient and all allies within 30 feet a +1 bonus on attack rolls and weapon damage rolls, and a +4 morale bonus on saving throws against fear. As an immediate action, the creature wearing a crown of courage can discharge its magic to grant himself and all allies within 30 feet a new saving throw against any fear effect currently affecting them, with the +4 morale bonus granted by the crown. The spell ends after the wearer uses the crown in this manner.
+	
+The crown occupies space on the body as a headband, hat, or helm. If the targeted creature is already wearing an item on its head, the casting of this spell fails. If the crown is removed, or if the targeted creature dons an item that occupies its head, the spell immediately ends.
+	
+<b>Focus</b>: A thin golden hoop 6 inches in diameter costing 50 gp.</p   

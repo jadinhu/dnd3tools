@@ -1,0 +1,55 @@
+<b>Flashflood</b>(Sandstorm)
+
+Conjuration (Creation) [Water]
+ <b>Level:</b>  Cleric 8,  Druid 8,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 120 ft.
+ <b>Area:</b> Cone-shaped spread
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a roaring, frothing wall of water 10 feet high that erupts from where you stand and surges forward, sweeping away or smashing down nearly everything in its path.
+The effect lasts for 1 round, although the water created by the spell does not disappear after 1 round, during which time creatures on the ground within the area cannot move or attack.
+A spellcaster on the ground must make a Concentration check (DC 20 + spell level) to successfully cast a spell.
+The force of the water and debris deals those caught in the area 1d6 points of nonlethal damage plus another 1d6 points per five caster levels (maximum 4d6).
+Any creature or object that is not soundly secured is pushed violently to the outer edge of the area.
+If this forces the creature or object into a solid surface, it takes 8d6 points of damage.
+A creature holding onto a sturdy object can make a DC 20 Strength check to avoid being moved.
+A creature not already holding onto such an object can make a DC 20 Reflex save or Swim check to grab one.
+A creature of Huge size or larger can make a DC 30 Strength check to dig in its feet and simply withstand the oncoming wave.
+A creature that fails any of these checks falls prone in addition to being swept away.
+The specific effect and aftereffects of a flashflood spell on the environment depend on the nature of the terrain where it is cast.
+When the spell is completed, a total volume of 100,000 cubic feet of water (400 5-foot squares, in a 120-ft. cone, 10 feet deep) is left behind.
+This water behaves like ordinary water � ;draining away and leaving puddles in most cases, or perhaps forming a shallow lake or pond.
+Unless the caster has taken care to create the flashflood in a cleared area, however, the water left behind is full of debris, dirt, and perhaps a few corpses.
+Such water is unfit to drink.
+Cave, Cavern, or Tunnel: The sudden surge of water knocks down support beams, but otherwise has no real effect, aside from filling the tunnel with water to a depth of 10 feet.
+If the area is insufficient to support 100,000 cubic feet of water, the water level rises above 10 feet until the entire volume is filled, or it spills outward from the confines of the original 400 squares.
+What happens is based on the layout of the area.
+In the case of level terrain, the water simply drains away over the course of a minute or so, leaving pools in depressions from which it cannot drain.
+When the ground in a tunnel is not level, the water might flood sections of the tunnel.
+In such cases, determine whether the flooded area is sufficient to contain the entire volume of water created � ;
+and, if not, how deeply the water floods the next level up.
+Any creatures caught in water over their heads might drown.
+For example, Miyish casts flashflood in the dungeon of a ruined castle.
+The dungeon's total volume is only 40,000 cubic feet (160 squares, with a 10-foot ceiling).
+The remaining 60,000 cubic feet of water has to go somewhere, so it rushes up and out the entrance to the dungeon.
+Since the terrain above the dungeon is another level of the castle, and is basically watertight, the water collects up here.
+The total volume of this level is 80,000 cubic feet (320 squares, with a 10-foot ceiling), leaving 20,000 cubic feet of air.
+Since the water has nowhere to go but up, and it has gone as high as it can, the water on this level is 7-1/2 feet deep (60,000 cubic feet divided by 8,000 � ;the square footage of 320 5-foot squares).
+If Miyish can't swim or breathe water, he has made a grave tactical error by casting flashflood in an area too small to contain it.
+Cliffs: Casting flashflood at the base of a cliff has no effect on the cliff.
+Casting flashflood from the top of a cliff can force creatures and objects over the edge, so that they take falling damage.
+Open Ground: Creatures on open ground are safest from the worst effects of flashflood.
+They might be knocked prone by the force of the water, or even swept 120 feet (24 squares) away, but they are not in any particular danger of drowning or being crushed.
+Structure(s): Any structure standing on open ground takes 60 points of damage, enough to collapse a typical wooden building, but not a structure built of stone, masonry, or reinforced masonry.
+Hardness reduces this damage, but it isn't halved as damage dealt to objects normally is.
+Any creature caught inside a collapsing structure takes 8d6 points of bludgeoning damage (Reflex DC 15 half).
+The debris is swept away by the flashflood.
+River, Lake, or Marsh: The river, lake, or marsh overflows its banks, though with rivers the effect is transitory.
+In the case of lakes and marshes, determine how much the body of water overflows, given the 100,000 cubic feet of water added to it.
+Only calculate this amount if the total surface area of the lake or marsh is less than 40,000 square feet � ;and even then, it's only academic unless it is important to determine whether something on the shore gets wet.
+   

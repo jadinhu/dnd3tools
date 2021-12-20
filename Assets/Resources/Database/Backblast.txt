@@ -1,0 +1,19 @@
+<b>Backblast</b>(Lost Empires of Faerun)
+
+Abjuration [Fire]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Until expended or 10 minutes/level (D)
+
+ 	
+Though this spell was originally created by the phaerimms, it has since been stolen by spellcasters of other races and can now be found in grimoires across FaerÃ»n.
+Backblast protects you in the same manner as the spell turning spell, except that it turns only spells with the fire descriptor that are targeted on you.
+Effect and area spells are unaffected, as is any spell with a range of touch.
+The DM secretly rolls 1d4+2 to determine the total number of spell levels that can be turned.
+Backblast otherwise follows the rules for the spell turning spell.
+In addition to the above, backblast grants you fire resistance 10.
+This effect persists until the end of the round in which the spell turning effect ends.
+   

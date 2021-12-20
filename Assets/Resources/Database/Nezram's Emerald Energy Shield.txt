@@ -1,0 +1,19 @@
+<b>Nezram's Emerald Energy Shield</b>(Lost Empires of Faerun)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You coat the subject with protective energy of an emerald green hue.
+This energy shield does not affect the subject's movement, senses, or ability to cast spells.
+While surrounded by this energy, the subject is immune to any natural or magical effect that causes deafness and to all language-dependent, mind-affecting spells and effects.
+The subject also gains sonic resistance 10 and a +4 bonus on saves against all spells and effects with the sonic descriptor to which it has not already been rendered immune.
+Arcane Material Component: A pinch of powdered emerald.
+   

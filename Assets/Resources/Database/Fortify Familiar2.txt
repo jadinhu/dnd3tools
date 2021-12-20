@@ -1,0 +1,17 @@
+<b>Fortify Familiar</b>(Spell Compendium, p. 98)
+
+Universal
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Familiar touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You touch your familiar, and you see that the creature seems more robust.</b>
+	
+This spell makes your familiar tougher, granting it 2d8 temporary hit points and a +2 enhancement bonus to its natural armor. It also has a 25% chance to avoid extra damage from sneak attacks or critical hits (although such attacks still deal normal damage if successful). Temporary hit points gained in this fashion last for up to 1 hour.
+ <b>Also appears in</b>   Complete Arcane  Tome and Blood: A Guidebook to Wizards and Sorcerers     

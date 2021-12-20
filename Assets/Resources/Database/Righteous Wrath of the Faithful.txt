@@ -1,0 +1,23 @@
+<b>Righteous Wrath of the Faithful</b>(Complete Divine)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Cleric 7,   Purification 7,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Target:</b> All allies within 30 ft.-radius burst centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you fire your allies and companions with a divine madness or fury that greatly enhances their combat ability.
+	
+Allies who are fighting on your side gain a +1 morale bonus on attack rolls and saving throws against fear effects, plus 1d8 temporary hit points for the duration of the spell.
+	
+Allies who worship the same deity as you are infused with the righteous wrath. They gain one additional melee attack each round, at their highest attack bonus, and a +2 morale bonus on attack and damage rolls and saving throws.
+	
+They gain an additional 1d8 temporary hit points (for a total of 2d8) and a +3 morale bonus on saving throws against mindaffecting spells or effects.
+	
+When the spell duration expires, any allies who were affected by the full righteous wrath are fatigued (-2 to Strength, -2 to Dexterity, can't charge or run) for 10 minutes.
+ <b>Also appears in</b>   Defenders of the Faith: A Guidebook to Clerics and Paladins     

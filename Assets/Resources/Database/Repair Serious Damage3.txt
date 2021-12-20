@@ -1,0 +1,15 @@
+<b>Repair Serious Damage</b>(Eberron Campaign Setting, p. 114)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,  Artificer 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Construct touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+As <b>repair light damage</b> , except <b>repair serious damage</b> repairs 3d8 points of damage + 1 point per caster level (maximum +15).
+ <b>Also appears in</b>   Complete Arcane  Tome and Blood: A Guidebook to Wizards and Sorcerers  Miniatures Handbook  Dragon Compendium  Spell Compendium     

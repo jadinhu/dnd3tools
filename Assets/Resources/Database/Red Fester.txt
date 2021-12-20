@@ -1,0 +1,19 @@
+<b>Red Fester</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>    Corrupt 3  
+<b>Components:</b>V, S, Corrupt, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject's skin turns red and blisters.
+The blisters quickly turn into oozing wounds.
+Furthermore, the subject's sense of self becomes strangely clouded, diminishing her self-esteem.
+The subject takes 1d6 points of Strength damage and 1d4 points of Charisma damage.
+Corruption Cost: 1d6 points of Strength damage.
+   

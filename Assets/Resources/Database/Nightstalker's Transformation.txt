@@ -1,0 +1,20 @@
+<b>Nightstalker's Transformation</b>(Complete Adventurer)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+You become a stealthy and dangerous combatant.
+Your mind-set changes so that you relish stealth, deception, and surprise attacks over magical assaults.
+You gain a +4 enhancement bonus to Dexterity, a +3 luck bonus to Armor Class, a +5 luck bonus on Reflex saving throws, a +5 competence bonus on Spot, Listen, Hide, and Move Silently checks, and proficiency with all simple weapons plus the hand crossbow, rapier, sap, shortbow, and short sword.
+You also gain the Weapon Finesse feat and the evasion ability (see page 50 of the Player's Handbook).
+You deal an extra 3d6 points of damage whenever you attack an opponent that you flank or an opponent denied its Dexterity bonus to Armor Class.
+This extra damage works like the rogue's sneak attack ability.
+You lose your spellcasting ability for the duration of the spell, including your ability to use spell activation or spell completion magic items, just as if the spells were no longer on your class list.
+Material Component: A potion of cat's grace, which you drink (and whose effects are subsumed by the spell effects).
+ <b>Also appears in</b>   Spell Compendium     

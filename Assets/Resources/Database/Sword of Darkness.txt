@@ -1,0 +1,15 @@
+<b>Sword of Darkness</b>(Complete Arcane)
+
+Necromancy [Evil]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,  Wu Jen 7,    
+<b>Components:</b>V, S, M, 
+ <b>Effect:</b> Black blade of negative energy
+
+ 	
+This spell functions as sword of deception, except you cause a black blade of pure negative energy to appear and attack opponents at a distance, as directed by you.
+A sword of darkness bestows one negative level on each successful hit against a living creature, threatens a critical hit on a roll of 19-20, and bestows an additional negative level on a critical hit.
+Negative levels usually have a chance of permanently draining the subject's levels, but the negative levels from sword of darkness don't last long enough to do so.
+However, if the subject gains at least as many negative levels as it has Hit Dice, it dies.
+If the sword strikes an undead creature, it grants that creature 5 temporary hit points per two caster levels (maximum 25 temporary hit points) that last for up to 1 hour.
+Material Component: A katana, bastard sword, or longsword, which is shattered against a stone while casting the spell.
+ <b>Also appears in</b>   Oriental Adventures     

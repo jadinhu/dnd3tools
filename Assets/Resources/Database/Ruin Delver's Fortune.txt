@@ -1,0 +1,17 @@
+<b>Ruin Delver's Fortune</b>(Spell Compendium, p. 178)
+
+Transmutation
+ <b>Level:</b>  Bard 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1d4 rounds
+
+ 	
+<b>In desperate need, you cry out a word imbued with power, granting you a bit of extra luck when you need it most.</b>
+	
+When the spell is cast, choose from one of the following effects.
+			Gain a luck bonus on Fortitude saving throws equal to your Charisma modifier, and immunity to poison.				Gain a luck bonus on Reflex saving throws equal to your Charisma modifier, and the evasion ability.				Gain a luck bonus on Will saving throws equal to your Charisma modifier, and immunity to fear effects.				Gain temporary hit points equal to 4d8 + your Cha modifier. These hit points vanish at the end of the spell's duration.		
+You can cast this spell multiple times. Each time you do, choose a different benefit.
+   

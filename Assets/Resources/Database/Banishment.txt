@@ -1,0 +1,19 @@
+<b>Banishment</b>(Player's Handbook v.3.5, p. 203)
+
+Abjuration
+ <b>Level:</b>  Cleric 6,  Knight of the Weave 6,  Nar Demonbinder 6,  Sorcerer 7,  Wizard 7,  Sha'ir 7,   Portal 6,  Balance 6,  Retribution 6,   
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One or more extraplanar creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A banishment spell is a more powerful version of the dismissal spell. It enables you to force extraplanar creatures out of your home plane. As many as 2 Hit Dice of creatures per caster level can be banished. You can improve the spell's chance of success by presenting at least one object or substance that the target hates, fears, or otherwise opposes. For each such object or substance, you gain a +1 bonus on your caster level check to overcome the target's spell resistance (if any), the saving throw DC increases by 2. For example, if this spell were cast on a demon that hated light and was vulnerable to holy water and cold iron weapons, you might use iron, holy water, and a torch in the spell. The three items would give you a +3 bonus on your check to overcome the demon's spell resistance and add 6 to the spell's save DC.
+	
+At the DM's option, certain rare items might work twice as well as a normal item for the purpose of the bonuses (each providing a +2 bonus on the caster level check against spell resistance and increasing the save DC by 4).
+	
+Arcane Focus: Any item that is distasteful to the subject (optional, see above).
+   

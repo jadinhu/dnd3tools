@@ -1,0 +1,17 @@
+<b>Righteous Wrath of the Faithful</b>(Spell Compendium)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Cleric 5,   Purification 7,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Target:</b> Allies within 30 ft.-radius burst centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>When you cast this spell, you fire your allies and companions with a divine madness or fury that greatly enhances their combat ability.</b>
+	
+Allies gain one additional melee attack each round, at their highest attack bonus, when making a full attack. (This additional attack is not cumulative with other effects that grant extra attacks, such as a <b>haste</b> spell.) They also gain a +3 morale bonus on melee attack rolls and damage rolls. (This bonus on melee attack rolls does stack with the bonus provided by haste.)
+   

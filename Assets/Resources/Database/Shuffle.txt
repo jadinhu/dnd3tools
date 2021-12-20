@@ -1,0 +1,18 @@
+<b>Shuffle</b>(Shining South)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Druid 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One or more willing creatures touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You grant one creature, plus one additional creature for every five caster levels, the ability to teleport a short distance as a move action.
+Each subject can use the ability once per round, on its turn, to travel to a spot it knows intimately or can see, which can be no more than 5 feet per two caster levels away (maximum 50 feet at 20th level).
+Creatures affected by this spell can carry objects, as long as the weight of those objects doesn't exceed the subject's maximum load.
+If a subject of shuffle would arrive in an area occupied by solid material, that attempted teleport simply fails.
+   

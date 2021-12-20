@@ -1,0 +1,19 @@
+<b>Thornskin</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 3 (Wood),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+When you cast this spell, you become so completely attuned to the element of wood that your skin sprouts thorns all over.
+These thorns do not damage you, but they both increase the damage you can deal with an unarmed attack and make you a dangerous person to grab.
+When you make a successful unarmed attack, you deal 1d6 points of normal, not subdual, piercing damage.
+If you already deal extra damage, because you are a multiclassed monk or for any other reason, your damage increases by one die type: 1d6 to 1d8, 1d8 to 1d10, 1d10 to 1d12, 1d12 to 1d20, 1d20 to 2d12.
+If you have another form of natural attack, such as a claw attack, use 1d6 or your claw damage, whichever is better.
+A creature that hits you with a natural weapon or unarmed attack, including an attempt to grapple, takes 1d4 points of piercing damage.
+Material Component: A thorn.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

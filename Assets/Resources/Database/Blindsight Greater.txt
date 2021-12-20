@@ -1,0 +1,17 @@
+<b>Blindsight, Greater</b>(Spell Compendium, p. 32)
+
+Transmutation
+ <b>Level:</b>  Cleric 4,  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature Touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You touch your intended subject, which then turns its head rapidly about as if looking for the source of some sound.</b>
+	
+This spell functions like blindsight, except as noted above and that the blindsight granted by the spell is effective out to 60 feet.
+   

@@ -1,0 +1,24 @@
+<b>Stone Walk</b>(Magic of Faerun)
+
+Transmutation [Teleportation]
+ <b>Level:</b>  Cleric 6 (Bane),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Stone touched
+ <b>Duration:</b> Permanent until discharged
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You magically link one location to another so that you or another may speak a command word at one end and be teleported to the other end.
+Before you cast the spell, you must prepare the ends of the link, both of which must be areas of stone 5 feet square.
+This preparation takes 1 hour, and functions for repeated castings of the spell as long as the stones are not damaged.
+When the spell is cast, the stones become attuned to a command word you designate.
+Any creature that speaks the command word while standing upon one of the stones is teleported without error to the other end instantaneously.
+The stones function once for every four caster levels, and can carry 50 pounds per caster level each time.
+Creatures that exceed the weight limitation are not transported and count as one of the uses of the spell.
+Material Component: The preparation of each of the ends of the link requires a paste made from rubies and amber worth 2,500 gp.
+Casting the spell requires a 2,500 gp diamond.
+Activating one of the linked stones once the spell is cast does not require any material components.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n  Lords of Darkness     

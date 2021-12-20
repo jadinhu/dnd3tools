@@ -1,0 +1,16 @@
+<b>Arrow Mind</b>(Complete Adventurer)
+
+Divination
+ <b>Level:</b>  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+You sharpen your senses and focus your mind on the use of a bow.
+While this spell is in effect and you are wielding a longbow, shortbow, greatbow, composite greatbow, composite shortbow, or composite longbow, you threaten all squares within your normal melee reach (5 feet if Small or Medium, 10 feet if Large) with your bow, allowing you to make attacks of opportunity with arrows shot from the bow.
+In addition, you do not provoke attacks of opportunity when you shoot a bow while you are in another creature's threatened square.
+Material Component: A flint arrowhead.			See Complete Warrior.	
+ <b>Also appears in</b>   Spell Compendium     

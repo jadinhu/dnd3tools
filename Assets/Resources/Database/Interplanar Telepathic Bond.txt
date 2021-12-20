@@ -1,0 +1,19 @@
+<b>Interplanar Telepathic Bond</b>(Spell Compendium, p. 125)
+
+Divination
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> You plus one willing creature/3 levels, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You crush the eggshells as you cast this spell, indicating your comrades in the party. Now, regardless of where they might end up, you will able to communicate with them.</b>
+	
+This spell functions like Rary's telepathic bond (PH 268), except that the communication functions both on the same plane and across planes.
+	
+<b>Material Component</b>: Pieces of eggshell from two different kinds of creatures.
+ <b>Also appears in</b>   Planar Handbook     

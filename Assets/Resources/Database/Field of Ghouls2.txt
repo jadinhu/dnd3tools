@@ -1,0 +1,23 @@
+<b>Field of Ghouls</b>(Spell Compendium, p. 90)
+
+Necromancy [Death, Evil]
+ <b>Level:</b>   Hunger 7,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 feet
+ <b>Area:</b> 30-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Wrenching life from their bodies with your magic, your foes' remains stir and rise as ghouls under your control.</b>
+	
+Humanoid creatures in the area with -1 to -9 hit points that fail their saving throws die and immediately rise as ghouls (<b>MM</b> 118) under your control. You choose wether the ghouls follow you, or whether they can remain where formed and attack any creature (or just a specific kind of creature) the ghouls notice. The ghouls remain until they are destroyed.
+	
+The ghouls that you create remain under your control indefinitely. No matter how many ghouls you generate with this spell, however, you can control only 4 HD worth of undead creatures per caster level (this includes undead from all sources under your control). If you exceed this number, all newly created creatures fall under your control, and any excess undead from previous castings become uncontrolled (you choose which creatures are released). If you are a cleric, any undead you might command by virtue of your power to command or rebuke undead do not count toward the limit.
+	
+Creatures that fall to -1 hit points or fewer in the area after the spell is cast are likewise subject to its effect and rise as ghouls on your next turn.
+	
+No creature can be affected by this spell more than once per round, regardless of the number of times that the area of the spell passes over it. This spell does not affect creatures that are already dead, or creatures that are killed by reducing their hit points to -10.
+   

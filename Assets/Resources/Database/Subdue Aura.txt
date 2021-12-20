@@ -1,0 +1,18 @@
+<b>Subdue Aura</b>(Complete Champion)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,  Paladin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature or object touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+The normally formidable aura that marks you as a servant of a higher power recedes, leaving few traces of your allegiance visible to creatures that can see such marks.
+This spell masks the target's aura, making it appear less powerful than it really is.
+For every two caster levels, the target of a subdue aura spell appears to have 1 fewer Hit Die than it really does.
+If the target has no aura, the spell has no effect.
+   

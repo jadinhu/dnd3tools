@@ -1,0 +1,22 @@
+<b>Summon Monster VII</b>(Player's Handbook v.3.5, p. 287)
+
+Conjuration (Summoning) [see text for summon monster I]
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,  Nar Demonbinder 7,  Wu Jen 7,  Sha'ir 7,   Celestia 7,  Abyss 7,  Arborea 7,  Baator 7,  Summoner 7,   
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more summoned creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>summon monster I</b>, except that you can summon one creature from the 7th-level list, 1d3 creatures of the same kind from the 6th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
+	
+Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
+	<b>Special</b>	
+When casting <b>Summon Monster VII</b> as a Abyss Domain spell, only Chaotic Evil creatures may be summoned.
+When casting <b>Summon Monster VII</b> as a Arborea Domain spell, only Chaotic Good creatures may be summoned.
+When casting <b>Summon Monster VII</b> as a Baator Domain spell, only Lawful Evil creatures may be summoned.
+When casting <b>Summon Monster VII</b> as a Celestia Domain spell, only Lawful Good creatures may be summoned.
+	<b>7TH <span class="caps">LEVEL</span></b>	<table>		<tr>			<th><b>Monster</b> </th>			<th><b>Alignement</b> </th>		</tr>		<tr>			<td> Celestial elephant </td>			<td> LG </td>		</tr>		<tr>			<td> Avoral (guardinal) </td>			<td> NG </td>		</tr>		<tr>			<td> Celestial baleen whale <sup>1</sup> </td>			<td> NG </td>		</tr>		<tr>			<td> Djinni (genie) </td>			<td> CG </td>		</tr>		<tr>			<td> Elemental, Huge (any) </td>			<td> N </td>		</tr>		<tr>			<td> Invisible stalker </td>			<td> N </td>		</tr>		<tr>			<td> Slaad, red </td>			<td> CN </td>		</tr>		<tr>			<td> Devil, bone </td>			<td> LE </td>		</tr>		<tr>			<td> Fiendish megaraptor </td>			<td> LE </td>		</tr>		<tr>			<td> Fiendish monstrous scorpion, Huge </td>			<td> NE </td>		</tr>		<tr>			<td> Babau (demon) </td>			<td> CE </td>		</tr>		<tr>			<td> Fiendish giant octopus <sup>1</sup> </td>			<td> CE </td>		</tr>		<tr>			<td> Fiendish girallon </td>			<td> CE </td>		</tr>		<tr>			<td colspan="2"><sup>1</sup> may be summoned only into an aquatic or watery environment </td>		</tr>	</table>   

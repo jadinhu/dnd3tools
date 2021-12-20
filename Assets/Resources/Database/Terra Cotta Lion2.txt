@@ -1,0 +1,14 @@
+<b>Terra Cotta Lion</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 5 (Earth),    
+<b>Components:</b>
+
+ 	
+As terra cotta warrior, but the spell animates a statuette of a foo lion (a celestial dire lion) into a Huge animated object.
+Like a terra cotta warrior, a terra cotta lion has improved speed (30 feet) and a hardness of 6.
+It has none of the special attack forms described in the Monster Manual.
+Focus: A terra cotta statue of a foo lion, up to 1 foot tall and costing 10 gp.
+If the terra cotta lion remains intact at the end of the spell, the statuette can be reused.
+Otherwise, it must be repaired or replaced.
+ <b>Also appears in</b>   Complete Arcane     

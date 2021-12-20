@@ -1,0 +1,10 @@
+<b>Chain Contingency</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Evocation
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>
+
+ 	
+As the contingency spell, except that you can place up to three other spells upon your person so that they come into effect under some condition you dictate when casting chain contingency.
+The spells can come into effect simultaneously or one at a time, one per round.
+   

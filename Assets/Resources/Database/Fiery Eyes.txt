@@ -1,0 +1,15 @@
+<b>Fiery Eyes</b>(Complete Arcane)
+
+Evocation [Fire]
+ <b>Level:</b>  Wu Jen 1 (Fire),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute
+ <b>Saving Throw:</b> Reflex special; see text
+
+ 	
+This spell causes your eyes to glow with an unnatural fire whose color you determine (from dull red to brilliant yellow), projecting beams of bright light that clearly illuminate a 5-foot-square area to a range of 5 feet.
+By fixing your sight on one spot within 60 feet as a full-round action, you can cause combustible materials to burst into flames, and though you cannot target living creatures with this effect, creatures carrying or wearing items you ignite take 1d6 points of fire damage and must make a DC 15 Reflex save or catch on fire themselves.
+ <b>Also appears in</b>   Oriental Adventures     

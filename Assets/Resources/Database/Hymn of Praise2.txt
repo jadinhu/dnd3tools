@@ -1,0 +1,19 @@
+<b>Hymn of Praise</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Evocation [Good, Sonic]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> A sphere with a radius equal to the range, centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You can strike up a rousing, inspirational spiritual that temporarily boosts the effective caster level of each good-aligned divine spellcaster within range by +1.
+This increase does not grant access to additional spells, but it does improve all spell effects that are dependent on caster level.
+In addition, hymn of praise mimics the effect of a hallow spell with respect to turning or rebuking undead.
+Within the spell's area, each good-aligned divine spellcaster gains a +4 sacred bonus on Charisma checks to turn undead, and each evil-aligned divine spellcaster incurs a -4 sacred penalty on Charisma checks to rebuke undead.
+Focus: The caster's instrument.
+ <b>Also appears in</b>   Spell Compendium  Complete Adventurer     

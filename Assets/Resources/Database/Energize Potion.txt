@@ -1,0 +1,21 @@
+<b>Energize Potion</b>(Book of Exalted Deeds)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Cleric 3,  Druid 3,   Wrath 2,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 10-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell transforms a magic potion into a volatile substance that can be hurled out to the specified range.
+The spell destroys the potion and releases a 10-foot-radius burst of energy at the point of impact.
+The caster must specify the energy type (acid, cold, electricity, fire, or sonic) when the spell is cast.
+The potion deals 1d6 points of damage (of the appropriate energy type) per spell level of the potion (maximum 3d6).
+For example, a potion of displacement transformed by this spell deals 3d6 points of damage.
+An energized potion set to deal fire damage ignites combustibles within the spell's burst radius.
+Material Component: A magic potion.
+   

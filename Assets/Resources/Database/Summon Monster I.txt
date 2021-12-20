@@ -1,0 +1,23 @@
+<b>Summon Monster I</b>(Player's Handbook v.3.5, p. 285)
+
+Conjuration (Summoning) [see text]
+ <b>Level:</b>  Bard 1, Blackguard 1,  Cleric 1,  Sorcerer 1,  Wizard 1,  Knight of the Chalice 1,  Wu Jen 1,  Sha'ir 1,  Demonologist 1,   Portal 1,  Summoner 1,   
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One summoned creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell summons an extraplanar creature (typically an outsider, elemental, or magical beast native to another plane). It appears where you designate and acts immediately, on your turn. It attacks your opponents to the best of its ability. If you can communicate with the creature, you can direct it not to attack, to attack particular enemies, or to perform other actions. 
+	
+The spell conjures one of the creatures from the 1st-level list on the accompanying Summon Monster table. You choose which kind of creature to summon, and you can change that choice each time you cast the spell. Information on these creatures can be found in the Monster Manual.
+	
+A summoned monster cannot summon or otherwise conjure another creature, nor can it use any teleportation or planar travel abilities. Creatures cannot be summoned into an environment that cannot support them. For instance, a celestial porpoise may only be summoned in an aquatic environment.
+	
+When you use a summoning spell to summon an air, chaotic, earth, evil, fire, good, lawful, or water creature, it is a spell of that type. For example, a summon monster I is a lawful and evil spell when cast to summon a fiendish dire rat.
+	
+Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
+	<b>1ST <span class="caps">LEVEL</span></b>	<table>		<tr>			<th><b>Monster</b> </th>			<th><b>Alignement</b> </th>		</tr>		<tr>			<td> Celestial dog </td>			<td> LG </td>		</tr>		<tr>			<td> Celestial owl </td>			<td> LG </td>		</tr>		<tr>			<td> Celestial giant fire beetle </td>			<td> NG </td>		</tr>		<tr>			<td> Celestial porpoise <sup>1</sup> </td>			<td> NG </td>		</tr>		<tr>			<td> Celestial badger </td>			<td> CG </td>		</tr>		<tr>			<td> Celestial monkey </td>			<td> CG </td>		</tr>		<tr>			<td> Fiendish dire rat </td>			<td> LE </td>		</tr>		<tr>			<td> Fiendish raven </td>			<td> LE </td>		</tr>		<tr>			<td> Fiendish monstrous centipede, Medium </td>			<td> NE </td>		</tr>		<tr>			<td> Fiendish monstrous scorpion, Small </td>			<td> NE </td>		</tr>		<tr>			<td> Fiendish hawk </td>			<td> CE </td>		</tr>		<tr>			<td> Fiendish monstrous spider, Small </td>			<td> CE </td>		</tr>		<tr>			<td> Fiendish octopus <sup>1</sup> </td>			<td> CE </td>		</tr>		<tr>			<td> Fiendish snake, Small viper </td>			<td> CE </td>		</tr>		<tr>			<td colspan="2"><sup>1</sup> may be summoned only into an aquatic or watery environment </td>		</tr>	</table>   

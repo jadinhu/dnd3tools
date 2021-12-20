@@ -1,0 +1,33 @@
+<b>Word of Genesis</b>(Tome of Magic)
+
+Conjuration (Creation)
+ <b>Level:</b>  Cleric 9,    
+<b>Components:</b>V, S, <abbr title="Experience">XP, <abbr title="True Name">TN, 
+ <b>Casting Time:</b> Six days (8 hours/day)
+ <b>Range:</b> 100 ft. (see text)
+ <b>Effect:</b> A demiplane coterminous with the Astral Plane, centered on your location
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+From the silvery haze of the Astral plane, you begin to weave tendrils of mist as you speak words of power.
+Floating in space, you begin to construct reality anew with your words and gestures.
+You create a finite plane with limited access: a demiplane.
+Demiplanes created by this spell are very small, very minor planes.
+This spell works best when cast while you are on the Astral Plane (various spells allow access to these planes, including plane shift and gate).
+Casting this spell creates a local density fluctuation that precipitates the creation of a demiplane.
+At first, the fledgling plane has a 100-foot radius.
+Once created, it grows by 1 foot per week (approximately a 50-foot increase in radius per year).
+Once your demiplane is created, you can travel to it using plane shift or some other spell or permanent link that you arrange for separately.
+You determine the environment within the demiplane when you cast word of genesis, reflecting most any desire you can visualize.
+You determine factors such as atmosphere, water, temperature, and the general shape of the terrain.
+This power cannot create life (including vegetation), nor can it create objects or constructed elements (such as buildings, roads, wells, dungeons, and so forth).
+You must add these details in some other fashion if you desire.
+You can't create lingering magical effects with this power; you have to add those separately, if desired.
+Similarly, you can't create a demiplane out of esoteric material such as silver or uranium; you're limited to stone and dirt.
+You can't manipulate the time trait on your demiplane; its time trait is as the Material Plane.
+Once your demiplane is complete, you can cast the spell again and again, each time increasing its radius by another 100 feet.
+Truename Component: When you cast this spell, you must correctly speak the truename of the place you're creating; the Truespeak DC is 50.
+XP Cost: 1,000 XP.
+   

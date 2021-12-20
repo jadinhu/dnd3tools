@@ -1,0 +1,16 @@
+<b>Clarion Call</b>(Tome of Battle: The Book of Nine Swords, p. 91)
+
+White Raven (Boost)
+ <b>Level:</b>  Crusader 7 (Three White Raven maneuvers),  Warblade 7 (Three White Raven maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft.-radius burst centered on you
+
+ 	
+<b>As you defeat an opponent, you shout a battle cry that inspires one of your allies to renew his efforts.</b>
+	
+You are an inspiring figure on the battlefield. Your personal victories are shared by your allies, allowing them to draw courage and vigor from your actions. 
+	
+If during your turn a melee attack you make reduces an opponent to fewer than 0 hit points, you can initiate this maneuver. Once it is initiated, all allies within range can immediately either make one melee attack at their highest attack bonus or take a single move action. These allies must be able to see and hear you. These extra attacks are not attacks of opportunity.
+   

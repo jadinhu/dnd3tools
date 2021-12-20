@@ -1,0 +1,19 @@
+<b>Shadow Mask</b>(Spell Compendium, p. 185)
+
+Illusion (Shadow)
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+<b>You draw raw energy from the Plane of Shadow to obscure your face.</b>
+	
+You cause a mask of shadows to form around your face. It does not impede your vision, cannot be physically removed, completely hides your features, and protects you against certain attacks. You receive a +4 bonus on saving throws against light or darkness spells and any spells that rely on bright light for damaging effects, such as the flare spell or the fireworks effect of pyrotechnics. You also gain a 50% chance each round to avoid having to make a saving throw against gaze attacks, just as if you averted your eyes. If you avert your eyes while using shadow mask, you get to check twice to see if you avoid having to make the saving throw.
+	
+When the spell's duration ends, the shadow mask fades over the course of 1d4 rounds (rather than immediately), giving you time to keep your face hidden by other means. A successful dispel magic cast against a shadow mask effectively ends the spell and causes the same slow fading.
+	
+Material Component: A mask of black cloth.
+ <b>Also appears in</b>   Forgotten Realms Campaign Setting     

@@ -1,0 +1,18 @@
+<b>Primal Speed</b>(Dragon Magic)
+
+Transmutation
+ <b>Level:</b>  Ranger 4,  Druid 6,  Sorcerer 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 24 hours
+
+ 	
+A shower of sparks, flies off your shoulders, cascading to the ground and clinging to your arms and legs.
+This spell draws upon the natural reflexes of hunters and prey, giving you the ability to react to danger as more primitive beings might.
+You gain a +5 resistance bonus on Reflex saves and a +10-foot enhancement bonus to all your speeds.
+If primal speed is active on you at the same time as primal hunter, primal instinct, or primal senses, you gain uncanny dodge (as the barbarian class feature).
+If all four of these spells are active on you at the same time, you gain improved uncanny dodge (as the barbarian class feature; your barbarian level for the purpose of being flanked equals your caster level).
+Special: If you are of the dragonblood subtype (see page 4), you can cast this spell as an immediate action.
+   

@@ -1,0 +1,17 @@
+<b>Tide of Chaos</b>(Tome of Battle: The Book of Nine Swords, p. 61)
+
+Devoted Spirit (Strike) [Chaos]
+ <b>Level:</b>  Crusader 5 (One Devoted Spirit maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round
+
+ 	
+<b>Prerequisite</b>: chaotic alignment
+	
+<b>The power of chaos swirls around you, lending strength to your attacks as you cast your fate to the whims of luck.</b>
+	
+You must make a charge attack as part of this maneuver. If the target is lawful-aligned, you gain a +8 bonus on your attack (in addition to the charge bonus) and your attack deals an extra 4d6 points of damage. In addition, if your charge attack hits and the target is lawful-aligned, you become wreathed in anarchic energy. You gain total concealment against all attacks that target you until the beginning of your next turn.
+   

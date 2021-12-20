@@ -1,0 +1,19 @@
+<b>Hide from Animals</b>(Player's Handbook v.3.5, p. 241)
+
+Abjuration
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature touched/level
+ <b>Duration:</b> 10 min./level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Animals cannot see, hear, or smell the warded creatures.
+Even extraordinary or supernatural sensory capabilities, such as blindsense, blindsight, scent, and tremorsense, cannot detect or locate warded creatures.
+Animals simply act as though the warded creatures are not there.
+Warded creatures could stand before the hungriest of lions and not be molested or even noticed.
+If a warded character touches an animal or attacks any creature, even with a spell, the spell ends for all recipients.
+   

@@ -1,0 +1,10 @@
+<b>Summon Undead II</b>(Magic of Faerun)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>
+ <b>Effect:</b> One or more summoned creatures, no two of which can be more than 30 ft. apart
+
+ 	
+As summon undead I, except that you can summon one undead from the 2nd-level list or 1d3 undead of the same type from the 1st-level list.
+ <b>Also appears in</b>   Ghostwalk  Heroes of Horror  Libris Mortis: The Book of the Dead  Spell Compendium  Player's Guide to FaerÃ»n     

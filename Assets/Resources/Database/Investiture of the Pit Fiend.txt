@@ -1,0 +1,38 @@
+<b>Investiture of the Pit Fiend</b>(Fiendish Codex II: Tyrants of the Nine Hells)
+
+Transmutation [Evil, Investiture]
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The air shatters with a shriek of sorrow, and a flash of flame briefly limns the target of this spell as she receives a portion of the might of a pit fiend.
+You infuse a creature with the terrifying power of a pit fiend.
+The spell causes the subject's mouth to expand to accommodate new dripping fangs.
+To add to this devilish effect, a pair of red leathery wings tears free from the flesh of the subject's back, granting it a fly speed of 60 feet with average maneuverability.
+The subject of the spell gains these benefits regardless of his aspect choice (see below).
+The power granted to the subject by investiture of the pit fiend can manifest in one of three ways.
+At the beginning of each round, the invested creature chooses which aspect of the spell will be in place.
+Aspect of Tyranny: The invested creature's hands lengthen to horrific claws, and the creature gains powerful melee attacks.
+While the aspect of tyranny is in effect, the invested creature can attack with both its claws and wings.
+Each attack deals base damage of 2d6 points.
+The claws are treated as primary melee attacks with a natural weapon, and the wing attacks are treated as secondary attacks with a natural weapon.
+When making attacks with these claws and wings, the invested creature has a base attack bonus equal to its character level (or Hit Dice, if the invested creature has a level adjustment).
+When taking a full attack action and using only the natural weapons granted by the aspect of tyranny, the secondary attacks are made with only a -2 penalty rather than the normal -5.
+Because these are natural attacks, the invested creature cannot make multiple attacks because of a high base attack bonus.
+Aspect of Pestilence:When the invested creature chooses to manifest the aspect of pestilence, it can, as a standard action, release a cloud of disease-ridden air.
+Creatures within 10 feet of the subject when it generates this effect must succeed on a Fortitude saving throw against the spell's DC or take 2 points of Strength damage.
+Aspect of Terror:When the invested creature chooses to manifest the aspect of terror, it can, as a standard action, release a powerful wave of fear.
+Creatures within 10 feet of the subject when it generates this effect must succeed on a Will saving throw against the spell's DC or become frightened for 2 rounds.
+This wave of fear is a mind-affecting fear effect.
+The subject gains immunity to poison and resistance to fire 20.
+This resistance stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the pit fiend).
+While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture.
+After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute.
+Material Component: A fist-sized chunk of brimstone.
+   

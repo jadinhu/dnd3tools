@@ -1,0 +1,23 @@
+<b>Cyclonic Blast</b>(Spell Compendium, p. 57)
+
+Evocation [Air]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 120 ft.
+ <b>Area:</b> 120-ft. line
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Cupping a child's top, you forcefully thrust your hand forward, simultaneously speaking hte final words of the spell's proscribed formula. Immediately thereafter, a blast of whirling wind issues forth from your outstretched fingers, sweeping up within it all who stands in its way.</b>
+	
+You send a twisting torrent of wind, not unlike a tornado turned on its side, towards your enemies. A <b>cyclonic blast</b> deals 1d6 points of damage per caster level (maximum 15d6 points of damage) to all creatures and objects in the area. Objects bigger than Large take half damage. The <b>cyclonic blast</b> begins at your fingertips.
+	
+Creatures who fail their Reflex saving throw against a cyclonic blast are additionally in danger of being knocked back by the force of the wind. Treat this as a bull rush attack made with a +12 bonus on the Strength check. The <b>cyclonic blast</b> always moves with the opponent to push that target back the full distance allowed, and (unlike a normal bull rush) you can exceed your normal movement limit with a sufficiently high check result. Airborne creatures are treated as if they were one size category smaller for the purpose of resisting the bull rush.
+	
+If the damage caused to an interposing barrier by the blast shatters or breaks through it, the <b>cyclonic blast</b> can continue beyound the barrier if the spell's range permits; otherwise, it stops at the barrier just as any other spell effect does.
+	
+<b>Focus:</b> A child's spinning top.
+   

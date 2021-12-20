@@ -1,0 +1,21 @@
+/**
+ * FacebookAndPlayFabInfo.cs
+ * Created by: Jadson Almeida [jadson.sistemas@gmail.com]
+ * Created on: 31/08/17 (dd/mm/yy)
+ * Revised on: 31/08/17 (dd/mm/yy)
+ */
+public static class FacebookAndPlayFabInfo
+{
+    //Id do usuário no PlayFab
+    public static string userPlayFabId = "";
+    //Id do usuário no Facebook
+    public static string userFacebookId = "";
+    //Nome do usuário no Facebook
+    public static string userName = "";
+    //Indica se o usuário já está logado no PlayFab
+    public static bool isLoggedOnPlayFab = false;
+    //Indica se os dados do leaderboard já foram carregados.
+    public static bool leaderboardLoaded = false;
+    //Indica se os dados do leaderboard estão sendo carregados.
+    public static bool leaderboardIsLoading = false;
+}

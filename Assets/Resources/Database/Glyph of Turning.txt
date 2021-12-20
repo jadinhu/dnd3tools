@@ -1,0 +1,15 @@
+<b>Glyph of Turning</b>(Ghostwalk)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>
+
+ 	
+As glyph of warding, except that instead of a spell effect or a blast of energy, the spell unleashes a burst of positive or negative energy, depending on whether you channel positive or negative energy.
+When you cast this spell, it uses one of your turning attempts for the day.
+If you have a feat or special ability that alters your turning check (such as Empower Turning), youmay apply that modifier to the turning or rebuking stored in the glyph.
+When the glyph is triggered, the turning or rebuking attempt functions as if you were making the turning roll.
+A successful turning or rebuking attempt causes the undead to flee the glyph.
+If the result is that the undead are commanded, they guard the area of the glyph for 24 hours and then are released from the effects of the command.
+The commanded undead do not serve you.
+   

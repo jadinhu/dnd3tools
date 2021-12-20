@@ -1,0 +1,19 @@
+<b>Theskyn's Hearty Heave</b>(Lost Empires of Faerun)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Target:</b> One creature/three levels
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Created by a court mage serving the Stag King of Athalantar, this spell provides you with a bit of breathing room when you are threatened by swarming foes.
+When you cast the spell, you project a blast of concentric force that pushes away creatures surrounding you.
+Each creature is affected as if it had been subjected to a bull rush maneuver by a foe of Large size with a Strength score equal to 20 + your caster level (maximum 25), and the attacker had moved with the target (though you need not move at all).
+Movement caused by this spell provokes attacks of opportunity, just as the movement resulting from a normal bull rush would.
+Creatures grappling you are not affected by this spell.
+   

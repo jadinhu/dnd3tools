@@ -1,0 +1,26 @@
+<b>Control Weather</b>(Player's Handbook v.3.5, p. 214)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 6,  Cleric 7,  Druid 7,  Sorcerer 7,  Wizard 7,  Blighter 7,  Sha'ir 7,  Urban Druid 7,   Air 7,  Storm 7,  Cold 7,  Winter 7,  Elysium 7,  Windstorm 7,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes; see text
+ <b>Range:</b> 2 miles
+ <b>Area:</b> 2-mile-radius circle, centered on you; see text
+ <b>Duration:</b> 4d12 hours; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You change the weather in the local area.
+It takes 10 minutes to cast the spell and an additional 10 minutes for the effects to manifest.
+The current, natural weather conditions are determined by the DM.
+You can call forth weather appropriate to the climate and season of the area you are in.
+You control the general tendencies of the weather, such as the direction and intensity of the wind.
+You cannot control specific applications of the weather � ;
+where lightning strikes, for example, or the exact path of a tornado.
+When you select a certain weather condition to occur, the weather assumes that condition 10 minutes later (changing gradually, not abruptly).
+The weather continues as you left it for the duration, or until you use a standard action to designate a new kind of weather (which fully manifests itself 10 minutes later).
+Contradictory conditions are not possible simultaneously � ;fog and strong wind, for example.
+Control weather can do away with atmospheric phenomena (naturally occurring or otherwise) as well as create them.
+A druid casting this spell doubles the duration and affects a circle with a 3-mile radius.
+   

@@ -1,0 +1,28 @@
+<b>Genesis</b>(Deities and Demigods)
+
+Conjuration (Creation)
+		 <b>Level:</b>  Sorcerer 9,  Wizard 9,		Creation 9,
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 week (8 hours/day)
+ <b>Range:</b> 180 ft.
+ <b>Effect:</b> A demiplane on the Ethereal Plane centered on your location
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create an immobile, finite plane with limited access � ;a demiplane.
+Demiplanes created by this power are very small, minor planes.
+You can cast this spell only on the Ethereal Plane.
+When you cast it, a local density fluctuation precipitates the creation of a demiplane.
+At first, the demiplane grows at a rate of a 1-foot-radius per day to an initial maximum radius of 180 feet as the fledgling plane draws substance from surrounding ethereal vapors and protomatter or astral ectoplasm.
+You determine the environment in the demiplane when you first cast genesis, reflecting most any desire you can visualize.
+You determine factors such as atmosphere, water, temperature, and the shape of the general terrain.
+However, the spell cannot create life (such as vegetation), nor can it create construction (such as buildings, roads, wells, dungeons, and so forth).
+If you want these benefits, you must add them in some other fashion.
+Once the basic demiplane reaches its maximum size, you can continue to cast this spell to enlarge your demiplane if you are inside the boundaries of the demiplane.
+In such a case, the radius of the demiplane increases by 60 feet for each subsequent casting.
+If you cast the spell again while you are outside an existing demiplane, the casting creates a separate bubble that does not touch or overlap any previously created demiplane.
+XP Cost: 5,000 XP.
+(Note: This version of the genesis spell supersedes the genesis spell description previously published in Defenders of the Faith).
+ <b>Also appears in</b>   Epic Level Handbook  Defenders of the Faith: A Guidebook to Clerics and Paladins     

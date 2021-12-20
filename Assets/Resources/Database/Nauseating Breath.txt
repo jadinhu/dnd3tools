@@ -1,0 +1,19 @@
+<b>Nauseating Breath</b>(Spell Compendium, p. 146)
+
+Conjuration (Creation)
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You windmill your arm to complete the spell and nearly gag before exhaling a great gout of putrid-smelling green gas.</b>
+	
+You breathe out a cone of nauseating vapors. Any creature in the area must succeed on a Fortitude save or be nauseated for 1d6 rounds.
+	
+Material Component: A piece of fish at least one day old.
+   

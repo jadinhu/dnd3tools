@@ -1,0 +1,17 @@
+<b>Deep Breath</b>(Spell Compendium, p. 61)
+
+Conjuration (Creation) [Air]
+ <b>Level:</b>  Druid 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>You let out a quick cry and instantly feel your chest swell with air, as if you had taken a deep breath. Strangely, you feel no need to exhale.</b>
+	
+Your lungs instantly fill with air, and continue to refill with air for the duration of the spell. When the spell's duration expires, you can continue to hold your breath as if you had just gulped down a lungful of air.
+	
+You can cast this spell with an instant utterance, quickly enough to save yourself from drowning after being suddenly plunged into water.
+   

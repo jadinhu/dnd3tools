@@ -1,0 +1,19 @@
+<b>Snowdrift</b>(Frostburn)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Snow touched, up to 10 cu. ft. + 1 cu. ft./level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can form existing snow into any shape that suits your purpose.
+For example, you can make a snowbank for concealment, sculpt a snow statue or idol, open a tunnel in deep snow, or simply cover a set of tracks.
+Snowdrift also permits you to raise snowy barriers around a door or house to prevent vision in or out, or to clog a chimney with snow.
+Snow cannot be made into weapons with this spell, and snowdrift does not affect solid ice in any form.
+Arcane Material Component: A pinch of white flour.
+   

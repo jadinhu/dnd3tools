@@ -1,0 +1,16 @@
+<b>Faerinaal's Hymn</b>(Book of Exalted Deeds)
+
+Enchantment (Compulsion) [Good, Mind-Affecting]
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to one evil creature/level
+ <b>Duration:</b> Concentration
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This gentle hymn clouds the minds of evil creatures, causing targets of the spell to forgo attacks of opportunity for the spell's duration.
+A target must be able to hear the hymn to be affected by the spell.
+   

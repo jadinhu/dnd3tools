@@ -1,0 +1,24 @@
+<b>Warding Gems</b>(Book of Exalted Deeds)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 1 gem/3 caster levels
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You cast this spell upon one or more gems, imbuing them with healing energy.
+The gems leap from your hand, fly to the target, and begin orbiting the target's head like ioun stones.
+Each warding gem is a receptacle that holds 10 hp.
+The target can, as a free action, access the healing energy inside a warding gem; the energy is released as a purple-white arc of divine power that unerringly strikes the target, healing 10 points of damage.
+The target cannot choose to absorb only a portion of a warding gem's healing power.
+A warding gem depleted of its healing energy instantly turns to dust.
+At the end of the spell's duration, any unspent warding gems lose their healing power and fall to the ground; these can be reused for a later spell.
+A single creature can have no more than five warding gems encircling it at one time.
+A warding gem has AC 24, hardness 10, and 10 hp; if it's destroyed, any healing power contained within is lost.
+Material Components:One 500-gp gem for each warding gem created.
+   

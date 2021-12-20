@@ -1,0 +1,25 @@
+<b>Revive Undead</b>(Spell Compendium, p. 175)
+
+Necromancy [Evil]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,   Deathbound 5,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> Destroyed undead creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Touching the corpse of the creature, you whisper to its departed spirit, calling it back � ;but not to life.</b>
+	
+Your restore animation to an undead creature destroyed by hit point loss (even a zombie or skeleton, which can't normally be reanimated once destroyed). You can revive a destroyed undead creature that has been inactive for up to one day per caster level. In addition, the subject's animating spirit must be free and willing to return. If the subject's animating spirit is not willing to return, the spell does not work; therefore, subjects that want to revive receive no saving throw.
+	
+Revive undead restores hit points to the subject up to a total of 1 hit point per Hit Die. The body of the undead to be revived must be whole. Otherwise, missing parts are still missing when the creature is reanimated. None of the dead creature's equipment or possessions are affected in any way by this spell.
+	
+An undead that has been destroyed by a turning effect can't be revived by this spell.
+	
+The subject of the spell loses one level or Hit Die (if it doesn't have a character class level, it loses a HD) when it is revived. This level loss cannot be repaired by any spell. If the subject is 1st level, it loses 2 points of Charisma instead. An undead that was destroyed with spells prepared has a 50% chance of losing any given spell upon being revived, in addition to losing spells for losing a level. A spellcasting undead creature that doesn't prepare spells (such as a sorcerer) has a 50% chance of losing any given unused spell slot as if it had been used to cast a spell, in addition to losing spell slots for losing a level.
+	
+Material Component: A black pearl worth at least 5,000 gp.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

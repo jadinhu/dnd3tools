@@ -1,0 +1,19 @@
+<b>Baleful Transposition</b>(Spell Compendium, p. 23)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Two creatures of up to Large size
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Seeing your friend imperiled, you cast about for a likely target and settle upon a nearby foe. With a word, your ally stands free while your foe faces death.</b>
+	
+Two target creatures, of which you can be one, instantly swap positions. A solid object such as the ground, a bridge, or a rope must connect the creatures. Both subjects must be within range. Objects carried by the creatures (up to the creatures' maximum loads) go with them, but other creatures do not, even if they are carried. The movement is instantaneous and does not provoke attacks of opportunity.
+	
+If either creature succeeds on its Will save, the spell is negated.
+ <b>Also appears in</b>   Miniatures Handbook     

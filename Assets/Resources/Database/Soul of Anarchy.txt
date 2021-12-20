@@ -1,0 +1,21 @@
+<b>Soul of Anarchy</b>(Dragon Magic)
+
+Transmutation [Chaotic]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour
+
+ 	
+A wreath of crackling energy encircles your body, twisting madly around you before sinking into your skin in an unsettling fashion.
+This spell infuses your body with energy drawn from the primal forces of chaos.
+You gain a +5 competence bonus on Escape Artist checks, as well on grapple checks to resist or escape a grapple.
+Your natural weapons are treated as chaotic-aligned for the purpose of overcoming damage reduction.
+Regardless of your normal alignment, you are considered chaotic-aligned for the purpose of effects that rely on alignment (such as protection from chaos or chaos hammer).
+If soul of anarchy and soul of light are active on you at the same time, you gain damage reduction 3/evil or lawful.
+If soul of anarchy and soul of shadow are active on you at the same time, you gain damage reduction 3/good or lawful.
+Soul of anarchy counters and dispels soul of order, and vice versa.
+Special: A chaotic-aligned dragon capable of casting 4th-level sorcerer spells can cast this spell as a swift action.
+   

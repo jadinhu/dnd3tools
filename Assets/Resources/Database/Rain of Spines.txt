@@ -1,0 +1,20 @@
+<b>Rain of Spines</b>(Complete Mage)
+
+Conjuration (Creation) [Earth]
+ <b>Level:</b>  Wu Jen 4 (metal),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Cylinder (5-ft. radius, 20 ft. high)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex partial
+ <b>Spell Resistance:</b> No
+
+ 	
+With a shout, you call down a rain of spines upon your foes, piercing their flesh and pinning them to the floor.
+You cause a veritable storm of small, piercing metallic projectiles to rain from the air.
+This spell deals 6d6 points of damage to each creature in the area.
+In addition, each creature in the area is knocked prone and immobilized by spines pinning it to the floor.
+A successful Reflex save halves the damage and negates the secondary effect.
+A creature immobilized by spines is considered entangled and can't move from its space for 1 round per caster level; a DC 20 grapple check or Escape Artist check allows it to break free and end the secondary effect.
+   

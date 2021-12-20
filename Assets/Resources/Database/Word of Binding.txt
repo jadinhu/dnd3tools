@@ -1,0 +1,19 @@
+<b>Word of Binding</b>(Spell Compendium, p. 242)
+
+Conjuration (Creation)
+ <b>Level:</b>  Paladin 3,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One Medium or smaller humanoid or monstrous humanoid
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>When you cast this spell and call to the target, shining steel manacles appear around its wrists and ankles.</b>
+	
+You create masterwork steel manacles that attempt to bind your target. A successful Reflex save allows the target to dodge the forming manacles; otherwise it is bound at its wrists and ankles.
+	
+The imprisoned creature can slip free with a DC 35 Escape Artist check or a DC 28 Strength check. The manacles have hardness 10 and hit points equal to 10 + 1 per caster level. The manacles automatically scale to fit any Medium or smaller humanoid creature. While imprisoned by the manacles, the subject cannot take any actions requiring the use of its hands and can move only 5 feet per round. The manacles come complete with an average quality lock (Open Lock DC 25).
+   

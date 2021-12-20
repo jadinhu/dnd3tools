@@ -1,0 +1,13 @@
+<b>Insightful Strike, Greater</b>(Tome of Battle: The Book of Nine Swords, p. 64)
+
+Diamond Mind (Strike)
+ <b>Level:</b>  Swordsage 6 (Two Diamond Mind maneuvers),  Warblade 6 (Two Diamond Mind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>Your keen eye picks out the slightest imperfection in your opponent?s defenses. Your weapon becomes a tool of your mind.</b>
+	
+This maneuver functions like insightful strike, except that you deal damage equal to 2 Ã— your concentration check result.</p   

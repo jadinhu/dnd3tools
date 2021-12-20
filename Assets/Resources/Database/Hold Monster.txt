@@ -1,0 +1,11 @@
+<b>Hold Monster</b>(Player's Handbook v.3.5, p. 241)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Thayan Slaver 3,  Urban Druid 4,  Bard 4,  Beguiler 5,  Duskblade 5,  Wizard 5,  Wu Jen 5,  Sorcerer 5,  Sha'ir 5,  Death Master 5,  Jester 5,   Law 6,  Mechanus 6,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Target:</b> One living creature
+
+ 	
+This spell functions like hold person, except that it affects any living creature that fails its Will save.
+Arcane Material Component:One hard metal bar or rod, which can be as small as a three-penny nail.
+   

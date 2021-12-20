@@ -1,0 +1,18 @@
+<b>Spider Poison</b>(Magic of Faerun)
+
+Necromancy
+ <b>Level:</b>  Assassin 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous (see text)
+ <b>Saving Throw:</b> Fortitude negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Similar to the divine spell poison, you inflict a paralyzing poison upon the subject by making a successful melee touch attack.
+The poison deals 1d6 points of temporary Strength damage immediately and another 1d6 points of temporary Strength damage 1 minute later.
+Each instance of damage can be negated by a Fortitude save (DC 10 + one-half caster level + caster's Intelligence or Charisma modifier, for wizards and sorcerers, respectively).
+Material Component: A poisonous spider, alive or dead.
+   

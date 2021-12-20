@@ -1,0 +1,23 @@
+<b>Shalantha's Delicate Disk</b>(Lost Empires of Faerun)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Effect:</b> One disk
+ <b>Duration:</b> Permanent until discharged (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> See text
+
+ 	
+This spell conjures a small disk, about 1 foot in diameter and 1 inch thick, made of a material that resembles rose-tinted eggshell.
+Once you summon a disk, a single spell of up to 5th level can be cast into it, either by you or by another spellcaster.
+If no spell is cast into the disk within 10 minutes of its creation, it vanishes into nothingness and the spell is wasted.
+The disk stores an imbued spell indefinitely until it is shattered (a standard action requiring only 1 point of damage or a DC 5 Strength check).
+At that point, the spell immediately takes effect as if it had just been cast by the spellcaster who first placed it in the disk.
+Touch-range spells and spells that have specific targets (such as cause critical wounds or expeditious retreat) are targeted upon the creature or object that shattered the disk, while area and effect spells are triggered as though the broken disk were the spell's point of origin.
+For example, a stored fireball would detonate in a 20-foot-radius sphere centered on the disk, whereas a flame blade would appear in the hand of the creature that shattered the disk.
+If the spell stored in the disk does not have a valid target (such as a disk imbued with cause critical wounds that is broken by a falling rock), the spell simply fails to manifest and is wasted.
+Material Component: A golden egg worth 200 gp.
+   

@@ -1,0 +1,12 @@
+<b>Dispel Silence</b>(Champions of Valor)
+
+Abjuration
+ <b>Level:</b>   Initiate of milil 2,   
+<b>Components:</b>S, DF, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Target:</b> One silence effect
+
+ 	
+This spell functions like dispel magic, except as noted above and that it only works against effects that create an area of silence (silence, Khelben's suspended silence, and so on).
+While you have this spell prepared, you gain a +2 competence bonus on Listen checks.
+   

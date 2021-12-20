@@ -1,0 +1,21 @@
+<b>Buoyant Lifting</b>(Savage Species)
+
+Evocation
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One willing swimming or floating creature or object (total weight up to 200 lb./level)
+ <b>Duration:</b> 10 minutes/level (D) (see text)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You command the water supporting or surrounding a swimming or floating creature or object to rise and hold the creature above the surface of the water.
+An object so lifted may contain creatures or other objects (for example, a boat).
+The creature must be willing to be lifted in this manner, and an object must be unattended or possessed by a willing creature.
+The spell causes a smooth wave of water to rise under the subject and hold it 20 feet above the rest of the water's surface.
+If obstructions prevent the subject from being raised that high (such as being in a cave with a low ceiling), the wave lifts the subject until it touches the obstruction.
+The subject is otherwise resting at the top of this wave (rescuing it from drowning if it was a sinking air-breather) and can swim away under its own power or be moved by others (such as with a rope).
+If the subject is removed from the wave, it collapses gently and the spell ends.
+ <b>Also appears in</b>   Spell Compendium     

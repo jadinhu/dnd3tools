@@ -1,0 +1,18 @@
+<b>Contingent Spell Lock</b>(Ghostwalk)
+
+Transmutation [Ectomancy]
+ <b>Level:</b>  Bard 6,  Cleric 6,  Sorcerer 6,  Wizard 6,   Ghost 5,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+You transfer some of your currently prepared spells or available spell slots to a hidden part of your soul so that, if you die, when you appear on the Ethereal Plane, you have those spells or spell slots available for use (normally, dying and appearing on the Ethereal Plane causes you to lose all prepared spells and unused spell slots).
+You can transfer one spell per spell level that you can cast into this hidden part of your soul.
+Once you transfer the spells or spell slots in this manner, you cannot access them in any way � ;it is as if you had used those spell slots.
+The next time you choose to ready or prepare spells, you may leave those transferred spells or slots in place, or you may recover them along with your other spells or spell slots (which means they would not be available if you died).
+The transferred spells or spell slots may be used by your ghost in the normal manner, requiring the appropriate components and so on.
+If you are raised from the dead, the transferred spells become inaccessible again (although you can choose to recover them the next time you ready or prepare spells, as described above).
+   

@@ -1,0 +1,17 @@
+<b>Summon Elysian Thrush</b>(Spell Compendium, p. 214)
+
+Conjuration (Summoning) [Good]
+ <b>Level:</b>  Bard 2,  Cleric 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One summoned Elysian thrush
+ <b>Duration:</b> 8 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You evoke the powers of Elysium and of song, and the bird responds. It is about two feet long, with a resplendent orange breast and multicolored feathers. It settles upon a branch and begins to sweetly warble.</b>
+	
+This spell summons an Elysian thrush (Planar Handbook 118), a birdlike creature native to the Blessed Fields of Elysium. The creature has no significant combat utility, but its song accelerates the natural healing rate of living creatures. Those within 30 feet who listen to the thrush's song while resting recover at twice the normal natural healing rate.
+ <b>Also appears in</b>   Planar Handbook     

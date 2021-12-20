@@ -1,0 +1,20 @@
+<b>Spurn the Supernatural</b>(Tome of Magic)
+
+Abjuration
+ <b>Level:</b>  Bard 4,  Cleric 5,  Druid 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, <abbr title="True Name">TN, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Concentration, up to 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your make your hand into a grasping claw as you speak your foe's truename, stealing some of its supernatural energy, which appears as a minuscule storm-cloud in your hand.
+With this spell, you can temporarily suppress a supernatural ability possessed by the target creature.
+For the duration of the spell, the target is unable to activate the supernatural ability you have chosen.
+Extraordinary and spell-like abilities aren't affected by this spell.
+If you succeed on the Truespeak check, you can suppress one of the creature's supernatural abilities, plus another supernatural ability for every 5 points by which your result beat the Truespeak DC.
+Truename Component: When you cast this spell, you must correctly speak the personal truename of the creature you're targeting.
+   

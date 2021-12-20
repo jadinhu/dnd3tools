@@ -1,0 +1,23 @@
+<b>Brain Spider</b>(Spell Compendium, p. 38)
+
+Divination [Mind-Affecting]
+ <b>Level:</b>  Cleric 7,   Mind 7,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> Up to eight living creatures
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You touch a spider's body and think of the targets. As each target succumbs to the spell, a leg of the spider vanishes into nothingness.</b>
+	
+For the duration of the spell, as a standard action, you can eavesdrop on the thoughts of up to eight other creatures at once, hearing as desired:
+	
+A creature's surface thoughts.Individual trains of thought in whatever order you desire.One nugget of information per caster level from all the minds regarding one particular topic, thing, or being.The thoughts and memories of one creature of the group in detail.
+	
+Once per round, if you do not perform a detailed study of one creature's mind, you can attempt (as a standard action) to implant a <b>suggestion</b> (PH 285) in the mind of any one of the affected creatures. The creature can make another Will saving throw to resist the <b>suggestion</b>, using the original save DC. (Creatures with special resistance to enchantment spells can use this resistance to keep from being affected by the <b>suggestion.</b>) Success on this saving throw does not negate the other effects of the brain spider for that creature.
+	
+<b>Material Component:</b> A dead spider of any size or type. It must still have all eight legs.
+ <b>Also appears in</b>   Expanded Psionics Handbook  Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins  Lords of Madness     

@@ -1,0 +1,18 @@
+<b>Winged Watcher</b>(Complete Scoundrel)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Your body hunches and shrinks as dusky feathers sprout from your skin.
+Your arms become wings and your toes sharpen into talons.
+You take the form of an owl (MM 277) or raven (MM 278), as chosen when you cast the spell.
+Even though your Intelligence changes to 2, you retain your normal ability to understand your surroundings (unlike a normal animal).
+See the polymorph subschool description on page 91 for more details.
+As its name suggests, this spell's most common use is for unobtrusive observation, but it also allows a druid to overcome obstacles that hinder overland travel.
+   

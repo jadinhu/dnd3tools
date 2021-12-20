@@ -1,0 +1,18 @@
+<b>Undead Lieutenant</b>(Magic of Faerun)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One undead
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You empower the subject undead with the authority of command over other undead in your control.
+The targeted undead must have an Intelligence of 5 or higher.
+Other undead under your control obey the subject undead as if it were you.
+You may give orders to the undead normally, superseding the orders of the subject of this spell.
+ <b>Also appears in</b>   Spell Compendium     

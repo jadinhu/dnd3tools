@@ -1,0 +1,20 @@
+<b>Valiant Steed</b>(Book of Exalted Deeds)
+
+Conjuration (Calling) [Good]
+ <b>Level:</b>   Sanctified 6,   
+<b>Components:</b>V, S, Sacrifice
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Calls 1 pegasus or unicorn
+ <b>Duration:</b> Instantaneous; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The caster calls a special servant of the exalted god Valarian � ;either a pegasus or unicorn � ;to her location.
+The creature serves the caster for up to a year, during which time the caster may dismiss it at any time.
+It is intelligent, so the caster can assign it complex tasks.
+Although useful as a mount, it will not undertake a quest or otherwise take on complex burdens beyond the supervision of the caster.
+If the caster attempts to conjure another creature using this spell, the one called previously returns to its home.
+Sacrifice: 1d3 points of Strength drain.
+   

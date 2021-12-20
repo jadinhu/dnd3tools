@@ -1,0 +1,19 @@
+<b>Dawn Burst</b>(Complete Mage)
+
+Evocation [Light]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 10-ft.-radius burst
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Reflex partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A globe of brilliant radiance erupts silently, as though the light of dawn had arisen.
+All creatures in the area glow with light equivalent to a torch for the duration of the spell, making hiding difficult and even revealing the location of invisible creatures.
+(Invisible creatures are still considered to have concealment).
+In addition, undead and creatures within the area that have light sensitivity or light blindness take 1d6 points of damage, +1 point of damage per caster level (maximum +5).
+A successful Reflex save halves this damage.
+   

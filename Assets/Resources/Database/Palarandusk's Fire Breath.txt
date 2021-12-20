@@ -1,0 +1,19 @@
+<b>Palarandusk's Fire Breath</b>(City of Splendors: Waterdeep)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Area:</b> 10-ft. cone
+ <b>Duration:</b> One hour or until discharged
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell allows you to spit a gout of flame in a 10-foot cone, dealing 1d6 points of fire damage per caster level (maximum 5d6).
+Palarandusk's fire breath is considered a breath weapon.
+If you expend the spell on the round you cast it, you only use one standard action to cast and breathe.
+If you save the spell for later, you must use a standard action to breathe fire.
+If unused, the gout of flame dissipates after 1 hour.
+One nasty side effect of this spell is terrible heartburn.
+   

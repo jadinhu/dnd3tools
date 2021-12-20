@@ -1,0 +1,20 @@
+<b>Revivify</b>(Miniatures Handbook)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 5,  Healer 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Dead creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Revivify miraculously restores life to a recently deceased creature.
+However, the spell must be cast within 1 round of the victim's death.
+Before the soul of the deceased has completely left the body, this spell halts its journey while repairing somewhat the damage to the body.
+This spell functions like raise dead, except that the raised creature receives no level loss, no Constitution loss, and no loss of spells.
+The creature is only restored to -1 hit points (but is stable).
+Material Component: Diamonds worth at least 1,000 gp.
+ <b>Also appears in</b>   Spell Compendium     

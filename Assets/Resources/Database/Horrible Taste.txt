@@ -1,0 +1,15 @@
+<b>Horrible Taste</b>(Champions of Valor)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,   Initiate of the holy realm 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 turn/level
+
+ 	
+Drawing upon the talents of some creatures of the insect world, you change your flesh to make it unpalatable to other creatures.
+Any creature that hits you with a bite attack becomes nauseated until the end of your next turn unless it succeeds on a Fortitude save.
+Creatures immune to poison are unaffected by this spell.
+ <b>Also appears in</b>   Spell Compendium     

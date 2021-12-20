@@ -1,0 +1,23 @@
+<b>Pebble Wind</b>(Dragons of Faerun)
+
+Evocation [Air]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 20-ft.-radius spread
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No; see text
+
+ 	
+At your verbal command, the air nearby whirls and rises, carrying loose dirt and small objects into the air to pelt your foes.
+This spell functions as gust of wind (PH 238), except as noted herein.
+Instead of a path of wind, you create a whirling mass of air.
+The whirlwind carries sand, dirt, and other small objects (nothing heavier than a chicken egg) into the air, creating an opaque cloud of debris.
+Creatures must succeed on Fortitude saves as described in the gust of wind spell to avoid being checked or moved by the spell.
+Creatures blown over or moved by the wind are pushed in a random direction.
+The flying debris causes 1d4 points of bludgeoning damage per caster level (maximum 10d4); this damage is subject to damage reduction, and creatures are allowed a Reflex save for half damage.
+If the debris is primarily composed of soft or very small objects, such as loose soil, the spell deals 1d4 points of damage per two caster levels (maximum 5d4).
+The spell deals damage to objects within the spread, though hardness will usually negate this damage.
+   

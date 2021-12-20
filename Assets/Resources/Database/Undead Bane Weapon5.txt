@@ -1,0 +1,21 @@
+<b>Undead Bane Weapon</b>(Spell Compendium, p. 266)
+
+Transmutation
+ <b>Level:</b>  Paladin 3,  Cleric 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched or fifty projectiles (all of which must be in contact with each other at the time of casting)
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+<b>Your hand glows with a dull light, and when you touch the weapon, the light shifts to it, so that it sheds a serene gray radiance as bright as a candle.</b>
+	
+You give a weapon the undead bane special ability in addition to any other properties it has. Against undead, your weapon's enhancement bonus is 2 higher than normal, and it deals an extra 2d6 points of damage against undead. The spell has no effect if cast upon a weapon that already has the undead bane special ability.
+	
+Alternatively, you can affect up to fifty arrows, bolts, or bullets. The projectiles must be of the same kind, and they have to be together, such as in the same quiver. Projectiles, but not thrown weapons, lose their transmutation after one attack.
+	
+The weapon is treated as good aligned for the purpose of overcoming damage reduction.
+ <b>Also appears in</b>   Magic of Faerun  Ghostwalk  Libris Mortis: The Book of the Dead  Player's Guide to FaerÃ»n     

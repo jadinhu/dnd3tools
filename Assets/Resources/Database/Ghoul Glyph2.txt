@@ -1,0 +1,27 @@
+<b>Ghoul Glyph</b>(Spell Compendium, p. 105)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,   Hunger 2,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched
+ <b>Duration:</b> Permanent until discharged
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>The faint, green glow of the glyph flares to life. A sickly green light fills the room, illuminating the paralyzed forms of its victims, and bringing with it the stench of death.</b>
+	
+You inscribe a glyph, approximately 1 foot across, that paralyzes any living creature of Large or smaller size that comes within 5 feet of the glyph. You can scribe the glyph to be visible as faintly glowing lines, or invisible. You can inscribe a ghoul glyph on a portable object, but if the object is moved more than 5 feet, the glyph fades.
+	
+Conditions for triggering a <b>ghoul glyph</b> are stringent. It takes effect on any creature except yourself that moves within 5 feet. It affects invisible creatures normally but is not triggered by those that travel past it ethereally. Only a single <b>ghoul glyph</b> can be inscribed in a 5-foot square.
+	
+<b>Ghoul glyphs</b> cannot be affected or bypassed by such means as physical or magical probing, though they can be dispelled. <b>Mislead</b> and <b>nondetection</b> can fool a ghoul glyph.
+	
+<b>Read magic</b> allows identification of a <b>ghoul glyph</b> with a successful DC 13 Spellcraft check, if the glyph is noticed before it is activated. A rogue can use the Search skill to find a <b>ghoul glyph</b> and Disable Device to thwart it. The DC in each case is 27.
+	
+When a glyph is activated, the target is paralyzed for 1d6+2 rounds. Additionally, if the target fails a Fortitude save, the paralyzed subject exudes a carrion stench that causes distress in all creatures within a 10-foot radius. Those in the radius, including the target, must make a Fortitude save or take a � ;2 penalty on attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks until the paralysis effect wears off.
+	
+<b>Material Component:</b> You trace the glyph with earth from a ghoul's lair.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

@@ -1,0 +1,17 @@
+<b>Mantle of Law</b>(Spell Compendium, p. 137)
+
+Abjuration [Law]
+ <b>Level:</b>  Cleric 3,  Paladin 3,   Mechanus 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You invoke the powers of law, and a constant blue field of axiomatic energy surrounds you.</b>
+	
+This spell functions like <b>mantle of chaos</b>, except that mantle of law grants spell resistance against spells with the chaotic descriptor.
+ <b>Also appears in</b>   Planar Handbook     

@@ -1,0 +1,19 @@
+<b>Seething Eyebane</b>(Book of Vile Darkness)
+
+Transmutation [Acid, Evil]
+ <b>Level:</b>    Corrupt 1  
+<b>Components:</b>V, S, Corrupt, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject's eyes burst, spraying acid upon everyone within 5 feet.
+The subject is blinded and takes 1d6 points of acid damage.
+Those sprayed take 1d6 points of acid damage (Reflex save for half ).
+Creatures without eyes can't be blinded, but they might take acid damage if someone nearby is the subject of seething eyebane.
+Corruption Cost: 1d6 points of Constitution damage.
+   

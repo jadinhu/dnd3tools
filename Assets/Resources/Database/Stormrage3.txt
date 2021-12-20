@@ -1,0 +1,17 @@
+<b>Stormrage</b>(Spell Compendium, p. 210)
+
+Transmutation [Electricity]
+ <b>Level:</b>  Cleric 8,  Druid 8,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+<b>You harness the powers of wind and storm to move, protect yourself, and attack.</b>
+	
+You can fly at a speed of 40 feet, and you gain immunity to thrown weapons and projectile ranged attacks. You are completely unaffected by natural or magical wind, easily able to hold your position and not subject to other adverse effects of extreme wind.
+	
+Finally, you can discharge a bolt of electricity from your eyes once per round. You enemies' spell resistance applies to these lightning attacks. Doing this is a standard action that does not provoke attacks of opportunity, has a range of 100 feet, and requires a ranged touch attack. You gain a +3 bonus on the attack roll if the opponent is wearing metal armor, made out of metal, or carrying a lot of metal. If you hit, the bolt deals 1d6 points of electricity damage per two caster levels (maximum 10d6), with no saving throw allowed.
+ <b>Also appears in</b>   Magic of Faerun  Complete Divine     

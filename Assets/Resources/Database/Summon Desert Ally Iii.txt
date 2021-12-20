@@ -1,0 +1,10 @@
+<b>Summon Desert Ally Iii</b>(Sandstorm)
+
+Conjuration [Summoning]
+ <b>Level:</b>  Druid 3,  Ranger 3,    
+<b>Components:</b>
+ <b>Effect:</b> One or more creatures, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like summon desert ally I, except that you can summon one 3rd-level creature, 1d3 2nd-level creatures of the same kind, or 1d4+1 1st-level creatures of the same kind.
+   

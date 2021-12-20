@@ -1,0 +1,19 @@
+<b>Lion's Roar</b>(Spell Compendium, p. 133)
+
+Evocation [Sonic]
+ <b>Level:</b>  Cleric 8,   Courage 8,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 120 ft.
+ <b>Area:</b> 120-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous or 1 minute/level
+ <b>Saving Throw:</b> Fortitude partial or Will negates (harmless); see text
+ <b>Spell Resistance:</b> Yes or Yes (harmless); see text
+
+ 	
+<b>You open your mouth and emit a tremendous roar, a sound like a lion but as loud as a mountain falling.</b>
+	
+All enemies within the spell's area take 1d8 points of sonic damage per two caster levels (maximum 10d8) and are stunned for 1 round. A successful Fortitude save halves the damage and negates the stunning effect.
+	
+In addition, all allies within the spell's area gain a +1 morale bonus on attack rolls and saves against fear effects, plus temporary hit points equal to 1d8 + caster level (to a maximum of 1d8+20 temporary hit points at caster level 20th).
+ <b>Also appears in</b>   Complete Warrior  Tome of Battle: The Book of Nine Swords     

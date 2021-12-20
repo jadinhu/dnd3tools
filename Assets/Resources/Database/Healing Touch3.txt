@@ -1,0 +1,17 @@
+<b>Healing Touch</b>(Spell Compendium, p. 111)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half; see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>The skin of your hands turns translucent, showing the muscle and bone beneath. You touch your badly injured ally and feel your own vitality leave your body and enter his damaged form.</b>
+	
+You transfer some of your life essence to the subject of the spell, healing it. You can heal up to 1d6 points of damage per two caster levels (maximum 10d6), and you decide how many dice to roll when you cast the spell. You take damage equal to half the amount your subject was healed. This spell cannot heal a subject of more damage than your current hit points +10, which is enough to kill you.
+ <b>Also appears in</b>   Book of Exalted Deeds  Magic of Faerun     

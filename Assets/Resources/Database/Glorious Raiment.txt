@@ -1,0 +1,17 @@
+<b>Glorious Raiment</b>(Book of Exalted Deeds)
+
+Abjuration [Good]
+ <b>Level:</b>  Apostle of Peace 2,   Glory 2,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Robe, garment, or outfit touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+You imbue a robe, priestly garment, or outfit of regular clothing with divine power.
+The spell bestows the following effects for its duration:			+1 sacred bonus to AC per five caster levels (maximum +4 at 20th level)		Damage reduction 5/evil Only a good-aligned creature gains the benefits of this spell.	
+Creatures of nongood alignment can wear the glorious raiment, but gain no spell benefits from doing so.
+   

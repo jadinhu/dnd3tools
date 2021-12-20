@@ -1,0 +1,19 @@
+<b>Aspect of the Earth Hunter</b>(Spell Compendium, p. 16)
+
+Transmutation
+ <b>Level:</b>  Ranger 4,  Druid 6,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+<b>By completing the spell you call upon the world's primal energies. You feel disoriented for a moment as your face elongates into a snout, your limbs thicken, and your skin turns into silvery chitin.</b>
+	
+When you cast this spell, you assume the physical appearance and many of the qualities and abilities of a bulette (MM 30). While under the effect of the spell, your creature type changes to magical beast, and your size changes to Huge. You have the space and reach of a bulette (15 feet/10 feet). You gain the Strength, Dexterity, and Constitution of an average bulette (Str 27, Dex 15, Con 20), but you retain your own mental ability scores. Your base land speed becomes 40 feet, and you gain a burrow speed of 10 feet. You gain darkvision out to 60 feet. You also gain low-light vision, scent, and tremorsense out to 60 feet.
+	
+Your class and level, hit points, alignment, base attack bonus, and base saving throw bonuses all remain the same. You lose any extraordinary special abilities of your own form, as well as spell-like and supernatural abilities. You keep all extraordinary special attacks derived from class levels (such as a barbarian's rage or a rogue's sneak attack), but you lose any from your normal form that are not derived from class levels. You cannot speak or cast spells while in bulette form. However, if you have the Natural Spell feat, you can cast spells normally. Your natural armor bonus becomes +12, regardless of any natural armor bonus from your normal form. You can make two claw attacks, which are natural weapons that deal 2d8+8 points of damage. While in bulette form, you gain the bulette's leap extraordinary attack form, allowing you to make four claw attacks instead of two. Your equipment melds into your new form and becomes nonfunctional.
+	
+<b>Material Component</b>: A small piece of a bulette's armored shell.
+   

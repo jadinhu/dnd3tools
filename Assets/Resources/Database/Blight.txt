@@ -1,0 +1,22 @@
+<b>Blight</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Necromancy
+ <b>Level:</b>  Druid 4,  Cleric 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> See text
+ <b>Effect:</b> See text
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell has two versions.
+To cast either version, you must touch a plant and breathe on it.
+Blight Area:When the spell is cast on a single normal plant, all normal plants in a 100-foot spread wither and die.
+Flowers wilt, leaves fall to the ground, and foliage withers.
+The spell has no effect on the soil, so new growth can replace the dead plants.
+This effect allows no saving throw.
+Blight Plant Creature:When cast on a single mobile or intelligent plant, such as a shambling mound or a treant, this spell deals 1d6 points of damage per level of the caster, to a maximum of 15d6.
+The plant receives a Fortitude save for half damage.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Player's Handbook v.3.5     

@@ -1,0 +1,16 @@
+<b>Crunchy Snow</b>(Frostburn)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, Frostfell
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> One 20-ft.-by-20-ft. square of snow/level
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+An area of fallen snow designated by you becomes hard and crumbly, generating a loud crunch when stepped upon.
+Creatures take a -20 penalty on Move Silently checks when traveling through crunchy snow.
+   

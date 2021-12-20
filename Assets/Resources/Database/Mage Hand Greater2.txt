@@ -1,0 +1,21 @@
+<b>Mage Hand, Greater</b>(Spell Compendium, p. 136)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One object or creature weighing up to 40 lbs.
+ <b>Duration:</b> Concentration
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You cast the spell, and your hand is suffused with a ghostly white radiance. You point your finger at the target across the room, and it slowly rises in the air.</b>
+	
+A greater mage hand spell can lift an object and move it at will from a distance. As a move action, you can propel the target up to 20 feet in any direction, although the spell ends if the distance between you and the subject ever exceeds the spell's range.
+	
+A creature can negate the effect against an object it possesses with a successful Will save or if you fail to overcome its spell resistance.
+	
+An object can be telekinetically manipulated as if with one hand. For example, a lever or rope can be pulled, a key can be turned, an object rotated, and so on, if the force required is within the weight limitation. The spell has an effective Strength of 10.
+   

@@ -1,0 +1,20 @@
+<b>Mark of the Unfaithful</b>(Champions of Ruin)
+
+Evocation
+ <b>Level:</b>  Cleric 7,  Druid 7,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Unlimited
+ <b>Target:</b> One creature
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You permanently place a mark upon a character or creature that identifies it as an enemy of the faith.
+Anyone of your faith who encounters the bearer of a mark of the unfaithful, even if he is disguised, altered, or polymorphed, feels a natural hostility toward that person and gains a +6 circumstance bonus on Sense Motive checks made against the marked creature.
+This hostility might not induce the viewer to attack, but he certainly will not be inclined to trust or believe anything the marked one says.
+Clerics, paladins, druids and rangers of the faith can automatically detect the mark simply by looking at the subject.
+A mark of the unfaithful is permanent until dispelled or removed by a cleric of the same faith, of higher level than the caster, who casts an atonement spell upon the subject.
+Focus: The subject's name must be inscribed in a book or scroll especially consecrated for this purpose and detailing the crimes (real or imagined) for which the subject is being marked.
+   

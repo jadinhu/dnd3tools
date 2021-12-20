@@ -1,0 +1,19 @@
+<b>Recitation</b>(Spell Compendium)
+
+Conjuration (Creation)
+ <b>Level:</b>  Cleric 4,   Purification 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Target:</b> All allies within a 60-ft.-radius burst centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>By reciting a sacred passage or declaration, you invoke your deity's blessing upon yourself and your allies.</b> 
+	
+The spell affects all allies within the spell's area at the moment you cast it. Your allies gain a +2 luck bonus to AC, on attack rolls, and on saving throws, or a +3 luck bonus if they worship the same deity as you. 
+	
+Divine Focus: In addition to your holy symbol, this spell requires a sacred text as a divine focus.
+ <b>Also appears in</b>   Unapproachable East  Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins     

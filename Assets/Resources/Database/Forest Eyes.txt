@@ -1,0 +1,24 @@
+<b>Forest Eyes</b>(Complete Champion)
+
+Divination (Scrying)
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Unlimited
+ <b>Target:</b> Two plants of the same type, one of which must be in physical contact with you
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The moment your hand contacts the rough wood, your vision swims, blurs, and resolves into a different image.
+Upon casting this spell, you can touch a normal, Medium or larger plant or tree and designate another of the same kind.
+You immediately see the surroundings of the destination plant, regardless of the distance separating the two.
+You see the area as though you were standing in the exact spot where the destination plant stands.
+You cannot move your field of vision from that spot, but you can rotate it in all directions to observe the area around the destination plant.
+Unlike other scrying spells, forest eyes does not allow magically or supernaturally enhanced senses to work through it.
+If the chosen locale is magically dark, you see nothing.
+If it is naturally dark, you can see in a 10-foot radius around the plant at the center of the spell's effect.
+Both plants must be alive to allow use of this spell.
+You can either select a particular destination plant that is already familiar to you, or designate a direction and distance and let forest eyes find the appropriate type of plant nearest to the desired location.
+   

@@ -1,0 +1,23 @@
+<b>Stars of Mystra</b>(Champions of Valor)
+
+Evocation [Force, Good]
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> See text
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create one twinkling star per three levels (maximum five stars).
+These minute starbursts orbit your head like ioun stones.
+Beginning on the turn you cast the spell, you can launch one star as a swift action at a target you designate within range.
+You must make a ranged touch attack for each star.
+Each time an evil creature is hit by a star, it must make a saving throw or lose a prepared spell or spell slot as if the creature had used it to cast a spell.
+The level of the lost spell is 4th (or the highest spell level lower than 4th in which the caster has at least one remaining prepared spell or spell slot).
+If the target prepares spells, determine the specific lost spell randomly.
+If the creature has spellcasting ability from more than one class (such as a 4th-level cleric/4th-level ranger), determine the affected spellcasting class randomly.
+The stars have no effect on nonspellcasters.
+   

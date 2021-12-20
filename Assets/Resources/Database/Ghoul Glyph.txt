@@ -1,0 +1,30 @@
+<b>Ghoul Glyph</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,   Hunger 2,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Effect:</b> One ghoul glyph that must fit within a 1-ft. square
+ <b>Duration:</b> Permanent until discharged
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You inscribe a glyph that paralyzes any living creature of Large or smaller size that enters, passes, or opens the warded area.
+You can scribe the glyph to be visible as faintly glowing lines, or invisible.
+You can inscribe a ghoul glyph on a portable object, but if the object is moved more than 5 feet, the glyph fades.
+Conditions for triggering a ghoul glyph are stringent.
+It takes effect on any creature except yourself that moves to or within 2 feet of it.
+It affects invisible creatures normally but is not triggered by those that travel past it ethereally.
+Only a single ghoul glyph can be inscribed in a 5-foot square.
+Ghoul glyphs cannot be affected or bypassed by such means as physical or magical probing, though they can be dispelled.
+Mislead and nondetection can fool a ghoul glyph.
+Read magic allows identification of a ghoul glyph with a successful DC 13 Spellcraft check, if the glyph is noticed before it is activated.
+A rogue (only) can use the Search skill to find a ghoul glyph and Disable Device to thwart it.
+The DC in each case is 27.
+When a glyph is activated, the subject is paralyzed for 1d6+2 rounds.
+Additionally, if the subject fails his Fortitude save, the paralyzed subject exudes a carrion stench that causes retching and nausea in a 10-foot radius.
+Those in the radius must make a Fortitude save or take a -2 penalty on all attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks until the spell ends.
+Material Component: You trace the glyph with earth from a ghoul's lair.
+ <b>Also appears in</b>   Spell Compendium     

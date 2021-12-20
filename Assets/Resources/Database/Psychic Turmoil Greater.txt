@@ -1,0 +1,11 @@
+<b>Psychic Turmoil, Greater</b>(Expanded Psionics Handbook)
+
+Abjuration
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>
+ <b>Duration:</b> 1 round/level
+
+ 	
+As psychic turmoil, except you gain 1 temporary hit point for each power point the spell takes from a psionic creature.
+The temporary hit points last for 1 hour.
+   

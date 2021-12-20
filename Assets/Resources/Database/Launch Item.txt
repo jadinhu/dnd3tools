@@ -1,0 +1,18 @@
+<b>Launch Item</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One Fine item in your possession, weighing up to 10 lb.
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You cause a Fine item in your possession to fly at great speed to a target or location you specify.
+The spell protects the item from any damage caused by this launching (for example, an egg would not crack from being hurled by the spell, a flask of alchemist's fire would not break from the sudden acceleration) but does not protect it from damage caused by striking the target.
+This spell is normally used to launch dangerous items (flasks of acid, thunderstones, and so on) farther than you could normally throw them.
+Even strange magical effects (such as the glowing bead from a delayed blast fireball spell) can be safely launched by this spell.
+ <b>Also appears in</b>   Spell Compendium     

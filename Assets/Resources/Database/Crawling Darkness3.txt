@@ -1,0 +1,17 @@
+<b>Crawling Darkness</b>(Spell Compendium, p. 55)
+
+Conjuration (Creation)
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+<b>A shroud of dark, writhing tentacles forms around your body as you speak the spell's final syllables.</b>
+	
+This spell creates a number of tentacles that surround you but do not interfere with your movement of spellcasting. They provide concealment and completely hide your features. You gain a +4 competence bonus on grapple checks, Climb checks, and Escape Artist checks.
+	
+When you are attacked, the tentacles stricke back at your attacker. They have an attack bonus equal to your base attack bonus + your Wis modifier, and a succesful attack deals 1d12 points of damage.
+ <b>Also appears in</b>   Magic of Faerun  Savage Species     

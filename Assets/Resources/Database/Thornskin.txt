@@ -1,0 +1,16 @@
+<b>Thornskin</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Wu Jen 3 (Wood),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Your skin sprouts thorns when this spell is cast, increasing the damage you deal with an unarmed strike and making you difficult to grab.
+As well as dealing lethal damage on an unarmed strike (if you don't already do so), you deal an extra 1d6 points of piercing damage (so that a human under the effect of thornskin would deal 1d3 points of bludgeoning damage plus 1d6 points of piercing damage with an unarmed strike).
+In addition, any creature that hits you with a natural weapon or unarmed strike (including all successful grapple checks) takes 5 points of piercing damage.
+Material Component: A thorn.
+ <b>Also appears in</b>   Oriental Adventures  Spell Compendium     

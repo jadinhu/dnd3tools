@@ -1,0 +1,17 @@
+<b>Ironguts</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You make a creature more able to fight the effects of poison.
+The target gains a +4 circumstance bonus on Fortitude saves against all kinds of poisons, whether injury, contact, ingestion, or inhalation is the source of the poison.
+Material Component: A vial containing the diluted poison of four different creatures.
+ <b>Also appears in</b>   Spell Compendium     

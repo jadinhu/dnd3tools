@@ -1,0 +1,23 @@
+<b>Weighed in the Balance</b>(Spell Compendium, p. 238)
+
+Necromancy
+ <b>Level:</b>   Balance 9,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Creatures in a 30-ft.-radius spread centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You speak the words of power, and a warm orange fire radiates from you, aiding those that believe in the true balance, and harming all others.</b>
+	
+This spell harms or heals creatures within its area based on their alignments and life status. The effect does the most harm to those creatures most extreme in alignment and most out of balance with the natural world.
+	
+For living creatures that have an alignment with no neutral component (LG, CG, LE, or CE), this spell acts as an <b>inflict critical wounds</b> spell (PH 244).
+	
+For living creatures that have an alignment with a neutral component and one other (NG, LN, CN, or NE), this spell acts as an <b>inflict moderate wounds</b> spell (PH 244).
+	
+For living creatures that have a neutral alignment (N) and all undead creatures, this spell acts as a <b>heal</b> spell (PH 239), dealing damage to undead but acting as a beneficial spell to neutral creatures.
+ <b>Also appears in</b>   Underdark     

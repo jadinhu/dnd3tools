@@ -1,0 +1,21 @@
+<b>Absorb Mind</b>(Book of Vile Darkness)
+
+Divination [Evil]
+ <b>Level:</b>    Corrupt 3  
+<b>Components:</b>V, S, AF, Corrupt, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 minute/level
+
+ 	
+The caster eats at least a portion of the brain of another creature's corpse.
+	
+By doing so, she gains the creature's memories and knowledge to some degree, so that she has a 25% chance of recalling any important fact known to the creature � ;family history, recent events, the general layout of the creature's stomping grounds, details about the creature's death, important plans, passwords, magic item command words, and similar tidbits. Skills, feats, spells, and other such knowledge cannot be obtained in this fashion.
+	
+Once the caster rolls to determine whether she recalls a fact, she cannot attempt to recall that fact again. After the duration expires, the caster no longer has the ability to recall new facts.
+	
+Focus: A fresh or preserved (still bloody) 1-ounce portion of another creature's brain.
+	
+Corruption Cost: 2d6 points of Wisdom damage.
+   

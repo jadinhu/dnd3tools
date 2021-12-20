@@ -1,0 +1,17 @@
+<b>Laeral's Cutting Hand</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your hand
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+You alter the structure of your hand so that it becomes as hard and sharp as a blade.
+Your hand gains a +2 enhancement bonus on attack and damage when making unarmed attacks, and you inflict normal damage instead of subdual damage.
+You are considered armed with this hand.
+You cannot use that hand to cast spells, but can otherwise use the hand normally.
+Your hand's enhancement bonus does not apply to melee touch attacks.
+   

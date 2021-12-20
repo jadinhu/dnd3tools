@@ -1,0 +1,16 @@
+<b>Rosemantle</b>(Player's Guide to FaerÃ»n)
+
+Abjuration
+ <b>Level:</b>   Initiate of lathander 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You cause the target to glow with a soft, faint, rosy radiance equal to candlelight.
+This glow grants the subject a sacred bonus equal to +1 per caster level (maximum +10) on saving throws against effects that work by causing pain (such as Nybor's gentle reminder), effects that would cause the target to become sickened or nauseated, and fear effects.
+ <b>Also appears in</b>   Magic of Faerun     

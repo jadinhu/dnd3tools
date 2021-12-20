@@ -1,0 +1,9 @@
+<b>Mantle of Evil</b>(Planar Handbook)
+
+Abjuration [Evil]
+ <b>Level:</b>  Blackguard 3,  Cleric 3,    
+<b>Components:</b>
+
+ 	
+This spell functions like mantle of chaos, except that you are surrounded by dark wavering unholy energy, and mantle of evil grants spell resistance against spells with the good descriptor.
+ <b>Also appears in</b>   Spell Compendium     

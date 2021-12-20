@@ -1,0 +1,17 @@
+<b>Blades of Fire</b>(Complete Arcane)
+
+Conjuration (Creation) [Fire]
+ <b>Level:</b>  Ranger 2,  Sorcerer 2,  Wizard 2,  Warmage 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Up to two melee weapons you are wielding
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Flames sheathe your melee weapons, harming neither you nor the weapons but possibly burning your opponents.
+Your melee weapons each deal an extra 1d6 points of fire damage.
+This damage stacks with any energy damage your weapons already deal.
+ <b>Also appears in</b>   Spell Compendium  Miniatures Handbook     

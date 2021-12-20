@@ -1,0 +1,21 @@
+<b>Caustic Mire</b>(Complete Mage)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A foul sludge seeps out of the ground, coating the area before you.
+You cover the ground in an acidic slime, roughly the consistency of thick mud.
+The sludge is sticky; entering any square affected by caustic mire costs 2 squares of movement.
+In addition, each square entered deals 1d6 points of acid damage to the creature moving.
+A creature who stands in the area without moving from its space takes 1d6 points of damage per round at the end of its turn.
+The fumes rising out of caustic mire are flammable.
+Any effect that deals fire damage within an area of caustic mire deals an extra 1 point of damage per die (minimum +1 damage).
+   

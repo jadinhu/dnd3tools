@@ -1,0 +1,18 @@
+<b>Clarity of Mind</b>(Underdark)
+
+Abjuration
+ <b>Level:</b>  Blackguard 2,  Harper Scout 2,  Paladin 2,   Balance 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You grant the subject a +4 insight bonus on saving throws against all spells with the charm, compulsion, or glamer descriptors.
+Clarity of mind also reduces any miss chance the target might have when attacking an opponent that has
+concealment from a glamer spell (such as blur and displacement) by 10%.
+Thus, a subject that attacks an opponent protected by a displacement spell suffers only a 40% miss chance, instead of the customary 50%.
+   

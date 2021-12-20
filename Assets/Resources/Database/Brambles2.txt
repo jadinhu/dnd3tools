@@ -1,0 +1,20 @@
+<b>Brambles</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Druid 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Wooden weapon touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Small magical thorns or spikes protrude from the surface of a wooden weapon, such as a club, greatclub, nunchaku, or quarterstaff.
+For the duration of the spell, the weapon deals both piercing and bludgeoning damage.
+It gains a +1 enhancement bonus on its attacks and deals an additional +1 point of damage per caster level (maximum +10).
+This spell works only on melee weapons with wooden striking surfaces.
+For instance, it does not work on a bow, an arrow, or a metal mace.
+Material Component: A small thorn.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

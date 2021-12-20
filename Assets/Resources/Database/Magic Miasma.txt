@@ -1,0 +1,19 @@
+<b>Magic Miasma</b>(Spell Compendium, p. 137)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 30-ft.-radius emanation centered on a point in space
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>A thick, sparkling cloud of billowing mist rolls into being from the point you indicate.</b>
+	
+This potent spell conjures a cloud of mist that functions as a <b>solid fog</b> spell (PH 281). In addition, any spells cast within the fog have a -4 penalty to the spellcaster's caster level, and the save DC of any such spell is reduced by 2. Creatures within the fog, or that enter the fog, must succeed on a Will save or suffer the reduction in caster level and DC even after they leave the fog, for the duration of the spell.
+	
+Material Component: A small piece of quilted cloth, which must be soaked in water while the spell is cast.
+   

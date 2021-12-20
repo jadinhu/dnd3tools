@@ -1,0 +1,19 @@
+<b>Eye of the Beholder</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 round/level
+
+ 	
+One of the caster's eyes grows out of her head on an eyestalk, becoming like that of a beholder.
+Due to the mobility of the eye, the caster gains a +2 circumstance bonus on Spot checks.
+More important, the eye has one of the beholder's eye powers, determined randomly.
+The caster can use this power as a standard action during the spell's duration.
+Each type of eye produces an effect identical to that of a spell cast by a 13th-level caster, but it follows the rules for a ray (see Aiming a Spell in Chapter 10 of the Player's Handbook).
+All of these effects have a range of 150 feet and a save DC of 18.
+Roll 1d10 to see which eye the caster gains.
+   

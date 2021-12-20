@@ -1,0 +1,10 @@
+<b>Slide, Greater</b>(Miniatures Handbook)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+
+ 	
+This spell functions like slide, except that you can slide the subject creature 20 feet in a straight line.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,17 @@
+<b>Phantasmal Assailants</b>(Spell Compendium, p. 154)
+
+Illusion (Phantasm) [Fear, Mind-Affecting]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will disbelief (if interacted with), then Fortitude half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You point at your intended target. lnstantly, shadowy shapes form at your flank and rush toward the creature you indicate, surrounding it. Others nearby do not notice the images, that plague your target.</b>
+	
+You point at your intended target. Instantly, shadowy shapes form at your flank and rush toward the creature you indicate, surrounding it. Others nearby do not notice the images that plague your target. You create phantasmal images of nightmare creatures in the target's mind, visible only as shadowy shapes to you and unseen by all others. If the target succeeds on an initial Will save, it recognizes that the images are not real, and the spell fails. If not, the phantasms strike the target, dealing 8 points of Wisdom damage and 8 points of Dexterity damage (4 points each on a successful Fortitude save). If the subject of a <b>phantasmal assailant</b> succeeds in disbelieving and is wearing a <b>helm of telepathy</b>, the spell can be turned back upon you with the same effect.
+ <b>Also appears in</b>   Complete Arcane     

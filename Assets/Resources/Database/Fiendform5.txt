@@ -1,0 +1,15 @@
+<b>Fiendform</b>(Unapproachable East)
+
+Transmutation [Evil]
+ <b>Level:</b>  Nar Demonbinder 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, M, 
+ <b>Duration:</b> 1 minute/level
+
+ 	
+As polymorph self (see the spell entry in Chapter 11: Spells of the Player's Handbook), except as noted above and as follows.
+You may take the form of any fiendish creature, demon, or devil that can be summoned by summon monster <span class="caps">I-V</span>.
+You cannot assume multiple forms with each use of the spell, but you gain all the creature's extraordinary, spell-like, and supernatural abilities.
+Your type changes to &quot;outsider&quot;, and spells and effects that harm or ward evil outsiders affect you.
+Spells that would banish you to your home plane end this spell and leave you staggered for 1 round per caster level but do not send you to another plane.
+Material Component: A bone from any fiendish creature, half-fiendish creature, demon, or devil.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium  Magic of Faerun  Player's Guide to FaerÃ»n     

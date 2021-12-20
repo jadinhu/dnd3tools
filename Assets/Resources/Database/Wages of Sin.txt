@@ -1,0 +1,18 @@
+<b>Wages of Sin</b>(Book of Exalted Deeds)
+
+Enchantment (Compulsion) [Good, Mind-Affecting]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, Abstinence
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One evil creature/level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The affected creatures' own evil thoughts and impulses blossom in their minds into intense suspicion and distrust.
+Each subject becomes convinced that its own allies are plotting to kill it at any moment, and attacks the nearest evil creature using whatever attack form (melee or ranged attack, spell, supernatural or spell-like ability) is most effective against that foe, to the best of its knowledge.
+Affected creatures do not completely ignore other threats, but attack evil creatures in preference to any other foes.
+Abstinence Component: You must refrain from intoxicants and stimulants for one week before casting this spell.
+   

@@ -1,0 +1,20 @@
+<b>Trance</b>(Oriental Adventures)
+
+Divination
+ <b>Level:</b>  Shaman 1,   Nature 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 120 ft.
+ <b>Area:</b> 120 ft. spread, centered on you
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You place yourself in a deep trance, during which you cannot move, speak, or take any action.
+In the trance, you are highly attuned to the powers and forces in the immediate area.
+You can sense certain magical creatures and effects within the spell's area.
+Each round you remain in the trance, you feel the presence of any one lesser spirit, greater spirit, curse, permanent magical effect, or haunting within the spell's area.
+You can determine the general type of thing contacted (such as natural spirit, evil haunting), but cannot communicate with it in any way or gain any other information about it.
+Using this spell does give you enough information to subsequently cast commune with lesser spirit or a similar spell to communicate with the spirit you desire to contact.
+   

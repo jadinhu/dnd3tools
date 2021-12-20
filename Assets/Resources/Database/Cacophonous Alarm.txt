@@ -1,0 +1,11 @@
+<b>Cacophonous Alarm</b>(Complete Mage)
+
+Abjuration
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>
+
+ 	
+Your magic causes the surrounding region to vibrate briefly with a deep rumble.
+This spell functions like alarm, although you can only set it to produce an audible result, not a mental one.
+Furthermore, an effect equivalent to a sound burst spell affects the first creature to violate the warded area (only this creature is affected, not a 10-footradius spread).
+   

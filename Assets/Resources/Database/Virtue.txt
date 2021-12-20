@@ -1,0 +1,15 @@
+<b>Virtue</b>(Player's Handbook v.3.5, p. 298)
+
+Transmutation
+ <b>Level:</b>  Cleric 0,  Druid 0,  Death Master 0,  Urban Druid 0,  Paladin 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min.
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject gains 1 temporary hit point.
+   

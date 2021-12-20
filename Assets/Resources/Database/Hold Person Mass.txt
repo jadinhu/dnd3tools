@@ -1,0 +1,10 @@
+<b>Hold Person, Mass</b>(Player's Handbook v.3.5, p. 241)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,  Beguiler 7,  Sha'ir 7,  Death Master 7,   Mechanus 7,   
+<b>Components:</b>
+ <b>Target:</b> One or more humanoid creatures, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like hold person, except as noted above.
+   

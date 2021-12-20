@@ -1,0 +1,18 @@
+<b>Wieldskill</b>(Magic of Faerun, p. 134)
+
+Divination
+ <b>Level:</b>  Cleric 1 (Gond),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell imbues the subject with a touch of divine guidance.
+The subject gains a +10 competence bonus on a skill check of your choice.
+If the target has no ranks in the skill, she functions as if she had a half rank in the skill, and therefore is considered trained in the skill (although this half rank adds nothing to her rolls with that skill).
+Alternatively, the target gains proficiency with a single weapon (simple, martial, or exotic) or type of armor (light, medium, heavy, or shield) as if she had the appropriate feat.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

@@ -1,0 +1,22 @@
+<b>Control Currents</b>(Stormwrack)
+
+Transmutation [Water]
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft./level
+ <b>Area:</b> 20-ft./level radius emanation centered on you
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You alter the flow of water in the area surrounding you.
+You can change the direction of an existing current, boost its strength, or cause still water to flow at a desired rate.
+The new current speed and direction persists until the spell ends or you decide to alter the effect, which requires concentration.
+You can choose to create an area of calm water up to 80 feet in diameter at the center of the affected area if you so desire, and you can create a limited effect in a smaller circular area within the spell's range.
+Current Direction: You can choose one of two basic current patterns to function over the spell's area.			You can direct the current to flow in one direction across the entire area from one side to the other.		You can create a rotation, causing the water to swirl around the center in a clockwise or counter-clockwise direction.	
+Current Strength: For every three caster levels, you can increase or decrease the current's speed by 10 feet.
+For example, a 9th level druid could increase the speed of a vigorous current (20 feet per round) to a dangerous current (50 feet per round) or reduce it to calm, placid water.
+See Currents and Streams, page 10, for more information about current strength and Swim checks.
+   

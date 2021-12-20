@@ -1,0 +1,20 @@
+<b>Lay of the Land</b>(Planar Handbook)
+
+Divination
+ <b>Level:</b>  Ranger 1,  Bard 4,  Druid 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 3 rounds
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You instantly gain an overview of the area around you.
+Lay of the land gives basic information relevant to major landmarks and well-known places.
+It indicates the direction and distance to each from the current location.
+The geographic details are inversely proportionate to the distance you're trying to study from your location.
+You have a good understanding of the terrain up to 100 miles away, you know general details of large or notable locations or land features up to 500 miles away, and you know only the direction and distance to major features farther away.
+Unlike find the path, this spell does not give information on traps, passwords, or impediments to a journey.
+   

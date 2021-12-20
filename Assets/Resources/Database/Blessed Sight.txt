@@ -1,0 +1,16 @@
+<b>Blessed Sight</b>(Book of Exalted Deeds)
+
+Divination
+ <b>Level:</b>  Apostle of Peace 3,  Champion of Gwynharwyf 3,  Cleric 3,  Paladin 3,  Slayer of Domiel 3,   Celestial 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+This spell makes your eyes glow with white light and allows you to see evil auras within 120 feet of you.
+The effect is similar to a detect evil spell, but does not require concentration and discerns aura location and strength more quickly.
+You know the location and strength of all evil auras within your sight.
+An aura's strength depends on the type and Hit Dice of any evil creature, as noted in the description of the detect evil spell in the Player's Handbook.
+   

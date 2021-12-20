@@ -1,0 +1,15 @@
+<b>Skunk Scent</b>(The Forge of War, p. 116)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+To employ this spell, you must make a successful ranged touch attack. If you hit, the target is sickened for the duration and cannot make use of the scent ability (if it possesses that ability). A successful Fortitude save reduces the duration to 1 round.
+   

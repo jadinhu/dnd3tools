@@ -1,0 +1,17 @@
+<b>Blades of Fire</b>(Spell Compendium, p. 31)
+
+Conjuration (Creation) [Fire]
+ <b>Level:</b>  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Up to two melee weapons you are wielding
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With a word your weapons burst into flame. You feel no heat and the flames merely tickle your skin.</b>
+	
+Your melee weapons each deal an extra 1d8 points of fire damage. This damage stacks with any energy damage your weapons already deal.
+ <b>Also appears in</b>   Miniatures Handbook  Complete Arcane     

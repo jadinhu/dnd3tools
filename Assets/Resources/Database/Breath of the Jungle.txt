@@ -1,0 +1,19 @@
+<b>Breath of the Jungle</b>(Spell Compendium, p. 39)
+
+Transmutation
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./ level)
+ <b>Effect:</b> Mist spreads in a 40-ft. radius, 20 ft. high
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With a word of power and flick of your wrist, a foul-smelling, fine mist appears.</b>
+	
+The DC of any saving throw made within the mist against poison or disease increases by 2.
+	
+The mist does not provide concealment.
+   

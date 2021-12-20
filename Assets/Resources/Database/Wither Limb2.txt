@@ -1,0 +1,18 @@
+<b>Wither Limb</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy [Evil]
+ <b>Level:</b>   Deathbound 4,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Limbs of one humanoid
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster chooses to wither either the arms or the legs of a humanoid.
+Withered legs force a subject to fall prone while at the same time reducing the subject's land speed to 5 feet.
+Withered arms make it impossible for the subject to use objects or cast spells with somatic components.
+A withered limb can be restored by a successful dispel magic cast by a spellcaster of a level higher than the level of the wither limb caster.
+ <b>Also appears in</b>   Spell Compendium  Book of Vile Darkness     

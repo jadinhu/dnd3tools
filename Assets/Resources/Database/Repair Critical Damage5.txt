@@ -1,0 +1,17 @@
+<b>Repair Critical Damage</b>(Spell Compendium, p. 173)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One construct
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>The smell of grease and the distant echo of clanking gears greet your senses as you complete this spell. Upon touching the intended construct, the grease smell and gear sounds disappear. Major dents and scratches disappear from the construct, as do cuts, tears, and abrasions.</b>
+	
+This spell functions like <b>repair light damage</b>, except that you repair 4d8 points of damage +1 point per caster level (maximum +20).
+ <b>Also appears in</b>   Eberron Campaign Setting  Complete Arcane  Tome and Blood: A Guidebook to Wizards and Sorcerers  Miniatures Handbook  Dragon Compendium     

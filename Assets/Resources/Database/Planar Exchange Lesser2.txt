@@ -1,0 +1,27 @@
+<b>Planar Exchange, Lesser</b>(Spell Compendium, p. 159)
+
+Conjuration (Calling) [see text]
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> One called creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You cross your arms and close your eyes, intoning the ancient spell. There is a bright flash, and another creature stands in your place.</b>
+	
+When you cast this spell, you call a celestial brown bear (MM 269), celestial griffon (MM 139), fiendish dire ape (MM 62), or fiendish tiger (MM 281), at your option, to your precise location. At the same instant, you are transported to that creature's home plane, where you exist in stasis for the duration of the spell. To a casual observer, it appears that you have transformed into the called creature (though an onlooker who makes a DC 25 Spot check notices the slight gap in time between your disappearance and the creature's appearance). If the called creature would not fit in the place you occupied when you cast the spell, the spell fails. If the called creature is slain, you take 2d6 points of damage, the spell ends, and you are returned to your origin plane in the space last occupied by the called creature.
+	
+A celestial creature (MM 31) called by this spell gains damage reduction 5/magic; resistance to acid 5, cold 5, and electricity 5; spell resistance equal to its HD +5; and a smite evil attack that provides a bonus equal to its HD on one damage roll.
+	
+A fiendish creature (MM 107) called by this spell gains damage reduction 5/magic; resistance to acid 5 and fire 5; spell resistance equal to its HD +5; and a smite good attack that provides a bonus equal to its HD on one damage roll.
+	
+You have full control over the creature's actions and can perceive the environment around the called creature as if you were seeing through its eyes, hearing through its ears, and so on.
+	
+While in stasis, you can't take any actions other than to control the called creature or to dismiss the spell, nor can anything on the creature's home plane affect you in any way. You also can't perceive anything around your body's location. When you dismiss the spell, or when the creature is slain, you appear in the creature's location, and it is returned to its home plane.
+	
+When you use a calling spell that calls a chaotic, evil, good, or lawful creature, it is a spell of that type.
+ <b>Also appears in</b>   Planar Handbook     

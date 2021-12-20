@@ -1,0 +1,22 @@
+<b>Snake Darts</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One or two creatures
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, your snake tattoos (the spell's focus) transform into real snakes that fly from you to the target or targets you select, striking like darts and injecting poison into the victims.
+The snakes always hit, and deal 2d6 points of damage from the impact alone.
+The poison deals 1d6 points of temporary Constitution damage immediately and another 1d6 points of temporary Constitution damage 1 minute later.
+Each instance of ability damage can be negated by a successful Fortitude save (DC 10 + 1/2 caster's level + caster's Intelligence modifier).
+After striking the targets, the snakes fly back to you.
+You must swallow the living snakes before you can cast the spell again; doing so is a standard action that causes you no harm.
+When you swallow the snakes, the tattoos reappear on your arms.
+Focus: Two snake tattoos on your skin, usually one coiled around each forearm.
+ <b>Also appears in</b>   Complete Arcane     

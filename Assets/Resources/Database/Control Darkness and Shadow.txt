@@ -1,0 +1,28 @@
+<b>Control Darkness and Shadow</b>(Champions of Ruin)
+
+Transmutation [Darkness, Shadow]
+ <b>Level:</b>  Bard 2,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Shadows in one 5-ft. cube/level
+ <b>Duration:</b> Concentration + 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can affect existing shadows, both natural and magical, by causing them to deepen, lighten, or even move.
+You can cause one of the following effects at a time, and can switch them once per round as a free action for the duration of the spell.
+The chosen effect covers the entire area of the spell; multiple effects may not be applied to different areas.
+The possible effects are described below.
+Deepen Darkness and Shadow:Normal shadows now grant a +4 bonus on Hide checks and provide concealment to creatures within them.
+Magical darkness now confers total concealment to anyone
+within its area.
+Lighten Darkness and Shadow:Normal shadows are suppressed within the area, making it impossible to hide within them or use abilities such as the shadowdancer's shadow jump ability.
+Magical darkness no longer provides concealment, and the
+area can now be illuminated by any light source.
+Move Shadow: The affected shadow moves as you direct within the area.
+You can create shadow illusions (as those created by a silent image spell, but without color), reveal hidden creatures by
+taking their shadow away, cause shadows to follow you within the area of the spell, or otherwise move the shadow as you see fit.
+You cannot move areas of darkness in this way.
+   

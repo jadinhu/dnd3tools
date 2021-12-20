@@ -1,0 +1,27 @@
+<b>Hoard Life</b>(Races of the Dragon)
+
+Conjuration (Healing)
+ <b>Level:</b>  Sorcerer 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Personal and touch
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D)
+
+ 	
+You clasp your hands around a gem.
+A flash goes off, and then a feeling of deep weariness passes through you.
+The gem now bears a spark of light within it.
+Although true healing magic is usually the province of the divine, dragon sorcerers have devised an arcane method of creating a &quot;reserve&quot; of health for use in emergencies.
+This spell siphons off hit points from the caster and temporarily stores them in a gem for later retrieval.
+When you cast this spell, you deal nonlethal damage equal to twice your caster level to yourself, and you become fatigued.
+(If you are immune to nonlethal damage, this spell automatically fails).
+At any point during the spell's duration, you can use a standard action while holding the gem to heal yourself of an amount of damage equal to the nonlethal damage the spell dealt to you.
+This healing can't cause you to exceed your full normal hit points; any healing in excess of this amount is lost.
+Triggering this effect ends the spell's duration (so you can't portion out the healing over multiple uses).
+Triggering the healing does not provoke attacks of opportunity.
+If the spell's duration elapses before you have triggered the healing, you gain no benefit from the spell.
+Casting this spell a second time automatically ends the duration of any previous casting of the spell that you have performed.
+Focus: A gem worth at least 50 gp.
+Special: A dragonblooded character, or a character with the dragon type, casts this spell at +1 caster level.
+   

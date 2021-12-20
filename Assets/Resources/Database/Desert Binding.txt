@@ -1,0 +1,28 @@
+<b>Desert Binding</b>(Sandstorm)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,   Sand 8,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> See text (D)
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell functions like binding (see page 204 of the Player's Handbook), except as noted here.
+Sand in the Hourglass: The subject assumes the form of a minute portion of sand, each grain of which looks like its head.
+Held in a clear glass container, usually an hourglass, the subject remains aware of its surroundings (from multiple viewpoints) and can speak (from multiple, tiny mouths), but cannot leave the hourglass, attack, or use any other abilities.
+The subject does not need to breathe, eat, or drink while subject to sand in the hourglass, nor does it age.
+Shattering the hourglass before the spell ends slays the bound creature, and its body remains sand (effectively destroyed).
+The duration is one year per caster level, after which time the victim reforms into its original shape, destroying the hourglass.
+Reduce the save DC by 4.
+Wind in the Waste: The subject is transformed into a howling wind blowing across the waste.
+The victim retains knowledge of its prior existence, but has no abilities other than to howl with the wind.
+Because of its insubstantial nature, the subject is nearly impossible to define or specifically locate.
+The DM might allow the victim to be found through special means or through powerful magic (such as limited wish).
+The duration is one year per caster level, after which time the subject returns to its original shape in the location where it was first subjected to wind in the waste.
+Reduce the save DC by 4.
+Material Component: As the binding spell; see page 204 of the Player's Handbook.
+   

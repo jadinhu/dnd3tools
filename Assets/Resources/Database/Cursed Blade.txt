@@ -1,0 +1,17 @@
+<b>Cursed Blade</b>(Complete Warrior)
+
+Necromancy
+ <b>Level:</b>  Assassin 4,  Hexblade 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One melee weapon
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A weapon affected by this spell deals wounds that can't be healed in the usual fashion.
+Any damage dealt by the weapon (not including damage from special weapon properties such as flaming, holy, wounding, and so on) cannot be cured by any means until the damaged individual has received a remove curse spell (or some other effect that neutralizes a curse).
+If a creature is slain by a weapon that is under the effect of this spell, it can't be raised from the dead unless a remove curse spell (or similar effect) is cast on the body or a true resurrection spell is used.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,18 @@
+<b>Herald's Call</b>(Magic of Faerun)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 1,  Harper Scout 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> 30-ft.-radius burst centered on you
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You produce a crowd-stopping shout that holds an air of authority others find difficult to ignore.
+The spell affects only those creatures that have 5 HD or less.
+Anyone affected is dazed for 1 round.
+Creatures beyond the radius of the burst may hear the shout, but don't become dazed.
+ <b>Also appears in</b>   Spell Compendium  Complete Adventurer     

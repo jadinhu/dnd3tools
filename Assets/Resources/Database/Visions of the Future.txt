@@ -1,0 +1,17 @@
+<b>Visions of the Future</b>(Player's Handbook II)
+
+Divination
+ <b>Level:</b>  Cleric 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level or until discharged
+
+ 	
+You view events slightly before they happen, gaining time to react to them.
+You gain a +2 sacred bonus on all saving throws and +2 dodge bonus to Armor Class.
+Once during the spell's duration, as an immediate action, you can choose to discharge the spell to gain a greater bonus.
+When you discharge the spell in this manner, you gain a sacred bonus on all saving throws and a dodge bonus to your Armor Class equal to 1/2 your caster level (maximum +25).
+This bonus lasts until the beginning of your next turn.
+   

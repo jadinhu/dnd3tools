@@ -1,0 +1,17 @@
+<b>Stone Construct</b>(Eberron Campaign Setting, p. 116)
+
+Transmutation
+ <b>Level:</b>  Artificer 3,   Warforged 3,   
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Construct touched
+ <b>Duration:</b> 10 minutes/level or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The construct you touch gains resistance to blows, cuts, stabs, and slashes. The subject gains damage reduction 10/adamantine. Once the spell has prevented a total of 10 points of damage per artificer level you possess (maximum 150 points), it is discharged.
+	
+<b>Material Component:</b> Granite and 250 gp worth of diamond dust sprinkled on the construct.
+   

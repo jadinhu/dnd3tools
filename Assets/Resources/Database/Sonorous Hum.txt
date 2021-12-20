@@ -1,0 +1,20 @@
+<b>Sonorous Hum</b>(Savage Species)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 2,  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+After you cast this spell, the next spell you cast within the duration that requires concentration to maintain is maintained for you until the sonorous hum spell expires.
+This effect allows you to cast other spells, even another
+spell that also requires concentration.
+If the spell maintained by the sonorous hum has a shorter duration than that of this spell, the maintained spell expires as it normally would and you gain no further benefits from this casting of sonorous hum.
+The sound created by the spell is as loud as a person in armor walking at a slow pace trying not to make noise (normally a DC 5 Listen check to detect).
+You may end the sonorous hum as a free action.
+For example, you could cast this spell, then cast detect thoughts, and this spell maintains the concentration on detect thoughts while you cast discern lies and maintain concentration on that spell yourself.
+You control all aspects of both spells, so you could change the orientation of the detect thoughts effect and select a different target for your discern lies spell in the same round.
+ <b>Also appears in</b>   Spell Compendium     

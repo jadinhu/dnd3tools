@@ -1,0 +1,15 @@
+<b>Sacrificial Skill</b>(Book of Vile Darkness)
+
+Enchantment [Evil]
+ <b>Level:</b>  Cleric 1,  Sorcerer 1,  Wizard 1,  Assassin 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 minute/level
+
+ 	
+The caster gains a +5 bonus on all Knowledge (religion) checks that have to do with sacrifices made to evil gods.
+See Sacrifices in Chapter 2 for the Knowledge (religion) check DCs required to gain boons from evil gods.
+Material Component: A lock of hair taken from an unwilling humanoid.
+   

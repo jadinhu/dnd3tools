@@ -1,0 +1,19 @@
+<b>Iron Scarf</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 1 (Metal),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast this spell, you seize a silk scarf and lash it toward one creature within range.
+You must have a line of sight to the target.
+You make a ranged attack roll on the target as the scarf magically extends and becomes as hard as iron on impact.
+If you hit, the target takes 1d8 points of damage +1 per caster level (maximum +5).
+Focus: A silk scarf.
+ <b>Also appears in</b>   Complete Arcane     

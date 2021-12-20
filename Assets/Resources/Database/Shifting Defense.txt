@@ -1,0 +1,16 @@
+<b>Shifting Defense</b>(Tome of Battle: The Book of Nine Swords, p. 73)
+
+Setting Sun (Stance)
+ <b>Level:</b>  Swordsage 5 (Two Setting Sun maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You duck and move as you dodge your opponent?s attacks. Slowly but surely, each attack gives you the opportunity to move across the battlefield.</b>
+	
+Your ability to read your opponents? moves and use their strength against them allows you to shift your position during a battle. Each failed attack gives you the split-second you need to move without drawing attacks.
+	
+While you are in this stance, you can make an immediate 5-foot step each time an opponent attacks you. Moving in this manner consumes one of your attacks of opportunity in the current round. You cannot move in this manner if you have no attacks of opportunity remaining. This movement does not provoke attacks of opportunity.</   

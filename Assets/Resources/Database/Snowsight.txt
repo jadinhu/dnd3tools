@@ -1,0 +1,18 @@
+<b>Snowsight</b>(Frostburn)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,   Winter 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject gains the ability to see to the normal limits of its vision even in whiteout conditions, and ignores all penalties due to snow glare and snow blindness.
+Snowsight is no better than normal vision.
+During daylight, this usually means the subject can see to the horizon; at night, vision is restricted to ambient light or darkvision as appropriate for the subject creature.
+Snowsight does not grant creatures the ability to see in darkness.
+   

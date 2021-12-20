@@ -1,0 +1,19 @@
+<b>Enduring Scrutiny</b>(Complete Mage)
+
+Divination
+ <b>Level:</b>  Assassin 3,  Bard 3,  Paladin 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You sense a sudden, empathic connection with the subject, as though you were constantly a mere step or two behind.
+You designate a particular action when casting this spell.
+If the subject engages in or commits that particular action during the spell's duration, you are instantly alerted of that fact, regardless of the distance between you and the subject (and even if the subject is on another plane).
+For instance, you could command the spell to alert you if the subject casts a spell or kills someone.
+You do not necessarily know the precise details of when or how the subject committed the designated action; you only know, instantly, that he did so.
+   

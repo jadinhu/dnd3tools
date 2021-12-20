@@ -1,0 +1,11 @@
+<b>Hellfire Storm</b>(Book of Vile Darkness)
+
+Evocation [Evil]
+ <b>Level:</b>   Diabolic 7,   
+<b>Components:</b>
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius spread
+
+ 	
+As hellfire, except in area and range and that the spell deals 5d6 points of special diabolic fire damage.
+ <b>Also appears in</b>   Fiendish Codex II: Tyrants of the Nine Hells     

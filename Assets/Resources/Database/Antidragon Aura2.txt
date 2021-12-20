@@ -1,0 +1,19 @@
+<b>Antidragon Aura</b>(Spell Compendium, p. 14)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels
+ <b>Target:</b> One creature/ 2 levels, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You unleash the power of this spell and the nugget of platinum vanishes from your palm. Your companions are bathed in a white aura with a silver scale pattern overlaid upon it.</b>
+	
+All subjects gain a +2 luck bonus to Armor Class and on saving throws against the attacks, spells, and special attacks (extraordinary, supernatural, and spell-like) of dragons. This bonus increases by 1 for every four caster levels above 5th (to +3 at 9th, +4 at 13th, and a maximum of +5 at 17th).
+	
+<b>Material Component</b>: A chunk of platinum worth at least 25 gp (slightly less than 1 ounce).
+ <b>Also appears in</b>   Draconomicon     

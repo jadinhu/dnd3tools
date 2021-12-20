@@ -1,0 +1,21 @@
+<b>Expose the Dead</b>(Spell Compendium, p. 96)
+
+Divination
+ <b>Level:</b>  Cleric 2,  Paladin 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+You gain a sixth sense that allows you to better locate undead creatures, as well as to investigate corpses. Your eyes turn white while under the effect of the spell, making it seem as though you were blind (although you can see as well as normal).
+	
+While this spell is in effect, you gain an insight bonus equal to your caster level (maximum +10) on Survival checks made to track undead, and you can follow undead tracks with a DC above 10 as if you had the Track feat. You gain the same insight bonus on Listen and Spot checks made against undead creatures.
+	
+In addition, you gain an insight bonus equal to your caster level (maximum +10) on Search checks made when examining a dead body, and you are treated as if you had the Investigate feat (see page 55 of the <span class="caps">EBERRON</span> Campaign Setting) when doing so.
+	
+Finally, while this spell is active, increase the save DC of any speak with dead spell you cast by 2.
+	
+<b>Arcane Material Component:</b> A dwarf's fingerbone.
+   

@@ -1,0 +1,15 @@
+<b>Friendly Face</b>(Races of Destiny)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 min./level (D)
+
+ 	
+You subtly change your appearance so that it seems particularly friendly to the viewer.
+You gain a +5 circumstance bonus on Diplomacy and Gather Information checks made to influence or gain information from creatures with Intelligence scores of 3 or higher, as long as those creatures aren't already hostile toward you.
+This spell does not alter your appearance in any significant way, and thus provides no bonus on Disguise checks.
+   

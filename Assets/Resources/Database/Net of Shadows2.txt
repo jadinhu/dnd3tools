@@ -1,0 +1,17 @@
+<b>Net of Shadows</b>(Spell Compendium, p. 147)
+
+Illusion (Shadow) [Darkness]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which are more than 25 ft. apart
+ <b>Duration:</b> 1d6 rounds
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You cast the spell, and the surrounding shadows shift at your command, flying toward your targets and wrapping themselves around them.</b>
+	
+This spell gives the subjects concealment, but the shifting magic shadows also inhibit the subjects' ability to ascertain their surroundings. The subjects can see only 5 feet through the shadows that coat them, and foes within that range have concealment from the subjects. Darkvision does not penetrate a net of shadows.
+   

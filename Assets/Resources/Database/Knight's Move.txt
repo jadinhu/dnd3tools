@@ -1,0 +1,15 @@
+<b>Knight's Move</b>(Spell Compendium, p. 129)
+
+Transmutation (Teleportation)
+ <b>Level:</b>  Paladin 2,  Cleric 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 5 ft./2 levels; see text
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+<b>The ground before you appears overlaid with a chessboard pattern, with certain squares of the chessboard glowing softly red. Time stops for you as you move without walking to the indicated location.</b>
+	
+You can teleport with a limited distance and a circumspect form of movement. You can instantly move up to 5 feet per two caster levels with this spell, but you must end this movement in a square that leaves you flanking an enemy.
+   

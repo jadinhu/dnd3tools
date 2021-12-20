@@ -1,0 +1,26 @@
+<b>Reality Maelstrom</b>(Manual of the Planes)
+
+Evocation
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 5-ft.-radius/level emanation, centered on a point in space, and 10-ft.-radius/level burst centered on the same point
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates, Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You tear a temporary hole in reality itself that sucks all loose material and living creatures into it, sending them to a random plane (see sidebar).
+Everything sucked into the reality maelstrom goes to the same plane.
+Reality maelstrom has a primary and secondary area of effect.
+The primary area is the hole itself: a sphere with a 5-foot radius per level of the caster.
+Within that area, all unattended objects weighing 100 pounds or less are sucked into the reality maelstrom, as are all individuals who fail a Will saving throw.
+The rip also creates a windstorm of air rushing into the tear.
+All unattended objects weighing 50 pounds or less within a 10-foot radius per level of the caster are drawn into the primary area of effect of the reality maelstrom.
+Individuals within the secondary area of effect must make a Reflex saving throw.
+Those who fail are sucked into the primary area of effect and must make a Will saving throw to avoid being drawn into the maelstrom.
+Individuals who make either saving throw may move and attack as normal but must make additional saving throws every round they remain within the primary or secondary areas of effect.
+A reality maelstrom is a one-way portal, so nothing ever emerges from the hole the spell makes.
+Material Component: A golden hoop no less than 1 inch across.
+ <b>Also appears in</b>   Spell Compendium     

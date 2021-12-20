@@ -1,0 +1,20 @@
+<b>Make Manifest</b>(Manual of the Planes)
+
+Transmutation
+ <b>Level:</b>  Cleric 4,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You can cause one creature on a coterminous or coexistent plane, along with its personal belongings, to suddenly appear on your plane of existence.
+For example, the make manifest spell allows you to cause a target on the Ethereal Plane to suddenly appear on the Material Plane, and vice versa.
+You do not gain the ability to detect creatures on these coterminous planes with this spell.
+For the duration of the spell, the target creature retains all its abilities except for those that allow it to enter other planes.
+For example, a ghost brought in from the Ethereal Plane would retain its incorporeal nature, but a wizard using ethereal jaunt could be attacked normally.
+At the end of the spell's duration, the target creature returns to whatever plane it was on before it was targeted by the spell, even if it has moved beyond the range of make manifest.
+ <b>Also appears in</b>   Spell Compendium     

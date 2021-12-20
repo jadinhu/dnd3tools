@@ -1,0 +1,23 @@
+<b>Tactical Teleportation</b>(Complete Mage)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One willing creature/3 levels
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None and Will negates (object)
+ <b>Spell Resistance:</b> No and Yes (object)
+
+ 	
+You instantly analyze the field of battle, visualizing lines of power connecting you and your allies to tactically viable positions.
+With a shout, you cause those lines to pull taut.
+This spell instantly teleports a number of willing creatures a short distance with no chance for mishap, as greater teleport.
+Effectively, tactical teleportation lets you reposition a number of allies (including yourself, if you choose) around the battlefield.
+Each creature to be affected must be within range of you, and no creature can be transported farther away from your original position than the range allows.
+You must have line of sight to all the intended destinations when you cast the spell.
+Each subject can bring along held or carried objects as long as their weight doesn't exceed the subject's maximum load.
+Only objects held or in use (attended) by another individual receive saving throws and spell resistance.
+If any subject would appear in a space occupied by another creature or a solid object, that subject is unaffected by the spell, but the rest of the effect resolves normally.
+   

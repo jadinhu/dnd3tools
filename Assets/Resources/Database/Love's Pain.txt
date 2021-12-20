@@ -1,0 +1,24 @@
+<b>Love's Pain</b>(Book of Vile Darkness)
+
+Evocation [Evil, Mind-Affecting]
+ <b>Level:</b>    Corrupt 3  
+<b>Components:</b>V, S, Corrupt, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster blasts a lancelike projectile of greenish-black energy from his hand, striking a single foe as a ranged touch attack.
+The energy does not harm the subject.
+Instead, the subject's closest friend or dearest loved one is wracked with pain and takes 1d6 points of damage for every two caster levels (maximum 10d6).
+There is no limit to the distance between the caster and the loved one, and the loved one gets no saving throw or spell resistance.
+If the loved one is within an antimagic field, the spell has no effect.
+It may take DMs and players a moment to determine who the subject's dearest loved one is.
+The DM determines this for nonplayer characters (NPCs).
+It is rare (but possible) that no individual qualifies.
+In that case, the subject takes the damage.
+Corruption Cost: 1d6 points of Intelligence damage.
+   

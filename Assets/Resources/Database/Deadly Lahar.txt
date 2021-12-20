@@ -1,0 +1,19 @@
+<b>Deadly Lahar</b>(Complete Mage)
+
+Conjuration [Earth, Fire]
+ <b>Level:</b>  Druid 8,  Sorcerer 8,  Wizard 8,  Wu Jen 8 (earth and fire),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex partial
+ <b>Spell Resistance:</b> No
+
+ 	
+A rushing torrent of liquid rock bursts from the ground, washing over your foes.
+You create a liquid landslide of molten-hot volcanic material.
+All creatures in the area of the spell take 10d6 points of fire damage.
+Additionally, those creatures are coated in a thick layer of the viscous substance, slowing them (as the slow spell) for the next 3 rounds and dealing an additional 5d6 points of fire damage per round.
+A successful Reflex save reduces the initial damage by half and prevents the slow effect and the additional damage.
+   

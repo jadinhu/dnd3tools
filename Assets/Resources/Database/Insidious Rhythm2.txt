@@ -1,0 +1,18 @@
+<b>Insidious Rhythm</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 6,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 3 rounds
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 hour per level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster plays a catchy, silly, little tune that sticks in the mind of any subject who fails a Will save.
+The endlessly recycling melody makes it very difficult for the subject to cast spells, disarm traps, or perform any other action that requires mental focus.
+Thus, the subject incurs a -4 circumstance penalty on all skill checks based on Intelligence and must make a Concentration check (DC = insidious rhythms save DC + level of the spell being attempted) for each spellcasting attempt.
+Focus: The caster's instrument.
+ <b>Also appears in</b>   Spell Compendium  Complete Adventurer     

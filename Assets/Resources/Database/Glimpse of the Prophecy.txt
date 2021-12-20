@@ -1,0 +1,19 @@
+<b>Glimpse of the Prophecy</b>(Magic of Eberron, p. 96)
+
+Divination
+ <b>Level:</b>  Bard 6,  Cleric 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level or until discharged
+
+ 	
+You gain powerful insight into the workings of the draconic Prophecy, granting you inner strength and a potent sixth sense in relation to your surroundings. You gain a +1 insight bonus to Armor Class and a +1 insight bonus on saving throws for the duration of the spell.
+	
+Once during the spell's duration, you can gain an insight bonus equal to one-half your caster level (maximum +10) on any saving throw. Activating this effect is an immediate action, but it must be done before you make the roll to be modified. Once this ability is used, the spell ends.
+	
+If you have the Dragon Prophesier feat (see page 46), you can enter a state of prophetic favor as an immediate action instead of a full-round action while this spell is in effect. This still counts as one of your daily uses of prophetic favor. Once this ability is used, the spell ends.
+	
+You cannot have more than one glimpse of the Prophecy spell active on you at the same time.
+   

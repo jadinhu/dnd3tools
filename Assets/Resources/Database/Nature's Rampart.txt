@@ -1,0 +1,25 @@
+<b>Nature's Rampart</b>(Spell Compendium, p. 146)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Ranger 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Structure up to 40 ft. square
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With a final wave of your hand, the ground beneath your feet trembles and the landscape shifts into a new form.</b>
+	
+You shape a natural setting into a formidable defensive position. Usually this spell is used to prepare an open outdoor area such as a hillside or a forest, but a large natural cavern could be shaped into a divine rampart. Artificial structures or features are not affected, although nature's rampart could be positioned to fill a gap between two buildings or barricade an unpaved road. The effect of the spell depends on the terrain:
+	
+<b>Open Outdoor Site:</b> A rampart or dike of earth 5 feet high and 5 feet thick at its base rises immediately behind a shallow ditch 5 feet wide and 5 feet deep along the perimeter of the site. Creatures behind the dike receive cover. Attackers approaching on foot must scramble down into the ditch and then climbing 10 feet to reach the top of the dike (Climb DC 10).
+	
+<b>Rough Outdoor Site or Cavern:</b> Loose stones and boulders, dead wood, and patches of dense briars are arranged to form a defensible wall 5 feet high and 2 feet thick at the base around the perimeter of the site. Creatures behind the wall receive cover.
+	
+<b>Marshy or Low-Lying Site:</b> In areas such as marsh, bog, swamp, or tundra, nature's rampart cannot raise a wall, but instead creates a water-filled ditch 10 feet wide and 5 feet deep. Creatures forced to wade the ditch are reduced to 1/4 their normal speed (minimum 5 feet) and cannot charge or run.
+	
+Focus: A small quartz gem engraved with the image of an exquisite tiny castle, worth at least 100 gp.
+   

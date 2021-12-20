@@ -1,0 +1,17 @@
+<b>Boneblade</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Blackguard 2,  Cleric 3,    
+<b>Components:</b>V, S, AF, Undead
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Effect:</b> One bone that becomes a blade
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+The caster changes a bone at least 6 inches long into a longsword, short sword, or greatsword (caster's choice).
+This weapon has a +1 enhancement bonus on attacks and damage for every five caster levels (at least +1, maximum +4).
+Furthermore, this blade deals an extra +1d6 points of damage to living targets and an additional +1d6 points of damage to good-aligned targets.
+This spell confers no proficiency with the blade, but the caster doesn't need to be the one wielding the blade for it to be effective.
+Focus: A 6-inch-long bone.
+   

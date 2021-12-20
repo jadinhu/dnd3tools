@@ -1,0 +1,17 @@
+<b>Heal Animal Companion</b>(Spell Compendium, p. 110)
+
+Conjuration (Healing)
+ <b>Level:</b>  Ranger 3,  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Your animal companion touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You lay your hand on your animal companion, and as you do, its eyes become clear and focused, and it breathes easier.</b>
+	
+This spell functions like <b>heal</b> (PH 239), except that it affects only your animal companion.
+   

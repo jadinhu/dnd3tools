@@ -1,0 +1,19 @@
+<b>Create Deathless</b>(Eberron Campaign Setting, p. 109)
+
+Necromancy [Good]
+ <b>Level:</b>   Deathless 6,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One corpse
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Calling on the celestial powers, you restore life to a corpse, creating an undying soldier, a type of deathless creature (see page 302). Created deathless are not automatically under the control of their animator. If you are capable of commanding deathless, you may attempt to command the deathless as it forms.
+	
+Your campaign may include additional types of deathless creatures. Your DM will inform you if you can create different creatures with this spell. No spell can create an ascendant councilor.
+	
+<b>Material Components:</b> A clay pot filled with grave dirt and another filled with pure water. The spell must be cast on a dead body. You must place a moonstone gem worth at least 50 gp per HD of the deathless to be created into the mouth or eye socket of each corpse. The magic of the spell turns these gems into worthless shells.
+   

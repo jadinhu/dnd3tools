@@ -1,0 +1,19 @@
+<b>Attune Form</b>(Spell Compendium, p. 17)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Druid 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature/3 levels
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You touch the pebble against your allies' flesh and bring them into attunement with the plane.</b>
+	
+This spell allows you to attune the affected creatures to the plane you are currently on, negating the harmful effects of that plane. Affected creatures gain the protections described in the avoid planar effects spell (page 19).
+	
+<b>Arcane Material Component</b>: A bit of stone or earth from your home plane.
+ <b>Also appears in</b>   Manual of the Planes  Planar Handbook     

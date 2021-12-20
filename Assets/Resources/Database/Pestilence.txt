@@ -1,0 +1,21 @@
+<b>Pestilence</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Druid 7,  Cleric 8,    
+<b>Components:</b>V, S, Disease
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject contracts a particularly terrible and contagious disease, which strikes immediately with no incubation period.
+The caster infects the subject with a sickness that deals 1d4 points of Constitution drain each day until the subject dies.
+The subject may attempt a new saving throw each day, but she must succeed at two saves in a row to rid herself of the disease (as with most diseases).
+However, the disease, once unleashed, continues to spread.
+For the first day of the sickness, anyone touching the subject must succeed at a Fortitude saving throw or fall victim to the same malady.
+That victim in turn becomes contagious on the first day of her own affliction.
+Disease Component: Any disease.
+   

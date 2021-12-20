@@ -1,0 +1,10 @@
+<b>Invest Heavy Protection</b>(Player's Handbook II)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>
+
+ 	
+This spell functions like invest light protection, except that it cures 5d4 points of damage +1 per two caster levels (maximum+12) and grants damage reduction 5/evil.
+Undead creatures take an extra 5 points of damage from any weapon or physical attack capable of overcoming good damage reduction.
+   

@@ -1,0 +1,19 @@
+<b>Mechanus Mind</b>(Spell Compendium, p. 140)
+
+Enchantment (Compulsion) [Lawful, Mind-Affecting]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,   Mechanus 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You speak the words of the spell and your mind feels clearer and more organized, as if it were mere drawers where everything was put in its proper place. Your face grows calmer and unexpressive, but your thoughts are more rational and ordered.</b>
+	
+The subject gains a +4 resistance bonus on Will saving throws to resist mind-affecting spells and abilities.
+	
+While in the grip of Mechanus mind, the subject also becomes more analytical and less emotional. The subject gains a +2 competence bonus on Intelligence-based checks, but takes a -2 penalty on Charisma-based checks.
+ <b>Also appears in</b>   Planar Handbook     

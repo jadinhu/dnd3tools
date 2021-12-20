@@ -1,0 +1,21 @@
+<b>Cry of Ysgard</b>(Book of Exalted Deeds)
+
+Conjuration (Calling) [Good]
+ <b>Level:</b>   Sanctified 7,   
+<b>Components:</b>V, Sacrifice
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Calls 2d4 bariaur defenders of Ysgard
+ <b>Duration:</b> Instantaneous; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You call 2d4 bariaur defenders of Ysgard (see Chapter 8: Monsters) from the plains of Ysgard to your location.
+They serve you for up to a year, and you may dismiss them at any time.
+They are intelligent, so you can assign them different tasks.
+They can refuse to complete a quest or otherwise take on complex burdens without your supervision.
+No matter how many times you cast this spell, you can control no more than four bariaur rangers; others are released from service and return to Ysgard immediately.
+You choose which creatures to release.
+Sacrifice: 1d3 points of Strength drain.
+   

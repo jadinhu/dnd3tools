@@ -1,0 +1,17 @@
+<b>Telepathic Aura</b>(Spell Compendium, p. 219)
+
+Divination
+ <b>Level:</b>  Paladin 4,    
+<b>Components:</b>S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 100 ft.
+ <b>Area:</b> 100-ft.-radius emanation centered on you
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You make a silent gesture with your holy symbol and think about your fellowship with your companions. In a moment, they all look up as if someone called their names.</b>
+	
+You can mentally communicate with all allies within range, though this is one-way communication. (You can send thoughts, but you cannot receive thoughts in response.) Anything you choose to send is received by all creatures you perceive as allies within the emanation (you cannot send thoughts only to certain allies), and they all understand you regardless of language. Allies with Intelligence scores lower than 3 understand basic commands but not complex information (&quot;Attack&quot; is understood, but &quot;Ignore the foot soldiers and attack the spellcasters&quot; gets the same reaction as &quot;Attack&quot;).
+   

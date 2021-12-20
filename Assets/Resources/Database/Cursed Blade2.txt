@@ -1,0 +1,19 @@
+<b>Cursed Blade</b>(Spell Compendium, p. 57)
+
+Necromancy
+ <b>Level:</b>  Assassin 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> One melee weapon
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> None
+
+ 	
+<b>Drawing upon dark powers, you whisper a vehement curse and draw your finger down the weapon.</b>
+	
+A weapon affected by this spell deals wounds that can't be healed in the usual fashion. Any damage dealt by the weapon (not including damage from special weapon properties such as flaming, holy, wounding, and so on) cannot be dured by any means until the damaged individual has received a <b>remove curse</b> spell (or some other effect that neutralizes a curse).
+	
+If a creature is slain by a weapon that is under the effect of this spell, it can't be raised from the dead unless a <b>remove curse</b> spell (or similar effect) is cast on the body or a <b>true resurrection</b> spell is used.
+ <b>Also appears in</b>   Complete Warrior     

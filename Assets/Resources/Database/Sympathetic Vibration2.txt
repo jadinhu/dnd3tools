@@ -1,0 +1,20 @@
+<b>Sympathetic Vibration</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> One freestanding structure
+ <b>Duration:</b> Up to 1 round per level
+ <b>Saving Throw:</b> Will negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+By attuning yourself to a freestanding structure such as a building, bridge, or dam, you can create a damaging vibration within it.
+Once it begins, the vibration deals 2d10 points of damage per round to the target structure.
+You can choose at the time of casting to limit the duration of the spell; otherwise it lasts for 1 round/level, if cast upon a target that is not freestanding, such as a hillside, the surrounding stone dissipates the effect and no damage occurs.
+Sympathetic vibration cannot affect living creatures.
+A structure gets no saving throw, but a construct gets a Will save to resist the effects.
+Material Component: A tuning fork.
+ <b>Also appears in</b>   Player's Handbook v.3.5     

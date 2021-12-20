@@ -1,0 +1,10 @@
+<b>Planar Exchange, Greater</b>(Planar Handbook)
+
+Conjuration (Calling)
+ <b>Level:</b>  Cleric 8,    
+<b>Components:</b>
+
+ 	
+As planar exchange, except you trade places with a leonal guardinal, barbed devil, or hezrou demon, at your option.
+If the called creature is slain, you take 4d6 points of damage and the spell ends.
+ <b>Also appears in</b>   Spell Compendium     

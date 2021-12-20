@@ -1,0 +1,17 @@
+<b>Etherealness, Swift</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Beguiler 5,  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One willing creature
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With a single word and a quick wave of your hand, the creature disappears.
+The subject becomes ethereal until the end of its next turn.
+If, at the end of the spell's duration, the subject creature rematerializes within a solid object or in an occupied space, it is shunted off to the nearest open space and takes 1d6 points of damage per 5 feet so traveled.
+   

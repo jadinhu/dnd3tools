@@ -1,0 +1,28 @@
+<b>Beckon Person</b>(Tome of Magic)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, <abbr title="True Name">TN, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One humanoid creature
+ <b>Duration:</b> 1 round; see text (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With a crook of your finger and some spoken truenames, you urge a creature closer.
+The creature's eyes turn solid blue as it shambles toward you.
+This simple enchantment weaves truenames for &quot;approach&quot;
+and &quot;closer&quot; into a spell that forces the subject to move closer to you.
+If you succeed on the Truespeak check and the creature fails its saving throw, it must move at least 10 feet closer to you each round if able.
+The creature can choose its own path and means of locomotion, but if it can, it must end its turn at least 10 feet closer to you than it started.
+The creature defends itself normally and can take whatever actions it likes, so long as it moves closer to you every turn.
+The creature can move toward you faster than 10 feet per round if it likes.
+When the creature is adjacent to you, it acts normally unless you move away.
+If you move away, it must move 10 feet per round closer to your new location if it can.
+The beckon person spell lasts for at least 1 round, but it might last longer if you excel at the Truespeak check (described below).
+Truename Component: When you cast this spell, you must correctly speak the truenames associated with movement and approach.
+You learn these truenames when you learn this spell.
+The Truespeak DC to cast this spell is 15; you add 2 rounds to the duration for every 5 points by which you exceed the DC.
+   

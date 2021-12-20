@@ -1,0 +1,25 @@
+<b>Unbinding</b>(Spell Compendium, p. 225)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,   Liberation 9,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 180 ft
+ <b>Area:</b> 180-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>A burst of white energy erupts from your body to destroy spells that contain, constrain, or seal.</b>
+	
+An unbinding spell negates charm and hold spells of all types; arcane locks and similar closures; and spells that create physical or magical barriers, such as wall of fire, wall of force, guards and wards, temporal stasis, and slow spells, among others. The effect of a statue spell is also ended, and a magic jar is shattered � ;forever destroyed � ;and the life force within snuffed out. In addition, any spell that holds magical effects, including other spells (magic mouth, imbue with spell ability, and so on), immediately releases them at a range of 0 feet.
+	
+Protective spells such as protection from evil, shield, globe of invulnerability, and similar spells are not affected by an unbinding. Petrified creatures are neither revealed nor restored. Individuals bound to service are not freed (including creatures such asfamiliars, invisible stalkers, genies, and elementals). An antimagic field is not affected, nor does the effect of unbinding penetrate one. A magic circle against evil (or another alignment) that currently holds a creature imprisoned is dispelled. 
+	
+Curses and geas/quest spells are negated only if you are of a level equal to or greater than that of the original caster.
+	
+All these effects occur without regard to the caster's wishes. Spell effects on the person of the caster, or effects or items being carried or worn by the caster, remain undisturbed, but any others within the area are affected, including those of allies. The opening of locks or other closures triggers any alarms or traps attached to them. Any released creature might or might not be friendly to the caster.
+	
+Material Components: A lodestone and a pinch of saltpeter
+ <b>Also appears in</b>   Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins     

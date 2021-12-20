@@ -1,0 +1,17 @@
+<b>Stormrage</b>(Complete Divine)
+
+Transmutation [Electricity]
+ <b>Level:</b>  Cleric 8,  Druid 8,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level (D)
+
+ 	
+You harness the powers of wind and storm to move, protect yourself, and attack. You gain the benefits of a <b>fly</b> spell, and are protected from each direction as if surrounded by a <b>wind wall</b> spell. You are completely unaffected by natural or magical wind (such as a hurricane or gust of wind spell), easily able to hold your position and completely uninhibited by other adverse effects of extreme wind (such as having to make Concentration checks because of strong winds). 
+	
+Finally, you can discharge bolts of electricity from your eyes. Your caster level is the total number of d6 that you can create with this spell (maximum 20d6). You may use them all at once or divide the dice over several rounds. For example, a 16th-level caster can fire an 8d6 bolt on one round and another 8d6 bolt on the next, fire sixteen bolts over 16 or more rounds (each doing 1d6 electricity damage), or make one large bolt that deals 16d6. Each bolt affects only one creature.
+	
+Launching a bolt is a standard action that does not provoke an attack of opportunity, has a range of 100 feet, and requires a ranged touch attack (you gain a +3 attack bonus if the opponent is wearing metal armor, made out of metal, or carrying a lot of metal).
+ <b>Also appears in</b>   Magic of Faerun  Spell Compendium     

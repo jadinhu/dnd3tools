@@ -1,0 +1,17 @@
+<b>Ghost Lock</b>(Ghostwalk)
+
+Abjuration [Ectomancy]
+ <b>Level:</b>  Cleric 2,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One willing nonhumanoid
+ <b>Duration:</b> 1 hour/level or until discharged
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+If the nonhumanoid subject creature dies while this spell is in effect, the creature's soul does not immediately enter the realm of the dead, and it can instead attempt to enter the Material Plane as a ghost, just as if it were a type of creature (humanoid) normally capable of such.
+Once the creature becomes a ghost, it can remain so until the spell duration expires, at which time it immediately passes through the Veil of Souls to the True Afterlife.
+The creature may willingly do this before the duration expires.
+   

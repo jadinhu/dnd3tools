@@ -1,0 +1,22 @@
+<b>Investiture of the Horned Devil</b>(Fiendish Codex II: Tyrants of the Nine Hells)
+
+Transmutation [Evil, Investiture]
+ <b>Level:</b>  Cleric 8,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+With a flash of red light, you invest the target with infernal energy, drawing power from a horned devil to fuel the spell.
+This spell infuses a creature with the terrible essence of a horned devil.
+Whenever the subject successfully strikes another living creature with the first melee attack that it makes in a round, the struck creature must succeed on a Will save against the spell's DC or be stunned for 1 round.
+In addition, the subject gains resistance to fire 10.
+This resistance stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the horned devil).
+While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture.
+After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute.
+Material Component: A fist-sized chunk of brimstone.
+   

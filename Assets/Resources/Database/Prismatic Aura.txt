@@ -1,0 +1,19 @@
+<b>Prismatic Aura</b>(Complete Mage)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level or until discharged (D)
+
+ 	
+You are surrounded in a flashing aura of multiple colors.
+The prismatic aura spell obscures your image, offering you concealment.
+In addition, any creature that hits you with a nonreach melee weapon is subject to a random prismatic effect.
+Roll 1d8 and consult the table under prismatic spray (PH 264); reroll any result of 8, since a prismatic aura can't generate two effects at once.
+Each time an effect is expended, that color disappears from the aura (reroll if it comes up again on the table).
+Thus a prismatic aura can affect a maximum of seven attackers before it disappears, and the spell ends.
+An attacker is entitled to any applicable saves, and spell resistance applies to this effect.
+   

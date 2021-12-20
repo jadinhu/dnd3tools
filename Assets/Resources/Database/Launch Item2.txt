@@ -1,0 +1,19 @@
+<b>Launch Item</b>(Spell Compendium, p. 130)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 0,  Wizard 0,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One Fine item in your possession, weighing up to 10 lb.
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You hold the item and windmill your arm in an underhanded toss. When it leaves your hand, it is bathed in an orange glow and flies farther than you could throw any item.</b>
+	
+You cause a Fine item in your possession to fly at great speed to a target or location you specify, out to medium range (100 ft. + 10 ft./level).
+	
+This spell is normally used to launch dangerous items (flasks of acid, thunderstones, and so on) farther than you could normally throw them. You can use this spell to make an attack with a splash weapon. If you choose to do so, you must make an attack roll as normal, but you suffer no penalties for range.
+ <b>Also appears in</b>   Magic of Faerun     

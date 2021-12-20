@@ -1,0 +1,15 @@
+<b>Scarecrow</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Necromancy [Fear, Mind-Affecting]
+ <b>Level:</b>  Druid 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One animal
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The subject becomes shaken, suffering a -2 morale penalty on attack rolls, saves, and checks for the duration of the spell.
+   

@@ -1,0 +1,21 @@
+<b>Dragonmark Shield</b>(Dragonmarked, p. 150)
+
+Abjuration [Force]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, Dragonmark
+ <b>Casting Time:</b> 1 swift or immediate action; see text
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round; see text
+
+ 	
+<b>A translucent shield of turquoise energy shaped like your dragonmark springs into existence to protect you.</b>
+	
+The <b>dragonmark shield</b> hovers in front of you and moves with you. It negates <b>magic missile</b> attacks directed at you. In addition, it provides a shield bonus to AC and a bonus on Reflex saves based on the strength of your dragonmark.
+	<table>		<tr>			<th>Dragonmark </th>			<th>Bonus </th>		</tr>		<tr>			<td> Least </td>			<td> +2 </td>		</tr>		<tr>			<td> Lesser </td>			<td> +3 </td>		</tr>		<tr>			<td> Greater </td>			<td> +4 </td>		</tr>		<tr>			<td> Siberys </td>			<td> +5 </td>		</tr>	</table>	
+The shield bonus to AC applies against incorporeal touch attacks, since the <b>dragonmark shield</b> is a force effect. The <b>dragonmark shield</b> has no armor check penalty or arcane spell failure chance.
+	
+If you use an immediate action to invoke the <b>dragonmark shield</b>, it disappears at the end of your next turn.
+	
+<b>Dragonmark:</b> Any true dragonmark.
+   

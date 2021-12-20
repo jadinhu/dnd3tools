@@ -1,0 +1,19 @@
+<b>Beget Bogun</b>(Monster Manual II)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Effect:</b> Tiny construct
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Beget bogun allows you to infuse living magic into a small mannequin that you have created from vegetable matter.
+This is the final spell in the process of creating a bogun.
+See the bogun's description, above, for further details.
+Material Component: The mannequin from which the bogun is created.
+XP Cost: 25 XP.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Spell Compendium  Complete Divine     

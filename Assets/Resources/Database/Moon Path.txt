@@ -1,0 +1,38 @@
+<b>Moon Path</b>(Forgotten Realms Campaign Setting)
+
+Evocation [Force]
+ <b>Level:</b>  Hathran 5,  Nentyar Hunter 5,   Moon 5,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> A variable-width, glowing white stair or bridge of translucent force up to 15 ft./level long (see text)
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None (see text)
+ <b>Spell Resistance:</b> No
+
+ 	
+Moon path allows you to create a stair or bridge from one spot to another.
+The effect is a railless ribbon of glowing white translucent force like a glass strip.
+The strip can be from 3 to 20 feet wide as you decide.
+(You can vary the width over the ribbon's length if you want).
+It sticks to its endpoints unshakably, even if these endpoints are in midair.
+At the time of casting, you designate up to one creature per caster level to receive extra protection while standing on or moving along the moon path.
+Protected creatures gain the benefits of a sanctuary.
+This works exactly like the 1st-level spell sanctuary except that the save DC is 15 + your Wisdom modifier, and any subject of the spell who attacks breaks the sanctuary effect for all subjects.
+Protected creatures also stick to the top of the moon path as though they have received spider climb spells.
+A creature loses both benefits immediately when it leaves the path.
+Unlike a wall of force, a moon path can be dispelled.
+It is otherwise similar to a wall of force in that it needs no supports and it is immune to damage of all kinds.
+A disintegrate blasts a hole 10 feet square, leaving the rest of the path intact.
+(If the moon path is 10 feet wide or less, this merely creates a 10-foot gap).
+A hit from a rod of cancellation, a sphere of annihilation, or Mordenkainen's disjunction destroys a moon path.
+Spells and breath weapons cannot pass through a moon path,
+although dimension door, teleport, and similar effects can bypass the barrier.
+It blocks ethereal creatures as well as material creatures.
+Gaze attacks cannot operate through the moon path.
+A moon path must be straight, continuous, and unbroken when formed.
+If its surface is broken by any object or creature, the spell fails.
+The bridge version of the spell must be created flat.
+The stair version cannot rise or descend any more sharply than 45 degrees.
+Arcane Material Component: A white handkerchief.
+ <b>Also appears in</b>   Spell Compendium     

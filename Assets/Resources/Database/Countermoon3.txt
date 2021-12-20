@@ -1,0 +1,19 @@
+<b>Countermoon</b>(Spell Compendium, p. 53)
+
+Abjuration
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One lycanthrope
+ <b>Duration:</b> 12 hours
+ <b>Saving Throw:</b> Will negates (D)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Translucent red chains fly from your outstretched hand to wrap around the target before fading away.</b>
+	
+This spell forces a lycanthrope back to its natural form and keeps it from changing form, preventing both voluntary shapechanging through the alternate form ability and involuntary shapechanging because of lycanthropy.
+	
+<b>Material Component:</b> A hair, scale, or other cast-off item from the type of creature.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Savage Species     

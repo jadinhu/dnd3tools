@@ -1,0 +1,14 @@
+<b>Colossus Strike</b>(Tome of Battle: The Book of Nine Swords, p. 82)
+
+Stone Dragon (Strike)
+ <b>Level:</b>  Crusader 7 (Two Stone Dragon maneuvers),  Swordsage 7 (Two Stone Dragon maneuvers),  Warblade 7 (Two Stone Dragon maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+<b>Focusing your strength with a deep, rumbling shout, you execute an attack that sends your opponent flying through the air.</b>
+	
+As part of this maneuver, you make a melee attack against your foe. This attack deals an extra 6d6 points of damage, and the creature struck must succeed on a Fortitude save (DC 17 + your Str modifier) or be hurled 1d4 squares away from you, falling prone in that square. A creature of a smaller size category than yours gets a ?2 penalty on this save; a creature of a larger size category than yours gets a +2 bonus on the save. The enemy?s movement doesn?t provoke attacks of opportunity. If an obstacle blocks the creature?s movement, it instead stops in the first unoccupied square.   

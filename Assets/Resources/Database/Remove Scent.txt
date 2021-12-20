@@ -1,0 +1,19 @@
+<b>Remove Scent</b>(Spell Compendium, p. 173)
+
+Transmutation
+ <b>Level:</b>  Bard 1,  Druid 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a touch of a wax-covered finger to the subject, you inhale deeply and smell nothing.</b>
+	
+This spells hides the scent of the creature or object touched for the duration of the spell. The scent ability (MM 314) cannot detect a creature under the effect of a remove scent spell. It also negates the harmful effects of the noxious stench exuded by certain creatures, such as ghasts, for the duration of the spell.
+	
+Material Component: A pinch of unscented candle wax.
+   

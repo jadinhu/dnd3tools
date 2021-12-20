@@ -1,0 +1,21 @@
+<b>Make Manifest, Mass</b>(Spell Compendium, p. 137)
+
+Transmutation
+ <b>Level:</b>  Cleric 6,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 25-ft.-radius emanation centered on a point in space
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You toss a handful of copper dust into the air, and it clings to creatures invisible to you. Suddenly they're visible and in your presence.</b>
+	
+This spell functions like <b>make manifest</b>, except that all creatures and unattended objects on coterminous and coexistent planes within the area of this spell are instantly brought onto your plane.
+	
+For the duration of the spell, the target creatures retain all their abilities except for those that allow them to enter other planes. At the end of mass make manifest's duration, objects and creatures return to their plane of origin, even if they have left the spell's area.
+	
+Material Component: A handful of copper dust.
+   

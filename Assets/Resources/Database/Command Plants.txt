@@ -1,0 +1,21 @@
+<b>Command Plants</b>(Player's Handbook v.3.5, p. 211)
+
+Transmutation
+ <b>Level:</b>  Ranger 3,  Druid 4,  Wu Jen 4,   Plant 4,  Blightbringer 7,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to 2 HD/level of plant creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> One day/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell allows you some degree of control over one or more plant creatures.
+Affected plant creatures can understand you, and they perceive your words and actions in the most favorable way (treat their attitude as friendly).
+They will not attack you while the spell lasts.
+You can try to give a subject orders, but you must win an opposed Charisma check to convince it to do anything it wouldn't ordinarily do.
+(Retries are not allowed).
+A commanded plant never obeys suicidal or obviously harmful orders, but it might be convinced that something very dangerous is worth doing (see charm person).
+You can affect a number of plant creatures whose combined level or HD do not exceed twice your level.
+   

@@ -1,0 +1,16 @@
+<b>That Art Thou</b>(Oriental Adventures)
+
+Divination
+ <b>Level:</b>   Brahmin 3,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You extend your senses to become one with all beings and objects within a 30-foot-radius sphere centered on you.
+You see and feel everything sensed by every person, creature, and object in that area.
+The onrush of sensory information gives you a +20 bonus on your Search, Spot, and Listen checks for the duration of the spell.
+In addition, you are never considered flat-footed while the spell duration lasts, and you cannot be flanked unless every other creature within 30 feet of you is also flanked.
+   

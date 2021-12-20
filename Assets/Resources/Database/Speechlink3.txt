@@ -1,0 +1,17 @@
+<b>Speechlink</b>(Spell Compendium, p. 198)
+
+Divination
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> You and one creature touched
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Tapping your finger to the side of your head and to your intended subject, you whisper words of greeting to complete the spell. You then hear your subject's voice as if it were speaking directly into your ear.</b>
+	
+You and a willing subject can communicate verbally no matter how much distance you put between yourselves on the same plane. Either participant can end the spell at any time. Speechlink allows you and your allies each to hear the other's vocalizations, whatever their volume. It does not transfer other sounds from either participant's location. This spell works on any creatures, including animals, but does not convey any special language comprehension ability.
+ <b>Also appears in</b>   Magic of Faerun  Complete Adventurer     

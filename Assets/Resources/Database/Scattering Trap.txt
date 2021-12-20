@@ -1,0 +1,20 @@
+<b>Scattering Trap</b>(Player's Handbook II)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> One 5-ft. square/2 levels
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Areas you designate on the floor flare dimly.
+This spell imbues a number of 5-foot squares you designate with a teleportation trap.
+A creatures moving through one of these squares and failing its saving throw is teleported 1d6 squares in a random direction (use the Missing with a Thrown Weapon diagram, PH 158).
+If reaching the destination involves teleporting the subject into a solid space such as within a wall, the subject is forcibly shunted into the nearest open space and takes 1d6 points of damage.
+When you cast this spell, the 5-foot squares you designate do not have to be adjacent but must all be within 30 feet of one another.
+Material Component: A pinch of dandelion seeds.
+   

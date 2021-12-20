@@ -1,0 +1,22 @@
+<b>Dweomer of Transference</b>(Expanded Psionics Handbook)
+
+Evocation
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One willing psionic creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+With this spell, you form a radiating corona around the head of a psionic ally, then convert some of your spells into psionic power points.
+When you finish casting dweomer of transference, a red-orange glow surrounds the psionic creature's head.
+For the duration of the spell, any spells cast at the subject don't have their usual effect, instead converting themselves harmlessly into psionic energy that the subject can use as energy for psionic powers.
+You can cast any spell you like at the subject, even area spells, effect spells, and spells for whom the subject would ordinarily not be a legitimate target.
+The spells don't do anything other than provide the subject with power points, but you must still cast them normally, obeying the component and range requirements listed in the description of each spell.
+For each spell you cast into the dweomer of transference, the psionic creature gets temporary power points, according to the following table.
+The transference isn't perfectly efficient; for instance, if you cast a 7th-level spell at a psionic creature, it receives insufficient psionic power points to manifest a 7th-level power.
+The temporary power points acquired through a dweomer of transference dissipate after 1 hour if they haven't already been spent.
+   

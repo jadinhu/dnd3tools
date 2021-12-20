@@ -1,0 +1,20 @@
+<b>Detect Dragonblood</b>(Dragon Magic, p. 66)
+
+Divination
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped emanation
+ <b>Duration:</b> Concentration, up to 10 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like detect evil, except that you detect the auras of creatures of the dragon type or the dragonblood subtype (see page 4). The amount of information revealed depends on how long you study a particular area or subject.
+1st Round: Presence or absence of dragonblooded creatures.
+2nd Round:Number of dragonblooded in the area, and the power of the most potent aura.
+3rd Round: The power and location of each aura. If an aura is outside your line of sight, you learn its direction but not its exact location.
+If an aura is within your line of sight, you can make a Knowledge (arcana) check (DC 10 + target's HD) to determine whether the aura is of the dragon type or the dragonblood subtype.
+Aura Power: The power of a dragonblooded creature's aura depends on its Hit Dice and the strength of its connection to dragons; see the accompanying table. If a creature's aura falls into more than one category, the spell indicates the stronger of the two.
+   

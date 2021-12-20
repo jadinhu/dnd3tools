@@ -1,0 +1,19 @@
+<b>Nezram's Amethyst Aura</b>(Lost Empires of Faerun)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You surround the subject with a brilliant violet glow that grants temporary immunity to poisons and diseases.
+Nezram's amethyst aura absorbs all poisons and diseases that target the subject for the duration of the spell, regardless of how they are delivered.
+Any weapon or natural attack normally used to deliver a poison or disease (such as a mummy's touch or a snake's bite) still deals the normal amount of hit point damage, but the poison or disease is blocked.
+This spell does not reverse or prevent the effects of poison and disease in a subject already affected by one or both at the time of casting.
+Arcane Material Component: A pinch of amethyst dust.
+   

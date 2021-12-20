@@ -1,0 +1,19 @@
+<b>Anyspell</b>(Spell Compendium, p. 14)
+
+Transmutation
+ <b>Level:</b>   Spell 3,   
+<b>Components:</b>V, S, M, AF, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 15 minutes
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+_Although there is no visible effect from this spellcasting, you channel divine power through your mind, shaping and transforming this energy into the potential to cast one arcane spell.
+	
+Anyspell allows you to read and prepare any arcane spell of up to 2nd level. You must have an arcane magical writing (a scroll or spellbook) on hand to cast anyspell. During the spell's 15-minute casting time, you can scan the spells available and choose one to read and prepare.
+	
+Once you choose and prepare an arcane spell, you retain it in your mind. The prepared spell occupies your 3rd-level domain spell slot. If you read the spell from a spellbook, the book is unharmed, but reading a spell from a scroll erases the spell from the scroll.
+	
+When you cast the arcane spell, it works just as though cast by a wizard of your cleric level except that your Wisdom score sets the save DC (if applicable). You must have a Wisdom of at least 10 + the arcane spell's level to prepare and cast it. Your holy symbol substitutes for any noncostly material component. If the spell has a costly material component (one to which a gold piece value is assigned), you must provide it. If the spell has another focus, you must provide the focus. If the spell has an XP component, you must pay the experience point cost.
+ <b>Also appears in</b>   Forgotten Realms Campaign Setting     

@@ -1,0 +1,19 @@
+<b>Belker Claws</b>(Spell Compendium, p. 26)
+
+Transmutation [Air]
+ <b>Level:</b>  Wizard 2,  Sorcerer 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living Creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You uncork the vial and speak the old words. The smoke issues from the bottle and wraps itself around your hand, turning it into smoke as well.</b>
+	
+With a successful touch attack, you deal 2d12 points of damage. For every three caster levels, the smoke lasts for another round (to a maximum of 4 additional rounds at 12th level), dealing another 2d12 points of damage per round.
+	
+Material Component: A small vial of smoke.
+ <b>Also appears in</b>   Planar Handbook     

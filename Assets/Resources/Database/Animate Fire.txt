@@ -1,0 +1,14 @@
+<b>Animate Fire</b>(Complete Arcane)
+
+Transmutation [Fire]
+ <b>Level:</b>  Druid 2,  Wu Jen 2 (fire),    
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to a 5-ft. cube of fire
+
+ 	
+As animate wood, but you can animate a fire no larger than the maximum volume.
+Animated fire has the fire subtype and the burn special attack of a fire elemental, dealing bludgeoning damage plus fire damage on a successful slam attack and possibly setting opponents on fire (save DC 12; see page 98 of the Monster Manual).
+Fire animated by this spell has hardness 0.
+Material Component: A handful of charcoal, sulfur, and soda ash.
+ <b>Also appears in</b>   Oriental Adventures  Spell Compendium     

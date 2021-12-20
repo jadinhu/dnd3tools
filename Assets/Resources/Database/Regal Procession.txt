@@ -1,0 +1,17 @@
+<b>Regal Procession</b>(Spell Compendium, p. 172)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Paladin 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One mount/level
+ <b>Duration:</b> 2 hours/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You toss a bit of horsehair into the air, and as it drifts toward the ground, an array of finely adorned mounts appears.</b>
+	
+This spell functions like <b>mount</b> (PH 256), except you can summon several mounts. Each comes with a bit and bridle, riding saddle, saddle blanket, ribbons, adornments, and a banner. You select the colors of the horses and the livery, either or both of which can include a heraldic or personal symbol.
+   

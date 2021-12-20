@@ -1,0 +1,18 @@
+<b>Dirge</b>(Spell Compendium, p. 65)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 50 ft.
+ <b>Area:</b> All enemies within a 50-ft.-radius burst centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>As you sing, translucent spectral skulls float down from the sky like falling snow.</b>
+	
+Your song draws the energies of death and destruction down on your enemies. Each round, any enemy in 
+the area takes 2 points of Strength and Dexterity damage. Subjects can attempt a Fortitude save each round to negate the damage, but a successful save does not prevent damage in future rounds.
+ <b>Also appears in</b>   Magic of Faerun     

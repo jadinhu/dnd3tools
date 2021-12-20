@@ -1,0 +1,17 @@
+<b>Discern Location</b>(Player's Handbook v.3.5, p. 222)
+
+Divination
+ <b>Level:</b>  Cleric 8,  Sorcerer 8,  Wizard 8,  Healer 8,  Beguiler 8,  Sha'ir 8,  Urban Druid 8,  Death Master 8,   Knowledge 8,  Wealth 8,  Oracle 8,  Planning 8,  Retribution 8,  Trade 9,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Unlimited
+ <b>Target:</b> One creature or object
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A <b>discern location</b> spell is among the most powerful means of locating creatures or objects. Nothing short of a <b>mind blank</b> spell or the direct intervention of a deity keeps you from learning the exact location of a single individual or object. <b>Discern location</b> circumvents normal means of protection from scrying or location. The spell reveals the name of the creature or object's location (place, name, business name, building name, or the like), community, county (or similar political division), country, continent, and the plane of existence where the target lies.
+	
+To find a creature with the spell, you must have seen the creature or have some item that once belonged to it. To find an object, you must have touched it at least once.
+   

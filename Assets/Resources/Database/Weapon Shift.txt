@@ -1,0 +1,21 @@
+<b>Weapon Shift</b>(Spell Compendium, p. 237)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,  Bard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One melee weapon of up to 15 lb.
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+<b>Waving the folded sheet of parchment before you, you firmly grasp the target weapon. A barely perceptible rust-brown glow engulfs it, then grows into a shining radiance of molten-metal red. As the radiance subsides, you note with satisfaction that the weapon now has the desired shape.</b>
+	
+A weapon shift spell allows you to temporarily transform any one melee weapon into a different melee weapon. Thus, a greatclub could be transformed into a greatsword, a light pick into a morning star, or a dagger into a battleaxe.
+	
+Improvised weapons and double weapons cannot be targeted or be the result of this spell. Magic weapons transformed retain all their special abilities as long as the new form could legally have those abilities, and weapons made from special materials retain their special materials.
+	
+Material Component: A piece of parchment folded into the shape of the weapon type desired.
+   

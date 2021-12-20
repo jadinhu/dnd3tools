@@ -1,0 +1,17 @@
+<b>Step of the Wind</b>(Tome of Battle: The Book of Nine Swords, p. 74)
+
+Setting Sun (Stance)
+ <b>Level:</b>  Swordsage 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You walk across rubble and other broken terrain with deceptive ease, allowing you to take advantage of your opponents as they struggle to move at full speed.</b>
+	
+You are so closely attuned to your environment that you easily pick out steady spots in rough terrain. While others struggle to move over broken ground, you slip across it with ease. When you fight on rough ground, you turn the uneven footing into an advantage. By gauging how an opponent distributes his weight, you strike at just the right moment and in the precise spot needed to send him tumbling to the ground.
+	
+While you are in this stance, you ignore penalties to speed, movement, or skill checks associated with movement (such as Tumble, Jump, and Climb checks) incurred by moving through difficult terrain. If you attack an opponent standing on difficult terrain while you are in this stance, and if that foe takes a movement penalty for moving through difficult terrain, you gain a +2 bonus on attack rolls and a +4 bonus on Strength or Dexterity checks made as part of a bull rush or trip attempt against that enemy. You gain this bonus on checks made to either accomplish or resist a bull rush or trip.
+   

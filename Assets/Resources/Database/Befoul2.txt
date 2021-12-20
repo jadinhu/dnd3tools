@@ -1,0 +1,23 @@
+<b>Befoul</b>(Fiendish Codex I: Hordes of the Abyss)
+
+Transmutation [Evil]
+ <b>Level:</b>  Cleric 8,   Corruption 8,  Ooze 8,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Area:</b> Water in a volume of 100 ft./level by 100 ft./level by 10 ft./level (S)
+ <b>Duration:</b> Permanent; see text
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+You wave a hand over a body of water, and it instantly takes on the color, odor, and consistency of a filth-ridden cesspool.
+The caster makes water (or other liquid) foul and mildly poisonous.
+A creature that drinks the affected water must succeed on a Fortitude saving throw or take 1d4 points of Constitution damage.
+Any creature with 2 or more Hit Dice that swims or immerses itself halfway or more in the water must attempt a saving throw as if drinking it; a creature with fewer than 2 HD dies immediately if immersed to such a degree.
+If the spell can affect only part of a larger body of water, the befouled water mixes with the pure water.
+If the entire body of water is no more than four times the size of the affected area, all the water is befouled 24 hours later, but the damage from drinking or swimming in it is only 1d2 points of Constitution damage.
+If the body of water is more than four times but less than twenty times the affected area, all the water tastes foul after 24 hours but has no damaging effect.
+If the entire body is larger than twenty times the affected area, the fouled water mixes with the clean water and loses all effect after 24 hours.
+Material Component: A dead fish and a drop of poison.
+ <b>Also appears in</b>   Lords of Madness  Book of Vile Darkness     

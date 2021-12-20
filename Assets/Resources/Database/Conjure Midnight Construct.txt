@@ -1,0 +1,12 @@
+<b>Conjure Midnight Construct</b>(Magic of Incarnum)
+
+Conjuration (Creation) [Incarnum]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>
+
+ 	
+As conjure lesser midnight construct, except as noted above and as follows.
+You conjure a midnight construct instead of a lesser midnight construct.
+Essentia: In addition to the options listed for conjure lesser midnight construct, you gain two new options for modifying your midnight construct by investing essentia:			Fly Speed: Bestow a fly speed of 20 feet per point of essentia invested (40 feet for 2 points of essentia, 60 feet for 3 points, and so on).		Deadly Aura: Bestow a damaging aura.	
+The aura deals 1d6 points of damage per point of essentia invested (Fort half, DC 10 + 1/2 construct's HD + essentia invested) to all creatures adjacent to the construct at the end of the construct's turn.
+   

@@ -1,0 +1,30 @@
+<b>Dream Casting</b>(Savage Species)
+
+Illusion (Phantasm) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Unlimited
+ <b>Target:</b> You and one dreamer
+ <b>Duration:</b> 1 day/level (see text)
+ <b>Saving Throw:</b> Will negates (harmless) and Will negates
+ <b>Spell Resistance:</b> Yes (harmless) and yes
+
+ 	
+As the dream spell, except as noted above; also, you can alter the sleeping person's dreams to produce a specific desired effect.
+The dreamer gets a Will saving throw to resist the additional effects of this spell; if he succeeds, the dream casting spell can only send a message in the manner of the dream spell.
+If the saving throw fails, you decide what additional effect the message carries.
+Fear: Your image in the dream is surrounded by intimidating imagery and an aura of power.
+For the duration of the spell, any time the dreamer can see you or knows you are present, he is shaken.
+This is a compulsion and fear effect.
+Charm: Your image in the dream appears particularly helpful and kind.
+For the duration of the spell, the dreamer is under the effect of a charm monster spell.
+This is a charm effect.
+Rage: Your image in the dream taunts and harasses the dreamer.
+For the duration of the spell, any time the dreamer can see you or knows you are present, he preferentially attacks you if in a combat situation.
+The dreamer gains a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls while under this effect.
+This is a compulsion effect.
+Harrow: Your image in the dream behaves in a bizarre and irrational manner.
+For the duration of the spell, the dreamer behaves in an unusual manner, gaining two random traits from Table 5-5: One Hundred Traits in the <span class="caps">DUNGEON</span> MASTER's Guide (reroll any physical traits, such as baldness).
+If the dreamer can see you or knows you are present, he acts bewildered.
+ <b>Also appears in</b>   Spell Compendium     

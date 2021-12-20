@@ -1,0 +1,17 @@
+<b>Dehydrate</b>(Spell Compendium, p. 62)
+
+Necromancy
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a squeezing gesture, you indicate your target and see sweat pour off it.</b>
+	
+You afflict the target with a horrible, desiccating curse that deals 1d6 points of constitution damage, plus 1 additional point of Constitution damage per three caster levels, to a maximum of 1d6+5 at 15th level. Oozes, plants and creatures with the aquatic subtype are more susceptible to this spell than other targets. Such creatures take 1d8 points of Constitution damage, plus 1 additional point of Constitution damage per three caster levels, to a maximum of 1d8+5 at 15th level.
+ <b>Also appears in</b>   Underdark     

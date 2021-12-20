@@ -1,0 +1,34 @@
+<b>Phantom Stag</b>(Complete Divine)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> One quasi-real, staglike creature
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+You conjure a Large, corporeal staglike creature that bears you or a person you designate into combat or overland at great speed.
+A phantom stag has a black body and head with sharp, silvery antlers, and smoke-colored, insubstantial hooves that make no sound.
+It has no saddle, bridle, or bit, but it is exceptionally alert to the nudges and balance changes of its rider.
+The phantom stag has an AC of 20 (-1 size, +6 natural armor, +5 Dex) and 40 hit points +5 hit points per caster level.
+It attacks with its antlers at a +10 bonus, dealing 1d8+9 points of damage (doubled on a successful charge).
+It can also trample Medium or smaller foes, who must succeed on a Reflex save or take 1d6+9 points of damage as the stag moves through their space.
+A phantom stag has a speed of 20 feet per caster level, to a maximum of 300 feet.
+It can bear its rider's weight plus up to 10 pounds per caster level.
+It ignores terrain elements such as undergrowth, rubble, or mud that would slow its movement.
+Phantom stags gain certain powers according to caster level.
+A mount's abilities include those of mounts of lower caster levels.
+Thus, a mount created by a 16th-level caster has the 12th and 14th caster level abilities as well.
+12th Level: The phantom stag can use air walk at will (as the spell, no action required to activate this ability) for up to 1 round at a time, after which it falls to the ground.
+The phantom stag gains a +2 deflection bonus to AC.
+14th Level: The phantom stag can fly at its speed (average maneuverability).
+The phantom stag gains a +4 deflection bonus to AC.
+16th Level: The phantom stag's antlers have the wounding and ghost touch weapon qualities.
+The phantom stag gains a +6 deflection bonus to AC.
+18th Level: The phantom stag can use etherealness on behalf of its rider (as the spell, caster level 18th).
+The phantom stag gains a +8 deflection bonus to AC.
+ <b>Also appears in</b>   Spell Compendium     

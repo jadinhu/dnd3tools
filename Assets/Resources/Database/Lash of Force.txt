@@ -1,0 +1,23 @@
+<b>Lash of Force</b>(Complete Mage)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft. or 30 ft.; see text
+
+ 	
+Effect or Area: One whip or 30-ft. line
+Duration: 1 round/level or until exhausted
+Saving Throw: None or Reflex partial
+Spell Resistance: Yes
+The air around you begins to thrash and churn with invisible forces.
+This spell brings into being an invisible, whiplike tendril of force.
+As an immediate action, you can command the lash to strike any creature within 10 feet of you.
+The lash strikes automatically and deals 5d6 points of damage.
+You must be able to see the target to be struck, but the lash otherwise ignores concealment.
+As a force effect, it can even strike incorporeal or ethereal creatures.
+At any point during the spell's duration, you can use a standard action to unleash a single 30-foot line of force that deals 15d6 points of damage and knocks prone any creatures in its area.
+A successful Reflex save halves the damage and prevents the creature from being knocked prone.
+This effect instantly ends the spell's duration.
+   

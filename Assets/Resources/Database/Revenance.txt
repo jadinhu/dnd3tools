@@ -1,0 +1,21 @@
+<b>Revenance</b>(Complete Divine)
+
+Conjuration (Healing)
+ <b>Level:</b>  Blackguard 4,  Cleric 4,  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Dead ally touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You touch a recently slain ally and temporarily restore her to life so she may continue to fight.
+The target can have been dead for up to 1 round/caster level.
+She functions as if a raise dead spell had been cast upon her, except that she does not lose a level and has half of her full normal hit points.
+She is alive (not undead) for the duration of the spell and
+can be healed normally, but dies as soon as the spell ends.
+While the subject is under this spell, she is not affected by resurrection or raise dead.
+The target gains a +1 morale bonus on attacks, damage, saves, and checks against the creature that killed her.
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun     

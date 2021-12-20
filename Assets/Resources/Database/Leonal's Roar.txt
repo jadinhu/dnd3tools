@@ -1,0 +1,16 @@
+<b>Leonal's Roar</b>(Book of Exalted Deeds)
+
+Evocation [Good, Sonic]
+ <b>Level:</b>  Druid 8,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 40 ft.
+ <b>Target:</b> Nongood creatures in a 40-ft.-radius spread centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell has the effect of a holy word, and it additionally deals 2d6 points of sonic damage to nongood creatures in the area.
+A successful Fortitude saving throw negates the sonic damage, but not the other effects of the spell.
+   

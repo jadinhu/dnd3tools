@@ -1,0 +1,20 @@
+<b>Revitalize Legacy, Least</b>(Weapons of Legacy)
+
+Transmutation
+ <b>Level:</b>  Bard 3,  Cleric 3,  Druid 3,  Paladin 3,  Ranger 3,  Shugenja 3,  Sorcerer 3,  Wizard 3,  Wu Jen 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Your legacy item; see text
+ <b>Duration:</b> 1 hour/level or until expended
+ <b>Saving Throw:</b> None
+
+ 	
+Power Resistance: No
+Choose one of your legacy item's least legacy abilities with a daily use limit.
+You regain one daily use of the chosen ability.
+This use must be expended within the spell's duration, or it is lost.
+If all daily uses of all least legacy abilities of the item are still available, this spell has no effect (that is, it can't increase the number of available daily uses above the normal maximum).
+No legacy item can be affected by this spell more than once in a 24-hour period.
+Focus: Your legacy item, which you must be holding, wearing, or wielding.
+   

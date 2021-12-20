@@ -1,0 +1,21 @@
+<b>Handfire</b>(Magic of Faerun)
+
+Evocation [Light]
+ <b>Level:</b>  Cleric 1 (SelÃ»ne),  Druid 1,  Harper Scout 1,  Hathran 1,  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You surround your hand with winking motes of light resembling a cluster of constantly renewed sparks.
+The lights are any color you choose, but cannot be changed once the spell is cast.
+The handfire provides illumination equal to a candle but provides no heat, nor can it ignite objects.
+The handfire can be used as a melee touch attack up to one time per level.
+If a living creature is struck, it deals 1d4 points of damage +1 point/level (maximum +5).
+Against undead, the handfire deals 1d6 points of damage +1 point/level (maximum +5).
+It has no effect on targets that are neither living nor undead (such as constructs).
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

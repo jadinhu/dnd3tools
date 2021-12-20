@@ -1,0 +1,15 @@
+<b>One Mind, Lesser</b>(Spell Compendium, p. 149)
+
+Divination
+ <b>Level:</b>  Paladin 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level
+
+ 	
+<b>Your mount begins to move in a predictable, complementary manner to yourself. It positions itself to maximize its effectiveness as a combat partner, and you feel that your actions instinctively do the same for it.</b>
+	
+You temporarily strengthen the mental bond with your special mount when you cast this spell. When you are mounted on your special mount, the link with your mount sharpens your senses, giving you a +4 insight bonus on Spot and Listen checks and the scent ability (MM 314) for the duration of the spell. If your mount ever moves more than 10 feet from you, the spell ends.
+   

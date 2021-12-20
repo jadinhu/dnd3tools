@@ -1,0 +1,17 @@
+<b>Deafening Clang</b>(Spell Compendium, p. 59)
+
+Transmutation [Sonic]
+ <b>Level:</b>  Paladin 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Your weapon
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>At your touch, the weapon rings like a struck tuning fork. The sound diminishes until it's imperceptible, but when you touch the weapon you can feel the vibration.</b>
+	
+You empower the touched weapon with magic that causes it to emit a loud clang when it is struck against a hard surface, such as a floor, wall, or creature. The weapon deals 1d6 points of sonic damage with each successful hit, and any creature struck by the weapon must succeed on a Fortitude saving throw or be deafened for 1 minute.
+ <b>Also appears in</b>   Magic of Faerun     

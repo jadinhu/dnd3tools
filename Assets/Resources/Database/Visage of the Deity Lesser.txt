@@ -1,0 +1,15 @@
+<b>Visage of the Deity, Lesser</b>(Complete Divine)
+
+Transmutation [Evil, Good]
+ <b>Level:</b>  Cleric 3,  Blackguard 4,  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+When you cast this spell, your body changes into a form more like your deity's (in a very limited fashion, of course).
+You gain a +4 enhancement bonus to your Charisma score.
+You also gain resistance 10 to two or three energy types: acid, cold, and electricity if you are good; cold and fire if you are evil.
+   

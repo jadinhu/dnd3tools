@@ -1,0 +1,16 @@
+<b>Quillfire</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+Your hand sprouts poisonous quills that you can use in melee or as a ranged attack.
+The quills inflict 1d8 points of damage +1 point/2 levels (maximum +5).
+They may be thrown as a group using a single ranged attack roll (range increment 10 feet).
+The quills are poisonous (injury DC 18, 1d6 Str/1d6 Str).
+ <b>Also appears in</b>   Spell Compendium     

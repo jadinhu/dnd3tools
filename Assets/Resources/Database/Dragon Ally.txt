@@ -1,0 +1,12 @@
+<b>Dragon Ally</b>(Draconomicon)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,   Dragon 7,   
+<b>Components:</b>
+ <b>Effect:</b> Up to two summoned dragons, totaling no more than 18 HD, no two of which can be more than 30 ft. apart when they appear
+
+ 	
+As lesser dragon ally, except you may summon a single dragon of up to 18 HD or two dragons of the same kind whose HD total no more than 18.
+The dragons agree to help you and request your return payment together.
+XP Cost: 250 XP.
+ <b>Also appears in</b>   Spell Compendium     

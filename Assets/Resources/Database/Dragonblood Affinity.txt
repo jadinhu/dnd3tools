@@ -1,0 +1,19 @@
+<b>Dragonblood Affinity</b>(Dragons of Faerun, p. 114)
+
+Transmutation
+ <b>Level:</b>  Bard 3,  Sorcerer 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living dragon or dragonblood creature/level, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You feel the draconic blood stirring within you, strengthening your nearby kin.
+	
+This spell summons the strength of your dragon heritage to empower other draconic creatures, instilling them with a powerful sense of pride. Each affected dragon or dragonblood creature gains a +2 bonus on saving throws, caster level checks, attack rolls, ability checks, skill checks, and weapon damage rolls.
+	
+<b>Special:</b> Only dragons and dragonblood creatures can cast this spell.
+   

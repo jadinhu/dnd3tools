@@ -1,0 +1,21 @@
+<b>Snare Astral Traveler</b>(Book of Vile Darkness)
+
+Abjuration
+ <b>Level:</b>  Cleric 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One astral creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell allows the caster to attract and capture an astral creature, as someone using the astral projection spell.
+If such a creature is within range at the time of casting and fails its saving throw, it is brought instantly before the
+caster and held motionless and visible for the spell's duration.
+Spellcasters generally follow snare astral traveler with a more lasting restraint, such as trap the soul.
+If more than one astral creature is within range, the closest creature is affected.
+If that creature makes its saving throw, the next closest creature must make a save.
+This continues until one creature fails its save or all have succeeded.
+   

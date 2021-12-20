@@ -1,0 +1,19 @@
+<b>Kiss of Death</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Necromancy
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates (see text)
+ <b>Spell Resistance:</b> Yes (see text)
+
+ 	
+Your teeth and tongue become coated with a fast-acting, virulent poison.
+Each round, you may make a melee touch attack to deliver the poison via a kiss.
+The poison deals 1d10 points of temporary Constitution damage immediately and another 1d10 points of temporary Constitution damage 1 minute later.
+Each instance of damage can be negated by a Fortitude save (DC 10 + one-half caster level + caster's Wisdom modifier).
+If you fail to overcome a creature's spell resistance, both primary and secondary damage are negated, but only for that attack, if you use this attack against that creature again while the spell is in effect, you can try again to overcome its spell resistance.
+   

@@ -1,0 +1,17 @@
+<b>Sonic Blast</b>(Spell Compendium, p. 195)
+
+Evocation [Sonic]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>The words of your spell twist upon each other and grow stronger. Then, like a cluster of bees, they streak toward your target and detonate in a screaming bellow around him.</b>
+	
+You blast the target with loud and high-pitched sounds. The subject takes 1d4 points of sonic damage per two caster levels (maximum 5d4) and must make a Will save or be deafened for 1d4 rounds. This spell has no effect if cast into the area of a silence spell.
+   

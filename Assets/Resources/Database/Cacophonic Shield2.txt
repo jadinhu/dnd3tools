@@ -1,0 +1,20 @@
+<b>Cacophonic Shield</b>(Magic of Faerun)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius emanation, centered on you
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create an immobile barrier of sonic energy at a distance of 10 feet from yourself.
+Creatures on either side of the barrier hear it as a loud but harmless buzzing.
+Nonmagical sound (including sound produced by a thunderstone) does not cross the barrier.
+If a sonic effect impinges upon the barrier, you get to make a caster level check (1d20 + caster level) against the DC of the effect to prevent it from affecting anyone inside the barrier.
+A creature that crosses the barrier takes 1d6 points of sonic damage plus 1 point per caster level (maximum +20) and must make a Fortitude save or be deafened for 1 minute.
+The sonic vibrations provide a 20% miss chance for any missiles crossing the barrier in either direction.
+ <b>Also appears in</b>   Complete Adventurer  Spell Compendium     

@@ -1,0 +1,18 @@
+<b>Feral Death Blow</b>(Tome of Battle: The Book of Nine Swords, p. 87)
+
+Tiger Claw (Strike)
+ <b>Level:</b>  Swordsage 9 (Four Tiger Claw maneuvers),  Warblade 9 (Four Tiger Claw maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+<b>With a primal howl, you leap into the air and land on your opponent, hacking and clawing at his neck.</b>
+	
+You leap upon your opponent, rending and tearing with your weapons in an attempt to kill him with a brutally overwhelming assault. You grab onto your foe as you slash and hack at his neck, face, and other vulnerable areas.
+	
+To use this maneuver, you must be adjacent to your intended target. As part of this maneuver, make a Jump check with a DC equal to your opponent?s AC. If the check succeeds, you can then make a single melee attack against your foe, also as part of this maneuver. The target is considered flat-footed against this attack. If your attack deals damage, your target must attempt a Fortitude save (DC 19 + your Str modifier). If this save fails, your target is instantly slain (his hit points drop to ?10). If the save is successful, you deal an extra 20d6 points of damage to the target in addition to your normal weapon damage. Creatures immune to critical hits are immune to the death effect of this strike.
+	
+If your Jump check fails, you can make a single attack normally. The maneuver is still considered expended.</   

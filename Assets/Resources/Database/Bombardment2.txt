@@ -1,0 +1,20 @@
+<b>Bombardment</b>(Player's Guide to FaerÃ»n)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 15-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause a rain of rocks to fall from the sky, burying your opponents.
+You designate the spot on which the burst is centered.
+Each creature in the area that fails a Reflex saving throw takes 1d8 points of damage per caster level (maximum 20d8) and is buried under rubble (see Avalanches, page 90 of the Dungeon Master's Guide).
+A successful save halves the damage and avoids burial.
+Buried subjects are subject to suffocation (see page 304 of the Dungeon Master's Guide) until they climb out from under the rocks (a full-round action).
+Focus: A quartz crystal embedded in rock.
+ <b>Also appears in</b>   Magic of Faerun  Spell Compendium     

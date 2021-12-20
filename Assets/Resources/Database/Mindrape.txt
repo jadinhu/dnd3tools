@@ -1,0 +1,19 @@
+<b>Mindrape</b>(Book of Vile Darkness)
+
+Enchantment [Evil, Mind-Affecting]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster enters the mind of a creature, learning everything that creature knows.
+The caster can erase or add memories as she sees fit and alter emotions, opinions, and even alignment.
+When the caster is done, she can leave the creature insane (as described in the insanity spell) or seemingly unaffected, without any memory of the intrusion.
+Severe changes to personality and changes to alignment can be corrected by a break enchantment spell (although an atonement spell might be needed as well, depending on circumstances).
+Alterations to memories and subtler thoughts can be restored only through use of a miracle or wish.
+   

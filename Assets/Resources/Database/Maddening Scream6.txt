@@ -1,0 +1,17 @@
+<b>Maddening Scream</b>(Spell Compendium, p. 135)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>   Madness 8,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1d4+1 rounds
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With an incomprehensible word and the touch of a hand wrapped in black magic, you reduce your foe to a screaming lunatic.</b>
+	
+This spell makes it impossible for the victim to do anything other than race about caterwauling. The creature must move its speed each turn, unless somehow prevented, and can take no other action. The spell gives the subject a -4 penalty to Armor Class, its Reflex saving throws fail except on a roll of 20, and the subject cannot use a shield.
+ <b>Also appears in</b>   Eberron Campaign Setting  Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins  Deities and Demigods  Lords of Madness     

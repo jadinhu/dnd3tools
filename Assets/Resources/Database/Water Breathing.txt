@@ -1,0 +1,18 @@
+<b>Water Breathing</b>(Player's Handbook v.3.5, p. 300)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Druid 3,  Sorcerer 3,  Wizard 3,  Wu Jen 3 (Water),  Sha'ir 3,  Savant 3 (Divine),  Court Herald 3,   Water 3,  Ocean 3,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creatures touched
+ <b>Duration:</b> 2 hours/level; see text
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The transmuted creatures can breathe water freely.
+Divide the duration evenly among all the creatures you touch.
+The spell does not make creatures unable to breathe air.
+Arcane Material Component: A short reed or piece of straw.
+   

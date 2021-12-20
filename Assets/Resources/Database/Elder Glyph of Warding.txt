@@ -1,0 +1,10 @@
+<b>Elder Glyph of Warding</b>(Lords of Madness)
+
+Abjuration
+ <b>Level:</b>  Cleric 9,    
+<b>Components:</b>
+
+ 	
+This spell functions like glyph of warding, except that an elder blast glyph deals 1d8 points of damage per caster level (maximum of 30d8), and an elder spell glyph can store a spell of 9th level or lower.
+Material Component: You trace the elder glyph with incense, which first must be sprinkled with powdered diamond worth at least 1,000 gp.
+   

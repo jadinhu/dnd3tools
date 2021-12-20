@@ -1,0 +1,20 @@
+<b>Fires of Purity</b>(Oriental Adventures)
+
+Evocation [Fire]
+ <b>Level:</b>  Shugenja 6 (Fire),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The creature you touch bursts into magical flames that do not harm the target, but are quite capable of harming anyone else who comes into contact with them.
+The target deals an additional 1d6 points of fire damage with a successful melee attack.
+Creatures hitting the target with natural weapons or unarmed attacks take 1d6 points of fire damage, and must succeed at a Reflex save (the same DC as the spell) or catch fire.
+The flame burns for 1d4 rounds (see Catching on Fire in Chapter 3 of the <span class="caps">DUNGEON</span> MASTER's Guide).
+A burning creature can take a move-equivalent action to put out the flame.
+The target gains fire immunity for the duration of the spell, but takes double damage from cold except on a successful save.
+ <b>Also appears in</b>   Complete Divine     

@@ -1,0 +1,21 @@
+<b>Weapon Bless</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Shaman 1,  Sohei 1,   Fury 1,   
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> Permanent until discharged
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+You prepare one weapon for combat against a particular foe.
+While casting the spell, you write the identity of the foe on the weapon, along with spirit invocations to give the weapon power.
+Although you do not need to know the exact name of the intended victim, you must still identify the creature specifically.
+You cannot, for example, bless a weapon for use against &quot;a kappa&quot;, but you can bless it for use against &quot;the kappa who lives in Ch'i Sheng's pond&quot;.
+The first time the blessed weapon is used against the target creature, its wielder gains a +5 enhancement bonus on the first attack roll and a +5 bonus on damage if the first attack is successful.
+After the first attack, or if the weapon is used against another foe before it is used against the target creature, the writings on the blade disappear and the spell effect ends.
+Focus: A writing brush and ink.
+   

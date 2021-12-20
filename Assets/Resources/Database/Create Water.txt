@@ -1,0 +1,20 @@
+<b>Create Water</b>(Player's Handbook v.3.5, p. 215)
+
+Conjuration (Creation) [Water]
+ <b>Level:</b>  Cleric 0,  Druid 0,  Adept 0,  Healer 0,  Divine Bard 0,  Jester 0,  Urban Druid 0,  Paladin 1,   Creation 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Up to 2 gallons of water/level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell generates wholesome, drinkable water, just like clean rain water.
+Water can be created in an area as small as will actually contain the liquid, or in an area three times as large � ;
+possibly creating a downpour or filling many small receptacles.
+Note: Conjuration spells can't create substances or objects within a creature.
+Water weighs about 8 pounds per gallon.
+One cubic foot of water contains roughly 8 gallons and weighs about 60 pounds.
+   

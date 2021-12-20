@@ -1,0 +1,24 @@
+<b>Simbul's Spell Matrix</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Up to four of your spells
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+You prepare a magical matrix that allows you to store up to four spells of up to 3rd level that you can cast individually as free actions.
+You cast Simbul's spell matrix, and each round thereafter cast one of the spells to be stored in the matrix (the matrix closes after the fourth round and no more spells can be added, even if it is not full).
+Only spells that can be altered by the Quicken Spell feat can be placed in the matrix.
+Each spell placed in the matrix deals 1d6 points of damage to you, and this damage cannot be healed by any means while the matrix exists.
+While the matrix spell is active, you can cast any of the spells stored in it once as a free action.
+This counts as casting a quickened spell, so you cannot activate a matrix spell and cast a nonmatrix quickened spell in the same round.
+Once a spell is cast from the matrix, it is gone.
+Any spell in the matrix is treated as a prepared spell for dealing with effects that affect prepared spells.
+A dispel magic spell that successfully dispels the matrix dispels all the spells in the matrix.
+An antimagic field suspends the matrix but does not cause the first spell to fire (the matrix becomes active again when you are out of the antimagic field).
+If you die, all spells in the matrix dissipate harmlessly.
+Focus: A piece of amber with a minimum value of 500 gp.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

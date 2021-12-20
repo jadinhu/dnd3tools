@@ -1,0 +1,21 @@
+<b>Celebration</b>(Spell Compendium, p. 44)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> All creatures in a 15-ft.-radius burst
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a few slurred words and fumbling motions, you complete the spell and prepare to perform.</b>
+	
+You cause any creatures in the area to feel increasingly more intoxicated the longer you perform a drinking song. In the round this spell is cast, all creatures that fail their saving throws take a � ;2 penalty to Dexterity, Intelligence, and Wisdom.
+	
+If you use a standard action to continue performing in a second consecutive round, each affected creature must succeed on a second Will saving throw or become nauseated. Succeeding on this saving throw prevents the nausea, and the creature is immune to further effects of this spell.
+	
+If you use a standard action to continue performing in a third consecutive round, any affected creatures must succeed on a Will save or pass out, becoming unconscious and helpless.
+ <b>Also appears in</b>   Magic of Faerun     

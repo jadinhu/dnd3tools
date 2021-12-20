@@ -1,0 +1,19 @@
+<b>Holy Star</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Cleric 7 (Mystra),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Effect:</b> Protective star of energy
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+You create a glowing mote of energy that stays near your shoulder, providing light equal to a candle.
+It has three functions, and you can designate which function to activate as a free action on your turn.
+Spell Turning: The holy star can turn four to seven (1d4+3) spell levels as the spell turning spell.
+Any spell levels turned are gone for the remainder of the spell (the holy star does not recover these spent levels every time you choose this function).
+If all spell levels are expended, this function no longer works but the other functions do.
+Cover: The holy star gives you a +10 cover bonus to AC without affecting your actions.
+Fire Bolt: The holy star lashes out with a beam of energy as a ranged touch attack against a creature up to 90 feet away, dealing fire damage equal to 1d4 points +1 point per two caster levels (maximum +10).
+ <b>Also appears in</b>   Spell Compendium  Savage Species  Player's Guide to FaerÃ»n     

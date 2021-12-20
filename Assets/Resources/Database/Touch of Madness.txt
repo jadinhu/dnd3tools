@@ -1,0 +1,17 @@
+<b>Touch of Madness</b>(Complete Divine)
+
+Enchantment [Mind-Affecting]
+ <b>Level:</b>   Madness 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You may daze one living creature by making a successful touch attack.
+If the target creature does not make a successful Will save, its mind is clouded and it takes no action for 1 round per caster level.
+A dazed creature is not stunned (so attackers get no special advantage against it), but it can't move, cast spells, use mental abilities, and so on.
+ <b>Also appears in</b>   Defenders of the Faith: A Guidebook to Clerics and Paladins  Deities and Demigods  Lords of Madness     

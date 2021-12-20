@@ -1,0 +1,26 @@
+<b>Sphere of Ultimate Destruction</b>(Unapproachable East)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> 2-foot-radius sphere
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude partial (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You conjure a featureless black sphere of nothingness that disintegrates almost anything it touches.
+It flies at up to 30 feet per round and attacks the creature or object you indicate.
+You must succeed at a ranged touch attack to strike a creature with the sphere.
+The sphere stops moving for the round when you make an attack on a creature or object.
+You must actively direct the sphere on your action to move it to a new target; this requires a move-equivalent action on your part.
+The sphere winks out if it exceeds the spell's range.
+If the sphere ends its movement in a square occupied by a creature or object, the target must succeed at a Fortitude save or be subject to a disintegrate effect.
+If successful, the creature or object is only partially affected and takes 5d6 points of damage instead.
+If the sphere is directed to strike an object or part of an object, it disintegrates the 5-foot cube it occupies.
+The sphere may destroy one creature, object, or 5-foot cube of matter per round, provided it is directed to a suitable target.
+The sphere of ultimate destruction counts as a disintegrate spell for the purpose of destroying a wall of force (or any other spell or effect specifically affected by a disintegrate spell).
+Material Component: A pinch of dust from a disintegrated creature.
+ <b>Also appears in</b>   Complete Arcane     

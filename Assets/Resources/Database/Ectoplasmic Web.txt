@@ -1,0 +1,10 @@
+<b>Ectoplasmic Web</b>(Ghostwalk)
+
+Conjuration (Creation) [Ectomancy]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+
+ 	
+As web, except as noted below and that the strands are made of ectoplasm and therefore affect incorporeal creatures.
+Material Component: A bit of spider web and splinters from a sphere made of resin.
+   

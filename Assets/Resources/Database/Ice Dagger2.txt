@@ -1,0 +1,17 @@
+<b>Ice Dagger</b>(Spell Compendium, p. 118)
+
+Evocation [Cold]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Dagger of ice
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>The melted ice cupped in your palm crystallizes into a dagger-like shard of ice that then flies at your foe, exploding into a ball of icy fragments at its feet.</b>
+	
+The ice dagger created by this spell launches itself at a target. Treat the attack as a thrown splash weapon (PH 158) that requires a ranged touch attack to hit. The ice dagger deals 1d4 points of cold damage to the target per caster level (maximum 5d4), and splash damage of 1 point of cold damage to adjacent creatures.
+ <b>Material Component</b>: A few drops of water made from melted ice. <b>Also appears in</b>   Magic of Faerun     

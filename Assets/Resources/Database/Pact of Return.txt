@@ -1,0 +1,22 @@
+<b>Pact of Return</b>(Heroes of Horror)
+
+Necromancy
+ <b>Level:</b>  Cleric 7,   Spite 7,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level
+
+ 	
+This spell allows you to establish the conditions whereby you will be brought back to life upon your death.
+When you cast pact of return, you must state either a specific creature or a set of specific circumstances that you expect will be responsible for your death at some point within the spell's duration.
+If you name a creature, that creature does not have to deal the deathblow to trigger the release of the spell, but it must play an active part in your demise.
+If you name a set of circumstances, those circumstances must be reasonably specific or the spell will fail, leaving you well and truly dead.
+An acceptable set of circumstances would be, &quot;I expect energy draining to play a pivotal role in my demise&quot;, whereas an unacceptable set would be, &quot;I expect to die from loss of hit points&quot;.
+The DM decides whether the terms are acceptable.
+Whether the subject of your demise is a specific person or a specific source, you must die (that is, reach -10 hit points or lower) for the spell to take effect.
+If you do, and the circumstances of your demise are similar enough to those described when you cast the spell (DM's discretion), you are instantly resurrected (see page 272 of the Player's Handbook) with no level loss.
+You can have more than one pact of return active at the same time, each one to be triggered by a different foe or set of circumstances, but you must keep track of the total time that has elapsed for each.
+A pact of return that has not yet taken effect is still a magical effect (and a powerful necromantic one, at that), which can be dispelled by one who detects its presence.
+   

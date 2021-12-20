@@ -1,0 +1,20 @@
+<b>Miasma of Entropy</b>(Planar Handbook)
+
+Necromancy
+ <b>Level:</b>  Druid 6,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone-shaped burst, one solid object, or one organic construct
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (object) or Fortitude half; see text
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+Miasma of entropy causes accelerated decay in all wood, leather, and other natural materials in the spell's area.
+It destroys nonmagical objects of wood, leather, paper, and other formerly living organic matter.
+All such objects within the area rot into slimy, pulpy masses.
+Objects weighing more than 1 pound per caster level are not affected, but all other objects of the appropriate composition are ruined.
+Alternatively, you can target miasma of entropy against a single solid object of nonliving organic matter that weighs up to 10 pounds per caster level.
+When targeted against an animated object made of an organic material, miasma of entropy deals 1d6 points of damage per caster level (maximum 20d6), with a Fortitude save for half damage.
+ <b>Also appears in</b>   Spell Compendium     

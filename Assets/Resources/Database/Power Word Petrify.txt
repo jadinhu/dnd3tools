@@ -1,0 +1,17 @@
+<b>Power Word Petrify</b>(Races of the Dragon)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature with 100 hp or less
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With a mere word, you turn your target to stone.
+You utter a single word of power that instantly causes one creature of your choice to become petrified, whether the creature can hear the word or not.
+Any creature that currently has 101 or more hit points is unaffected by power word petrify.
+   

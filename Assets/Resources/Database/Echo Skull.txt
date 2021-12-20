@@ -1,0 +1,20 @@
+<b>Echo Skull</b>(Magic of Faerun)
+
+Divination
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Animal skull touched
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You can see, hear, and speak through a specific dried animal skull at any distance.
+As long as you and the skull remain on the same plane, you can see and hear as if you were standing where it is, and during your turn you can switch your perception from its location to your own or back again as a free action.
+If you desire, any spell you cast whose range is greater than touch (and which does not require a material component or focus) can originate from the skull instead of from you.
+If the skull is destroyed, the spell ends.
+Casting a spell through the skull costs 10 XP per spell level.
+Focus: A dried animal skull.
+ <b>Also appears in</b>   Spell Compendium     

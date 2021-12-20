@@ -1,0 +1,15 @@
+<b>Surefooted Stride</b>(Spell Compendium, p. 216)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+<b>You become as surefooted as any mountain goat, and the power of your magic makes walking in treacherous terrain child's play.</b>
+	
+You can move through difficult terrain (PH 163) at full speed for the duration of this spell, and you can even run, charge, and tumble through such terrain as though it were clear terrain. You also gain a +2 competence bonus on Climb checks.
+   

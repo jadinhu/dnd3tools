@@ -1,0 +1,18 @@
+<b>Unicorn Blood</b>(Complete Mage, p. 121)
+
+Transmutation [Good]
+ <b>Level:</b>  Druid 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D) or until expended
+
+ 	
+The power and purity of the unicorn surge through your veins.
+While this spell lasts, you gain immunity to poison and to compulsion and charm spells or effects.
+Once while the spell lasts, you can use a swift action to bestow temporary hit points equal to your caster level (maximum 15) to another willing creature you touch.
+This ends the duration of unicorn blood on you, though the temporary hit points last for the remainder of the original duration of the spell.
+You can't use this ability on yourself.
+If you are under the effect of this spell and the unicorn horn spell at the same time, you instead bestow temporary hit points equal to twice your caster level (maximum 30).
+   

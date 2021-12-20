@@ -1,0 +1,25 @@
+<b>Detect Aberration</b>(Lords of Madness)
+
+Divination
+ <b>Level:</b>  Cleric 2,  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Quarter circle emanating from the character to the extreme of the range
+ <b>Duration:</b> Concentration, up to 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can detect the presence of all aberrations in the area.
+The amount of information revealed depends on how long you study a particular area or subject: 1st Round: Presence or absence of aberrant life.
+2nd Round: Number of different aberrant auras and the strength of the strongest aura.
+If you detect overwhelming aberrant power with this spell, and the Hit Dice or level of the aura's source is at least twice your character level, you are stunned for 1 round and the spell ends.
+3rd Round: The strength and location of each aura.
+Aura Power: An aberrant aura's power depends on the type of creature you're detecting and its Hit Dice; see the accompanying table.
+If an aura falls into more than one power category, the spell indicates the stronger of the two.
+A humanoid with the Aberration Blood feat detects as Faint even if it has more than 3 Hit Dice.
+Length Aura Lingers: How long the aura lingers depends on its original strength:
+Each round, the character can turn to detect aberrant auras in a new area.
+The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
+   

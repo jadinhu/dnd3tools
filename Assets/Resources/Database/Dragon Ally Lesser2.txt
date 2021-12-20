@@ -1,0 +1,29 @@
+<b>Dragon Ally, Lesser</b>(Spell Compendium, p. 72)
+
+Conjuration (Calling)
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One called dragon of 15 HD or less
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You feel some of your lifeforce being pulled from you in the casting of the spell. A large dragon lands nearby. &quot;You wish to discuss something?&quot; it asks, eying your belongings.</b>
+	
+This spell calls a dragon. You can ask the dragon to perform one task in exchange for a payment from you. Tasks might range from the simple (fly us across the chasm, help us fight a battle) to the complex (spy on our enemies, protect us on our foray into the dungeon). You must be able to communicate with the dragon to bargain for its services.
+	
+The summoned dragon requires payment for its services, which takes the form of coins, gems, or other precious objects the dragon can add to its hoard. This payment must be made before the dragon agrees to perform any services. The bargaining takes at least 1 round so any actions by the creature begin in the round after it arrives.
+	
+Tasks requiring up to 1 minute per caster level require a payment of 50 gp per HD of the called dragon. For a task requiring up to 1 hour per caster level, the creature requires a payment of 250 fp per HD. Long-term tasks (those requiring up to 1 day per caster level) require a payment of 500 gp per HD).
+	
+Especially hazardous tasks require a greater gift, up to twice the given amount. A dragon never accepts less than the indicated amount, even for a nonhazardous task.
+	
+At the end of its task, or when the duration bargained for elapses, the creature returns to the place it was called from (after reporting back to you, if appropriate and possible).
+	
+<b>XP Cost:</b> 100 xp.
+	
+<b>Special:</b> Sorcerers cast this spell at +1 caster level.
+ <b>Also appears in</b>   Draconomicon     

@@ -1,0 +1,21 @@
+<b>Kelpstrand</b>(Spell Compendium, p. 128)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/3 levels, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You stretch out your hand and long strands of wet kelp streak out to envelop your foes.</b>
+	
+Make a ranged touch attack at each target. If you hit a creature, you immediately make an opposed grapple check against the creature as a free action without provoking attacks of opportunity. You add your caster level and your Wisdom bonus to the result of your grapple check rather than your Strength bonus and size bonus. If you succeed, the target becomes entangled in the thick strands of kelp and is grappled. Each round, the target can attempt to escape the kelpstrand by making a successful grapple or Escape Artist check against the kelpstrand's grapple check. You are not considered grappling yourself while using this spell. Once you shoot your strands of kelp, you need not take any action to maintain the effect.
+	
+A creature targeted with multiple kelpstrands has to make separate grapple or Escape Artist checks against each kelpstrand currently grappling it to escape. If you cast this spell while you are within 300 feet of the ocean shore, you gain a +4 bonus on any grapple checks made to determine the outcome of a kelpstrand grapple.
+	
+Material Component: A piece of dried seaweed.
+   

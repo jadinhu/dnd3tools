@@ -1,0 +1,23 @@
+<b>City Lights</b>(Races of Destiny)
+
+Evocation [Light]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,   City 2,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You temporarily absorb all nearby artificial light and release it as a flare.
+Any artificial light (including magical and mundane sources) flickers out momentarily, then a burst of light flares from you.
+All creatures within the area (except you) are blinded for 1 round if they fail a Fortitude save; regardless of the saving throws success, all creatures in the area are dazzled for 1 minute.
+Afterward, the lights return to normal.
+Sightless creatures are unaffected.
+The spell only functions if at least four active artificial light sources (torches, lanterns, light spells, and so forth) are within 60 feet of the caster.
+The spell's name refers to its most common use (in well-lit city streets), but it can function in any area with sufficient lighting.
+City lights counters or dispels any darkness spell of equal or lower level, such as darkness.
+Material Component: A pinch of tinder.
+   

@@ -1,0 +1,17 @@
+<b>Disrupt Undead, Greater</b>(Spell Compendium, p. 68)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A black ray fires from your outstretched hand, piercing and passing through nearby undead.</b>
+	
+You must succeed on a ranged touch attack with the ray to strike a target. This spell functions like <b>disrupt undead</b> (<b>PH</b> 223), except that this ray deals 1d8 points of damage per caster level to any undead, to a maximum of 10d8. If the damage is sufficient to destroy the first target, then you can redirect the ray to another undead target within 15 feet of the first target. If you make a successful ranged touch attack on the second target, that target takes half of he damage rolled for the first target.
+   

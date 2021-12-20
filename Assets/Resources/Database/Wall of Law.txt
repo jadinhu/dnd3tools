@@ -1,0 +1,9 @@
+<b>Wall of Law</b>(Magic of Faerun)
+
+Abjuration [Chaotic]
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>
+
+ 	
+As wall of good, except that it is similar to magic circle against chaos instead of magic circle against evil.
+ <b>Also appears in</b>   Spell Compendium     

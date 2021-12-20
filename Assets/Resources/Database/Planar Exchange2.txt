@@ -1,0 +1,15 @@
+<b>Planar Exchange</b>(Spell Compendium, p. 159)
+
+Conjuration (Calling) [see text for lesser planar exchange]
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> One called creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>lesser planar exchange</b>, except as noted here. You trade places with an avora guardinal (MM 141), bone devil (MM 52), or babau demon (MM 40). The called creature has full access to all its abilities, with one exception: A demon or devil you conjure can't summon other creatures. If the creature is slain, you take 3d6 points of damage and the spell ends.
+ <b>Also appears in</b>   Planar Handbook     

@@ -1,0 +1,21 @@
+<b>Deadly Sunstroke</b>(Complete Mage)
+
+Evocation [Light]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,  Wu Jen 9 (fire),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One creature/level, no two of which are more than 60 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Beams of desiccating heat lance into your foes, scorching their flesh and draining their vitality.
+This spell creates waves of overwhelming heat that deal 1d6 points of fire damage per caster level, maximum 25d6.
+Undead and plants take +50% damage.
+Any living creature damaged by this spell becomes fatigued.
+A successful Fortitude save halves the damage and negates the fatigue.
+If you cast this spell in any locale where the temperature exceeds 90 degrees Fahrenheit, the spell instead deals 1d8 points of fire damage per caster level (maximum 25d8) and makes living creatures exhausted.
+A successful Fortitude save halves the damage and negates the exhaustion.
+   

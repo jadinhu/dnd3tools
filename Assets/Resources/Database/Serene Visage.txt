@@ -1,0 +1,15 @@
+<b>Serene Visage</b>(Spell Compendium, p. 182)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+<b>By casting this spell, you imbue yourself with an ephemeral quality that induces others to trust what you say.</b>
+	
+Simple illusions aid your attempts to be persuasive. You gain an insight bonus equal to one-half your caster level (maximum +10) on Bluff checks.
+   

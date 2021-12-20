@@ -1,0 +1,23 @@
+<b>Crown of Veils</b>(Player's Handbook II)
+
+Illusion (Figment)
+ <b>Level:</b>  Bard 2,  Beguiler 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level (D) or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+A shimmering halo of energy surrounds the target's head like a crown.
+It flashes a spectrum of colors before fading away.
+This spell creates a magic crown infused with illusion magic.
+The spell's recipient gains a +2 competence bonus on Disguise and Hide checks.
+As an immediate action, the creature wearing the crown of veils can discharge its magic to gain a +8 competence bonus on a single Disguise or Hide check.
+The spell ends after the wearer uses the crown in this manner.
+The crown occupies space on the body as a headband, hat, or helm.
+If the crown is removed, the spell immediately ends.
+Focus: A brass hoop 6 inches in diameter.
+   

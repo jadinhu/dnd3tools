@@ -1,0 +1,17 @@
+<b>Create Greater Deathless</b>(Eberron Campaign Setting, p. 110)
+
+Necromancy [Good]
+ <b>Level:</b>   Deathless 8,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels) 
+ <b>Target:</b> One corpse 
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+As <b>Create deathless</b>, except that this spell allows you to create an undying councilor, a more powerful and intelligent deathless creature. 
+	
+Your campaign may include additional types of deathless creatures. Your DM will inform you if you can create different creatures with this spell. (For example, if you are using <b>Book of Exalted Deeds</b>, a character can create a crypt warden or a sacred guardian using this spell.) No spell can create an ascendant councilor.
+   

@@ -1,0 +1,19 @@
+<b>Blade of Pain and Fear</b>(Libris Mortis: The Book of the Dead)
+
+Evocation
+ <b>Level:</b>  Blackguard 1,  Assassin 2,  Cleric 2,  Sorcerer 2,  Wizard 2,   Deathbound 2,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Swordlike column of gnashing teeth
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A 3-foot-long column of disembodied gnashing teeth springs forth from your hand, screaming and chanting with unholy vigor.
+You make melee touch attacks with this blade of pain and fear.
+The blade deals 1d6 points of damage +1 point per two caster levels (maximum +10).
+Your Strength modifier does not apply to the damage.
+A creature that you successfully deal damage to must also make a saving throw or become frightened.
+   

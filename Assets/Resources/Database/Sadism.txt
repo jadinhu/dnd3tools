@@ -1,0 +1,16 @@
+<b>Sadism</b>(Book of Vile Darkness)
+
+Enchantment [Evil]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Assassin 3,  Blackguard 3,  Cleric 3,   Pain 2,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 round/level
+
+ 	
+For every 10 points of damage the caster deals in a given round while under the effect of this spell, she gains a +1 luck bonus on attack rolls, saving throws, and skill checks in the next round.
+The more damage the caster deals, the greater the luck bonus.
+It's possible to get a luck bonus for multiple rounds if she deals damage in more than one round during the spell's duration.
+Material Component: A leather strap that has been soaked in human blood.
+   

@@ -1,0 +1,9 @@
+<b>Energy Surge, Greater</b>(Player's Handbook II)
+
+Transmutation [see text for lesser energy surge]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>
+
+ 	
+This spell functions like lesser energy surge, except that the attack deals an extra 3d6 points of energy damage.
+   

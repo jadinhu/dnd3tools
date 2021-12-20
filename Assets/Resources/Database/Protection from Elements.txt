@@ -1,0 +1,13 @@
+<b>Protection from Elements</b>(Player's Handbook 3.0)
+
+Abjuration
+ <b>Level:</b>  Ranger 2,  Cleric 3,  Druid 3,  Sorcerer 3,  Wizard 3,  Blighter 3,   Luck 3,  Protection 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Duration:</b> 10 minutes/level or until discharged
+
+ 	
+As endure elements, but protection from elements grants temporary invulnerability to the selected energy type. When the spell absorbs 12 points per caster level of elemental damage, it is discharged.
+	
+Note: Protection from elements overlaps (and does not stack with) resist elements and endure elements. If a character is warded by protection from elements and one or both of the other spells, the protection spell absorbs damage until it is exhausted. If a character is warded by resist elements and endure elements at the same time, the resist spell absorbs damage but the endure spell does not.
+   

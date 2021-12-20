@@ -1,0 +1,18 @@
+<b>Impotent Possessor</b>(Book of Vile Darkness)
+
+Abjuration
+ <b>Level:</b>  Demonologist 4,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One possessing creature
+ <b>Duration:</b> Permanent (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster renders one creature that can possess or inhabit other creatures, or a creature that can move its mind out of its body, powerless within the host it currently inhabits.
+Potential targets include possessing demons, malevolent ghosts, and a caster currently using a magic jar spell.
+The only action the subject can take is to leave the body it currently inhabits.
+This spell, in conjunction with imprison possessor, is one of the best ways to deal with a possessing fiend.
+   

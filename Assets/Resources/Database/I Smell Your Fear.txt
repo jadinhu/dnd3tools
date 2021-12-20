@@ -1,0 +1,11 @@
+<b>I Smell Your Fear</b>(Ghostwalk)
+
+Divination
+ <b>Level:</b>  Ranger 4,    
+<b>Components:</b>
+ <b>Duration:</b> 1 hour/level
+
+ 	
+As locate creature, except as noted above and below.
+Material Component: A sample of the target's flesh, blood, hair, ectoplasm, or some other physical part.
+   

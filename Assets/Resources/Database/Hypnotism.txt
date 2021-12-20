@@ -1,0 +1,19 @@
+<b>Hypnotism</b>(Player's Handbook v.3.5, p. 242)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,  Beguiler 1,  Jester 1,  Sha'ir 1,   Pride 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Several living creatures, no two of which may be more than 30 ft. apart
+ <b>Duration:</b> 2d4 rounds (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your gestures and droning incantation fascinate nearby creatures, causing them to stop and stare blankly at you. In addition, you can use their rapt attention to make your suggestions and requests seem more plausible. Roll 2d4 to see how many total Hit Dice of creatures you affect. Creatures with fewer HD are affected before creatures with more HD. Only creatures that can see or hear you are affected, but they do not need to understand you to be fascinated.
+	
+If you use this spell in combat, each target gains a +2 bonus on its saving throw. If the spell affects only a single creature not in combat at the time, the saving throw has a penalty of -2.
+	
+While the subject is fascinated by this spell, it reacts as though it were two steps more friendly in attitude (see Influencing <span class="caps">NPC</span> Attitudes, page 72). This allows you to make a single request of the affected creature (provided you can communicate with it). The request must be brief and reasonable. Even after the spell ends, the creature retains its new attitude toward you, but only with respect to that particular request. A creature that fails its saving throw does not remember that you enspelled it.
+   

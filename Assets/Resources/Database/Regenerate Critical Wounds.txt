@@ -1,0 +1,9 @@
+<b>Regenerate Critical Wounds</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Conjuration (Healing)
+ <b>Level:</b>  Druid 5,  Cleric 6,    
+<b>Components:</b>
+
+ 	
+This spell is the same as regenerate light wounds, except that it grants fast healing at the rate of 4 hit points per round.
+   

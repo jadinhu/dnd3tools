@@ -1,0 +1,17 @@
+<b>Nightmare Lullaby</b>(Spell Compendium, p. 147)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your music calms your foe, sending it to sleep while it remains upright. As you perform, it starts to twitch and moan, as if tormented by unseen fears.</b>
+	
+This spell can put a target into a surreal, sleepwalking state. The target must make a Will saving throw or become confused, thinking it has entered a nightmare.
+ <b>Also appears in</b>   Ghostwalk  Magic of Faerun     

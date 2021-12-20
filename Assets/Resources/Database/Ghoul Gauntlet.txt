@@ -1,0 +1,25 @@
+<b>Ghoul Gauntlet</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy [Death, Evil]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,   Hunger 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your touch gradually transforms a living victim into a ravening, flesh-eating ghoul.
+The transformation process begins at the limb or extremity (usually the hand or arm) touched.
+The victim takes 3d6 points of damage per round while the body slowly dies as it is transformed into a ghoul's cold, undying flesh.
+When the victim reaches 0 hit points, she becomes a ghoul, body and mind.
+If the victim fails her initial saving throw, cure disease, dispel magic, heal, limited wish, miracle,Mordenkainen's disjunction,
+remove curse, wish, or greater restoration negates the gradual change.
+Healing spells may temporarily prolong the process by increasing the victim's hit points, but the transformation continues unabated.
+The ghoul that you create remains under your control indefinitely.
+No matter howmany ghouls you generate with this spell, however, you can control only 2 HD worth of undead creatures per caster level (this includes undead from all sources under your control).
+If you exceed this number, all the newly created creatures fall under your control, and any excess undead from previous castings become uncontrolled (you choose which creatures are released).
+If you are a cleric, any undead you might command by virtue of your power to command or rebuke undead do not count toward the limit.
+ <b>Also appears in</b>   Spell Compendium     

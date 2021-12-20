@@ -1,0 +1,14 @@
+<b>Drain Vitality</b>(Tome of Battle: The Book of Nine Swords, p. 77)
+
+Shadow Hand (Strike)
+ <b>Level:</b>  Swordsage 2 (One Shadow Hand maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> Fortitude negates
+
+ 	
+<b>A faint nimbus of sickly gray shadow surrounds your weapon. When you attack, this shadowy aura flows into the wound you inflict, sapping your opponent?s strength, vitality, and energy.</b>
+	
+As part of this maneuver, make a single melee attack. If this attack hits, you deal normal melee damage and the target must make a successful Fortitude save (DC 12 + your Wis modifier) or take 2 points of Constitution damage. A successful save negates the Constitution damage but not the normal melee damage.</p   

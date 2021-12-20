@@ -1,0 +1,21 @@
+<b>Sinsabur's Baleful Bolt</b>(Unapproachable East)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 5 feet wide to medium range
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You conjure a black bolt of dark energy that begins at your fingertips and crackles out to the maximum range.
+The bolt deals temporary Constitution damage and temporary Strength damage to each creature within its area, each equal to 1d3 points +1 per 4 caster levels (maximum 1d3+3).
+Lost ability score points are recovered normally at the rate of 1 point per day.
+Constitution loss also causes a reduction in hit points by lowering the victim's Constitution modifier.
+(Creatures cannot be reduced to less than 1 hit point per Hit Die by Constitution loss).
+This hit-point loss may be fatal to a creature already injured, even if the Constitution loss alone does not kill it.
+Creatures without Strength scores or Constitution scores are unaffected by this spell.
+   

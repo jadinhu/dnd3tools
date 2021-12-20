@@ -1,0 +1,17 @@
+<b>Beast Claws</b>(Complete Divine)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Cleric 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Beast claws changes your hands and fingers, giving you long, curving claws and heavy knuckles.
+These claws act as slashing melee weapons, inflicting 1d6 damage plus any magical or normal bonuses such as from Strength, with a threat range of 19-20.
+Attacks with your transformed hands do not provoke an attack of opportunity.
+The claws do not hinder your manual dexterity or spellcasting.
+Material Component: The claw of a bird of prey, such as an eagle or falcon.
+ <b>Also appears in</b>   Spell Compendium  Defenders of the Faith: A Guidebook to Clerics and Paladins     

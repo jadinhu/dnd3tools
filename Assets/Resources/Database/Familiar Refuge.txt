@@ -1,0 +1,17 @@
+<b>Familiar Refuge</b>(Complete Mage)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Unlimited
+ <b>Target:</b> You or your familiar
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You feel the bond between yourself and your familiar strengthen, and then the animal stands before you.
+You instantly transport yourself to your familiar, or your familiar to you, as greater teleport.
+You can't bring any other living creatures with you.
+   

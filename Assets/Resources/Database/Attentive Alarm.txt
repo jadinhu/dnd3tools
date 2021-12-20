@@ -1,0 +1,11 @@
+<b>Attentive Alarm</b>(Complete Mage)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>
+
+ 	
+Your mind seems to expand as a mystical sixth sense begins observing the target area.
+This spell functions like alarm, except that you immediately know the type and number of creatures that triggered the spell.
+This effect applies only to creatures that cross the boundary during the round in which the spell is triggered; creatures that come afterward are not automatically detected.
+   

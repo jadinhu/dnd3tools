@@ -1,0 +1,21 @@
+<b>Capricious Zephyr</b>(Spell Compendium, p. 43)
+
+Evocation [Air]
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> 5-ft.-diameter sphere
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None or Reflex partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Blowing on your twirling hand, you complete the spell, creating a roiling ball of dust and gale-force winds.</b>
+	
+A ball of swirling wind and dust moves as you direct it, pushing your foes across the battlefield. From its starting point, a <b>capricious zephyr</b> moves 30 feet per round in the direction you point, regardless of the presence or absence of terrain.
+	
+If the sphere enters a space with a creature, it stops moving for that round and tries to bowl over the creature with its wind force. That creature must resist a bull rush attack from the capricious zephyr, which has a +6 bonus on the check. If the spell wins the bull rush, it pushes the creature as far as it can in a random direction (roll 1d8; 1 indicates a push into the square closest to you, and 2 through 8 indicate the other squares, moving clockwise around the creature). Any creature pushed by the sphere must succeed on a Reflex save or fall prone.
+	
+A <b>capricious zephyr</b> moves as long as you actively direct it (a move action for you). Otherwise, it merely stays at rest and attempts to bowl over anyone in its square. The spell ends if the distance between the sphere and you ever exceeds the spell's range.
+   

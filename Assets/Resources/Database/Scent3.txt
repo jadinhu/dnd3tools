@@ -1,0 +1,19 @@
+<b>Scent</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Ranger 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You give the subject an enhanced sense of smell, equivalent to the scent ability of some monsters.
+This ability allows the creature to detect approaching enemies, sniff out hidden foes, and track by sense of smell.
+Creatures with the scent ability can identify familiar odors just as humans do familiar sights.
+For more details, see Scent in the introduction to the Monster Manual.
+Arcane Material Component: A sprinkle of mustard and pepper, and a drop of sweat.
+ <b>Also appears in</b>   Spell Compendium  Serpent Kingdoms  Complete Divine  Magic of Faerun     

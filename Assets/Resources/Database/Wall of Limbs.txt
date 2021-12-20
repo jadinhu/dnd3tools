@@ -1,0 +1,20 @@
+<b>Wall of Limbs</b>(Savage Species)
+
+Evocation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Wall of whirling limbs up to 20 ft. long/caster level, or a ring of whirling limbs with a radius of up to 5 ft./two caster levels, either form 20 ft. high
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Reflex half or Reflex negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+An immobile, vertical curtain of whirling limbs springs into existence.
+The limbs resemble your own forelimbs.
+Any creature passing through the wall takes 1d6 points of bludgeoning damage per caster level (maximum 15d6), with a Reflex save for half damage.
+If you evoke the wall so that it appears where creatures are, each creature takes damage as if passing through the wall.
+Each such creature can avoid the wall (ending up on the side of its choice) and thus take no damage by making a successful Reflex save.
+The wall of limbs provides one-half cover (+4 AC, +2 Reflex saves) against attacks made through it.
+ <b>Also appears in</b>   Spell Compendium     

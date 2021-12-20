@@ -1,0 +1,21 @@
+<b>Lively Step</b>(Spell Compendium, p. 133)
+
+Transmutation
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> 30-ft.-radius emanation centered on you
+ <b>Duration:</b> Up to 12 hours
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Beating a small drum and singing a marching tune, you exhort your allies to struggle on.</b>
+	
+Once you cast this spell, the speed of you and all allies within 30 feet of you increases by 10 feet.
+	
+You and other affected creatures can only benefit from this spell by refraining from taking any actions other than move actions. When one of the affected creatures takes any other kind of action, this spell ends.
+	
+Focus: A small drum.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

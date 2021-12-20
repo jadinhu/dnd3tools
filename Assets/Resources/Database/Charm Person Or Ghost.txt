@@ -1,0 +1,9 @@
+<b>Charm Person Or Ghost</b>(Ghostwalk)
+
+Enchantment (Charm) [Ectomancy, Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>
+
+ 	
+As charm person, except that it also affects ghosts.
+   

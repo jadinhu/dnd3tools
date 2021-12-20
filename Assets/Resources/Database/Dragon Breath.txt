@@ -1,0 +1,17 @@
+<b>Dragon Breath</b>(Complete Divine)
+
+Evocation [Good or Evil]
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You gain the ability to breathe a gout of energy that mimics a dragon's breath as a standard action.
+Once you've used the breath attack, you must wait 1d4 rounds before doing so again.
+When you cast dragon breath, you choose one true dragon whose breath you're emulating.
+If you choose a chromatic dragon, then dragon breath gains the evil descriptor.
+If you choose a metallic dragon, then dragon breath gains the good descriptor.
+ <b>Also appears in</b>   Draconomicon  Spell Compendium     

@@ -1,0 +1,17 @@
+<b>Locate City</b>(Races of Destiny)
+
+Divination
+ <b>Level:</b>  Bard 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 10 miles/level
+ <b>Area:</b> 10 miles/level radius circle, centered on you
+ <b>Duration:</b> Instantaneous
+
+ 	
+You sense the distance and direction to the nearest community of a minimum size designated by you at the time of casting.
+For instance, you could choose to find the nearest community at least as large as a village, or you could choose to locate only the nearest metropolis.
+This spell measures the distance to the &quot;nearest&quot;
+community as the minimum distance one would have to travel to reach the city without moving through solid objects.
+Thus, a caster on the surface isn't likely to locate a subterranean city half a mile beneath his feet, even if the next closest community is 5 miles away overland.
+   

@@ -1,0 +1,16 @@
+<b>Leading the Charge</b>(Tome of Battle: The Book of Nine Swords, p. 92)
+
+White Raven (Stance)
+ <b>Level:</b>  Crusader 1,  Warblade 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft.-radius burst centered on you
+ <b>Duration:</b> Stance
+
+ 	
+<b>You fire the confidence and martial spirit of your allies, giving them the energy and bravery needed to make a devastating charge against your enemies.</b>
+	
+The White Raven discipline teaches that tactics, leadership, and planning can overcome an opponent?s superior individual abilities. This stance embodies that teaching, allowing you to spur your allies on to greater feats of martial skill.
+	
+While you are in this stance, all allies who hear you and make a charge attack in the area gain a bonus on damage rolls equal to your initiator level.</p   

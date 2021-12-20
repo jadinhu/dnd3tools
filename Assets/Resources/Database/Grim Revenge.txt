@@ -1,0 +1,20 @@
+<b>Grim Revenge</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, Undead
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living humanoid
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The hand of the subject tears itself away from one of his arms, leaving a bloody stump.
+This trauma deals 6d6 points of damage.
+Then the hand, animated and floating in the air, begins to attack the subject.
+The hand attacks as if it were a wight (see the Monster Manual) in terms of its statistics, special attacks, and special qualities, except that it is considered Tiny and gains a +4 bonus to AC and a +4 bonus on attack rolls.
+The hand can be turned or rebuked as a wight.
+If the hand is defeated, only a regenerate spell can restore the victim to normal.
+   

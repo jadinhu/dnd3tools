@@ -1,0 +1,11 @@
+<b>Curse of Petty Failing, Legion's</b>(Miniatures Handbook)
+
+Necromancy
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Enemy creatures in a 20-ft.-radius burst
+
+ 	
+This spell functions like curse of petty failing, except that it affects multiple enemies out to medium range.
+   

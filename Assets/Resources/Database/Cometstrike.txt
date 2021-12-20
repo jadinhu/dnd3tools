@@ -1,0 +1,20 @@
+<b>Cometstrike</b>(Frostburn)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Three different creatures or objects
+ <b>Duration:</b> 3 rounds
+ <b>Saving Throw:</b> Reflex partial
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell may only be cast in an outdoor area; it fails if cast indoors or underground.
+When you cast this spell, you cause three frozen comets to strike down upon any three different creatures or objects in range.
+You must make a ranged touch attack to hit each target.
+Each target struck takes 3d6 points of bludgeoning damage and 1d4 points of cold damage per level (maximum 10d4), and is stunned for one round.
+A successful Reflex save negates the bludgeoning damage and the stunning effects, but not the cold damage.
+Each round the spell persists, another three frozen comets rain down upon the original three targets; as a standard action you can select new targets for one, two, or all three comets.
+   

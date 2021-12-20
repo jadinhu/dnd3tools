@@ -1,0 +1,14 @@
+<b>Desert Tempest</b>(Tome of Battle: The Book of Nine Swords, p. 52)
+
+Desert Wind (Strike)
+ <b>Level:</b>  Swordsage 6 (Two Desert Wind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>You move in a blur, leaving scorch marks in your wake as you twirl around the battlefield, slicing into your foes as you move.</b> 
+	
+As part of this maneuver, you move up to your speed. Each time you exit a square adjacent to an enemy, you can first make a single melee attack against that foe. You cannot attack a single enemy more than once with this maneuver. Your movement provokes attacks of opportunity, as normal.
+   

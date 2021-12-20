@@ -1,0 +1,30 @@
+<b>Laeral's Crowning Touch</b>(City of Splendors: Waterdeep)
+
+Necromancy
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, AF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One spellcaster
+ <b>Duration:</b> 1 year and 1 day
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You place a curse on the subject.
+Mystra's symbol appears drawn in silver on each palm (or on the chest and forehead of beings lacking palms) as a glowing brand equal that sheds light as a candle.
+A creature that can cast arcane spells, such as a sorcerer or wizard, takes a -4 penalty on its saving throw.
+Any time the target casts a spell, he gains a number of negative levels equal to the level of the spell being cast.
+(The spell he just cast functions normally at the caster level he possessed before he received the negative levels for casting that spell).
+This effect is cumulative and lasts as long as the crowning touch lasts.
+There is no saving throw to avoid gaining the negative levels, but 24 hours after gaining each negative level, the subject must make a Fortitude saving throw (DC = crowning touch's spell save) for each negative level.
+If the save succeeds, that negative level is removed.
+With each spell use, streaks of silver appear in the hair of the target, until the transgressor's hair is all silver (which happens when the character's level reaches 1st).
+The curse bestowed by this spell cannot be dispelled, but it can be removed with a wish spell or a successful break enchantment spell (caster level check DC 15 + caster level of the crowning touch).
+After the curse is lifted, all the effects (except permanent level loss) go away.
+This spell was developed for use only against beings who misuse the sort of magic Mystra has dominion over.
+The Lady of Mysteries does not look kindly on mages who hurl deadly magic at every spellcaster who insults them.
+Mystra has been known to shorten the effects on the truly repentant and the undeserving, if they pray to her for forgiveness and obtain an atonement spell.
+Focus: A prism worth at least 1,000 gp.
+XP Cost: 1,000 XP (reduced to 500 XP if cast by a character with Mystra's special blessing, such as one of the Chosen of Mystra or the Magister).
+   

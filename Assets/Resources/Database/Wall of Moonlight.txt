@@ -1,0 +1,23 @@
+<b>Wall of Moonlight</b>(Player's Guide to FaerÃ»n)
+
+Evocation [Good, Light]
+ <b>Level:</b>   Initiate of selÃ»ne 4,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Vertical plane with an area up to one 5-ft. square/level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+An immobile, shimmering tapestry of swirling, pearl-white light springs into existence.
+This wall need not be anchored to any surface, and creatures can readily pass through it.
+Any undead creature that comes into contact with the wall takes 4d12 points of damage.
+A creature of evil alignment, or any creature carrying the holy symbol of Shar or Umberlee, takes 2d10 points of damage.
+Magic items that come into contact with the wall glow with a red faerie fire effect for 1d4+1 rounds.
+The wall sheds bright light for 20 feet in all directions and creates shadowy illumination in a 40-foot radius.
+The wall of moonlight counters and dispels any darkness spell of 4th level or lower within 40 feet of any part of it.
+If you evoke the wall so that it appears in a spot occupied by creatures, each creature takes damage as if passing through the wall.
+Wall of moonlight can be made permanent with a permanency spell by a caster of at least 12th level at a cost of 2,000 XP.
+   

@@ -1,0 +1,23 @@
+<b>Sticky Floor</b>(Races of the Dragon)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 10-ft.-by-10-ft. square
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Reflex partial
+ <b>Spell Resistance:</b> No
+
+ 	
+For an instant, a translucent sheen that only you can see falls across the area you designate.
+Creatures that are within or that enter the area of a sticky floor spell are immediately stuck in place and entangled.
+A successful Reflex save means the creature can move from its space but is still considered entangled as long as it remains in the area.
+A creature stuck in place can break loose by using a standard action to make a DC 15 Strength check or Escape Artist check.
+Each round at the beginning of your turn, any creature within the area must succeed on another Reflex save to avoid becoming stuck in place again.
+The effect of this spell even extends through footwear, so merely removing your boots doesn't free you from the effect.
+Creatures not in contact with the surface of the ground (such as flying, burrowing or incorporeal creatures) are unaffected by sticky floor.
+Kobold sorcerers often use this spell to protect their lairs, and some theorize that they learned it from dragons.
+Material Component: A drop of hardened tree sap, which must be eaten by the caster.
+   

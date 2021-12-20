@@ -1,0 +1,20 @@
+<b>Armored Vermin</b>(Drow of the Underdark)
+
+Transmutation
+ <b>Level:</b>  Cleric 4,  Druid 4,    
+<b>Components:</b>V, S, DF, Drow
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to three vermin, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The vermin you select pause for a moment as their exoskeletons take on a metallic sheen.
+You cause the exoskeletons of up to three vermin to harden to the strength of steel.
+The spell increases the vermin's natural armor bonus by 2.
+This bonus increases by 1 for every three caster levels above 7th, to a maximum of +6 at caster level 19th.
+The enhancement bonus provided by armored vermin stacks with the target's natural armor bonus, but not with other enhancement bonuses to natural armor.
+A vermin with no natural armor has an effective natural armor bonus of +0.
+   

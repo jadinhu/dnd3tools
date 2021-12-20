@@ -1,0 +1,21 @@
+<b>Claws of Darkness</b>(Spell Compendium, p. 47)
+
+Illusion (Shadow)
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes; see text
+
+ 	
+<b>You draw material from the Plane of Shadow to cause your hands and forearms to elongate and change shape into featureless claws of inky blackness.</b>
+	
+When you cast this spell, your hands become shadowy claws. Starting on your next action, you can use the claws to make unarmed attacks as if they were natural weapons. (You attack with one claw and can use the other claw for an off-hand attack. If you have multiple attacks, you use them normally when attacking with the claws.) Attacks with the claws are melee touch attacks. Each claw deals 1d8 points of cold damage. If you grapple an opponent, you deal claw damage with each successful grapple check, and the grappled target is under the effect of a <b>slow</b> spell for as long as you maintain the grapple. An opponent that makes a successful Fortitude save is not <b>slowed</b>, and it cannot be <b>slowed</b> by this casting of <b>claws of darkness</b>.
+	
+You can extend the claws up to 6 feet, which gives you a natural reach of 10 feet, or retract them as a free action.
+	
+When the spell is in effect, you cannot cast spells with components other than verbal ones, nor can you carry items with your hands. Any magic items worn on your hands are temporarily absorbed and cease functioning while the spell is active.
+   

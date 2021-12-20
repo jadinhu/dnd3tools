@@ -1,0 +1,18 @@
+<b>Augment Truefriend</b>(Tome of Magic)
+
+Transmutation
+ <b>Level:</b>  Bard 2,  Cleric 2,  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, <abbr title="True Name">TN, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Target:</b> Creature Touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>With a red flash, your named ally looks slightly more muscular and heavily built. He seems to quiver with anticipation of coming action.</b>
+	
+The spell grants the subject a +2 enhancement bonus to Strength, Dexterity, and Constitution. All the usual benefits to better modifiers apply: attack rolls, melee damage rolls, hit points, and so on. 
+	
+Truename Component: When you cast this spell, you must correctly speak the personal truename of the creature you're augmenting.
+   

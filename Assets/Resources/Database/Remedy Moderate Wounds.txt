@@ -1,0 +1,20 @@
+<b>Remedy Moderate Wounds</b>(Magic of Faerun)
+
+Conjuration (Healing)
+ <b>Level:</b>  Druid 2,  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 10 rounds +1 round/2 levels
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+When laying your hand upon a living creature, you boost its life energy to grant it the fast healing ability.
+The target heals 2 hit points per round until the duration expires.
+This spell does not restore hit points lost from starvation, thirst, or suffocation, and it does not allow a creature to regrow or attach lost body parts.
+The effect of the spell automatically stabilizes a dying character.
+The effects of multiple remedy spells do not stack; only the highest-level effect applies.
+Applying a second remedy spell of equal level extends the spell's duration.
+   

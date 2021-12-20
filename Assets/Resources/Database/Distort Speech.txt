@@ -1,0 +1,17 @@
+<b>Distort Speech</b>(Complete Adventurer)
+
+Transmutation [Sonic]
+ <b>Level:</b>  Bard 1,  Vigilante 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You distort a creature's vocalizations.
+The voice of the subject becomes warped and nearly incomprehensible.
+For the duration of this spell, the subject has a 50% chance to miscast spells that have verbal components, and any time the subject speaks (including the use of magic items activated by command words), there is a 50% chance that the utterance is completely incomprehensible and therefore ineffective.
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun     

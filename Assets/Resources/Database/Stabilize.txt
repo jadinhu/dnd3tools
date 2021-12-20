@@ -1,0 +1,16 @@
+<b>Stabilize</b>(Spell Compendium, p. 204)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 2,  Paladin 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Area:</b> 50-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Filled with compassion and concern, you draw upon your deity's power. A burst of golden energy springs forth, spreading from you. Those still alive around you seem less bloody and in less pain.</b>
+	
+This spell, designed to work on the battlefield, allows you to stabilize the dying all around you. A burst of positive energy spreads out from you, healing 1 point of damage to all living creatures in the affected area, whether allied or not. This spell deals 1 point of damage to undead creatures, which are allowed a Will saving throw to negate the effect.
+   

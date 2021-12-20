@@ -1,0 +1,13 @@
+<b>Vanguard Strike</b>(Tome of Battle: The Book of Nine Swords, p. 62)
+
+Devoted Spirit (Strike)
+ <b>Level:</b>  Crusader 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You batter aside your foes defenses with a vicious, overwhelming attack, leaving him vulnerable to your allies? blows.</b>
+	
+As part of this maneuver, you make a melee attack against an opponent you threaten. If this attack hits, all your allies gain a +4 bonus on ranged and melee attacks against that target until the start of your next turn.</p   

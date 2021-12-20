@@ -1,0 +1,24 @@
+<b>Blockade</b>(Complete Scoundrel)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> 5-ft. cube of wood
+ <b>Duration:</b> 3 rounds
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> None
+
+ 	
+You drop a tiny wooden block before you.
+It rapidly begins growing and hits the ground with a heavy thud, now a perfect 5-foot cube of dense wood.
+You call a cube of solid wood, 5 feet on a side, into being.
+The cube must be created upon solid ground in an empty square.
+If no solid surface exists that is large enough for the cube to fit on, or if no adjacent square is empty, the spell fails.
+The cube weighs 2,000 pounds.
+It has a hardness of 5 and 600 hit points, and it completely fills one 5-foot square.
+Multiple cubes can be stacked.
+If it is pushed into water, the cube floats.
+Material Component: A block of wood, less than 3 inches on a side.
+   

@@ -1,0 +1,19 @@
+<b>Shieldbearer</b>(Spell Compendium, p. 188)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Shield touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>A feeling of protectiveness and guardianship fills you as you complete the spell. Touching the target shield, you point to the creature it is meant to protect and watch as the shield rises in the air and floats gently toward the indicated creature.</b>
+	
+A shieldbearer spell allows you to enchant one shield so that it hovers near and attempts to protect one creature of your choice. The spell's recipient is chosen at the time of casting and cannot be changed. The enchanted shield remains within 1 foot of the creature for the duration of the spell. The shield's subject is then granted a shield bonus to AC as if it was wearing the shield. The spell permits the enchanted shield's subject to use a two-handed weapon or a weapon in each hand and still benefit from the shield's effect.
+	
+Shield bonuses from multiple sources, including multiple castings of this spell, do not stack.
+   

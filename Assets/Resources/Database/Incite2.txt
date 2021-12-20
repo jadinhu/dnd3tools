@@ -1,0 +1,17 @@
+<b>Incite</b>(Spell Compendium)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 1,  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Creatures in a 10-ft. burst
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You cast this spell and your opponent is swallowed in a spiral of sparkling motes that urge your targets to act.</b>
+	
+Affected creatures are not allowed to delay or to ready an action. If a subject is currently delaying, it acts as soon as the spell is cast. If the subject currently has an action readied, it loses that action.
+ <b>Also appears in</b>   Miniatures Handbook     

@@ -1,0 +1,21 @@
+<b>Shatter</b>(Player's Handbook v.3.5, p. 278)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 2, Blackguard 2,  Cleric 2,  Sorcerer 2,  Wizard 2,  Warmage 2,  Sha'ir 2,  Death Master 2,   Chaos 2,  Destruction 2,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 5-ft.-radius spread; or one solid object or one crystalline creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (object); Will negates (object) or Fortitude half; see text
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+Shatter creates a loud, ringing noise that breaks brittle, nonmagical objects; sunders a single solid, nonmagical object; or damages a crystalline creature.
+Used as an area attack, shatter destroys nonmagical objects of crystal, glass, ceramic, or porcelain, such as vials, bottles, flasks, jugs, windows, mirrors, and so forth.
+All such objects within a 5-foot radius of the point of origin are smashed into dozens of pieces by the spell.
+Objects weighing more than 1 pound per your level are not affected, but all other objects of the appropriate composition are shattered.
+Alternatively, you can target shatter against a single solid object, regardless of composition, weighing up to 10 pounds per caster level.
+Targeted against a crystalline creature (of any weight), shatter deals 1d6 points of sonic damage per caster level (maximum 10d6), with a Fortitude save for half damage.
+Arcane Material Component: A chip of mica.
+   

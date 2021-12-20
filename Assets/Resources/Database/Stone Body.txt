@@ -1,0 +1,17 @@
+<b>Stone Body</b>(Player's Guide to FaerÃ»n)
+
+Transmutation
+ <b>Level:</b>  Cleric 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level (D)
+
+ 	
+This spell functions like iron body, except as indicated here.
+You gain damage reduction 10/adamantine and a +4 enhancement bonus to Strength, but you take a -4 penalty to Dexterity (minimum Dexterity 1).
+You are vulnerable to all special attacks that affect stone golems.
+Your speed is reduced to one-half normal, and your weight increases by a factor of three.
+Arcane Material Component: A small piece of stone that was once part of a stone golem, a greater earth elemental, or a castle's outer wall.
+ <b>Also appears in</b>   Spell Compendium  Savage Species  Races of Faerun     

@@ -1,0 +1,14 @@
+<b>Quickshift</b>(Book of Exalted Deeds)
+
+Transmutation [Good]
+ <b>Level:</b>  Cleric 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, Celestial
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+For the duration of this spell, the caster's teleport or greater teleport spell-like ability is quickened (as if enhanced with the Quicken Spell feat).
+This spell has no effect on other spells or spell-like abilities.
+   

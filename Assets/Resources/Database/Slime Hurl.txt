@@ -1,0 +1,19 @@
+<b>Slime Hurl</b>(Champions of Ruin)
+
+Conjuration (Creation)
+ <b>Level:</b>   Initiate of ghaunadaur 5,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Three globs of green slime
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You conjure and hurl three roughly spherical globs of dark green slime.
+You must succeed on a ranged touch attack to strike a target with a slime glob (roll separately for each glob, using your best ranged attack bonus).
+Any creature struck by a glob is coated in a patch of green slime (see Dungeon Master's Guide page 76) and begins to experience its effects immediately.
+You can hit a creature with multiple globs, each of which must be dealt with separately.
+The conjured green slime does not disappear automatically and must be destroyed in the normal way.
+   

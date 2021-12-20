@@ -1,0 +1,15 @@
+<b>Electric Orb</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>
+
+ 	
+As <b>acid orb</b>, except electric orb deals electricity damage.
+A creature struck directly takes the orb's damage, and the play of electricity leaves its metal accouterments magnetized for 1 round.
+A creature wearing metal armor is effectively entangled and suffers a -2 penalty to attack rolls and a -4 penalty to effective Dexterity.
+If the surfaces surrounding the creature are metallic, it cannot move.
+Otherwise, it moves at half speed and can't run or charge.
+If the creature attempts to cast a spell, it must make a Concentration check (DC 15) or lose the spell.
+A successful Fortitude save reduces damage by half and negates the magnetism.
+   

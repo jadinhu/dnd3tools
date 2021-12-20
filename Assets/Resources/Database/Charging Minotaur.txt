@@ -1,0 +1,15 @@
+<b>Charging Minotaur</b>(Tome of Battle: The Book of Nine Swords, p. 81)
+
+Stone Dragon (Strike)
+ <b>Level:</b>  Crusader 1,  Swordsage 1,  Warblade 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You charge at your foe, blasting him with such power that he stumbles back.</b>
+	
+As you roar across the battlefield, your position yourself to deliver a devastating charge attack. When you slam into an opponent, you crush him with concussive force and send him stumbling backward.
+	
+As part of this maneuver, you make a bull rush attack (PH 154) as part of a charge. Neither the movement nor the bull rush attack provokes attacks of opportunity. Resolve the bull rush attempt normally. If your Strength check exceeds the opponent?s result, you deal bludgeoning damage equal to 2d6 + your Str modifier in addition to pushing the target back as normal. Assuming your Strength check is high enough, you can push your target back more than 5 feet (as normal for a bull rush, but without having to follow).</p   

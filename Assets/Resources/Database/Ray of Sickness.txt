@@ -1,0 +1,17 @@
+<b>Ray of Sickness</b>(Spell Compendium, p. 167)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Holding your outstretched hand palm down, you fire a sickly green ray. Your hand feels cold and clammy for a few seconds after the ray flies forth.</b>
+	
+You must succeed on a ranged touch attack with the ray to strike a target. If your ranged touch attack hits, the subject becomes sickened.
+   

@@ -1,0 +1,15 @@
+<b>Scrying, Greater</b>(Player's Handbook v.3.5, p. 275)
+
+Divination (Scrying)
+ <b>Level:</b>  Bard 6,  Cleric 7,  Druid 7,  Sorcerer 7,  Wizard 7,  Wu Jen 7 (All),  Sha'ir 7,  Death Master 7,  Urban Druid 7,   Oracle 7,  Dream 7,  Planning 7,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> See text
+ <b>Effect:</b> Magical sensor
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell functions like <b>scrying</b>, except as noted above. Additionally, all of the following spells function reliably through the sensor: <b>detect chaos</b>, <b>detect evil</b>, <b>detect good</b>, <b>detect law</b>, <b>detect magic</b>, <b>message</b>, <b>read magic</b>, and <b>tongues</b>.
+   

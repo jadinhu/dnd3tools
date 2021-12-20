@@ -1,0 +1,23 @@
+<b>Remorseless Charm</b>(Champions of Ruin)
+
+Enchantment (Compulsion) [Evil, Mind-Affecting]
+ <b>Level:</b>  Bard 5,  Cleric 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft + 5ft./2 levels)
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell eliminates normal inhibitions and silences the subject's conscience.
+Under its effects, a good creature might commit acts of extraordinary evil without any feelings of remorse.
+For instance, a paladin who strives to never destroy a foe that has surrendered might decide that she's better off meting out justice immediately and killing the enemy.
+This spell affects the target's norms and expections; for example, once affected, a good-aligned target might be willing to attack his friends when urged to do so through a suggestion.
+This would not eliminate his need to atone, according to the tenets and punishments prescribed by his faith or law.
+The compulsion is permanent until broken by a break enchantment spell or similar magic, or until it is removed by the spellcaster.
+Material Component:One piece of masterwork artwork of at least 1,000 gp in value.
+The artwork must depict acts of debauchery or evil that are titillating and fascinating, not disturbing or revolting.
+The spell is cast upon the artwork, which is then revealed to the subject of the spell, triggering its effects.
+The enchantment on the artwork lasts for 1 day per spellcaster level, much like a symbol, until it is viewed and its magical effect is triggered.
+   

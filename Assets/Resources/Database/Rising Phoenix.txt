@@ -1,0 +1,20 @@
+<b>Rising Phoenix</b>(Tome of Battle: The Book of Nine Swords, p. 55)
+
+Desert Wind (Stance) [Fire]
+ <b>Level:</b>  Swordsage 8 (Three Desert Wind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>Hot wind swirls about your feet, lifting you skyward as flames begin to flicker below.</b>
+	
+A column of superheated air lifts you into the air. While you are in this stance, you can hover up to 10 feet above any solid or liquid surface. You gain a fly speed equal to your land speed, with perfect maneuverability, but you must remain within 10 feet of the ground when you fly.
+	
+If you hover in place and make a full attack, the column of air becomes superheated, dealing 3d6 points of fire damage to creatures adjacent to or within the column, including creatures adjacent to your square. You are not harmed by this effect.
+	
+You can move across shallow pits or other such variations in terrain without losing altitude, so long as your movement wouldn?t take you more than 10 feet above a solid or liquid surface. If you are ever more than 10 feet above the ground (such as if the floor drops out from under you or you move over the edge of a tall cliff), the rising phoenix stance immediately ends and you fall to the ground.
+	
+This stance is a supernatural ability.</p   

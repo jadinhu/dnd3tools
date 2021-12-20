@@ -1,0 +1,20 @@
+<b>Cloud Chariot</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 8 (Water),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal and touch
+ <b>Target:</b> You and one other Medium-size or smaller willing creatures/four levels
+ <b>Duration:</b> 10 minutes (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell allows you to soar on a magic chariot formed of cloud.
+When you cast the spell, you and any willing allies you are touching lift into the air on a small cloud and then fly away in whatever direction you desire.
+You fly at the incredible speed of 10 miles per minute, so that over the spell's duration you can cover a distance of 100 miles.
+You and your passengers feel none of the effects of this swift movement, and the ride is perfectly steady and calm � ;even in the worst weather.
+At the end of the spell, the cloud settles gently to the ground and disappears.
+Material Component: A small ball of cotton.
+ <b>Also appears in</b>   Complete Arcane     

@@ -1,0 +1,21 @@
+<b>Hide the Path</b>(Spell Compendium, p. 114)
+
+Abjuration
+ <b>Level:</b>  Cleric 6,  Druid 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Anywhere in the area to be warded
+ <b>Area:</b> Up to 200 sq. ft./level (S)
+ <b>Duration:</b> 24 hours (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>After what feels like an hour, you finish the chant and rest your hands on the onyx sphere, envisioning the places you wish to protect from those seeking your secrets.</b>
+	
+Hide the path wards a large, continuous area against divination magic. The ward protects 200 square feet per caster level and can be shaped as you desire. The warded area can be as much as 20 feet high.
+	
+<b>Find the path</b> won't function in an area warded by hide the path. In addition, any spellcaster attempting to cast a 1st- through 6th-level divination spell in the warded area must make a caster level check (DC 11 + your caster level) or the spell fails. Higher-level divinations function normally. Hide the path has no effect on divination spells cast outside the warded area.
+	
+Focus: A 6-inch onyx sphere mounted upon an obsidian stand; the entire focus must be worth no less than 1,000 gp. Any creature in physical contact with the focus can cast divination spells without restriction from the hide the path effect. If the focus is destroyed or brought beyond the boundaries of the hide the path spell, the spell is immediately dismissed.
+   

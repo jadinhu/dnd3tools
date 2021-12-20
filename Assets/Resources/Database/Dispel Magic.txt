@@ -1,0 +1,45 @@
+<b>Dispel Magic</b>(Player's Handbook v.3.5, p. 223)
+
+Abjuration
+ <b>Level:</b>  Trapsmith 1,  Bard 3,  Death Master 3,  Sha'ir 3,  Wu Jen 3,  Blighter 3,  Beguiler 3,  Vigilante 3,  Knight of the Chalice 3,  Knight of the Weave 3,  Cleric 3,  Paladin 3,  Sorcerer 3,  Wizard 3,  Hoardstealer 3,  Court Herald 3,  Duskblade 4,  Druid 4,  Urban Druid 4,  Dread Necromancer 4,   Magic 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One spellcaster, creature, or object; or 20-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Because magic is so powerful, so too is the ability to dispel magic. You can use <b>dispel magic</b> to end ongoing spells that have been cast on a creature or object, to temporarily suppress the magical abilities of a magic item, to end ongoing spells (or at least their effects) within an area, or to counter another spellcaster's spell. A dispelled spell ends as if its duration had expired. Some spells, as detailed in their descriptions, can't be defeated by dispel magic. <b>Dispel magic</b> can dispel (but not counter) spell-like effects just as it does spells.
+	
+Note: The effect of a spell with an instantaneous duration can't be dispelled, because the magical effect is already over before the <b>dispel magic</b> can take effect. Thus, you can't use <b>dispel magic</b> to repair damage caused by a <b>fireball</b> or to turn a petrified character back to flesh. In these cases, the magic has departed, leaving only burned flesh or perfectly normal stone in its wake.
+	
+You choose to use <b>dispel magic</b> in one of three ways: a targeted dispel, an area dispel, or a counterspell:
+	
+<b>Targeted Dispel:</b> One object, creature, or spell is the target of the dispel magic spell. You make a dispel check (1d20 + your caster level, maximum +10) against the spell or against each ongoing spell currently in effect on the object or creature. The DC for this dispel check is 11 + the spell's caster level.
+	
+For example, Mialee, at 5th level, targets <b>dispel magic</b> on a drow who is under the effects of <b>haste</b>, <b>mage armor</b>, and <b>bull's strength</b>. All three spells were cast on the drow by a 7th-level wizard. Mialee makes a dispel check (1d20 + 5 against DC 18) three times, once each for the <b>haste</b>, <b>mage armor</b>, and <b>bull's strength</b> effects. If she succeeds on a particular check, that spell is dispelled (the drow's spell resistance doesn't help him); if she fails, that spell remains in effect.
+	
+If you target an object or creature that is the effect of an ongoing spell (such as a monster summoned by monster summoning), you make a dispel check to end the spell that conjured the object or creature.
+	
+If the object that you target is a magic item, you make a dispel check against the item's caster level. If you succeed, all the item's magical properties are suppressed for 1d4 rounds, after which the item recovers on its own. A suppressed item becomes nonmagical for the duration of the effect. An interdimensional interface (such as a bag of holding) is temporarily closed. A magic item's physical properties are unchanged: A suppressed magic sword is still a sword (a masterwork sword, in fact). Artifacts and deities are unaffected by mortal magic such as this.
+	
+You automatically succeed on your dispel check against any spell that you cast yourself.
+	
+<b>Area Dispel:</b> When <b>dispel magic</b> is used in this way, the spell affects everything within a 20-foot radius.
+	
+For each creature within the area that is the subject of one or more spells, you make a dispel check against the spell with the highest caster level. If that check fails, you make dispel checks against progressively weaker spells until you dispel one spell (which discharges the dispel magic spell so far as that target is concerned) or until you fail all your checks. The creature's magic items are not affected.
+	
+For each object within the area that is the target of one or more spells, you make dispel checks as with creatures. Magic items are not affected by an area dispel.
+	
+For each ongoing area or effect spell whose point of origin is within the area of the <b>dispel magic</b> spell, you can make a dispel check to dispel the spell.
+	
+For each ongoing spell whose area overlaps that of the <b>dispel magic</b> spell, you can make a dispel check to end the effect, but only within the overlapping area.
+	
+If an object or creature that is the effect of an ongoing spell (such as a monster summoned by monster summoning) is in the area, you can make a dispel check to end the spell that conjured that object or creature (returning it whence it came) in addition to attempting to dispel spells targeting the creature or object.
+	
+You may choose to automatically succeed on dispel checks against any spell that you have cast.
+	
+<b>Counterspell:</b> When <b>dispel magic</b> is used in this way, the spell targets a spellcaster and is cast as a counterspell (page 170). Unlike a true counterspell, however, <b>dispel magic</b> may not work; you must make a dispel check to counter the other spellcaster's spell.
+   

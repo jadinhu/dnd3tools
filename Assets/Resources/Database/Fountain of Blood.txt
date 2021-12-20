@@ -1,0 +1,15 @@
+<b>Fountain of Blood</b>(Tome of Battle: The Book of Nine Swords, p. 87)
+
+Tiger Claw (Boost)
+ <b>Level:</b>  Swordsage 4 (Two Tiger Claw maneuvers),  Warblade 4 (Two Tiger Claw maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> 30-ft-radius burst centered on you
+ <b>Duration:</b> 1 minute
+ <b>Saving Throw:</b> Will partial; see text
+
+ 	
+<b>As your foe dies on your blade, you twist and turn your weapon to send blood spraying across the battlefield. Your enemies shriek in fear at their ally?s grisly demise.</b>
+	
+If you reduce a living opponent to ?1 or fewer hit points during your turn, you can initiate this maneuver. Your weapon rips into your foe as she drops, dealing an extra 1d6 points of damage and forcing all your enemies within a 30-foot radius to make successful Will saves (DC 14 + your Str modifier) or be shaken for 1 minute. The foe you drop must be within your threatened area when you initiate this maneuver. For each foe you drop during your turn prior to initiating this maneuver, the save DC increases by 1.</   

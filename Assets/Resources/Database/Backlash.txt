@@ -1,0 +1,26 @@
+<b>Backlash</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Permanent or until discharged
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You bestow upon the target an unusual curse: The first spell the target casts that meets the triggering conditions rebounds on the cursed creature exactly as if affected by spell turning.
+The backlash is triggered by three situations:			The target casts an attack spell on another creature, which makes its saving throw.		The target casts an attack spell upon a creature that is immune to that spell.		The target casts an attack spell that is interrupted or ruined (including a failed attempt to cast defensively).	
+In all three cases, the triggering spell must be a spell that could be affected by spell turning.
+If the backlash is triggered, the curse immediately takes its full effect upon the target of the backlash.
+The target does not get a saving throw against the spell, nor does spell turning apply, but does get spell resistance.
+Once triggered, the backlash spell ends.
+A creature can be under the effects of multiple backlash spells at once, but only one can be triggered at a time.
+The backlash has no effect on magic items or spell-like or supernatural abilities used by the target.
+A backlash can be removed by any spell that negates a bestow curse spell.
+For purposes of this spell, an &quot;attack spell&quot; includes any spell targeting a foe or whose area or effect includes a foe.
+(Exactly who is a foe depends on the caster's perceptions).
+A spell directed at an unattended object does not constitute an attack spell.
+ <b>Also appears in</b>   Spell Compendium     

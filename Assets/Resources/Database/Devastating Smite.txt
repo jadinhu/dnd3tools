@@ -1,0 +1,15 @@
+<b>Devastating Smite</b>(The Forge of War, p. 113)
+
+Transmutation
+ <b>Level:</b>  Blackguard 1,  Cleric 1,  Paladin 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round or until discharged; see text
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The next smite attack made by the subject deals double its normal smite damage. For instance, a 9th-level paladin normally deals an extra 9 points of damage with her smite evil ability. Under the effect of this spell, she would deal an extra 18 points of damage. The spell applies to only one smite attack; if that attack misses, the spell is lost without effect.
+   

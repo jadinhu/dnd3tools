@@ -1,0 +1,17 @@
+<b>Swim, Mass</b>(Spell Compendium, p. 217)
+
+Transmutation [Water]
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature/level, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Choosing carefully the recipients of your spell, you cause a blue-green glow to emanate from each one. Moments later, the emanation fades, leaving the chosen creatures looking more lithe but with more robust limbs.</b>
+	
+The spell functions like <b>swim</b>, except that it affects multiple creatures.
+   

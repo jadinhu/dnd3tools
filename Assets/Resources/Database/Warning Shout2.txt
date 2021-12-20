@@ -1,0 +1,19 @@
+<b>Warning Shout</b>(Spell Compendium, p. 236)
+
+Transmutation [Sonic]
+ <b>Level:</b>  Paladin 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> 30 ft.
+ <b>Target:</b> Allies within 30 feet
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You shout a few words imbued with power by your faith, and your next words ring out clear and far despite other noise or intervening barriers.</b>
+	
+All allies within range are no longer considered flat-footed, even if they have not yet acted in the current combat.
+	
+Anyone sleeping naturally (as opposed to magically induced sleep, such as from a sleep spell) within the area is woken by a warning shout.
+ <b>Also appears in</b>   Magic of Faerun     

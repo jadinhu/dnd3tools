@@ -1,0 +1,16 @@
+<b>Brumal Stiffening</b>(Frostburn)
+
+Transmutation [Cold]
+ <b>Level:</b>  Cleric 2,  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One weapon
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The targeted weapon becomes brittle, reducing its hardness by 5 for the duration of the spell, thereby increasing the effectiveness of sunder attempts against the weapon.
+In addition, rolling a 1 on an attack with the targeted weapon causes it to take damage equivalent to the amount it would have dealt on a successful hit.
+   

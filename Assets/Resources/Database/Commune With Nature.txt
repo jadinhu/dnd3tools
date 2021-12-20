@@ -1,0 +1,19 @@
+<b>Commune With Nature</b>(Player's Handbook v.3.5, p. 211)
+
+Divination
+ <b>Level:</b>  Ranger 4,  Nentyar Hunter 4,  Druid 5,   Animal 5,  Seafolk 5,  Elf 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+You become one with nature, attaining knowledge of the surrounding territory.
+You instantly gain knowledge of as many as three facts from among the following subjects: the ground or terrain, plants, minerals, bodies of water, people, general animal population, presence of woodland creatures, presence of
+powerful unnatural creatures, or even the general state of the natural setting.
+For example, you could determine the location of any powerful undead creatures, the location of all major sources of safe drinking water, and the location of any buildings (which register as blind spots).
+In outdoor settings, the spell operates in a radius of 1 mile per caster level.
+In natural underground settings � ;caves, caverns, and the like � ;the radius is limited to 100 feet per caster level.
+The spell does not function where nature has been replaced by construction or settlement, such as in dungeons and towns.
+   

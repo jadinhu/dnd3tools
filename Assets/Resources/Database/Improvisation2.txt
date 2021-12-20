@@ -1,0 +1,20 @@
+<b>Improvisation</b>(Song and Silence: A Guidebook to Bards and Rogues, p. 92)
+
+Transmutation
+ <b>Level:</b>  Bard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Improvisation makes available a floating &quot;pool&quot; of bonus points that the caster can use as desired to improve his or her odds of success at various tasks.
+This bonus pool consists of 2 points per level, which the caster can divide as desired among attack rolls and skill or ability checks.
+The caster must declare any bonus-point usage before the appropriate rolls are made.
+Used points disappear from the pool, and any points remaining when the spell ends are wasted.
+These points count as luck bonuses for purposes of stacking.
+For example, a 14th-level bard pauses from chasing a pickpocket to cast improvisation.
+Over the next 14 rounds, he could add +8 to a Spot check, +6 to a Climb check, and +7 to two of his attack rolls.
+Material Component: A pair of dice.
+ <b>Also appears in</b>   Complete Adventurer  Spell Compendium     

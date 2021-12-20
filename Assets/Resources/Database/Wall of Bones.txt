@@ -1,0 +1,28 @@
+<b>Wall of Bones</b>(Complete Arcane)
+
+Conjuration (Creation)
+ <b>Level:</b>  Wu Jen 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Wall whose area is up to one 10-ft. square/level
+ <b>Duration:</b> 10 minutes
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell causes a wall of bones to erupt from the earth.
+The wall can be whatever shape you desire as long as its base is solidly on the ground, but it cannot be conjured so that it occupies the same space as a creature or another object.
+Though solid, the wall has many small openings and gaps, and creatures on either side have cover and concealment against attacks from the opposite side.
+A wall of bones can be passed through as a full-round action, but its sharp spikes and edges deal 1d8 points of damage to any Small or Medium creature that attempts to do so.
+Small creatures can slip and wriggle through the wall at will, but a Medium creature must make a successful DC 20 Escape Artist check.
+Failure means that a creature takes damage as normal and becomes stuck in the wall.
+It must make another move attempt the following round to either pass through the wall or pull back from it (taking damage from the movement either way).
+Tiny or smaller creatures can slip freely through the wall at half speed, and Large or larger creatures cannot pass through it but might be able to break through (see below) or climb over, taking no damage.
+Any creature trapped in the wall can choose to remain motionless until the spell expires to avoid taking any more damage.
+The wall is 6 inches thick per caster level.
+Each 5-foot square has 10 hit points per 6 inches of thickness, but the wall takes only half damage from slashing or piercing weapons.
+A creature can make a Strength check (DC 15 + 2 per caster level, maximum + 10) to break through the wall with a single attack.
+The wall is composed of bones of many different types of creatures, fused at bizarre angles, but it cannot be animated by an animate dead spell nor communicated with via speak with dead.
+Material Component: A withered tree branch taken from a cemetery.
+ <b>Also appears in</b>   Oriental Adventures     

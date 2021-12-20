@@ -1,0 +1,18 @@
+<b>Implacable Pursuer</b>(Spell Compendium)
+
+Divination
+ <b>Level:</b>  Assassin 4,  Blackguard 4,  Ranger 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Long (400 ft. + 40 ft./level); see text
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With this spell, you become an unerring tracker, instantly aware of your quarry's location whenever it's on the move.</b>
+	
+The implacable pursuer spell gives you the direction and distance to the target creature whenever it finishes a turn more than 10 feet away from where it started. If you are a ranger, you apply your favored enemy bonus to the DC of the Will save.
+Once you successfully target a creature with implacable pursuer, you know its location as long as the subject is moving, no matter where it goes on the same plane. Even if it leaves the plane, implacable pursuer tells you what plane the subject creature went to. The spell then provides no further information until you and the subject creature are on the same plane, in which case the spell resumes functioning normally.
+ <b>Also appears in</b>   Complete Divine     

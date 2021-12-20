@@ -1,0 +1,17 @@
+<b>Rend Shadow Weave</b>(Champions of Valor)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Close (25 ft. plus 5 ft./2 levels)
+ <b>Effect:</b> One 10-ft.-cube area of the Shadow Weave
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You damage the Shadow Weave, creating an area of dead magic that only affects the Shadow Weave rather than the Weave.
+While you have this spell prepared, you get a +2 competence bonus on caster level checks to dispel Shadow Weave effects.
+Material Component: A moonstone worth at least 50 gp.
+   

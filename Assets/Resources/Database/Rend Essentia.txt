@@ -1,0 +1,22 @@
+<b>Rend Essentia</b>(Magic of Incarnum)
+
+Necromancy [Evil, Incarnum]
+ <b>Level:</b>  Assassin 3,  Hexblade 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you consume a small portion of your enemy's soul to strengthen your own personal essence and become stronger.
+You deal 1d4 points of Charisma damage plus 1 additional point for every three caster levels, to a maximum of 1d4+5 points at caster level 15th.
+If the target has an essentia pool, he instead loses essentia equal to the Charisma damage that would be dealt (if the damage is larger than the target's essentia pool, any leftover points of damage are dealt as Charisma damage).
+This spell can't reduce a target's Charisma below 1.
+You gain 1 point of temporary essentia for every point of essentia or Charisma damage you deal to the subject.
+This temporary essentia remains in your pool for 1 minute, after which it dissipates.
+While you have it, you can use your temporary essentia just like normal essentia.
+Material Component: A black pearl worth at least 100 gp.
+   

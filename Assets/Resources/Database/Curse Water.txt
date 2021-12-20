@@ -1,0 +1,17 @@
+<b>Curse Water</b>(Player's Handbook v.3.5, p. 216)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 1,  Blighter 1,  Death Master 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> Flask of water touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+This spell imbues a flask (1 pint) of water with negative energy, turning it into unholy water.
+Unholy water damages good outsiders the way holy water damages undead and evil outsiders.
+Material Component: 5 pounds of powdered silver (worth 25 gp).
+   

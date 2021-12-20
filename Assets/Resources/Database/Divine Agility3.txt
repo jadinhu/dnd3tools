@@ -1,0 +1,17 @@
+<b>Divine Agility</b>(Spell Compendium, p. 69)
+
+Transmutation
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Calling aloud on the divine power of your deity, you imbue a living creature with agility and skill in combat.</b>
+	
+You grant the subject a +10 enhancement bonus to Dexterity.
+ <b>Also appears in</b>   Defenders of the Faith: A Guidebook to Clerics and Paladins  Complete Divine     

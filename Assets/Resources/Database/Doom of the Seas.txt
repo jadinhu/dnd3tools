@@ -1,0 +1,20 @@
+<b>Doom of the Seas</b>(Stormwrack)
+
+Conjuration (Summoning) [Evil]
+ <b>Level:</b>  Druid 9,   Blackwater 9,   
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Effect:</b> One summoned creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+It is said that in the deepest recesses of blackwater caverns dwell krakens of immense power, horrific creatures touched by malevolent extraplanar powers.
+Though this might certainly be true, it is likely that most experiences with such creatures comes as a result of this spell.
+With this spell, you summon a fiendish kraken from the depths.
+(The statistics block for this creature appears below).
+The doom of the seas obeys you for the duration of the spell.
+XP Cost: 500 XP.
+   

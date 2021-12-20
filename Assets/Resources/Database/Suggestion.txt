@@ -1,0 +1,26 @@
+<b>Suggestion</b>(Player's Handbook v.3.5, p. 285)
+
+Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Urban Druid 2,  Jester 3,  Sha'ir 3,  Wu Jen 3,  Beguiler 3,  Fatemaker 3,  Wizard 3,  Sorcerer 3,  Court Herald 3,   Domination 3,  Temptation 3,  Charm 3,  Drow 3,  Baator 4,   
+<b>Components:</b>V, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 hour/level or until completed
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You influence the actions of the target creature by suggesting a course of activity (limited to a sentence or two).
+The suggestion must be worded in such a manner as to make the activity sound reasonable.
+Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell.
+However, a suggestion that a pool of acid is actually pure water and that a quick dip would be refreshing is another matter.
+Urging a red dragon to stop attacking your party so that the dragon and party could jointly loot a rich treasure elsewhere is a likewise reasonable use of the spell's power.
+The suggested course of activity can continue for the entire duration, such as in the case of the red dragon mentioned above.
+If the suggested activity can be completed in a shorter time, the spell ends when the subject finishes what it was asked to do.
+You can instead specify conditions that will trigger a special activity during the duration.
+For example, you might suggest that a noble knight give her warhorse to the first beggar she meets.
+If the condition is not met before the spell duration expires, the activity is not performed.
+A very reasonable suggestion causes the save to be made with a penalty (such as -1 or -2) at the discretion of the DM.
+Material Component: A snake's tongue and either a bit of honeycomb or a drop of sweet oil.
+   

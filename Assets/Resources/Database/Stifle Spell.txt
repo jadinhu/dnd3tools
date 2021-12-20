@@ -1,0 +1,17 @@
+<b>Stifle Spell</b>(Player's Handbook II)
+
+Abjuration
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature casting a spell
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As the creature casts a spell, you utter a simple magical phrase that momentarily confounds it.
+You cast this spell to distract another creature as it attempts to cast a spell.
+The target must succeed on a Concentration check (DC equal to 14 + your key ability modifier + the level of the spell being cast) to ignore the distraction, or else it loses the spell.
+   

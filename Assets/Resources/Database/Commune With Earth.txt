@@ -1,0 +1,11 @@
+<b>Commune With Earth</b>(Races of Faerun)
+
+Divination
+ <b>Level:</b>  Cleric 5,  Druid 5 (dwarf),    
+<b>Components:</b>
+
+ 	
+As commune with nature, except you instantly gain knowledge of the ground, minerals, bodies of water, people, general animal population, burrowing or subterranean creatures, fungi, and so on.
+The spell is only effective in hills, mountains, or underground (including mines).
+The spell operates in a radius of one-half mile per level of the caster and to a depth of one-quarter mile per level.
+   

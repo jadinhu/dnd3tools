@@ -1,0 +1,17 @@
+<b>Wingbind</b>(Spell Compendium, p. 240)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>The flying creature lets out a surprised howl and then plummets to the ground, its wings flat against its body and struggling against a green glowing net.</b>
+	
+A web of force surrounds the target, entangling it like a net. This spell functions like <b>earthbind</b> (page 76), except that an ensnared creature immediately falls to the ground, taking falling damage. An entangled creature can escape with a successful Escape Artist check against a DC equal to the save DC of the spell. Like a <b>wall of force</b> (PH 298), this web of force is impervious to most attacks: It is immune to damage of all kinds, cannot be burst with a Strength check, and is unaffected by most spells, including dispel magic. Also like a wall of force, the web is immediately destroyed by disintegrate, a rod of cancellation, a sphere of annihilation, or Mordenkainen's disjunction.
+ <b>Also appears in</b>   Draconomicon     

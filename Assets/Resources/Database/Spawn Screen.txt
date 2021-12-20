@@ -1,0 +1,18 @@
+<b>Spawn Screen</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject does not rise as undead spawn should she perish from an undead's attack form that normally would turn her into a spawn (such as from ghoul fever).
+This spell doesn't prevent the subject from perishing or provide anything other than insurance that the subject's body and spirit cannot be hijacked by an acquisitive undead creature.
+The protection applies if the duration is still effect when the subject first dies; the spell need not linger in its effect over the period immediately prior to a spawn's rise.
+This spell cannot be cast on the body of a subject already killed by a spawn-creating undead.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,21 @@
+<b>Explosive Cascade</b>(Magic of Faerun)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 1-ft.-radius sphere
+ <b>Area:</b> One 5-ft.-square/level, all of which must be connected in one continuous path (S)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause a bright ball of flame to bound and skip across the battlefield, damaging targets within its area.
+The area is the path of the flame, and it deals 1d6 hit points of fire damage per caster level (maximum 10d6) to all creatures and objects within its area.
+The flame lights up the area as if it were a torch.
+Small sparks and decaying flames remain in the area for 1 round, shedding light as candles but dealing no damage.
+If the damage from the flame destroys an interposing barrier, the flame can move beyond the barrier if it has not reached its maximum area.
+Material Component: Bat guano, sulfur, and copper packed into a metal tube with one closed end.
+ <b>Also appears in</b>   Spell Compendium     

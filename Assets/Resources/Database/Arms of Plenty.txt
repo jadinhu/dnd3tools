@@ -1,0 +1,25 @@
+<b>Arms of Plenty</b>(Lords of Madness)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Two clawed arms grow out of the subject's body.
+The arms are roughly humanoid, but are either scaly or furred and end in sharp talons.
+The spell transforms any clothing or armor worn by the creature to accommodate these additional arms; when the duration ends the creature's clothing and armor return to normal.
+The arms grant the subject two primary claw attacks.
+A hit from one of the claws deals slashing damage equal to 1d6 points (1d4 if Small) plus the creature's Strength modifier.
+The claws cannot be used to wield weapons or manipulate objects.
+Since the claws are primary attacks, you can attack with them in addition to making your weapon attacks without penalty.
+The claws count as magic weapons for the purpose of overcoming damage reduction.
+If both claw attacks hit the same target, the arms can rend the target for extra damage equal to 2d6 points plus 1-1/2 times the subject's Strength modifier.
+Multiple castings of arms of plenty on a creature do not stack; the duration simply resets.
+Material Component: A xill's claw.
+   

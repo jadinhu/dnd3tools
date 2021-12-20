@@ -1,0 +1,16 @@
+<b>Guided Shot</b>(Complete Adventurer)
+
+Divination
+ <b>Level:</b>  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+You use magical energy to briefly focus your mind and body on making a perfect shot.
+While this spell is in effect, your ranged attacks do not take a penalty due to distance.
+In addition, while this spell is in effect, your ranged attacks ignore the AC bonus granted to targets by anything less than total cover.
+This spell does not provide any ability to exceed the maximum range of the weapon with which you are attacking, nor does it confer any ability to attack targets protected by total cover.
+ <b>Also appears in</b>   Spell Compendium     

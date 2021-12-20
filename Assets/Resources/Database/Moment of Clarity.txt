@@ -1,0 +1,16 @@
+<b>Moment of Clarity</b>(Book of Exalted Deeds)
+
+Abjuration
+ <b>Level:</b>  Paladin 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast this spell and touch a creature that is under the influence of a mind-affecting spell or effect, that creature immediately receives another saving throw against the effect's original DC to break free of the effect.
+If the spell or effect did not originally permit a saving throw, this spell has no effect.
+   

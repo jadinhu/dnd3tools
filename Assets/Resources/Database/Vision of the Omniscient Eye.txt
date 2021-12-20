@@ -1,0 +1,19 @@
+<b>Vision of the Omniscient Eye</b>(Dragon Magic)
+
+Divination/Evocation [Light]
+ <b>Level:</b>  Bard 3,  Cleric 3,  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+Your eyes briefly flash with brilliant light, opening your mind to encompass every object nearby.
+You gain great vision, allowing you to see everything in the surrounding area clearly.
+You gain a +10 insight bonus on Spot checks and immunity to being dazzled or blinded (if you are already dazzled or blinded, you can see normally for the duration of the spell).
+Additionally, if you cast this while under the effect of see invisibility, true seeing, or any other spell that allows you to see invisible creatures, you can activate a faerie fire effect (as the spell) on any invisible creature or object within 60 feet as a swift action.
+Doing this ends the duration of vision of the omniscient eye;
+the faerie fire effect lasts for 1 minute.
+Special: A character who learns this spell gains a +1 competence bonus on Spot checks.
+   

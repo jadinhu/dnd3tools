@@ -1,0 +1,19 @@
+<b>Spectral Weapon</b>(Spell Compendium, p. 197)
+
+Illusion (Shadow)
+ <b>Level:</b>  Assassin 3,  Sorcerer 3,  Wizard 3,  Bard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> One shadowy blade
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You summon forth semisolid shadow-stuff and force it to coalesce into a shape only you can wield. The shadow-formed weapon looks real at first glance, though it appears darkened as if perpetually in shadows. Wisps of shadow tendrils constantly follow the weapon as you move it about.</b>
+	
+Using material from the Plane of Shadow, you can fashion a quasi-real melee weapon of any type with which you are proficient. This spectral weapon appears in your hand and behaves as a normal weapon of its type, with two exceptions. First, you resolve attacks with your spectral weapon as melee touch attacks instead of melee attacks. Second, any foe you hit is entitled to a Will save to recognize the weapon's shadowy, semi-insubstantial nature. If the save is successful, that opponent takes only half damage from the weapon on that attack and all subsequent attacks, and is only 50% likely to suffer any special effects of your attacks (such as a death attack delivered with the weapon).
+	
+You can maintain only one spectral weapon at a time, and only you can wield it. The weapon dissipates when you let go of it or when the spell's duration expires, whichever comes first.
+ <b>Also appears in</b>   Complete Adventurer  Song and Silence: A Guidebook to Bards and Rogues     

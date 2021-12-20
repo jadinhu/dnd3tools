@@ -1,0 +1,24 @@
+<b>Mace of Odo</b>(Player's Guide to FaerÃ»n)
+
+Evocation [Force]
+ <b>Level:</b>   Initiate of helm 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Mace of force
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a glowing mace of force that appears in your hand.
+You must make a melee touch attack to strike a target with the mace.
+If it hits, the mace of Odo deals 1d6 points of force damage per caster level (maximum 10d6).
+An undead target takes an additional +1 point of damage per caster level (maximum +10).
+Any creature struck by the mace must make a Fortitude save or be paralyzed for 1 round.
+You may attack once with the mace of Odo on the same round that you summoned it.
+The mace occupies your hand but does not disappear if you cast another spell.
+If you are targeted with a spell while holding the mace, you may choose to have the mace absorb that spell.
+When the mace strikes a creature, or is used to absorb a spell, or is removed from your grasp for any reason, it vanishes.
+The point in space where it vanished glows as though under the effect of a light spell for the remainder of the duration.
+ <b>Also appears in</b>   Magic of Faerun     

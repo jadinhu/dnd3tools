@@ -1,0 +1,18 @@
+<b>Halaster's Shaking Hand</b>(City of Splendors: Waterdeep)
+
+Evocation
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>
+
+ 	
+As Bigby's interposing hand, except the hand can also grapple the magic hand created by the following spells: Bigby's clenched fist, Bigby's crushing hand, Bigby's forceful hand, and Bigby's grasping hand.
+The shaking hand gets one grapple attack per round.
+Its grapple bonus against another magic hand is your level + your Intelligence or Charisma modifier (for wizards or sorcerers, respectively), +9 for the hand's Strength score (29), +4 for being Large.
+Once grappled, a magic hand can only escape the shaking hand by making an opposed grapple check, unless the duration of the grappled hand exceeds the duration of the shaking hand.
+In cases where no Strength score is given, assume the magic hand has a Strength score of 17 + twice the level of the spell.
+Once a grapple is broken, nothing prevents your shaking hand from attempting another grapple attack.
+For example, a wizard uses Halaster's shaking hand to grapple a sorcerer's Bigby's forceful hand, rolls a 10 on a d20, adds +4 for his own Intelligence score (18), adds +9 for the hand's Strength score (29), and adds +4 for the hand's size (Large), for a total of 27.
+The sorcerer seeks to break the handshake; he rolls a 14 on a d20, adds +4 for his own Charisma score (18), adds +8 for the hand's Strength score (27), and adds +4 for the hand's size (Large) for a total of 30.
+The &quot;handshake&quot; (grapple) lasts for at least 1 more round.
+If, however, the sorcerer had rolled a 15 or higher, the handshake would have been broken, at least until the shaking hand successfully grappled the forceful hand again.
+   

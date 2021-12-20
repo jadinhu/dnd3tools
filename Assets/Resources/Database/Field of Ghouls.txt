@@ -1,0 +1,25 @@
+<b>Field of Ghouls</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy [Death, Evil]
+ <b>Level:</b>   Hunger 7,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> 30-ft.-radius spherical emanation, centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You transform the ebbing life force of all nearby badly wounded creatures and use it to create ghouls.
+Upon casting this spell, you radiate a necroconsumptive death field.
+All creatures in the area with fewer than 0 hit points that fail their saving throws die, and immediately rise as ghouls under your control.
+The ghouls follow you, or can remain where formed and attack any creature (or just a specific kind of creature) the ghoul notices.
+The ghouls remain until they are destroyed.
+The ghouls that you create remain under your control indefinitely.
+No matter how many ghouls you generate with this spell, however, you can control only 2 HD worth of undead creatures per caster level (this includes undead from all sources under your control).
+If you exceed this number, all the newly created creatures fall under your control, and any excess undead from previous castings become uncontrolled (you choose which creatures are released).
+If you are a cleric, any undead you might command by virtue of your power to command or rebuke undead do not count toward the limit.
+Creatures that fall to -1 hit points or fewer in the area after the spell is cast are likewise subject to its effect.
+No creature can be affected by this spell more than once per round, regardless of the number of times that the area of the spell passes over them.
+   

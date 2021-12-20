@@ -1,0 +1,19 @@
+<b>Lay of the Land</b>(Spell Compendium, p. 131)
+
+Divination
+ <b>Level:</b>  Ranger 1,  Bard 4,  Druid 4,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 3 rounds
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+<b>You cast this spell and are surrounded with a nimbus of green light. In your mind, a map unfolds of the surrounding area, showing the cities, hamlets, and known ruins as if penned by a cartographer. The light fades but the knowledge of the map remains.</b>
+	
+You instantly gain an overview of the area around you. Lay of the land gives basic information relevant to major landmarks, such as rivers, lakes, and settlements (of at least hamlet size). It indicates the direction and distance to each from the current location. You have a good understanding of the terrain up to 50 miles from your current location.
+	
+Unlike <b>find the path</b>, this spell does not give information on traps, passwords, or impediments to a journey.
+	
+Arcane Focus: A small piece of lodestone.
+   

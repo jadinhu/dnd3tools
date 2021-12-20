@@ -1,0 +1,21 @@
+<b>Maelstrom</b>(Spell Compendium, p. 135)
+
+Conjuration (Creation) [Water]
+ <b>Level:</b>  Druid 8,   Ocean 8,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> A whirlpool 120 ft. wide and 60 ft. deep
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Whirling about your hand and pulling it down, your magic reaches out and does the same to the water but on a titanic scale, creating a vortex of sucking waves.</b>
+	
+Maelstrom causes a deadly vortex to form in water. A body of water in which you form the maelstrom must be at least 120 feet wide and 60 feet deep, or the spell is wasted.
+	
+Waterborne creatures or objects within 50 feet of the vortex (below and on all sides) must make successful Reflex saves or be sucked in. Trained swimmers can attempt Swim checks instead if their skill modifier is higher than their Reflex save bonus. Waterborne vessels avoid being sucked in if their operators make Profession (sailor) checks against the same DC as the spell's saving throw. These creatures and objects take 3d8 points of damage upon being sucked in.
+	
+Once inside, creatures and objects take 3d8 points of bludgeoning damage each round at the beginning of your turn. They remain trapped for 2d4 rounds, after which time they are ejected to any square adjacent to the bottom of the vortex (your choice). Ejected subjects might be sucked back into the vortex, but they receive a new Reflex save. Subjects of Large or smaller size are ejected from the bottom of the vortex. Larger subjects are ejected from the top.
+ <b>Also appears in</b>   Stormwrack  Complete Divine  Forgotten Realms Campaign Setting     

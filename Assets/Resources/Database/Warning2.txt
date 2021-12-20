@@ -1,0 +1,17 @@
+<b>Warning</b>(Player's Guide to FaerÃ»n)
+
+Divination
+ <b>Level:</b>   Initiate of helm 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell heightens the subject's senses and awareness of danger.
+The subject gains a +4 insight bonus on Listen and Spot checks and gains uncanny dodge for the duration of the spell, retaining its Dexterity bonus to AC (if any) regardless of being caught flat-footed or struck by an invisible attacker.
+(The subject still loses its Dexterity bonus to AC if immobilized).
+ <b>Also appears in</b>   Oriental Adventures     

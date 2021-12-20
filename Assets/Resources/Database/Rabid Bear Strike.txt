@@ -1,0 +1,13 @@
+<b>Rabid Bear Strike</b>(Tome of Battle: The Book of Nine Swords, p. 88)
+
+Tiger Claw (Strike)
+ <b>Level:</b>  Swordsage 6 (Two Tiger Claw maneuvers),  Warblade 6 (Two Tiger Claw maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>With a ferocious roar, you leap upon your enemy like a wild beast, slamming your weapon into her with a madman?s fury.</b>
+	
+You focus your primal fury into a single attack, laying an opponent low with a mighty blow that splinters bones and shatters steel. As part of this maneuver, you make a single melee attack. You gain a +4 bonus on this attack roll and deal an extra 10d6 points of damage. After completing this maneuver, you take a ?4 penalty to AC until the start of your next turn.</   

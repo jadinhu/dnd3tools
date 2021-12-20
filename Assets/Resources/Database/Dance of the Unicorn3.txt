@@ -1,0 +1,19 @@
+<b>Dance of the Unicorn</b>(Spell Compendium, p. 58)
+
+Abjuration
+ <b>Level:</b>  Druid 5,   Purification 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 5 ft./level
+ <b>Area:</b> 5 ft./level-radius emanation centered on you
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Whirling your pointed finger through a complex gesture, you create a cool and fresh mist that cleanses the air of pollutants.</b>
+	
+You surround yourself with a purifying, swirling mist htat washes the air clean of smoke, dust, and poisons. Nonmagical contaminants, including inhaled poisons, are automatically negated within the cloud. <b>Dance of the unicorn</b> also grants everyone within the mist a +4 bonus on saving throws against magical or supernatural gas effects, such as <b>acid fog</b>, <b>cloudkill</b>, and green dragon breath.
+	
+The cloud of mist leaves everything within its area damp.
+   

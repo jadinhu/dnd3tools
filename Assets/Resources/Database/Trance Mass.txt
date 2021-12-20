@@ -1,0 +1,17 @@
+<b>Trance, Mass</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Enchantment [Compulsion, Mind-Affecting]
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Any number of animals, beasts, and magical beasts with Intelligence 1 or 2, no two of which may be more than 30 ft. apart
+ <b>Duration:</b> Concentration
+ <b>Saving Throw:</b> Will negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your swaying motions and music (or singing, or chanting) compel the subjects to do nothing but watch you.
+Animals trained to attack or guard, dire animals, legendary animals, beasts, and magical beasts are entitled to saving throws; normal animals are not.
+An affected creature can be struck (with a +2 bonus on the attack roll, as if it were stunned), but such an action breaks the spell on that creature.
+   

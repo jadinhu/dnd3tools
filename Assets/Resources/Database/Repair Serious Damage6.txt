@@ -1,0 +1,9 @@
+<b>Repair Serious Damage</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>
+
+ 	
+As repair light damage, except repair serious damage repairs 3d8 points of damage +1 point per caster level (up to +15).
+ <b>Also appears in</b>   Eberron Campaign Setting  Complete Arcane  Miniatures Handbook  Dragon Compendium  Spell Compendium     

@@ -1,0 +1,19 @@
+<b>Restore Soul's Treasure</b>(Book of Exalted Deeds)
+
+Transmutation
+ <b>Level:</b>   Sanctified 8,   
+<b>Components:</b>Sacrifice
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Disintegrated remains of one item
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+If the target of this spell has lost a valuable item as the result of the spell soul's treasure lost (described in the Book of Vile Darkness), this spell restores that item.
+This spell must be cast within 4 hours of the destruction of the item.
+Upon completion of the casting, the disintegrated item
+returns to the possession of the original owner in the condition it was in before being disintegrated.
+Sacrifice: 1d4 points of Constitution drain.
+   

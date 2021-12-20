@@ -1,0 +1,19 @@
+<b>Inevitable Defeat</b>(Player's Handbook II)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Beguiler 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None and Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You touch the creature with your hand, and it teeters on the edge of unconsciousness.
+You draw a cloud over the subject's mind, dealing 3d6 points of nonlethal damage.
+No saving throw is allowed against this effect.
+Each round on its turn, the subject must succeed on a Will save or take another 3d6 points of nonlethal damage.
+If the saving throw is successful, the damage for that round is negated and the spell ends.
+   

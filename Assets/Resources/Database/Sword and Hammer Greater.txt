@@ -1,0 +1,12 @@
+<b>Sword and Hammer, Greater</b>(Player's Guide to FaerÃ»n)
+
+Evocation [Force]
+ <b>Level:</b>   Initiate of tyr 6,   
+<b>Components:</b>
+
+ 	
+This spell functions like sword and hammer, except as indicated here.
+The longsword and warhammer are sized for Large creatures, and each deals 2d6 points of force damage +1 point per three caster levels (maximum +10) on a successful hit.
+Each weapon grants a +2 bonus on attack rolls.
+Furthermore, each threatens critical hits as if you had the Improved Critical feat (the longsword on a roll of 17-20, and the warhammer on a roll of 19-20).
+   

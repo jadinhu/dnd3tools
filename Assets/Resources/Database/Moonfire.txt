@@ -1,0 +1,25 @@
+<b>Moonfire</b>(Forgotten Realms Campaign Setting)
+
+Evocation [Light]
+ <b>Level:</b>   Moon 9,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Cone
+ <b>Duration:</b> Instantaneous (see text)
+ <b>Saving Throw:</b> Reflex half (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A cone of fiery white moonlight springs from your hand.
+Living creatures in the area feel an unnatural chill and take 1d8 points of damage per two caster levels, to a maximum of 10d8.
+Undead and shapechangers take double damage.
+This application of the spell allows a Reflex save for half damage.
+All magical auras within the cone glow with a faint blue light for 1 round per caster level.
+Disguised, shapechanged, or polymorphed creatures and objects in the spell's area at the time the spell is cast must make Will saves or immediately return to their normal forms.
+Even if the save succeeds, they remain covered in ghostly white outlines that show their true forms for 1 round per caster level.
+The entire area covered by the cone glows silver white for 1 round per caster level.
+This radiance is as bright as the light of a full moon and negates electricity for 1 round per caster level unless the creature generating it makes a caster level check against a DC equal to the caster's level.
+If an electricity effect is generated outside the glowing cone, the cone blocks the electricity effect if the caster level check fails.
+If an electricity effect is generated inside the glowing cone, the cone completely negates the electricity effect if the caster level check fails.
+ <b>Also appears in</b>   Spell Compendium     

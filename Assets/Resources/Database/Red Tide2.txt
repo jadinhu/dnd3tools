@@ -1,0 +1,24 @@
+<b>Red Tide</b>(Stormwrack)
+
+Evocation [Water]
+ <b>Level:</b>  Druid 8,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Burst in the shape of a circular disk, 10 ft. wide/level, 5 ft. high
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This visually impressive spell causes a surging, frothing wave of thick, red seawater that washes over everything in the area.
+All creatures in the area of a red tide are immediately knocked prone and must make a Fortitude saving throw.
+Flying or swimming creatures in the area aren't knocked prone, but they take a -4 penalty on the Fortitude save.
+A living creature who makes its Fortitude save against a red tide is sickened for 1 minute and takes a -2 penalty on attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks for that time.
+A creature who fails this saving throw feels the full effect of the red tide.
+Such creatures are immediately nauseated for 1 minute (unable to attack, cast spells, or concentrate), and they take 3d6 points of Strength damage.
+After 1 minute the nausea ends, but the creature must make a second Fortitude saving throw or take an extra 3d6 points of Strength damage.
+Creatures immune to poison are immune to these effects of a red tide.
+The tainted water evoked by this spell vanishes after a few seconds of turbulence, and any objects or creatures in the area do not emerge wet.
+All open flames in the area are nevertheless extinguished if they fail a Reflex save, and all creatures with the fire subtype take 1d6 points of damage per caster level (maximum 20d6; Fort save half).
+ <b>Also appears in</b>   Spell Compendium     

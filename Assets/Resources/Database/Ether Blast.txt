@@ -1,0 +1,22 @@
+<b>Ether Blast</b>(Manual of the Planes)
+
+Abjuration
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 25 ft. + 5 ft./2 levels
+ <b>Area:</b> 25 ft. + 5 ft./2 levels spherical emanation centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Upon casting this spell, you detonate a small ether cyclone on the Ethereal Plane centered on you.
+Those on the Material Plane are unaffected by the blast (including you if you cast it from there).
+However, all those on the Ethereal Plane within the spell's area are affected as if caught by an ether cyclone.
+The cyclone lasts for the duration of the spell, and any who enter the area on the Ethereal Plane are caught by its force-winds and potentially swept away.
+If you cast ether blast while on the Ethereal Plane, you are affected by the spell as well.
+Undead are not affected by this spell, nor are big ethereal objects.
+Unattended objects weighing 50 pounds or less are swept away by the Ethereal Plane.
+Material Component: The tooth of a creature that uses the Ethereal Plane, such a blink dog or an ethereal marauder, or the claw of a phase spider.
+   

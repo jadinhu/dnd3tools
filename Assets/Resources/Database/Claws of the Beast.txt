@@ -1,0 +1,16 @@
+<b>Claws of the Beast</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Your fingers sprout claws.
+Your hands become weapons that do 1d6 points of damage.
+If your normal unarmed damage is greater than 1d6, the damage does not change.
+You are considered armed while this spell is in effect.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

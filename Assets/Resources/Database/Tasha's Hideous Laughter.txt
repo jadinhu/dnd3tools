@@ -1,0 +1,21 @@
+<b>Tasha's Hideous Laughter</b>(Player's Handbook v.3.5, p. 292)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 1,  Jester 1,  Sorcerer 2,  Wizard 2,  Sha'ir 2,  Death Master 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature; see text
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell afflicts the subject with uncontrollable laughter.
+It collapses into gales of manic laughter, falling prone.
+The subject can take no actions while laughing, but is not considered helpless.
+After the spell ends, it can act normally.
+A creature with an Intelligence score of 2 or lower is not affected.
+A creature whose type (such as humanoid or dragon) is different from the caster's receives a +4 bonus on its saving throw, because humor doesn't &quot;translate&quot; well.
+Material Component: Tiny tarts that are thrown at the target and a feather that is waved in the air.
+   

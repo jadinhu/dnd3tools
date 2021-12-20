@@ -1,0 +1,16 @@
+<b>Sandblast</b>(Complete Divine)
+
+Evocation
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> Semicircular burst of sand 10 ft. long, centered on your hands
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You fire a hail of hot sand from your fingers, dealing 1d6 points of nonlethal damage to creatures in the arc.
+Any creature that fails its Reflex save is also stunned for 1 round.
+ <b>Also appears in</b>   Lost Empires of Faerun  Spell Compendium  Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers     

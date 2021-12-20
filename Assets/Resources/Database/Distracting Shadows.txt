@@ -1,0 +1,25 @@
+<b>Distracting Shadows</b>(Magic of Eberron, p. 95)
+
+Evocation [Darkness]
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched
+ <b>Duration:</b> 24 hours (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell causes an object to radiate distracting shadows in a 10-foot-radius spread. Casual scrutiny of an affected area doesn't reveal anything out of the ordinary; however, cracks, crannies, corners, hidden traps, and secret entrances or exits within the area become harder to spot.
+	
+Creatures within the area or looking into it are subliminally confused by the distracting shadows, and take a -5 penalty on all Spot and Search checks. However, the shadows do not provide sufficient concealment for a creature to make a Hide check.
+	
+Distracting shadows counters or dispels any light or darkness spell of equal or lower level.
+	
+Distracting shadows can be made permanent with a permanency spell (minimum caster level 10th; cost 1,000 XP).
+	
+<b>Special:</b> A character with any Mark of Shadow dragonmark, or with the Favored in House feat (Phiarlan or Thuranni), can cast this spell to fill a 20-foot-radius spread.
+	
+<b>Material Component:</b> A bit of bat fur and either a drop of pitch or a piece of coal.
+   

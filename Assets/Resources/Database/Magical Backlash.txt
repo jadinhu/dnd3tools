@@ -1,0 +1,18 @@
+<b>Magical Backlash</b>(Drow of the Underdark)
+
+Abjuration
+ <b>Level:</b>  Bard 2,  Hexblade 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With a word and a gesture, the target flares with crackling, violet-colored energy.
+Magical backlash causes any spells affecting the target to resonate painfully.
+For each spell currently in effect on the target (not counting magical backlash itself), magical backlash deals 2 points of damage per level of that spell.
+For example, a creature targeted by magical backlash that is under the effects of bull's strength, blur, and mage armor spells would take 4 points of damage for bull's strength, 4 for blur, and 2 more for mage armor for a total of 10 points of damage.
+   

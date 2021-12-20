@@ -1,0 +1,21 @@
+<b>Elemental Burst</b>(Complete Arcane)
+
+Evocation
+ <b>Level:</b>  Wu Jen 1 (All),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 10-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half or Reflex negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When you cast this spell, you designate a target composed of one of the five wu jen elements � ;earth, fire, metal, water, and wood.
+The target then releases magical energy in a sudden, explosive burst, as follows: Wood,Metal, or Earth: The target throws off sharp slivers and fragments; creatures within the burst take 1d8 points of damage (Reflex save for half damage).
+Fire: The target shoots out glowing sparks that deal 1d8 points of fire damage to creatures within the burst (Reflex save for half damage).
+Water:Water pushes out in a fierce wave, knocking creatures within the area prone unless they make successful Reflex saves.
+Creatures get a +4 bonus on their saving throws for each size category they are larger than Medium, or a -4 penalty for each size category smaller than Medium.
+Exceptionally stable creatures, such as dwarves or creatures with four legs, get an additional +4 bonus.
+The spell does not noticeably affect the structure or form of the target object.
+ <b>Also appears in</b>   Oriental Adventures     

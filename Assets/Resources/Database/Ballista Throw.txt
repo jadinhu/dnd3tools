@@ -1,0 +1,18 @@
+<b>Ballista Throw</b>(Tome of Battle: The Book of Nine Swords, p. 70)
+
+Setting Sun (Strike)
+ <b>Level:</b>  Swordsage 6 (Two Setting Sun maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch and 60 ft.; see text
+ <b>Area:</b> 60-ft. line
+ <b>Target:</b> Creature touched
+
+ 	
+<b>You grab your opponent and spin like a top, swinging him around before throwing him at your opponents like a bolt from a ballista.</b>
+	
+This maneuver functions like mighty throw (page 73), except as noted here. 
+	
+As part of this maneuver, you must succeed on a melee touch attack against your foe. You can then make a trip attempt against your enemy. You gain a +4 bonus on the ability check. 
+	
+If you succeed in tripping your foe, you throw him in a 60-foot line. The target and all creatures in this area take 6d6 points of damage. The thrown creature lands prone at the end of this line. You must place the target in an empty space. If the space at the end of the line is occupied, your opponent falls prone in the open space closest to the line?s endpoint.</p   

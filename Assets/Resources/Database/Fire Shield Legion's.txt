@@ -1,0 +1,11 @@
+<b>Fire Shield, Legion's</b>(Miniatures Handbook)
+
+Evocation [Fire or Cold]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,  Warmage 5,    
+<b>Components:</b>V, S, M, 
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Allied creatures in a 20-ft.-radius burst
+
+ 	
+This spell functions like fire shield (see page 230 of the Player's Handbook), except as noted above.
+   

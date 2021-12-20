@@ -1,0 +1,16 @@
+<b>Easy Climb</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Ranger 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Vertical path 10 ft. wide and 20 ft. tall/level
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You create a path of handholds and footholds up the surface of a cliff-face, tree trunk, wall, or other vertical obstacle.
+This changes the surface to the equivalent of a very rough wall (DC 10 to climb).
+ <b>Also appears in</b>   Spell Compendium  Complete Adventurer     

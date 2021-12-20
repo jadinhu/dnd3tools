@@ -1,0 +1,19 @@
+<b>Primal Instinct</b>(Dragon Magic)
+
+Transmutation
+ <b>Level:</b>  Ranger 2,  Druid 3,  Sorcerer 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 24 hours
+
+ 	
+Rings of blue-white energy travel from your feet to your head and back again, vanishing after encircling you in their glow.
+This spell calls upon the raw natural forces within you to grant the basic instincts possessed by your ancestors.
+You gain a +5 competence bonus on initiative and Survival checks.
+If primal instinct is active on you at the same time as primal hunter, primal senses, or primal speed, you gain uncanny dodge (as the barbarian class feature).
+It all four of these spells are active on you at the same time, you gain improved uncanny dodge (as the barbarian class feature; your barbarian level for the purpose of being flanked equals your caster level).
+Special: If you are of the dragonblood subtype (see page 4), you also gain a +5 competence bonus on any one kind of Knowledge check, chosen when you cast primal instinct,
+and you are treated as trained in that skill.
+   

@@ -1,0 +1,21 @@
+<b>Antimagic Aura</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+An invisible barrier surrounds a single creature and its equipment.
+The target creature is impervious to most magical effects including spells, spell-like abilities, and supernatural abilities.
+Likewise, it prevents the functioning of any magic items or spells within its confines, thus preventing the target from casting spells or using spell-like abilities or magic items for the duration.
+An antimagic aura suppresses any spell or magical effect used on or by, or cast onto, the target, but does not dispel it.
+A charmed creature, for example, is not charmed while affected by the aura, but the spell resumes functioning when antimagic aura ends.
+Time spent within an antimagic aura counts against the suppressed spell's duration.
+Material Component: A pinch of powdered iron or iron filings.
+   

@@ -1,0 +1,23 @@
+<b>Circle of Nausea</b>(Book of Vile Darkness)
+
+Evocation [Evil]
+ <b>Level:</b>  Druid 2,  Cleric 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Area:</b> An emanation extending in a 20-ft.-radius around a 2-ft.-radius circle on the ground with the caster in the center
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Evil energy bursts in all directions from the spell's origin, filling the area with pain.
+Everyone in the spell's area must succeed at a Fortitude saving throw or take a -2 penalty on all attack rolls, saving throws, and skill checks.
+Those who succeed at the saving throw must make a new saving throw each round if they remain in the area.
+The pain lasts as long as the spell does.
+The caster stands in the circle, which must be prepared ahead of time by inscribing a circle on the ground and putting a stone on the circle at each of the four cardinal directions.
+Creating this circle takes 1 hour, but once created it may be reused any number of times.
+If anyone attempts to cross the circle during the spell's duration, she must succeed at a Fortitude saving throw or be nauseated until the spell ends, unable to take actions other than a single move or move-equivalent action.
+Nauseated characters cannot cross the circle.
+If someone breaches the circle without becoming nauseated, the spell ends.
+   

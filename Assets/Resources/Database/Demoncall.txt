@@ -1,0 +1,13 @@
+<b>Demoncall</b>(Book of Vile Darkness)
+
+Divination [Evil]
+ <b>Level:</b>  Blackguard 2,  Demonologist 2,   Demonic 2,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> Instantaneous
+
+ 	
+The caster taps into the forbidden knowledge of demons, giving her a +10 profane bonus on any one check (made immediately) involving Knowledge (arcana), Knowledge (the planes), or Knowledge (religion).
+ <b>Also appears in</b>   Fiendish Codex I: Hordes of the Abyss     

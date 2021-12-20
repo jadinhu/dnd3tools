@@ -1,0 +1,21 @@
+<b>Negative Energy Ray</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A ray of negative energy projects from your pointing finger.
+You must succeed at a ranged touch attack with the ray to deal damage to a target.
+The ray deals 1d6 points of damage to a living creature.
+For every two extra levels of experience past 1st, you deal an extra 1d6 points of damage.
+You deal 2d6 at 3rd level, 3d6 at 5th level, 4d6 at 7th level, and a maximum of 5d6 points of damage at 9th level or higher.
+Since undead are powered by negative energy, this spell cures them of a like amount of damage, rather than harming them.
+Material Component: A mirror, which you break.
+   

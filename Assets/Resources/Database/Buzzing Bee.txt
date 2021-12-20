@@ -1,0 +1,23 @@
+<b>Buzzing Bee</b>(Spell Compendium, p. 41)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>A small but extremely loud bee appears, buzzing around the head of the designated target.</b>
+	
+This spell creates an unnerving noise that disrupts the subject's concentration. The subject is distracted and takes a � ;10 penalty on Move Silently checks. Creatures that can't hear are not distracted. The DC of Concentration checks to cast spells or maintain concentration while distracted is equal to this spell's DC + the level of the spell being cast.
+	
+The bee has a fly speed of 180 feet (perfect). It remains near the subject in spite of darkness, invisibility, polymorph, cover, concealment, or any other attempt at disguising or hiding. The bee remains until the spell's duration expires or the subject moves out of range.
+	
+The bee can't be attacked, but it can be dispelled.
+	
+<b>Material Component:</b> A dab of honey.
+   

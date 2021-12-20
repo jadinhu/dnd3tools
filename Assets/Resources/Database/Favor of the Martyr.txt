@@ -1,0 +1,21 @@
+<b>Favor of the Martyr</b>(Spell Compendium, p. 89)
+
+Necromancy
+ <b>Level:</b>  Paladin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One willing creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Calling upon the saints of your order, you imbue the person in need with the power to resist the dire forces arrayed against you.</b>
+	
+The subject gains immunity to nonlethal damage, charm and compulsion effects, and attacks that function specifically by causing pain, such as the <b>wrack</b> spell (see page 243). it is further immune to effects that would cause it to be dazed, exhausted, fatigued, nauseated, sickened, staggered, or stunned. The subject remains conscious at -1 to -9 hit points and can take a single action each round while in that state, and does not lose hit point for acting. If any of the above conditions were in effect on the subject at the time of casting, they are suspended for the spell's duration. (Thus, an unconscious subject becomes conscious and functional.)
+	
+When the spell ends, any effects suspended by the spell that have not expired in the interim (such as the fatigued condition, which normally requires 8 hours of rest to recover from) return. Effects that expired during the duration of this spell do not resume when it ends.
+	
+In addition to these effects, the subject gains the benefit of the Endurance feat for the duration of the spell.
+   

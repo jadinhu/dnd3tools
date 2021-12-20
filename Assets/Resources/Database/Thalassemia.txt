@@ -1,0 +1,17 @@
+<b>Thalassemia</b>(Stormwrack)
+
+Necromancy
+ <b>Level:</b>  Druid 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell thins the target creature's blood to little more than seawater, dealing 1d6 points of damage per level (maximum 15d6).
+Only living creatures with a circulatory system and blood can be affected by this spell; it does not harm creatures immune to critical hits.
+Creatures with the fire subtype instead take 1d8 points of damage per level.
+   

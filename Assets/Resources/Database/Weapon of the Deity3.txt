@@ -1,0 +1,56 @@
+<b>Weapon of the Deity</b>(Faiths of Eberron, p. 151)
+
+Transmutation
+ <b>Level:</b>  Blackguard 3,  Cleric 3,  Paladin 3,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+<b>You utter a brief prayer, and your weapon transforms into an awesome expression of your god's power.</b>
+	
+You must be holding your deity's favored weapon to cast this spell. You can use the weapon as if you had proficiency with it even if you normally do not. The weapon gains a +1 enhancement bonus on attack rolls and damage rolls and an additional special ability (see the list below). A double weapon gains this enhancement bonus and special ability for only one of its two ends, as chosen by you.
+	
+When you reach caster level 9th, the enhancement bonus of the weapon increases to +2. At 12th level, the bonus rises to +3, at 15th level it is +4, and at 18th level it becomes +5.
+	
+The list below includes deities described in this book, along with the five alignment components. If a cleric worshiping a different deity casts this spell, the DM should assign an appropriate weapon special ability of the same power level as those given here.
+	
+Arawai: +1 thundering morningstar
+Aureon: +1 spell-storing quarterstaff
+Balinor: +1 earthbound <sup>1</sup> battleaxe
+The Becoming God: +1 defending spiked gauntlet or battlefist
+The Blood of Vol: +1 keen dagger
+Cults of the Dragon Below: +1 vicious heavy pick
+Boldrei: +1 defending spear
+The Dark Six: +1 keen kama
+The Devourer: +1 waterborn <sup>1</sup> trident
+Dol Arrah: +1 merciful halberd
+Dol Dorn: +1 mighty cleaving longsword
+The Fury: +1 vicious rapier
+The Keeper: +1 frost scythe
+Kol Korran: +1 defending heavy mace
+The Lord of Blades: +1 shock greatsword
+The Mockery: +1 keen kama
+Olladra: +1 lucky <sup>2</sup> sickle
+Onatar: +1 flaming warhammer
+The Path of Light: +1 flaming gauntlet (unarmed strike)
+The Shadow: +1 spell storing quarterstaff
+The Sovereign Host: +1 defending longsword
+The Silver Flame: +1 seeking longbow
+The Spirits of the Past: +1 keen double scimitar
+The Traveler: +1 lucky <sup>2</sup> scimitar
+The Undying Court: +1 undead bane scimitar
+Chaos: +1 shock battleaxe
+Evil: +1 mighty cleaving light flail
+Good: +1 frost warhammer
+Law: +1 flaming longsword
+Neutral: +1 defending heavy mace
+	
+<sup>1</sup> <b>Eberron Campaign Setting</b> 266.
+<sup>2</sup> Once per day the wielder can reroll a failed attack roll as a free action; it uses the same modifiers as the missed roll
+(<b>Expanded Psionics Handbook</b> 165).
+ <b>Also appears in</b>   Magic of Faerun  Ghostwalk  Spell Compendium  Defenders of the Faith: A Guidebook to Clerics and Paladins  Complete Divine     

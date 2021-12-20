@@ -1,0 +1,21 @@
+<b>Kiss of the Vampire</b>(Spell Compendium, p. 128)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>Drawing upon the powers of unlife, you give yourself abilities similar to those of a vampire. You become gaunt and pale with feral, red eyes.</b>
+	
+You gain damage reduction 10/magic, and you can use any one of the following abilities each round as a standard action:
+			<b>enervation</b>, as a melee touch attack		<b>vampiric touch</b>, as a melee touch attack		<b>charm person</b>		<b>gaseous form</b> (self only)		
+While you are using this spell, inflict spells heal you and cure spells hurt you. You are treated as if you were undead for the purpose of all spells and effects. A successful turn (or rebuke) attempt against an undead of your Hit Dice requires you to make a Will saving throw (DC 10 + turning character's Cha modifier) or be panicked (or cowering) for 10 rounds. A turn attempt that would destroy (or command) undead of your Hit Dice requires you to make a Will save (DC 15 + turning character's Cha modifier) or be stunned (or charmed as by charm monster) for 10 rounds.
+	
+Any charm effect you create with this spell ends when the spell ends, but all other effects remain until their normal duration expires.
+	
+Material Component: A black onyx worth at least 50 gp that has been carved with the image of a fangmouthed face.
+   

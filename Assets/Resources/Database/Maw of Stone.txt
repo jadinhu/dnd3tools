@@ -1,0 +1,30 @@
+<b>Maw of Stone</b>(Forgotten Realms Campaign Setting)
+
+Transmutation
+ <b>Level:</b>   Cavern 7,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One cave mouth or natural chamber up to 15 ft. high and wide
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You cause a single natural opening or natural chamber to become animated.
+The opening or chamber cannot move, but it can attack.
+You can order it to attack any creature, or a specific type of creature.
+You also can order it to attack under a specific circumstance, such as when creatures try to leave or when they touch something.
+An animated opening can only attack creatures that try to move through it.
+An animated chamber can attack every creature inside.
+Only one maw of stone can be in effect on a particular opening or chamber at a time.
+The animated opening or chamber has a Strength score of 30 and an attack bonus equal to your level + your Wisdom modifier + 7 for its Strength.
+If it has any single dimension (height, length, or width) of 8 feet or more, it has a -1 size penalty on attack rolls for being Large.
+An animated opening can make one grapple attack each round against a creature passing through.
+If it succeeds with its grab attempt, it makes a grapple check and deals 2d6+10 points of normal damage with a successful hold.
+A Large opening gains a +4 special size modifier and deals 2d8+10 points of damage.
+An animated chamber works the same way, except that it can make a separate attack against every creature inside.
+The animated stone has an Armor Class of 15, or 14 if Large (-1 size), and a hardness of 8.
+An opening has 40 hit points (60 if Large).
+A chamber has 60 hit points (90 if Large).
+ <b>Also appears in</b>   Spell Compendium     

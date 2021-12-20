@@ -1,0 +1,19 @@
+<b>Corrosive Grasp</b>(Magic of Faerun)
+
+Conjuration (Creation) [Acid]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature or creatures touched (up to one/level)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your hand becomes coated with a thick layer of acid that does not harm you or your equipment.
+A melee touch attack with this hand causes 1d6+1 points of
+acid damage.
+You may use this melee touch attack up to one time/level.
+If you grapple an opponent, you can deal this damage in addition to other damage you deal while grappling.
+ <b>Also appears in</b>   Spell Compendium     

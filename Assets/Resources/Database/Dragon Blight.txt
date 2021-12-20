@@ -1,0 +1,22 @@
+<b>Dragon Blight</b>(Dragons of Faerun)
+
+Evocation
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius burst
+ <b>Duration:</b> Instantaueous/1d4 rounds; see text
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A phosphorescent green cloud erupts in the air, causing the dragons within to shudder in revulsion.
+This spell calls upon the power of ancient wyrm-slayers to inflict grievous harm on dragons.
+The power takes the form of a phosphorescent cloud, causing great pain to dragons and dragonblood creatures within.
+The cloud deals 1d8 points of damage per two caster levels (maximum 5d8) to creature with the dragonblood subtype and 1d6 points per caster level (maximum 10d6) to creatures with the dragon type.
+Both kinds of creatures are also stunned for 1d4 rounds.
+A successful Fortitude save halves the damage and negates the stun effect.
+Special Component: By including the claw of a deep dragon (50-75 gp) of Large size or larger, the caster can increase the DC of the spell by 2.
+The claw is expended in the casting.
+   

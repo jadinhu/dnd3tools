@@ -1,0 +1,15 @@
+<b>Forestfold</b>(Spell Compendium, p. 98)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Ranger 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D)
+
+ 	
+<b>Warmth fills your feet, and as you glance down, you see that your feet have changed shape slightly, enabling you to better traverse a particular type of terrain. You also notice a shift in the color of your skin and clothing to match the colors most commonly found in your environment.</b>
+	
+You change your coloring and attune your footfalls to one specific kind of terrain (aquatic, desert, plains, forest, hills, mountains, marsh, or underground). While you are in terrain of that kind, you gain a +10 competence bonus on Hide and Move Silently checks. You retain these bonuses even if you leave the designated terrain and return within the duration of the spell.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Savage Species  Complete Adventurer  Complete Divine     

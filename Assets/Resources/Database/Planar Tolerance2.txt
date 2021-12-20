@@ -1,0 +1,17 @@
+<b>Planar Tolerance</b>(Spell Compendium, p. 159)
+
+Abjuration
+ <b>Level:</b>  Cleric 4,  Druid 4,  Ranger 4,  Sorcerer 5,  Wizard 5,   Elysium 2,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> 20 ft.
+ <b>Target:</b> One creature/level in a 20-ft.-radius burst centered on you
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You have barely time to bark out a few elder words of power, but then the pressure subsides, and you know you are safe long enough to complete your mission.</b>
+	
+This spell functions like <b>avoid planar effects</b> (page 19), except as noted above.
+ <b>Also appears in</b>   Planar Handbook     

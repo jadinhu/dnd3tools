@@ -1,0 +1,17 @@
+<b>Snowshoes</b>(Spell Compendium, p. 194)
+
+Transmutation
+ <b>Level:</b>  Cleric 1,  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>A chill grips you as you complete the spell and touch your intended subject. The feet of the spell's subject glow with an ice-blue radiance that fades but lingers. The creature rises slightly out of the snow, as if it weighed much less.</b>
+	
+The affected creature can walk lightly over ice and snow without having its speed reduced. The affected creature gains a 10-foot enhancement bonus to speed and is not required to make a Balance check or Reflex save to walk on ice and snow without slipping and falling, to avoid cracking ice it walks over, or to avoid falling through cracked ice. In addition, the affected creature does not leave a more readily discernible trail through ice and snow than it does on solid ground, denying trackers potential bonuses to follow the affected creature's path. (See Weather, <span class="caps">DMG</span> 93 � ;95, and Cold Dangers, <span class="caps">DMG</span> 302, for more details on the effects of weather and ice.)
+   

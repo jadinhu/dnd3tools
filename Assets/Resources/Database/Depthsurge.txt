@@ -1,0 +1,22 @@
+<b>Depthsurge</b>(Stormwrack)
+
+Evocation [Water]
+ <b>Level:</b>  Druid 8,  Sorcerer 8,  Wizard 8,   Seafolk 8,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 20 ft. radius
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The water within the area suddenly explodes outward in a massive surge, as if driven by a powerful explosion.
+Each creature or object in the area is subject to damage equal to 2d6 + caster level.
+Any creature struck by this attack must then succeed on a Fortitude save or be driven 10 feet away from the center of the blast.
+If a ship is in the area, the captain must immediately make a sinking check (DC equal to spell save DC).
+See Sinking, page 32.
+At least half of the spell's area must contain water at least 10 feet deep, or else the spell fails.
+You must center the effect at or below the water's surface.
+Material Component: A sphere of volcanic rock.
+   

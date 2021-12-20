@@ -1,0 +1,15 @@
+<b>Construct Energy Ward, Greater</b>(Eberron Campaign Setting, p. 109)
+
+Abjuration
+ <b>Level:</b>  Artificer 4,   Warforged 5,   
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Construct touched
+ <b>Duration:</b> 10 minutes/level or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+As <b>protection from energy</b>, except that the target must be a construct.
+   

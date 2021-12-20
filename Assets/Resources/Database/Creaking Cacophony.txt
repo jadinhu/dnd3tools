@@ -1,0 +1,19 @@
+<b>Creaking Cacophony</b>(Spell Compendium, p. 55)
+
+Illusion (Figment) [Sonic]
+ <b>Level:</b>  Bard 3,  Druid 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 40-ft.-radius spread
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Noise swells into a cacophonous din, as if hundreds of intertwined trees and branches were rubbing together in a chaotic medley of groans and creaks.</b>
+	
+The sound from this spell is as loud as a pitched battle and is audible far beyond the spell's area. Outside the spell's area, the sound is merely loud. Inside the spell's area, the sound is overwhelming. All creatures within the spell's area take a -4 penalty on Listen checks. Spellcasters are distracted and must make a Concentration check to cast any spell (DC equals this spell's DC+ the level of the spell being cast).
+	
+A creaking cacophony spell enhances and focuses sonic energy. Creatures in the area that do no have immunity to sonic damage gain vulnerability to sonic damage.
+   

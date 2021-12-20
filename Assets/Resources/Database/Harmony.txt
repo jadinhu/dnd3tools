@@ -1,0 +1,17 @@
+<b>Harmony</b>(Ghostwalk)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Variable (see below)
+
+ 	
+When you play your instrument, sing your song, recite your epic poem, or speak your words of encouragement, you fill your allies with greater confidence than normal.
+When under the effect of this spell, you grant a +4 morale bonus on saving throws against charm and fear effects and a +2 morale bonus on attack and weapon damage rolls when you use your inspire courage ability.
+The effect lasts as long as the effect of your inspire courage ability lasts.
+If you don't begin to inspire courage within 1 minute of casting this spell, the effects of harmony end.
+This spell first appeared in Magic of FaerÃ»n.
+ <b>Also appears in</b>   Magic of Faerun  Player's Guide to FaerÃ»n     

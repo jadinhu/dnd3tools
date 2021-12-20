@@ -1,0 +1,20 @@
+<b>Animate City</b>(Races of Destiny)
+
+Transmutation
+ <b>Level:</b>   City 9,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft.-radius emanation, centered on you
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The buildings and other structures of the city attack your enemies.
+Every round on your turn, every enemy within the spell's area is subject to one melee attack as if from a Gargantuan animated object (slam +15 melee, 2d8+10 damage).
+The animated city's attacks disregard cover and concealment (even invisibility is useless).
+In addition, all enemies within the area of the spell move at half normal speed (regardless of their mode of movement).
+Damage dealt to the animated city structures has no effect.
+You may cast this spell only when within a community at least as large as a small city (see page 137 of the Dungeon Master's Guide).
+   

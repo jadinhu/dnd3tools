@@ -1,0 +1,19 @@
+<b>Nixie's Grace</b>(Spell Compendium, p. 148)
+
+Transmutation [Water]
+ <b>Level:</b>  Bard 6,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You feel a longing for cool waters, and a forceful confidence manifests within you. Your movements and thoughts become filled with grace.</b>
+	
+This potent spell infuses you with powerful fey magic, granting you many of the traits and abilities of a nixie (MM 235). Upon casting this spell, you gain a swim speed of 30 feet. You can breathe underwater, and you gain low-light vision and damage reduction 5/cold iron. You also gain a +6 enhancement bonus to Dexterity, a +2 enhancement bonus to Wisdom, and a +8 enhancement bonus to Charisma.
+	
+Focus: A lock of nixie's hair, freely given to you by a nixie.
+   

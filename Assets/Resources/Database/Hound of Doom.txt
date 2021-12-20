@@ -1,0 +1,21 @@
+<b>Hound of Doom</b>(Complete Warrior)
+
+Illusion (Shadow)
+ <b>Level:</b>  Hexblade 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Shadowy hound
+ <b>Duration:</b> 1 minute/level (D) or until destroyed
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You shape the essence of the Plane of Shadow to create a powerful doglike companion that serves you loyally for the duration of the spell.
+The hound of doom has the statistics of a dire wolf (see page 65 of the Monster Manual) with the following adjustments: It gains a deflection bonus to Armor Class equal to your Charisma bonus, its hit points when created are equal to your full normal hit points, and it uses your base attack bonus instead of its own (adding its +7 bonus from Strength and -1 penalty from size as normal).
+You can command a hound of doom as a move action just as if it were fully trained to perform all the tricks listed in the Handle Animal skill (see page 74 of the Player's Handbook).
+If a hound of doom's hit points are reduced to 0, it is destroyed.
+A hound of doom is treated as a magical beast for the purpose of spells and effects, but it can also be dispelled.
+You can only have one hound of doom in existence at a time.
+If you cast a second hound of doom spell while the first is still active, the first hound is instantly dispelled.
+   

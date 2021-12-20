@@ -1,0 +1,20 @@
+<b>Rain of Roses</b>(Book of Exalted Deeds)
+
+Evocation [Good]
+ <b>Level:</b>  Druid 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> Cylinder (80-ft. radius, 80 ft. high)
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None (ability damage) and Fortitude negates (sickening)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Red roses fall from the sky.
+Their sharp thorns graze the flesh of evil creatures, dealing 1d4 points of temporary Wisdom damage per round.
+A creature reduced to 0 Wisdom falls unconscious as its mind succumbs to horrible nightmares.
+In addition, the beautiful rose petals sicken evil creatures touched by them; those that fail a Fortitude save are sickened (-2 penalty on attack rolls, weapon damage rolls, saving throws, ability checks, and skill checks) until they leave the spell's area.
+A successful Fortitude save renders a creature immune to the sickening effect of the roses, but not the ability damage caused by their thorns.
+Material Component: A red rose.
+   

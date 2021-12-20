@@ -1,0 +1,15 @@
+<b>Contagious Touch</b>(Complete Divine)
+
+Necromancy
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Upon casting this spell, you must choose one disease from this list: blinding sickness, cackle fever, filth fever, mindfire, red ache, the shakes, or slimy doom (see Disease, page 292 of the Dungeon Master's Guide, for descriptions).
+Any living creature you hit with a melee touch attack during the spell's duration is affected as though by the contagion spell, immediately contracting the disease you have selected unless it makes a successful Fortitude save.
+You cannot infect more than one creature per round.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Spell Compendium     

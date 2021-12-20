@@ -1,0 +1,27 @@
+<b>Triple Mask</b>(Lords of Darkness)
+
+Illusion (Shadow)
+ <b>Level:</b>  Cleric 7 (Cyric),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium(100 ft. + 10 ft./level)
+ <b>Effect:</b> Three shadow duplicates
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will disbelief (if interacted with)
+ <b>Spell Resistance:</b> No
+
+ 	
+You create three shadow duplicates of yourself; they look, sound, and smell like you but are intangible.
+You can switch your perceptions between any of the shadows and your own body as a free action on your turn.
+When you use the perceptions of a shadow, it mimics your actions (including speech) unless you concentrate on making it act differently.
+Any shadows you are not controlling remain inert.
+If you desire, any spell you cast whose range is touch or greater can originate from the controlled shadow instead of from you.
+(The shadows are quasi-real, just real enough to cast spells that you originate).
+A shadow can cast spells on itself only if those spells affect shadows.
+The shadows act similar to the servant conjured by an unseen servant spell.
+They are mindless, so while they can perform simple tasks such as opening doors, they cannot perform complex tasks such as puzzle solving.
+A controlled shadow can also be programmed to move in a particular direction or to a location you know.
+It moves at your speed and continues to move in this manner until it reaches its destination or you shift your perceptions to it and program it to go somewhere else.
+If you use dimension door, teleport, plane shift, or a similar spell that removes you from the same plane as the shadows, even momentarily, the spell ends.
+Normally this spell is used to give you several false bodies to use at once, with one as a safe haven for casting spells (similar to project image) and the other two acting as distractions.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

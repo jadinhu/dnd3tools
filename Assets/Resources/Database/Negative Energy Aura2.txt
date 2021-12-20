@@ -1,0 +1,15 @@
+<b>Negative Energy Aura</b>(Spell Compendium, p. 143)
+
+Necromancy
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Area:</b> 10-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>You speak the ancient words of this spell and an aura of black, crackling negative energy surrounds you.</b>
+	
+Each round on your turn, every living creature within 10 feet of you loses 1 hit point per three caster levels (maximum 5). Undead creatures instead gain 2 hit points per round (though they can't exceed their full normal hit point total from this effect). Characters with immunity to negative energy effects are not affected by this aura. The aura does not affect you.
+ <b>Also appears in</b>   Planar Handbook     

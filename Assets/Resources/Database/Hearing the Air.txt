@@ -1,0 +1,14 @@
+<b>Hearing the Air</b>(Tome of Battle: The Book of Nine Swords, p. 63)
+
+Diamond Mind (Stance)
+ <b>Level:</b>  Swordsage 5 (Two Diamond Mind maneuvers),  Warblade 5 (Two Diamond Mind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>Your perception becomes so fine that you can hear the tiniest flutter of air moving past you. Invisible foes and other hidden threats become as plain as day in the area of your heightened senses.</b>
+	
+Drawing on your combat training, sharpened senses, and capability to predict your enemy?s moves, you become a faultless sentinel on the battlefield. Even the smallest detail or stealthiest enemy cannot hope to evade your notice. While you are in this stance, you gain blindsense out to 30 feet and a +5 insight bonus on Listen checks.</p   

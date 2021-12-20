@@ -1,0 +1,23 @@
+<b>Translocation Trick</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> You and one other creature
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You and the other creature switch locations (as if simultaneously using dimension door spells) and exchange appearances (as if using alter self spells to appear as each other).
+Your target may resist this spell with a saving throw (the spell automatically affects you).
+If you or your subject exceeds the capacity of the dimension door spell or if you and your subject have bodies that are so different that the alter self spell could not disguise you as your subject, this spell fails.
+Magic that penetrates disguises (such as true seeing) reveals the identities of you and your subject.
+Otherwise, you are considered to be disguised as the other creature and vice versa for the duration of the spell.
+Actions by you or your subject (such as speaking inappropriately or attacking &quot;allies&quot;) can force Disguise checks or alert people nearby that something is wrong.
+You get a +10 bonus on Disguise checks to impersonate the subject.
+When the spell ends, you and the creature revert to your true appearances in your current locations.
+You do not switch locations again.
+ <b>Also appears in</b>   Spell Compendium     

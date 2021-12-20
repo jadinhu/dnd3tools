@@ -1,0 +1,22 @@
+<b>Detonate</b>(Player's Handbook II)
+
+Evocation [Death, Fire]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The creature you point at explodes in a massive spray of fire.
+If the target fails its saving throw, this spell slays the creature, and the explosion extends out to a 20-foot-radius burst around it.
+Creatures in this area take 1d6 points of fire damage per caster level (maximum 20d6), though they can attempt Reflex saves for half damage.
+The exploded creature's remains are scattered and vaporized, leaving nothing but dry ash.
+If the target succeeds on its saving throw, it is wracked by a series of small explosions and takes 7d6 points of fire damage.
+If this damage kills the creature, it explodes as described above.
+Detonate has no effect on creatures that have immunity to fire.
+Material Component: A tindertwig and a piece of string.
+   

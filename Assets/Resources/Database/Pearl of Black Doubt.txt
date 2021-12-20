@@ -1,0 +1,16 @@
+<b>Pearl of Black Doubt</b>(Tome of Battle: The Book of Nine Swords, p. 64)
+
+Diamond Mind (Stance)
+ <b>Level:</b>  Swordsage 3 (One Diamond Mind maneuver),  Warblade 3 (One Diamond Mind maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>With every miss, your opponents become more uncertain, their doubt growing like an irritating pearl in the mouth of a helpless oyster.</b>
+	
+You prey on your opponents? fear and lack of confidence. Each failed attack against you reminds them that their skill cannot hope to match yours.
+	
+When you enter this stance, you become more difficult to hit with each successive attack that misses you. Each time an opponent misses you with a melee attack, you gain a +2 dodge bonus to AC. This bonus lasts until the start of your next turn and is cumulative for the round. The bonus applies to any attacks made by all opponents until the beginning of your next turn.</p   

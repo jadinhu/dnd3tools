@@ -1,0 +1,18 @@
+<b>Diminish Breath Weapon</b>(Dragons of Faerun)
+
+Transmutation
+ <b>Level:</b>  Bard 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The creature looks confused as it exhales a much smaller breath weapon than expected.
+The targeted creature's breath weapon loses 1 die of damage per caster level.
+This spell cannot reduce the target's breath weapon to less than 1 die of damage.
+Special: If you sprinkle ashes of an object damaged or destroyed by the breath weapon of the type of dragon being targeted (worth at least 100 gp), the caster level of the spell increases by two.
+   

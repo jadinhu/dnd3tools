@@ -1,0 +1,27 @@
+<b>Constricting Chains</b>(Book of Exalted Deeds)
+
+Evocation [Good]
+ <b>Level:</b>   Sanctified 7,   
+<b>Components:</b>V, S, AF, Sacrifice
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You call upon the heavenly powers to bind a creature in writhing chains of scintillating light.
+The creature is entangled, taking a -2 penalty on attack rolls and a -4 penalty to effective Dexterity.
+Moreover, the chains are anchored to the nearest immobile object (usually the floor), preventing the bound creature from moving.
+An entangled creature attempting to cast a spell must succeed on a Concentration check (DC 15 + spell level) or lose the spell.
+The chains automatically constrict the bound creature for 3d6 points of nonlethal damage per round unless the caster (as a free action) commands the chains not to deal damage during any given round.
+The constricting chains have AC 20, 5 hp per caster level (maximum 100 hp), and damage reduction 10/magic.
+They are immune to energy-based attacks, nonlethal damage, and all spells except dispel magic and similar effects.
+They are not subject to critical hits.
+Half of all damage dealt to the chains (rounded down) is transferred to the target.
+A successful DC 32 Strength check breaks the chains and ends the spell.
+An entangled creature can also attempt to escape (requiring 1 minute) with a DC 40 Escape Artist check.
+Focus: A small silver chain (10 gp).
+Sacrifice: 1d2 points of Strength drain.
+   

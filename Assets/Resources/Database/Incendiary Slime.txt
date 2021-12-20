@@ -1,0 +1,13 @@
+<b>Incendiary Slime</b>(Complete Mage)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>
+
+ 	
+A slick, greasy liquid seeps from the targeted object, thoroughly coating it.
+This spell functions like grease (PH 237), but the liquid is also highly flammable.
+If any fire damage is dealt within the area of the spell (or to the subject of the spell), the spell's area (or subject) bursts into flame.
+This effect deals 4d6 points of damage to anyone in the area (or holding the subject), but also ends the spell's duration.
+A successful Reflex save halves this damage.
+   

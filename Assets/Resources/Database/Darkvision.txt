@@ -1,0 +1,19 @@
+<b>Darkvision</b>(Player's Handbook v.3.5, p. 216)
+
+Transmutation
+ <b>Level:</b>  Telflammar Shadowlord 1,  Court Herald 2,  Savant 2 (Arcane),  Jester 2,  Death Master 2,  Sha'ir 2,  Duskblade 2,  Fatemaker 2,  Knight of the Weave 2,  Hunter of the Dead 2,  Runescarred Berserker 2,  Wizard 2,  Sorcerer 2,  Ebonmar Infiltrator 3,  Ranger 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject gains the ability to see 60 feet even in total darkness. Darkvision is black and white only but otherwise like normal sight. Darkvision does not grant one the ability to see in magical darkness.
+	
+Darkvision can be made permanent with a permanency spell.
+	
+Material Component: Either a pinch of dried carrot or an agate.
+   

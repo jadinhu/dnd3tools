@@ -1,0 +1,17 @@
+<b>Delusions of Grandeur</b>(Spell Compendium, p. 63)
+
+Illusion (Phantasm) [Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>By shouting flattering comments at your intended subject, you release the energy of the spell. The target of your spell glows momentarily with a white nimbus of crackling energy that fades to a sickly gray before disappearing completely.</b>
+	
+This powerful phantasm fools the subject into believing itself more competent and safe than it really is. The spell makes any action the subject considers attempting seem easily accomplished, requiring only a token effort. Deadly wounds seem like mere scratches, stalwart foes appear weak and intimidated, and the subject's own attacks seem stronger and more effective. As a result of its skewed perceptions, the subject takes a -2 penalty on attack rolls, saves, ability checks, and skill checks, as well as to Wisdom. This penalty cannot reduce the subject's Wisdom below 1. Finally, the subject becomes so completely enamored with its own (false) abilities that it cannot fight defensively or take the total defense action.
+   

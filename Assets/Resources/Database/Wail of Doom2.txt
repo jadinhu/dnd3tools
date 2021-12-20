@@ -1,0 +1,19 @@
+<b>Wail of Doom</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 5,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Cone
+ <b>Duration:</b> Instantaneous (see text)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Anyone caught in the cone of this spell suffers excruciating pain and is disheartened and demoralized besides.
+Each creature that fails its Will save takes 1d4 points of damage per caster level, suffers a -2 morale penalty on saving throws for 1 round per caster level, and flees from the caster for the same period.
+A fleeing creature has a 50% chance to drop whatever it's holding.
+It chooses a random path of flight away from the caster and flees any other dangers that confront it as well.
+If cornered, the affected creature cowers instead of fleeing (see Condition Summary in Chapter 3 of the Dungeon Master's Guide).
+ <b>Also appears in</b>   Spell Compendium  Complete Adventurer     

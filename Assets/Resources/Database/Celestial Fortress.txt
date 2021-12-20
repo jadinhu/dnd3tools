@@ -1,0 +1,15 @@
+<b>Celestial Fortress</b>(Champions of Valor)
+
+Conjuration (Creation)
+ <b>Level:</b>   Sanctified 4,   
+<b>Components:</b>V, S, DF, Sacrifice
+
+ 	
+This spell functions like Leomund's secure shelter, except as noted above and as follows.
+The structure is a simple flat-roofed fort rather than a cottage.
+It has a sturdy door and a fireplace but no windows; access to the roof is through a ladder and a sturdy hatch.
+The fortress resonates with the power of your deity's home plane, and it is protected by consecrate and magic circle against evil.
+The fortress's appearance reflects your deity and deity's realm.
+For example, Mystra's forts created by this spell look like high-fantasy castles, those of Mulhorandi deities look native to their land, those of dwarven deities look very dwarflike, and so on.
+Sacrifice Component: 1d2 points of Constitution damage.
+   

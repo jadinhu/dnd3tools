@@ -1,0 +1,19 @@
+<b>Disguise Ship</b>(Stormwrack)
+
+Illusion (Glamer)
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One ship
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will disbelief (if interacted with)
+ <b>Spell Resistance:</b> No
+
+ 	
+You cloak a ship in illusion, making it appear as a ship of another type of your choice.
+You can choose what it appears as down to small details such as what weaponry it bears and what flags it is flying.
+You can make the ship to be any other water-going vessel, though it cannot seem to be more than 50% smaller or larger.
+Creatures within the area are not hidden or changed in appearance, nor are their possessions.
+Material Component: A tiny replica of a ship.
+   

@@ -1,0 +1,22 @@
+<b>Quill Blast</b>(Complete Divine)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> 20-ft.-radius spread, centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Needle-sharp quills emerge from your skin as you cast this spell, then fly outward in every direction when you complete the spell.
+Creatures within the spread of a quill blast are hit by one or more quills, depending on their size:
+Creatures who make their saves are struck by half as many quills; Tiny or smaller creatures avoid the quills completely.
+Each quill inflicts 1d6 points of piercing damage and lodges itself in the flesh of any living creature it hits.
+Lodged quills impose a -1 penalty on attacks, saves, and checks per quill.
+A quill can be removed safely as a standard action with a DC 20 Heal check.
+Otherwise, removing a quill deals an extra 1d6 points of damage.
+Material Component: Porcupine quill.
+ <b>Also appears in</b>   Spell Compendium     

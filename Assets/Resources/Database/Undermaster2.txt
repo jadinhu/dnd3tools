@@ -1,0 +1,19 @@
+<b>Undermaster</b>(Underdark)
+
+Transmutation [Earth]
+ <b>Level:</b>  Druid 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You take up the mantle of the earth, gaining power over it as long as you stand upon or beneath its surface.
+While energized with the awesome power of this spell, you may choose a spell from those listed below once per round and use it as a spell-like ability.
+Using a spell in this way requires a standard action, even if the spell would normally have a longer casting time (such as move earth).
+The spells granted by undermaster are burrow, earthquake,
+excavate, flesh to stone,meld into stone,move earth, reverse gravity, soften earth and stone, statue, stone shape, stone sphere,
+stone tell, stone to flesh, transmute mud to rock, transmute rock to mud, and wall of stone.
+XP Cost: 1,000 XP.New spell described in this chapter.
+ <b>Also appears in</b>   Spell Compendium     

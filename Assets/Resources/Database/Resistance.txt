@@ -1,0 +1,17 @@
+<b>Resistance</b>(Player's Handbook v.3.5, p. 272)
+
+Abjuration
+ <b>Level:</b>  Bard 0,  Death Master 0,  Sha'ir 0,  Wu Jen 0,  Wizard 0,  Sorcerer 0,  Druid 0,  Cleric 0,  Urban Druid 0,  Vigilante 1,  Paladin 1,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You imbue the subject with magical energy that protects it from harm, granting it a +1 resistance bonus on saves.
+Resistance can be made permanent with a permanency spell.
+Arcane Material Component: A miniature cloak.
+   

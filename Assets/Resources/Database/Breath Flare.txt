@@ -1,0 +1,16 @@
+<b>Breath Flare</b>(Draconomicon)
+
+Transmutation [Light]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>S, <abbr title="Meta Breath">MB, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your breath weapon
+ <b>Duration:</b> Instantaneous
+
+ 	
+If your breath weapon uses fire or electricity, it is suffused with bright light.
+In addition to taking the normal fire or electricity damage, creatures that fail their saving throws against the breath weapon are dazzled for 1 minute per caster level.
+Sightless creatures are not affected by breath flare.
+The modification applies only to the breath produced as part of casting.
+ <b>Also appears in</b>   Spell Compendium     

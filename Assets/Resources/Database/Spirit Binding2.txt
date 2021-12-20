@@ -1,0 +1,11 @@
+<b>Spirit Binding</b>(Oriental Adventures)
+
+Conjuration (Calling) [see text]
+ <b>Level:</b>  Wu Jen 6,    
+<b>Components:</b>V, S, 
+ <b>Target:</b> Up to 16 HD worth of spirits, no two of which can be more than 30 ft. apart when they appear
+
+ 	
+As lesser spirit binding, except you may call a single spirit of up to 16 HD or a number of spirits of the same type whose HD total no more than 16.
+Each spirit gets a save, makes an independent attempt to escape, and must be individually persuaded to aid you.
+ <b>Also appears in</b>   Complete Arcane     

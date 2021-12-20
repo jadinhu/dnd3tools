@@ -1,0 +1,20 @@
+<b>Burial Blessing</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Abjuration [Good]
+ <b>Level:</b>  Cleric 1,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Area:</b> Corpse touched
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+By means of this spell, the cleric wards a corpse from evil influences and effects.
+Unless the corpse is desecrated or the blessing is countered, the corpse cannot be magically animated or rise as an undead minion (a ghoul or vampire, for example).
+Also, anyone trying to disturb the body is struck by a sudden fear and must make a Will save or flee the location for 1 minute per caster level.
+If the protected corpse is subsequently brought back to life, the burial blessing ends.
+Material Component: The caster's holy symbol and a vial of holy or unholy water, according to alignment, which is sprinkled on the corpse.
+XP Cost: 100 XP.
+   

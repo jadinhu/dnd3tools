@@ -1,0 +1,24 @@
+<b>Spiderbind</b>(Champions of Valor)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One spider or spiderlike creature/level, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+An affected creature moves and attacks at a drastically reduced rate, as the slow spell.
+It can only take a single move action or standard action each turn, but not both (nor can it take fullround actions).
+Additionally, it takes a -1 penalty on attack rolls, AC, and Reflex saves.
+A slowed creature moves at half its normal speed (round down to the next 5-foot increment), which affects the creature's jumping distance as normal for decreased speed.
+In addition, any attack by the creature that would normally include poison (such as a spider's bite) does not do so, but all other effects associated with that attack apply.
+For example, if an aranea subject to spiderbind cast a touch spell and then bit a creature, the attack would deal normal bite damage and trigger the touch spell, but the bite would not inject poison.
+While you have this spell prepared, you get a +2 circumstance bonus on saving throws against poison.
+Clerics of Eilistraee created this spell to help battle the many spiderlike creatures that serve Lolth.
+Araneas, bebiliths, chitines, choldriths, driders, ettercaps, myrlochars, phase spiders, retrievers, and yochlols are sufficiently spiderlike to be affected by this spell.
+For a more complete list of creatures that qualify as spiderkind, see page 30 of Underdark.
+   

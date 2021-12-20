@@ -1,0 +1,24 @@
+<b>Spore Field</b>(Complete Scoundrel)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 10-ft.-radius spread
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+The ground at which you point erupts with countless puffball mushrooms.
+You cause the ground to become thick with spore-ridden fungus.
+The area affected by this spell becomes difficult terrain.
+Entering a square of difficult terrain costs 2 squares of movement, and creatures cannot charge or run through such squares (PH 148).
+The uneven surface created by this spell also increases the DCs of Balance and Tumble checks by 5 and the DC of Move Silently checks by 2.
+In addition, any creature that enters a square affected by this spell bursts several mushrooms, causing their choking spores to fill the air.
+The spores render the creature sickened for 1 round (Fortitude negates).
+Treat the spore cloud as an inhaled poison for the purpose of bonuses on the save or immunity to poison.
+Entering more than one affected square during a turn doesn't force multiple saves.
+You can cast spore field on any type of ground or flooring, regardless of the material that comprises it.
+   

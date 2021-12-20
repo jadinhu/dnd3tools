@@ -1,0 +1,18 @@
+<b>Dancing Dragonmark</b>(Dragonmarked, p. 149)
+
+Transmutation
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, Dragonmark
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Close (25ft. + 5ft./2 levels)
+ <b>Target:</b> Up to one dragonmarked creature per level, all within 30 ft of each other
+ <b>Duration:</b> Concentration
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A creature affected by <b>dancing dragonmark</b> is nauseated.
+If the target creature's dragonmark is one step more powerful than yours, that creature it gains a +2 bonus to its Will save. If the target creature's dragonmark is two steps more powerful than yours, that creature it gains a +4 bonus to its Will save.
+	
+<b>Dragonmark:</b> Any true or aberrant dragonmark.
+   

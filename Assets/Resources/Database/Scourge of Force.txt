@@ -1,0 +1,19 @@
+<b>Scourge of Force</b>(Champions of Ruin)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One tendril of force plus one additional tendril per three caster levels (maximum four)
+ <b>Target:</b> One or more targets, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+One or more whiplike tendrils of force spring from your hand and lash targets within range.
+Make a melee touch attack for each tendril using your highest attack bonus.
+If a tendril hits, it deals 1d8 points of force damage plus 1 point of force damage per two caster levels (maximum 1d8+5).
+You can lash a target with multiple tendrils.
+   

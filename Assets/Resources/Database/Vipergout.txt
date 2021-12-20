@@ -1,0 +1,23 @@
+<b>Vipergout</b>(Magic of Faerun)
+
+Conjuration (Summoning) [see text]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Effect:</b> 1d4+3 summoned creatures
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell summons 1d4+3 fiendish (CE) or celestial (CG) Medium-size vipers (snakes), which leap forth from your mouth to attack your enemies.
+Starting on the round you complete the spell, you may spit forth vipers until you reach the number summoned by the spell.
+You may spit three vipers as a standard action or one viper as a move-equivalent action.
+Spat vipers land at your feet and act on your turn just as creatures summoned by a summon monster spell.
+Until you have brought forth all the snakes summoned by the spell, you cannot speak, cast spells with verbal components, or activate items that require speech.
+The snakes are not actually present in your mouth, and do not interfere with your breathing.
+At the end of the spell, all the vipers disappear, and any not brought forth are lost.
+When you use a summoning spell to summon an evil or good creature, it is a spell of that type.
+Material Component: A snakeskin.
+ <b>Also appears in</b>   Spell Compendium  Savage Species  Player's Guide to FaerÃ»n     

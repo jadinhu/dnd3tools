@@ -1,0 +1,25 @@
+<b>Dragon Breath</b>(Draconomicon)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+You gain a breath weapon resembling that of a dragon.
+When you cast this spell, you choose both the shape and energy type of the breath weapon, from the following options: line (acid, electricity, or fire) or cone (acid, cold, or fire).
+A line is 5 feet high, 5 feet wide, and 60 feet long, while a cone is 30 feet long, 30 feet high, and 30 feet wide.
+Once you make the selection of shape and energy type, it is fixed for the duration of the spell.
+Using your breath weapon is a standard action.
+The breath weapon deals 3d6 points of damage of the chosen energy type, plus an additional 1d6 points of damage for every two levels above 5th (to a maximum of 10d6 at 19th level).
+Targets in the area may attempt a Reflex save for half damage.
+You can use this breath weapon up to three times during the spell's duration (plus one additional use per two levels above 5th).
+After using this breath weapon, you can't use it again for 1d4+1 rounds.
+(Using this breath weapon has no effect on your ability to use other breath weapons you might have, and vice versa).
+You can't have more than one dragon breath spell active at the same time.
+Even though using your breath weapon poses no danger to you, you don't gain any resistance or immunity to the energy type of the weapon.
+Special: Sorcerers cast this spell at +1 caster level.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine     

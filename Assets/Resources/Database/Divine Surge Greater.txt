@@ -1,0 +1,15 @@
+<b>Divine Surge, Greater</b>(Tome of Battle: The Book of Nine Swords, p. 58)
+
+Devoted Spirit (Strike)
+ <b>Level:</b>  Crusader 8 (Two Devoted Spirit maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round; see text
+
+ 	
+<b>A torrent of divine energy courses through you. With supreme force of will, you channel the energy into a devastating attack even as it saps your mortal form.</b>
+	
+As part of this maneuver, you make a single melee attack that deals an extra 6d8 points of damage. In addition, before making this melee attack, you can also decide to take a number of points of Constitution damage equal to your initiator level or lower. For each point of Constitution damage you take, you gain a +1 bonus on your attack roll and deal an extra 2d8 points of damage. After using this maneuver, you are considered flat-footed until the beginning of your next turn.
+   

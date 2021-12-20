@@ -1,0 +1,20 @@
+<b>Shadow Arrow</b>(Champions of Ruin)
+
+Necromancy
+ <b>Level:</b>  Assassin 4,  Justice of Weald and Woe 4,  Ranger 4,    
+<b>Components:</b>V, M, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> One masterwork arrow or bolt
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell is cast upon a masterwork arrow or bolt, transforming it into pure black shadow.
+Make a ranged touch attack with the missile instead of a normal ranged attack.
+Instead of dealing normal damage, a shadow arrow deals 1d6 points of Strength damage.
+The arrow or bolt must be fired during the same round the spell is cast, or the magic dissipates and is lost.
+The projectile is destroyed even if it misses its target.
+Material Component:Masterwork arrow or bolt.
+   

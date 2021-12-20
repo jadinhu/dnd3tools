@@ -1,0 +1,16 @@
+<b>Ebon Eyes</b>(Spell Compendium, p. 77)
+
+Transmutation
+ <b>Level:</b>  Assassin 1,  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (Harmless)
+
+ 	
+The subject of this spell gains the ability to see normally in natural and magical darkness, although it does not otherwise improve the subject's ability to see in natural dark or shadowy conditions. The subject ignores the miss chance due to lack of illumination other than total darkness. While the spell is in effect, a jetÂ-black film covers the subject's eyes, a visual effect that gives the spell its name.
+	
+<b>Material Component:</b> A pinch of powdered black gemstone of any type.</p   

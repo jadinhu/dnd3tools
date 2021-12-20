@@ -1,0 +1,24 @@
+<b>Spiritual Chariot</b>(Complete Divine)
+
+Conjuration (Creation)
+ <b>Level:</b>  Blackguard 4,  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One special mount
+ <b>Duration:</b> 1 hour/level
+
+ 	
+When this spell is cast, a ghostly chariot forms behind the paladin's special mount.
+The chariot is large and ornate, and it is made of transparent, faintly glowing energy.
+Usually the holy symbol of the paladin's deity is emblazoned on the sides of the chariot.
+The mount is correctly harnessed to the chariot.
+The chariot can hold 1 Medium creature or two Small creatures plus the driver (usually the paladin).
+Although the chariot seems large and sturdy, it and its occupants have no weight for the purpose of the mount's load, so the horse can travel at full speed.
+If the chariot is ever unhitched from the special mount, it disappears.
+The driver of the spiritual chariot gains a +4 sacred bonus on her Handle Animal checks.
+The chariot is made of magical force and is immune to damage.
+It interacts with other spells just like a wall of force.
+Those in the chariot have cover based on their size and the position of their attackers.
+In most situations, Medium creatures inside the chariot gain cover (+4 bonus to AC, +2 bonus on Reflex saving throws).
+ <b>Also appears in</b>   Spell Compendium     

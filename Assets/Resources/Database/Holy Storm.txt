@@ -1,0 +1,23 @@
+<b>Holy Storm</b>(Planar Handbook)
+
+Conjuration (Creation) [Good, Water]
+ <b>Level:</b>  Cleric 3,  Paladin 3,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Area:</b> 20-ft. radius, centered on you
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A driving rain falls around you.
+It falls in a fixed area once created.
+The storm reduces hearing and visibility, resulting in a -4
+penalty on Listen, Spot, and Search checks.
+It also applies a -4 penalty on all ranged attacks made into, out of, or through the storm.
+Finally, it automatically extinguishes any unprotected flames and has a 50% chance to extinguish protected flames (such as those of lanterns).
+The rain damages evil creatures, dealing 2d6 points of damage per round (evil outsiders take double damage).
+In addition, each round, a blast of frost strikes a randomly selected evil outsider within the spell's area, dealing 5d6 points of cold damage.
+After the spell's duration expires, the water disappears.
+Material Component: A flask of holy water.
+ <b>Also appears in</b>   Spell Compendium     

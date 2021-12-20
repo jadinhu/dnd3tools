@@ -1,0 +1,17 @@
+<b>Ectoplasmic Armor</b>(Spell Compendium, p. 77)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With a final word, shimmering translucent slime appears around the target and fits to its form like a suit of plate.</b>
+	
+The subject of the spell gains a +5 armor bonus to AC, with an additional +1 to the bonus for every four caster levels you have (maximum +9 bonus at 16th level). This armor bonus applies only against incorporeal touch attacks. All other attacks ignore the armor bonus from ectoplasmic armor.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

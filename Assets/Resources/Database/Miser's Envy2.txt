@@ -1,0 +1,23 @@
+<b>Miser's Envy</b>(Spell Compendium, p. 142)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Wizard 3,  Sorcerer 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Upon invoking the power of this spell, both the dwarf and the small idol across the room glow with a violet shade. The dwarf starts moving toward it, his eyes tinged violet with greed.</b>
+	
+When you cast this spell, you designate a target creature and specify an object, both of which must be within the spell's range. If the target creature fails its saving throw, it becomes consumed by a powerful desire for the object. For the duration of the spell, the creature seeks to obtain the object (going so far as to attack anyone holding or wearing it).
+	
+Once the creature gains possession of the object, it protects the item greedily, attacking anyone who approaches within 30 feet or who otherwise appears to be trying to take the object away. If no one approaches within 30 feet or seems interested in trying to take the object, the subject can act normally.
+	
+Dragons, due to their greedy nature, take a -4 penalty on their saving throws against this spell.
+	
+Material Component: A copper piece.
+ <b>Also appears in</b>   Draconomicon     

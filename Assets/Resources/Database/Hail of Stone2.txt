@@ -1,0 +1,18 @@
+<b>Hail of Stone</b>(Oriental Adventures)
+
+Conjuration (Creation)
+ <b>Level:</b>  Wu Jen 1 (Earth),   Stone 2,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Cylinder (5-ft. radius, 40 ft. high)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a rain of stones, causing damage to creatures and objects within the area.
+Make a ranged attack roll (not a touch attack roll) on every creature and relevant object in the area.
+A successful hit deals 1d3 points of damage per level (maximum 5d3).
+Material Component: A piece of jade worth at least 5 gp.
+ <b>Also appears in</b>   Underdark  Complete Arcane     

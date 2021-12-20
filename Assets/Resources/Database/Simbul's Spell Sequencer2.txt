@@ -1,0 +1,18 @@
+<b>Simbul's Spell Sequencer</b>(Player's Guide to FaerÃ»n)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>
+ <b>Effect:</b> Matrix that holds two of your spells
+
+ 	
+This spell functions like Simbul's spell matrix, except that you can store up to two spells of up to 3rd level, and you take 2d6 points of damage instead of 1d6 upon casting.
+The matrix closes after 2 rounds and no more spells can be added, even if it is not full.
+In addition, you may decide to link the two spells stored in the matrix into a spell sequence if both are 2nd level or lower.
+You may then discharge the two linked spells as a single free action, just as if you were casting the lone spell from a Simbul's spell matrix.
+A dispel magic spell that successfully dispels the matrix also dispels all the spells held inside it.
+If you are affected by an antimagic field, the duration of the matrix is interrupted, but the spells do not activate.
+The matrix becomes active again when you emerge from the antimagic field.
+If you die, all spells in the matrix dissipate harmlessly.
+Focus: A sapphire with a minimum value of 1,000 gp.
+ <b>Also appears in</b>   Magic of Faerun     

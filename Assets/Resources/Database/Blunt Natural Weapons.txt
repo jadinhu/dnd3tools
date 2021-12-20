@@ -1,0 +1,19 @@
+<b>Blunt Natural Weapons</b>(Dragons of Faerun)
+
+Transmutation
+ <b>Level:</b>  Assassin 3,  Bard 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The target's bite, claws, and other natural weapons appear to grow smaller and weaker.
+This spell weakens the natural weapons of the target creature.
+All the damage dice of the target's natural weapons are decreased by 1 step for every five levels of the caster.
+You cannot reduce the target's natural weapon damage to less than 1d2 points of damage.
+Special: Dragonblood creatures cast this spell at +1 caster level.
+   

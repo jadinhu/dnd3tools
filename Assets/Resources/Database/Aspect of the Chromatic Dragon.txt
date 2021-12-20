@@ -1,0 +1,18 @@
+<b>Aspect of the Chromatic Dragon</b>(Dragon Magic)
+
+Transmutation (Polymorph) [Evil]
+ <b>Level:</b>  Sorcerer 8,    
+<b>Components:</b>V, S, Evil
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Your body becomes powerfully muscled as multicolored scales cover your flesh.
+Four draconic heads sprout from your shoulders.
+You take the form of an aspect of Tiamat (see page 110).
+You gain 100 temporary hit points, which disappear at the end of the spell's duration.
+For details, see The Polymorph Subschool on page 60.
+Evil: Only evil-aligned characters can cast this spell.
+   

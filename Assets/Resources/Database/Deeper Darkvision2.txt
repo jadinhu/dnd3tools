@@ -1,0 +1,17 @@
+<b>Deeper Darkvision</b>(Underdark)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,  Prime Underdark Guide 4,  Ranger 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject gains the ability to see 60 feet in total darkness and even magical darkness (such as might be created by a blacklight or deeper darkness spell).
+Deeper darkvision is black and white only but otherwise similar to normal sight.
+Material Component: A pinch of dried carrot or an agate.
+ <b>Also appears in</b>   Spell Compendium     

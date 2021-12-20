@@ -1,0 +1,13 @@
+<b>Resurgence, Mass</b>(Complete Divine)
+
+Abjuration
+ <b>Level:</b>  Blackguard 3,  Paladin 3,  Cleric 4,    
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like resurgence, except that it affects multiple creatures.
+The spell grants a second save attempt against a single spell or ability chosen by the caster.
+If three of the your allies have been mind blasted by mind flayers and two others have been turned into toads by baleful polymorph spells, you must choose either the mind blast (granting three new save attempts) or the baleful polymorphs (granting two new save attempts).
+ <b>Also appears in</b>   Spell Compendium     

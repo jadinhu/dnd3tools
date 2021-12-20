@@ -1,0 +1,23 @@
+<b>Leap Into Animal</b>(Magic of Eberron, p. 97)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Target:</b> You and one willing animal; see text
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Leap into animal enables you to meld your body and up to 100 pounds of nonliving gear into a single willing animal (such as an animal companion). The animal must be your size category or larger. To any observer, you appear to leap and phase into the animal; you are gone, while the animal remains. For all intents and purposes, you no longer exist while merged with the animal, and you cannot be detected or affected by anything as long as you remain within it.
+	
+While melded with the animal, you mentally direct its actions. You can make it attack, run, or take any other action it could normally physically accomplish. However, because you are directing the animal with your own intelligence, it can undertake actions normally beyond its own instincts (such as manipulating objects with its claws or mouth). Suicidal or self-destructive commands (including an order to attack a creature two or more size categories larger) are ignored. You receive direct sensory input from the creature using its normal senses and skill modifiers.
+	
+You cannot take any mental actions while within the animal other than directing it or dismissing the effect (such that you cannot manifest a psionic power or cast a spell, even if it has no components).
+	
+Injury to the animal has no effect on you. If the animal is killed, if the spell is dispelled or dismissed, or if the spell's duration expires, you appear (as if leaping forth from the animal) in an open space of your choice within 10 feet of the animal's position. If no open space exists, you are shunted to the nearest open space and take 1d6 points of damage per 10 feet so moved.
+	
+<b>Special:</b> A character with any Mark of Handling dragonmark, or with the Favored in House feat (Vadalis), can use this spell to merge with an unwilling animal.
+   

@@ -1,0 +1,20 @@
+<b>Heart of Fire</b>(Complete Mage)
+
+Transmutation [Fire]
+ <b>Level:</b>  Druid 5,  Sorcerer 5,  Wizard 5,  Wu Jen 5 (fire),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D) or until expended
+
+ 	
+You feel a sudden flame burning within you.
+This spell converts part of your body into elemental fire, which speeds your step and toughens your flesh.
+You gain a +10-foot enhancement bonus to your land speed and resistance to fire 20.
+Furthermore, while this spell is active, you can activate a fire shield effect (as the spell; fire-based protection only) on yourself as a swift action.
+This benefit lasts for 1 round per level, at the end of which time the spell's entire effect ends.
+If heart of fire is active on you at the same time as heart of air,
+heart of earth, or heart of water, you gain light fortification.
+If all four of these spells are active on you at the same time, you become immune to extra damage from critical hits and sneak attacks.
+   

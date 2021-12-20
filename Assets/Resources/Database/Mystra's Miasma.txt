@@ -1,0 +1,21 @@
+<b>Mystra's Miasma</b>(Player's Guide to FaerÃ»n)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 5 ft./level)
+ <b>Area:</b> 30-ft.-radius emanation, +5 ft./level
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will partial; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+This potent spell conjures forth a thick, billowing cloud of mist that functions as a solid fog spell.
+In addition, the mist creates a &quot;sinkhole&quot; in the Weave, greatly reducing the power of spellcasters in that spot.
+Each character within the area of Mystra's miasma takes a -4 penalty on caster level checks when attempting to cast spells.
+A successful Will save made upon first entering the miasma negates this effect.
+Creatures who access the Shadow Weave to cast their spells are immune to the caster level check penalty unless you also call upon the Shadow Weave.
+In that case, the spell is called Shar's miasma and Weave users are immune to the caster level check penalty.
+Material Component: A small piece of quilted cloth, which must be soaked in water while the spell is cast.
+   

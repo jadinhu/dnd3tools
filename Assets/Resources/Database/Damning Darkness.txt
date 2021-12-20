@@ -1,0 +1,19 @@
+<b>Damning Darkness</b>(Book of Vile Darkness)
+
+Evocation [Darkness, Evil]
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,   Darkness 4,   
+<b>Components:</b>V, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell is similar to darkness, except that those within the area of darkness also take unholy damage.
+Creatures of good alignment take 2d6 points of damage per round in the darkness, and creatures neither good nor evil take 1d6 points of damage.
+As with the darkness spell, the area of darkness is a 20-foot radius, and the object that serves as the spell's target can be shrouded to block the darkness (and thus the damaging effect).
+Damning darkness counters or dispels any light spell of equal or lower level.
+Arcane Material Component: A dollop of pitch with a tiny needle hidden inside it.
+ <b>Also appears in</b>   Lords of Madness     

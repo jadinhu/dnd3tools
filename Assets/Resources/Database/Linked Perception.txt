@@ -1,0 +1,18 @@
+<b>Linked Perception</b>(Player's Handbook II)
+
+Divination
+ <b>Level:</b>  Ranger 1,  Druid 2,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> 20-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Your senses are muddied for a moment, but when they clear, your sight and hearing are improved.
+This spell imparts to all allies in its area a shared awareness of their surroundings.
+Each ally in the area (including yourself ) gains a +2 bonus on Spot and Listen checks per each ally in the area.
+For example, if you and three allies are in the area, each of you gains a +6 bonus.
+   

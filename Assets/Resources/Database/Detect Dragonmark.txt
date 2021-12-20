@@ -1,0 +1,21 @@
+<b>Detect Dragonmark</b>(Magic of Eberron, p. 95)
+
+Divination
+ <b>Level:</b>  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, DF, Arcane Material Component: A scale from a true dragon
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped emanation
+ <b>Duration:</b> Concentration, up to 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can sense the presence of dragonmarks. The amount of information you receive about a particual dragonmark depends on how long you study a particular area or subject.
+	
+<b>1st Round:</b> Presence or absence of dragonmarks.
+	
+<b>2nd Round:</b> Number of dragonmarks (on creatures or objects) in the area, and the type (abberant, least, lesser, greater or Siberys) of the most potent dragonmark.
+	
+<b>3rd Round:</b> The location and type of each dragonmark. If the object or creatures bearing the dragonmarks are in line of sight, you can attempt Spellcraft checks to determine the name of the spell-like ability granted by the mark (see page 47 of the <b><span class="caps">EBERRON</span> Campaign Setting</b> for the appropriate DC). If you beat the DC by 5 or more, you also learn whether the mark's spell-like ability has any remaining uses for the day.
+   

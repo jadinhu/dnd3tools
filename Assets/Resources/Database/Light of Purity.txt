@@ -1,0 +1,16 @@
+<b>Light of Purity</b>(Complete Champion)
+
+Abjuration [Good]
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Holy symbol touched
+ <b>Duration:</b> 1 round/level, or until discharged
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Your holy symbol gleams with a bright, white light that seems to cleanse the air around you of the foul stench emanating from your undead enemies.
+When you cast this spell on your holy symbol, your turning damage increases by 1d6 per four divine caster levels you possess (maximum +5d6) on your next successful turning check.
+   

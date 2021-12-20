@@ -1,0 +1,26 @@
+<b>Slipsand</b>(Sandstorm)
+
+Transmutation
+ <b>Level:</b>  Druid 4,  Ranger 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> One 10-ft.-cube region of slipsand/level
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell turns an area of natural sand into a pit of deadly slipsand (see page 25).
+Supernatural sandlike materials, such as black sand or slumber sand, are not affected by the spell.
+A creature unable to free itself from the slipsand immediately sinks to the bottom and must hold its breath or begin to suffocate.
+If slipsand is cast on a structure of fused sand or on a sandy foundation, it causes the affected part (or more) of the structure to collapse.
+If the spell is cast on a building's material, slipsand spreads out to fill the available space, possibly burying those within its area.
+The collapsing structure is also dangerous (see Cave-ins and Collapses, page 66 of the Dungeon Master's Guide).
+Slipsand creates a magic trap that is difficult to detect.
+A character must succeed on a Survival check (DC equals the save DC of the spell) to notice a pit of slipsand.
+Running or charging characters have no chance to detect the trap.
+A rogue can find the trap with a successful Search check, but cannot disable it.
+The DC is 25 + spell level, or 29 for slipsand.
+Material Component: A pinch of slipsand.
+   

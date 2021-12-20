@@ -1,0 +1,22 @@
+<b>Bite of the King</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy
+ <b>Level:</b>   Hunger 8,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature whose size does not exceed caster's
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+On your successful melee touch attack, a target that fails its saving throw is subject to being swallowed whole.
+To the observer, it appears as if your maw suddenly opens many times its normal size, after which the victim is engulfed.
+Your maw immediately returns to its natural size.
+Of the victim, there is no visible sign � ;the swallowed subject exists in a temporary &quot;stomach&quot; dimension.
+The swallowed victim takes 2d8+12 points of bludgeoning damage plus 12 points of acid damage per round while in the stomach dimension.
+A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 35 points of damage to the stomach dimension (AC 21).
+A creature that successfully exits appears to cut its way free from thin air, appearing in a space adjacent to the caster.
+Each time you cast this spell, you create a separate temporary stomach dimension.
+   

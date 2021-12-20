@@ -1,0 +1,16 @@
+<b>Tongue of Baalzebul</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>  Cleric 1,    
+<b>Components:</b>V, S, M, Drug
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 hour/level
+
+ 	
+The caster gains the ability to lie, seduce, and beguile with a devil's skill.
+He gains a +2 competence bonus on Bluff, Diplomacy, and Gather Information checks.
+Material Component: A tongue from any creature capable of speech.
+Drug Component:Mushroom powder.
+   

@@ -1,0 +1,20 @@
+<b>Insect Plague</b>(Player's Handbook v.3.5, p. 244)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Cleric 5,  Druid 5,  Death Master 5,  Dread Necromancer 5,   Spider 5,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> One swarm of locusts per three levels, each of which must be adjacent to at least one other swarm
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You summon a number of swarms of locusts (one per three levels, to a maximum of six swarms at 18th level).
+The swarms must be summoned so that each one is adjacent to at least one other swarm (that is, the swarms must fill one contiguous area).
+You may summon the locust swarms so that they share the area of other creatures.
+Each swarm attacks any creatures occupying its area.
+The swarms are stationary after being summoned, and won't pursue creatures that flee.
+See the Monster Manual for details on locust swarms.
+   

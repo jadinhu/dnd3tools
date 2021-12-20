@@ -1,0 +1,22 @@
+<b>Quench</b>(Player's Handbook v.3.5, p. 267)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Nentyar Hunter 3,  Urban Druid 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> One 20-ft. cube/level (S) or one fire-based magic item
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None or Will negates (object)
+ <b>Spell Resistance:</b> No or Yes (object)
+
+ 	
+Quench is often used to put out forest fires and other conflagrations.
+It extinguishes all nonmagical fires in its area.
+The spell also dispels any fire spells in its area, though you must succeed on a dispel check (1d20 +1 per caster level, maximum +15) against each spell to dispel it.
+The DC to dispel such spells is 11 + the caster level of the fire spell.
+Each elemental (fire) creature within the area of a quench spell takes 1d6 points of damage per caster level (maximum 15d6, no save allowed).
+Alternatively, you can target the spell on a single magic item that creates or controls flame, such as a wand of fireball or a flaming burst sword.
+The item loses all its fire-based magical abilities for 1d4 hours unless it succeeds on a Will save.
+(Artifacts are immune to this effect).
+   

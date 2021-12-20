@@ -1,0 +1,26 @@
+<b>Bane of the Archrival</b>(Tome of Magic)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,  Paladin 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, <abbr title="True Name">TN, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Area:</b> 20-ft.-radius emanation centered on a point in space
+ <b>Duration:</b> I minute/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No; see text
+
+ 	
+As you complete the spell and pronounce the truename, a silvery shimmer is faintly visible in the area you indicated, which pulses angrily if your truename foe comes near.
+This spell protects those within its area against a single named foe, doing so in three ways.
+First, the area is forbidden to the creature.
+It must make a successful Will save to enter it by any means (movement, teleportation spells, and so on).
+If it fails its Will save and was endeavoring to use a teleportation spell to enter the area, it is shunted to a random open space on a suitable surface within 10 feet of the protected area.
+If no free space is available within 10 feet, the spell simply fails.
+The creature can try to enter the area only once during its turn, but can continue to try on subsequent rounds.
+Even if the named creature gets inside the barrier, the other aspects of the spell function normally.
+Second, all creatures within the area gain a +4 deflection bonus to AC against attacks from the named creature, and a +4 resistance bonus on saving throws required by the named creature's spell effects and special attacks.
+Third, the barrier blocks any attempt to possess or exercise mental control over those within the spell's area by the named creature, including enchantment (charm) effects and enchantment (compulsion) effects that grant ongoing control over the subject.
+Bane of the archrival suppresses these effects for the duration of the spell or as long as the subject remains within the spell's area.
+Truename Component: When you cast this spell, you must correctly speak the personal truename of the creature you're protecting against.
+   

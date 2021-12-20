@@ -1,0 +1,24 @@
+<b>Gembomb</b>(Forgotten Realms Campaign Setting)
+
+Conjuration (Creation) [Force]
+ <b>Level:</b>   Gnome 2,  Trade 2,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action/bomb
+ <b>Range:</b> Touch
+ <b>Target:</b> Up to 5 touched gems worth at least 1 gp each
+ <b>Duration:</b> 10 minutes/level or until used
+ <b>Saving Throw:</b> Reflex half (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You turn up to five gems into bombs you (and only you) can lob at enemies.
+You must hold the gems in your hand when casting the spell.
+Together, the bombs are capable of dealing 1d8 points of force damage per two caster levels (maximum of 5d8), divided up among the gems as you wish.
+A 10th-level cleric could create one 5d8 bomb, a 3d8 and 2d8 bomb, five 1d8 bombs, or any combination of five dice of damage and up to five gems.
+You can toss the bombs up to 100 feet with a range increment of 20 feet.
+A ranged touch attack roll is required to strike the intended target.
+A creature struck can attempt a Reflex save for half damage.
+Tossing a gembomb counts as an attack for you, so you usually cannot toss one during the turn that you cast the spell.
+You can only toss one bomb at a time, but you can toss more than one each round if you have multiple attacks.
+Material Components:Up to five gems worth at least 1 gp each
+ <b>Also appears in</b>   Spell Compendium     

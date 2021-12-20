@@ -1,0 +1,42 @@
+<b>Ice Castle</b>(Frostburn)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Fortress of ice and snow
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a huge castle of ice and snow, fully formed with walls, towers, gates, and battlements and magical wards.
+The castle includes a single main gate and a sally port, a drawbridge, a 30-foot diameter central tower made of blue ice (see page 80), and one additional tower per 6 levels of the caster.
+The size of the castle is determined by the location of the towers, which enclose an open courtyard.
+The maximum perimeter of the structure is 20 feet per caster level.
+In addition, you can place any or all of the following three magical effects in the castle.
+1. Icicle spells in two areas (typically in the gatehouse and in the central tower).
+Saving Throw: See text.
+Spell Resistance: No.
+2. Ice slick spells triggered an intruder steps on the tower stairs.
+Saving Throw: See text.
+Spell Resistance: No.
+3. Obscuring snow in any corridors or rooms, obscuring all sight, including darkvision, beyond 5 feet.
+A creature within 5 feet has concealment (attacks have a 20% miss chance).
+Creatures father away have total concealment (50% miss chance, and the attacker cannot use sight to locate the target).
+Saving Throw: None.
+Spell Resistance: No.
+The castle can be created around living creatures, and in this case it rises up from the earth and snow around them.
+It cannot be &quot;dropped&quot; onto creatures as an offensive spell.
+The caster may choose to be lifted onto the roof of the central tower by centering the spell on himself.
+If the castle is summoned on relatively level ground, a moat of icy water 20 feet wide surrounds the castle.
+If summoned on sharply sloping ground, an icy crevasse 20 feet wide and 50 feet deep surrounds the castle.
+The castle melts slowly whenever the temperature rises above freezing; an ice castle takes 1d6 points of damage each round in a place with temperatures above freezing.
+When struck by fire spells, the castle is damaged normally.
+The castle has 200 hit points per 5-foot section and a hardness of 0.
+The central tower is made of blue ice which has 300 hit points per 5-foot section and a hardness of 10 Creatures can hit the castle automatically.
+Fire, including a fireball spell and red dragon breath, can melt the ice castle, and it deals full damage to the structure (instead of the normal half damage taken by objects).
+Suddenly melting an ice castle creates a great cloud of steamy fog that lasts for 10 minutes.
+Arcane Focus: A piece of blue ice carved to resemble the desired castle worth 2,000 gp.
+   

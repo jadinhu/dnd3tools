@@ -1,0 +1,17 @@
+<b>Vision of Glory</b>(Spell Compendium, p. 231)
+
+Divination
+ <b>Level:</b>  Cleric 1,  Paladin 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute or until discharged
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You touch your ally, and her eyes mist over momentarily. You know she is seeing an image of her deity, imploring her to battle in his name.</b>
+	
+You give the subject creature a brief vision of a divine entity that is giving it support and inspiring it to continue. The creature gets a morale bonus equal to your Charisma modifier on a single saving throw. It must choose to use the bonus before making the roll to which it applies. Using the bonus discharges the spell.
+   

@@ -1,0 +1,18 @@
+<b>Ghost Touch Weapon</b>(Spell Compendium, p. 102)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft. / 2 levels)
+ <b>Target:</b> One weapon or fifty projectiles (all of which must be in contact with each other at the time of casting
+ <b>Duration:</b> 1 minute / level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+<b>With a few words and a gesture, you empower a weapon to strike true against incorporeal foes.</b>
+	
+Ghost touch weapon makes a weapon magically capable of dealing damage normally to incorporeal creatures, regardless of its enhancement bonus. (An incorporeal creature's 50% chance to avoid damage does not apply to attacks made with weapons under the effect of this spell.) A ranged weapon affected by this spell does not bestow the ability on its ammunition.
+The weapon can be picked up and moved by an incorporeal creature at any time. A manifesting ghost can wield the weapon against corporeal foes. Essentially, a weapon under the effect of this spell counts as either corporeal or incorporeal at any given time, whichever is more beneficial to the wielder.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

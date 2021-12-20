@@ -1,0 +1,13 @@
+<b>Aspect of the Deity, Greater</b>(Book of Exalted Deeds)
+
+Transmutation [Good]
+ <b>Level:</b>  Apostle of Peace 9,  Exalted Arcanist 9,   Herald 9,   
+<b>Components:</b>
+
+ 	
+As lesser aspect of the deity, except that you take on the qualities of a half-celestial (see the Monster Manual for complete details).
+You do not gain the spell-like abilities of these creatures.
+Your creature type changes to outsider for the duration of the spell.
+Unlike other outsiders, you can be brought back from the dead if you are killed in this form.
+You undergo the following transformations:			You grow feathered wings that allow you to fly at twice your normal speed (good maneuverability).		You gain +1 natural armor, or your existing natural armor bonus increases by +1.		You gain low-light vision.		You gain immunity to acid, cold, disease, and electricity.		You gain a +4 racial bonus on your saving throws against poison.		You gain the following enhancement bonuses to your ability scores: +4 Str, +2 Dex, +4 Con, +2 Int, +4 Wis, +4 Cha.	
+   

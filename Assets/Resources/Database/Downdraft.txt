@@ -1,0 +1,21 @@
+<b>Downdraft</b>(Spell Compendium, p. 72)
+
+Evocation [Air]
+ <b>Level:</b>  Cleric 3,  Druid 3,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> Cylinder (20-ft. radius, 100 ft. high)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Dropping the small carving in your hand to the ground, you crush it with your foot as you recite the last few words of the spell. in the distance you see a column of air turn a hazy gray. The air column then blasts towards the ground, and you hear a distant whoosh.</b>
+	
+<b>Downdraft</b> sends a column of turbulent air rushing towards the earth. Airborne creatures caught in the area of a downdraft must succeed on a Reflex save or immediately plummet up to 100 feet straight downward, taking falling damage (1d6 points of damage per 10 feet fallen) if the downdraft makes them hit the ground or collide with an object. Those who succeed on the Reflex save plummet only 50 feet.
+	
+Creatures already on the ground must succeed on a Reflex save or be knocked prone by the spell.
+	
+<b>Material Component:</b> A balsa-wood bird carving, which is crushed underfoot.
+   

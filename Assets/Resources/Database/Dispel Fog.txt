@@ -1,0 +1,23 @@
+<b>Dispel Fog</b>(Shining South)
+
+Abjuration
+ <b>Level:</b>  Cleric 2,  Druid 2,  Ranger 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Up to four 10-ft. cubes/level (S)
+ <b>Duration:</b> 1 min./level; see text
+ <b>Saving Throw:</b> Fortitude half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You make normal or magical fog within the affected area instantly and completely vanish.
+This spell is effective against fog and mist from any source, including spells such as obscuring mist or cloudkill, but not against bodies of water, precipitation, or smoke.
+The dispelled area stays clear for 1 minute per level regardless of other conditions � ;after that, it can fill in again if there is sufficient fog in the surrounding vicinity.
+Natural fog is automatically cleared in the affected area; natural fog reform within 1 minute after the expiration of the spell.
+Magical fog (such as that from a fog cloud spell) requires you to make a dispel check (1d20 + your caster level, maximum +10) against the spell to clear the area.
+The DC for this dispel check is 11 + the spell's caster level.
+Success means the spell is dispelled in the area you designate, but magic fogs covering large areas might not be completely cleared away by dispel fog.
+Creatures in fog or mist form who are in the area must succeed on a Fortitude save or take 2d10 points of damage.
+Even those who make their saves must immediately assume another shape.
+   

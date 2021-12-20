@@ -1,0 +1,19 @@
+<b>Symbol of Thirst</b>(Sandstorm)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Cleric 6,  Sorcerer 6,  Wizard 6,   Thirst 6,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> 0 ft.; see text
+ <b>Target:</b> One symbol
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell functions like symbol of death (see page 289 of the Player's Handbook), except that all creatures within 60 feet of a symbol of thirst are consumed by a terrible sense of thirst (as the tormenting thirst spell; see below) for 10 minutes per caster level.
+Note:Magic traps, such as symbol of thirst, are hard to detect and disable.
+A rogue (only) can use the Search skill to find a symbol of thirst and Disable Device to thwart it.
+The DC in each case is 25 + spell level, or 32 for symbol of thirst.
+Material Component:Mercury and phosphorus, plus powdered diamond and opal with a total value of at least 5,000 gp.
+   

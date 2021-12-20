@@ -1,0 +1,17 @@
+<b>Deathsight</b>(Complete Mage)
+
+Divination
+ <b>Level:</b>  Assassin 4,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> One attack
+
+ 	
+The vital spots on your foe seem to call out to you, guiding your weapon of their own accord.
+You gain temporary, intuitive insight into the actions and physiology of your foes.
+Your next attack (if it is made before the end of your next turn) is considered a death attack, without the need for the standard 3 rounds of observation.
+All other rules for a death attack, such as determining success and damage dealt, apply as normal.
+If you don't have the ability to deliver a death attack, this spell has no effect.
+   

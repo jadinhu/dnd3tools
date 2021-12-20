@@ -1,0 +1,24 @@
+<b>Crushing Fist of Spite</b>(Book of Vile Darkness)
+
+Evocation [Evil, Force]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, Disease
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 5-ft.-radius cylinder, 30 ft. high
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex half or Reflex negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A fist of darkness appears 30 feet above the ground and begins smashing down with incredible power.
+All creatures and objects within the area take 1d6 points of damage per caster level (maximum 20d6).
+A successful Reflex saving throw reduces damage by half.
+Each round, as a free action, the caster can direct the fist to another area within range, where it smashes downward again.
+It continues to attack the same area unless otherwise directed.
+The fist does not need to strike the ground.
+It can attack airborne targets as well.
+Airborne targets that succeed at a Reflex save take no damage and are forcibly ejected from the spell's area.
+Material Component: A severed hand from a good-aligned humanoid cleric.
+Disease Component: Festering anger.
+   

@@ -1,0 +1,16 @@
+<b>Swarming Assault</b>(Tome of Battle: The Book of Nine Swords, p. 93)
+
+White Raven (Strike)
+ <b>Level:</b>  Crusader 7 (Three White Raven maneuvers),  Warblade 7 (Three White Raven maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You attack an opponent with brutal force, ruining his defenses. As you strike, you call out sharp commands to your allies, spurring them to action and allowing them to take advantage of the opening.</b>
+	
+You inspire your allies with a rousing speech, a war cry, a challenge to the enemy, or some other defiant gesture. Combining this shout with a canny attack, you strip away a foe?s defenses, allowing your allies to make potentially
+devastating attacks.
+	
+As part of this maneuver, you make a single melee attack against an opponent. If this attack hits, you deal normal melee damage, and any ally who threatens your target can immediately make an attack against him. You choose the order in which your allies? attacks resolve.</   

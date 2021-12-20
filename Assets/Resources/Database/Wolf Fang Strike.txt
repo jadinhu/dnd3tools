@@ -1,0 +1,13 @@
+<b>Wolf Fang Strike</b>(Tome of Battle: The Book of Nine Swords, p. 90)
+
+Tiger Claw (Strike)
+ <b>Level:</b>  Swordsage 1,  Warblade 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You lash out in a blur of movement with two weapons, hacking into your foe with a combination of feral strength and speed.</b>
+	
+You tap into the speed and strength embodied within your feral spirit. You must fight with two weapons to use this maneuver. If you carry only one weapon, you can choose to make an unarmed strike with your off hand (as an unarmed attack) if you so wish. As part of this maneuver, you make an attack with both weapons you wield against one opponent. Both attacks must target the same creature, and you take a ?2 penalty on each attack roll. If your first attack drops your foe to ?1 hit points or fewer, you cannot make a second attack.</   

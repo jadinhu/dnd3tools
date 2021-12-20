@@ -1,0 +1,17 @@
+<b>Strength of Stone</b>(Tome of Battle: The Book of Nine Swords, p. 85)
+
+Stone Dragon (Stance)
+ <b>Level:</b>  Crusader 8 (Three Stone Dragon maneuvers),  Swordsage 8 (Three Stone Dragon maneuvers),  Warblade 8 (Three Stone Dragon maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You enter an impenetrable defensive stance, making it almost impossible for an attack to strike you in a vulnerable area.</b>
+	
+While you are in this stance, you focus your efforts on preventing any devastating attacks from penetrating your defenses. You are immune to critical hits while you are in this stance.
+	
+This stance immediately ends if you move more than 5 feet for any reason, such as from a bull rush attack, a telekinesis spell, and so forth.
+ <b>Also appears in</b>   Spell Compendium     

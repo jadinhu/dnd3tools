@@ -1,0 +1,20 @@
+<b>Snilloc's Snowball</b>(Unapproachable East)
+
+Evocation [Cold]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Orb of cold
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+An icy sphere of bitter cold appears in your hand, harming neither you nor your equipment.
+You can use the Snilloc's snowball to strike opponents with a melee touch attack, or you can throw the orb as a ranged touch attack (maximum range 120 feet, no range penalty).
+Either use deals 1d6 points of cold damage plus 1 point per caster level (maximum 1d6+5).
+Right after you hurl the icy sphere, another appears in your hand.
+You may throw up to one Snilloc's snowball per caster level (maximum five orbs) before exhausting the spell.
+Material Component: A small bit of ivory.
+   

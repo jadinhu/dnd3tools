@@ -1,0 +1,18 @@
+<b>Undeath to Death</b>(Faiths &amp; Pantheons)
+
+Necromancy
+ <b>Level:</b>  Cleric 6,  Sorcerer 6,  Wizard 6,   Repose 6,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Several undead creatures within a 50-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Undeath to death snuffs out the life forces of undead creatures, killing them instantly.
+The spell slays 1d4 HD worth of undead creatures per caster level (maximum 20d4).
+Creatures with the fewest HD are affected first; among creatures with equal HD, those who are closest to the point of origin of the burst are affected first.
+Material Component: The powder of a crushed diamond worth at least 500 gp.
+ <b>Also appears in</b>   Tome and Blood: A Guidebook to Wizards and Sorcerers  Ghostwalk  Magic of Faerun  Player's Handbook v.3.5  Deities and Demigods     

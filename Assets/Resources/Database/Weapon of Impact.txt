@@ -1,0 +1,20 @@
+<b>Weapon of Impact</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Bard 3,  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One weapon or fifty blunt projectiles, all of which must be in contact with one another at the time of casting
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+This spell makes a blunt weapon have greater impact, improving its ability to deal telling blows.
+This transmutation doubles the threat range of the blunt weapon.
+A normal threat range of 20 becomes 19-20.
+A threat range of 19-20 becomes 17-20.
+The spell has no effect on piercing or slashing weapons, and it does not stack with itself.
+If cast on sling bullets or other blunt projectiles, the weapon of impact effect on a particular projectile ends after one use, whether or not the missile strikes its intended target.
+ <b>Also appears in</b>   Spell Compendium     

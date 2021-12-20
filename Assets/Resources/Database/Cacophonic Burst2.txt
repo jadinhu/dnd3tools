@@ -1,0 +1,19 @@
+<b>Cacophonic Burst</b>(Spell Compendium, p. 41)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 20-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You complete the spell with a scream, and echoes of your cry travel outward and burst into ear-shattering sounds.</b>
+	
+You cause a burst of low, discordant noise to erupt at the chosen location. It deals 1d6 points of sonic damage per caster level (maximum 15d6) to all creatures within the area.
+	
+<b>Cacophonic burst</b> cannot penetrate the area of a <b>silence</b> spell.
+ <b>Also appears in</b>   Savage Species     

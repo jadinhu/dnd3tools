@@ -1,0 +1,15 @@
+<b>Devil's Tongue</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>   Corrupt 2,   
+<b>Components:</b>S, Corrupt
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 minute/level
+
+ 	
+The caster's tongue lengthens and strengthens, allowing her to make grapple or disarm attacks with a reach of 15 feet. Attempts to grapple or disarm with her tongue do not provoke attacks of opportunity. Otherwise, they are handled normally.
+	
+Corruption Cost: 1d6 points of Wisdom damage.
+   

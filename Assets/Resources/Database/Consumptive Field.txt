@@ -1,0 +1,21 @@
+<b>Consumptive Field</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy [Death, Evil]
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Area:</b> 30-ft.-radius spherical emanation, centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You draw forth the ebbing life force of all nearby badly wounded creatures and use it to fuel your own power.
+Upon casting this spell, you radiate a consumptive death field.
+All creatures in the area with fewer than 0 hit points that fail their saving throws die, and you gain 1d8 temporary hit points per death caused by this spell and +2 Strength until the spell's duration expires.
+Additionally, your effective caster level goes up by 1 per death caused by this spell, to a maximum of 1/2 your original caster level, improving spell effects that are dependent on caster level.
+(This increase in effective caster level does not grant you access to more spells).
+Creatures that fall to -1 hit points or lower in the area after the spell is cast are likewise subject to its effect.
+No creature can be affected by this spell more than once per casting, regardless of the number of times that the area of the spell passes over them.
+ <b>Also appears in</b>   Spell Compendium     

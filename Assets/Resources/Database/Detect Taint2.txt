@@ -1,0 +1,27 @@
+<b>Detect Taint</b>(Oriental Adventures)
+
+Divination
+ <b>Level:</b>  Shugenja 1 (Water),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Quarter circle emanating from you to the extreme of the range
+ <b>Duration:</b> Concentration, up to 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can sense the presence of the Shadowlands Taint.
+The amount of information revealed depends on how long you study a particular area or subject: 1st Round: Presence or absence of the Taint within the area.
+2nd Round:Number of Tainted creatures in the area and the strength of the strongest Tainted aura present.
+If you are free of Taint, the strongest Tainted aura is &quot;overwhelming&quot; (see below), and the strength of the Tainted aura is at least twice your character level, you are stunned for 1 round and the spell-like ability ends.
+While stunned, you can't act, you lose any Dexterity bonus to AC, and attackers gain a +2 bonus on attacks against you.
+3rd Round: The strength and location of each Tainted aura.
+If a Tainted aura is outside your line of sight, you discern its direction but not its exact location.
+Aura Strength: The strength of a Tainted aura depends on the Taint score of the creature you are detecting.
+(A Shadowlands creature has a Taint score equal to half its Charisma score, +1 for undead and +2 for outsiders, such as Shadowlands oni).
+If an aura falls into more than one strength category, you learn the stronger of the two.
+Length Aura Lingers: How long the aura lingers depends on its original strength:
+Each round, you can turn to detect things in a new area.
+The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
+ <b>Also appears in</b>   Heroes of Horror     

@@ -1,0 +1,15 @@
+<b>Songbird</b>(Spell Compendium, p. 195)
+
+Transmutation
+ <b>Level:</b>  Bard 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Performance +1 hour or until discharged; see text
+
+ 	
+<b>You intone this simple spell and your control over your voice improves, your unruly hair straightens, and your flesh radiates a healthy glow. You're ready for showtime.</b>
+	
+You acquire an even greater charisma when you perform. Anyone who hears or views your performance becomes favorably inclined toward you. This spell grants you a +1 competence bonus on your next Charisma-based check involving any one person who saw the performance. This effect lasts for the duration of your performance and up to 1 hour immediately following. You must begin the performance within 1 hour of casting the spell for it to have any effect.
+ <b>Also appears in</b>   Magic of Faerun     

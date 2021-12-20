@@ -1,0 +1,18 @@
+<b>Kiss of the Vampire</b>(Magic of Faerun)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You draw upon the powers of unlife to give yourself abilities similar to those of a vampire.
+You become gaunt and pale with feral red eyes, and you gain the following supernatural abilities:			enervation (as a melee touch attack)		vampiric touch (as a melee touch attack)		charm person		gaseous form (self only)		damage reduction 10/+1 When using this spell, inflict spells heal you and cure spells hurt you.	
+You are treated as if you were undead for the purpose of all spells and effects.
+A successful turn (or rebuke) attempt against an undead of your Hit Dice requires you to make a Will saving throw (DC 10 + cleric's Charisma modifier) or be panicked (or cowering) for 10 rounds.
+A turn attempt that would destroy (or command) undead of your Hit Dice requires you to make a Will save (DC 15 + cleric's Charisma modifier) or be stunned (or charmed as with charm monster) for 10 rounds.
+Any charm effect you create with this spell ends when the spell ends, but all other effects remain until their normal duration expires.
+Material Component: A black onyx worth at least 50 gp that has been carved with the image of a fang-mouthed face.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

@@ -1,0 +1,9 @@
+<b>Inflict Serious Wounds, Mass</b>(Player's Handbook v.3.5, p. 244)
+
+Necromancy
+ <b>Level:</b>  Cleric 7,  Death Master 7,  Dread Necromancer 7,    
+<b>Components:</b>
+
+ 	
+This spell functions like <b>mass inflict light wounds</b>, except that it deals 3d8 points of damage +1 point per caster level (maximum +35).
+   

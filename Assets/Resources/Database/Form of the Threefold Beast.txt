@@ -1,0 +1,17 @@
+<b>Form of the Threefold Beast</b>(Complete Mage)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Your arms and legs become powerfully muscled and grow sharp claws as your body hunches over on all fours.
+Two additional monstrous heads sprout from your shoulders, and two batlike wings stretch out to the sky.
+You take the form of a chimera (MM 34); choose the color of your dragon head from the options noted in the monster description when you cast the spell.
+You gain 30 temporary hit points, which disappear at the end of the spell's duration.
+See the Polymorph Subschool sidebar on page 91 for more details.
+   

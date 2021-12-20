@@ -1,0 +1,15 @@
+<b>Animate Water</b>(Spell Compendium, p. 13)
+
+Transmutation [Water]
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels
+ <b>Target:</b> Cube of water up to 5 ft. on a side
+
+ 	
+_You indicate a patch of water with a hand shaking from pent-up divine spell power, and the liquid rises into a vaguely humanoid shape.
+	
+This spell functions like animate fire, but you can instead animate a quantity of water of at least 4 cubic feet into a Small water elemental (MM 100).
+	
+<b>Material Component</b>: A vial of pure spring water mixed with cinnabar oil.
+ <b>Also appears in</b>   Complete Arcane  Oriental Adventures     

@@ -1,0 +1,17 @@
+<b>Dawn</b>(Savage Species)
+
+Abjuration
+ <b>Level:</b>  Druid 0,  Ranger 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> All creatures within a 15-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+All sleeping creatures in the affected area awaken.
+Those who are unconscious because of subdual damage wake up and become staggered (see Subdual Damage in Chapter 8 of the Player's Handbook).
+This spell does not affect dying creatures.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Spell Compendium     

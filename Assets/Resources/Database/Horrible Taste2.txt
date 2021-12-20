@@ -1,0 +1,23 @@
+<b>Horrible Taste</b>(Spell Compendium, p. 116)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature or object touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Fortitude negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>After a few mystic words, you touch a piece of rotten meat to the subject and it sinks inside the creature's body.</b>
+	
+Any creature that bites the spell's subject must succeed on a Fortitude saving throw or be nauseated until the end of its next turn.
+	
+If a creature of animal Intelligence (2 or lower) fails its saving throw, it will not willingly bite the subject a second time; someone trying to direct the creature to bite the subject again must make a Handle Animal check as if he was trying to &quot;push&quot; the creature. This check must be made every time he tries to make the creature bite.
+	
+Creatures that are immune to poison or that lack the ability to taste are unaffected by this spell.
+	
+Material Component: A pinch of rotten meat.
+ <b>Also appears in</b>   Champions of Valor     

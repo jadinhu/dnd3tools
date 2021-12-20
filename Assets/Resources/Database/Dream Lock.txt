@@ -1,0 +1,20 @@
+<b>Dream Lock</b>(Secrets of Sarlona, p. 126)
+
+Enchantment (Charm) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your foe stops short as a nimbus of glowing light surrounds it. Where it fought you a moment before, it stands transfixed now, caught up in a waking dream.</b>
+	
+When you cast this spell, you wrap the subject creature in the otherworldly energy of the dreamspace, alterÂ­ing its perceptions and behavior. The creature enters a state of waking dreaming, and is dazed for 1 round. Thereafter, until the spell's duration expires, the target is trapped in a waking dream, unable to differÂ­entiate the random visions of the dream from reality. The creature is treated as shaken, and all its opponents gain concealment.
+	
+Creatures that do not dream are subject to the effect of this spell unless they are also immune to enchantÂ­ments or mind-affecting spells, powers, and abilities.
+	
+<b>Special:</b> If you cast this spell while in a dreamtouched state, you can partially direct the random visions that plague the target creature. This allows you to influÂ­ence the actions of the target as if using a <b>suggestion</b> spell. The suggested course of activity continues for the entire duration of the spell.   

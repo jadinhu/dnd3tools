@@ -1,0 +1,18 @@
+<b>Increase Virulence</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Assassin 2,  Bard 2,  Blackguard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> Vial of poison or creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Ribbons of green and black energy engulf your hand and pass into the vial or creature you touch.
+You make the poison in a vial or a creature more lethal.
+The DCs for all saving throws against the poison increase by 2.
+Material Component: Licorice root.
+   

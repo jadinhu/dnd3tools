@@ -1,0 +1,19 @@
+<b>Earthen Grace</b>(Spell Compendium, p. 76)
+
+Abjuration [Earth]
+ <b>Level:</b>  Druid 2,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You sprinkle the spell's component on your target, causing its skin to momentarily take on the speckled gray look of granite. The smell of dust hangs heavily in the air.</b>
+	
+You grant the subject an affinity for earth and stone. Any damage the subject takes from a stone or earthen source counts as nonlethal damage for the duration of the spell. Natural attacks by creatures made of earth or stone (such as stone golems), natural attacks by creatures of the earth subtype, and attacks by stone weapons (such as a stone hammer or a sling stone) instead deal nonlethal damage, as does falling damage when the subject lands on rock or earth. when the nonletahl damage the subject has taken (from any source) equals the subject's current hit poi9nts, the spell ends, and any further damage from a stone or earthen source causes damage normally.
+	
+<b>Material Component:</b> A chunk of granite
+   

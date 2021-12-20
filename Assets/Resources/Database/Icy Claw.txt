@@ -1,0 +1,29 @@
+<b>Icy Claw</b>(Dragons of Faerun)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> 5-ft. claw
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You conjure a wraithlike, faintly glowing cloud of white vapor that coalesces into a disembodied dragon's claw made of ice.
+This spell creates a Medium four-taloned claw about 5 feet long.
+The icy claw has a fly speed of 60 feet (perfect maneuverability), hit points equal to your full normal total, saving throw bonuses equal to your own, and AC 25 (+10 Dex, +5 natural).
+It has damage reduction 15/magic and bludgeoning and is immune to cold, poison, critical hits, and magical effects that don't deal damage.
+It takes half again as much damage (+50%) from fire.
+An icy claw never provokes attacks of opportunity.
+It cannot push through a wall of force or enter an antimagic field, but it is affected by prismatic wall or prismatic sphere.
+A disintegrate spell or a successful dispel magic destroys it.
+An icy claw attacks an opponent of your choice once per round, and its attack bonus equals your level + your Intelligence or Charisma modifier (for a wizard or sorcerer, respectively) +10 for the claw's Strength score (31).
+An icy claw deals 1d6+15 points of damage plus 3d6 points of cold damage.
+If it successfully damages a Medium or smaller foe, it attempts to start a grapple as a free action without provoking an attack of opportunity, with a grapple check bonus equal to your caster level +10.
+On a successful grapple check, an icy claw deals normal damage (see above).
+The claw ignores effects intended to mask or conceal the selected target, including darkness, invisibility, displacement, hiding in plain sight, and the like.
+Directing an icy claw to a new target is a free action.
+Arcane Focus: A white dragon's talon.
+   

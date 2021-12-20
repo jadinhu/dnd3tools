@@ -1,0 +1,19 @@
+<b>Freedom of Movement</b>(Player's Handbook v.3.5, p. 233)
+
+Abjuration
+ <b>Level:</b>  Assassin 4, Blackguard 4, Nentyar Hunter 3,  Runescarred Berserker 3,  Bard 4,  Urban Druid 4,  Jester 4,  Death Delver 4,  Beguiler 4,  Vigilante 4,  Slayer of Domiel 4,  Hunter of the Dead 4,  Ebonmar Infiltrator 4,  Hoardstealer 4,  Healer 4,  Ranger 4,  Druid 4,  Cleric 4,  Savant 4 (Divine),   Luck 4,  Ocean 4,  Halfling 4,  Liberation 4,  Time 4,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal or touch
+ <b>Target:</b> You or creature touched
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell enables you or a creature you touch to move and attack normally for the duration of the spell, even under the influence of magic that usually impedes movement, such as paralysis, solid fog, slow, and web. The subject automatically succeeds on any grapple check made to resist a grapple attempt, as well as on grapple checks or Escape Artist checks made to escape a grapple or a pin.
+	
+The spell also allows the subject to move and attack normally while underwater, even with slashing weapons such as axes and swords or with bludgeoning weapons such as flails, hammers, and maces, provided that the weapon is wielded in the hand rather than hurled. The freedom of movement spell does not, however, allow water breathing.
+	
+Material Component: A leather thong, bound around the arm or a similar appendage.
+   

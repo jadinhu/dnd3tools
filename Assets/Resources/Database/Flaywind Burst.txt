@@ -1,0 +1,26 @@
+<b>Flaywind Burst</b>(Sandstorm)
+
+Evocation [Air, Earth]
+ <b>Level:</b>  Cleric 5,  Druid 5,  Sorcerer 5,  Wizard 5,   Sand 5,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell produces a brief windstorm (approximately 70 mph), filled with scouring, supernatural grit that literally strips flesh.
+In addition to the possible effects of the wind, creatures within the area of a flaywind burst spell take 1d6 points of damage per caster level (maximum 10d6) from the scouring sands.
+A successful Reflex save halves this damage.
+A creature within the area of flaywind burst must make a Fortitude save or experience the effects of the wind's force.
+A Small or smaller creature is knocked down and rolled 1d4x;10 feet, taking 1d4 points of nonlethal damage per 10 feet.
+If flying, a Small or smaller creature is blown back 2d6x;10 feet and takes 2d6 points of nonlethal damage.
+Medium creatures are knocked prone, or if flying are blown back 1d6x;10 feet.
+Large or Huge creatures are unable to move forward against the force of the blast, or if flying are blown back 1d6x;5 feet.
+Gargantuan or larger creatures can move normally within a flaywind burst.
+Flaywind burst can't move a creature beyond its range.
+In addition to the effects noted, flaywind burst can do anything else that a windstorm-force sandstorm would be expected to do, such as briefly obscure vision, heel over a boat, or blow gases and vapors to the limit of its area.
+Material Component: A pinch of sand and the wing feather of a vulture.
+   

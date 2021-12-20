@@ -1,0 +1,9 @@
+<b>Protection from Good</b>(Player's Handbook v.3.5, p. 266)
+
+Abjuration [Evil]
+ <b>Level:</b>  Cleric 1,  Death Master 1,  Savant 1 (Divine),  Sha'ir 1,  Divine Bard 1,  Runescarred Berserker 1,  Disciple of Thrym 1,  Adept 1,  Wizard 1,  Sorcerer 1,  Demonologist 1,   Evil 1,  Hades 1,   
+<b>Components:</b>
+
+ 	
+This spell functions like protection from evil, except that the deflection and resistance bonuses apply to attacks from good creatures, and good summoned creatures cannot touch the subject.
+   

@@ -1,0 +1,21 @@
+<b>Veil of Undeath</b>(Spell Compendium, p. 229)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 8,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+<b>Upon completion of the spell, you exhale your last breath and accept a brief embrace from death.</b>
+	
+You gain many of the traits common to undead creatures. While the spell lasts, you have immunity to mind-affecting spells and abilities, poison, sleep, paralysis, stunning, disease, death, extra damage from critical hits, non-lethal damage, death from massive damage, ability drain, energy drain, fatigue, exhaustion, damage to physical ability scores, and any effect requiring a Fortitude save unless it is harmless or affects objects. You need not breathe, eat, or sleep.
+	
+Like an undead creature, you are damaged by cure spells and healed by inflict spells.
+	
+You don't actually gain the undead type from casting this spell.
+	
+<b>Material Component:</b> A finger from a zombie.
+   

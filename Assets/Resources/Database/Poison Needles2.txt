@@ -1,0 +1,16 @@
+<b>Poison Needles</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 4 (Metal),    
+<b>Components:</b>
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> Fortitude negates (see text)
+
+ 	
+As rain of needles, but the needles drip with poison.
+You can attack only one target, and you must succeed on a normal ranged attack to harm the target.
+If you hit, the target suffers the effect of the poison needles.
+You can choose one of the following effects:			1d8 points of temporary Constitution damage immediately and another 1d8 points of temporary Constitution damage 1 minute later.	
+Each instance of damage can be negated by a successful Fortitude save (DC 10 + 1/2 caster's level + caster's Intelligence modifier).			Paralysis for 2d6 minutes, negated by a successful Fortitude save (DC 10 + 1/2 caster's level + caster's Intelligence modifier).		1d10 points of temporary Dexterity damage immediately and another 1d10 points of temporary Dexterity damage 1 minute later.	
+Each instance of damage can be negated by a successful Fortitude save (DC 10 + 1/2 caster's level + caster's Intelligence modifier).
+ <b>Also appears in</b>   Complete Arcane     

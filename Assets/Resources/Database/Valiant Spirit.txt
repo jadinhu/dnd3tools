@@ -1,0 +1,21 @@
+<b>Valiant Spirit</b>(Magic of Incarnum)
+
+Divination [Incarnum]
+ <b>Level:</b>  Bard 4,  Cleric 4,  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You bestow the soul of a great ancient hero on the creature touched, giving him great skill in battle.
+As an immediate action, he can activate the valiant spirit.
+While active, the spirit's courage provides the recipient of the spell with a +2 morale bonus on attack rolls, damage rolls, Fortitude saves, Strength checks, and Strength-based skill checks.
+The valiant spirit remains active for 1 minute, and then its power is expended and the spell ends.
+No creature can be the target of more than one valiant spirit spell simultaneously.
+If a second is cast before the first has been discharged, the second spell dissipates to no effect.
+Essentia: For every point of essentia you invest in this spell, the bonus provided by the spirit improves by 1.
+   

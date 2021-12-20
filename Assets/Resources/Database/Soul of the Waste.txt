@@ -1,0 +1,22 @@
+<b>Soul of the Waste</b>(Sandstorm)
+
+Transmutation [Earth]
+ <b>Level:</b>  Cleric 3,  Druid 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 min./level (D)
+
+ 	
+You meld your body and possessions into an accumulation of sand, dust, ash, or even loose earth.
+The area must be large enough to accommodate your body in all three dimensions.
+When the casting is complete, you and not more than 100 pounds of nonliving gear merge with the sand.
+While in the sand, you remain aware of the passage of time, can cast spells on yourself, and can still hear on the surface above you, but you cannot see or communicate.
+Since the substance you inhabit is an accumulation of many particles, it is difficult to damage the material (and you).
+If some creature were to shovel or otherwise remove sufficient sand from the area so that you no longer fit within it, you are expelled and take 5d6 points of damage.
+Any time before the duration expires, you can step out of the sand (or become physical while still partially or wholly within the sand).
+If the spell's duration expires or the effect is dispelled before you voluntarily exit, you are violently expelled and take 5d6 points of damage.
+The following spells affect you if cast upon the sand you are occupying: Control sand and move earth merely move you along with their effects.
+Transmute sand to glass or transmute sand to stone expels you and slays you instantly unless you make a DC 18 Fortitude save, in which case you are expelled and take 5d6 points of damage.
+   

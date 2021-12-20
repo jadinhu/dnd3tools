@@ -1,0 +1,21 @@
+<b>Dancing Blade</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 4 (Metal),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One sword
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast this spell, you cause the target sword to hover and attack on its own, aiding a character you designate.
+The sword must be either unattended (in which case you choose which creature it will fight for, so long as both creature and weapon are within range) or in the possession of a willing ally who benefits from the spell.
+A dancing blade attacks using the initiative modifier and base attack bonus of the creature it fights for, though it gains no other attack or damage modifiers the creature might have (including those from Strength) and takes a -4 penalty on its attack rolls if the creature it fights for doesn't have proficiency with a weapon of its kind.
+The sword moves with the creature it fights for (and so can take the full attack action if that creature does), staying within 5 feet at all times and dropping to the ground if that creature is reduced to 0 or fewer hit points.
+Controlling the sword requires no concentration, and the designated creature can fight with another weapon at the same time.
+A dancing blade prevents two opponents from flanking the creature it fights for (though that creature can be flanked by additional opponents).
+Material Component: A tiny stick puppet.
+ <b>Also appears in</b>   Oriental Adventures  Player's Handbook II     

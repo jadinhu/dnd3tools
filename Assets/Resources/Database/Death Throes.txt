@@ -1,0 +1,18 @@
+<b>Death Throes</b>(Planar Handbook)
+
+Necromancy [Force]
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level or until you are killed
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Some extraplanar creatures, such as a balor or an energon, expend the last of their life energy in a burst of power.
+You likewise attune your body's life force so that if you are killed, your body is instantaneously destroyed in an explosion of energy that deals 1d8 points of force damage per caster level to everyone in a 30-foot-radius burst.
+This explosion entirely destroys your body, preventing any form of raising or resurrection that requires part of the corpse.
+A wish,miracle, or true resurrection spell can restore life.
+ <b>Also appears in</b>   Spell Compendium     

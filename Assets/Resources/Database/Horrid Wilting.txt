@@ -1,0 +1,17 @@
+<b>Horrid Wilting</b>(Player's Handbook v.3.5, p. 242)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,  Warmage 8,  Blighter 8,  Wu Jen 8 (Water),  Sha'ir 8,  Dread Necromancer 8,   Water 8,  Thirst 8,  Blightbringer 8,  Pestilence 8,  Suffering 9,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> Living creatures, no two of which can be more than 60 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell evaporates moisture from the body of each subject living creature, dealing 1d6 points of damage per caster level (maximum 20d6). This spell is especially devastating to water elementals and plant creatures, which instead take 1d8 points of damage per caster level (maximum 20d8).
+	
+<b>Arcane Material Component:</b> A bit of sponge.
+   

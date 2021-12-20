@@ -1,0 +1,22 @@
+<b>Fatal Flame</b>(Complete Scoundrel, p. 99)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature with 1 or more HD
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates, Reflex half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A single spark of flame leaps from your finger into the target's body, waiting silently for its death.
+You place a tiny quantity of pure elemental fire within a creature, which interacts with the energy released by its death to create a small explosion.
+When the target creature is killed, its body explodes in a burst of flame, dealing fire damage to each adjacent creature equal to twice the target's HD or twice your caster level, whichever is less (maximum 20 points).
+Treat creatures with less than 1 HD as having 1/2 HD for the purpose of this spell's effect (so the spell deals 1 point of fire damage when triggered).
+A successful Reflex save halves this damage.
+Fatal flame has no ill effect on the target's body before its death.
+The target receives a Will save to negate the spell's effect.
+Material Component: A splinter of charred bone.
+   

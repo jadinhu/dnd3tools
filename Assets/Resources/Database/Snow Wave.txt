@@ -1,0 +1,17 @@
+<b>Snow Wave</b>(Frostburn)
+
+Conjuration [Cold]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half and Reflex negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a wave of snow that knocks creatures in its path prone and deals 4d6 points of crushing damage plus 1d6 points of cold damage to targets caught in the cone.
+Any creature making a Fortitude saving throw takes only half the cold damage from a snow wave; however, it still takes the full crushing damage.
+In addition, anyone in the area must make a Reflex save or be knocked prone.
+   

@@ -1,0 +1,23 @@
+<b>Vile Death</b>(Spell Compendium, p. 229)
+
+Conjuration (Calling) [Evil]
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Touch
+ <b>Target:</b> One corporeal undead creature
+ <b>Duration:</b> Permanent (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>The ground tears at your feet, and you can hear the distant screams of people in pain. An unwholesome red light emanates from the tear and coalesces into the translucent form of a fiend. It sneers at you as the earth closes, then it turns to look at the undead host you chose as the spell's subject. Both the undead and the fiend shudder as they meld together and the red glow dissipates.</b>
+	
+You summon the spirit of a fiend from the depths of the Nine Hells or the Abyss and bind it into the body of a corporeal undead creature � ;either a bodak, devourer, ghast, ghoul, mohrg, mummy, nightshade, skeleton, vampire, vampire spawn, wight, or zombie.
+	
+Binding the fiend applies the fiendish template (<b>MM</b> 108) to the undead creature. The resulting creature is independent of you, and can act on its own. Its initial attitude toward you is indifferent.
+	
+<b>Material Component:</b> A bit of brimstone and a bloodstone worth at least 500 gp.
+	
+<b>XP Cost:</b> 100 XP.
+ <b>Also appears in</b>   Savage Species  Heroes of Horror     

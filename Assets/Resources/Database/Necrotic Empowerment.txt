@@ -1,0 +1,16 @@
+<b>Necrotic Empowerment</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 8,  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You call upon the mother cyst that your body hosts, drawing from it strength, vigor, speed, and vicious certainty.
+While the spell is in effect, you gain a +8 enhancement bonus to Dexterity, Intelligence, and Wisdom, a +8 natural armor bonus to Armor Class as your skin briefly crusts and hardens, a +5 competence bonus on Fortitude saves, and 100 temporary hit points.
+While the empowerment lasts, you are unable to cast any other mother cyst feat-enabled spell.
+Focus: Caster must possess a mother cyst (see page 28).
+   

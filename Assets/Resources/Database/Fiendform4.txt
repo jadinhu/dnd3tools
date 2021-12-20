@@ -1,0 +1,17 @@
+<b>Fiendform</b>(Spell Compendium, p. 90)
+
+Transmutation [Evil]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+<b>The bone in your hand cracks and then crumbles to dust as you complete the spell. You see within your subconscious a bestiary of terrible fiends even as dark whispers in your mind attempt to convince you which form to take</b>.
+	
+This spell functions like <b>alter self</b> (<b>PH</b> 197), except that you can take the form of any fiendish creature, demon, or devil that can be summoned by a <b>summon monster I</b>, <b>II</b>, <b>III</b>, or <b>IV</b> spell (<b>MM</b> 287), regardless of size. You can assume only one form with each use of the spell, but you gain all that form's extraordinary, spell-like, and supernatural abilities, and your type changes to outsider. Spells and effects that harm or ward evil outsiders affect you, and any effects that would normally banish an outsider to its home plane instead ends the spell and leaves you dazed for 1 round per caster level.
+	
+<b>Material Component:</b> A bone from any fiendish creature, half-fiend, demon, or devil.
+ <b>Also appears in</b>   Complete Arcane  Unapproachable East  Magic of Faerun  Player's Guide to FaerÃ»n     

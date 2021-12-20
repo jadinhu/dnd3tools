@@ -1,0 +1,20 @@
+<b>Steal Summoning</b>(Complete Mage)
+
+Conjuration (Summoning)
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One summoned creature
+ <b>Duration:</b> Concentration (up to 1 round/level) + 1 round
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+With an act of will and the utterance of arcane syllables, you steal the nascent connection being formed between summoner and minion.
+You steal control of a creature as it is being summoned.
+If you succeed on a caster level check (DC 11 + the caster level of the summoned), you gain control over the target creature as if you had summoned it.
+You must cast this spell immediately after the spell or spell-like ability that summoned the target resolves, before the creature takes even a single action.
+If this spell's duration expires before the spell that summoned the creature ends, the target returns to its original master's control at that time.
+If the original master is no longer available to control it, it becomes free-willed until its original master returns.
+   

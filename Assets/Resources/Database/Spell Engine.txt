@@ -1,0 +1,28 @@
+<b>Spell Engine</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 5-ft.-radius magical wheel
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (see text)
+
+ 	
+You create a disk of magical energy 10 feet in diameter and 2 feet thick.
+The disk is incorporeal and invisible when first created.
+Whenever a spell is cast or a spell-like ability is used within the 10-foot diameter of the spell engine, it activates, absorbs the magical energy, and begins to glow and spin, providing light as a torch.
+The spell engine similarly absorbs most spell effects targeted at it.
+It absorbs all these effects as if it were a rod of absorption with an unlimited capacity.
+Over time (1 hour per spell level absorbed) the engine slows to a stop and becomes dim and translucent, but it remains capable of absorbing magical energy indefinitely.
+If an activated spell engine comes in contact with any permanent (noncharged or single-use) magic item, it destroys the item and explodes for 1d6 points of force damage per caster level (maximum 20d6) to all creatures in range, destroying itself in the process.
+Magic already in place when the spell engine is created (such as a glyph of warding) or carried into its area (such as an invisibility spell on a creature) are not absorbed unless they are somehow directed against the spell engine (such as an antimagic field pressed against it).
+A spell engine absorbs any dispel magic spell directed at it.
+A detect magic spell cast outside the spell engine's range detects it normally.
+A disintegrate spell causes the spell engine to explode as if it had contacted a magic item.
+Preparing spells within the light provided by a spell engine takes only half as long as normal.
+Material Components: A disk of polished bone, one of your tears, and a silver wheel worth 1,000 gp.
+XP Cost: 250 XP.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,29 @@
+<b>Warp Truename</b>(Tome of Magic)
+
+Transmutation
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>
+
+ 	
+sorcerer/wizard 4
+Components: V, S, T
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: One creature
+Duration: 1 round/level
+Saving Throw: Fortitude negates, then Will partial; see text
+Spell Resistance: Yes
+Ululations and nonsense syllables cascade from your mouth as you intentionally mispronounce your enemy's truename.
+Your foe's flesh takes on a gelatinous state and starts to fuse together, forming a bloblike figure where your enemy once stood.
+This spell functions as polymorph, except that you change the subject into a horrid form as its features melt into only marginally recognizable protoplasm.
+The subject becomes an aberration with 10 Strength, 10 Dexterity, and 10 Constitution.
+Its new form has a slam attack appropriate for a creature of its size (see Table 5-1 on page 296 of the Monster Manual), a speed of 20 feet, and no other extraordinary or supernatural abilities.
+If the spell succeeds, the subject must also make a Will save.
+If this second save fails, the creature loses its extraordinary, supernatural, and spell-like abilities, and loses its ability to cast spells (if it had the ability) for the duration of the spell.
+Regardless of the second save, the subject still retains its class and level (or Hit Dice), as well as all benefits derived therefrom (such as base attack bonus, base save bonuses, and hit points).
+It retains any class features (other than spellcasting) that aren't extraordinary, supernatural, or spell-like abilities.
+The subject has the same limbs it did before the warp truename spell, so it can still manipulate object and use equipment.
+The subject can still speak, albeit in a gurgling, pained voice.
+Incorporeal or gaseous creatures have immunity to warp truename, and a creature with the shapechanger subtype (such as a lycanthrope or a doppelganger) can revert to its natural form as a standard action.
+Truename Component: When you cast this spell, you must correctly speak the personal truename of the creature you're trying to warp.
+   

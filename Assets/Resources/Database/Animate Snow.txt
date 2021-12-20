@@ -1,0 +1,24 @@
+<b>Animate Snow</b>(Frostburn)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Up to a 20-ft. cube of snow
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You imbue a mass of fallen snow with mobility and a semblance of life.
+The snow to be animated may be natural or magically created.
+Snow animated by this spell is treated as an animated object.
+You can animate four Large animated objects, two Huge animated objects, or one Gargantuan animated object.
+For details, see the Animated Object entry, page 13 of the Monster Manual.
+The animated snow can assume any basic shape you wish, and it attacks as directed by your vocal commands.
+Animated snow objects possess the Blind and Trample special attacks as detailed in the Monster Manual entry for animated objects.
+In addition, they have the cold subtype, and do an additional 1d6 points of cold damage on a successful hit.
+Animated snow objects take 1d6 points of damage each round if they exist in a place with temperatures above freezing.
+Material Component:Meltwater from a glacier.
+ <b>Also appears in</b>   Spell Compendium     

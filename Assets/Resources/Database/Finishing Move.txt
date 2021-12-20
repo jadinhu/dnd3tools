@@ -1,0 +1,15 @@
+<b>Finishing Move</b>(Tome of Battle: The Book of Nine Swords, p. 67)
+
+Iron Heart (Strike)
+ <b>Level:</b>  Warblade 7 (Three Iron Heart maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You deliver a devastating strike against a wounded foe, aiming to finish him off once and for all.</b>
+	
+Iron Heart teaches that it is best to finish off a foe with as little effort as possible, the better to save your strength for your remaining enemies. When you use this maneuver, you throw yourself on the offensive with little thought to your defenses. If this attack strikes home, it might end a fight several crucial seconds early.
+	
+As part of this maneuver, you make a melee attack against a creature. This attack deals an extra 4d6 points of damage. If the target?s current hit points are less than its full normal hit points, the attack instead deals an extra 6d6 points of damage. If its hit points are equal to or less than one-half its full normal hit points, the attack instead deals an extra 14d6 points of damage.</p   

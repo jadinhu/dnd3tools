@@ -1,0 +1,18 @@
+<b>Burning Blood</b>(Draconomicon)
+
+Transmutation [see text]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level
+
+ 	
+Your blood becomes suffused with the same energy type that powers your breath weapon.
+(You must have a breath weapon that deals acid, cold, electricity, or fire damage to cast this spell).
+Whenever you take damage from a natural or manufactured weapon, a spurt of blood erupts in a 5-footradius burst from the wound, dealing energy damage to creatures in its area.
+The energy-charged blood deals a number of points of damage equal to your caster level.
+When you use this spell to produce acid, cold, electricity, or fire energy, it is a spell of that type.
+For example, burning blood is an acid spell when you cast it to suffuse your blood with acid.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

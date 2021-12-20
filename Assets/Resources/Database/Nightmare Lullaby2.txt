@@ -1,0 +1,16 @@
+<b>Nightmare Lullaby</b>(Magic of Faerun)
+
+Enchantment (Compulsion) [Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Concentration + 2 rounds
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You put your target into a surreal, sleepwalking state.
+The target must make a Will saving throw or become confused, thinking she has entered a nightmare.
+ <b>Also appears in</b>   Ghostwalk  Spell Compendium     

@@ -1,0 +1,17 @@
+<b>Fiendish Clarity</b>(Book of Vile Darkness)
+
+Divination [Evil]
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,   Demonic 7,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+The caster develops the senses of a powerful fiend.
+He has darkvision to a range of 60 feet.
+The caster can see in magical darkness as if it were normal darkness.
+He can see invisible creatures and objects as if he had a see invisibility spell cast on him.
+The caster can detect good at will.
+ <b>Also appears in</b>   Fiendish Codex I: Hordes of the Abyss     

@@ -1,0 +1,15 @@
+<b>Total Repair</b>(Eberron Campaign Setting, p. 116)
+
+Transmutation
+ <b>Level:</b>  Artificer 6,   Warforged 8,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Construct touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Total repair enables you to transmute the structure of a construct to wipe away damage and affl ictions. It immediately ends any and all of the following adverse conditions affecting the target: ability damage, blinded, confused, dazed, dazzled, deafened, feebleminded, and insanity. It also repairs 10 points of damage per level of the caster, to a maximum of 150 points at 15th level.
+   

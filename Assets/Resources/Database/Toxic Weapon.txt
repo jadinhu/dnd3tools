@@ -1,0 +1,20 @@
+<b>Toxic Weapon</b>(Player's Handbook II)
+
+Conjuration (Creation)
+ <b>Level:</b>  Duskblade 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Piercing or slashing weapon touched
+ <b>Duration:</b> 1 hour or until discharged
+ <b>Saving Throw:</b> Fortitude negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+You touch the weapon, and an oily liquid appears on its surface.
+When you cast this spell, you coat the target weapon with poison.
+The next successful melee attack with that weapon delivers the poison.
+The poison deals 1d10 points of Constitution damage immediately and another 1d10 points of Constitution damage 1 minute later.
+Each instance of damage can be negated by a Fortitude save (DC equal to this spell's save DC).
+If the weapon has not scored a successful hit after 1 hour, the poison becomes inert and evaporates.
+   

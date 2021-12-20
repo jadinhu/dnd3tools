@@ -1,0 +1,19 @@
+<b>Shadow Spray</b>(Spell Compendium, p. 186)
+
+Illusion (Shadow)
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 5-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>As you finish casting this spell, ribbonlike shadows burst outward from the midst of your foes.</b>
+	
+You cause a multitude of ribbonlike shadows to instantaneously explode outward from the point of origin. Creatures in the area take 4 points of Strength damage and are dazed for 1 round.
+	
+Material Component: A handful of black ribbons.
+ <b>Also appears in</b>   Forgotten Realms Campaign Setting     

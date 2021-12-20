@@ -1,0 +1,21 @@
+<b>Analyze Dweomer</b>(Player's Handbook v.3.5, p. 197)
+
+Divination
+ <b>Level:</b>  Bard 6,  Sorcerer 6,  Wizard 6,  Sha'ir 6,  Court Herald 6,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One object or creature per caster level
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None or Will negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+You discern all spells and magical properties present in a number of creatures or objects. Each round, you may examine a single creature or object that you can see as a free action. In the case of a magic item, you learn its functions, how to activate its functions (if appropriate), and how many charges are left (if it uses charges). In the case of an object or creature with active spells cast upon it, you learn each spell, its effect, and its caster level.
+	
+An attended object may attempt a Will save to resist this effect if its holder so desires. If the save succeeds, you learn nothing about the object except what you can discern by looking at it. An object that makes its save cannot be affected by any other analyze dweomer spells for 24 hours.
+	
+<b>Analyze dweomer</b> does not function when used on an artifact (see the <b>Dungeon Master's Guide</b> for details on artifacts).
+	
+<b>Focus:</b> A tiny lens of ruby or sapphire set in a small golden loop. The gemstone must be worth at least 1,500 gp.
+   

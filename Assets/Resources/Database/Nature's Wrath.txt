@@ -1,0 +1,21 @@
+<b>Nature's Wrath</b>(Eberron Campaign Setting, p. 114)
+
+Evocation
+ <b>Level:</b>  Druid 4 (Gatekeeper),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Unnatural creatures in a 20-ft.-radius burst
+ <b>Duration:</b> Instantaneous and 1 round; see text
+ <b>Saving Throw:</b> Will partial or Will half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You call up the power of nature to smite your enemies. Creatures that are a part of the natural world are unaffected; aberrations, undead, and similar corruptions of nature are harmed by the spell.
+	
+The spell deals damage to creatures of certain types within its area. Animals, constructs, elementals, fey, outsiders with an elemental subtype (air, earth, fire, or water), oozes, plants, vermin, and inanimate objects are unharmed by the spell.
+	
+Aberrations take 1d6 points of damage per caster level (maximum 10d6) and are dazed for 1 round. A successful Will saving throw reduces the damage to half and negates the daze effect.
+	
+Creatures of other types (dragons, giants, humanoids, magical beasts, monstrous humanoids, and outsiders with no elemental subtype) take 1d8 points of damage per two caster levels (maximum 5d8). A successful Will save reduces the damage to half.
+   

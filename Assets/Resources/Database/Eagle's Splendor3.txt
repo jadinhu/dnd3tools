@@ -1,0 +1,18 @@
+<b>Eagle's Splendor</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Transmutation
+ <b>Level:</b>  Bard 2, Blackguard 2,  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The transmuted creature becomes more poised, articulate, and personally forceful.
+The spell grants an enhancement bonus to Charisma of 1d4+1 points, adding the usual benefits to Charisma-based skills.
+Sorcerers and bards who receive eagle's splendor do not gain extra spells, but the save DCs for their spells increase.
+Arcane Material Component: A few feathers or a pinch of droppings from an eagle.			This spell first appeared in the <span class="caps">FORGOTTEN</span> <span class="caps">REALMS</span> campaign setting.	
+ <b>Also appears in</b>   Forgotten Realms Campaign Setting  Player's Handbook v.3.5     

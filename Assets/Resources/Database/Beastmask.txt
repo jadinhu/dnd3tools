@@ -1,0 +1,20 @@
+<b>Beastmask</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Illusion (Glamer)
+ <b>Level:</b>  Beastmaster 2,  Druid 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 5 minutes + 1 minute/level
+ <b>Saving Throw:</b> Will disbelief
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell disguises the target so that an animal or beast will believe the creature is a natural or dire animal.
+For example, an individual cloaked by this glamer as a wolf might move through a wolf pack unhindered.
+You must set the animal form at the time of casting.
+If the form you choose is more than one size larger or two sizes smaller than the target's size, the spell fails.
+Your illusion deceives the senses of animals and beasts: sight, hearing, smell, and touch.
+The spell does not allow communication with animals or beasts, nor is the subject granted any of the animal form's characteristics.
+   

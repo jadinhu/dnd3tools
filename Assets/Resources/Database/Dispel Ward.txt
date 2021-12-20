@@ -1,0 +1,17 @@
+<b>Dispel Ward</b>(Spell Compendium, p. 67)
+
+Abjuration
+ <b>Level:</b>  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One warded object or area
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Your head throbs with energy as you recite the final few phrases of the spell. A moment later, the energy releases and the area you designated as the spell's target glows silver for several seconds. You hear a sound like a mechanical object winding down.</b>
+	
+This spell functions like <b>dispel magic</b> (<b>PH</b> 223), except that it can be used only in the targeted or area version, and it affects only abjuration magic placed upon objects or areas (such as <b>arcane lock</b>, <b>explosive runes</b>, <b>fire trap</b>, <b>glyph of warding</b>, and <b>guards and wards</b>.) The maximum bonus on the level check is +10.
+   

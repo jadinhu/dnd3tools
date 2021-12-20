@@ -1,0 +1,19 @@
+<b>Smoke Ladder</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 1 (Fire),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Effect:</b> A ladder of smoke
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a misty ladder up to 10 feet long per caster level, shaped from the smoke given off by a fire as you cast the spell.
+A smoke ladder weighs virtually nothing and can be easily handled at any length.
+Always steady and rigid, the ladder needs no support or object to lean against, but can simply be placed in the desired position and climbed.
+By casting the spell again on an existing smoke ladder before it dissipates, you can reset its duration.
+Focus: A large fire of green wood.
+ <b>Also appears in</b>   Oriental Adventures     

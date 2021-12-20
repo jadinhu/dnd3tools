@@ -1,0 +1,20 @@
+<b>Steeldance</b>(Magic of Faerun)
+
+Evocation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Two daggers
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You cause two daggers in your possession to grow to the size and shape of longswords, which then attack creatures you specify.
+The blades have AC 14 (+1 size, +1 Dex, +2 natural), hardness 10, and 5 hit points.
+They fly at speed 30 feet (good maneuverability), deal 1d8 points of slashing damage, and score a threat of a critical on a natural 19 or 20.
+They are otherwise treated as Medium-size animated objects (as if animated by an animate objects spell).
+You can cast spells such as magic weapon on the daggers before or after the steeldance spell takes effect.
+Focus: Two daggers.
+ <b>Also appears in</b>   Spell Compendium     

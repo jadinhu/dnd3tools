@@ -1,0 +1,18 @@
+<b>Allegro</b>(Complete Adventurer)
+
+Transmutation
+ <b>Level:</b>  Bard 3,  Vigilante 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius burst, centered on you
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell makes you and your companions extraordinarily fleet of foot.
+Each creature within the spell's area gains a 30-foot enhancement bonus to its land speed, up to a maximum of double the creature's land speed.
+Affected creatures retain these effects for the duration of the spell, even if they leave the original area.
+Material Component: A tailfeather from a bird of prey.
+ <b>Also appears in</b>   Spell Compendium  Song and Silence: A Guidebook to Bards and Rogues     

@@ -1,0 +1,19 @@
+<b>Rainbow Blast</b>(Spell Compendium, p. 165)
+
+Evocation [Light]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 120 ft.
+ <b>Area:</b> 120-ft. line
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>From your splayed fingers shoots a beam of mixed energy and multihued lights. The beam burns and freezes, sizzles and screams.</b>
+	
+This spell is a wide-spectrum blast of radiant energy composed of all five energy types. Rainbow blast deals 1d6 points of damage from each of the five energy types (acid, cold, electricity, fire, and sonic), for a total of 5d6 points of damage. Creatures apply resistance to energy separately for each type of damage. As you gain in levels, the damage die increases in size. At 7th level the spell deals 5d8 points of damage, at 9th level it deals 5d10 points of damage, and at 11th level it deals 5d12 points of damage � ; one die for each of the five energy types.
+	
+Focus: A small clear gem or crystal prism worth at least 50 gp.
+   

@@ -1,0 +1,21 @@
+<b>Transfix</b>(Oriental Adventures)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Wu Jen 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 10-ft. burst
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell causes humanoids of Medium-size or smaller within the area to freeze in place, standing helpless as if affected by the hold person spell.
+When casting the spell, you must specify some condition that must be met to release the victims � ;&quot;Wait here until I return&quot;, or &quot;Stay here for all eternity!&quot; for example.
+You may specify any condition, however implausible, but the spell ends as soon as that condition is met.
+For every hour the creatures are transfixed, they can attempt another saving throw.
+The spell affects an area, not (directly) the creatures in it, so creatures that are removed from the area are freed from the spell's effects, and humanoids of Medium-size or smaller that enter the area must make a successful saving throw or become transfixed.
+If all affected creatures are freed from the spell, the spell ends and additional creatures entering the area are not affected.
+Material Component: A drop of pine resin.
+ <b>Also appears in</b>   Spell Compendium  Complete Arcane     

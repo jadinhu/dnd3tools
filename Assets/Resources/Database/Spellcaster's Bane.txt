@@ -1,0 +1,18 @@
+<b>Spellcaster's Bane</b>(Complete Mage)
+
+Divination
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+The air around you seems to glow as the currents of magic running through the world become visible to your eyes.
+You gain a +2 insight bonus on dispel checks and caster level checks made to counterspell.
+If you have 5 or more ranks in Spellcraft, you also automatically recognize any spell being cast, as though you had succeeded on a Spellcraft check.
+You must have line of sight to the caster, but distance is otherwise not a factor.
+If you have 15 or more ranks in Spellcraft, you not only recognize any spell being cast, but you also know the caster level of any spell being cast.
+Again, you must have line of sight to the caster for this effect to function.
+   

@@ -1,0 +1,17 @@
+<b>Discern Shapechanger</b>(Races of Eberron, p. 184)
+
+Divination
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+By taking a standard action to concentrate, you can see the true form of creatures within 60 feet. Each round, you can examine one creature you can see to determine whether it is polymorphed, disguised, or transmuted, and what its true form is. If you look at a shapechanger in its true form, you immediately sense its shapechanging ability, but you can't determine what other forms it might be capable of assuming.
+	
+For the purpose of this spell, a shapechanger is any creature with the shapechanger type or a supernatural or extraordinary ability that allows it to assume an alternate form. A wizard who knows alter self is not a shapechanger (since a spell is not a supernatural or extraordinary ability), but a barghest is (since it has the supernatural ability to assume alternate forms, even though its type is outsider).
+	
+Material Component: A balm of honey and lotus flower, applied to your eyelids.
+ <b>Also appears in</b>   Oriental Adventures  Spell Compendium  Complete Arcane     

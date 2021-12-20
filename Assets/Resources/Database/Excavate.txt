@@ -1,0 +1,19 @@
+<b>Excavate</b>(Spell Compendium, p. 85)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One 5-ft.-by-5-ft. opening, 1 ft./level deep
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You toss the bit of earth against the wall and it glitters and burns as it strikes the stone. The rock vaporizes where it hits and a passage opens before you, burrowing into the wall.</b>
+	
+As with <b>passwall</b> (<b>PH</b> 259), this spell allows you to create a passage through wooden, plaster, or stone walls, but not through metal or harder materials, if a wall's thickness is more than 1 foot per caster level, then a single <b>excavate</b> spell simply makes a niche or short tunnel with the stated dimensions. Several <b>excavate</b> spells can be used in succession to breach very thick walls by forming a continuing passage. Unlike <b>passwall</b>, <b>excavate</b> is an instantaneous effect that does not end and cannot be dispelled; any passage it creates is permanent.
+	
+<b>Material Component:</b> A pinch of excavated earth.
+ <b>Also appears in</b>   Underdark     

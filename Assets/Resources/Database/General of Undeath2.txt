@@ -1,0 +1,15 @@
+<b>General of Undeath</b>(Magic of Faerun)
+
+Necromancy
+ <b>Level:</b>  Cleric 8 (Velsharoon),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 day/level
+
+ 	
+You increase the number of Hit Dice of undead that you can control.
+Add 10 times your caster level to your Hit Dice limit for controlling undead.
+When the duration expires, you lose control of the extra undead as if you had voluntarily relinquished control of them.
+ <b>Also appears in</b>   Ghostwalk  Player's Guide to FaerÃ»n     

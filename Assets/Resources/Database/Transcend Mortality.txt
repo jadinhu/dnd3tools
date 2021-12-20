@@ -1,0 +1,20 @@
+<b>Transcend Mortality</b>(Complete Mage)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+You feel your body surge with mystic power that rivals that of the gods themselves.
+Transcend mortality was created as a last-ditch effort, a spell to use when all other options have failed.
+For the duration of the spell, you are all but indestructible.
+You gain the following benefits:			Damage reduction 30/epic.		Spell resistance equal to 21 + you caster level.		Acid, cold, electricity, fire, and sonic resistance 50.		Immunity to ability damage, disease, energy drain, poison, and death effects.		+10 enhancement bonus on all saving throws.		You do not need to eat, drink, or breathe.	
+Although this spell makes you effectively unkillable for the duration, that comes at a horrific price.
+You gain these benefits by using up all your remaining life force.
+When the spell ends, you are instantly slain and reduced to a pile of dust (as disintegrate).
+This effect allows no save and can't be prevented by any means, though you can be resurrected normally afterward.
+   

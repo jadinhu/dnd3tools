@@ -1,0 +1,19 @@
+<b>Joyful Noise</b>(Spell Compendium, p. 127)
+
+Abjuration
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius emanation centered on you
+ <b>Duration:</b> Concentration, see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You stomp your foot on the ground, creating a ripple of noise that unleashes suppressed sounds behind it.</b>
+	
+You create sonic vibrations that negate any magical silence effect in the area. This zone of negation moves with you and lasts as long as you continue to concentrate.
+	
+The silence effect is not dispelled but simply held in abeyance; it remains in effect outside the area of the joyful noise effect.
+ <b>Also appears in</b>   Complete Adventurer  Song and Silence: A Guidebook to Bards and Rogues     

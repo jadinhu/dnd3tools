@@ -1,0 +1,19 @@
+<b>Suspended Silence</b>(Spell Compendium, p. 216)
+
+Illusion (Glamer)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One object
+ <b>Duration:</b> 24 hours or until discharged, then 6 rounds; see text
+ <b>Saving Throw:</b> None (object)
+ <b>Spell Resistance:</b> No (object)
+
+ 	
+<b>You sprinkle the object with a handful of gem dust, and the last words of your spell fade like they are being dragged into a hole. Then the normal sounds of the world reestablish themselves, but the spell within is set to be unleashed later.</b>
+	
+When you touch the object and give the command word you designate, the object becomes the subject of a <b>silence</b> spell. The effect of the silence spell moves with the object and lasts for 6 rounds.
+	
+Material Component: A feather and a handful of gem dust worth 50 gp.
+   

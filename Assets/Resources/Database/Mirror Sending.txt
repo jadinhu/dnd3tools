@@ -1,0 +1,23 @@
+<b>Mirror Sending</b>(Book of Vile Darkness)
+
+Evocation
+ <b>Level:</b>  Mortal Hunter 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> See text
+ <b>Range:</b> See text
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster sends her image through a mirror into another mirror or mirrored surface that the chosen target looks into.
+The caster casts the spell, then stares into her mirror until the target sees his reflection in another mirror, or until the caster tires and gives up.
+The caster can see the subject and his surroundings in her mirror whenever the subject looks at his mirror.
+From the subject's perspective, the caster appears to be staring out of the mirror, replacing the subject's own reflection or appearing right behind him (caster's choice).
+The caster can have her image say up to one word per caster level before it disappears, if she chooses.
+The image remains for only 1 round.
+Subjects not expecting a mirror sending can be greatly unnerved by this spell.
+Focus: A mirror of finely wrought and highly polished silver costing not less than 1,000 gp.
+The mirror must be at least 2 feet by 4 feet.
+   

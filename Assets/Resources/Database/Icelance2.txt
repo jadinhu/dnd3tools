@@ -1,0 +1,19 @@
+<b>Icelance</b>(Spell Compendium, p. 119)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One lance of ice
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You clutch the quartz in your hand, focusing the energy of the spell into a sharp spear. With a thought, you send it whistling through the air at your foe.</b>
+	
+You must succeed on a normal ranged attack to strike a target with an <b>icelance</b>. You gain a +4 bonus on your attack roll. If you hit, the <b>icelance</b> deals 6d6 points of damage to the target. Half of this damage is piercing damage; the rest is cold damage. In addition, the target must make a Fortitude save or be stunned for 1d4 rounds. Regardless of the result of the attack, the <b>icelance</b> shatters upon its first use.
+	
+<b>Focus</b>: A 50-gp clear quartz gemstone. Alternatively, if you are in a cold region, you can substitute 10 pounds of ice or snow for the quartz.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

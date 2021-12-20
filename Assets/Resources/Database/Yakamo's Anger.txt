@@ -1,0 +1,19 @@
+<b>Yakamo's Anger</b>(Oriental Adventures)
+
+Evocation [Light]
+ <b>Level:</b>  Shugenja 6 (Fire),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 10 feet
+ <b>Area:</b> All sighted creatures within a 10-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell unleashes the anger of the sun deity in a blinding flash originating with you and expanding outward.
+Any creature within the area of the spell that can see you must make a saving throw or be temporarily blinded.
+The blindness lasts for 1 minute per caster level.
+In addition to the obvious effects, a blinded creature suffers a 50% miss chance in combat (all opponents have full concealment), loses any Dexterity bonus to AC, grants a +2 bonus on attackers' attack rolls (they are effectively invisible), moves at half speed, and suffers a <del>4 penalty on Search checks and most Strength</del> and Dexterity-based skill checks.
+Sightless creatures are not affected by Yakamo's anger.
+   

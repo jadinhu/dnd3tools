@@ -1,0 +1,19 @@
+<b>Displacer Form</b>(Spell Compendium, p. 67)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+_You drop to your hands and knees a moment before your extremities morph into the limbs of a great black panther.
+	
+When you cast this spell, you assume the physical appearance and many of the qualities and abilities of a displacer beast (<b>MM</b> 66). While under the effect of the spell, your creature type changes to magical beast, and your size changes to Large. You have the space and reach of a displacer beast (15 feet/5 feet [10 feet with tentacles]). You gain two tentacle attacks, which each deal 1d6 points of damage + your Str modifier. You gain the Strength, Dexterity, and Constitution of an average displacer beast (Str 18, Dex 15, Con 16), but you retain your own mental ability scores. Your base land speed becomes 40 feet. You gain darkvision out to 60 feet. You also gain low-light vision.
+	
+Your class and level, hit points, alignment, base attack bonus, and base saving throw bonuses all remain the same. You lose any spell-like abilities of your own form, and you lose any extraordinary special abilities from your own form. You retain any supernatural abilities of your own form. You keep all extraordinary special attacks derived from class levels (such as a barbarian's rage or a rogue's sneak attack), but you lose any from your normal form that are not derived from class levels. You can speak and cast spells while in displacer beast form, but you must physically touch any necessary material components. Your natural armor bonus becomes +5, regardless of any natural armor bonus from your normal form. While in displacer beast form, you gain the displacer beast's displacement and resistance to ranged attacks abilities. Your equipment melds into your new form and becomes nonfunctional.
+	
+<b>Material Component:</b> A single claw from a displacer beast.
+   

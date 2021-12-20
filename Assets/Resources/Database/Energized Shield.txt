@@ -1,0 +1,9 @@
+<b>Energized Shield</b>(Spell Compendium, p. 79)
+
+Abjuration [see text for lesser energized shield]
+ <b>Level:</b>  Paladin 2,  Cleric 3,    
+<b>Components:</b>
+
+ 	
+This spell functions like <b>lesser energized shield</b>, except that the energy resistance is 10 and damage dealt is 2d6.
+   

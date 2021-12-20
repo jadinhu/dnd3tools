@@ -1,0 +1,21 @@
+<b>Harmonic Chorus</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Transmutation
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Concentration, up to 1 round/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Harmonic chorus lets you improve the spellcasting ability of another spellcaster.
+For the duration of the spell, the save DCs for all spells that the subject casts increase by 1d4+1.
+If such a spell deals damage, that damage increases by +1 point per die.
+For example, if you cast harmonic chorus on a 9th-level wizard who in turn casts fireball, the DC of the fireball's Reflex save would increase by 1d4+1, and the spell would deal 9d6+9 points of fire damage.
+Other variable aspects of the spell (range, duration, and so forth) remain unchanged.
+The benefits of multiple harmonic chorus spells stack only when they are cast by different casters.
+Material Component: A tuning fork.
+ <b>Also appears in</b>   Spell Compendium  Complete Adventurer     

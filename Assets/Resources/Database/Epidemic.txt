@@ -1,0 +1,23 @@
+<b>Epidemic</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Necromancy
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Upon casting this spell, you must choose one disease from this list: blinding sickness, cackle fever, filth fever, mindfire, red ache, the shakes, or slimy doom (see Disease in Chapter 3 of the <span class="caps">DUNGEON</span> MASTER'S Guide for descriptions).
+The touched creature contracts the disease you have selected immediately (no incubation period) unless it makes a successful Fortitude save.
+Unlike a creature affected by contagion, the subject of an epidemic spell becomes a powerful vector for spreading the disease.
+As long as the subject is afflicted with the disease, any living creature (except the caster) within 30 feet of him or her must make a Fortitude save or immediately contract the disease, regardless of its usual incubation period or method of transmission.
+Anyone infected in this manner also becomes a vector for the disease and can spread it in the same manner.
+The save DC drops by 1 each day after the spell is cast, regardless of when any particular creature contracted it.
+A creature that makes a successful Fortitude save against this particular epidemic cannot contract that disease by any means for one day.
+Thereafter, coming within 30 feet of an infected creature requires another save, with the same consequences for failure or success.
+You are immune to any infection that originates from your own casting.
+   

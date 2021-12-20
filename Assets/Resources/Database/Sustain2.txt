@@ -1,0 +1,20 @@
+<b>Sustain</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Shaman 4,  Sohei 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Up to one living creature touched/two levels
+ <b>Duration:</b> 6 hours/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The recipients of the spell can go without food or water for the duration of the spell, feeling no hunger and suffering no ill effects from the deprivation.
+An affected creature can eat or drink normally without difficulty.
+When the spell ends, the creatures must resume normal eating and drinking habits, but do not feel any adverse effects from the missed meals.
+The size of the creature is not a factor; a tiny lizard and a dragon are both fully nourished by the spell.
+If a target of the spell is suffering from hunger and thirst, the spell relieves the creature as if it had eaten one healthy meal for every 6 hours of the spell's duration.
+Material Component: A flask of warm sake and a rice cake.
+ <b>Also appears in</b>   Book of Exalted Deeds     

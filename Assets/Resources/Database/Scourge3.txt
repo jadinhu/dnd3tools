@@ -1,0 +1,21 @@
+<b>Scourge</b>(Spell Compendium, p. 181)
+
+Necromancy
+ <b>Level:</b>   Pestilence 7,   
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One creature/2 levels, no two of which are more than 50 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Picking out those you wish revenge upon, you cause their bodies to erupt in painful and debilitating blackened boils, magenta blotches, violet lesions, seeping abscesses, and malignant cysts.</b>
+	
+The target creatures are infected with a vile disease unless they succeed on a Fortitude save. Once it has infected a creature, the disease immediately deals 1d6 points of Strength and Dexterity damage, and it deals the same damage each subsequent day. A creature is allowed an additional saving throw each day to avoid that day's damage. As with mummy rot (<span class="caps">DMG</span> 292), successful saves do not allow the creature to recover. The symptoms persist until the creature finds some magical means to remove the disease.
+	
+The disease can be removed by first casting <b>break enchantment</b> or <b>remove curse</b> on the subject (requiring a DC 20 caster level check for either spell), after which a <b>remove disease</b>, <b>heal</b>, or similar spell will cure the victim.
+	
+Focus: A black whip or riding crop, which is cracked in the direction of the intended victims during the casting of the spell.
+ <b>Also appears in</b>   Defenders of the Faith: A Guidebook to Clerics and Paladins  Complete Divine     

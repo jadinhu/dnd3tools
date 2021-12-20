@@ -1,0 +1,17 @@
+<b>Fortunate Fate</b>(Spell Compendium, p. 99)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 10 minutes/level or until discharged
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>A golden aura spreads out from your fingertips, suffusing your ally with a golden glow that brightens, then fades into her skin.</b>
+	
+You surround the subject with an aura that immediately heals the creature if it is subjected to an effect that would kill it (reduce its hit points to -10 or below). When this event occurs, the <b>fortunate fate</b> spell intervenes by immediately triggering a <b>heal</b> spell upon the target. If the effect is one that causes harm in a way that a <b>heal</b> spell can repair (disease, hit point damage, ability damage, or poison), the target does not actually die, saved by the heal. If the effect is one that heal cannot countermand (such as ability drain, old age, negative levels, disintegration, ability drain, or death effects), the fortunate fate spell cannot prevent the creature's death.
+ <b>Also appears in</b>   Magic of Faerun     

@@ -1,0 +1,19 @@
+<b>Redirect Spell</b>(Shining South)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,  Paladin 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a magical connection between you and an ally such that any spells targeting the ally (rather than an area or effect) are redirected to you.
+For example, magic missiles cast at your ally target you instead.
+Both you and your ally must be within range of a spell for the redirect to occur.
+If your ally is within range of the caster but you are not, the spell targets your ally normally.
+Should you and the subject of the spell move out of range of each other, the spell ends.
+   

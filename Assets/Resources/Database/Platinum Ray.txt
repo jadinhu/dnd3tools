@@ -1,0 +1,21 @@
+<b>Platinum Ray</b>(Dragons of Faerun)
+
+Evocation [Good]
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Ray
+ <b>Target:</b> One evil dragon or dragonblood creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+With a gesture and a word, you fire a brilliant platinum ray at your target.
+This spell calls upon the might of good dragonkind to suppress the powers of an evil dragon or dragonblood creature.
+You must make a ranged touch attack to hit the target.
+If the attack is successful, the dragon must make a successful Will save or become unable to use all racial supernatural and spell-like abilities.
+This does not include the spells a dragon casts from its sorcerer spell progression.
+Special: If you receive your divine spells from Xymor (Bahamut), you receive a +1 sacred bonus on the ranged touch attack.
+   

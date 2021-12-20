@@ -1,0 +1,21 @@
+<b>Life's Grace</b>(Spell Compendium, p. 131)
+
+Abjuration
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You say a brief prayer and touch your holy symbol to a creature. Symbols of warding and safety appear and flow out to cover the creature in a web of protective magic before fading from sight, absorbed into the creature's form.</b>
+	
+The living creature touched becomes immune to all death spells, magical death effects, energy drain, and any negative energy effects. In addition, the subject is immune to undead special attacks that deal ability damage, ability drain, and magical disease (such as mummy rot), even if these attacks do not have a magical source. (For example, the spell prevents poison damage from the poisonous bite of an undead creature.) This spell does not prevent such attacks from undead originating from spells, magic items, or class abilities; only the special attacks from the undead's base nature are affected.
+	
+In addition, the subject's armor or clothing is considered ghost touch armor, and its armor bonus counts against incorporeal attacks. (A suit of clothing is considered armor that gives +0 AC for this purpose, though it can be enhanced with spells such as <b>magic vestment</b>.)
+	
+This spell doesn't remove negative levels that the subject has already gained, nor does it affect the saving throw necessary 24 hours after gaining a negative level.
+   

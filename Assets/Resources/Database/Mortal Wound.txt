@@ -1,0 +1,19 @@
+<b>Mortal Wound</b>(Lords of Darkness)
+
+Necromancy
+ <b>Level:</b>  Cleric 4 (Bhaal, Cyric),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous (see text)
+ <b>Saving Throw:</b> Will half (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You fire a black ray of negative energy at a single target.
+You must succeed at a ranged touch attack to strike your target.
+A creature struck by this ray takes 3d8 points of damage +1 point per caster level (up to +20).
+The spell has no effect on constructs or inanimate objects.
+Since undead are powered negative energy, this spell cures them of a like amount of damage, rather than harming them.
+   

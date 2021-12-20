@@ -1,0 +1,28 @@
+<b>Stone Walk</b>(Player's Guide to FaerÃ»n)
+
+Conjuration [Teleportation]
+ <b>Level:</b>   Initiate of bane 6,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Stone touched
+ <b>Duration:</b> Permanent until discharged
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You magically link one location to another so that you or someone else may speak a command word at one end and be teleported to the other end.
+Before casting this spell, you must prepare the ends of the link, both of which must be areas of stone 5 feet square.
+This preparation takes 1 hour, and they serve for repeated castings of the spell as long as the stones are not damaged.
+When you cast stone walk, you designate a command word and touch one of the stones.
+Both stones then become attuned to the command word you designate.
+Thereafter, any creature that speaks the command word while standing upon one of the stones is teleported (as though by greater teleport) to the other stone instantaneously.
+The stones function once for every four caster levels you possess, and each usage can transport one willing Medium or smaller creature plus one additional willing Medium or smaller creature (each carrying gear or objects up to its maximum load) or its equivalent per three caster levels.
+A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth.
+All creatures to be transported must be in contact with each other.
+Because of the special link between the stones, travel by means of this spell is not impeded by abjurations such as dimensional lock or forbiddance.
+A gate seal spell cast upon either stone suppresses the stone walk effect.
+Material Component: Preparation of each end of the link requires a paste made from rubies and amber worth 2,500 gp.
+Casting the spell requires a 2,500-gp diamond.
+Activating one of the linked stones once the spell is cast requires no material components.
+ <b>Also appears in</b>   Magic of Faerun  Lords of Darkness     

@@ -1,0 +1,17 @@
+<b>Unyielding Form of Inevitable Death</b>(Complete Mage)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Your flesh turns into solid onyx, and your muscled fists crackle with the unbridled power of thunder and lightning.
+You take the form of a marut (MM 159), including the full plate armor normally worn by such a creature.
+You gain 50 temporary hit points, which disappear at the end of the spell's duration.
+You can use each of the marut's at-will spell-like abilities (such as dimension door) once per casting of the spell, but you don't gain access to any of the marut's 1/day or 1/week spell-like abilities (such as chain lightning or earthquake).
+See the Polymorph Subschool sidebar on page 91 for more details.
+   

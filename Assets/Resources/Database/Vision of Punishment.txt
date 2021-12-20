@@ -1,0 +1,18 @@
+<b>Vision of Punishment</b>(Champions of Valor)
+
+Divination [Mind-Affecting]
+ <b>Level:</b>   Sanctified 1,   
+<b>Components:</b>V, DF, Sacrifice
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One evil living creature
+ <b>Duration:</b> 1 round/3 levels
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You give the target a vision of what awaits it in the afterlife.
+Since most evil creatures go to an evil plane where they take the form of a lowly and much-tortured petitioner (barring special arrangements with evil gods or fiends that grant them higher status in the afterlife), this is usually a gut-wrenching vision.
+The target is nauseated; if it makes its saving throw, it is instead sickened (see page 301 of the Dungeon Master's Guide for definitions of these conditions.
+Sacrifice Component: 1d2 points of Strength damage.
+   

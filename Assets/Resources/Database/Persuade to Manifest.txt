@@ -1,0 +1,17 @@
+<b>Persuade to Manifest</b>(Ghostwalk)
+
+Enchantment (Compulsion) [Ectomancy, Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> Dead creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Yes (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell sends a powerful signal to the soul of a creature that has died and not yet manifested on the Material Plane or passed on to the True Afterlife.
+The soul immediately appears on the Ethereal Plane and can immediately make a Wisdom check with a +10 morale bonus to manifest on the Material Plane.
+If that check is failed, the ghost may make Wisdom checks normally every minute to manifest.
+   

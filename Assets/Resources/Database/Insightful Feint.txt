@@ -1,0 +1,15 @@
+<b>Insightful Feint</b>(Complete Adventurer)
+
+Divination
+ <b>Level:</b>  Assassin 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+You gain temporary insight into the way your opponent moves and reacts.
+	
+You gain a +10 insight bonus on the next single Bluff check (if it is made before the start of your next turn) that you make to feint in combat (see Bluff, page 68 of the Player's Handbook).
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,19 @@
+<b>Master's Lament</b>(Heroes of Horror)
+
+Transmutation [Evil]
+ <b>Level:</b>   Corrupt 6,   
+<b>Components:</b>V, S, Corrupt
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One humanoid creature with a familiar or other empathically linked animal companion
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell strengthens the bond between master and familiar. For the duration of the spell, any damage or magical effect (charm, energy drain, etc.) taken by the master is also taken by the familiar, and vice versa. If the effect allows a save, both master and familiar roll their saves separately.
+	
+This spell can be cast on either the master or the familiar.
+	
+Corruption Cost: 1d6 points of Charisma damage.
+   

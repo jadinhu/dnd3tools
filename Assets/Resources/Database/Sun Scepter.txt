@@ -1,0 +1,18 @@
+<b>Sun Scepter</b>(Lost Empires of Faerun)
+
+Conjuration (Creation) [Lawful, Light]
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Scepter of light
+ <b>Duration:</b> 1 round/level [D]
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You conjure a radiant, macelike scepter of solid light, approximately 3 feet long and 1 inch in diameter, with a dazzling, spherical ball measuring 5 inches in diameter at one end.
+The sun scepter functions as a physical weapon that deals 2d6 points of bludgeoning damage and has the axiomatic, disruption, and flaming burst special abilities.
+You can strike with it as a melee touch attack.
+The sun scepter lasts only as long as you hold it in your hand; it instantly fades away if you drop it or hand it off to an ally.
+   

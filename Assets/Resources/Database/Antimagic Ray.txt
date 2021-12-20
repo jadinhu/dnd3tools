@@ -1,0 +1,25 @@
+<b>Antimagic Ray</b>(Draconomicon)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature or object
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+An invisible ray projects from your fingers.
+You must succeed on a ranged touch attack with the ray to strike a target.
+The target, if struck, functions as if it were inside an antimagic field.
+If this spell is used against a creature, the target can't cast spells or can't use supernatural or spell-like abilities, nor do such abilities have any effect on the creature.
+However, the creature can still use spell completion items (such as scrolls) or spell trigger items (such as wands), even though it can't cast the spells required.
+If this spell is used against an object, that object's magical powers are suppressed � ;including any spells previously cast and currently in effect on the item, as well as any spells or magical effects targeted on the object during the antimagic ray's duration.
+Remember that an object struck by the ray only receives a saving throw if it is attended or if it is a magic item.
+An unattended item, even if currently under the effect of a spell (such as a torch with continual flame cast upon it), receives no save.
+The spell doesn't affect any objects other than the target itself, even if those objects are worn, carried by, or in contact with the target.
+For instance, if a creature is the target, its equipment remains unaffected.
+Material Component: A pinch of iron filings mixed with ruby dust worth 100 gp.
+ <b>Also appears in</b>   Spell Compendium     

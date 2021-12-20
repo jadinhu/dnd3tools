@@ -1,0 +1,15 @@
+<b>Fangs of the Vampire King</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>    Corrupt 2  
+<b>Components:</b>S, Corrupt, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 minute/level
+
+ 	
+The caster grows vampirelike fangs that allow him to make bite attacks with an attack bonus of +10 plus the caster's Strength modifier.
+The caster's bite attack deals 1d6 points of damage and 1 point of Constitution damage.
+Corruption Cost: 1d6 points of Strength damage.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

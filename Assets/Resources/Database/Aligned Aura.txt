@@ -1,0 +1,17 @@
+<b>Aligned Aura</b>(Complete Champion)
+
+Abjuration
+ <b>Level:</b>  Blackguard 4,  Cleric 4,  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft. or 60 ft.
+ <b>Area:</b> 20-ft.-radius emanation or 60-ft.-radius burst, centered on you
+ <b>Duration:</b> 1 round/level or until discharged
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A rush of divine energy flows through your holy symbol, infusing your body with the essence of the divine ethos. When you cast this spell, choose one non-neutral aspect of your own alignment � ;chaos, evil, good, or law. (If you are neutral, you can select whichever alignment you wish each time you cast this spell). You are immediately surrounded in a 20-foot aura of invisible energy associated with the chosen alignment component. Anyone in that area who shares that alignment component gains a bonus, and anyone with the opposed alignment component must make a Fortitude save or take a penalty. The values of these modifiers and the features to which they apply are given on the following table. These modifiers end when the affected creature leaves the spell's area.
+	<table>		<tr>			<th>Alignment </th>			<th>Bonus </th>			<th>Penalty </th>		</tr>		<tr>			<td> Chaos </td>			<td> +1 on attack rolls </td>			<td> -1 on saving throws </td>		</tr>		<tr>			<td> Evil </td>			<td> +1 on damage rolls </td>			<td> -1 to Armor Class </td>		</tr>		<tr>			<td> Good </td>			<td> +1 on saving throws </td>			<td> -1 on attack rolls </td>		</tr>		<tr>			<td> Law </td>			<td> +1 to Armor Class </td>			<td> -1 on damage rolls </td>		</tr>	</table>	
+At any point before the duration expires, you can choose to unleash the spell's remaining power in a 60-foot burst that deals 1d4 points of damage per round of duration remaining (maximum 15d4) to each creature of the opposed alignment in the area. Each affected creature can attempt a Fortitude save for half damage. The burst also heals 1 point of damage per round of duration remaining (maximum 15 points) for each creature of the same alignment in the area. Once this option is invoked, the spell ends immediately.
+   

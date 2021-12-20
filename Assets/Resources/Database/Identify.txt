@@ -1,0 +1,17 @@
+<b>Identify</b>(Player's Handbook v.3.5, p. 243)
+
+Divination
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,  Hoardstealer 1,  Vigilante 1,  Sha'ir 1,  Death Master 1,  Savant 1 (Arcane),  Court Herald 1,   Oracle 1,  Magic 2,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Touch
+ <b>Target:</b> One touched object
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The spell determines all magic properties of a single magic item, including how to activate those functions (if appropriate), and how many charges are left (if any).
+Identify does not function when used on an artifact (see the Dungeon Master's Guide for details on artifacts).
+Arcane Material Component: A pearl of at least 100 gp value, crushed and stirred into wine with an owl feather; the infusion must be drunk prior to spellcasting.
+   

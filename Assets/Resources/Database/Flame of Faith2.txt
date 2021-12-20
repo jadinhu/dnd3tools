@@ -1,0 +1,19 @@
+<b>Flame of Faith</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Evocation
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Nonmagical weapon touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can temporarily turn any single normal or masterwork melee weapon into a magical, flaming one.
+For the duration of the spell, the weapon acts as a +1 flaming burst weapon that deals an additional +1d6 points of fire damage.
+On a critical hit, the weapon deals +1d10 points of bonus fire damage if the weapon's critical multiplier is x2, +2d10 points if the weapon's multiplier is x3, and +3d10 points if the multiplier is x4.
+This spell effect does not stack with a weapon's enhancement bonus or with a flaming or flaming burst weapon bonus.
+Material Focus: A lump of phosphorus, touched to the target weapon.
+ <b>Also appears in</b>   Complete Divine     

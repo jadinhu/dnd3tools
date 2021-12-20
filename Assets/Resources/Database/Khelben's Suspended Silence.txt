@@ -1,0 +1,18 @@
+<b>Khelben's Suspended Silence</b>(Magic of Faerun)
+
+Illusion (Glamer)
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One object
+ <b>Duration:</b> Permanent or until discharged; 6 rounds (see text)
+ <b>Saving Throw:</b> None (object)
+ <b>Spell Resistance:</b> No (object)
+
+ 	
+You imbue the touched object with a magical effect.
+When you touch the object and give the command word you designate, the object becomes the target of a silence spell.
+The effect of the silence spell moves with the object and lasts exactly 6 rounds.
+Material Component: A feather and a handful of gem dust worth 50 gp.
+   

@@ -1,0 +1,16 @@
+<b>Disguise Undead</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Illusion (Glamer)
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One corporeal undead
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None (harmless)
+
+ 	
+As change self (see page 183 of the Player's Handbook), except as noted above.
+You determine the appearance of the undead.
+Focus: A cocoon of a death's-head moth.
+ <b>Also appears in</b>   Spell Compendium  Ghostwalk  Magic of Faerun     

@@ -1,0 +1,21 @@
+<b>Ice Shield</b>(Frostburn)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,  Druid 5,    
+<b>Components:</b>V, S, M, Coldfire
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The warded creature gains resistance to blows, cuts, stabs, and slashes.
+The subject gains damage reduction 15/-.
+The spell prevents a total of 10 points of damage per caster level (maximum 150 points).
+While protected by the spell, the creature also has vulnerability to fire and takes half again as much (+50%) damage as normal from the effect, regardless of whether a saving throw is allowed, or if the save is a success or failure.
+The duration increases to 10 minutes per level when in a frostfell environment.
+Material Component: A pinch of sleet.
+Coldfire Component: Five ounces of coldfire.
+   

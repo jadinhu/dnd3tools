@@ -1,0 +1,15 @@
+<b>Scorpion Parry</b>(Tome of Battle: The Book of Nine Swords, p. 73)
+
+Setting Sun (Counter)
+ <b>Level:</b>  Swordsage 6 (Two Setting Sun maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>You knock your opponent?s attack aside, guiding his weapon into one of his allies.</b>
+	
+Your keen eye and ability to discern a foe?s motives and intentions allow you to deflect an incoming attack into a different target. 
+	
+If an opponent attacks you, you can initiate this maneuver to make an opposed attack roll as an immediate action. If your foe?s result is higher, he attacks you as normal. If your result is higher, you can choose a creature adjacent to you and within your opponent?s threatened area. The chosen creature is the new target of your foe?s attack. Use your enemy?s original attack roll result to determine if he strikes the new targe   

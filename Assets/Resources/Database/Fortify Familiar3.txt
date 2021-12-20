@@ -1,0 +1,17 @@
+<b>Fortify Familiar</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Universal
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Your familiar
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You make your familiar tougher.
+While the spell lasts, it gains a +2 enhancement modifier to natural armor and has a 25% chance to avoid extra damage from sneak attacks or critical hits (though the attack still deals normal damage).
+The familiar also receives 2d8 temporary hit points.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

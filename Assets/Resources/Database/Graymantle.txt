@@ -1,0 +1,21 @@
+<b>Graymantle</b>(Spell Compendium, p. 107)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You create a cloud of sickly gray energy that streaks toward a living creature, wrapping it in the foul essence of unlife.</b>
+	
+A skull-shaped cloud of gray energy strikes your target. The gray radiance is transferred to the creature, covering it entirely. For the duration of the spell, a living subject cannot regain hit points or ability score points by any means (undead creatures can still gain hit points), nor can the creature remove negative levels. Regeneration or fast healing abilities the subject has from any source are suppressed for the duration of the spell. Spells that heal damage do not work on that individual. The subject can improve its current hit points by boosting its Constitution score and can receive temporary hit points (from an <b>aid</b> spell, for example).
+	
+When the spell ends, automatic healing abilities, such as a troll's regeneration, and items that restore hit points, such as a <b>ring of regeneration</b>, begin to function again.
+	
+<b>Material Component:</b> A skull.
+   

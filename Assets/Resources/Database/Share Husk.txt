@@ -1,0 +1,20 @@
+<b>Share Husk</b>(Magic of Faerun)
+
+Divination
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Animal touched
+ <b>Duration:</b> Concentration
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You sense through an animal's senses, seeing through its eyes, smelling through its nose, and hearing through its ears.
+You use the animal's Listen and Spot skillmodifiers instead of your own.
+This spell gives you no special ability to understand what you sense.
+You can switch your perceptions between the animal and your own on your turn as a free action.
+You and the animal must be on the same plane for the spell to function.
+Material Component: An edible treat that would appeal to the animal (vegetable or meat).
+ <b>Also appears in</b>   Spell Compendium     

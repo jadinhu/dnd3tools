@@ -1,0 +1,17 @@
+<b>Heart Ripper</b>(Spell Compendium, p. 111)
+
+Necromancy [Death]
+ <b>Level:</b>  Assassin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>With a sweep of your hand, invisible magic slams into your target. With a bloody pop and squelch, the heart of your target bursts out its back, dropping the creature like a discarded rag doll.</b>
+	
+Invisible bolts of force instantly slay the target you designate by driving its heart from its body unless it succeeds on a Fortitude save. If the target has HD higher than your caster level, it does not die on a failed saving throw, but instead is stunned for 1d4 rounds. Creatures that don't depend on their hearts for survival, creatures with no anatomy, and creatures immune to extra damage from critical hits are unaffected by the spell.
+ <b>Also appears in</b>   Complete Arcane  Oriental Adventures     

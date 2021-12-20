@@ -1,0 +1,17 @@
+<b>Portal Alarm, Improved</b>(Spell Compendium, p. 160)
+
+Abjuration
+ <b>Level:</b>  Bard 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One interplanar gate or portal
+ <b>Duration:</b> 8 hours/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>portal alarm</b>, with the following additions:
+			You can designate the alarm set off by an improved portal alarm to be mental, audible, or both.		If a mental alarm is chosen, you receive a mental picture of all creatures that have passed through the portal and which direction they passed through. The mental image provides information as if you were standing 10 feet away from the portal.		You can enable another creature to receive the mental alarm instead of yourself. You must touch the creature, which receives a Will saving throw to negate the effect, if applicable.		
+Focus: A small leather pouch containing three brass bells.
+ <b>Also appears in</b>   Manual of the Planes     

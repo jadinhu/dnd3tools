@@ -1,0 +1,16 @@
+<b>Catsfeet</b>(Complete Mage)
+
+Transmutation
+ <b>Level:</b>  Assassin 1,  Bard 1,  Hexblade 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+As you complete this spell, you feel as lithe and quick as a cat.
+When you cast this spell, you can immediately reroll a Balance, Climb, Jump, or Move Silently check that you have just rolled.
+This second roll gains a +5 insight bonus.
+You must abide by the second result, even if it is worse than the first.
+   

@@ -1,0 +1,21 @@
+<b>Wave Blessing</b>(Stormwrack)
+
+Transmutation [Water]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One Medium or smaller object or creature/level, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+On the seas, there is always the danger of falling overboard, especially to those wearing armor or who simply cannot swim.
+The affected targets do not go under the water if they fail a Swim check for any reason, including being tied up, unconscious, or heavily loaded.
+However, the targets can still be dragged under by the actions of other creatures.
+You can cast this spell with an instant utterance.
+Casting this spell is an immediate action.
+You can even cast this spell when it isn't your turn.
+Wave blessing counters and dispels sink.
+   

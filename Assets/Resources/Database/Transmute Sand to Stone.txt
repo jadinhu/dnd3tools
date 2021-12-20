@@ -1,0 +1,23 @@
+<b>Transmute Sand to Stone</b>(Sandstorm)
+
+Transmutation [Earth]
+ <b>Level:</b>  Druid 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Up to two 10-ft. cubes/level (S)
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell transforms a mass of sand of any depth into solid stone permanently.
+Any creature in the sand is allowed a Reflex save to escape before the area is hardened to stone.
+If the creature fails its save, it is entangled and can't move.
+It is not considered helpless, however, and it can break out by damaging the stone.
+Stone has hardness 8 and 15 hit points per inch of thickness.
+The creature can also make a Strength check to break free.
+The break DC is 20, +2 per inch of thickness of the stone.
+Transmute sand to stone counters and dispels transmute stone to sand.
+Arcane Material Component: Sand, dirt, and water.
+   

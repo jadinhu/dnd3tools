@@ -1,0 +1,27 @@
+<b>Create Darkenbeast</b>(Monster Compendium: Monsters of FaerÃ»n)
+
+Transmutation [Evil]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One animal of no more than 2 HD
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None or Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The spellcaster may transform one Small or Medium-size animal with no more than 2 HD into a darkenbeast.
+A target with an Intelligence score of 5 or more gets a Will save to negate the effect; targets with Intelligence of 4 or less are automatically affected.
+The spell can only be cast in darkness: at night, indoors, or underground.
+Its effects last until the darkenbeast is slain or until exposure to sunlight (see above) dispels the transmutation.
+The transmutation can also be dispelled by a dispel magic spell, although such an attempt would have to overcome the darkenbeast's spell resistance.
+A sunbeam spell automatically dispels the transmutation without needing to overcome spell resistance.
+If you are going to imprint another spell on the darkenbeast, you must cast that spell immediately after the create darkenbeast spell is over and pass a Spellcraft check (DC 12 + level of the spell being imprinted).
+The imprinted spell has no effect; it merely goes &quot;into&quot; the darkenbeast.
+Another spellcaster using detect magic for 1 round can determine whether a darkenbeast has a spell imprinted.
+After 3 rounds, detect magic and a successful Spellcraft check (DC 15+ level of imprinted spell) can identify what spell a darkenbeast has imprinted on it.
+A created darkenbeast is under the caster's direct telepathic command.
+There is no limit to the number of darkenbeasts a sorcerer or wizard can command, but a spellcaster can only have a number of darkenbeasts with imprinted spells equal to her caster level.
+Material Components: Dried wyvern's blood smeared upon the spell's target, and a black pearl worth at least 200 gp.
+   

@@ -1,0 +1,21 @@
+<b>Flensing</b>(Forgotten Realms Campaign Setting)
+
+Evocation
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One corporeal creature
+ <b>Duration:</b> Up to 4 rounds (see text)
+ <b>Saving Throw:</b> Fortitude partial (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You literally strip the flesh from a corporeal creature's body.
+Each round, the target suffers pain and psychological trauma that literally undermines the spirit.
+The assault deals 2d6 points of damage and 1d6 points of temporary Charisma and Constitution damage.
+A Fortitude save negates the temporary Charisma and Constitution damage and reduces the normal damage by half.
+The target can make a saving throw each round to reduce the damage in that round.
+Flensing has no effect on creatures in gaseous form or on incorporeal creatures.
+Material Component: An onion.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

@@ -1,0 +1,34 @@
+<b>Programmed Amnesia</b>(Complete Arcane)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You can selectively destroy, alter, or implant memories in the target creature as you see fit.
+Casting the spell gives you access to all of the subject's thoughts and memories, allowing you to implement as many of the following specific effects as you like.
+Memory Erasure: Any or all memories possessed by the subject can be erased, including knowledge of specific events, people, or places.
+Memory Implant: You can create false memories in the subject's mind as you see fit.
+Memories of being friends with a hated enemy, events that didn't really take place, or betrayals by people the subject regards as friends could all be implanted.
+Negative Levels: You can bestow a number of negative levels equal to 1/2 the subject's character level or less.
+This effect represents erasure of class knowledge and training.
+These negative levels never become permanent level loss, but they cannot be removed by spells such as restoration,
+remaining in effect as long as the subject is under the effect of this spell.
+Persona Rebuilding: By erasing the subject's previous personality and implanting a false set of memories, you can build a new persona for the creature, altering its alignment, beliefs, values, and personality traits.
+Some class abilities are affected by alignment changes.
+Programmed Trigger: You can program the subject to delay the onset of any of the above effects until a specific event takes place, such as the receipt of a coded message, capture by enemies, or arrival at some destination.
+Similarly, you could specify some or all of the alterations you create in a subject to be removed by a specific event.
+The nature of programmed amnesia is such that a subject given new memories (whether willing or not) might be given cause to suspect that those memories are false, based on how complete your programming is.
+For example, a paladin subject to a persona rebuilding that changes her alignment to neutral loses her paladin abilities.
+Unless you impart a specific believable memory of why she changed alignment, the character will perceive this unexplained gap in her memory and might take steps (such as seeking a magical cure for her &quot;amnesia&quot;) that could negate the spell's effect (see below).
+Generally, your subject must be either willing to undergo the spell or restrained in some way so that it cannot leave or interfere with the casting.
+Programmed amnesia is normally permanent unless you care to specify events that will end the effect.
+Its effect can also be removed by a greater restoration or wish spell.
+Material Component: A set of small crystal lenses set in gold loops worth 500 gp.
+ <b>Also appears in</b>   Spell Compendium     

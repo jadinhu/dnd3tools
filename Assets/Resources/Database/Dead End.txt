@@ -1,0 +1,19 @@
+<b>Dead End</b>(Spell Compendium, p. 59)
+
+Illusion (Shadow)
+ <b>Level:</b>  Assassin 1,  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature/level touched
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> Will negates (harmless) or Will disbelief (if interacted with); see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Sprinkling spice on the ground, you complete the final step of the spell. Upon touching your intended targets, you note with satisfaction that the area around all of you seems a little cleaner and less tread upon.</b>
+	
+This spell flawlessly disguises the spoor left by the subjects, concealing their tracks, scent, and other signs of their passage with an illusion that defeats even the senses of taste and touch. Any creature making a Search check, using the scent ability, or using the Survival skill to track a creature affected by this spell interacts with the illusion and can make a will save to disbelieve. Creatures that succeed on the save can detect the subjects normally. Creatures merely passing through an area the subjects passed through do not count as interacting with the illusion.
+Targets of this spell can make a Will save to negate it, and spell resistance applies.
+<b>Material Component:</b> A pinch of some odoriferous spice.
+   

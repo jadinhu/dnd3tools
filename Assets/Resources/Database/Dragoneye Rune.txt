@@ -1,0 +1,22 @@
+<b>Dragoneye Rune</b>(Dragon Magic)
+
+Universal
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,  Wu Jen 2 (all),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Effect:</b> One personal rune or mark, all of which must fit within 1 sq. ft.
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A brightly glowing sigil appears briefly, burning as though branded into the surface before fading to invisibility.
+	
+This spell allows you to brand a special arcane mark onto an object or creature, denoting that it is under your watchful eye. The mark inscribed is unique to your casting of this spell; no two casters create the same mark. It otherwise functions just as arcane mark, with two exceptions.
+	
+First, you can treat the marked object or creature as familiar for the purpose of any divination (scrying) spell.
+Second, three times per day you can (as a swift action) detect the direction and distance of the marked object or creature from you. If the creature is dead or on another plane, you gain no knowledge from this function.
+	
+Special: If you are of the dragonblood subtype (see page 4), any object or creature with a dragoneye rune gains a +2 bonus on saves against divination (scrying) spells or effects cast by other dragonblooded creatures.
+   

@@ -1,0 +1,19 @@
+<b>Advice</b>(Oriental Adventures)
+
+Enchantment (Compulsion) [Language-Dependent, Mind-Affecting]
+ <b>Level:</b>  Shaman 5,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 hour/level or until completed
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You influence the actions of the targeted creature by offering profound and thoughtful advice grounded in your wisdom and experience.
+You must word your advice in such a manner as to make it sound reasonable, even if it is not, but you are not limited to a few sentences.
+If the target creature fails its saving throw, it does its best to follow your advice, carrying out the suggested course of action to the best of its ability.
+If the action would place the creature in great peril or cause its death, the victim can attempt a second saving throw � ;
+this time with a +4 circumstance bonus � ;just before taking the final plunge to its doom.
+   

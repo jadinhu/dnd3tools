@@ -1,0 +1,23 @@
+<b>Listening Coin</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Divination
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> See text
+ <b>Effect:</b> Magical sensor
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can turn two ordinary coins into magic listening devices � ;one a sensor and the other a receiver.
+After casting the spell, you simply give the sensor coin away, either surreptitiously or overtly.
+By holding the receiver coin up to your ear and making a successful Listen check, you can hear whatever is transpiring near the sensor.
+If the sensor coin is in a pocket, pouch, or sack, the DC for the Listen check increases by +5 for all but the most obvious sounds.
+The coins continue to function no matter how far apart they are, although they fall silent if they're on different planes.
+Lead sheeting or magical protection (such as antimagic field,
+mind blank, or nondetection) blocks the transfer of sound.
+Any creature with an Intelligence score of 12 or higher can notice that a coin has a magical sensor by making a successful Scry (or Intelligence) check (DC 20).
+The sensor can be dispelled.
+ <b>Also appears in</b>   Spell Compendium  Complete Adventurer     

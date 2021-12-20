@@ -1,0 +1,17 @@
+<b>Dawn</b>(Spell Compendium, p. 59)
+
+Abjuration
+ <b>Level:</b>  Druid 0,  Ranger 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 15 ft.
+ <b>Target:</b> All creatures in a 15-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>With a cry similar to a rooster's you cast the spell. For a moment you feel as if you had just awakened from a confortable nap, but as the feeling fades, those around you begin to stir.</b>
+	
+All sleeping creatures in the affected area awaken. Those who are unconscious because of nonlethal damage wake up and are staggered. This spell does not affect dying creatures.
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Savage Species     

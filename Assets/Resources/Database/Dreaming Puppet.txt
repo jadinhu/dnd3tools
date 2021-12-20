@@ -1,0 +1,30 @@
+<b>Dreaming Puppet</b>(Heroes of Horror)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>   Oneiromancy 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Unlimited
+ <b>Target:</b> One sentient, living creature of caster's HD +4 or lower
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You take control of the physical body of a sleeping creature.
+At the beginning of the spell, you must name the subject or identify him by some title that leaves no doubt as to his identity.
+You then enter a trance and appear in the subject's dream.
+So long as you remain in his dream, you see the world through the eyes of his physical form, and you control his body as per the spell dominate monster (see page 224 of the Player's Handbook).
+The subject is aware of you in his dream, and can identify you if he knows you personally.
+Once the spell ends, or if the subject shakes off the effect due to a new save granted by instructions contrary to his moral code (this new save gains a +2 bonus; see dominate person), he remembers what he has done while under the effects of dreaming puppet.
+These memories are dreamlike and not entirely clear, but the subject recalls the gist of all that happened.
+If the recipient is awake when the spell begins, you can choose to wake up (ending the spell) or remain in the trance.
+You can remain in the trance until the recipient goes to sleep (assuming the spell's duration lasts that long), then enter the recipient's dream and dominate him as normal.
+If you are disturbed and awaken during the trance, the spell ends.
+Creatures who don't sleep (such as elves, but not half-elves), don't dream, or are otherwise immune to mind-affecting spells and abilities are immune to this spell.
+You are unaware of your own surroundings or of the activities around you while in the trance.
+You are defenseless both physically and mentally (you always fail any saving throw) while in the trance.
+Dreaming puppet carries an element of risk for you as well as for the subject.
+If the target exceeds the required Will save by 10 or more, or rolls a natural 20, not only are you barred from controlling him but your soul becomes lost in the dreamscape, unable to easily return to your own body.
+In order to return to your body, you must either find your way through the realm of dreams (and possibly other planes as well), cast a planar traveling spell, or be rescued.
+   

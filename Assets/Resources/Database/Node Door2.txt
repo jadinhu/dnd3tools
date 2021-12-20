@@ -1,0 +1,21 @@
+<b>Node Door</b>(Underdark)
+
+Conjuration (Teleportation) [Earth]
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Varies (see text)
+ <b>Target:</b> You and touched objects or other touched willing creatures weighing up to 50 lb./level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None and Will negates (object)
+ <b>Spell Resistance:</b> No and Yes (object)
+
+ 	
+You instantly transfer yourself from your current earth node to any other earth node you have visited.
+You always arrive exactly at the spot desired � ;whether by simply visualizing the area or by describing your destination (for example, &quot;the earth node that serves the kuo-toa as a secret temple to Blibdoolpoolp&quot;).
+After using this spell, you can't take any other actions until your next turn.
+If you arrive in an earth node that is already partially occupied by a newly added object, you arrive in the closest clear space in that node.
+If the earth node is completely filled or has been destroyed by any means, you bounce to the next closest earth node (determined randomly or by the DM).
+Each such &quot;bounce&quot; deals you and any who accompany you 2d6 points of damage.
+Special: You must have the Node Spellcasting feat to cast this spell.
+ <b>Also appears in</b>   Champions of Ruin     

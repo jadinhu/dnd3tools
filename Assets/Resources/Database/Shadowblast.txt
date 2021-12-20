@@ -1,0 +1,23 @@
+<b>Shadowblast</b>(Manual of the Planes)
+
+Evocation
+ <b>Level:</b>  Cleric 4,  Druid 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell is particularly effective against creatures native to the Plane of Shadow and those that use shadow in spells or spell-like abilities.
+It clears the spell's area of any portals or weak spots between the Plane of Shadow and other planes, and it prevents access with shadow-based spells.
+It appears as a flash of light in the area of effect.
+Natives of the Plane of Shadow caught in a shadowblast are stunned for 3d6 minutes if they fail a Fortitude saving throw.
+Shadow natives that are also undead or vulnerable to light take an additional 2d10 points of damage if they fail a second Fortitude save.
+Creatures that fail either Fortitude save cannot use spell-like or supernatural abilities to open any portal to the Plane of Shadow for 3d6 minutes.
+Shadowblast closes all portals, gates, and other openings to the Plane of Shadow, and any weak spots are strengthened.
+Creatures on the other side of a portal are unaffected by shadowblast.
+Material Component: A handful of grave dirt, squeezed tightly and flung.
+ <b>Also appears in</b>   Spell Compendium     

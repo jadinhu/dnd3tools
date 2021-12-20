@@ -1,0 +1,14 @@
+<b>Branch to Branch</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+You gain a +10 competence bonus on Climb checks made in trees.
+You can brachiate (swing via branches and vines) at your normal speed.
+ <b>Also appears in</b>   Complete Adventurer     

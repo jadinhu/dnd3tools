@@ -1,0 +1,15 @@
+<b>White Raven Strike</b>(Tome of Battle: The Book of Nine Swords, p. 94)
+
+White Raven (Strike)
+ <b>Level:</b>  Crusader 4 (One White Raven maneuver),  Warblade 4 (One White Raven maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>Your eye for tactics allows you to notice an enemy?s weak points and attack them with a mighty blow.</b>
+	
+The White Raven discipline focuses on tactics, teamwork, and the ability to make an attack that improves your allies? abilities. This strike ruins a foe?s defenses.
+	
+As part of this maneuver, you make a single melee attack. If it hits, you deal an extra 4d6 points of damage, and the target is considered flat-footed until the start of his next turn.<   

@@ -1,0 +1,27 @@
+<b>Investiture of the Orthon</b>(Fiendish Codex II: Tyrants of the Nine Hells)
+
+Transmutation [Evil, Investiture]
+ <b>Level:</b>  Blackguard 4,  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+A dull humming noise sounds briefly, and the air crackles with the terrible power of an orthon.
+While under the effect of this spell, a creature is infused with the disruptive power of an orthon.
+As an immediate action, the subject of this spell can erect a 20-foot-radius field that disrupts teleportation spells or effects.
+All creatures in the area are prevented from using any spell, spell-like ability, or supernatural ability that provides such movement, as if they were in the area of a dimensional lock spell.
+Each use of this field lasts 1 round.
+In addition, the subject of the spell gains the benefit of a sonic shield for as long as the spell remains in effect.
+This shield functions like the fire shield spell, except that it deals sonic damage instead of cold or fire, and the subject takes half damage from acid-based attacks.
+If exposed to an acid attack that allows a Reflex save for half damage, the subject takes no damage on a successful save.
+The subject gains resistance to fire 10.
+This resistance stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the orthon).
+While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture.
+After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute.
+Material Component: A fist-sized chunk of brimstone.
+   

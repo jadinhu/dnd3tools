@@ -1,0 +1,19 @@
+<b>Shatterfloor</b>(Magic of Faerun)
+
+Evocation [Sonic]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 15-ft.-radius spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a loud, thrumming vibration that builds to a painful crescendo before fading.
+Creatures and objects in the area take 1d4 points of sonic damage per caster level (maximum 10d4), and can make a Will saving throw for half damage.
+If the floor of the area is made of stone, wood, ice, or material any softer than those, the floor is pulverized to a depth of 6 inches, resulting in an area of soft dust, wood fragments, or loose crushed ice, as appropriate.
+Any creature moving across this surface is reduced to half speed.
+Focus: A miniature hammer and bell.
+ <b>Also appears in</b>   Spell Compendium     

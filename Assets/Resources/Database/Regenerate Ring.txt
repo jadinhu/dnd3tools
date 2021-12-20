@@ -1,0 +1,20 @@
+<b>Regenerate Ring</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Conjuration (Healing)
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 20 ft.
+ <b>Target:</b> One creature/two levels, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 10 rounds + 1 round/two levels
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You invoke healing energy over a group of creatures, granting each the fast healing ability for the duration of the spell.
+This healing applies only to damage sustained during the spells duration, not to that from previous injuries.
+Each subject heals 1 hit point per round of such damage until the spell ends and is automatically stabilized if he or she begins dying from hit point loss during that time.
+Regenerate ring does not restore hit points lost from starvation, thirst, or suffocation, nor does it allow a creature to regrow or attach lost body parts.
+The effects of multiple regenerate spells do not stack; only the highest-level effect applies.
+Applying a second regenerate spell of equal level extends the first spell's duration by the full duration of the second spell.
+   

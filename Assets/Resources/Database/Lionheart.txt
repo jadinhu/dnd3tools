@@ -1,0 +1,12 @@
+<b>Lionheart</b>(Champions of Valor)
+
+Abjuration
+ <b>Level:</b>   Initiate of the holy realm 2,  Initiate of nobanion 2,   
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Duration:</b> 1 minute
+
+ 	
+This spell originated in Nobanion's faith.
+It functions like remove fear except as noted above.
+ <b>Also appears in</b>   Spell Compendium  Miniatures Handbook     

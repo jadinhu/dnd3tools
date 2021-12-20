@@ -1,0 +1,18 @@
+<b>Cloak of Shade</b>(Sandstorm)
+
+Abjuration
+ <b>Level:</b>  Cleric 1,  Druid 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject is wrapped in an envelope of perfect shade.
+Inside the cloak, the temperature is one band lower than the actual temperature (see Heat Dangers, page 12), but the spell has no effect on unearthly or hotter heat, nor does it offer any protection against fire damage.
+The target is treated as though it is in shade, thereby protected from sunburn, able to begin recovering from sun glare, and able to begin healing nonlethal damage taken from exposure to heat.
+Cloak of shade has no effect on light, daylight, sunburst, and similar magical light effects, and it offers no protection from damage that creatures vulnerable to sunlight might take from the sun.
+   

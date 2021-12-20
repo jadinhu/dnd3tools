@@ -1,0 +1,16 @@
+<b>Extend Tentacles</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Originally developed by medusas, this spell lengthens your tentacles, increasing the reach of your tentacle attacks by 5 feet.
+The tentacles attack as normal.
+This spell can also increase the length of a medusa's snakes so they may make normal attacks with a 10-foot reach, or they may start a grapple after a successful attack as if you had the improved grab ability.
+If the snakes get a successful hold, they can constrict on any following round for 1d3 points of damage plus your Strength modifier with a successful grapple check.
+ <b>Also appears in</b>   Spell Compendium     

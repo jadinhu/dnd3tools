@@ -1,0 +1,15 @@
+<b>Fan the Flames</b>(Tome of Battle: The Book of Nine Swords, p. 53)
+
+Desert Wind (Strike) [Fire]
+ <b>Level:</b>  Swordsage 3 (One Desert Wind maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Target:</b> One creature
+
+ 	
+<b>Flickering flame dances across your blade, then springs toward your target as you sweep your sword through the air.</b>
+	
+A skilled Desert Wind adept can gather flame within his weapon and hurl it through the air. When you initiate this maneuver, you launch a fist-sized ball of white-hot fire at a single opponent. If you make a successful ranged touch attack, your target takes 6d6 points of fire damage.
+This maneuver is a supernatural ability.
+   

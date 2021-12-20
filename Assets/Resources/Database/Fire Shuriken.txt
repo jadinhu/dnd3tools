@@ -1,0 +1,20 @@
+<b>Fire Shuriken</b>(Complete Arcane)
+
+Evocation [Fire]
+ <b>Level:</b>  Assassin 2,  Wu Jen 2 (fire),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> One magical shuriken/3 levels
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates shuriken formed of magic fire that you can throw as a normal ranged attack at any target within range.
+You are automatically considered proficient with the fire shuriken, which have a range increment of 10 feet, threaten a critical hit on a roll of 19-20, and deal 3d6 points of fire damage each on a successful hit (though you and your possessions take no damage as the shuriken are thrown).
+Any additional damage dealt by the fire shuriken (including Strength and sneak attack bonuses) is also fire damage.
+The shuriken disappear when they hit, so they cannot set fire to combustibles or damage objects.
+You can create one fire shuriken per three caster levels, up to a maximum of six at 18th level.
+Material Component: A shuriken coated with pine sap and sulfur.
+ <b>Also appears in</b>   Oriental Adventures  Spell Compendium     

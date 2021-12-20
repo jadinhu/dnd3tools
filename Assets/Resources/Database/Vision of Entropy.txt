@@ -1,0 +1,19 @@
+<b>Vision of Entropy</b>(Fiendish Codex I: Hordes of the Abyss)
+
+Illusion (Phantasm) [Fear, Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,   Entropy 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With a whisper and wave of your hand, you invite the targeted creature to behold the seething chaos of the infinite void surrounding the Abyss.
+Each round, the subject must make a successful Will save or be overwhelmed with madness and awe at the sight of the images of the Abyss forming in its mind.
+The subject becomes shaken on the first failure, frightened on the second, panicked on the third, and unconscious on the fourth.
+A creature that faints from the effect of this spell remains unconscious for 1 hour or until revived.
+Any successful saving throw merely spares the subject the effect of the next failure for that round; any already existing condition persists until the next failure changes it or until the spell ends.
+   

@@ -1,0 +1,19 @@
+<b>Portal Beacon</b>(Manual of the Planes)
+
+Transmutation
+ <b>Level:</b>  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One interplanar portal
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You may alter a magic portal so it sends out a mental beacon for up to six creatures, including yourself if you choose.
+These individuals must be known to you but need not be present at the time of casting.
+Once you cast portal beacon, these creatures always knows the direction and distance to the targeted portal.
+Moving to a plane other than the two connected by the portal ends portal beacon for that creature but leaves it intact for others.
+You may have any number of portal beacons tuned to you without impairing other abilities or actions.
+ <b>Also appears in</b>   Spell Compendium     

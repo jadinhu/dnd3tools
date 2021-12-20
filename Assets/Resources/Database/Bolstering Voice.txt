@@ -1,0 +1,16 @@
+<b>Bolstering Voice</b>(Tome of Battle: The Book of Nine Swords, p. 90)
+
+White Raven (Stance)
+ <b>Level:</b>  Crusader 1,  Warblade 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>Your clarion voice strengthens the will of your comrades. So long as you remain on the field of battle, your allies are strengthened against attacks and effects that seek to subvert their willpower.</b>
+	
+The discipline of the White Raven stresses that an army is effective only when its members are motivated to fight. In the face of a daunting enemy or unexpected hardship, the most skilled warrior is worthless if he lacks strength of will. When you adopt the bolstering voice stance, you shout encouragement to your allies, disparage your foes, and lend much-needed support to raise your allies? spirits. By drawing on the example you set, your allies harden their will to fight and battle on despite your enemies? attempts to turn them aside.
+	
+While you are in this stance, all allies within range who can hear you gain a +2 morale bonus on Will saves, or a +4 morale bonus on Will saves against fear effects.</   

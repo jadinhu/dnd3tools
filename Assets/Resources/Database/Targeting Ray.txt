@@ -1,0 +1,19 @@
+<b>Targeting Ray</b>(Spell Compendium, p. 219)
+
+Divination
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>From your clenched fist you produce a luminous ray. The ray pulsates between the target creature and you.</b>
+	
+The ray acts as a rangefinder for you and any allies. You must succeed on a ranged touch attack with the ray to strike a target. It provides a +1 insight bonus per three caster levels on ranged attacks directed at the subject for the duration of the spell. Your allies need not see you, but they must be able to see the ray. You can otherwise act normally for the duration of the spell. Allies who can see the target of the ray receive the bonus even if you lose line of sight to the target.
+	
+Focus: A small metal or stone tube.
+   

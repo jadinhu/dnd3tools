@@ -1,0 +1,17 @@
+<b>Ice Skate</b>(Frostburn)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 min./level (D)
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You allow a creature to skate across any icy surface, either level or inclined, increasing its base land speed by 60 feet.
+(This adjustment is treated as an enhancement bonus).
+No Balance checks are required for this movement (even during combat on ice) unless the recipient attempts exceptional maneuvers, such as jumping a crevasse or gliding up a frozen waterfall, or takes damage � ;even then, the recipient gains a +4 enhancement bonus on its Balance check.
+   

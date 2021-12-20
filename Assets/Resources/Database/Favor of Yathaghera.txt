@@ -1,0 +1,18 @@
+<b>Favor of Yathaghera</b>(Silver Marches)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Druid 3 (Lurue),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One unicorn or equine animal
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You give the target creature large feathered wings in the manner of a pegasus, allowing it to fly with a speed of 100 feet (average maneuverability).
+The creature reacts to these wings as if they were naturally part of its body and can use them immediately.
+Ride checks to manipulate the mount are made as if it were not flying (so a rider familiar with horses can handle a flying horse just as easily as a normal one).
+The spell gets its name from the Elvish name for Lurue: Yathaghera the Winged Queen, ruler of the pegasi and unicorns of Evermeet.
+   

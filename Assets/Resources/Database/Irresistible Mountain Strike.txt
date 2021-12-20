@@ -1,0 +1,20 @@
+<b>Irresistible Mountain Strike</b>(Tome of Battle: The Book of Nine Swords, p. 83)
+
+Stone Dragon (Strike)
+ <b>Level:</b>  Crusader 6,  Swordsage 6,  Warblade 6,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Fortitude partial
+
+ 	
+<b>You slam your weapon into your foe with irresistible force. He can barely move as he struggles to marshal his defenses against you.</b>
+	
+Your mighty attack causes your opponent to stagger aimlessly for a few key moments, leaving him unable to act fully on his next turn.
+	
+As part of this maneuver, you make a single melee attack. This attack deals an extra 4d6 points of damage. A creature hit by this strike must also make a successful Fortitude save (DC 16 + your Str modifier) or be unable to take a standard action for 1 round. It can otherwise act as normal. A creature that successfully saves still takes the extra damage.
+	
+This maneuver functions only against opponents standing on the ground. A flying creature or a levitating target need not save against the action loss effect, but still takes the extra damage.
+   

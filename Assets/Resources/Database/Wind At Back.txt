@@ -1,0 +1,17 @@
+<b>Wind At Back</b>(Magic of Faerun)
+
+Evocation
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Two creatures/level, no two of which can be more than 50 ft. apart
+ <b>Duration:</b> 1 day
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell doubles the overland speed of all targets, assuming they are all traveling together in the same direction, including pack animals and mounts.
+This spell does not affect nonliving material.
+The spell does not affect tactical speed.
+ <b>Also appears in</b>   Spell Compendium     

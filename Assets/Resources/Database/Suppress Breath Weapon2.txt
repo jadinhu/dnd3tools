@@ -1,0 +1,17 @@
+<b>Suppress Breath Weapon</b>(Spell Compendium, p. 216)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature that has a breath weapon
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You shout out the words of this spell and the creature's throat constricts, a blue ring of runes visible around its neck.</b>
+	
+The subject of this spell cannot use its breath weapon for the duration of the spell.
+ <b>Also appears in</b>   Draconomicon     

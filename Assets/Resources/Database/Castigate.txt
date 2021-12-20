@@ -1,0 +1,21 @@
+<b>Castigate</b>(Complete Divine)
+
+Evocation [Sonic]
+ <b>Level:</b>  Cleric 4,   Purification 4,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft. radius emanation
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell allows you to verbally rebuke foes.
+By shouting your deity's teachings about other alignments, you inflict pain on those who hear, and those in the area need not understand your divine words to be affected.
+This spell has no effect on creatures that cannot hear.
+Otherwise, you deafen foes of the same alignment for 1d4 rounds (save for half).
+Foes within one alignment step of your alignment (lawful, neutral, chaotic; good or evil) take 1 point of damage per caster level (maximum10).
+Foes whose alignment is more than one step different from yours take 1d4 points of damage per caster level (maximum 10d4).
+A Fortitude saving throw is allowed for half damage from this spell.
+ <b>Also appears in</b>   Oriental Adventures  Spell Compendium  Defenders of the Faith: A Guidebook to Clerics and Paladins     

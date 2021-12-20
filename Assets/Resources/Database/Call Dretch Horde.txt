@@ -1,0 +1,20 @@
+<b>Call Dretch Horde</b>(Book of Vile Darkness)
+
+Conjuration (Calling) [Evil]
+ <b>Level:</b>  Demonologist 3,  Mortal Hunter 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, Soul
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 2d4 dretches
+ <b>Duration:</b> One year
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The caster calls 2d4 dretches from the Abyss to where she is, offering them the soul that she has prepared.
+In exchange, they will serve the caster for one year as guards, slaves, or whatever else she needs them for.
+They are profoundly stupid, so the caster cannot give them more complicated tasks than can be described in about ten words.
+No matter how many times the caster casts this spell, she can control no more than 2 HD worth of fiends per caster level.
+If she exceeds this number, all the newly called creatures fall under the caster's control, and any excess from previous castings become uncontrolled.
+The caster chooses which creatures to release.
+   

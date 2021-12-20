@@ -1,0 +1,18 @@
+<b>Vigilant Slumber</b>(Complete Mage)
+
+Divination
+ <b>Level:</b>  Assassin 1,  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 12 hours or until awakened
+
+ 	
+Even as you prepare for sleep, you feel a strange alertness in the back of your mind.
+You set a specific condition under which you automatically wake up.
+This condition might be anything from &quot;If any Tiny or larger creature comes within 10 feet of me&quot; to &quot;When the moon is at its zenith&quot;.
+The condition must be something that you would normally be able to observe if you were awake.
+Thus, you can't set the spell to wake you when something happens elsewhere, or when an invisible foe sneaks into your campsite.
+You awaken fully alert and ready for action.
+   

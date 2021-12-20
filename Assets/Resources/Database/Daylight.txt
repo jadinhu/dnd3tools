@@ -1,0 +1,21 @@
+<b>Daylight</b>(Player's Handbook v.3.5, p. 216)
+
+Evocation [Light]
+ <b>Level:</b>  Bard 3,  Urban Druid 3,  Sha'ir 3,  Knight of the Weave 3,  Hunter of the Dead 3,  Adept 3,  Wizard 3,  Sorcerer 3,  Paladin 3,  Druid 3,  Cleric 3,  Court Herald 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched
+ <b>Duration:</b> 10 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The object touched sheds light as bright as full daylight in a 60-foot radius, and dim light for an additional 60 feet beyond that. Creatures that take penalties in bright light also take them while within the radius of this magical light. Despite its name, this spell is not the equivalent of daylight for the purposes of creatures that are damaged or destroyed by bright light (such as vampires).
+	
+If daylight is cast on a small object that is then placed inside or under a light-proof covering, the spell's effects are blocked until the covering is removed.
+	
+Daylight brought into an area of magical darkness (or vice versa) is temporarily negated, so that the otherwise prevailing light conditions exist in the overlapping areas of effect.
+	
+Daylight counters or dispels any darkness spell of equal or lower level, such as darkness.
+   

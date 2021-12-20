@@ -1,0 +1,20 @@
+<b>Psychic Turmoil</b>(Expanded Psionics Handbook)
+
+Abjuration
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 40-ft.-radius emanation centered on a point in space
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With this spell, you create an invisible field that leeches away the power points of psionic characters standing within the emanation.
+Nonpsionic characters are unaffected.
+When the spell is cast and at the beginning of each of your subsequent turns, psionic creatures within the area of the psychic turmoil lose 1 power point per manifester level they have.
+Characters who succeed on a Will save when they first come into contact with the emanation lose only half as many power points (round down) each round.
+Characters get only one save attempt against any particular psychic turmoil effect, even if they leave the spell's area and later return.
+Material Component: Five playing cards, which are torn in half when the spell is cast.
+   

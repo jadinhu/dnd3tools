@@ -1,0 +1,19 @@
+<b>Shadow Phase</b>(Spell Compendium, p. 185)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,  Assassin 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Your hand becomes slightly translucent as you complete the arcane gestures of the spell. As you touch the intended recipient, your hand appears solid again, while the subject's flesh takes on a dark, wispy, insubstantial appearance.</b>
+	
+The spell temporarily transposes some of the subject's tissue with shadow-stuff, making the subject partially incorporeal. This partially incorporeal state does not allow the subject to pass through walls or other solid objects.
+	
+Nonmagical physical attacks directed against the spell's subject suffer a 50% miss chance. Magical attacks, such as supernatural and spell-like abilities, spells, and magic weapons, suffer a 20% miss chance.
+   

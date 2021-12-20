@@ -1,0 +1,17 @@
+<b>Cold Snap</b>(Spell Compendium, p. 50)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 5,  Cleric 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> 1 mile
+ <b>Area:</b> 1-mile-radius circle centered on you
+ <b>Duration:</b> 2d4 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>As you call upon divine power to fuel your spell, you feel the air around you become chilled. The drop in temperature creates a thin fog that exacerbates the cold in the air without hindering your vision or movement whatsoever.</b>
+	
+This spell causes a powerful cold front to form, lowering the temperature in the affected area by 5 degrees Fahrenheit per caster level (maximum change of 50 degrees Fahrenheit), to a maximum low of � ;20 degrees Fahrenheit (see Cold Dangers, <span class="caps">DMG</span> 302). Spells with the cold descriptor deal an extra 1 point of damage per die when cast in the area.
+   

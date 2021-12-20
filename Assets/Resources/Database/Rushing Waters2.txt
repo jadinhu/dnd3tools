@@ -1,0 +1,20 @@
+<b>Rushing Waters</b>(Underdark)
+
+Conjuration (Summoning) [Water]
+ <b>Level:</b>  Druid 5,   Watery death 4,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 15-ft.-radius spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None (see text)
+ <b>Spell Resistance:</b> No
+
+ 	
+Cold water gushes in a great wave outward from the point you choose, violently spreading to the limits of the area.
+This wave attempts a bull rush against each creature in the affected area without provoking attacks of opportunity.
+For the purpose of the opposed Strength check, the wave is Colossal, has a Strength score of 34, and is considered to be charging and moving with the affected creatures (total bonus +30).
+If the wave wins the opposed Strength check, the defender is moved 5 feet directly away from the spell's point of origin, plus an additional 5 feet for every 5 points by which the wave's check result exceeds that of the defender.
+Any creature moved 5 or more feet by rushing waters must succeed on a Reflex save or fall prone.
+The wave also drenches anything in its area and extinguishes any normal fire as large as a bonfire.
+ <b>Also appears in</b>   Spell Compendium     

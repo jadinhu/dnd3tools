@@ -1,0 +1,17 @@
+<b>Sticks and Stones</b>(Shining South)
+
+Necromancy
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One Small pile of debris
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You animate a pile of rocks, branches, limbs, and other debris into the crude shape of a skeletal creature of Medium size that immediately attacks whatever foe you designate.
+You can change the animated creature's chosen target as a move action.
+The creature's combat statistics are those of a 2 HD humanoid skeleton, except that it also has a wight's energy drain supernatural ability (see the Skeleton and Wight entries in the Monster Manual for details).
+   

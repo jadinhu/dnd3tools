@@ -1,0 +1,21 @@
+<b>Stars of Arvandor</b>(Champions of Valor)
+
+Evocation [Force, Good]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,  Cleric 4,  Druid 4,  Ranger 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> See text
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create one twinkling star per level (maximum ten stars).
+These minute starbursts orbit your head like ioun stones.
+As a swift action, you can launch one star at a target you designate within range.
+Alternatively, as a standard action, you can launch up to three stars at one or more targets within range.
+You can only launch stars once per round.
+You must make a ranged touch attack for each star.
+Against non-evil targets, each star deals 1d8 points of nonlethal damage; evil targets take 1d8 points of lethal damage instead.
+ <b>Also appears in</b>   Book of Exalted Deeds     

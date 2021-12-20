@@ -1,0 +1,20 @@
+<b>Tactical Precision</b>(Complete Adventurer)
+
+Divination [Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Vigilante 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+When you cast this spell, you grant your allies greater insight into one another's actions, allowing them to better coordinate their attacks.
+If two affected allies flank the same creature, each gains a +2 insight bonus on attack rolls made against the flanked creature.
+This bonus is in addition to the normal +2 bonus on attack rolls granted to flanking creatures.
+In addition, if an affected ally successfully deals damage against an opponent that is flanked by another affected ally, she deals an extra 1d6 points of damage.
+Creatures immune to sneak attacks are immune to this extra damage.
+Material Component: A toy soldier.
+ <b>Also appears in</b>   Spell Compendium     

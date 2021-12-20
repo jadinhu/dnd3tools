@@ -1,0 +1,17 @@
+<b>Spider Legs</b>(Book of Vile Darkness)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 minute/level
+
+ 	
+The caster grows four long spider legs from the sides of her torso.
+She can use these legs to move at a speed of 30 feet, no matter what the caster's normal speed is, as long as she carries less than her maximum load.
+The caster can also use the extra legs to climb on vertical surfaces or even traverse ceilings as well as a spider does, with her hands completely free.
+The caster has a climb speed of 15 feet.
+A creature with a Strength score of at least 20 +1 per caster level can pull the caster off a wall or ceiling.
+   

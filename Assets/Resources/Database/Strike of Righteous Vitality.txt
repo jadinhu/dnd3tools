@@ -1,0 +1,14 @@
+<b>Strike of Righteous Vitality</b>(Tome of Battle: The Book of Nine Swords, p. 60)
+
+Devoted Spirit (Strike)
+ <b>Level:</b>  Crusader 9 (Three Devoted Spirit maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>As your enemy reels from your mighty blow, an ally nearby is simultaneously healed and cleansed of its wounds by the power of your faith.</b>
+	
+When you make this strike, you or one ally within 10 feet of you gains the benefit of a heal spell cast as a cleric of your character level. To gain the benefit of this maneuver, you must strike an enemy creature whose alignment has at least one component different from yours. This foe must pose a threat to you or your allies in some direct, immediate way.
+   

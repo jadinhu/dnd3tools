@@ -1,0 +1,23 @@
+<b>Choke</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Conjuration (Creation) [Force]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature up to size Large (see text)
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex half (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A pair of invisible hands made of pure force spring into existence around the target's throat and begin to strangle it.
+Only aberrations, animals, beasts, fey, giants, humanoids, magical beasts, monstrous humanoids, outsiders, and shapechangers can be affected.
+Creatures without necks, such as beholders, cannot be affected.
+The hands cannot be attacked or damaged.
+The target takes 1d4 points of damage per round but can make a Reflex save each round for half damage.
+All attack rolls and checks the target makes while being choked suffer a -2 circumstance penalty; if the check involves speaking, the circumstance penalty is -4.
+Spellcasting is possible, but the target must make a successful Concentration check (DC 10+ spell level +1/2 the last damage dealt) or lose the spell.
+The -2 circumstance penalty also applies to the check, or &#8211; 4 if the spell has a verbal component.
+Material Component: A handkerchief or similar-sized piece of cloth that has been tied in a knot.
+   

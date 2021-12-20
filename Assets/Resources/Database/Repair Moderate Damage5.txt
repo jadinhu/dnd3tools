@@ -1,0 +1,17 @@
+<b>Repair Moderate Damage</b>(Spell Compendium, p. 173)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One construct
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Your touch eliminates the wear and tear from the construct's body.</b>
+	
+This spell functions like <b>repair light damage</b>, except that you repair 2d8 points of damage +1 point per caster level (maximum +10) to a construct.
+ <b>Also appears in</b>   Eberron Campaign Setting  Complete Arcane  Tome and Blood: A Guidebook to Wizards and Sorcerers  Miniatures Handbook  Dragon Compendium     

@@ -1,0 +1,27 @@
+<b>Haboob</b>(Sandstorm)
+
+Conjuration (Creation) [Air, Earth]
+ <b>Level:</b>  Cleric 3,  Druid 3,  Ranger 3,  Sorcerer 3,  Wizard 3,   Sand 3,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft. level)
+ <b>Effect:</b> Abrasive dust spreads in 20-ft. radius, 20 ft. high
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> None or Reflex half; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+A thick haze of swirling dust and sand swirls out from the point you designate.
+The effect obscures all sight, including darkvision, beyond 5 feet.
+A creature within 5 feet has concealment.
+Creatures farther away have total concealment.
+Unprotected, nonmagical flames are automatically extinguished, and there is a 50% chance that protected flames will be snuffed.
+In addition to obscuring sight, the swirling dust abrades any creature within it or attempting to move through it.
+Any creature passing through the haze takes 1d4 points of damage per two caster levels (maximum 5d4), with no save allowed.
+If you conjure haboob so that it appears where creatures are located, each creature takes damage as if passing through the haze.
+Such creatures take half damage with a successful Reflex save, but if these creatures do not leave the affected area at their next opportunity, they take full damage from the abrading sands (no save) as if they had voluntarily entered the area.
+Any creature that remains within the affected area for more than 1 round likewise takes damage automatically (no save).
+A moderate wind (11+ mph) disperses the dust in 8 rounds; a strong wind (21+ mph) disperses it in 4 rounds.
+This spell does not function underwater.
+Material Component: A pinch of ash, dust, or sand.
+   

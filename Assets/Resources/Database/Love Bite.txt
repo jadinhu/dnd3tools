@@ -1,0 +1,23 @@
+<b>Love Bite</b>(Champions of Valor)
+
+Evocation [Force]
+ <b>Level:</b>   Initiate of the holy realm 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell originated in Sune's faith.
+You determine at the time of casting what effect it takes.
+Fleeting Kiss: The target feels the sensation of a brief, tender kiss on a visible part of her body or on her mouth if her body is completely covered.
+This effect is often used as a signal.
+Love Bite: The target takes 1 point of damage.
+In either case, if you are holding the charge on a touch spell of 2nd level or lower when you cast love bite, this spell also delivers the touch spell to the target as if you had touched it directly (normal saving throws and spell resistance for the touch spell applies, if applicable).
+You must make a melee touch attack as normal with a +2 bonus.
+This form of the spell always attacks from your direction and cannot flank targets as a creature can.
+Using this spell to deliver a held charge is an exception to the normal rule that casting another spell while holding a charge dissipates the held spell.
+   

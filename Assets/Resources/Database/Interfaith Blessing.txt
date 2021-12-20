@@ -1,0 +1,16 @@
+<b>Interfaith Blessing</b>(Complete Champion)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Adept 2,  Cleric 2,  Druid 2,  Shugenja 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 20 ft. Area: 20-ft.-radius burst centered on you
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You feel your deity speaking through you to other gods, filling the space around you with diverse divine energies that strengthen your ally.</b>
+	
+When you cast <b>interfaith blessing</b>, every creature within range is individually blessed by its own deity for the duration of the spell. The specific blessing gained depends on the particular deity worshiped, as given on the table below. A subject that venerates more than one deity must roll randomly to determine which blessing is received.
+	<table>		<tr>			<th>Deity </th>			<th>Blessing </th>		</tr>		<tr>			<td> Bahamut, St. Cuthbert, or Yondalla </td>			<td> +1 on attack rolls and saves </td>		</tr>		<tr>			<td> Boccob, Corellon Larethian, Vecna, or Wee Jas </td>			<td> +1 on attack rolls and skill checks </td>		</tr>		<tr>			<td> Ehlonna, Obad-Hai, or the general worship of nature </td>			<td> +1 on attack rolls and to AC </td>		</tr>		<tr>			<td> Erythnul, Gruumsh, or Lolth </td>			<td> +2 on damage rolls </td>		</tr>		<tr>			<td> Fharlanghn, Moradin, or Pelor </td>			<td> +2 to AC </td>		</tr>		<tr>			<td> Garl Glittergold, Olidammara, or no deity </td>			<td> Roll 1d8 to determine blessing; a result of 6 is player's choice </td>		</tr>		<tr>			<td> Heironeous, Hextor, or Nerull </td>			<td> +2 on attack rolls </td>		</tr>		<tr>			<td> Kord, Kurtulmak, or Tiamat </td>			<td> +1 on attack rolls and damage rolls </td>		</tr>	</table>   

@@ -1,0 +1,21 @@
+<b>Puppeteer</b>(Spell Compendium, p. 163)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>In casting this spell, you see what others do not � ;strings of silver energy running from your hands and feet to your target's wrists and ankles. You wave, and she waves back, in an awkward, resisting fashion. You start walking toward the edge of the cliff. . . .</b>
+	
+You force the subject to mimic your actions. The subject matches your motions exactly, though it takes a -4 penalty to Dexterity and Strength. Its movements look awkward, and its actions aren't as effective as if it were actually doing them itself. You can try to make the subject commit a suicidal act, but it receives another Will save to break the spell. If that save is successful, the subject collapses, helpless and in a comatose state, for 1d4 rounds.
+	
+Anyone observing the subject of this spell can determine that the subject's actions are being controlled by making a DC 15 Sense Motive check (or DC 10 if the controlling bard is also visible).
+	
+This spell doesn't grant the subject extraordinary, supernatural, spell-like abilities, or spellcasting abilities, even if you have and use such abilities during the spell's duration.
+ <b>Also appears in</b>   Magic of Faerun     

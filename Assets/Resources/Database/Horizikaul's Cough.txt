@@ -1,0 +1,18 @@
+<b>Horizikaul's Cough</b>(Magic of Faerun)
+
+Evocation [Sonic]
+ <b>Level:</b>  Sorcerer 0,  Wizard 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature or object
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a brief but loud noise adjacent to the target.
+Horizikaul's cough strikes unerringly, even if the target is in melee or has anything less than total cover or concealment.
+The target takes 1 point of sonic damage and must succeed at a Will saving throw or be deafened for 1 round.
+This spell has no effect if cast into the area of a silence spell.
+   

@@ -1,0 +1,21 @@
+<b>Luminous Armor</b>(Book of Exalted Deeds)
+
+Abjuration
+ <b>Level:</b>   Sanctified 2,   
+<b>Components:</b>Sacrifice
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One good creature touched
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell, favored among eladrins visiting the Material Plane, envelops the target in a protective, shimmering aura of light.
+The luminous armor resembles a suit of dazzling full plate, but it is weightless and does not restrict the target's movement or mobility in any way.
+In addition to imparting the benefits of a breastplate (+5 armor bonus to AC), the luminous armor has no maximum Dexterity restriction, no armor check penalty, and no chance for arcane spell failure.
+Luminous armor sheds light equivalent to a daylight spell and counters darkness spells of 2nd level or lower with which it comes into contact.
+In addition, the armor's brightness causes opponents to take a -4 to penalty on melee attacks made against the target.
+This penalty stacks with the attack penalty suffered by creatures sensitive to bright light (such as dark elves).
+Sacrifice: 1d2 points of Strength damage.
+   

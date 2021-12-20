@@ -1,0 +1,15 @@
+<b>Ride of the Valenar</b>(Races of Eberron, p. 189)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+Seeking always to improve the handling of their beloved horses, the spellcasters of Valenar have long worked with magic that strengthens the bond between rider and mount. While this spell is in effect, you gain a +5 competence bonus on Ride checks. If your mount is also your animal companion, the competence bonus improves to +10.
+	
+<b>Special:</b> Elf spellcasters from Valenar cast this spell at +1 caster level.
+   

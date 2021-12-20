@@ -1,0 +1,21 @@
+<b>Balancing Lorecall</b>(Spell Compendium, p. 23)
+
+Divination
+ <b>Level:</b>  Druid 2,  Ranger 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+<b>As you perform the final gestures of the spell you feel magic surround you, pushing on you from all sides as if trying to help keep you standing tall.</b>
+	
+You gain a +4 insight bonus on Balance checks. If you have sufficient ranks in the Balance skill, you can even balance on an otherwise-impossible surface with a DC 20 Balance check.
+	
+If you have 5 or more ranks in Balance, you can balance on vertical surfaces; the normal modifier for a sloped or angled surface no longer applies to you, though other DC modifiers (such as for a slippery surface) do apply. If you balance on a vertical surface, you can move up or down as if you were climbing. However, you are not actually climbing, so you can make attacks normally, retain your Dexterity bonus to Armor Class, and generally follow the rules of the Balance skill rather than the Climb skill.
+	
+If you have 10 or more ranks in Balance, you can balance on liquids, semisolid surfaces such as mud or snow, or similar surfaces that normally couldn't support your weight. For each consecutive round that you begin balanced on a particular surface of this sort, the DC of your Balance check increases by 5. As with all uses of the Balance skill, you move at half speed unless you decide to use the accelerated movement option (thereby increasing the DC of the Balance check by 5).
+	
+<b>Arcane Material Component</b>: A thin, 3-inch-long wooden dowel.
+ <b>Also appears in</b>   Complete Adventurer     

@@ -1,0 +1,22 @@
+<b>Call Marut</b>(Planar Handbook)
+
+Conjuration (Calling) [Lawful]
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One called marut
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+By casting this spell, you request the aid of a marut inevitable.
+If you know an individual marut's name, you may request that individual by speaking the name during the spell (though you might get a different creature, anyway).
+You may ask the marut to perform one duty for you.
+The task must be in harmony with its lawful objective, and must take no more than nine days to complete.
+Maruts confront those, like liches, who would try to deny the grave.
+The inevitable does not ask for any payment for the task.
+After nine days, or if asked to do something nonlawful, frivolous, or not focused on its lawful objective, the marut will leave.
+XP Cost: 500 XP.
+ <b>Also appears in</b>   Spell Compendium     

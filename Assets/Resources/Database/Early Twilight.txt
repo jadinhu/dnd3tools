@@ -1,0 +1,19 @@
+<b>Early Twilight</b>(Heroes of Battle)
+
+Evocation [Darkness]
+ <b>Level:</b>  Cleric 4,  Hexblade 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, M, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 80-ft.-radius cylinder, 40 ft. high
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Early twilight suppresses light in its area, even casting a shadow over daylight.
+This effect reduces the illumination in the area by one category (from bright light to shadowy, or from shadowy to darkness).
+It does not stack with other magical darkness effects.
+Unlike other spells with the darkness descriptor, early twilight counters and dispels battlefield illumination (see page 125) but not other light spells.
+Arcane Material Component: A black veil.
+   

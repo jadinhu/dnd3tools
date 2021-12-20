@@ -1,0 +1,23 @@
+<b>Enveloping Cocoon</b>(Spell Compendium, p. 83)
+
+Evocation [Force]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Cocoon of force around one Large or smaller creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Crushing a caterpillar between your fingers, you create a tight cocoon of shimmering blue-green energy around your foe.</b>
+	
+A cocoon of force encloses a creature of size Large or smaller, containing it for the spell's duration or until the cocoon is destroyed. The cocoon has hardness 10 and 10 hit points per caster level. The enveloping cocoon prevents the creature trapped inside from moving or casting spells with somatic components. The cocoon is too confining to permit effective attacks with anything larger than a natural or light weapon (and the creature inside can attack only the cocoon in any event).
+	
+You can attach a second spell to the cocoon by casting it at the cocoon. When the <b>enveloping cocoon</b> spell ends or is dismissed, the attached spell automatically affects the creature inside, with no save allowed (although spell resistance, if any, still applies). If the cocoon is destroyed before it is dismissed or the spell duration ends, the attached spell is wasted.
+	
+Any of the following spells from this book can be attached to an enveloping cocoon: <b>infestation of maggots</b>, <b>languor</b>, <b>miasma</b>, and <b>phantasmal disorientation</b>. In addition, a cocoon can be used in conjunction with these spells from the Player's Handbook: <b>baleful polymorph</b>, <b>blight</b>, <b>contagion</b>, <b>dominate animal</b>, <b>flame strike</b>, and <b>poison</b> (the subject fails the initial save but can attempt the second save).
+	
+<b>Material Component:</b> A live caterpillar.
+ <b>Also appears in</b>   Complete Divine     

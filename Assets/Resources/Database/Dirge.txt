@@ -1,0 +1,17 @@
+<b>Dirge</b>(Magic of Faerun)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> 50 ft.
+ <b>Area:</b> All enemies within a 50-ft.-radius burst centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your song draws the energies of death and destruction down on your enemies.
+Each round, any enemy in the area suffers 2 points of temporary Strength and Dexterity damage.
+A successful saving throw only negates that round's affect; a new saving throw is required each round to avoid that round's damage.
+ <b>Also appears in</b>   Spell Compendium     

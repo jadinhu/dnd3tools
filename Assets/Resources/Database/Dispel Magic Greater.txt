@@ -1,0 +1,11 @@
+<b>Dispel Magic, Greater</b>(Player's Handbook v.3.5, p. 223)
+
+Abjuration
+ <b>Level:</b>  Trapsmith 3,  Bard 5,  Dread Necromancer 5,  Sorcerer 6,  Urban Druid 6,  Death Master 6,  Sha'ir 6,  Wu Jen 6,  Nar Demonbinder 6,  Blighter 6,  Cleric 6,  Knight of the Weave 6,  Druid 6,  Wizard 6,  Beguiler 6,   Liberation 6,   
+<b>Components:</b>
+
+ 	
+This spell functions like <b>dispel magic</b>, except that the maximum caster level on your dispel check is +20 instead of +10.
+	
+Additionally, greater dispel magic has a chance to dispel any effect that remove curse can remove, even if dispel magic can't dispel that effect.
+   

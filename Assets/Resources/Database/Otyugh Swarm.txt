@@ -1,0 +1,23 @@
+<b>Otyugh Swarm</b>(Complete Divine)
+
+Conjuration (Creation)
+ <b>Level:</b>   Pestilence 9,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Three or more otyughs, no two of which are more than 30 ft. apart
+ <b>Duration:</b> Seven days or seven months (D); see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Otyugh swarm creates otyughs from a large collection of refuse and filth, such as a sewer or cesspool.
+You can choose to create 3d4 ordinary otyughs or 1d3+1 Huge otyughs with 15 HD (see page 296 of the Monster Manual).
+The otyughs willingly aid you in combat or battle, perform a specific mission, or serve as bodyguards.
+They remain with you for seven days unless you dismiss them.
+If the otyughs are created only for guard duty, the duration of the spell is seven months.
+In this case, the otyughs can only be ordered to guard a specific site or location.
+Otyughs summoned to guard duty cannot move outside the spell's range.
+You must create the otyughs in an area containing at least 6,000 pounds of sewage, refuse, or offal.
+After you cast the spell, otyughs not summoned for guard duty may leave the area of offal at your command.
+ <b>Also appears in</b>   Spell Compendium  Defenders of the Faith: A Guidebook to Clerics and Paladins     

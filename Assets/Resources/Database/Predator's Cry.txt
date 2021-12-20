@@ -1,0 +1,15 @@
+<b>Predator's Cry</b>(The Forge of War, p. 115)
+
+Necromancy [Fear, Mind-Affecting, Sonic]
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Up to one animal/level, no two of which are more than 60 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Particularly effective against cavalry, this spell causes all affected animals to become panicked. If a panicked animal carries a rider, the rider must succeed on a DC 25 Ride check to prevent the animal from trying to flee the battlefield. If the animal successfully saves, it is instead shaken for the duration of the spell.
+   

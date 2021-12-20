@@ -1,0 +1,19 @@
+<b>Floating Disk, Greater</b>(Spell Compendium, p. 96)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 3-ft.-diameter disk of force
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Letting the mercury drip to the ground you create a slightly concave disk of energy. It hovers several feet above the ground.</b>
+	
+This spell functions like _Tenser's Floating disk (<b>PH</b> 294), except that the created disk does not need to stay within 3 feet of the surface beneath it. However, the disk must remain within 15 feet of you at all times. You can concentrate (as a standard action) on the disk to make it move with a fly speed of 20 feet (perfect). This allows you to sit on the disk and command it to carry you about.
+	
+<b>Material Component:</b> A drop of mercury.
+   

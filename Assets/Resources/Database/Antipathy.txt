@@ -1,0 +1,21 @@
+<b>Antipathy</b>(Player's Handbook v.3.5, p. 200)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,  Wu Jen 8,  Sha'ir 8,  Death Master 8,  Druid 9,  Blighter 9,  Urban Druid 9,   Mentalism 7,  Hatred 8,  Wealth 9,  Elf 9,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One location (up to a 10-ft. cube/level) or one object
+ <b>Duration:</b> 2 hours/level (D)
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause an object or location to emanate magical vibrations that repel either a specific kind of intelligent creature or creatures of a particular alignment, as defined by you. The kind of creature to be affected must be named specifically � ;for example, red dragons, hill giants, wererats, lammasus, cloakers, or vampires. A creature subtype (such as goblinoid) is not specific enough. Likewise, the specific alignment to be repelled must be named � ;for example, chaotic evil, chaotic good, lawful neutral, or neutral.
+	
+Creatures of the designated kind or alignment feel an overpowering urge to leave the area or to avoid the affected item. A compulsion forces them to abandon the area or item, shunning it and never willingly returning to it while the spell is in effect. A creature that makes a successful saving throw can stay in the area or touch the item but feels uncomfortable doing so. This distracting discomfort reduces the creature's Dexterity score by 4 points.
+	
+<b>Antipathy</b> counters and dispels sympathy.
+	
+<b>Arcane Material Component:</b> A lump of alum soaked in vinegar.
+   

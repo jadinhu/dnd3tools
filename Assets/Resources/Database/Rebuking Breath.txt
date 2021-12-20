@@ -1,0 +1,15 @@
+<b>Rebuking Breath</b>(Draconomicon)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>S, <abbr title="Meta Breath">MB, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your breath weapon
+ <b>Duration:</b> Instantaneous
+
+ 	
+You imbue your breath weapon with negative energy that rebukes undead in its area.
+Undead within the area of your breath weapon that fail their saving throws against it are rebuked, and cower as if in awe for 10 rounds.
+The modification applies only to the breath produced as part of the casting.
+ <b>Also appears in</b>   Spell Compendium     

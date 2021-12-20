@@ -1,0 +1,17 @@
+<b>Create Food and Water</b>(Player's Handbook v.3.5, p. 214)
+
+Conjuration (Creation)
+ <b>Level:</b>  Cleric 3,  Healer 3,  Savant 3 (Divine),   Creation 3,  Gluttony 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Food and water to sustain three humans or one horse/level for 24 hours
+ <b>Duration:</b> 24 hours; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The food that this spell creates is simple fare of your choice � ;highly nourishing, if rather bland.
+Food so created decays and becomes inedible within 24 hours, although it can be kept fresh for another 24 hours by casting a purify food and water spell on it.
+The water created by this spell is just like clean rain water, and it doesn't go bad as the food does.
+   

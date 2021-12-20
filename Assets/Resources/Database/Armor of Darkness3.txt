@@ -1,0 +1,17 @@
+<b>Armor of Darkness</b>(Spell Compendium, p. 15)
+
+Abjuration [Darkness]
+ <b>Level:</b>   Darkness 4,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>The spell envelops the creature in a shroud of flickering shadows.</b>
+	
+The shroud grants the subject a +4 deflection bonus to Armor Class plus an additional +1 for every three caster levels above 7th (for a total of +5 at 10th level, +6 at 13th, +7 at 16th, to a maximum of +8 at 19th level). The subject can see through the armor as if it did not exist and is also afforded darkvision out to 60 feet. The subject gains a +2 saving throw bonus against any holy, good, or light spells or effects. Undead creatures that are subjects of armor of darkness also gain +4 turn resistance.
+   

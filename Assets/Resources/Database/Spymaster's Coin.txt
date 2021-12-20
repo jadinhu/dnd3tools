@@ -1,0 +1,25 @@
+<b>Spymaster's Coin</b>(Complete Scoundrel)
+
+Divination (Scrying)
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Effect:</b> Magical sensor
+ <b>Duration:</b> 1 hour/level or until triggered, then 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You slide your finger over a coin, imbuing it with a tiny fraction of your own senses.
+You imbue a Fine object (such as a coin, stone, or other innocuous item) with a dormant magical scrying sensor.
+Anyone attempting to detect its magical aura must succeed on a caster level check (DC 15 + your caster level).
+At any one time during the spell's duration, as a standard action you can concentrate upon the object, enabling you to hear or see (your choice) as if you were in the object's location.
+This effect otherwise functions as if you had cast clairaudience/clairvoyance in the object's area.
+You have no control over the object's movement and gain no special senses.
+Spymaster's coin functions only on the plane of existence you are currently occupying.
+You must continue to concentrate to see or hear through the spymaster's coin.
+If you stop concentrating, the spell's effect ends.
+Once activated, the scrying effect of the spell lasts for a maximum number of rounds equal to your caster level.
+Focus:One object of Fine size.
+   

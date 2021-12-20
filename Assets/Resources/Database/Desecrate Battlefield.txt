@@ -1,0 +1,16 @@
+<b>Desecrate Battlefield</b>(Heroes of Battle)
+
+Evocation [Evil]
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 100-ft.-radius emanation
+ <b>Duration:</b> 1 day/level
+
+ 	
+This spell imbues a large area with negative energy.
+This functions as the desecrate spell (see Player's Handbook page 218), except as noted here.
+Desecrate battlefield counters and dispels consecrate and consecrate battlefield.
+Material Components: A vial of unholy water and 1 pound of platinum dust (500 gp).
+   

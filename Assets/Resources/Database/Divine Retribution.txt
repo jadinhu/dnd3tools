@@ -1,0 +1,24 @@
+<b>Divine Retribution</b>(Complete Champion)
+
+Abjuration
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level or until discharged
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You feel your deity's hand hovering over you, ready to smite anyone who harms you.
+For the duration of this spell, any creature that attacks you � ;whether with a physical attack, a spell, or by other
+means � ;is struck by a retributive effect immediately after you're affected.
+The retribution deals 1d6 points of damage per caster level you possess (maximum 15d6) and 1d4 points of ability damage.
+The precise nature of the damage and ability damage are depend upon your deity, as given in the table below, but the damage is always one-half energy and one-half divine power.
+A successful Will save halves the hit point damage and negates the ability damage.
+Once the retributive effect takes place, the spell ends.
+If you do not worship a deity, choose one whose alignment is within one step of your own.
+You must make this choice when you cast this spell for the first time and cannot subsequently change it, unless your alignment changes in such a way that your previous choice is no longer applicable.
+You can have only one divine retribution spell in effect at any time.
+   

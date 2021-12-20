@@ -1,0 +1,16 @@
+<b>Prey on the Weak</b>(Tome of Battle: The Book of Nine Swords, p. 88)
+
+Tiger Claw (Stance)
+ <b>Level:</b>  Swordsage 7 (Two Tiger Claw maneuvers),  Warblade 7 (Two Tiger Claw maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You scythe through weaker foes like a mighty predator turned loose among a herd of prey.</b>
+	
+With each foe you strike, your bloodlust and battle fury rises ever higher. After a brief moment of explosive rage, the foes around you are left bloodied, torn, and moaning.
+	
+Whenever an opponent within 10 feet of you drops to ?1 or fewer hit points, whether from your attack, an ally?s strike, or some other cause, you can immediately make an attack of opportunity against any opponent within your threatened area.</   

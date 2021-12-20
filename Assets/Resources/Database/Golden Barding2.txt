@@ -1,0 +1,25 @@
+<b>Golden Barding</b>(Spell Compendium, p. 106)
+
+Conjuration (Creation)
+ <b>Level:</b>  Blackguard 1,  Paladin 1,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Special mount touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With a flash, a glowing, golden suit of barding for your special mount appears.</b>
+	
+You create a suit of barding for your mount to wear. The armor appears on your mount, fitting perfectly. The golden barding you create has no armor check penalty and has no effect on your mount's speed. The exact nature of the barding depends on your caster level.
+	
+<b>2nd � ;3rd:</b> Scale mail barding (+4 armor bonus).
+<b>4th � ;5th:</b> Chainmail barding (+5).
+<b>6th � ;7th:</b> Splint mail barding (+6).
+<b>8th � ;9th:</b> Half-plate barding (+7).
+<b>10th+:</b> Full plate barding (+8).
+	
+You can cast <b>magic vestment</b> or other spells that target a suit of armor on the <b>golden barding</b>.
+ <b>Also appears in</b>   Complete Divine     

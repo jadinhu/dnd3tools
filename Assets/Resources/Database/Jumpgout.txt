@@ -1,0 +1,21 @@
+<b>Jumpgout</b>(City of Splendors: Waterdeep)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 5-ft.-radius pillar of flame, up to 30 ft. tall
+ <b>Duration:</b> 2 rounds
+ <b>Saving Throw:</b> Reflex half; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a vertical pillar of roaring flame.
+Creatures caught in the fire take 1d6 points of fire damage per caster level, up to a maximum of 15d6.
+On your next turn (the second round of the spell) the pillar vanishes and reappears up to 60 feet away from its original location.
+If you maintain concentration on the spell on its second round (a standard action), you can choose the spot where the pillar reappears.
+Otherwise, the pillar moves 1d6x;10 feet in a random direction.
+Creatures caught in the pillar on the second round take 1d6 points of fire damage per 2 caster levels (Reflex half).
+The pillar then dies away in a swirl of sparks.
+   

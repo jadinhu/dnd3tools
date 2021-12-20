@@ -1,0 +1,19 @@
+<b>Wings of the Sea</b>(Spell Compendium, p. 240)
+
+Transmutation
+ <b>Level:</b>  Cleric 1,  Druid 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>The webbing between your fingers grows to reach your fingertips as you complete the spell. In the instant you touch the spell's intended subject, however, the webbing between your fingers returns to normal even as the subject's means of watery movement grow.</b>
+	
+This spell increases the touched creature's swim speed by 30 feet. It has no effect on other modes of movement, nor does it give the subject a swim speed if it does not already have one.
+	
+Material Component: A drop of water.
+ <b>Also appears in</b>   Savage Species     

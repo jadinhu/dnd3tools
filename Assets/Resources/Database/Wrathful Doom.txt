@@ -1,0 +1,17 @@
+<b>Wrathful Doom</b>(Magic of Incarnum)
+
+Necromancy [Evil, Incarnum]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> No
+
+ 	
+You turn your opponent's essentia against him by beckoning to dark powers that prey on soulstuff.
+Each round on your turn, beginning on the round in which you cast this spell, your opponent takes damage equal to the amount of essentia in his essentia pool (up to a maximum value equal to your caster level) and is dazed for 1 round.
+A successful Will save halves the damage dealt and negates the daze effect; this save must be repeated each round that the spell lasts.
+   

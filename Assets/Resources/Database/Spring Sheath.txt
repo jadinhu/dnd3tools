@@ -1,0 +1,19 @@
+<b>Spring Sheath</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Transmutation
+ <b>Level:</b>  Assassin 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Effect:</b> One sheath, buckle, or strap
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless, object)
+ <b>Spell Resistance:</b> Yes (harmless, object)
+
+ 	
+You can use this spell to turn an ordinary weapon sheath into a helpful magic device.
+Any quick hand motion in front of the affected weapon-holding device (a free action) causes the weapon inside to shoot forth of its own volition and settle into your hand.
+The overall effect is the same as that of the Quick Draw feat.
+Although this spell is usually cast on a sword sheath, it also works on the straps, buckles, and pockets that hold other weapons.
+You could, for example, cast spring sheath on the strap of the backpack that usually holds your longbow to make that weapon fly into your hand.
+   

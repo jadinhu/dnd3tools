@@ -1,0 +1,14 @@
+<b>Shadow Jaunt</b>(Tome of Battle: The Book of Nine Swords, p. 79)
+
+Shadow Hand [Teleportation]
+ <b>Level:</b>  Swordsage 2,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 50 ft.
+ <b>Target:</b> You
+
+ 	
+<b>A cloud of shadow energy engulfs you, spins into a tiny mote, and disappears. A moment later, this shadowy cloud appears across the battlefield and expels you from it.</b>
+	
+As part of this maneuver, you disappear in a cloud of darkness and teleport up to 50 feet away. You must have line of sight and line of effect to your destination. If you attempt to use this maneuver to move into an occupied space, you do not move, and the maneuver is expended but has no effect.
+   

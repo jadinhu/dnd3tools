@@ -1,0 +1,20 @@
+<b>Unearthly Heat</b>(Sandstorm)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,   Summer 5,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your touch raises the effective body temperature of the target as though it were exposed to unearthly heat.
+Each round, the subject takes 1d6 points of lethal damage and 1d4 points of nonlethal damage.
+A creature can make a Fortitude save each round for the spell's duration to negate the damage.
+A creature that takes damage from the spell is fatigued (or exhausted if it is already fatigued).
+Partially protected creatures can reduce the effects and make Fortitude saves to avoid damage and fatigue each round (see Protection against Heat, page 14).
+A creature wearing heavy clothing or armor takes a -4 penalty on its save.
+   

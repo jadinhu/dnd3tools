@@ -1,0 +1,18 @@
+<b>False Vision</b>(Player's Handbook v.3.5, p. 229)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,  Sha'ir 5,  Court Herald 5,   Trickery 5,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Area:</b> 40-ft.-radius emanation
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Any divination (scrying) spell used to view anything within the area of this spell instead receives a false image (as the major image spell), as defined by you at the time of casting.
+As long as the duration lasts, you can concentrate to change the image as desired.
+While you aren't concentrating, the image remains static.
+Arcane Material Component: The ground dust of a piece of jade worth at least 250 gp, which is sprinkled into the air when the spell is cast.
+   

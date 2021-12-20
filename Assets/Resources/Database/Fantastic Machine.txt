@@ -1,0 +1,36 @@
+<b>Fantastic Machine</b>(Forgotten Realms Campaign Setting)
+
+Illusion (Shadow)
+ <b>Level:</b>   Craft 6,  Gnome 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> A 10-ft. machine
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Fantastic machine creates an illusory, many-armed, noisy mechanical construct of impressively massive appearance.
+You can command the machine to perform any simple, physical task that you can describe in 25 words or less.
+You can order the machine to perform the same task over and over, but you can't change the task.
+You must specify the task when you cast the spell.
+The machine always acts on your turn in the initiative order.
+(It can act during the turn you cast the spell).
+The machine functions as a Large (tall) animated object (see the Monster Manual).
+It trundles over the ground at a speed of 40 feet.
+It can swim or fly at a speed of 10 feet (clumsy maneuverability).
+It has 22 hit points, an Armor Class of 14 (-1 size, +5 natural), and a hardness of 10.
+Its saving throw modifiers are Fortitude +1, Reflex +1, Will -4.
+A light load for the machine is up to 230 pounds, a heavy load is 231-460 pounds, and a heavy load is 461-700 pounds.
+The machine can fly or swim only when lightly loaded.
+The machine can lift a weight of up to 1,400 pounds to a height of 15 feet.
+It can push or drag 3,500 pounds.
+It can excavate 7,000 pounds of loose rock each minute (which is sufficient to clear a 5-by-5-by-5-foot space in 3 rounds).
+It can excavate sand or loose soil at twice that rate.
+The machine has an attack bonus of +5 and can make one slam attack each round that deals 1d8+4 points of damage.
+It deals triple slam damage (3d8+12) against stone or metal.
+The machine can hurl Small rocks (if any are at hand) with an attack bonus of +3.
+Its range increment is 150 feet, and it can throw a rock up to 10 range increments.
+A thrown rock deals 2d6+4 points of damage.
+ <b>Also appears in</b>   Spell Compendium     

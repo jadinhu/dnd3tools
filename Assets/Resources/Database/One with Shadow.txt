@@ -1,0 +1,30 @@
+<b>One with Shadow</b>(Tome of Battle: The Book of Nine Swords, p. 78)
+
+Shadow Hand (Counter)
+ <b>Level:</b>  Swordsage 8 (Three Shadow Hand maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> See text
+
+ 	
+<b>You fade into the raw essence of shadow, turning transparent, then insubstantial.</b>
+	
+As an immediate action, you become incorporeal. You gain all the benefits of the incorporeal subtype, along with the drawbacks, as outlined in the Incorporeal Subtype sidebar. All of your gear becomes incorporeal, although you cannot grant this state to a living creature that you touch or carry. You remain incorporeal until the beginning of your next turn.
+	<b>Incorporeal Subtype</b>	
+The incorporeal subtype was updated in Monster Manual <span class="caps">III</span> for clarity. Reference this version of the subtype when you use the one with shadow maneuver.
+	
+<b>Incorporeal Subtype</b>: Some creatures are incorporeal by nature, while others (such as those that become ghosts) can acquire the incorporeal subtype. An incorporeal creature has no physical body. It can be harmed only by other incorporeal creatures, magic weapons or creatures that strike as magic weapons, and spells, spell-like abilities, or supernatural abilities. It is immune to all nonmagical attack forms. Even when hit by spells, including touch spells, or magic weapons, it has a 50% chance to ignore any damage from a corporeal source (except for positive energy, negative energy, force effects such as magic missile, or attacks made with ghost touch weapons). Nondamaging spell effects affect incorporeal creatures normally unless they require corporeal targets to function (such as implosion) or they create a corporeal effect that incorporeal creatures would normally be unaffected by (such as a web or wall of stone spell). Although it is not a magical attack, holy water can affect incorporeal undead, but a hit with holy water has a 50% chance of not affecting an incorporeal creature.
+	
+An incorporeal creature?s attacks pass through (ignore) natural armor, armor, and shields, although deflection bonuses and force effects (such as mage armor) work normally against it. Non magical attacks made by an incorporeal creature with a melee weapon have no effect on corporeal targets, and any melee attack an incorporeal creature makes with a magic weapon against a corporeal target has a 50% miss chance, except for attacks it makes with a ghost touch weapon, which are made normally (no miss chance).
+	
+Any equipment worn or carried by an incorporeal creature is also incorporeal as long as it remains in the creature?s possession. An object that the creature relinquishes loses its incorporeal quality (and the creature loses the ability to manipulate the object). If an incorporeal creature uses a thrown weapon or a ranged weapon, the projectile becomes corporeal as soon as it is fired and can affect a corporeal target normally (no miss chance). Magic items possessed by an incorporeal creature work normally with respect to their effects on the creature or on another target. Similarly, spells cast by an incorporeal creature affect corporeal creatures normally.
+	
+An incorporeal creature has no natural armor bonus but has a deflection bonus equal to its Charisma bonus (always at least +1, even if the creature?s Charisma score does not normally provide a bonus).
+	
+An incorporeal creature can enter or pass through solid objects, but must remain adjacent to the object?s exterior, and so cannot pass entirely through an object whose space is larger than its own. It can sense the presence of creatures or objects within a square adjacent to its current location, but enemies have total concealment (50% miss chance) from an incorporeal creature that is inside an object. In order to see farther from the object it is in and attack normally, the incorporeal creature must emerge. An incorporeal creature inside an object has total cover, but when it attacks a creature outside the object it only has cover, so a creature outside with a readied action could strike at it as it attacks. An incorporeal creature cannot pass through a force effect.
+	
+Incorporeal creatures pass through and operate in water as easily as they do in air. Incorporeal creatures cannot fall or take falling damage. Incorporeal creatures cannot make trip or grapple attacks, nor can they be tripped or grappled. In fact, they cannot take any physical action that would move or manipulate an opponent or its equipment, nor are they subject to such actions. Incorporeal creatures have no weight and do not set off traps that are triggered by weight.
+	
+An incorporeal creature moves silently and cannot be heard with Listen checks if it doesn?t wish to be. It has no Strength score, so its Dexterity modifier applies to both its melee attacks and its ranged attacks. Nonvisual senses, such as scent and blindsight, are either ineffective or only partly effective with regard to incorporeal creatures. Incorporeal creatures have an innate sense of direction and can move at full speed even when they cannot see   

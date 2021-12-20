@@ -1,0 +1,18 @@
+<b>Wings of Flurry</b>(Races of the Dragon)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> 30-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Immense, scaled wings unfurl from behind you and beat at nearby foes in a savage flurry before vanishing as quickly as they appeared.
+You evoke flickering dragon's wings that strike at every target in range, dealing 1d6 points of damage per caster level to all designated targets within 30 feet that fail a Reflex saving throw and half that damage to creatures that succeed on the save.
+Creatures that fail the Reflex save are also dazed for 1 round.
+Special: A dragonblooded character, or a character with the dragon type, casts this spell at +1 caster level.
+   

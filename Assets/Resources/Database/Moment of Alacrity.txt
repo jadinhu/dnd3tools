@@ -1,0 +1,14 @@
+<b>Moment of Alacrity</b>(Tome of Battle: The Book of Nine Swords, p. 64)
+
+Diamond Mind (Boost)
+ <b>Level:</b>  Swordsage 6 (Two Diamond Mind maneuvers),  Warblade 6 (Two Diamond Mind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+<b>You step into a space between heartbeats and act again while your enemies are still reacting to your last strike.</b>
+	
+You can improve your initiative count for the next round and all subsequent rounds of the current encounter. When you initiate this maneuver, your initiative count improves by 20, and your place in the initiative order changes accordingly. This modifier applies at the end of the round. Your place in the initiative order changes to reflect moment of alacrity?s effect starting with the next round.</p   

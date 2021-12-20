@@ -1,0 +1,19 @@
+<b>Darsson's Cooling Breeze</b>(Shining South)
+
+Evocation [Air]
+ <b>Level:</b>  Druid 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Effect:</b> Line-shaped breeze emanating out from a point you designate within 10 feet of you to the extreme of the range
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a light breeze (approximately 9 mph) that originates from a point you designate, affecting all creatures, gasses, clouds, and fogs in its path.
+Any airborne vapors, fumes, clouds, smoke, and gasses drift away from the point at a speed of 80 feet per round and dissipate in one-fourth the normal time.
+In addition to the effects noted, the cooling breeze can do anything that a normal breeze would be expected to do.
+It can move wind chimes, scatter pieces of paper or parchment, cause candle or hearth flames to flicker, and so forth.
+Darsson's cooling breeze can be made permanent with a permanency spell.
+   

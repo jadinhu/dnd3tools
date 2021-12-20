@@ -1,0 +1,20 @@
+<b>Zajimarn's Avalanche</b>(Magic of Faerun)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> One 10-ft. square/level (S)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You conjure a sweeping wave of ice, snow, and slush that washes away everything it its path.
+Everything in the initial area of the spell takes 1d4 points of cold damage per caster level (maximum 25d4).
+Creatures on foot and objects in the initial area must make Reflex saves or be carried along by the wave for 5 feet per caster level.
+The forced movement does not harm the targets except to leave them prone.
+Dead-end corridors and similar obstacles prevent the avalanche from moving creatures any farther.
+The avalanche counts as a water attack for the purpose of extinguishing normal fires.
+   

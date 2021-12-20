@@ -1,0 +1,17 @@
+<b>Divine Presence</b>(Complete Champion)
+
+Transmutation
+ <b>Level:</b>  Blackguard 2,  Cleric 2,  Druid 2,  Paladin 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+Your back straightens, your eyes flash, and your aura pulses with divine might.
+You channel a tiny spark of the divine, granting yourself nearly inhuman presence.
+You gain a +5 sacred (if your deity is good or neutral) or profane (if your deity is evil) bonus on Intimidate checks made against anyone who does not worship your deity.
+When making such checks against individuals who have one alignment component opposed to yours (chaos/law or good/evil), this bonus becomes +10.
+When making such checks against someone whose alignment is diametrically opposed to yours, the bonus becomes +15.
+   

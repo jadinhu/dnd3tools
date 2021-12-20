@@ -1,0 +1,17 @@
+<b>Awaken Sin</b>(Spell Compendium, p. 21)
+
+Enchantment (Compulsion) [Fear, Good, Mind-Affecting]
+ <b>Level:</b>  Paladin 2,  Cleric 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One evil creature with Intelligence 3+
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A command for repentance issues from your mouth, carrying with it the power of the spell. The crushing feeling of guilt that grew within you while you cast the spell lifts as you project the feeling at your target.</b>
+	
+The subject immediately takes 1d6 points of nonlethal damage per caster level (maximum 10d6) and is stunned for 1 round. If this knocks the subject unconscious, it also takes 1d6 points of Wisdom damage.
+   

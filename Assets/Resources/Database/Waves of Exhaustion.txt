@@ -1,0 +1,16 @@
+<b>Waves of Exhaustion</b>(Player's Handbook v.3.5, p. 301)
+
+Necromancy
+ <b>Level:</b>  Dread Necromancer 6,  Sorcerer 7,  Wizard 7,  Warmage 7,  Sha'ir 7,  Death Master 7,  Blighter 8,   Hades 8,  Sloth 8,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> No
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Waves of negative energy cause all living creatures in the spell's area to become exhausted.
+This spell has no effect on a creature that is already exhausted.
+   

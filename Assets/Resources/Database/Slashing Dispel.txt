@@ -1,0 +1,18 @@
+<b>Slashing Dispel</b>(Player's Handbook II)
+
+Abjuration/Evocation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,  Duskblade 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature or 20-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You rip away the spell energy infused within a creature, turning it into a harmful burst of energy that burns into the creature before dissipating.
+This spell functions like dispel magic (PH 223), except as noted here.
+Any creature that has a spell effect removed from it takes 2 points of damage per level of the dispelled effect.
+If a creature loses the effects of multiple spells, it takes damage for each one.
+   

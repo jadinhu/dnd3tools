@@ -1,0 +1,11 @@
+<b>Anticipate Teleportation, Greater</b>(Spell Compendium, p. 13)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>AF, 
+
+ 	
+This spell functions like anticipate tele- portation, except that greater anticipate teleportation identifies the type of the arriving creature (and any companions accompanying it) and creates a delay of 3 rounds, providing the recipient with even more warning and preparation time.
+	
+Focus: A tiny hourglass of platinum and crystal filled with diamond dust, costing at least 1,000 gp. The hourglass must be carried or worn by the spell's recipient while the spell is in effect.
+ <b>Also appears in</b>   Complete Arcane     

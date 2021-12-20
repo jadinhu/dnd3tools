@@ -1,0 +1,26 @@
+<b>Word of Balance</b>(Spell Compendium, p. 242)
+
+Evocation [Sonic]
+ <b>Level:</b>  Druid 7,   Balance 7,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Target:</b> Creatures in a 30-ft.-radius spread centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None or Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+_You utter the elder words of balance. Those who stray too far from the path of even-handedness pay the price for their sins as the words judge them.
+	
+Any lawful good, chaotic good, lawful evil, or chaotic evil creature that hears a word of balance suffers ill effects according to its Hit Dice, as given below, with no saving throw. These effects are cumulative.
+	<table>		<tr>			<th>HD </th>			<th>Effect </th>		</tr>		<tr>			<td> Equal to caster level </td>			<td> Nauseated </td>		</tr>		<tr>			<td> Up to caster level � ;1 </td>			<td> Weakened, nauseated </td>		</tr>		<tr>			<td> Up to caster level � ;5 </td>			<td> Paralyzed, weakened, nauseated </td>		</tr>		<tr>			<td> Up to caster level � ;10 </td>			<td> Killed </td>		</tr>	</table>	
+<b>Nauseated:</b> The creature is limited to a single move action for 1 round but can defend itself normally.
+<b>Weakened:</b> The creature's Strength decreases by 2d6 points for 2d4 rounds.
+<b>Paralyzed:</b> The creature is paralyzed and helpless for 1d10 minutes.
+<b>Killed:</b> The creature dies if living or is destroyed if undead.
+	
+If you are on your home plane when you cast this spell, every lawful good, chaotic good, lawful evil, and chaotic evil elemental and outsider within the area is instantly banished back to its home plane unless it makes a successful Will saving throw at a -4 penalty. Creatures so banished cannot return for at least 24 hours. The banishment effect occurs whether or not the creatures actually hear the word of balance, though those that do also suffer the appropriate effects (see above).
+	
+Creatures whose HD exceed your caster level are unaffected by word of balance.
+ <b>Also appears in</b>   Underdark     

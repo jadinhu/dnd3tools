@@ -1,0 +1,9 @@
+<b>Repair Minor Damage</b>(Dragon Compendium)
+
+Transmutation
+ <b>Level:</b>  Urban Druid 0,  Sorcerer 0,  Wizard 0,    
+<b>Components:</b>
+
+ 	
+As repair light damage, except repair minor damage repairs only 1 point of damage.
+ <b>Also appears in</b>   Complete Arcane  Tome and Blood: A Guidebook to Wizards and Sorcerers  Miniatures Handbook  Spell Compendium     

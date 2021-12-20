@@ -1,0 +1,28 @@
+<b>Ball Lightning</b>(Player's Guide to FaerÃ»n)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./levels)
+ <b>Effect:</b> One lightning ball/two levels
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create one 3-foot-diameter ball of concentrated electricity per two caster levels (maximum eight balls).
+Each ball sheds light as a candle.
+When you create the balls of lightning, you mentally program them to move as you desire, even around corners.
+A ball can move up to 100 feet per round and flies with perfect maneuverability.
+Upon striking a creature, the ball stops and remains in place for the remainder of the spell's duration.
+A ball dissipates if the distance between you and it exceeds the spell's range.
+Each ball can &quot;see&quot; as a human would under the ambient lighting conditions (counting the light that the ball itself sheds).
+For example, you could program one lightning ball to follow the left wall of a corridor and strike the first creature it &quot;sees&quot;, another to follow the right wall and do the same, and the remainder to follow 5 feet behind you in a semicircle.
+The first two lightning balls would turn corners to follow the walls, even if doing so took them out of your line of sight, and each would strike the first creature it &quot;saw&quot;, which would cancel its program and leave it in its target's square.
+Programming the balls is a free action in the round the spell is cast and a move-equivalent action in any other round.
+A creature struck by a lightning ball (or one that touches a ball with natural or melee weapons) takes 2d6 points of electricity damage (Reflex saving throw for half damage).
+A creature that comes into contact with multiple balls of lightning takes damage individually from each and receives a saving throw for each.
+A creature with spell resistance makes a separate spell resistance check against each lightning ball; success means that ball cannot harm the creature.
+Material Component: A handful of copper and iron pellets.
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun  Unapproachable East     

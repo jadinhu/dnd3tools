@@ -1,0 +1,21 @@
+<b>Divine Sacrifice</b>(Complete Divine)
+
+Evocation
+ <b>Level:</b>  Blackguard 1,  Paladin 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You can sacrifice life force to increase the damage you deal.
+Once each round, as a free action, you can sacrifice up to 10 of your hit points (doing this does not trigger an attack of
+opportunity).
+For every 2 hit points you sacrifice, on your next successful attack you deal +1d6 damage, to a maximum of +5d6 on that attack.
+Your ability to deal this additional damage ends when you successfully attack or when the spell duration ends.
+You can make as many sacrifices as the spell duration allows.
+Sacrificed hit points count as normal damage.
+For example, an 8th-level paladin can cast this spell with a duration of 4 rounds.
+If she sacrifices 10 hit points a round and hits in every round, she can spend up to 40 hit points and deal up to +5d6 points of additional damage all 4 rounds.
+ <b>Also appears in</b>   Spell Compendium  Book of Exalted Deeds  Defenders of the Faith: A Guidebook to Clerics and Paladins     

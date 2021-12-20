@@ -1,0 +1,20 @@
+<b>Instant Diversion</b>(Races of the Dragon)
+
+Illusion (Figment)
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal; see text
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+As you spin around, you produce residual images of yourself, each of which splits off from your body and moves away.
+One or more illusory doubles of you appear, spinning off from your original location as you turn in a circle.
+You create one double plus one for every four caster levels you have (minimum one, maximum five).
+You are then free to go elsewhere while your doublesmove away in a manner of your choosing.
+The doubles move at your speed and can emit minor sounds such as footsteps or metal clanking, but they can only be made to move, withdraw, or run.
+Any successful attack against an illusory double destroys it.
+A double's Armor Class is equal to 10 + your size modifier + your Dex modifier.
+Figments seem to react normally to area spells (such as looking as though they are burned or dead after being hit by a fireball).
+   

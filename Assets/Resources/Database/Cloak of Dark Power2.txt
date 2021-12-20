@@ -1,0 +1,19 @@
+<b>Cloak of Dark Power</b>(Spell Compendium, p. 48)
+
+Abjuration
+ <b>Level:</b>   Drow 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>A dim gray haze appears around the creature. Light bends around this haze, leaving the creature in a patch of strange and shifting darkness.</b>
+	
+<b>Cloak of dark power</b> creates a dusky haze around the subject. The haze does not interfere with vision, but the subject and anything it wears or carries is protected from the effects of full sunlight, even under the open, daytime sky of the surface world. A drow subject suffers no blindness or bright illumination combat penalties while under the effect of <b>cloak of dark power</b>.
+	
+The subject also gains a +4 resistance bonus on saves against light or darkness spells or effects.
+   

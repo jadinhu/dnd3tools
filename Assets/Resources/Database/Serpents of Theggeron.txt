@@ -1,0 +1,20 @@
+<b>Serpents of Theggeron</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>    Corrupt 3  
+<b>Components:</b>S, Corrupt, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 minute/level
+
+ 	
+The caster's arms turn into serpents that can be used as natural weapons.
+The serpents provide the caster with 10-foot reach.
+They have an attack bonus of +10 (plus caster's Strength modifier) and they deal 1d8 points of damage (plus her Strength modifier).
+If the caster hits with a serpent, she has poisoned her foe.
+The poison deals 1d6 points of Strength damage immediately and another 1d6 points of Strength damage 1 minute later.
+Each instance of damage can be negated by a successful Fortitude save (DC 16).
+As a full attack action, the caster can strike with both serpents at her full attack bonus.
+Corruption Cost: 1d6 points of Intelligence damage.
+   

@@ -1,0 +1,19 @@
+<b>Dimension Door</b>(Player's Handbook v.3.5, p. 221)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Assassin 4, Trapsmith 2,  Telflammar Shadowlord 3,  Bard 4,  Savant 4 (Arcane),  Jester 4,  Death Master 4,  Sha'ir 4,  Wu Jen 4 (Earth),  Duskblade 4,  Court Herald 4,  Slayer of Domiel 4,  Ebonmar Infiltrator 4,  Hoardstealer 4,  Wizard 4,  Sorcerer 4,  Runescarred Berserker 5,  Knight of the Weave 5,   Travel 4,  Portal (Alternative) 4,  Portal 4,   
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> You and touched objects or other touched willing creatures
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None and Will negates (object)
+ <b>Spell Resistance:</b> No and Yes (object)
+
+ 	
+You instantly transfer yourself from your current location to any other spot within range. You always arrive at exactly the spot desired � ;whether by simply visualizing the area or by stating direction, such as &quot;900 feet straight downward&quot;, or &quot;upward to the northwest, 45-degree angle, 1,200 feet&quot;. After using this spell, you can't take any other actions until your next turn. You can bring along objects as long as their weight doesn't exceed your maximum load. You may also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent per three caster levels. A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth. All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you.
+	
+If you arrive in a place that is already occupied by a solid body, you and each creature traveling with you take 1d6 points of damage and are shunted to a random open space on a suitable surface within 100 feet of the intended location.
+	
+If there is no free space within 100 feet, you and each creature traveling with you take an additional 2d6 points of damage and are shunted to a free space within 1,000 feet. If there is no free space within 1,000 feet, you and each creature travelling with you take an additional 4d6 points of damage and the spell simply fails.
+   

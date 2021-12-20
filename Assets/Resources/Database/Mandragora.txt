@@ -1,0 +1,19 @@
+<b>Mandragora</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 15 ft.
+ <b>Effect:</b> All creatures in a 15-ft. radius
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With this spell, you can trigger the insightful and baleful magic of a mandrake root.
+When you pull it from its dark container, you and all other creatures within 15 feet must make a Will save against its scream.
+Those who succeed gain a true seeing effect; those who fail behave as though affected by confusion.
+Both effects last until the spell ends.
+Material Component: A mandrake root worth at least 100 gp in a secure container with the same value.
+   

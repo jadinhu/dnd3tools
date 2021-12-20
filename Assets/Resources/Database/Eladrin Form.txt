@@ -1,0 +1,19 @@
+<b>Eladrin Form</b>(Book of Exalted Deeds)
+
+Transmutation [Good]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+You assume the form of an incorporeal globe of eldritch colors, 5 feet in diameter.
+In this form, you can fly at a speed of 150 feet with perfect maneuverability and can pass through walls and other solid objects.
+You can use any spell-like or psionic abilities you possess, but you cannot cast spells or make physical attacks.
+The globe form is incorporeal, and you have no Strength score while in that form.
+While incorporeal, you can be harmed only by other incorporeal creatures, +1 or better magic weapons, psionics, spells, spell-like abilities, or supernatural abilities.
+You are immune to all nonmagical attack forms.
+Even when hit by spells or magic weapons, you have a 50% chance to ignore any damage from a corporeal source (except for positive energy, negative energy, force effects, or attacks made with ghost touch weapons).
+   

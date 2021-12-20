@@ -1,0 +1,10 @@
+<b>Vigorous Circle</b>(Complete Divine)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 6,  Druid 6,    
+<b>Components:</b>
+ <b>Duration:</b> 10 rounds + 1 round/level (max 40 rounds)
+
+ 	
+This spell is the same as mass lesser vigor, except that it grants fast healing at the rate of 3 hit points per round.
+ <b>Also appears in</b>   Spell Compendium     

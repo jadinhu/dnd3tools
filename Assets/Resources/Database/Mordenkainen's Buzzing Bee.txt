@@ -1,0 +1,27 @@
+<b>Mordenkainen's Buzzing Bee</b>(Miniatures Handbook)
+
+Conjuration (Creation)
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> A phantom bee
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell causes a small but extremely loud bee to appear.
+It buzzes around the head of a creature you designate.
+(The creature must be within range, and you must be touching or be able to see the creature.
+Once you designate a creature, the bee stays with it; you cannot designate another creature).
+The bee creates an unnerving noise that disrupts the subject's concentration.
+The subject takes a -10 penalty on all Move Silently and Concentration checks.
+(Creatures that can't hear don't take the penalty on Concentration checks).
+If the subject attempts to cast or maintain a spell, it must make a DC 10 Concentration check even if there are no other distractions.
+The bee has a fly speed of 180 feet (perfect).
+It remains near the subject in spite of darkness, invisibility, polymorphing, cover, concealment, or any other attempt at disguising or hiding.
+The bee remains until the spell's duration expires or the subject moves out of range.
+The bee can't be attacked, but it can be dispelled.
+Material Component: A dab of honey.
+   

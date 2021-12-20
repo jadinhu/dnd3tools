@@ -1,0 +1,11 @@
+<b>Light of Venya</b>(Planar Handbook)
+
+Evocation [Good, Light]
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+
+ 	
+As light of Lunia, except that you glow with the pearly light of Venya, the third layer of the Seven Mounting Heavens of Celestia.
+Your light rays deal 1d6 points of damage, or 3d6 points of damage against undead and evil outsiders.
+Alternatively, you can choose for the ray to heal 3d6 points of damage to a living, nonevil creature.
+   

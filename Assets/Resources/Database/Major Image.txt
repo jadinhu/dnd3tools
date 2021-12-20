@@ -1,0 +1,12 @@
+<b>Major Image</b>(Player's Handbook v.3.5, p. 252)
+
+Illusion (Figment)
+ <b>Level:</b>  Bard 3,  Sorcerer 3,  Wizard 3,  Vigilante 3,  Beguiler 3,  Wu Jen 3,  Sha'ir 3,  Court Herald 3,    
+<b>Components:</b>
+ <b>Duration:</b> Concentration + 3 rounds
+
+ 	
+This spell functions like silent image, except that sound, smell, and thermal illusions are included in the spell effect.
+While concentrating, you can move the image within the range.
+The image disappears when struck by an opponent unless you cause the illusion to react appropriately.
+   

@@ -1,0 +1,19 @@
+<b>Grace</b>(Spell Compendium, p. 107)
+
+Transmutation [Good]
+ <b>Level:</b>  Bard 2,  Cleric 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>With a single word, you call upon the might and grace of your deity, bathing your body with divine energy. Your body glows with silvery light and you feel quick and light on your feet.</b>
+	
+You create a silvery glow around your body that provides illumination to a radius of 60 feet. You gain a � ;20 circumstance penalty on Hide checks made while under the effect of this spell.
+	
+For the duration of the spell, you gain a +2 sacred bonus to Dexterity, and your base land speed increases by 10 feet.
+	
+Your touch attacks and any melee weapons you wield become infused with this power as well. They are treated as good-aligned weapons for the purpose of overcoming damage reduction.
+   

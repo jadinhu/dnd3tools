@@ -1,0 +1,17 @@
+<b>Incorporeal Nova</b>(Spell Compendium)
+
+Necromancy [Death]
+ <b>Level:</b>  Cleric 5,  Wizard 6,  Sorcerer 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Incorporeal and gaseous creatures within a 50-ft.-radius burst.
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A nova of dissolution dissipates the immaterial bodies of incorporeal and gaseous creatures, destroying them instantly.</b>
+	
+The spell destroys 1d4 HD worth of creatures per caster level (maximum 20d4) in the area. Usually, creatures such as shadows, wraiths, spectres, ghosts, and similar creatures are destroyed, though vampires and living creatures in gaseous form are also affected, as are other incorporeal creatures. Creatures with the fewest HD are affected first; among creatures with equal HD, those that are closest to the point of origin of the burst are affected first. No creature with 9 or more HD is affected, and HD that are not sufficient to affect a creature are wasted.
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

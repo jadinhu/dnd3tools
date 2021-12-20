@@ -1,0 +1,27 @@
+<b>Interplanar Message</b>(Manual of the Planes)
+
+Evocation [Language-Dependent]
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> See text
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round (see text)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell allows you to send a limited message of 25 words or less to the targeted creature, who may be on another plane when the message is received.
+The spell is usually used as a safety device to warn a friend that you have fallen into some trap or plane you cannot escape without help.
+It can also be used for other purposes, such as signaling that the coast is clear for others to join your planar journey.
+Casting the spell takes one action, during which you touch the creature you intend to communicate with.
+That creature should be able to understand your language (otherwise, when the magic is activated, the creature knows that you sent the message, but has no idea what the message is).
+At any time afterward, you may send a short interplanar message to that creature.
+The interplanar message pops into the target's mind, awake or asleep, and the target is aware that the message has been delivered.
+If the message arrives when the target is asleep, it may appear as a vivid dream that the target remembers upon awakening.
+This spell does not obligate nor force the creature you communicate with to act.
+The target cannot reply to tell you its plans or intentions.
+The message reaches its target through the Astral Plane, so the spell cannot reach planes separate from (not coterminous to or coexistent with) the Astral Plane.
+The creature set to receive the interplanar message radiates a dim magical aura.
+The spell may be cast on an unwilling creature, and in this case a successful Will saving throw negates it.
+ <b>Also appears in</b>   Spell Compendium     

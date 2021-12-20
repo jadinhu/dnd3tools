@@ -1,0 +1,19 @@
+<b>Water to Poison</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Wu Jen 4 (Water),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> One ounce of water/level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell transforms a volume of water into an equal volume of colorless, tasteless, ingested poison with a save DC equal to the spell's DC.
+When ingested, the poison deals 1 point of Constitution damage followed by 1d8 points of Constitution damage 1 minute later.
+A successful Will save can negate each instance of damage.
+A single swallow (1 ounce) of poison is enough to affect a single creature; drinking more does not increase the effect.
+Material Component: The fang of a poisonous snake and a bloodstone worth at least 50 gp.
+ <b>Also appears in</b>   Oriental Adventures     

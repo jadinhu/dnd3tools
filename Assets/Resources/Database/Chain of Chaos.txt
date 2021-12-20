@@ -1,0 +1,27 @@
+<b>Chain of Chaos</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Cleric 8,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living, intelligent creature touched
+ <b>Duration:</b> 1 day/5 caster levels from the day touched (see text)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This powerful instrument of chaos spreads madness by touch.
+The caster infects the first victim by making a successful melee touch attack.
+A subject who fails a Will save is afflicted with insanity (a continuous confusion effect).
+This condition is permanent until countered, and the madness can be passed to anyone the victim touches.
+Anyone who makes the initial saving throw is immune to that casting of the chain of chaos spell.
+Each person the subject touches during the spell's duration (including by successful melee attack) must make a Will save at the spell's DC or suffer the insanity effect.
+Each additional victim in turn can pass the madness on for a period of one day per five caster levels after being infected.
+The spell affects a maximum of five persons per caster level.
+Individual victims can be restored by any means effective against insanity, for example, greater restoration, limited wish,
+miracle, or wish.
+Anyone restored cannot be affected again by that casting of the chain of chaos spell.
+DM Note: When dealing with the effect of this spell on a large nonadventuring population over a period of time, it is not necessary to track each individual affected by this spell.
+Instead, just decide if individuals encountered are mad and whether they are infectious based on your judgement of the progress of the chain madness.
+   

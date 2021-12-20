@@ -1,0 +1,19 @@
+<b>Stay the Hand</b>(Player's Handbook II)
+
+Enchantment (Charm) [Mind-Affecting]
+ <b>Level:</b>  Bard 1,  Beguiler 2,  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One humanoid
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your words invoke compassion and mercy in the merciless.
+If the target creature fails its save against stay the hand, it refrains from attacking you or targeting you with spells for the remainder of the current round.
+You can cast this spell during an opponent's turn after the opponent announces its intention to attack you or target you with a spell.
+If the opponent becomes subject to this spell, it can choose a new target to attack, but it takes a -4 circumstance penalty on its attack roll due to the sudden change of intentions at the last second.
+Likewise, the subject of this spell can redirect a spell that had been targeted on you, but it must succeed on a Concentration check (DC 15 + the spell's level) or the spell is wasted.
+   

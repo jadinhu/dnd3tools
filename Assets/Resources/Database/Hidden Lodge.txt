@@ -1,0 +1,19 @@
+<b>Hidden Lodge</b>(Spell Compendium, p. 113)
+
+Conjuration (Creation)
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, see text
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 20-ft.-square structure
+ <b>Duration:</b> 24 hours
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You picture in your mind the desired appearance of a camouflaged lodge even as you complete the motions and words of the spell. When you finish, you open your eyes and note a new feature in the landscape roughly the size of a house.</b>
+	
+This spell functions like <b>Leomund's secure shelter</b> (PH 247), except as noted here. The house created by hidden lodge is perfectly camouflaged to blend in with whatever terrain or surroundings are appropriate. It might appear as a house-sized boulder in a rocky or mountainous area, as a sand dune in the desert, as a densely tangled thicket, a grassy knoll, or even a mighty tree. The lodge also obscures all telltale signs of habitation, including any smoke, light, or sound coming from within. At any distance of more than 30 feet, the lodge is indistinguishable from natural terrain. Any creature approaching within 30 feet is entitled to a DC 30 Survival check to spot the hidden lodge as an artificial dwelling and not a natural part of the landscape.
+	
+Focus: The focus of an alarm spell (silver wire and a tiny bell), if this benefit is to be included in the hidden lodge (see Leomund's secure shelter for more information).
+   

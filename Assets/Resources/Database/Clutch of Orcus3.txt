@@ -1,0 +1,17 @@
+<b>Clutch of Orcus</b>(Spell Compendium, p. 49)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One humanoid
+ <b>Duration:</b> Concentration, up to 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Reaching out a hand twisted by tension into a grasping claw, you squeeze your foe's heart from afar, anticipating the moment its smoking remains will rest in your palm.</b>
+	
+Magical force grips the subject's heart (or similar vital organ) and begins crushing it. The victim is paralyzed and takes 1d12 points of damage per round. Concentration is required to maintain the spell each round. A conscious victim can attempt a new Fortitude saving throw each round to end the spell. If the victim dies as a result of this spell, its smoking heart appears in your hand.
+   

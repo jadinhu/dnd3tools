@@ -1,0 +1,22 @@
+<b>Baleful Blink</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Bard 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> No
+
+ 	
+You cause the creature to wink in and out of existence erratically, much to its chagrin.
+You curse one creature to a frustrating existence on the edge of the Ethereal Plane.
+The subject shimmers between the Ethereal Plane and the Material Plane, has a 50% miss chance on any melee or ranged attacks (as if the target of the attack had total concealment), and there is a 50% chance that any spell she casts does not have an effect on the desired plane while she blinks between the planes.
+Because the magic of the spell only causes the subject to blink when attacking or casting, attackers have no miss chance against her, and spells cast against her affect her normally.
+Because the blinking is so rapid, she cannot attempt to blink through walls or move in the Ethereal Plane.
+The subject of a baleful blink spell can cast spells on itself with impunity; in this case, it has no miss chance because the target of its spell (itself) travels along with the spell.
+The subject can also target creatures on the Ethereal Plane, but still has a 50% chance of failure on attacks and spells.
+Spells with the force descriptor are unaffected by the effect of baleful blink.
+   

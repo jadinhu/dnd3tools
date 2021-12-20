@@ -1,0 +1,15 @@
+<b>Fool's Strike</b>(Tome of Battle: The Book of Nine Swords, p. 72)
+
+Setting Sun (Counter)
+ <b>Level:</b>  Swordsage 8 (Three Setting Sun maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>A creature strikes, but you turn the blow straight back at it.</b>
+	
+When an enemy attacks you on its turn, you can attempt to block the blow and send it back at that creature. You step into the attack and redirect it. This maneuver pits your skill against that of your foe.
+	
+If an opponent attacks you, you can initiate this maneuver to make an opposed attack roll as an immediate action. If your foe?s result is higher, he attacks you as normal. If your result is higher, your foe rolls damage as normal for the attack and takes that much damage.</p   

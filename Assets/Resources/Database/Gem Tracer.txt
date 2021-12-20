@@ -1,0 +1,23 @@
+<b>Gem Tracer</b>(Dragons of Faerun)
+
+Divination
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> One object
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> No
+
+ 	
+You rub the gem over the target, causing an image of the target to gradually materialize in the depths of the gem.
+As you complete the arcane gestures of the spell, the image becomes perfectly clear and then vanishes, leaving no trace of the spell on either the gem or the target.
+Powerful true dragons of all varieties commonly employ this spell.
+When the spell is cast, you create a permanent link between the focus and an object.
+Anyone who holds the focus can sense the target of the spell as the spell locate object, but with unlimited distance, as a standard action.
+In addition, anyone who holds the focus can scry the bearer of the object, as the scrying spell, as a standard action.
+The bearer of the object is entitled to a Will save, but is treated as if familiar to you and as if you possessed a lock of his hair.
+Focus: A gem worth at least 100 gp.
+Origin: According to draconic legend, gem tracer was created by the first dragon whose hoard was plundered.
+   

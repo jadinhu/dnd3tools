@@ -1,0 +1,15 @@
+<b>Action Before Thought</b>(Tome of Battle: The Book of Nine Swords, p. 62)
+
+Diamond Mind (Counter)
+ <b>Level:</b>  Swordsage 2,  Warblade 2,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>Your supreme sense of the battlefield, unmatched martial training, and simple, intuitive sense of danger allow you to act faster than the speed of thought. When a spell or other attack strikes you, you move a split second before you are even aware of the threat.</b>
+	
+Your mind is a keenly honed weapon. Other warriors rely on their physical talents. You know that a mix of mental acuity and martial training, along with a strong sword arm, is an unbeatable combination. This maneuver epitomizes your approach. Your mind, rather than your raw reflexes, dictates your defenses. You can use this maneuver any time you would be required to make a Reflex save. Roll a Concentration check instead of the Reflex save and use the result of that check to determine the save?s success.
+	
+You must use this maneuver before you roll the Reflex save. A result of a natural 1 on your Concentration check is not an automatic failure.</p   

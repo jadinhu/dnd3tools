@@ -1,0 +1,19 @@
+<b>Claws of the Savage</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>  Blackguard 4,  Cleric 4,  Druid 4,   Bestial 4,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+The caster grants one creature two long claws that replace its hands, tentacle tips, or whatever else is appropriate.
+The claws deal damage based on the creature's size.
+The creature can make attacks with both claws as if it were proficient with them.
+Just as with a creature that has natural weapons, the subject takes no penalty for making two claw attacks.
+The subject is treated as armed.
+Furthermore, these claws gain a +2 enhancement bonus on attack and damage rolls.
+If the creature already has claws, those claws gain a +2 enhancement bonus on attack and damage rolls, and the claws' damage increases as if the creature were two size categories larger.
+   

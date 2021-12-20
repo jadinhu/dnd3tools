@@ -1,0 +1,21 @@
+<b>Bright Worms</b>(Player's Handbook II)
+
+Conjuration (Creation) [Fire]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> No
+
+ 	
+With a loud pop, a nest of writhing worms of multicolored light appears in the air.
+You create a knot of living light with wormlike tendrils extending out from the mass.
+The worms hang in the air as if suspended.
+The worms drift away from the paths of your allies, but they attack enemies that enter the area, lashing out with lightning speed and combusting creatures that they touch.
+When you cast the spell, and in each later round at the beginning of your turn, the flaming worms deal 2d6 points of fire damage to any of your enemies in the area.
+The fire damage increases as you gain levels, to 3d6 per round for an 11th-level caster and 4d6 per round for a 15th-level caster.
+Any area spell that deals cold damage eliminates the bright worms from its area.
+   

@@ -1,0 +1,24 @@
+<b>Streamers</b>(Shining South)
+
+Evocation
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One or more streamers
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cause a number of glowing, red streamers to shoot forth from the your hand when you cast the spell.
+You may fire one streamer, plus one additional streamer for every three levels beyond 9th (to a maximum of four streamers at 18th level).
+Each streamer targets one creature; multiple streamers can each be targeted at a different creature, or many streamers can target one creature.
+A streamer moves on its own, pursuing its target without your concentration, hovering in the same space as the target with a readied touch attack.
+Whenever the target next takes any sort of action, the streamer makes a touch attack against it (at the caster's base attack bonus).
+On a successful attack roll, the streamer deals 5d10 points of damage.
+If a target takes no actions for the duration of the spell, the streamers around it disappear with no effect.
+Streamers can be attacked (AC 20), but only magic weapons have any effect on them.
+Any successful attack destroys a streamer.
+Material Component: 6-inch strand of red spider silk.
+   

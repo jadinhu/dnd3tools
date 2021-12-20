@@ -1,0 +1,27 @@
+<b>Ball Lightning</b>(Unapproachable East)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One or more balls of lightning, up to 1/2 levels
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create one or more 3-foot-diameter balls of lightning that shed light as candles and move under your control.
+You can deal a number of damage dice (d6) equal to half your caster level (maximum 10d6), divided however you see fit, although no one ball can deal less than 1d6 points of damage.
+For example, a 9th-level caster could create one 4d6 lightning ball, two 2d6 balls, four 1d6 balls, or a 2d6 ball and two 1d6 balls.
+On the round in which you cast the spell, the lightning balls appear where you wish in the spell's range, and you may direct their movements as a free action.
+On following rounds, you must actively direct the lightning balls to move them; otherwise, they stay at rest and damage any creature in the spaces they occupy.
+Directing the movement of all existing lightning balls is a move-equivalent action for you.
+A lightning ball has a fly speed of 100 feet with perfect maneuverability.
+If a lightning ball enters a space with a creature, it stops moving for the round and deals electricity damage equal to the assigned number of dice.
+The target of a lightning ball can halve this damage with a successful Reflex save.
+A ball winks out if it exceeds the spell's range.
+Note: This spell first appeared in Magic of FaerÃ»n.
+This version supersedes the one originally printed there.
+Material Component: A handful of copper and iron pellets.
+ <b>Also appears in</b>   Spell Compendium  Magic of Faerun  Player's Guide to FaerÃ»n     

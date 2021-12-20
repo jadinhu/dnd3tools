@@ -1,0 +1,19 @@
+<b>Veil of Shadow</b>(Spell Compendium, p. 228)
+
+Evocation [Darkness]
+ <b>Level:</b>  Assassin 2,  Blackguard 2,  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+<b>You speak the words of this spell, and tendrils of purple darkness rise from the ground, surrounding you and concealing you from your foes.</b>
+	
+Swirling wisps of darkness obscure your form, granting you concealment. The 20% miss chance is in effect even if the attacker has darkvision.
+	
+This spell effect is dispelled in daylight or in the area of a light spell of 3rd level or higher.
+	
+<b>See invisibility</b> does not counter a <b>veil of shadow</b>'s concealment effect, but a <b>true seeing</b> spell does.
+   

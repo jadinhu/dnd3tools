@@ -1,0 +1,21 @@
+<b>Sacred Item</b>(Complete Champion)
+
+Transmutation [Good]
+ <b>Level:</b>  Cleric 4,  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched
+ <b>Duration:</b> Permanent until discharged
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+Protective forces flow through your hands into the object you hold, suffusing it with a golden glow that shines for a moment, then subsides.
+You imbue a touched object with latent positive energy.
+If the item thereafter touches or is touched by an undead creature of any alignment, or by an outsider or shapechanger of evil alignment (other than yourself), the positive energy discharges with a flash of light, dealing 1d4 points of positive energy damage per caster level (maximum 10d4) to that creature.
+If the creature discharging the item is undead, it must save against fear or flee in terror (or cower, if it cannot move) for 1d4 minutes.
+On a successful save, the creature is merely shaken for the same length of time.
+If the creature discharging the item is a shapechanger, an image of its natural form or most common alternate form appears for 1d4 rounds, superimposed over its body, revealing its true nature to all witnesses.
+Sacred item counters and dispels profane item (see above).
+   

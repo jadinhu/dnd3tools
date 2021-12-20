@@ -1,0 +1,21 @@
+<b>Fuse Arms</b>(Spell Compendium, p. 100)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature with at least two arms or tentacles touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Convulsing, the touched subject's limbs begin to ooze together with a sickening noise like a pot of melted wax splattering on the floor. With a lurch they form into one pair of massive limbs.</b>
+	
+You cause a creature's multiple arms or tentacles to fuse together into a single pair of stronger limbs. Only limbs that the creature can use as arms or grasping limbs are affected by the spell (so basilisks and monstrous centipedes, neither or which use their limbs to attack or manipulate objects, are unaffected). For every set of limbs fused into the primary set of limbs, the creature gains +4 to strength when using those fused limbs (affecting activities that would use those limbs, but not activities relying on its bite, legs, and so on). For example, a girallon under the effect of this spell would have one pair of arms and Strength 26 for the purpose of using those arms. A behir, which has three pairs of limbs that it can use as arms, would end up with one pair of arm-limbs with a +8 bonus to Strength for those arms (its six legs would be unaffected).
+	
+The loss of limbs might reduce the number of attacks available to the subject.
+	
+If the subject has only two arms or tentacles, they are fused into a single limb, and the creature gains a +4 bonus to Strength on attack rolls made with that limb.
+ <b>Also appears in</b>   Savage Species     

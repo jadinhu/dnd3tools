@@ -1,0 +1,19 @@
+<b>Deeper Darkvision</b>(Spell Compendium, p. 62)
+
+Transmutation
+ <b>Level:</b>  Ranger 4,  Sorcerer 3,  Wizard 3,    
+	<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You toss the powdered dried carrot into the air as you cast this spell, and it vanishes. You choose yourself as the spell's recipient and your eyes begin to glow with an alien purple luster.</b>
+	
+The subject gainst the aility to see 90 feet in total darkness and ignores the 20% miss chance normally present in shadowy illumination (such as might be created by a darkness spell). <b>Deeper Darkvision</b> is black and white only but otherwise similar to normal sight.
+	
+<b>Material Component:</b> A pinch of dried carrot or an agate.
+ <b>Also appears in</b>   Underdark     

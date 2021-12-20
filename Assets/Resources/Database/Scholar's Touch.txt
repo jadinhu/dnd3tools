@@ -1,0 +1,19 @@
+<b>Scholar's Touch</b>(Races of Destiny)
+
+Divination
+ <b>Level:</b>  Bard 1,  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> One book/round
+ <b>Duration:</b> Concentration, up to 1 round/level
+
+ 	
+With this spell you can touch a book or scroll and absorb the knowledge contained within as if you had just read it.
+This is equivalent to a solid reading but not deep study � ;
+the character does not gain perfect recall of the information, just whatever he would have gotten from reading it completely once.
+If you can't read the language of the source, the spell has no effect.
+This spell cannot be used to prepare spells or to cast magical scrolls, nor does it have any effect when reading a magical book (such as a tome of understanding).
+Material Component: A scrap of parchment and a pinch of tinder.
+Focus: A thin crystal disc.
+   

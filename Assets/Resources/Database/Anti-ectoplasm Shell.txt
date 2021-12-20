@@ -1,0 +1,9 @@
+<b>Anti-ectoplasm Shell</b>(Ghostwalk)
+
+Abjuration [Ectomancy]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+
+ 	
+As antilife shell, except that it affects only ectoplasm, whether inert or part of an ectoplasmic creature.
+   

@@ -1,0 +1,26 @@
+<b>City Stride</b>(Races of Destiny)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Bard 6,   City 6,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> You and touched objects or touched willing creatures
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None and Will negates (object)
+ <b>Spell Resistance:</b> No and Yes (object)
+
+ 	
+This spell instantly transports you from one community to a second designated community.
+Each community must be at least as large as a small city (see page 137 of the Dungeon Master's Guide).
+The destination city may be as distant as 100 miles per caster level.
+Interplanar travel is not possible.
+You can bring along objects as long as their weight doesn't exceed your maximum load.
+You may also bring along one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent (see below) per three caster levels.
+A Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth.
+All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you.
+Only objects held or in use (attended) by another person receive saving throws and spell resistance.
+You must have visited the destination city at some point in the past.
+You do not have precise control over your arrival point; you appear at a randomly determined safe location within the borders of the city (not within a building).
+Material Component: A chip of city stone or brick from the selected destination.
+   

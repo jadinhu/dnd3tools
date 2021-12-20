@@ -1,0 +1,19 @@
+<b>Glimpse of Truth</b>(Book of Vile Darkness)
+
+Divination [Evil]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, Drug
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 hour
+
+ 	
+The caster sees through the veil of reality to pose a single question to nameless malevolent entities that exist beyond normal consciousness.
+The question must be posed such that the answer is a simple yes or no.
+The answer given is correct 75% of the time.
+Answers the DM deems too obscure are never revealed.
+The spell, at best, provides information to aid character decisions.
+In cases where a one-word answer would be misleading, the DM can give a short answer instead (five words or less).
+Drug Component:Mordayn vapor.
+   

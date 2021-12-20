@@ -1,0 +1,17 @@
+<b>Ancient Knowledge</b>(Magic of Eberron, p. 94)
+
+Divination
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, F
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level or until discharged
+
+ 	
+You tap the ancient knowledge of fate and fortune, giving you a greater ability to focus on a particularly difficult academic problem. Before making a Knowledge check, you can decide to discharge this spell as an immediate action to give yourself a +5 insight bonus on the check. If you do not have any ranks in the Knowledge skill, it is still treated as an untrained check.
+	
+<b>Special:</b> A character with any Mark of Finding dragonmark, or with the Favored in House feat (Tharashk), treats any Knowledge check made in conjunction with this spell as a trained check, even if he doesn't have any ranks in the skill.
+	
+<b>Focus:</b> A piece of ivory worth at least 100 gp.
+   

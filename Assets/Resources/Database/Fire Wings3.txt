@@ -1,0 +1,23 @@
+<b>Fire Wings</b>(Oriental Adventures)
+
+Transmutation [Fire]
+ <b>Level:</b>  Shugenja 3 (Fire),  Wu Jen 3 (Fire),    
+<b>Components:</b>V, S, M, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+This spell transforms your arms into wings of brilliant fire, resembling those of a phoenix.
+The flame does not damage you or any items you carry.
+Since your arms are transformed, you cannot hold items in your hands or cast spells while using the fire wings, but rings, bracers, and other items worn on your arms when you cast the spell still function normally.
+The wings allow you to fly at a speed of 60 feet, with good maneuverability.
+You can charge but not run while flying, and you cannot carry more than a light load aloft.
+If the spell duration expires while you are aloft, you fall normally.
+You can make unarmed attacks with the fire wings, but you are not considered proficient with them and thus suffer a &#8211; 4 penalty on your attack rolls.
+A successful unarmed strike deals 2d6 points of fire damage in addition to your normal unarmed attack damage.
+The wings can be extinguished (and the spell canceled) by a quench spell, immersion in water, or a wind of hurricane or greater force.
+Material Component: The feather of a bird, which you must burn when you cast the spell.
+Focus: A golden amulet shaped like a phoenix.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium  Complete Divine     

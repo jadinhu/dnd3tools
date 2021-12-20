@@ -1,0 +1,17 @@
+<b>Improved Arcane Lock</b>(Stronghold Builder's Guidebook)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Door, chest, or portal touched, up to 30 sq. ft./level in size
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell works identically to arcane lock, except that at the time of casting you may attune up to 1 individual per caster level to the object targeted by the spell.
+These individuals (who need not be present during casting) can freely pass the improved arcane lock as if they had cast the spell.
+Material Component: Gold dust worth 25 gp, plus 5 gp per individual attuned.
+   

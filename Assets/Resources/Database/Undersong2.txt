@@ -1,0 +1,15 @@
+<b>Undersong</b>(Spell Compendium, p. 227)
+
+Transmutation
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+<b>When you cast this spell, a familiar and soothing song wells up in your mind.</b>
+	
+This spell brings to your mind a song that helps you retain your concentration. The song does not distract you from any task at hand � ;on the contrary, by humming along to the tune, you can focus your mind with ease. As long as this spell is in effect, you can make a Perform check in place of a Concentration check.
+ <b>Also appears in</b>   Champions of Ruin     

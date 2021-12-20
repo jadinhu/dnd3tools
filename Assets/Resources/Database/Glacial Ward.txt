@@ -1,0 +1,17 @@
+<b>Glacial Ward</b>(Frostburn)
+
+Abjuration [Cold]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A faint, shimmering reddish energy encases the subject's body, granting spell resistance 18 against fire spells and spell-like abilities.
+In addition, any creature using a fire-based supernatural ability on the subject (such as a breath weapon) must succeed on a DC 18 level check (1d20 + level or HD) to affect a creature warded by this spell.
+Material Component: A pinch of sulfur.
+   

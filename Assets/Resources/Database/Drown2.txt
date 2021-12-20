@@ -1,0 +1,22 @@
+<b>Drown</b>(Magic of Faerun)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create water in the lungs of the subject, which begins to drown.
+The subject immediately falls unconscious, dropping to 0 hp.
+In the following round, it drops to -1 hit points and is dying.
+In the following round, it dies.
+(For details, see The Drowning Rule, page 85 of the <span class="caps">DUNGEON</span> MASTER's Guide).
+Coughing and other attempts by the victim to physically expel the water are useless.
+However, any time before death it can be stabilized with a Heal check (DC 15).
+Undead, constructs, creatures who do not need to breathe, and creatures who can breathe water are unaffected by this spell.
+ <b>Also appears in</b>   Spell Compendium  Book of Vile Darkness  Underdark     

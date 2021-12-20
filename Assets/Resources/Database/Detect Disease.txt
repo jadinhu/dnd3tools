@@ -1,0 +1,18 @@
+<b>Detect Disease</b>(Oriental Adventures)
+
+Divination
+ <b>Level:</b>  Shaman 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature, one object, or a 5-ft. cube
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You determine whether a creature, object, or area is infected with disease or carries disease.
+You can determine the exact type of disease with a successful Wisdom check (DC 20).
+A character with the Heal skill may try a Heal check (DC 20) if the Wisdom check fails, or may try the Heal check prior to the Wisdom check.
+Note: The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
+   

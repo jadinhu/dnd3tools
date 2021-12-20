@@ -1,0 +1,24 @@
+<b>Glory of the Martyr</b>(Player's Guide to FaerÃ»n)
+
+Abjuration [Good]
+ <b>Level:</b>   Initiate of ilmater 4,   
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Like shield other, this spell wards the subjects, creating a mystic connection between them and you that transfers some of their wounds to you.
+Each subject gains a +1 deflection bonus to AC and a +1 resistance bonus on all saving throws.
+In addition, each subject takes only one-half the normal hit point damage from any attack, and you take the remainder.
+Forms of harm that do not involve hit points, such as charm effects, ability damage, level draining, and disintegration, are not affected.
+If a subject's hit points are reduced because of a lowered Constitution score, that reduction is not split with you because it is not hit point damage.
+When the spell ends, any subsequent damage is no longer divided between you and the subjects, but the damage you took for the subjects is not reassigned to them.
+If you die while glory of the martyr is in effect, the spell ends in a burst of positive energy that restores 1d8 hit points to each subject.
+If a subject dies or moves out of range of the spell, that subject's connection to you is severed, but the spell remains in force with respect to other subjects.
+If your connection with all subjects is severed, the spell ends.
+Focus: A platinum ring worth at least 50 gp worn by you and each subject of the spell.
+ <b>Also appears in</b>   Book of Exalted Deeds  Magic of Faerun     

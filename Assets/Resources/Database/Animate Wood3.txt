@@ -1,0 +1,19 @@
+<b>Animate Wood</b>(Spell Compendium, p. 13)
+
+Transmutation
+ <b>Level:</b>  Druid 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> One Small or smaller wooden object
+ <b>Duration:</b> Concentration, up to 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>By touching a piece of wood you release the energy of the spell into it. The wood begins to writhe and twist before your eyes and then rises to move in the direction you indicate.</b>
+	
+This spell imbues a Small or smaller wooden object with mobility and a semblance of life, then causes it to immediately attack whomever or whatever you initially designate. Statistics for the animated wood are as for a Small animated object (MM 13). Wooden objects animated by this spell have hardness 5. The spell cannot animate objects carried or worn by a creature.
+	
+<b>Material Component</b>: A mixture of powdered cinnabar and ground peach pit.
+ <b>Also appears in</b>   Complete Arcane  Oriental Adventures     

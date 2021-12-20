@@ -1,0 +1,11 @@
+<b>Unearthly Beauty</b>(Book of Exalted Deeds)
+
+Transmutation [Good]
+ <b>Level:</b>  Druid 8,   Fey 8,   
+<b>Components:</b>
+
+ 	
+As blinding beauty, but at any time during the duration of the spell, you can evoke an additional effect as a free action.
+When you choose, any creature within 30 feet of you that is looking directly at you must succeed on a Will save or die.
+Abstinence Component: You must abstain from sexual intercourse for one month before casting this spell.
+   

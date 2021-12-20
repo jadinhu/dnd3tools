@@ -1,0 +1,17 @@
+<b>Infernal Transformation, Lesser</b>(Spell Compendium, p. 122)
+
+Transmutation [Evil]
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+<b>Your blood runs cold as a feeling of utter evil imbues you with unholy power. A cackle of sadistic glee escapes your changing mouth, and you feel your body grow in both size and power.</b>
+	
+When you cast this spell, you assume the physical appearance and many of the qualities and abilities of a bearded devil (MM 52). While under the effect of the spell, your creature type changes to outsider (baatezu, evil, lawful), and your size changes to Medium. You have the space and reach of a bearded devil (5 feet/5 feet). You gain a +2 profane bonus to Strength and Constitution and darkvision 
+out to 60 feet.
+You grow a snaky beard. Whenever you take a full attack action, you can use the beard to make an additional attack each round at your highest attack bonus plus all appropriate modifiers. A successful attack deals 1d8 points of damage + your Str modifier. This attack overcomes damage reduction as if it were an evil weapon. Creatures hit by the beard attack must make a Fortitude saving throw (DC 10 + 1/2 character level + Con modifier) or be affected by the devil chills disease (<span class="caps">DMG</span> 292). You gain the ability to speak and understand Infernal.
+   

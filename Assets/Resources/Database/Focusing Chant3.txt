@@ -1,0 +1,15 @@
+<b>Focusing Chant</b>(Spell Compendium, p. 96)
+
+Enchantment (Compulsion)
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute (D)
+
+ 	
+<b>You chant softly under your breath and concentrate on the sound of your voice. Distractions fade from your consciousness, allowing you to focus on the task at hand.</b>
+	
+You gain a +1 circumstance bonus on attack rolls, skill checks, and ability checks for the duration of the spell.
+ <b>Also appears in</b>   Complete Adventurer  Song and Silence: A Guidebook to Bards and Rogues     

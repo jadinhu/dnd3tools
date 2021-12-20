@@ -1,0 +1,19 @@
+<b>Forceward</b>(Spell Compendium, p. 98)
+
+Abjuration [Force]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 15 ft.
+ <b>Effect:</b> 15-ft.-radius sphere centered on you
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Waving your arm about your head to trace the curve of a dome, you call up a hemisphere of force as clear as glass.</b>
+	
+You create an unmoving, transparent sphere of force centered on you. The sphere negates force effects and provides an impassable barrier against incorporeal creatures. Spells with the force descriptor do not affect anything within the sphere, and any force spell that overlaps the area, such as wall of force, is automatically countered. Incorporeal creatures, or creatures with the force descriptor must make a Will save to enter the area of the sphere.
+	
+<b>Forceward</b> does not push a creature out of the way if you move toward an incorporeal creature or force effect and such creatures are treated as if they automatically succeeded on their saving throws against this spell.
+ <b>Also appears in</b>   Magic of Faerun  Player's Guide to FaerÃ»n     

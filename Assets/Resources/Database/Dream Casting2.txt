@@ -1,0 +1,25 @@
+<b>Dream Casting</b>(Spell Compendium, p. 73)
+
+Illusion (Phantasm) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Unlimited
+ <b>Target:</b> You and one dreamer
+ <b>Duration:</b> 24 hours/level; see text
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You complete the spell with a few last gestures and arcane words. You feel a pressure in your mind as you begin to relay the intent of your dreaming contact.</b>
+	
+This spell functions like <b>dream</b> (<b>PH</b> 225), except as noted above and that you can alter the sleeping person's dreams to produce a specific desired effect. The dreamer gets a Will saving throw to resist the additional effects of this spell; if the save succeeds, the <b>dream casting</b> spell can send only a message, in the manner of a <b>dream</b> spell. If the saving throw fails, you decide what additional effect the message carries.
+	
+<b>Fear:</b> Your image in the dream is surrounded by intimidating imagery and an aura of power. For the duration of the spell, any time the dreamer can see you or knows you are present, he is shaken. This is a compulsion and fear effect.
+	
+<b>Charm:</b> Your image in the dream appears particularly helpful and kind. For the duration of the spell, the dreamer is under the effect of a <b>charm monster</b> spell. This is a charm effect.
+	
+<b>Rage:</b> Your image in the dream taunts and harasses the dreamer. For the duration of the spell, any time the dreamer can see you or knows you are present, he preferentially attacks you if in a combat situation. The dreamer gains a +2 morale bonus on saving throws, attack rolls, ability checks, skill checks, and weapon damage rolls when attacking you while under this effect. This is a compulsion effect.
+	
+<b>Harrow:</b> Your image in the dream behaves in a bizarre and irrational manner. For the duration of the spell, the dreamer behaves in an unusual manner, gaining two random traits from Table 4-24: One Hundred traits (<b>DMG</b> 128), rerolling any result not pertinent to behavior. If the dreamer can see you or knows you are present, he is <b>confused</b> for 1 round/level
+ <b>Also appears in</b>   Savage Species     

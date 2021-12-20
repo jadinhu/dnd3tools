@@ -1,0 +1,22 @@
+<b>Dragoncall</b>(Dragons of Faerun)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 6,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 10 min.
+ <b>Range:</b> 1 mile/level
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your call for service immediately compels a nearby creature to hurry to your aid.
+This spell allows you to send out a call to the nearest intelligent creature.
+That creature receives one saving throw each day.
+If it fails, it must come to your location using the most expedient means available.
+The creature will not brave unnecessary harm, but it will disregard minor hazards (a snowstorm or traveling through bandit territory) to reach its destination.
+If the creature makes a successful save, it is free to act normally that day, but it must continue to make a new save each day for the duration of the spell.
+Once the creature arrives in your location, its reaction is improved by one step, but it is in no other way bound to you.
+Special: Only dragons can cast this spell.
+   

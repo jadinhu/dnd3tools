@@ -1,0 +1,13 @@
+<b>Auspicious Odds, Mass</b>(Unearthed Arcana)
+
+Evocation
+ <b>Level:</b>   Luck 5,   
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/three levels, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level; see text
+
+ 	
+As auspicious odds, except that this spell affects multiple targets and the duration is shorter.
+If, on a single roll, all four die results are 1s, the spell immediately ends for that subject only, unless it's the caster, in which case it ends for everyone.
+   

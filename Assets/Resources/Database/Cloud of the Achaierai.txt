@@ -1,0 +1,18 @@
+<b>Cloud of the Achaierai</b>(Book of Vile Darkness)
+
+Conjuration (Creation) [Evil]
+ <b>Level:</b>  Demonologist 4,  Cleric 6,    
+<b>Components:</b>V, S, Disease
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Area:</b> 10-ft.-radius spread
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster conjures a choking, toxic cloud of inky blackness.
+Those other than the caster within the cloud take 2d6 points of damage.
+They must also succeed at a Fortitude save or be subject to a confusion effect for the duration of the spell.
+Disease Component: Soul rot.
+   

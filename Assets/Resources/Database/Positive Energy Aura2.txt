@@ -1,0 +1,17 @@
+<b>Positive Energy Aura</b>(Spell Compendium, p. 161)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Area:</b> 10-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You speak the eldritch phrases of power and an aura of white, shining, positive energy surrounds you.</b>
+	
+Each round on your turn, every living creature within 10 feet of you gains 1 hit point per three caster levels (maximum 5). Creatures can't exceed their full normal hit point totals as a result of this effect. Undead creatures take 2 points of damage per round. Characters with immunity to positive energy effects are not affected by this aura. A positive energy aura does not affect you.
+ <b>Also appears in</b>   Planar Handbook     

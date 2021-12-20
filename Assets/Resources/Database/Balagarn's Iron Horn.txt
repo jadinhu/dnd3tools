@@ -1,0 +1,21 @@
+<b>Balagarn's Iron Horn</b>(Magic of Faerun)
+
+Transmutation [Sonic]
+ <b>Level:</b>  Bard 1,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Cone
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a deep, resonant vibration that can shake creatures off their feet as if they were being tripped.
+Make a single Strength check as if your Strength were 20.
+Creatures in the area make individual opposed Dexterity or Strength checks against your roll.
+Those who fail are tripped and fall prone.
+Those who succeed are unaffected, but cannot make a trip attack against you in response to this spell.
+Unlike a regular trip attack, you may trip any creature touching the ground, regardless of size.
+You cannot use the Improved Trip feat to immediately make a melee attack against a creature you have tripped with this spell.
+   

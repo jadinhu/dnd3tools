@@ -1,0 +1,30 @@
+<b>Channeled Divine Health</b>(Player's Handbook II)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> See text
+ <b>Range:</b> See text
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You bring forth a sphere of pure healing energy.
+You pour divine power into it, slowly building the energy it holds, until it is ready to mend an ally's wounds.
+This spell allows you to heal an ally, or damage an undead creature, at a range greater than touch.
+When you cast this spell, you channel energy into it.
+You can choose how long to spend casting this spell.
+If you cast this spell as a swift action, it has a range of touch, and you heal a single touched creature of 1d8 points of damage.
+An undead creature you touch takes this amount of damage instead of being healed.
+If you cast this spell as a standard action, it has a range of close, and you heal a single creature within range of
+damage equal to 1d8 points + your caster level (maximum +10).
+An undead creature you designate within range takes this amount of damage instead of being healed.
+If you cast this spell as a full-round casting this spell, it has a range of medium, and you heal a single creature within range of damage equal to 2d8 points + your caster level (maximum +15).
+An undead creature you designate within range takes this amount of damage instead of being healed.
+If you spend 2 full rounds casting this spell, it has a range of long, and you heal a single creature within range of damage equal to 4d8 points + your caster level (maximum +20).
+An undead creature you designate within range takes this amount of damage instead of being healed.
+You do not need to declare ahead of time how long you want to spend casting the spell.
+When you begin casting this spell, you decide that you are finished casting after the appropriate time has passed.
+   

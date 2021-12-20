@@ -1,0 +1,17 @@
+<b>Resonating Resistance</b>(Book of Vile Darkness)
+
+Transmutation
+ <b>Level:</b>  Mortal Hunter 4,  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, Fiend
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 minute/level
+
+ 	
+The caster improves his spell resistance.
+Each time a foe attempts to bypass the caster's spell resistance, it must make a spell resistance check twice.
+If either check fails, the foe fails to bypass the spell resistance.
+The caster must have spell resistance as an extraordinary ability for resonating resistance to function.
+Spell resistance granted by a magic item or the spell resistance spell does not improve.
+   

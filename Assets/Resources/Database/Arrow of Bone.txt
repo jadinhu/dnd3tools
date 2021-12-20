@@ -1,0 +1,20 @@
+<b>Arrow of Bone</b>(Complete Arcane)
+
+Necromancy [Death]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> One projectile or thrown weapon touched
+ <b>Duration:</b> 8 hours or until discharged
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You scribe runes of dire power on a single missile or thrown weapon (usually an arrow, bolt, dart, javelin, or spear), changing the weapon into a sinister missile of cold, enhanced bone.
+When thrown or fired at a creature as a normal ranged attack, the weapon gains a +4 enhancement bonus on attack rolls and damage rolls.
+In addition, any living creature struck by an arrow of bone must succeed on a Fortitude save or be instantly slain.
+A creature that makes its save instead takes 3d6 points of damage +1 point per caster level (maximum +15).
+Regardless of whether the attack hits, the magic of the arrow of bone is discharged by the attack, and the missile is destroyed.
+Material Component: A tiny sliver of bone and a vial of blood mixed with powdered precious gems worth 50 gp, used to paint the runes on the projectile.
+   

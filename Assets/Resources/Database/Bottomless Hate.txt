@@ -1,0 +1,15 @@
+<b>Bottomless Hate</b>(Ghostwalk)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+You fill yourself with a terrible hatred against your favored enemies.
+Against them you gain a +1 morale bonus on attack and damage rolls for every three caster levels.
+This spell is suppressed by spells such as calm emotions.
+   

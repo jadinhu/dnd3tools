@@ -1,0 +1,21 @@
+<b>Stone Bones</b>(Ghostwalk)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Corporeal undead creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You cause the skeleton of the target to become thicker and as strong as stone.
+This gives the target a +3 natural armor bonus to AC.
+The spell has no effect on creatures that have no skeleton but works normally on creatures that have exoskeletons (such as insects).
+Another version of the spell is rumored to exist that works on living creatures, but causes wracking pains because of the radical alteration of its skeleton.
+This version has fallen out of use because few creatures willingly subject themselves to it (although it might be used by sadistic followers of Orcus).
+Focus: A miniature skull carved of granite.
+This spell first appeared in Magic of FaerÃ»n.
+ <b>Also appears in</b>   Magic of Faerun  Spell Compendium  Tome of Battle: The Book of Nine Swords     

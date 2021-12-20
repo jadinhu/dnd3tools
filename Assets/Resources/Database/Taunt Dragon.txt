@@ -1,0 +1,19 @@
+<b>Taunt Dragon</b>(Dragonmarked, p. 154)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 4,  Paladin 4,    
+<b>Components:</b>V, Dragonmark
+ <b>Casting Time:</b> 1 Swift Action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One dragon
+ <b>Duration:</b> 1 round/level (D): see text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell tricks a dragon into focusing all its fury on you. You must have line of sight to the dragon, and it must be able to see you. If the dragon fails its save and does anything except attack you or move to attack you it takes a penalty on attack rolls, skill checks, and saving throws based on the strength of your dragonmark.
+	<table>		<tr>			<th>Dragonmark </th>			<th>Penalty </th>		</tr>		<tr>			<td> Least </td>			<td> -5 </td>		</tr>		<tr>			<td> Lesser </td>			<td> -10 </td>		</tr>		<tr>			<td> Greater or Siberys </td>			<td> -20 </td>		</tr>	</table>	
+This spell ends abruptly if line of sight between you and the dragon is broken, or if you are disabled, dying, or dead. A dragon under the effect of multiple <b>taunt dragon</b> spells takes the penalties only if it fails to attack or move toward the caster who affected it last.
+	
+<b>Dragonmark:</b> Any true dragonmark.
+   

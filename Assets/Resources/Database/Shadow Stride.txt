@@ -1,0 +1,14 @@
+<b>Shadow Stride</b>(Tome of Battle: The Book of Nine Swords, p. 80)
+
+Shadow Hand [Teleportation]
+ <b>Level:</b>  Swordsage 5,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 move action
+ <b>Range:</b> 50 ft.
+ <b>Target:</b> You
+
+ 	
+<b>You dissipate into a puff of black shadow. A moment later, the shadow coalesces, and you appear fifty feet away.</b>
+	
+This maneuver functions as the shadow jaunt maneuver, except that it can be initiated as a move action.
+   

@@ -1,0 +1,21 @@
+<b>Panacea</b>(Miniatures Handbook)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 4,  Healer 4,  Druid 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell channels positive energy into a creature to wipe away afflictions.
+It immediately ends any of the following conditions affecting the target: blinded, confused, dazed, dazzled, deafened, diseased, exhausted, fatigued, frightened, nauseated, panicked, paralyzed, shaken, sickened, and stunned.
+It negates sleep effects and the effect of the feeblemind spell, and ends any additional effects from poison, as the neutralize poison spell.
+It also cures 1d8 points of damage + 1 point per caster level (up to +20).
+Panacea does not remove ability damage, negative levels, or permanently drained levels.
+It does not remove conditions caused by spells of 7th level or higher, or by spells or effects that cannot be dispelled.
+Used against an undead creature, panacea deals damage instead of curing the creature (which takes half damage if it makes a Will saving throw), but it has no other effect.
+ <b>Also appears in</b>   Spell Compendium     

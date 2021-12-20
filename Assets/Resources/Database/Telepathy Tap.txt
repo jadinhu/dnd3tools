@@ -1,0 +1,20 @@
+<b>Telepathy Tap</b>(Book of Exalted Deeds)
+
+Divination
+ <b>Level:</b>   Sanctified 3,   
+<b>Components:</b>Sacrifice
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Area:</b> 10-ft./level-radius emanation
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can overhear the telepathic conversations of other creatures within the spell's area.
+Telepathy tap does not allow you to detect the uncommunicated thoughts of creatures or understand conversations spoken in languages you do not comprehend.
+In an area where numerous telepathic conversations are occurring at the same time, you must specify the creatures you wish to overhear during a given round.
+You can separate and decipher the telepathic messages of a number of creatures equal to 1 + your Intelligence bonus.
+Telepathy tap does not allow you to overhear the telepathic conversations of creatures protected by a mind blank spell, nor does it grant the ability to telepathically communicate with other creatures.
+Sacrifice: 1d3 points of Strength damage.
+   

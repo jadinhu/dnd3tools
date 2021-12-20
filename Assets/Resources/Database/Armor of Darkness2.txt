@@ -1,0 +1,20 @@
+<b>Armor of Darkness</b>(Forgotten Realms Campaign Setting)
+
+Abjuration [Darkness]
+ <b>Level:</b>   Darkness 4,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The spell envelops the warded creature in a shroud of flickering shadows.
+The shroud can, if the caster desires, conceal the wearer's features.
+In any case, it grants the subject a + 3 deflection bonus to Armor Class plus an additional +1 for every four caster levels (maximum bonus +8).
+The subject can see through the armor as if it did not exist and is also afforded darkvision with a range of 60 feet.
+Finally, the subject gains a +2 saving throw bonus against any holy, good, or light spells or effects.
+Undead creatures that are subjects of armor of darkness also gain +4 turn resistance.
+ <b>Also appears in</b>   Deities and Demigods     

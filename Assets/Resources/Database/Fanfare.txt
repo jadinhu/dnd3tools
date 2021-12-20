@@ -1,0 +1,19 @@
+<b>Fanfare</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Evocation
+ <b>Level:</b>  Bard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 100 ft.
+ <b>Area:</b> Cone
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Fanfare creates a trumpet blast so loud that it can shake the foundations of buildings or stop an army in its tracks.
+Every creature within the area must make a Fortitude save.
+Success means the creature is stunned for 1d4 rounds and deafened for twice as many rounds; failure means the creature takes 4d6 points of damage in addition to suffering those effects.
+Any object made of glass, wood, stone, or metal within the cone takes 2d6 points of damage, ignoring hardness.
+Material Component: A small, tin horn.
+   

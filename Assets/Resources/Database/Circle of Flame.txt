@@ -1,0 +1,15 @@
+<b>Circle of Flame</b>(Oriental Adventures)
+
+Evocation [Fire]
+ <b>Level:</b>  Shugenja 5 (Fire),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> All creatures within a 20-ft.-radius burst centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Fire bursts in all directions from the point of origin, dealing 1d8 points of damage +1 point per caster level (maximum +20) to nearby creatures.
+   

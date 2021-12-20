@@ -1,0 +1,15 @@
+<b>Righteous Fury</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Paladin 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Summoning the power of your deity, you charge yourself with positive energy.
+This gives you 1d4 temporary hit points per caster level (maximum 10d4), a +2 natural armor bonus, a +2 enhancement bonus to Strength, a +2 enhancement bonus to Dexterity, and a +2 sacred bonus on Fortitude saves.
+Any undead creature striking you with its body deals you normal damage, but at the same time the attacker takes 1 point of damage from the positive energy, as if from a cure minor wounds spell.
+ <b>Also appears in</b>   Spell Compendium  Miniatures Handbook     

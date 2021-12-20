@@ -1,0 +1,21 @@
+<b>Execration</b>(Complete Champion)
+
+Necromancy
+ <b>Level:</b>  Blackguard 2,  Cleric 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level or until discharged
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You channel the wrath of your deity through a simple touch, inflicting misfortune on your foe.
+With a touch, you impose a -2 penalty on all of another creature's saving throws.
+If the subject is also under another effect that imposes saving throw penalties, the effects stack.
+At any point before the spell's duration expires, you can force the subject to reroll a single attack roll, saving throw, skill check, or ability check as an immediate action.
+You can require this action either before or after the subject rolls, but you must have line of sight to the subject at the time.
+The lower of the two rolls applies.
+Once this option is exercised, the spell ends immediately.
+   

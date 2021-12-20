@@ -1,0 +1,16 @@
+<b>Press the Advantage</b>(Tome of Battle: The Book of Nine Swords, p. 93)
+
+White Raven (Stance)
+ <b>Level:</b>  Crusader 5 (Two White Raven maneuvers),  Warblade 5 (Two White Raven maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You shift across the battlefield, timing your movements precisely to avoid any attacks from your foes.</b>
+	
+Your sense of the battlefield and intuitive understanding of the ebb and flow of combat allow you to move without dropping your defenses. While others must slowly work through a melee, you seize gaps in a foe?s defenses and move with great speed and confidence.
+	
+While you are in this stance, you can take a second 5-foot step immediately after you take one for the round. This second movement does not provoke attacks of opportunity. You can make a single 5-foot step into difficult terrain, but if you do, you cannot make the second 5-foot step.</p   

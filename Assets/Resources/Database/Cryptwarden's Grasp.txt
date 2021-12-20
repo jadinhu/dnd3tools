@@ -1,0 +1,22 @@
+<b>Cryptwarden's Grasp</b>(Complete Mage)
+
+Necromancy [Evil]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your hand shrivels like the limb of a corpse as dark energy flows through your veins.
+You bestow on your target a horrible disease effectively identical to mummy rot.
+The incubation period is instantaneous, and the initial save for the spell is calculated normally; all subsequent daily saves to avoid damage are DC 20.
+Mummy rot deals 1d6 points of Constitution damage and 1d6 points of Charisma damage immediately, and a similar amount per day thereafter; a victim reduced to 0 Constitution shrivels away into sand and dust.
+Furthermore, any character attempting to cast any healing spell on a creature afflicted with mummy rot must succeed on a DC 20 caster level check, or the spell has no effect.
+Unlike normal diseases, mummy rot can't be overcome through natural methods or successful saves.
+To eliminate mummy rot, the curse must first be broken with break enchantment, remove curse, or a similar effect (requiring a DC 20 caster level check).
+If this is done, a caster level check is no longer necessary to cast healing spells on the victim, and mummy rot can be magically cured like any disease.
+   

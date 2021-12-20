@@ -1,0 +1,19 @@
+<b>Halt</b>(Player's Handbook II)
+
+Transmutation
+ <b>Level:</b>  Bard 3,  Beguiler 3,  Duskblade 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You utter the word &quot;Halt!&quot; and, in that instant, the creature's feet stick to the floor.
+The subject creature's feet (or whatever pass for its feet) become momentarily stuck to the floor.
+The creature must stop moving, and cannot move farther in its current turn.
+This spell has no effect on creatures that are not touching the ground (such as flying creatures), and the subject can still use a standard action (if it has one available in this round) to move by means of teleportation magic.
+You can cast this spell even when it's not your turn; however, you must cast it before your opponent finishes its movement on its current turn to gain the benefit.
+   

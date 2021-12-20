@@ -1,0 +1,17 @@
+<b>Fire Eyes</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Transmutation
+ <b>Level:</b>  Druid 0,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Fire eyes grants the subject the ability to see through normal smoke, fire, and fog as if they weren't there.
+While the spell functions, other creatures do not gain concealment from these effects with respect to the subject.
+This spell does not enable a subject to see through magical fog, such as obscuring mist and fog cloud.
+   

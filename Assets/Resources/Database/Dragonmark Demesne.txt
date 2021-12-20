@@ -1,0 +1,24 @@
+<b>Dragonmark Demesne</b>(Dragonmarked, p. 149)
+
+Evocation [Force]
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, Dragonmark
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> 20-ft.-radius sphere centered on your location
+ <b>Duration:</b> 2 hours/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>A 20-foot-radius sphere of force, in the colors of your dragonmark, shimmers to life around you.</b>
+	
+When you cast this spell, you create an opaque sphere of shimmering force. The upper half of the sphere projects above the ground, and the lower hemisphere passes through the ground. Once created, the <b>dragonmark demesne</b> cannot move. The top hemisphere can hold as many as twenty-five Medium creatures. Creatures outside the sphere cannot enter it without your permission, but any creature inside the sphere can move freely out of it. You can remove yourself from the sphere without ending the spell, but while you are outside the <b>dragonmark demesne</b>, you cannot use any of your dragonmark powers for as long as the sphere persists.
+	
+The temperature inside the <b>dragonmark demesne</b> is a steady 70Â° F. The sphere also provides protection against the elements, such as rain, dust, and sandstorms. The sphere withstands any wind of less than hurricane force, but a hurricane or stronger wind destroys it (<b>DMG</b> 95). A <b>disintegrate</b> spell also destroys a <b>dragonmark demesne</b>.
+	
+The interior of the sphere is brightly lit. Although the sphere is opaque from the outside, it is transparent from within. Missiles, weapons, and most spell effects can pass through the sphere without affecting it, although the occupants cannot be seen from outside the sphere (they have total concealment).
+	
+You must be standing at ground level to cast this spell.
+	
+<b>Dragonmark:</b> Any true or aberrant dragonmark.</p   

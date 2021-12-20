@@ -1,0 +1,15 @@
+<b>Arrow Storm</b>(Spell Compendium, p. 16)
+
+Transmutation
+ <b>Level:</b>  Ranger 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+<b>Your bow glows blue for an instant and now feels as light as a feather in your hand. In your mind's eye you see the arrows in your quiver, and your hand feels drawn to them.</b>
+	
+You can cast this spell only at the beginning of your turn, before you take any other actions. After casting arrow storm, you can use a full-round action to make one ranged attack with a bow with which you are proficient against every foe within a distance equal to the weapon's range increment. You can attack a maximum number of individual targets equal to your character level. If you choose not to spend a full-round action in this fashion after casting the spell, the spell has no effect.
+ <b>Also appears in</b>   Complete Adventurer     

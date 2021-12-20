@@ -1,0 +1,21 @@
+<b>Analyze Touchstone</b>(Planar Handbook)
+
+Divination
+ <b>Level:</b>  Bard 3,  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> A quarter circle emanating from you to the extreme of the range
+ <b>Duration:</b> Concentration, up to 1 round/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No You can tell whether an area contains a planar touchstone.
+
+ 	
+If you study an area for 1 round, you know the location of any touchstone in the area.
+Once you find a touchstone, you can study it.
+(If you find more than one touchstone � ;an extremely rare occurrence � ;you can study only one at a time).
+Each round you study a touchstone, you can discover one property of the touchstone, in this order:			The base ability gained by someone who takes the Planar Touchstone feat related to the site.		Any conditions that must be met in order to recharge the higher-order ability granted by the site.		The higher-order ability gained by someone who visits the touchstone and fulfills the recharge condition.		The number of uses of the higher-order ability that the character gains from visiting the site and fulfilling the recharge condition.	
+For each of these properties, you make a caster level check (1d20 + caster level) against DC 15.
+If you fail, you can try again in the next round.
+Material Components: A crystal lens, a drop of ink, and a piece of paper or parchment.
+   

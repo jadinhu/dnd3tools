@@ -1,0 +1,10 @@
+<b>Summon Undead V</b>(Ghostwalk)
+
+Conjuration (Summoning) [Evil, see text]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>
+ <b>Effect:</b> One or more summoned creatures, no two of which can be more than 30 ft. apart
+
+ 	
+As summon undead I, except that you can summon one undead from the 5th-level list, 1d3 undead of the same type from the 4th-level list, or 1d4+1 undead of the same type from a lower-level list.
+ <b>Also appears in</b>   Magic of Faerun  Heroes of Horror  Libris Mortis: The Book of the Dead  Spell Compendium  Player's Guide to FaerÃ»n     

@@ -1,0 +1,25 @@
+<b>Wood Rot</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Druid 5,  Wu Jen 5 (Wood),    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One nonmagical wooden object or a volume of wood; or one plant creature
+ <b>Duration:</b> Instantaneous or 1 round/level; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast this spell, an insidious rot immediately taints any wooden object or plant creature you touch.
+Any unattended nonmagical wooden item smaller than 6 feet in diameter, or a 3-foot-radius volume of a larger wooden object (such as a wooden door), is instantly destroyed by wood rot.
+In combat, you can use the spell to attempt to sunder any wooden or wooden-hafted weapon; the weapon or its wooden portion is destroyed on a successful melee touch attack.
+Attempting to sunder a weapon generally provokes attacks of opportunity, and wood rot has no effect on wooden or wooden-hafted weapons that strike you, even if you hold the charge.
+Against wooden shields or armor, you also make a melee touch attack.
+Targets too large to be destroyed outright take a -1d6 penalty to their bonus to Armor Class on a successful hit and are rendered unusable if the penalty exceeds the bonus.
+Any attack against a wooden object discharges the spell, and wooden magic items are immune to the effect of wood rot.
+Against plant creatures, wood rot deals 3d6 points of damage +1 point per caster level (maximum +15) on a successful attack.
+Against plant creatures only, the spell lasts for 1 round per level, and you can make one melee touch attack per round.
+Once it is used to make an attack against a plant creature, wood rot cannot be used to attack or destroy wooden items.
+Material Component: A live termite.
+ <b>Also appears in</b>   Oriental Adventures  Spell Compendium     

@@ -1,0 +1,17 @@
+<b>Snakebite</b>(Spell Compendium, p. 193)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Ranger 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+<b>You cast the spell, and one of your arms turns into a venomous bright-green snake with a fanged, biting mouth that drips poison.</b>
+	
+This spell transforms one of your arms into a poisonous serpent. As an attack action, you can strike an opponent with your snake arm by making a successful melee attack. The bite from the venomous serpent deals damage equal to 1d3 points + your Str modifier, and it carries a toxic venom that deals 2 points of Constitution damage as initial and secondary damage. Each instance of ability damage can be negated by a Fortitude save (DC equal to this spell's DC).
+	
+You can't hold a weapon with your transformed hand, but your other hand can be used to wield weapons or cast spells with somatic components. Attacking with the transformed hand and a weapon incurs the standard two-weapon fighting penalties (PH 160). You can be under the effect of only one snakebite spell at any given time.
+ <b>Also appears in</b>   Magic of Faerun     

@@ -1,0 +1,17 @@
+<b>Cloak of the Sea</b>(Spell Compendium, p. 48)
+
+Transmutation
+ <b>Level:</b>  Druid 5,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>A blue-green glow surrounds your hand as you complete the spell. With a touch you release it into your intended target, which then turns the same shade of blue-green.</b>
+	
+While underwater, the subject functions as if affected by <b>blur</b> (<b>PH</b> 206), <b>freedom of movement</b> (<b>PH</b> 233), and <b>water breathing</b> (<b>PH</b> 300),and doesn't take nonlethal damage for the duration of the spell. When out of the water (or even partially out), the subject gains none of these advantages except water breathing. The subject can leave and reenter water without ending the spell.
+   

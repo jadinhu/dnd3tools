@@ -1,0 +1,17 @@
+<b>Speak to Allies</b>(Spell Compendium, p. 197)
+
+Transmutation [Language-Dependent]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Any number of allied creatures, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>As you rub the small piece of copper wire, it begins to buzz with the latent magical energy of the spell. When you finally release the spell's energy, you hear the words you wish to share with your allies in your mind � ;and moments later you hear their unspoken replies.</b>
+	
+This spell functions like <b>message</b> (PH 253), except as noted above and that you and the recipients don't have to mouth the words or whisper, which means that those skilled in reading lips have no opportunity to learn the messages.
+   

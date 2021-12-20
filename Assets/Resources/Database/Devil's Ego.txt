@@ -1,0 +1,14 @@
+<b>Devil's Ego</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>   Diabolic 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 1 minute/level
+
+ 	
+The caster gains an enhancement bonus to Charisma of 1d4+1 points.
+Furthermore, the caster is treated as an outsider with regard to what spells and magical effects can affect her (rendering a humanoid caster immune to charm person and hold person, for example).
+ <b>Also appears in</b>   Fiendish Codex II: Tyrants of the Nine Hells     

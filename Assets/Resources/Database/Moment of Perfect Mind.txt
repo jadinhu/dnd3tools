@@ -1,0 +1,15 @@
+<b>Moment of Perfect Mind</b>(Tome of Battle: The Book of Nine Swords, p. 64)
+
+Diamond Mind (Counter)
+ <b>Level:</b>  Swordsage 1,  Warblade 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>Your mental focus and martial study have rendered your will into an unbreakable iron wall. When someone targets you with a spell that seeks to erode your willpower, you steel yourself against the attack.</b>
+	
+Between your devoted study, iron will, and supreme focus, you have learned to resist attempts to subvert your willpower. When you feel such an effect try to cloud your mind, you can draw on untapped reserves of energy to counter the attempt.
+	
+You can use this maneuver any time you would be required to make a Will save. Make a Concentration check instead of the Will save and use the result of that check to determine the save?s success. You must use this maneuver before you attempt the Will save. A result of a natural 1 on your Concentration check is not an automatic failure.</p   

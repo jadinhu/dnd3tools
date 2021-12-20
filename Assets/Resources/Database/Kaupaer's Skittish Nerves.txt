@@ -1,0 +1,15 @@
+<b>Kaupaer's Skittish Nerves</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You enhance the target's reactions in combat, granting him a +5 bonus on initiative checks.
+   

@@ -1,0 +1,22 @@
+<b>Investiture of the Chain Devil</b>(Fiendish Codex II: Tyrants of the Nine Hells)
+
+Transmutation [Evil, Investiture]
+ <b>Level:</b>  Blackguard 2,  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+With a rush of red light and the faint clanking of many chains, you invest the target with the power of a chain devil.
+While under the effect of this spell, the target is infused with the magical energies and malignant will of a chain devil.
+While the spell is in effect, the subject's reach increases by 5 feet, and the subject's maximum number of attacks of opportunity made each round increases by one.
+In addition, the subject gains resistance to fire 5.
+This resistance stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the chain devil).
+While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture.
+After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute.
+Material Component: A fist-sized chunk of brimstone.
+   

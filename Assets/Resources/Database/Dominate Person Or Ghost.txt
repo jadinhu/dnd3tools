@@ -1,0 +1,9 @@
+<b>Dominate Person Or Ghost</b>(Ghostwalk)
+
+Enchantment (Compulsion) [Ectomancy, Mind-Affecting]
+ <b>Level:</b>  Bard 5,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>
+
+ 	
+As dominate person, except that it also affects ghosts.
+   

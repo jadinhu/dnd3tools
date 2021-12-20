@@ -1,0 +1,20 @@
+<b>Resurgence</b>(Complete Divine)
+
+Abjuration
+ <b>Level:</b>  Blackguard 1,  Cleric 1,  Paladin 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+By laying hands on a creature and saying a brief prayer, you can convince a higher power to grant a second chance to one of your allies.
+The target of resurgence can make a second attempt to save against an ongoing spell, spell-like ability, or supernatural ability, such as dominate person, a chaos beast's corporeal instability, or the sickening effect (but not the damage) from unholy blight.
+If the target of resurgence is subject to more than one ongoing magic effect, the target chooses one of them to retry the save against.
+If the subject succeeds at the saving throw on the second attempt, the effect ends immediately.
+Resurgence never restores hit points or ability score damage, but it does eliminate any conditions such as shaken, fatigued, or nauseated that were caused by the spell, spell-like ability, or supernatural ability.
+If a spell, spell-like ability, or supernatural ability doesn't allow a save (such as power word stun), then resurgence won't help the subject recover.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,19 @@
+<b>Low-light Vision</b>(Spell Compendium, p. 134)
+
+Transmutation
+ <b>Level:</b>  Assassin 1,  Druid 1,  Ranger 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You pass your hand over the subject's eyes and murmur the arcane words. Its eyes grow larger, and when it opens them, the pupils are speckled with tiny silvers of starlight.</b>
+	
+The subject creature gains low-light vision.
+	
+Arcane Material Component: A small candle.
+ <b>Also appears in</b>   Complete Arcane  Unapproachable East  Savage Species  Magic of Faerun     

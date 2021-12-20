@@ -1,0 +1,24 @@
+<b>Stormwalk</b>(Stormwrack)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Druid 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> You and up to one other creature for every two levels
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None and Will negates (object)
+ <b>Spell Resistance:</b> No and Yes (object)
+
+ 	
+As teleport, save that you draw upon the power of a storm to teleport yourself and a number of others from one place to another.
+Upon casting the spell, the storm suddenly intensifies in the area where the spell was cast, obscuring sight of those affected � ;whether because of a thickening of fog, a sudden increase in the downfall of hail and sleet, or a strike of lightning.
+On the next round, the disturbance disappears and the characters affected by the spell are gone.
+Though the targets of the spell disappear instantaneously once the spell is cast, they do not immediately reappear at the spell's destination.
+Instead, 10 minutes elapse during which a storm quickly develops in the target location.
+This is plainly not a natural occurrence to anyone who witnesses it, unless there is already a storm in progress.
+Then an intensification of this storm obscures sight at the target location, and the targets of the spell reappear.
+The targets always appear in some place that is open to the storm � ;thus, they can appear on the upper parapets of a castle, but not inside the castle.
+Though 10 minutes have passed since they disappeared, it appears to the travelers as though the transport were instantaneous.
+Additionally, for the 10 minutes while the targets are gone, they are treated as though they were in another plane.
+   

@@ -1,0 +1,23 @@
+<b>Circlet of Enervation</b>(Shining South)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 6-inch circlet of negative energy
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You form a small ring of negative energy in your hand, which harms neither you nor your equipment.
+The circlet launches from your hand, and you must succeed on a ranged touch attack to strike your target.
+A struck creature takes 2d6 points of damage and gains one negative level (a Fortitude save negates the negative level).
+No sooner do you hurl the circlet than another one appears in your hand, ready to be launched again on your next turn.
+Negative levels from circlet of enervation function exactly like those gained from the enervation spell.
+Since undead are powered by negative energy, this spell heals 2d6 points of damage when it strikes an undead, rather than harming it.
+Further, each time an undead creature is struck by the circlet, it gains 5 temporary hit points.
+The spell has no effect on constructs or inanimate objects.
+Focus: A jet bracelet worth 100 gp.
+   

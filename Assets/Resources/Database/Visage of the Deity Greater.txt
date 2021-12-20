@@ -1,0 +1,16 @@
+<b>Visage of the Deity, Greater</b>(Complete Divine)
+
+Transmutation [Evil, Good]
+ <b>Level:</b>  Cleric 9,   Purification 9,   
+<b>Components:</b>
+
+ 	
+As lesser visage of the deity, except that you take on the qualities of a half-celestial or half-fiend (see the Monster Manual for complete details).
+You do not gain the spell-like abilities of these creatures.
+Your creature type changes to outsider for the duration of the spell.
+Unlike other outsiders, you can be brought back from the dead if you are killed in this form.
+Good clerics undergo the following transformations:			You grow feathered wings that allow you to fly at twice your normal speed (good maneuverability).		You gain +1 natural armor.		You gain low-light vision.		You gain resistance 10 to acid, cold, and electricity.		You gain immunity to disease.		You gain a +4 racial bonus on saving throws against poison.		You gain damage reduction 10/magic.		You gain spell resistance 25.		You gain the following bonuses to your ability scores: +4 Str, +2 Dex, +4 Con, +2 Int, +4 Wis, +4 Cha.	
+Evil clerics undergo the following transformations:			You grow batlike wings that allow you to fly at your normal speed (average maneuverability).		You gain +1 natural armor.		You gain bite and claw attacks.	
+If you are size Medium or larger, your bite deals 1d6 points of damage and each claw attack deals 1d4 points of damage.
+If you are Small, your bite deals 1d3 points of damage and each claw attack deals 1d3 points of damage.			You gain darkvision out to a range of 60 feet.		You gain immunity to poison.		You gain resistance 10 to acid, cold, electricity, and fire.		You gain damage reduction 10/magic.		You gain spell resistance 25.		You gain the following bonuses to your ability scores: +4 Str, +4 Dex, +2 Con, +4 Int, +2 Cha.	
+   

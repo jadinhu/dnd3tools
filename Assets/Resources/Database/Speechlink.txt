@@ -1,0 +1,19 @@
+<b>Speechlink</b>(Complete Adventurer)
+
+Divination
+ <b>Level:</b>  Bard 3,  Vigilante 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> You and one creature touched
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You and a willing target can communicate verbally no matter how much distance you put between yourselves on the same plane.
+Either participant can end the spell at any time.
+Speechlink allows each to hear the other's vocalizations, whatever their volume.
+It does not transfer other sounds from either participant's location.
+This spell works on any creatures, including animals, but does not convey any special language comprehension abilities.
+ <b>Also appears in</b>   Magic of Faerun  Spell Compendium     

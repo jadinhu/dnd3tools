@@ -1,0 +1,21 @@
+<b>Belker Claws</b>(Planar Handbook)
+
+Transmutation [Air]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature or creatures touched (up to one/level)
+ <b>Duration:</b> 1 round per three levels
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell transforms one of your hands into a smoky claw like that of a belker.
+With a successful touch attack, you fill a living target's lungs with smoke.
+The smoke inside the victim solidifies into miniature claws and begins to rip at the surrounding organs, dealing 3d4 points of damage.
+A successful Fortitude save halves the damage dealt.
+For every three caster levels, the smoke lasts for another round (to a maximum of 4 rounds at 12th level), dealing another 3d4 points of damage.
+You can use this melee touch attack once per round for every three caster levels, up to a maximum of four times at 12th level.
+Material Component: A small vial of smoke.
+ <b>Also appears in</b>   Spell Compendium     

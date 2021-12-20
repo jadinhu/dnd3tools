@@ -1,0 +1,17 @@
+<b>Summon Monster VIII</b>(Player's Handbook v.3.5, p. 287)
+
+Conjuration (Summoning) [see text for summon monster I]
+ <b>Level:</b>  Cleric 8,  Sorcerer 8,  Wizard 8,  Nar Demonbinder 8,  Wu Jen 8,  Sha'ir 8,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One or more summoned creatures, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>summon monster I</b>, except that you can summon one creature from the 8th-level list, 1d3 creatures of the same kind fromthe 7th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
+	
+Arcane Focus: A tiny bag and a small (not necessarily lit) candle.
+	<b>8TH <span class="caps">LEVEL</span></b>	<table>		<tr>			<th><b>Monster</b> </th>			<th><b>Alignement</b> </th>		</tr>		<tr>			<td> Celestial dire bear </td>			<td> LG </td>		</tr>		<tr>			<td> Celestial cachalot whale <sup>1</sup> </td>			<td> NG </td>		</tr>		<tr>			<td> Celestial triceratops </td>			<td> NG </td>		</tr>		<tr>			<td> Lillend </td>			<td> CG </td>		</tr>		<tr>			<td> Elemental, greater (any) </td>			<td> N </td>		</tr>		<tr>			<td> Slaad, blue </td>			<td> CN </td>		</tr>		<tr>			<td> Fiendish giant squid <sup>1</sup> </td>			<td> LE </td>		</tr>		<tr>			<td> Hellcat </td>			<td> LE </td>		</tr>		<tr>			<td> Fiendish monstrous centipede, Colossal </td>			<td> NE </td>		</tr>		<tr>			<td> Fiendish dire tiger </td>			<td> CE </td>		</tr>		<tr>			<td> Fiendish monstrous spider, Gargantuan </td>			<td> CE </td>		</tr>		<tr>			<td> Fiendish tyrannosaurus </td>			<td> CE </td>		</tr>		<tr>			<td> Vrock (demon) </td>			<td> CE </td>		</tr>		<tr>			<td colspan="2"><sup>1</sup> may be summoned only into an aquatic or watery environment </td>		</tr>	</table>   

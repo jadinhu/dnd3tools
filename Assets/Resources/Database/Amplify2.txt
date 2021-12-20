@@ -1,0 +1,19 @@
+<b>Amplify</b>(Spell Compendium, p. 10)
+
+Transmutation [Sonic]
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long ( 400 ft. + 40 ft./level)
+ <b>Area:</b> 20-ft.-radius emanation centered on a creature, object, or point in space
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes; see text
+
+ 	
+<b>You need to hear what's going on. A hand motion or two, and the voices become louder to your ears.</b>
+	
+You cause an amplification of all sounds within the spell's area. This decreases the DC to hear those sounds by 20. Those creatures within the spell's area do not notice the increased amplification. Thus, anyone whose voice is amplified remains unaware of the increase in volume.
+	
+The spell can be centered on a creature, and the effect then radiates from the creature and moves as it moves. An unwilling creature can attempt a Will save to negate the spell and can apply spell resistance, if any. Items in a creature's possession receive the benefits of saves and spell resistance, but unattended objects and points in space do not. Amplify counters and dispels silence, and is also countered and dispelled by silence.
+ <b>Also appears in</b>   Magic of Faerun     

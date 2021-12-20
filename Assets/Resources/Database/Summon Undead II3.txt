@@ -1,0 +1,10 @@
+<b>Summon Undead II</b>(Libris Mortis: The Book of the Dead)
+
+Conjuration (Summoning) [Evil]
+ <b>Level:</b>  Blackguard 2,  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>
+ <b>Effect:</b> One or more summoned creatures, no two of which can be more than 30 ft. apart
+
+ 	
+This spell functions like summon undead I, except that you can summon one undead from the 2nd-level list or two undead of the same kind from the 1st-level list.
+ <b>Also appears in</b>   Ghostwalk  Magic of Faerun  Heroes of Horror  Spell Compendium  Player's Guide to FaerÃ»n     

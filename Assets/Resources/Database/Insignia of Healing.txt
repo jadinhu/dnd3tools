@@ -1,0 +1,16 @@
+<b>Insignia of Healing</b>(Races of Destiny)
+
+Conjuration (Healing)
+ <b>Level:</b>  Bard 3,  Cleric 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half (harmless); see text
+ <b>Spell Resistance:</b> Yes (harmless); see text
+
+ 	
+This spell works just like insignia of alarm except the insignia wearers are instead healed by positive energy.
+The spell cures 1d8 points of damage +1 point per caster level (maximum+10) to all wearers of the insignia.
+Since undead are powered by negative energy, this spell deals damage to them instead of curing their wounds.
+Any undead creature can apply spell resistance and attempt a Will save to take half damage.
+   

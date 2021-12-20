@@ -1,0 +1,24 @@
+<b>Chain Lightning</b>(Player's Handbook v.3.5, p. 208)
+
+Evocation [Electricity]
+ <b>Level:</b>  Duskblade 5,  Sorcerer 6,  Wizard 6,  Warmage 6,  Sha'ir 6,   Air 6,   
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Target:</b> One primary target, plus one secondary target/level (each of which must be within 30 ft. of the primary target)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates an electrical discharge that begins as a single stroke commencing from your fingertips.
+Unlike lightning bolt, chain lightning strikes one object or creature initially, then arcs to other targets.
+The bolt deals 1d6 points of electricity damage per caster level (maximum 20d6) to the primary target.
+After it strikes, lightning can arc to a number of secondary targets equal to your caster level (maximum 20).
+The secondary bolts each strike one target and deal half as much damage as the primary one did (rounded down).
+For example, a 19th-level sorcerer generates a primary bolt (19d6 points of damage) and as many as nineteen secondary bolts (each of which deals half as much as the primary bolt dealt).
+Each target can attempt a Reflex saving throw for half damage.
+You choose secondary targets as you like, but they must all be within 30 feet of the primary target, and no target can be struck more than once.
+You can choose to affect fewer secondary targets than the maximum (to avoid allies in the area, for example).
+Focus: A bit of fur; a piece of amber, glass, or a crystal rod; plus one silver pin for each of your caster levels.
+   

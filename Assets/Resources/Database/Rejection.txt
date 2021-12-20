@@ -1,0 +1,13 @@
+<b>Rejection</b>(Savage Species)
+
+Abjuration
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> Cone
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex negates
+
+ 	
+As repulsion, except as noted above.
+ <b>Also appears in</b>   Spell Compendium     

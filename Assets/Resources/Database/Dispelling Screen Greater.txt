@@ -1,0 +1,15 @@
+<b>Dispelling Screen, Greater</b>(Spell Compendium, p. 67)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,   Drow 6,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Energy wall whose area is up to one 10-ft. square/level, or a sphere or hemisphere with a radius of up to 1 ft./level
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell functions like <b>dispelling screen</b>, except that the maximum caster level bonus on the dispel check is +20.
+   

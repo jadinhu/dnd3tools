@@ -1,0 +1,29 @@
+<b>Tidal Wave</b>(Shining South)
+
+Evocation
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> A wave 75 ft. high and 500 ft. wide
+ <b>Duration:</b> 1 min./level; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a moving wall of water that can drown swimmers, swamp ships, and flood port cities.
+Upon completion of the spell, the tidal wave forms and moves from the starting point you designate in the direction you specify at a speed of 150 feet per round for the duration of the spell, or until it strikes land.
+Any creature swimming in the water as the tidal wave hits it must make a DC 30 Swim check each round to remain afloat.
+Creatures that succeed are washed forward by the tidal wave and must continue to make Swim checks each round.
+Creatures that fail the check are sucked beneath the tidal wave and forced 8d10 feet below the surface of the water, taking 4d6 points of nonlethal damage.
+The wave passes over submerged creatures, which are subject to drowning (see page 304 of the Dungeon Master's Guide).
+Any Medium or smaller ship caught in the path of the tidal wave takes 6d10 points of damage, while larger ships take an additional 6d10 points of damage per size category they are larger than Medium.
+Furthermore, the ship is carried along by the tidal wave for a number of feet equal to the number of points of damage taken x5.
+For example, a sailing ship that takes 66 points of damage is carried in the surge of the wave for 330 feet.
+If the movement of the ship results in a collision with another ship or with land, the ship takes additional damage (see below).
+Any creatures and equipment aboard the ship that are not lashed down are swept off the decks and into the sea (and creatures are then subject to the Swim checks noted above).
+If a tidal wave drives up onto shore, it deals 6d10 points of damage to everything in its path within 200 feet of the shore, 3d10 points of damage to everything farther than 200 feet but within 400 feet of the shore, and 1d10 points of damage to everything farther than 400 feet but within 1,000 feet of shore.
+Any ships in port or washed ahead of the tidal wave take 6d10 points of damage in addition to any taken for being struck by the wave (see above) and end up 5d10x;10 feet inland when they come to rest.
+Material Component: A plank of wood smacked against the surface of the water.
+XP Cost: 500 XP.
+   

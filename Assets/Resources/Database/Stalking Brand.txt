@@ -1,0 +1,19 @@
+<b>Stalking Brand</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your touch marks your target with a tiny symbol visible only to you and to detect magic.
+The brand appears as you envision it, approximately an inch in diameter.
+You can still see the brand, even if the subject uses magical means to change or hide her appearance.
+Even spells such as change self, polymorph self, and invisibility do not hide the brand.
+To your eyes, the mark glows a light green.
+ <b>Also appears in</b>   Spell Compendium     

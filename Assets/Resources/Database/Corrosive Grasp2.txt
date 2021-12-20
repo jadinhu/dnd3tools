@@ -1,0 +1,17 @@
+<b>Corrosive Grasp</b>(Spell Compendium, p. 53)
+
+Conjuration (Creation) [Acid]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creatures touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your hand glistens and smokes from a viscous coating of acid. It does not harm you, but your opponents are less fortunate.</b>
+	
+A touch attack with this hand causes 1d8 points of acid damage. You can use this melee touch attack up to one time per level. You can also deal this damage as extra damage with an unarmed strike or an attack with a natural weapon. If you grapple an opponent, you can deal this damage in addition to other damage you deal with a successful grapple check.
+ <b>Also appears in</b>   Magic of Faerun     

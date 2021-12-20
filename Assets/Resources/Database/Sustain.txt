@@ -1,0 +1,19 @@
+<b>Sustain</b>(Book of Exalted Deeds)
+
+Transmutation
+ <b>Level:</b>  Apostle of Peace 4,  Cleric 4,   Endurance 4,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Up to one living creature touched/two levels
+ <b>Duration:</b> 6 hours/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell instantly relieves the negative effects of hunger and thirst and allows the targets to go without food or water for the duration of the spell, suffering no ill effects from the deprivation.
+An affected creature can eat or drink normally without difficulty.
+When the spell ends, the creatures must resume normal eating and drinking habits, but do not feel any adverse effects from the missed meals.
+The size of the creature is not a factor; a Tiny lizard and a Colossal dragon are both fully nourished by the spell.
+Material Component: A flask of warm wine and a loaf of bread.
+ <b>Also appears in</b>   Oriental Adventures     

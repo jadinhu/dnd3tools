@@ -1,0 +1,16 @@
+<b>Ghost Trap</b>(Libris Mortis: The Book of the Dead)
+
+Abjuration
+ <b>Level:</b>  Cleric 6,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level (D)
+
+ 	
+You are surrounded by a field of energy that negates incorporealness.
+The radius of the field is 5 feet per caster level.
+All incorporeal creatures in this field become corporeal.
+Creatures cannot turn ethereal while in this area, and ethereal creatures cannot become nonethereal while in this field.
+ <b>Also appears in</b>   Spell Compendium     

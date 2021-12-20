@@ -1,0 +1,21 @@
+<b>Hunters of Hades</b>(Spell Compendium, p. 117)
+
+Conjuration (Summoning) [Evil]
+ <b>Level:</b>  Cleric 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Two summoned pack fiends, which can be no more than 30 ft. apart, or one retriever
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You evoke the dark powers and the ground splits near you. Up from the smoking depths comes a pair of creatures, each resembling a mating of wolf and cockroach.</b>
+	
+This spell summons either a single retriever (MM 46) or a pair of pack fiends (Planar Handbook 128) rom the Gray Waste of Hades to serve you. The creatures magically understand your spoken commands (regardless of your language). They are treated as trained hunting beasts, so you can command them to track if you so choose.
+	
+The creatures obey you explicitly and never attack you, even if someone else manages to gain control over them. You do not need to concentrate to maintain control over the creatures. You can dismiss them singly or in groups at any time.
+	
+Material Component: A pinch of ash. If a retriever is summoned, a 500 gp bloodstone must also be used.
+ <b>Also appears in</b>   Planar Handbook     

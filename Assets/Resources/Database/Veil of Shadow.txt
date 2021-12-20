@@ -1,0 +1,16 @@
+<b>Veil of Shadow</b>(Miniatures Handbook)
+
+Evocation [Darkness]
+ <b>Level:</b>  Assassin 2,  Blackguard 2,  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level
+
+ 	
+Swirling wisps of darkness obscure your form, granting you concealment.
+The 20% miss chance is active even if the attacker has darkvision.
+This spell effect is suppressed in daylight or in the area of a light spell of 3rd level or higher.
+See invisibility does not counter the veil of shadow's concealment effect, but a true seeing spell does.
+   

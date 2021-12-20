@@ -1,0 +1,19 @@
+<b>Child of Shadow</b>(Tome of Battle: The Book of Nine Swords, p. 76)
+
+Shadow Hand (Stance)
+ <b>Level:</b>  Swordsage 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>As you move, shadows flutter and swarm around you. Even under the bright desert sun, you are difficult to spot as long as you remain in motion.</b>
+	
+As an initiate of the Shadow Hand school, you learn to channel and control dark, shadowy energies. This energy flows around you like a concealing robe, hiding you from your opponents as they attempt to strike you.
+	
+If you move at least 10 feet during your turn, you gain concealment against all melee and ranged attacks until the start of your next turn. You also gain the standard benefits of concealment, but you cannot use this stance to hide in plain sight; you must still use some other terrain feature that normally allows you to use the Hide skill. The fluttering shadows make it difficult to specifically target you, but your enemies are aware of your position. 
+	
+This maneuver is a supernatural ability.
+   

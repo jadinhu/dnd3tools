@@ -1,0 +1,15 @@
+<b>Scalding Touch</b>(Magic of Eberron, p. 100)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Up to one creature/level touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your hand ignites with the white-hot fury of the sun, dealing 13d6 points of fire damage with a successful melee touch attack. Touched creatures are also dazed for 1 round by the burning pain unless they make a successful Fortitude saving throw. You can use this melee touch attack up to once per caster level.
+   

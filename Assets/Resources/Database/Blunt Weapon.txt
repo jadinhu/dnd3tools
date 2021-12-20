@@ -1,0 +1,23 @@
+<b>Blunt Weapon</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Transmutation
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> All piercing and slashing weapons within a 20-ft radius burst
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Blunt weapon reduces the effectiveness of certain weapons by rendering them semisubstantial.
+Affected weapons appear shimmery or shadowy when examined closely, but the wielder must specifically examine the weapon (a move-equivalent action) to notice the effect.
+An affected weapon retains its full enhancement bonus and magical abilities (if any), but its base damage is reduced by half.
+The strength bonus of the wielder still applies normally to attacks and damage.
+A weapon carried by a creature uses that creature's Fortitude saving throw.
+A magic weapon gets a bonus equal to its enhancement bonus on this save.
+Only manufactured piercing and slashing weapons are affected by blunt weapon.
+It has no effect on natural weapons.
+Arrows and other projectile weapons affected by the spell remain blunted even after they leave the spell's area.
+   

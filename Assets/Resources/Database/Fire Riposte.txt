@@ -1,0 +1,16 @@
+<b>Fire Riposte</b>(Tome of Battle: The Book of Nine Swords, p. 53)
+
+Desert Wind (Counter)
+ <b>Level:</b>  Swordsage 2 (One Desert Wind maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+<b>You focus the pain from a wound you have just suffered into a fiery manifestation of revenge.</b>
+	
+When a creature successfully strikes you with a melee or natural weapon, you can use this maneuver to give yourself the ability to make an immediate melee touch attack. If your attack hits, your target takes 4d6 points of fire damage. 
+This maneuver is a supernatural ability.
+   

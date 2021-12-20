@@ -1,0 +1,19 @@
+<b>Girallon Windmill Flesh Rip</b>(Tome of Battle: The Book of Nine Swords, p. 87)
+
+Tiger Claw (Boost)
+ <b>Level:</b>  Swordsage 8 (Three Tiger Claw maneuvers),  Warblade 8 (Three Tiger Claw maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One or more creatures
+ <b>Duration:</b> End of turn
+
+ 	
+<b>Windmilling your arms in a furious blur, you strike your perplexed enemy from two directions at once, rending his flesh with each strike.</b>
+	
+Each of your attacks is precisely timed to maximize the carnage it inflicts. You must be wielding two or more weapons to initiate this maneuver. As you hack into your opponent, you use your weapons together to murderous effect. With a cruel twist of your blade, you widen the wounds you cause with each successive strike.
+	
+You must initiate this maneuver before making any attacks in the current round. If you strike an opponent multiple times during your turn, you also deal rend damage. This damage is based on the number of times you strike your opponent during your turn (see the table below). Determine the rend damage dealt immediately after you make your last attack for your turn.
+	
+If you attack multiple opponents during your turn, you gain this extra damage against each of them. A creature takes rend damage based on the number of attacks that hit it, not the number of successful attacks you make. For example, if you hit a fire giant three times and an evil cleric twice during your turn, the fire giant takes rend damage for three attacks and the cleric takes rend damage for two attacks.	<table>		<tr>			<th>Successful Attacks </th>			<th>Rend Damage </th>		</tr>		<tr>			<td> 2 </td>			<td> 8d6 </td>		</tr>		<tr>			<td> 3 </td>			<td> 10d6 </td>		</tr>		<tr>			<td> 4 </td>			<td> 12d6 </td>		</tr>		<tr>			<td> 5 </td>			<td> 14d6 </td>		</tr>		<tr>			<td> 6 </td>			<td> 16d6 </td>		</tr>		<tr>			<td> 7 </td>			<td> 18d6 </td>		</tr>		<tr>			<td> 8+ </td>			<td> 20d6 </td>		</tr>	</table>
+   

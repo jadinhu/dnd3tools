@@ -1,0 +1,22 @@
+<b>Runic Marker</b>(Champions of Valor)
+
+Conjuration (Creation) [Earth]
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One stone pillar
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a slender stone pillar 2 feet in diameter and 6 feet tall.
+It can be square, cylindrical, hexagonal, natural-looking, or any similar shape.
+It must be solid and complete (without hollow spaces or secret compartments).
+When you create the runic marker, you can also have a message of up to twenty-five words inscribed upon it.
+The runic marker also bears a glyph of warding (blast glyph only).
+In addition to the normal trigger conditions available for a glyph of warding, you can set it to activate if the pillar ever takes damage from a magical effect.
+When the glyph of warding effect activates, the runic marker is destroyed, leaving nothing behind.
+Material Component:One vial of holy water.
+   

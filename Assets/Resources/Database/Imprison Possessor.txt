@@ -1,0 +1,17 @@
+<b>Imprison Possessor</b>(Book of Vile Darkness)
+
+Abjuration
+ <b>Level:</b>  Demonologist 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One possessing creature and its host
+ <b>Duration:</b> Permanent (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster traps one creature that can possess or inhabit other creatures, or one that can move its mind out of its body, within the creature it currently inhabits.
+Potential targets include possessing demons, malevolent ghosts, and a caster currently using a magic jar spell.
+The possessing creature cannot leave the body it is currently in, whether or not it is its own, by any means.
+   

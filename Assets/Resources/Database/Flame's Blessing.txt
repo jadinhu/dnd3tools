@@ -1,0 +1,16 @@
+<b>Flame's Blessing</b>(Tome of Battle: The Book of Nine Swords, p. 53)
+
+Desert Wind (Stance) [Fire]
+ <b>Level:</b>  Swordsage 1,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>Fire is not your enemy, and it does not harm you.</b>
+	
+You gain some resistance to fire as long as you remain in this stance. The amount of resistance is determined by your ranks in Tumble. If you have 19 or more ranks in Tumble, you gain immunity to fire while you are in this stance.
+This stance is a supernatural ability.
+	<table>		<tr>			<th>Tumble Ranks </th>			<th>Fire Resistance </th>		</tr>		<tr>			<td> 4-8 </td>			<td> 5 </td>		</tr>		<tr>			<td> 9-13 </td>			<td> 10 </td>		</tr>		<tr>			<td>14-18 </td>			<td> 20 </td>		</tr>		<tr>			<td> 19+ </td>			<td> Immunity </td>		</tr>	</table>   

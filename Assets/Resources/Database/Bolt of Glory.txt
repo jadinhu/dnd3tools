@@ -1,0 +1,17 @@
+<b>Bolt of Glory</b>(Book of Exalted Deeds)
+
+Evocation [Good]
+ <b>Level:</b>  Exalted Arcanist 6,   Glory 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./level)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+By casting this spell, you project a bolt of energy from the Positive Energy Plane against one creature.
+You must succeed on a ranged touch attack to strike your target.
+A creature struck takes varying damage, depending on its nature and home plane of existence:
+ <b>Also appears in</b>   Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins  Deities and Demigods  Draconomicon     

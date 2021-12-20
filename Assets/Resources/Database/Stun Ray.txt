@@ -1,0 +1,19 @@
+<b>Stun Ray</b>(Spell Compendium, p. 211)
+
+Conjuration (Creation) [Electricity]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1d4+1 rounds; see text
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>A quick jolt of electricity darts from your raised hand. The slight smell of ozone lingers afterward.</b>
+	
+You blast an enemy with a scintillating ray of electricity. You must succeed on a ranged touch attack with the ray to strike a target. The target is stunned for 1d4+1 rounds by the ray of electricity. If the subject makes a successful Fortitude save, it is stunned for only 1 round. Creatures that have immunity to electricity are not affected by this spell.
+	
+Material Component: A coiled copper wire.
+   

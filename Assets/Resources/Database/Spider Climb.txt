@@ -1,0 +1,20 @@
+<b>Spider Climb</b>(Player's Handbook v.3.5, p. 283)
+
+Transmutation
+ <b>Level:</b>  Assassin 2, Slayer of Domiel 1,  Druid 2,  Urban Druid 2,  Jester 2,  Death Master 2,  Sha'ir 2,  Wu Jen 2,  Duskblade 2,  Beguiler 2,  Fatemaker 2,  Ebonmar Infiltrator 2,  Hoardstealer 2,  Wizard 2,  Sorcerer 2,  Court Herald 2,   Spider 1,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject can climb and travel on vertical surfaces or even traverse ceilings as well as a spider does.
+The affected creature must have its hands free to climb in this manner.
+The subject gains a climb speed of 20 feet; furthermore, it need not make Climb checks to traverse a vertical or horizontal surface (even upside down).
+A spider climbing creature retains its Dexterity bonus to Armor Class (if any) while climbing, and opponents get no special bonus to their attacks against it.
+It cannot, however, use the run action while climbing.
+Material Component: A drop of bitumen and a live spider, both of which must be eaten by the subject.
+   

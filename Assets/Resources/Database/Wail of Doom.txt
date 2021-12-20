@@ -1,0 +1,17 @@
+<b>Wail of Doom</b>(Complete Adventurer)
+
+Necromancy [Fear, Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 5,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous and 1 round/level or 1 round; see text
+ <b>Saving Throw:</b> Will partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Anyone caught in the area of this spell suffers excruciating pain and becomes demoralized.
+Each creature takes 1d4 points of damage per caster level (up to a maximum of 15d4) and becomes panicked for 1 round per caster level.
+A successful Will save halves the damage, reduces the panicked effect to shaken, and reduces the duration of the shaken effect to 1 round.
+ <b>Also appears in</b>   Spell Compendium  Song and Silence: A Guidebook to Bards and Rogues     

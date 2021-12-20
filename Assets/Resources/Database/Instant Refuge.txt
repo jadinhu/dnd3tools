@@ -1,0 +1,19 @@
+<b>Instant Refuge</b>(Spell Compendium, p. 124)
+
+Evocation
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Until discharged
+
+ 	
+<b>You set invisible arcane triggers within your mind and body, allowing you to escape great peril in an instant.</b>
+	
+This powerful variant of the contingency spell automatically transfers you and everything you carry or touch (except for other creatures or objects that weigh more than 50 pounds) to a locale you name.
+When casting instant refuge, you must specify the locale and detail up to six specific conditions that trigger the spell. When any of these situations occurs, you are whisked away to the location. The location can be any place you have visited, even on another plane.
+	
+<b>Material Component</b>: A concoction made from demon skin and rare herbs worth 250 gp.
+<b>XP Cost</b>: 100 XP.
+   

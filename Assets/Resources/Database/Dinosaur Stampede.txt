@@ -1,0 +1,21 @@
+<b>Dinosaur Stampede</b>(Spell Compendium, p. 64)
+
+Evocation [Force]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius spread
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Throwing down and shattering a fossil to complete the spell, you call upon potent natural forces and energies, and manifest them in the form of a swath of intangible, spectral, stampeding dinosaurs.</b>
+	
+Creatures in the spell's area take 1d12 points of damage +1 point per caster level (up to +20). Creatures more than 10 feet above the ground are not affected by dinosaur stampede.
+	
+With a simple gesture (a free action), you can make the spectral forms move along the ground up to 40 feet per round (moving its effective point of origin). Creatures cannot be damaged more than once per round by <b>dinosaur stampede</b>.
+	
+<b>Material Component:</b> A fossil.
+   

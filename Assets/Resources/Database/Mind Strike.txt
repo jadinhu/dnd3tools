@@ -1,0 +1,16 @@
+<b>Mind Strike</b>(Tome of Battle: The Book of Nine Swords, p. 64)
+
+Diamond Mind (Strike)
+ <b>Level:</b>  Swordsage 4 (Two Diamond Mind maneuvers),  Warblade 4 (Two Diamond Mind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> Will negates
+
+ 	
+<b>You strike your opponent?s head, rattling his senses and causing him to lose focus.</b>
+	
+As a warrior who fights with your mind as well as your brawn, you know that attacking a foe?s senses is just as valuable as sapping his strength. With this attack, you leave an opponent befuddled and vulnerable.
+	
+As part of this maneuver, make a melee attack. If this attack hits, your target must make a Will save (DC 14 + your Str modifier) or take 1d4 points of Wisdom damage. The target ignores the Wisdom damage on a successful save but still takes weapon damage normally.</   

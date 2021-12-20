@@ -1,0 +1,18 @@
+<b>Snuff the Light</b>(Drow of the Underdark)
+
+Transmutation
+ <b>Level:</b>  Assassin 1,  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One nonmagical light source
+ <b>Duration:</b> Instantaneous or 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+With a gesture, the light goes out.
+Snuff the light extinguishes a single non-magical light source, such as a candle, torch, or lantern.
+Against alchemical light sources, such as sunrods, you
+suppress the light for 1 round per caster level.
+   

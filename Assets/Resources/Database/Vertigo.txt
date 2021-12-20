@@ -1,0 +1,21 @@
+<b>Vertigo</b>(Player's Handbook II)
+
+Illusion (Phantasm) [Fear, Mind-Affecting]
+ <b>Level:</b>  Bard 2,  Beguiler 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will disbelief
+ <b>Spell Resistance:</b> No
+
+ 	
+You cripple a target with sensations of falling.
+The subject of this spell becomes dizzy as the ground seems to drop away beneath its feet.
+The subject must succeed on a DC 10 Balance check at the start of each turn to take a move action.
+If it fails, it cannot move.
+If it fails the check by 5 or more, it falls prone.
+While affected, the subject also takes a -2 penalty on attack rolls and saving throws.
+Airborne creatures receive a +4 bonus on saves against this spell and do not need to make the Balance checks.
+   

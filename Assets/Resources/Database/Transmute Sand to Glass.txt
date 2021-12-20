@@ -1,0 +1,24 @@
+<b>Transmute Sand to Glass</b>(Sandstorm)
+
+Transmutation [Earth]
+ <b>Level:</b>  Druid 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> Up to two 10-ft. cubes/level (S)
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell transforms a mass of normal sand of any depth into solid glass permanently.
+Any creature in the sand is allowed a Reflex save to escape before the area is hardened to glass.
+Creatures unable to escape the area become trapped and must be broken out.
+A creature so caught can break free by making a Strength check to break the glass or by dealing damage to the glass.
+Glass has hardness 1, 1 hit point per inch of thickness, and a break DC of 12, +1 per inch of thickness.
+A creature partially caught in the glass takes a -2 penalty on attack rolls and a -4 penalty to Dexterity, and is unable to move.
+When breaking glass, a creature takes 1d6 points of damage each time it makes a successful Strength check to break free.
+If broken free by others, the creature takes 1d6 points of damage from broken glass.
+A creature trapped beneath the surface of the glass may begin to suffocate (see page 304 of the Dungeon Master's Guide).
+Arcane Material Component: A mixture of crushed glass and sand.
+   

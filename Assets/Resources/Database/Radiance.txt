@@ -1,0 +1,19 @@
+<b>Radiance</b>(Player's Handbook II)
+
+Evocation [Good, Light]
+ <b>Level:</b>  Cleric 5,  Druid 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> 60-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 round/level (D); see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A bright, scintillating light shines from your body.
+For the duration of this spell, you emanate a bright light that undead find uncomfortable.
+The illumination within the area is bright, the equivalent of a daylight spell.
+Undead in the area are dazzled for as long as they remain in the radius and for 1d6 rounds thereafter.
+Radiance counters or dispels any darkness spell of equal or lower level.
+   

@@ -1,0 +1,17 @@
+<b>Call Nightmare</b>(Book of Vile Darkness)
+
+Conjuration (Calling) [Evil]
+ <b>Level:</b>  Demonologist 4,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, Soul
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One nightmare
+ <b>Duration:</b> One week
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The caster calls a nightmare from the Lower Planes to where she is, offering it the soul that she has prepared.
+In exchange, the nightmare serves the caster for one week as a mount or guard, although if the nightmare moves more than 150 feet away from her, it immediately returns whence it came.
+Multiple castings of this spell replace the previous nightmare with a new one.
+   

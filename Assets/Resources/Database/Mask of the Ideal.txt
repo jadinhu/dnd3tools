@@ -1,0 +1,17 @@
+<b>Mask of the Ideal</b>(Complete Mage)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 2,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+Your voice and features become more refined and pleasing.
+Mask of the ideal shifts everything toward an ideal form.
+Any creature that perceives you in any fashion beholds something that it finds aesthetically pleasing.
+You gain a +4 competence bonus on Bluff and Diplomacy checks, as well as on Disguise checks made to disguise yourself (but not others).
+You also gain a +4 competence bonus on any Charisma check you make to influence a creature that you have enchanted (such as with charm person) or conjured (such as with planar binding).
+   

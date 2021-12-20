@@ -1,0 +1,22 @@
+<b>Tainted Aura</b>(Oriental Adventures)
+
+Abjuration [Evil]
+ <b>Level:</b>   Maho 9,   
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 20 ft.
+ <b>Target:</b> One creature/level in a 20-ft.-radius burst centered on you
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+A malevolent darkness surrounds the subjects, protecting them from attacks, granting them resistance to spells cast by untainted creatures, and infecting such creatures with the Shadowlands Taint when they strike the subjects.
+This abjuration has four effects:
+First, the warded creatures gain a +4 deflection bonus to AC and a +4 resistance bonus on saves.
+Unlike the effect of protection from good, this benefit applies against all attacks, not just against attacks by good creatures.
+Second, the warded creatures gain SR 25 against good spells and spells cast by creatures with neither a Taint score nor the Shadowlands subtype.
+Third, the abjuration blocks possession and mental influence, just as protection from good does.
+Finally, if an untainted creature succeeds at a melee attack against a warded creature, the offending attacker gains a Taint score of 1d3 (Fortitude save negates).
+Focus: A fragment of an oni's body, such as a claw, tooth, or bone.
+   

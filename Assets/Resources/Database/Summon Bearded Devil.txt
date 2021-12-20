@@ -1,0 +1,19 @@
+<b>Summon Bearded Devil</b>(Planar Handbook)
+
+Conjuration (Summoning) [Evil, Lawful]
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One summoned bearded devil
+ <b>Duration:</b> Concentration (maximum of 1 round/level) plus 1 round
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell summons a bearded devil from the Nine Hells of Baator.
+It appears where you designate and acts immediately, on your turn.
+It understands your speech (regardless of your language), and it follows your commands to the best of its ability.
+You must concentrate on the spell's effect, but commanding the creature is a free action.
+A summoned creature cannot summon or otherwise conjure another creature, nor can it use any teleportation or planar travel abilities.
+ <b>Also appears in</b>   Spell Compendium     

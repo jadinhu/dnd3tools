@@ -1,0 +1,22 @@
+<b>Morality Undone</b>(Lords of Madness)
+
+Enchantment [Evil, Mind-Affecting]
+ <b>Level:</b>  Bard 5,  Cleric 5,   Corruption 4,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One nonevil creature
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster turns one creature evil.
+The chaotic/neutral/lawful component of the subject's alignment is unchanged.
+The subject retains whatever outlook, allegiances, and relationships it had before, as long as they do not conflict with the new alignment.
+Otherwise, it acts with its new selfish, bloodthirsty, and cruel outlook on all things.
+For example, a wizard might not immediately turn on her fighter companion for no apparent reason, particularly in the middle of a combat when they're fighting on the same side.
+But she might allow her friend to be hurt or killed if her friend is carrying something valuable she could recover later, or she might use spells to control or deceive her friend to get what she wants.
+She might even eventually decide to betray or attack her friend if there is some potential gain involved.
+Arcane Material Component: A powdered holy symbol.
+ <b>Also appears in</b>   Fiendish Codex I: Hordes of the Abyss  Book of Vile Darkness     

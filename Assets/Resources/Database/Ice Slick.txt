@@ -1,0 +1,20 @@
+<b>Ice Slick</b>(Frostburn)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Cleric 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> One 20-ft. square
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+An ice slick spell covers a solid surface with a layer of slippery ice.
+Any creature entering the area or caught in it when the spell is cast must make a successful Balance check or slip, skid, and fall.
+Those that succeed on the skill check can move at half speed across the surface, or can skate or glide normally.
+However, those that remain in the area must each make a new skill check every round to avoid falling and be able to move.
+The DM should adjust skill checks by circumstance.
+For example, a creature charging down a hill that is suddenly iced has little chance to avoid the effect, but its ability to exit the affected area is almost assured (whether it wants to or not).
+   

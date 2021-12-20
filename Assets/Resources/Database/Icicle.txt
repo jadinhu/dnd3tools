@@ -1,0 +1,22 @@
+<b>Icicle</b>(Frostburn)
+
+Abjuration [Cold]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> One 10-ft. square section of ceiling or doorframe
+ <b>Duration:</b> Until discharged (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create icicles on a ceiling, doorway, or similar overhang.
+The icicles fall when a creature walks beneath them, dealing 4d6 points of piercing damage.
+Anyone directly under the area takes this damage with no saving throw.
+Others within 5 feet of the icicles take half damage, or none if they succeed on a Reflex saving throw.
+The caster and any characters you choose can walk under the icicles or through the doorway without triggering the ice attack.
+Likewise, you can remove the icicles whenever desired.
+Others can remove them with a successful dispel magic or 10 points of fire damage.
+However, an unsuccessful attempt to dispel or melt the icicles automatically triggers the attack.
+   

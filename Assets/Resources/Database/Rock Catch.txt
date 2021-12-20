@@ -1,0 +1,18 @@
+<b>Rock Catch</b>(Shining South)
+
+Transmutation
+ <b>Level:</b>  Cleric 2,  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> One creature touched
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A single creature you touch gains the ability to catch hurled rocks of Small to Large size (including projectiles of a similar shape and size, such as catapult ammunition).
+Once per round, as an immediate action (a free action taken during another creature's turn), when the subject of this spell would normally be hit by a rock, he can make a Reflex save to catch it.
+The DC for catching a Small or smaller rock is 15, 20 for a Medium one, and 25 for a Large one.
+Caught rocks must be subsequently dropped as part of the action.
+   

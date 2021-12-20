@@ -1,0 +1,15 @@
+<b>Near Horizon</b>(Complete Mage)
+
+Divination
+ <b>Level:</b>  Assassin 2,  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 3 rounds
+
+ 	
+The horizon seems to lurch nearer to you as your eyes attain superhuman acuity.
+You gain a mystical insight into targets most people can barely see.
+For the duration of the spell, you take no range penalties when using ranged weapons, though they are still limited to their normal maximum distance.
+   

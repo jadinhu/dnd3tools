@@ -1,0 +1,19 @@
+<b>Firebrand</b>(Magic of Faerun)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> One 5-ft.-radius burst/level (S)
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create up to one mass of flame per level to explode upon the battlefield.
+Each mass of flame is treated as a 5-foot-radius burst and deals 1d6 points of fire damage/level (maximum 15d6) to all creatures within the area.
+The bursts do not need to be contiguous, and may be distributed within range as you see fit.
+Burst effects that overlap do not inflict additional damage.
+Material Component: A flask of alchemist's fire.
+ <b>Also appears in</b>   Spell Compendium     

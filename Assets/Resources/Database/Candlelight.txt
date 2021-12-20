@@ -1,0 +1,20 @@
+<b>Candlelight</b>(Ghostwalk)
+
+Evocation [Light]
+ <b>Level:</b>  Bard 0,  Cleric 0,  Druid 0,  Sorcerer 0,  Wizard 0,    
+<b>Components:</b>V, M, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You cause an object to glow like a candle, shedding light in a 5-foot radius from the point you touch.
+The effect is immobile, but it can be cast on a movable object if desired.
+The light produced by this cantrip is not strong enough to counter or dispel any magical darkness.
+Invented by the elves for use in nighttime ceremonies, candlelight has made its way into common usage.
+It is particularly useful to novices and apprentices who need to spend long hours in study.
+Arcane Material Component: A tiny candle.
+   

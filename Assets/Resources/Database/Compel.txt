@@ -1,0 +1,24 @@
+<b>Compel</b>(Oriental Adventures)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Shaman 8,   Ancestor 8,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You force the subject of the spell to change alignment, specifying the creature's new alignment.
+Creatures whose alignments are listed as &quot;always&quot; a specific alignment, and characters who would lose class abilities if
+they changed to the alignment you specify, gain a +4 bonus on their saving throws against the spell.
+Outsiders with an alignment-based type modifier (Chaotic, Evil, Good, or Lawful) are immune to the effects of this spell.
+Alteration in alignment is mental as well as moral, and the individual changed by the spell thoroughly enjoys his new outlook.
+If the subject's comrades have an alignment outlook that differs significantly from his, he may abandon them or even take actions against them.
+This is up to the discretion of the DM; the spell has no effect on determining this, as it is more a matter of conscience.
+Another compel spell, a wish, or a miracle is required to reverse the effects of the spell; the subject makes no attempt to return to the former alignment.
+In fact, he views the prospect with horror and avoids it in any way possible.
+Thus, if a spellcaster were to cast compel upon him again, causing him to revert to his former alignment or following a new one, he would again receive a saving throw as outlined above.
+   

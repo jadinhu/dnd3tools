@@ -1,0 +1,20 @@
+<b>Unshape Soulmeld</b>(Magic of Incarnum)
+
+Abjuration
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You unshape (destroy) one soulmeld currently shaped on the target creature.
+You can choose a specific soulmeld if you wish; otherwise, the soulmeld affected is chosen randomly from all those currently shaped on the target.
+To succeed in unshaping the soulmeld, you must make a caster level check (1d20 + your caster level, maximum +15) against a DC of 11 + the meldshaper level of the soulmeld (add +4 to the DC if the soulmeld is bound to a chakra).
+If the unshaped soulmeld was bound to one of the target's chakras, the target takes damage equal to 3d6 points plus 1 additional point per caster level (maximum 3d6+15).
+Essentia invested in an unshaped soulmeld returns to the target's essentia pool.
+If the target creature has no soulmelds shaped, this spell has no effect.
+   

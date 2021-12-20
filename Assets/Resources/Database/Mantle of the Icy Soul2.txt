@@ -1,0 +1,19 @@
+<b>Mantle of the Icy Soul</b>(Spell Compendium, p. 138)
+
+Transmutation [Cold]
+ <b>Level:</b>  Druid 5,  Cleric 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>As you touch the creature, a chill sweeps through you and down your arm. As the spell takes effect, the creature's body changes hue, becoming an icy blue.</b>
+	
+The subject creature gains the cold subtype, granting it immunity to cold and vulnerability to fire (the creature takes half again as much damage from fire effects). A fire creature subjected to this spell does not gain the cold subtype, but it loses the fire subtype for the duration.
+	
+Material Component: A pinch of sapphire dust worth 10 gp.
+ <b>Also appears in</b>   Frostburn     

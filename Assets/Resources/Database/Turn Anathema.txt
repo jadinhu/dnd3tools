@@ -1,0 +1,22 @@
+<b>Turn Anathema</b>(Complete Champion)
+
+Enchantment (Compulsion) [Evil, Good, Lawful, Mind Affecting and Chaotic]
+ <b>Level:</b>  Blackguard 2,  Cleric 2,  Paladin 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+When you clutch your holy symbol, it pulses briefly with divine power, then grows oddly cold beneath your fingers.
+Choose one non-neutral aspect of your own alignment � ;
+chaotic, evil, good, or lawful.
+If you are neutral, you must choose an alignment component for this spell when you first cast it, and this choice cannot be altered for subsequent castings unless your alignment has changed in such a way as to make that choice unsuitable.
+The spell takes on the descriptor of the selected alignment component.
+Upon casting this spell, you can use one of your daily turn or rebuke attempts to turn creatures with the opposing alignment subtype as though they were undead.
+For instance, if you cast turn anathema as a good spell, you could attempt to turn creatures of the evil subtype, such as demons.
+You could not, however, turn a red dragon, because although it is an evil creature, it lacks the evil subtype.
+This spell allows only turning, not rebuking or destroying, even if you normally rebuke rather than turn.
+You can use as many of your daily turn/rebuke attempts as you wish in this way for the duration of the spell.
+   

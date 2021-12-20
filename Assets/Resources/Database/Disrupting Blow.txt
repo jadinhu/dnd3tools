@@ -1,0 +1,16 @@
+<b>Disrupting Blow</b>(Tome of Battle: The Book of Nine Swords, p. 63)
+
+Diamond Mind (Strike)
+ <b>Level:</b>  Swordsage 5 (Two Diamond Mind maneuvers),  Warblade 5 (Two Diamond Mind maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates
+
+ 	
+<b>With a combination of brute force, keen timing, and exacting aim, you force your opponent into an awkward position that ruins his next action.</b>
+	
+As part of this maneuver, you make a melee attack. If this attack hits, your target takes normal melee damage and must make a Will save (DC 15 + your Str modifier) or be unable to take any actions for 1 round. The target does not suffer any other drawbacks or penalties. He can still make attacks of opportunity but is unable to take immediate actions until his next turn.
+   

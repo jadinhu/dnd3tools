@@ -1,0 +1,14 @@
+<b>Alarm, Greater</b>(Spell Compendium, p. 8)
+
+Abjuration
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Duration:</b> 4 hours/level (D)
+
+ 	
+<b>Uttering a low chant, you ring a crystal bell with the drumming of your fingernails, bringing into being an invisible warded area.</b>
+	
+This spell functions like alarm (PH 197), and in addition the spell works on creatures traveling through the area on coterminous or coexistent planes (<span class="caps">DMG</span> 150), such the Ethereal Plane and the Plane of Shadow.
+	
+<b>Focus</b>: A bell made of carved crystal, worth at least 100 gp.
+   

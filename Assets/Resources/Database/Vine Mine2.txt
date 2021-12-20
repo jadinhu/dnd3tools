@@ -1,0 +1,21 @@
+<b>Vine Mine</b>(Spell Compendium, p. 230)
+
+Conjuration (Creation)
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 10-ft.-radius/level spread
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You hold the crown of ivy leaves aloft, invoking the powers of nature, and an explosion of plant growth fills the area � ;plants over which you have control.</b>
+	
+You create and direct the rapid growth of vines. When you cast the spell, choose one of the following effects:
+			Climbing aid (treat as knotted ropes)		Bind helpless targets (Escape Artist DC 25 to escape)		Hamper movement (as heavy undergrowth)		Camouflage (add +4 competence bonus on Hide checks)		
+As a standard action, you can redirect the vines' growth (thus changing the effect).
+	
+Material Component: A crown of ivy leaves.
+ <b>Also appears in</b>   Magic of Faerun     

@@ -1,0 +1,9 @@
+<b>Mantle of Good</b>(Planar Handbook)
+
+Abjuration [Good]
+ <b>Level:</b>  Cleric 3,  Paladin 3,    
+<b>Components:</b>
+
+ 	
+This spell functions like mantle of chaos, except that you are surrounded by shimmering white holy energy, and mantle of good grants spell resistance against spells with the evil descriptor.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,35 @@
+<b>Elminster's Evasion</b>(Forgotten Realms Campaign Setting)
+
+Evocation
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, AF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> At least 10 minutes (see text)
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Until discharged
+
+ 	
+This powerful variant of the contingency spell automatically transfers you and everything you carry or touch (except for other creatures or objects that weigh more than 50 pounds) to a locale you name.
+When casting Elminster's evasion, you must specify the locale and detail up to six specific conditions that trigger the spell.
+When any of these situations occurs, your body, mind, and soul are whisked away to the location.
+The location can be any place you have visited, even on another plane.
+Also when casting the spell, you cast teleport without error and one or two other spells that are to take effect when you arrive at your destination.
+The 10-minute casting time is the minimum total for all castings.
+If the companion spells have combined casting times longer than 10 minutes, use the combined casting times instead.
+The teleport without error spell whisks you through the Astral Plane to your destination, so anything that prevents astral travel also foils Elminster's evasion.
+The spells to be brought into effect by the evasion must be ones that affect your person (feather fall, levitate, fly, teleport, and so on) and be of a spell level no higher than one-third of your caster level (maximum 6th level).
+The conditions you specify to bring the spell into effect must be clear, although they can be general (see the contingency spell, in Chapter 11 of the Player's Handbook).
+The spell pulls together your mind, body, and soul if they have been separated.
+For example, if your soul is trapped in a magic jar when the evasion is triggered, your soul returns to your body.
+(This breaks the magic jar spell).
+If your body or soul has been magically trapped (for example with a binding, imprisonment, or trap the soul spell),
+you must succeed at a caster level check (DC 11 + the caster level of the person who cast the trapping spell).
+If you succeed, the trapping spell is broken and the evasion works.
+If you fail, the evasion fails.
+If you're dead when you arrive at your destination, your soul immediately departs just as though you died at your destination.
+Material Components: Those of the companion spells, plus quicksilver; an eyelash of an ogre mage, ki-rin, or similar spell-using creature; and some of your own blood, freshly drawn.
+Drawing the blood deals 1d4 points of temporary Constitution damage.
+Focus: A statuette of you carved from ivory and decorated with gems (worth at least 1,500 gp).
+You must carry the focus for the evasion to function.
+XP Cost: 5,000 XP.
+   

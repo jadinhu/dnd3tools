@@ -1,0 +1,28 @@
+<b>Wall of Sand</b>(Player's Guide to FaerÃ»n)
+
+Conjuration (Creation) [Earth]
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,  Druid 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Sand wall whose area is up to one 5-ft. square/level (S)
+ <b>Duration:</b> Concentration + 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell conjures up a viscous, opaque wall of swirling sand.
+The spell must be cast so that it rests on a solid surface.
+Once cast, the wall is immobile.
+The sand is sufficiently thick to block ranged attacks, providing normal cover appropriate for its size, but creatures may attempt to force their way through it.
+Moving through the wall of sand is difficult, requiring a full-round action and a Strength check.
+A creature moves 5 feet through the wall of sand for every 5 points by which its Strength check result exceeds 15.
+Creatures within the wall of sand are considered blinded and deafened, and they are unable to speak or breathe.
+Thus, they may begin to suffocate if they remain within the wall too long (see page 304 of the Dungeon Master's Guide).
+Spells with verbal components cannot be cast within the wall, and any other spell requires a successful Concentration check (DC 20 + spell level).
+It is possible to attack a character inside or on the far side of the wall of sand with a melee weapon, provided that the following criteria are met.
+First, the attacker must have a general idea where the target is within the wall (that is, she must have seen her target enter the wall recently).
+Secondly, the target must be no deeper into the wall than the reach of the attacker's weapon (or, in the case of creatures on the far side of the wall, the wall itself must not be deeper than the attacker's reach).
+Even then, the target benefits from cover and total concealment.
+Any open, unprotected flame thrust into the wall of sand is instantly extinguished.
+Arcane Material Component: A handful of sand.
+ <b>Also appears in</b>   Sandstorm  Spell Compendium     

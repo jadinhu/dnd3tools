@@ -1,0 +1,17 @@
+<b>Decoy Image</b>(Magic of Faerun)
+
+Illusion (Figment)
+ <b>Level:</b>  Ranger 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> Figment that mimics you and all allies within 50 ft. of you
+ <b>Duration:</b> 10 minutes/level (D)
+
+ 	
+In order to flush ambushes, you project a duplicate image of yourself and your companions.
+This spell creates an illusion complete with visual, sound, smell, texture, and temperature.
+It mimics exactly what you and any of your allies within 50 feet of you do.
+If the terrain differs significantly between that of the illusion and that of the characters, or if any character takes an action the illusion can't duplicate (for instance, climbing a tree if none are present for the illusory duplicate to mimic), onlookers automatically receive a saving throw.
+In addition, anyone who moves out of the spell's effect disappears from the illusion.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,16 @@
+<b>Trollshape</b>(Player's Handbook II)
+
+Transmutation (Polymorph)
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Your muscles ripple, and you hear bones crackling underneath your now mottled green skin as your form reshapes to that of a horrid troll.
+You take on the form and abilities of a troll (MM 247).
+You gain 30 temporary hit points, which disappear at the end of the spell's duration.
+See the description of the new polymorph subschool on page 95 formore details.
+   

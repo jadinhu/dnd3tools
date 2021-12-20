@@ -1,0 +1,26 @@
+<b>Body Ward</b>(Complete Champion)
+
+Abjuration
+ <b>Level:</b>  Cleric 2,  Druid 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level or until expended
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Your comrade's body grows denser and stronger beneath your touch.
+You grant the subject a limited resistance to ability damage.
+You choose one of the three physical ability scores � ;
+Strength, Dexterity, or Constitution � ;when you cast the spell.
+Body ward absorbs the next 5 points of damage dealt to that ability score, regardless of its source.
+If, for instance, an ally you had warded against Strength damage were subsequently poisoned for 6 points of Strength damage, she would take only 1 point.
+The spell lasts until its duration expires, or until the 5 points of protection are used up, whichever comes first.
+When cast multiple times upon the same subject, body ward has a synergistic effect.
+If you use it to affect two physical abilities simultaneously, it wards each against 8 points of damage.
+If you use it to affect all three physical abilities at once, it wards each against 10 points of damage.
+To achieve this synergy, the multiple castings must occur in subsequent rounds.
+The benefits from multiple castings of body ward that protect the same ability score do not stack.
+   

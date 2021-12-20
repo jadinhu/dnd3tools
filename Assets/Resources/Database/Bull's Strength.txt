@@ -1,0 +1,17 @@
+<b>Bull's Strength</b>(Player's Handbook v.3.5, p. 207)
+
+Transmutation
+ <b>Level:</b>  Cleric 2, Blackguard 2,  Sha'ir 2,  Wu Jen 2 (Earth),  Death Delver 2,  Duskblade 2,  Fatemaker 2,  Knight of the Chalice 2,  Knight of the Weave 2,  Vassal of Bahamut 2,  Hunter of the Dead 2,  Runescarred Berserker 2,  Disciple of Thrym 2,  Adept 2,  Wizard 2,  Sorcerer 2,  Paladin 2,  Druid 2,  Urban Druid 2,   Strength 2,  Abyss 2,  Wrath (SpC) 2,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject becomes stronger. The spell grants a +4 enhancement bonus to Strength, adding the usual benefits to melee attack rolls, melee damage rolls, and other uses of the Strength modifier.
+	
+<b>Arcane Material Component:</b> A few hairs, or a pinch of dung, from a bull.
+   

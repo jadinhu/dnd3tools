@@ -1,0 +1,21 @@
+<b>Tongues</b>(Player's Handbook v.3.5, p. 294)
+
+Divination
+ <b>Level:</b>  Bard 2,  Vigilante 2,  Sorcerer 3,  Savant 3 (Arcane, Divine lvl 4),  Jester 3,  Urban Druid 3,  Sha'ir 3,  Wu Jen 3,  Fatemaker 3,  Ebonmar Infiltrator 3,  Adept 3,  Wizard 3,  Court Herald 3,  Cleric 4,  Vassal of Bahamut 4,  Death Master 4,   Herald 3,  Community 4,   
+<b>Components:</b>V, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell grants the creature touched the ability to speak and understand the language of any intelligent creature, whether it is a racial tongue or a regional dialect.
+The subject can speak only one language at a time, although it may be able to understand several languages.
+Tongues does not enable the subject to speak with creatures who don't speak.
+The subject can make itself understood as far as its voice carries.
+This spell does not predispose any creature addressed toward the subject in any way.
+Tongues can be made permanent with a permanency spell.
+Arcane Material Component: A small clay model of a ziggurat, which shatters when the verbal component is pronounced.
+   

@@ -1,0 +1,18 @@
+<b>Bloodfreeze Arrow</b>(Champions of Ruin)
+
+Transmutation
+ <b>Level:</b>  Assassin 4,  Ranger 4,  Justice of Weald and Woe 4,    
+<b>Components:</b>V, M, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> One masterwork arrow or bolt
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell is cast upon a masterwork arrow or bolt, transforming its head into blue ice.
+In addition to taking normal damage from the missile, the target takes 2d6 points of cold damage and is paralyzed.
+A successful Fortitude save negates the paralysis, and the target can make a new save each round (at the start of the caster's turn).
+Material Component:Masterwork arrow or bolt.
+   

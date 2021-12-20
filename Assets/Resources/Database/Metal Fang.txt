@@ -1,0 +1,18 @@
+<b>Metal Fang</b>(Complete Champion)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The subject's natural weapons take on a gleaming, metallic sheen.
+You temporarily transform one of the subject's natural weapons into either cold iron or silvered, thereby allowing it to bypass the appropriate form of damage reduction.
+The affected natural weapon also counts as magical for the purpose of overcoming damage reduction, though it gains no enhancement bonuses on attack or damage rolls.
+You can cast the spell twice on the same weapon to make it function as both cold iron and silvered.
+   

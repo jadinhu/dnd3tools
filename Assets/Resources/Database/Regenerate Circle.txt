@@ -1,0 +1,9 @@
+<b>Regenerate Circle</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Conjuration (Healing)
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>
+
+ 	
+This spell is the same as regenerate ring, except that it grants fast healing at the rate of 3 hit points per round.
+   

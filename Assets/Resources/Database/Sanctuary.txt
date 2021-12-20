@@ -1,0 +1,21 @@
+<b>Sanctuary</b>(Player's Handbook v.3.5, p. 274)
+
+Abjuration
+ <b>Level:</b>  Cleric 1,  Healer 1,  Fatemaker 1,  Death Master 1,  Jester 1,  Savant 1 (Divine),   Protection 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> No
+
+ 	
+Any opponent attempting to strike or otherwise directly attack the warded creature, even with a targeted spell, must attempt a Will save.
+If the save succeeds, the opponent can attack normally and is unaffected by that casting of the spell.
+If the save fails, the opponent can't follow through with the attack, that part of its action is lost, and it can't directly attack the warded creature for the duration of the spell.
+Those not attempting to attack the subject remain unaffected.
+This spell does not prevent the warded creature from being attacked or affected by area or effect spells.
+The subject cannot attack without breaking the spell but may use nonattack spells or otherwise act.
+This allows a warded cleric to heal wounds, for example, or to cast a bless spell, perform an augury, summon creatures, and so on.
+   

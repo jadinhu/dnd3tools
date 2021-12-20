@@ -1,0 +1,16 @@
+<b>Light of Faith</b>(Complete Champion)
+
+Abjuration [Good]
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Holy symbol touched
+ <b>Duration:</b> 1 round/level, or until discharged
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A warm, comforting glow surrounds your holy symbol, renewing your faith and causing the wicked monsters before you to recoil in fear.
+This spell grants you a sacred (if you are good or neutral) or profane (if you are evil) bonus equal to one-half your divine caster level (maximum +5) on your next turning check.
+   

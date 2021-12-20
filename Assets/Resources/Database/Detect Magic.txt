@@ -1,0 +1,33 @@
+<b>Detect Magic</b>(Player's Handbook v.3.5, p. 219)
+
+Divination
+ <b>Level:</b>  Bard 0,  Urban Druid 0,  Jester 0,  Death Master 0,  Sha'ir 0,  Wu Jen 0,  Blighter 0,  Beguiler 0,  Court Herald 0,  Cleric 0,  Healer 0,  Adept 0,  Druid 0,  Sorcerer 0,  Wizard 0,  Ebonmar Infiltrator 1,  Dread Necromancer 1,  Nentyar Hunter 1,  Hoardstealer 1,  Vigilante 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Area:</b> Cone-shaped emanation
+ <b>Duration:</b> Concentration, up to 1 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You detect magical auras. The amount of information revealed depends on how long you study a particular area or subject.
+	
+<b>1st Round:</b> Presence or absence of magical auras.
+	
+<b>2nd Round:</b> Number of different magical auras and the power of the most potent aura.
+	
+<b>3rd Round:</b> The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make Spellcraft skill checks to determine the school of magic involved in each. (Make one check per aura; DC 15 + spell level, or 15 + half caster level for a nonspell effect).
+	
+Magical areas, multiple types of magic, or strong local magical emanations may distort or conceal weaker auras.
+	
+<b>Aura Strength:</b> An aura's power depends on a spell's functioning spell level or an item's caster level. If an aura falls into more than one category, detect magic indicates the stronger of the two. 
+	<table>		<tr>			<th colspan="1"></th>			<th style="text-align:center;" colspan="4">Aura Power </th>		</tr>		<tr>			<th>Spell or Object </th>			<th>Faint </th>			<th>Moderate </th>			<th>Strong </th>			<th>Overwhelming </th>		</tr>		<tr>			<td> Functioning spell (spell level) </td>			<td> 3rd or lower </td>			<td> 4th-6th </td>			<td> 7th-9th </td>			<td> 10th+ (deity level) </td>		</tr>		<tr>			<td> Magic Item (caster level) </td>			<td> 5th or lower </td>			<td> 6th-11th </td>			<td> 12th-20th </td>			<td> 21st+ (artifact) </td>		</tr>	</table>	
+Lingering Aura: A magical aura lingers after its original source dissipates (in the case of a spell) or is destroyed (in the case of a magic item). If detect magic is cast and directed at such a location, the spell indicates an aura strength of dim (even weaker than a faint aura). How long the aura lingers at this dim level depends on its original power:
+	<table>		<tr>			<th>Original Strength </th>			<th>Duration of Lingering Aura </th>		</tr>		<tr>			<td> Faint	</td>			<td> 1d6 rounds </td>		</tr>		<tr>			<td> Moderate	</td>			<td> 1d6 minutes </td>		</tr>		<tr>			<td> Strong	</td>			<td> 1d6Ã—10 minutes </td>		</tr>		<tr>			<td> Overwhelming	</td>			<td> 1d6 days </td>		</tr>	</table>	
+Outsiders and elementals are not magical in themselves, but if they are summoned, the conjuration spell registers.
+	
+Each round, you can turn to detect magic in a new area. The spell can penetrate barriers, but 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt blocks it.
+	
+Detect magic can be made permanent with a permanency spell.
+   

@@ -1,0 +1,9 @@
+<b>Cure Moderate Wounds</b>(Player's Handbook v.3.5, p. 216)
+
+Conjuration (Healing)
+ <b>Level:</b>  Runescarred Berserker 1,  Bard 2,  Nentyar Hunter 2,  Hunter of the Dead 2,  Healer 2,  Adept 2,  Cleric 2,  Savant 2 (Divine),  Ranger 3,  Paladin 3,  Druid 3,  Knight of the Weave 3,  Urban Druid 3,   Healing 2,   
+<b>Components:</b>
+
+ 	
+This spell functions like cure light wounds, except that it cures 2d8 points of damage +1 point per caster level (maximum +10).
+   

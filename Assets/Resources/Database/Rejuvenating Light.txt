@@ -1,0 +1,24 @@
+<b>Rejuvenating Light</b>(Complete Champion)
+
+Conjuration (Healing) [Light]
+ <b>Level:</b>  Cleric 7,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None or Fortitude negates; see text
+ <b>Spell Resistance:</b> No or yes; see text
+
+ 	
+A soft, comforting glow emanates from the object you've touched, filling the entire area with light and warmth.
+Though seemingly gentle, the light pierces the shadows like the rays of the sun.
+The object touched sheds light as a daylight spell (PH 216).
+In addition, every living creature within the area of bright light (a 60-foot radius) gains fast healing 1.
+This effect ends for a given creature if it moves out of the area of light but resumes should it reenter.
+Any undead creature within the area of light takes 1d6 points of positive energy damage per round.
+An undead creature that is particularly vulnerable to sunlight (such as a vampire) instead takes 2d6 points of damage per round.
+A successful Fortitude save negates this damage, but the affected creature must repeat the save every round, whether it succeeds or fails.
+If the undead creature has spell resistance, the spell must overcome it to deal damage.
+Rejuvenating light counters and dispels any darkness spell of equal or lower level.
+   

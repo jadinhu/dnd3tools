@@ -1,0 +1,15 @@
+<b>Living Prints</b>(Magic of Faerun)
+
+Divination
+ <b>Level:</b>  Harper Scout 3,  Ranger 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level
+
+ 	
+You perceive tracks as if they had just been made.
+You must notice the prints normally with a successful Search or Wilderness Lore check, but this spell eliminates any penalties to your tracking due to the passage of time or any rainfall since the making of the trail.
+This spell has no effect on tracks more than thirty days old.
+ <b>Also appears in</b>   Spell Compendium     

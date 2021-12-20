@@ -1,0 +1,17 @@
+<b>Smell of Fear</b>(Spell Compendium, p. 193)
+
+Transmutation
+ <b>Level:</b>  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your hand glows red briefly upon casting this spell, and after you slap your foe on the back, you try to hide a grin.</b>
+	
+You bestow on your target an aroma that attracts predatory animals. They prefer to attack the subject over other targets, and animals attacking the subject creature gain a +1 bonus per three caster levels (maximum +3) on attack rolls and damage rolls.
+   

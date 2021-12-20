@@ -1,0 +1,22 @@
+<b>Creeping Darkness</b>(Oriental Adventures)
+
+Evocation [Darkness]
+ <b>Level:</b>  Wu Jen 4,   Maho 4,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Cloud spreads 30 ft. wide and 20 ft. high (S)
+ <b>Duration:</b> 3 rounds/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates an amorphous cloud of inky blackness.
+You can shape and move the cloud as you desire during the duration of the spell if you maintain concentration on it and it remains within the range of the spell.
+You can move it up to 20 feet per round.
+It can seep through the smallest cracks and float through the air, as you desire.
+Creatures whose visual organs are within the cloud cannot see by normal vision or darkvision.
+The cloud also engulfs all sound within it, preventing creatures whose vocal organs are within the cloud from speaking or casting spells, and those whose auditory organs are within the cloud from hearing.
+A moderate wind (11+ mph) disperses the cloud in 5 rounds; a strong wind (21+ mph) disperses it in 2 rounds.
+Material Component: A whisker from an old black cat and a tiny bottle of smoke captured on a moonless night.
+ <b>Also appears in</b>   Complete Arcane     

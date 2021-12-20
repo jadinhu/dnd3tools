@@ -1,0 +1,9 @@
+<b>Revitalize Legacy, Greater</b>(Weapons of Legacy)
+
+Transmutation
+ <b>Level:</b>  Cleric 9,  Druid 9,  Shugenja 9,  Sorcerer 9,  Wizard 9,  Wu Jen 9,    
+<b>Components:</b>
+
+ 	
+This spell functions like least revitalize legacy, except that you regain one daily use of a chosen greater legacy ability.
+   

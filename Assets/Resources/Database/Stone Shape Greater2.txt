@@ -1,0 +1,10 @@
+<b>Stone Shape, Greater</b>(Underdark)
+
+Transmutation [Earth]
+ <b>Level:</b>  Cleric 5,  Druid 5,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>
+ <b>Target:</b> Stone or stone objects touched, up to 10 cu. ft. + 10 cu. ft./level
+
+ 	
+This spell functions like stone shape, except that it affects a much larger area.
+ <b>Also appears in</b>   Spell Compendium     

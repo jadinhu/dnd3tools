@@ -1,0 +1,27 @@
+<b>Transmute Rock to Lava</b>(Complete Arcane)
+
+Transmutation [Earth, Fire]
+ <b>Level:</b>  Druid 9,  Sorcerer 9,  Wizard 9,  Wu Jen 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> One 10-ft. cube
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+You transform natural, uncut, or unworked rock of any sort into an equal volume of red-hot molten lava.
+All creatures in the spell's area who make a successful Reflex save take 2d6 points of fire damage provided they can physically escape the area on their next turn.
+Creatures that fail their save, or those unable to escape the area, take 20d6 points of fire damage for each round they remain in the area.
+Creatures in the lava have their speed reduced to 5 feet and take a -2 penalty on attack rolls and to Armor Class.
+Even after leaving the area of the spell, creatures that were exposed to the lava take half damage (either 1d6 or 10d6) for an additional 1d3 rounds.
+If transmute rock to lava is cast upon the ceiling of a cavern or tunnel, the lava falls to the floor and spreads out in a 15-foot-radius pool at a depth of approximately 1-1/2 feet.
+The rain of lava deals 2d6 points of fire damage and 1d6 points of bludgeoning damage to anyone caught directly beneath (Reflex half).
+In addition, creatures take 2d6 points of fire damage each round when they are caught in the area of the pool, then 1d6 points of fire damage for 1d3 rounds after they escape.
+While constructions of worked stone can't be targeted with this spell, casting it on unworked stone below or adjacent to such structures does 10d6 points of fire damage per round to any part of the structure in contact with the lava.
+Wooden structures in contact with lava instantly burst into flame.
+The lava cools naturally from its surface toward its center, and it no longer deals fire damage after 2d6 hours as it slowly reverts to stone.
+Though a 15-foot-radius pool can take as long as two days to completely cool, the core of a 10-foot cube of lava might remain molten for a month or more.
+Magical or enchanted stone is not affected by the spell.
+   

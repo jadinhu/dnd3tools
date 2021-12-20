@@ -1,0 +1,23 @@
+<b>Mace of Odo</b>(Magic of Faerun)
+
+Evocation [Force]
+ <b>Level:</b>  Cleric 3 (Helm),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Mace of force
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Fortitude negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a glowing mace of force that appears in your hand.
+When used against a creature, you must make a melee touch attack against the target.
+If it hits, the mace of Odo deals 1d6 points of force damage per caster level (maximum 10d6).
+Undead creatures take an additional +1 point of damage per caster level (maximum +10).
+A creature struck by the mace must make a Fortitude save or be paralyzed for 1 round.
+While you are holding the mace, if you are targeted with a spell, you may choose to have the mace absorb that spell.
+The mace occupies your hand but (unlike holding the charge for a touch spell) does not disappear if you cast another spell.
+When the mace strikes a creature, is used to absorb a spell, or is removed from your grasp, it vanishes.
+The point in space where it vanished from glows as a light spell for the remainder of the duration.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

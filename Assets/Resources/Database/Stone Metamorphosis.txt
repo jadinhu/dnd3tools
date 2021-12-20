@@ -1,0 +1,19 @@
+<b>Stone Metamorphosis</b>(Underdark)
+
+Transmutation [Earth]
+ <b>Level:</b>  Cleric 4,  Druid 4,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Stone object touched, up to 10 cu. ft. + 1 cu. ft./level
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You can change an existing piece of rock to another type of rock.
+For instance, you can make crumblestone into granite, substantially strengthening it.
+(See Chapter 7 for more information on types of stone).
+Precious and semiprecious gems cannot be manufactured with this spell, and its effect does not change the monetary value of the affected stone object.
+Arcane Material Component: A grain of talc and a chip of obsidian.
+   

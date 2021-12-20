@@ -1,0 +1,16 @@
+<b>Boulder Roll</b>(Tome of Battle: The Book of Nine Swords, p. 81)
+
+Stone Dragon (Boost)
+ <b>Level:</b>  Crusader 4,  Swordsage 4,  Warblade 4,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full-round action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+<b>Like a boulder tumbling down a mountainside, you slam through your enemies.</b>
+	
+You are an implacable foe once you gain enough momentum. As you move across the battlefield, your foes must stand aside or be crushed beneath your feet.
+	
+If you make an overrun attack (PH 157), you can initiate this boost. You gain a +4 bonus on your Strength check made to overrun, and if you fail your check, your target can?t knock you prone. You simply stop moving in the last legal space you occupied. You do not provoke attacks of opportunity for the movement or the overrun attempts.</p   

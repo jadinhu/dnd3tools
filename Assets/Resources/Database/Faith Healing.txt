@@ -1,0 +1,17 @@
+<b>Faith Healing</b>(Magic of Faerun)
+
+Conjuration (Healing)
+ <b>Level:</b>  Blackguard 1,  Cleric 1,  Paladin 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will half (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+When laying your hand upon a living creature, you channel positive energy that cures 8 points of damage +1 point per caster level (up to +5).
+The spell only works on a creature with the same patron as you.
+A target with no patron or a different patron than you is unaffected by the spell, even if the target would normally be harmed by positive energy.
+ <b>Also appears in</b>   Spell Compendium     

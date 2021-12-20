@@ -1,0 +1,17 @@
+<b>Conviction</b>(Miniatures Handbook)
+
+Abjuration
+ <b>Level:</b>  Cleric 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell bolsters the mental, physical, and spiritual strength of the creature touched.
+The spell grants the subject a +2 morale bonus on all saving throws, with an additional +1 to the bonus for every six caster levels you have (maximum +5 morale bonus at 18th level).
+Material Component: A small parchment with a bit of holy text written upon it.
+ <b>Also appears in</b>   Spell Compendium     

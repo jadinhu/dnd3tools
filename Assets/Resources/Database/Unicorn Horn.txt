@@ -1,0 +1,19 @@
+<b>Unicorn Horn</b>(Complete Mage, p. 121)
+
+Transmutation [Good]
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Effect:</b> One horn that sprouts from your forehead
+ <b>Duration:</b> 1 minute/level (D) or until expended
+
+ 	
+A horn like a unicorn's sprouts from your forehead. When you complete this spell, you grow a single horn about as long as your forearm from your forehead. As a standard action, you can use this horn to make a single gore attack as a natural weapon. A hit from the horn deals 1d8 points of piercing damage (if you are Medium) plus 1-1/2 times your Strength bonus. The horn overcomes damage reduction as if it were a magic weapon.
+	
+Alternatively, you can use the horn in a charge attack. In this case, you deal double damage when you hit, or triple damage on a critical hit. 
+	
+As a swift action while the spell lasts, you can invoke the power of good. Doing this gives the horn a +3 enhancement bonus on attack rolls and damage rolls, allows it to overcome damage reduction as if it were good-aligned, and makes it deal an extra 3d6 points of damage against any evil-aligned creature of the following types: fey, giant, magical beast, or outsider. This effect lasts for 1 round, after which the spell's duration ends.
+	
+If this spell is in effect when you cast unicorn blood or unicorn heart, the combined magic has an enhanced effect. See those spells for details.
+   

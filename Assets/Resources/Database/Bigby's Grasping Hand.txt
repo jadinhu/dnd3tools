@@ -1,0 +1,17 @@
+<b>Bigby's Grasping Hand</b>(Player's Handbook v.3.5, p. 204)
+
+Evocation [Force]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,  Sha'ir 7,   Strength 7,  Tyranny 7,   
+<b>Components:</b>V, S, AF, DF, 
+
+ 	
+This spell functions like Bigby's interposing hand, except the hand can also grapple one opponent that you select.
+The grasping hand gets one grapple attack per round.
+Its attack bonus to make contact equals your caster level + your Intelligence, Wisdom, or Charisma modifier (for wizards, clerics, and sorcerers, respectively), +10 for the hand's Strength score (31), -1 for being Large.
+Its grapple bonus is this same figure, except with a +4 modifier for being Large instead of -1.
+The hand holds but does not harm creatures it grapples.
+Directing the spell to a new target is a move action.
+The grasping hand can also bull rush an opponent as Bigby's forceful hand does, but at a +16 bonus on the Strength check (+10 for Strength 35, +4 for being Large, and a +2 bonus for charging, which it always gets), or interpose itself as Bigby's interposing hand does.
+Clerics who cast this spell name it for their deities � ;Kord's grasping hand, for example.
+Arcane Focus: A leather glove.
+   

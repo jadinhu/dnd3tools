@@ -1,0 +1,19 @@
+<b>Arrow of Bone</b>(Spell Compendium, p. 16)
+
+Necromancy [Death]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> One projectile or thrown weapon touched
+ <b>Duration:</b> 1 hour/level or until discharged
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You complete the long ritual needed to cast the spell, scribing arcane runes into the item. It changes before your eyes into an identical item made of bone. The runes glow with dark magic and the weapon feels cold to the touch.</b>
+	
+When thrown or fired at a creature as a normal ranged attack, the weapon gains a +4 enhancement bonus on attack rolls and damage rolls. In addition, any living creature struck by an arrow of bone must succeed on a Fortitude save or be instantly slain. A creature that makes its save instead takes 3d6 points of damage +1 point per caster level (maximum +20). Regardless of whether the attack hits, the magic of the arrow of bone is discharged by the attack, and the missile is destroyed.
+	
+<b>Material Component</b>: A tiny sliver of bone and an oil of magic weapon (50 gp).
+   

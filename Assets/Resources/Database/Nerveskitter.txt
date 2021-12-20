@@ -1,0 +1,17 @@
+<b>Nerveskitter</b>(Spell Compendium, p. 146)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You suffuse your ally with a brief, blue glow. He jerks away from you, as if he can anticipate your next action.</b>
+	
+You cast this spell when you and your party roll for initiative. Unlike other immediate actions, you can cast this spell while flat-footed. You enhance the subject's reactions in combat, granting it a +5 bonus on its initiative check for the current encounter. If the subject does not make an initiative check within 1 round, this spell has no effect.
+   

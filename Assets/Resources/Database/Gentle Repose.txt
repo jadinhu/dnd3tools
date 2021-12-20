@@ -1,0 +1,20 @@
+<b>Gentle Repose</b>(Player's Handbook v.3.5, p. 235)
+
+Necromancy
+ <b>Level:</b>  Cleric 2,  Savant 2 (Divine),  Death Master 2,  Divine Bard 2,  Slayer of Domiel 2,  Healer 2,  Dread Necromancer 2,  Wizard 3,  Sorcerer 3,  Sha'ir 3,   Time 2,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Corpse touched
+ <b>Duration:</b> One day/level
+ <b>Saving Throw:</b> Will negates (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You preserve the remains of a dead creature so that they do not decay.
+Doing so effectively extends the time limit on raising that creature from the dead (see raise dead).
+Days spent under the influence of this spell don't count against the time limit.
+Additionally, this spell makes transporting a fallen comrade more pleasant.
+The spell also works on severed body parts and the like.
+Arcane Material Component: A pinch of salt, and a copper piece for each eye the corpse has (or had).
+   

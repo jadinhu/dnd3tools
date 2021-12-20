@@ -1,0 +1,15 @@
+<b>Resist Energy, Mass</b>(Complete Arcane)
+
+Abjuration
+ <b>Level:</b>  Cleric 3,  Druid 3,  Sorcerer 4,  Wizard 4,  Wu Jen 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature/level, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+As resist energy, except that it affects all targeted creatures.
+ <b>Also appears in</b>   Spell Compendium     

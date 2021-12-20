@@ -1,0 +1,21 @@
+<b>Roar of the Waves</b>(Stormwrack)
+
+Illusion (Pattern) [Fear, Mind-Affecting, Sonic]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One target/2 levels, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The ocean's voice is a terrible and majestic thing.
+Bards understand the power of the ocean's song and have harnessed that in this spell.
+The targets of this spell are suddenly bombarded by the sound of the roaring ocean.
+The target is deafened for the duration of the spell.
+Additionally, each target must make a Will save or be shaken.
+This sound can be heard by anyone within 30 feet of the targets, but only those actually targeted are affected.
+Material Component: Pieces of shell that have been battered by the surf.
+   

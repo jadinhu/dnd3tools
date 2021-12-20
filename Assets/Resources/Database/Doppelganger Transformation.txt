@@ -1,0 +1,17 @@
+<b>Doppelganger Transformation</b>(Races of Eberron, p. 184)
+
+Transmutation [Mindset]
+ <b>Level:</b>   Transformation 7,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+You take on some of the qualities of a doppelganger, gaining improved mental and physical abilities. When you cast this spell, you gain a +4 enhancement bonus to Wisdom and a +2 enhancement bonus to Strength, Dexterity, Constitution, and Charisma. Your skin toughens, granting you a +4 natural armor bonus to AC (though this doesn't stack with existing natural armor). You also gain darkvision out to 60 feet and are immune to sleep and charm effects for the duration of the spell.
+	
+<b>Special:</b> Changeling spellcasters cast this spell at +1 caster level.
+	
+<b>Mindset:</b> While this spell is prepared, you gain a +2 bonus on Bluff and Disguise checks and a +2 bonus on saving throws against sleep and charm effects.
+   

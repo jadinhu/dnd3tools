@@ -1,0 +1,18 @@
+<b>Unholy Storm</b>(Spell Compendium, p. 227)
+
+Conjuration (Creation)
+ <b>Level:</b>  Blackguard 3,  Cleric 3,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Area:</b> Cylinder (20-ft. radius, 20 ft. high)
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You call upon the forces of evil, and a heavy rain begins to fall in the area you indicate, its raindrops foul and steaming.</b>
+	
+A driving rain falls around you. It falls in a fixed area once created. The storm reduces hearing and visibility, resulting in a -4 penalty on Listen, Spot, and Search checks. It also applies a -4 penalty on ranged attacks made into, out of, or through the storm. Finally, it automatically extinguishes any unprotected flames and has a 50% chance to extinguish protected flames (such as those of lanterns). The rain damages good creatures, dealing 2d6 points of damage per round (good outsiders take double damage).
+	
+Material Component: A flask of unholy water (25 gp).
+ <b>Also appears in</b>   Planar Handbook     

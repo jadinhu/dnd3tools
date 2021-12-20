@@ -1,0 +1,17 @@
+<b>Divine Insight</b>(Spell Compendium, p. 70)
+
+Divination
+ <b>Level:</b>  Cleric 2,  Paladin 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level or until discharged (D)
+
+ 	
+<b>Clutching the focus of your spells to your chest, you let your eyes fl utter shut. As you complete the short prayer you feel your deity's presence fill you with confidence.</b>
+	
+Once during the spell's duration, you can choose to use its effect. This spell grants you an insight bonus equal to 5 + your caster level (maximum bonus of +15) on any single skill check. Activating the effect requires an immediate action. You must choose to use the insight bonus before you make the check you want to modify. Once used, the spell ends.
+	
+You can't have more than one <b>divine insight</b> effect active on you at the same time.
+ <b>Also appears in</b>   Complete Adventurer     

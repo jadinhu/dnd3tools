@@ -1,0 +1,23 @@
+<b>Bolt of Glory</b>(Spell Compendium, p. 35)
+
+Evocation [Good]
+ <b>Level:</b>  Cleric 6,   Glory 6,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Calling upon the Positive Energy Plane and the power of your faith, you project a white bolt of hissing positive energy at your foe.</b>
+	
+You must succeed on a ranged touch attack with the ray to strike a target. A creature struck takes varying damage, depending on its nature or its home plane of existence and your level.
+	
+Creatures native to the Negative Energy Plane, evil-aligned outsiders, and all undead creatures take 1d12 points of damage per caster level (maximum 15d12).
+	
+Creatures native to the Material Plane or an Elemental Plane, or any other neutral-aligned outsiders, take 1d12 points of damage per two caster levels (maximum 7d12).
+	
+Creatures native to the Positive Energy Plane and all good-aligned outsider are not affected by this spell.
+   

@@ -1,0 +1,20 @@
+<b>Create Spring</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Shaman 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Effect:</b> A spring of water
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A spring of water bubbles forth from the natural rock or earth you touch.
+The spring cannot arise from creatures, plants, or artificial constructions such as buildings.
+The spring puts forth six gallons of water per hour.
+The water is fresh, clear (at the source), and cool.
+No more than one spring may be created every 100 yards.
+Focus: A bamboo cane.
+   

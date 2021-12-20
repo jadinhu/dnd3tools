@@ -1,0 +1,24 @@
+<b>Stone Sphere</b>(Underdark)
+
+Evocation [Earth]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> One 5-ft.-diameter stone sphere
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a smoothly polished, 5-foot-diameter sphere of stone that moves under your control at a speed of 30 feet.
+The stone sphere has AC 5, hardness 8, and 500 hit points.
+On the round in which you cast the spell, the stone sphere appears at the spot you designate within the spell's range, and you may direct its movement as a free action.
+On subsequent rounds, you must actively direct the stone sphere in order to move it; otherwise, it remains motionless.
+Directing the movement of the stone sphere in the rounds after its initial appearance requires a move action.
+If you move the stone sphere into an enemy creature's square, it deals damage to every creature in that square as follows: 8d6 points to a Medium or smaller creature, 4d6 points to a Large creature, and 2d6 points to a Huge creature.
+The sphere cannot roll into any square occupied by a Gargantuan or Colossal creature.
+The sphere must stop moving after it rolls over one occupied square, finishing its move in an adjacent square.
+If the stone enters a square occupied by a Medium or smaller creature, it can stop there, forcing the target to move to a single adjacent square of its choice (which provokes attacks of opportunity).
+Material Component: A smooth sphere of marble 1 inch in diameter.
+ <b>Also appears in</b>   Spell Compendium     

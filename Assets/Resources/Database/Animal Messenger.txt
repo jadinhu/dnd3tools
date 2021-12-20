@@ -1,0 +1,21 @@
+<b>Animal Messenger</b>(Player's Handbook v.3.5, p. 198)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Ranger 1,  Bard 2,  Druid 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One Tiny animal
+ <b>Duration:</b> One day/level
+ <b>Saving Throw:</b> None; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You compel a Tiny animal to go to a spot you designate. The most common use for this spell is to get an animal to carry a message to your allies. The animal cannot be one tamed or trained by someone else, including such creatures as familiars and animal companions.
+	
+Using some type of food desirable to the animal as a lure, you call the animal to you. It advances and awaits your bidding. You can mentally impress on the animal a certain place well known to you or an obvious landmark (such as the peak of a distant mountain). The directions must be simple, because the animal depends on your knowledge and can't find a destination on its own. You can attach some small item or note to the messenger. The animal then goes to the designated location and waits there until the duration of the spell expires, whereupon it resumes its normal activities.
+	
+During this period of waiting, the messenger allows others to approach it and remove any scroll or token it carries. Unless the intended recipient of a message is expecting a messenger in the form of a bird or other small animal, the carrier may be ignored. The intended recipient gains no special ability to communicate with the animal or read any attached message (if it's written in a language he or she doesn't know, for example).
+	
+<b>Material Component:</b> A morsel of food the animal likes.
+   

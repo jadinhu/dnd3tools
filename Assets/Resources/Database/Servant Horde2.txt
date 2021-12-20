@@ -1,0 +1,28 @@
+<b>Servant Horde</b>(Oriental Adventures)
+
+Conjuration (Creation)
+ <b>Level:</b>  Wu Jen 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 2d6 invisible, mindless, shapeless servants, +1 servant/level (maximum +15)
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell creates a number of invisible, mindless, shapeless forces that perform simple tasks at your command.
+They can run and fetch things, open unstuck doors, and hold chairs, as well as clean and mend.
+They can also be used for common laboring tasks, provided that you carefully direct them.
+They could serve at a banquet, help dig earthworks, row a ship, act as porters, or assist in a farmer's fields.
+Each servant can perform only one activity at a time, but it repeats the same activity over and over again if told to do so, thus allowing you to command one servant to clean the floor and then turn your attention elsewhere as long as you remain within range.
+Servants can open only normal doors, drawers, lids, and so forth.
+They have an effective Strength score of 2 (so they can lift 20 pounds or drag 100 pounds).
+They can trigger traps and such, but they can exert only 20 pounds of force, and that is not enough to activate certain pressure plates and other devices.
+Their speed is 15 feet.
+The servants cannot attack in any way; they are never allowed an attack roll.
+They cannot be killed, but they dissipate if they take 6 points of damage from area attacks.
+(They get no saves against attacks).
+If you attempt to send a servant beyond the spell's range (measured from your current position), that servant ceases to exist.
+Material Component: A small stick crossbar to which many lengths of knotted thread are attached.
+ <b>Also appears in</b>   Spell Compendium  Complete Arcane     

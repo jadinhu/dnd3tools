@@ -1,0 +1,11 @@
+<b>Stasis Clone</b>(Lords of Darkness)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>
+
+ 	
+As clone, except that if the original individual is still alive, the cloned body falls immediately into stasis and does not rot.
+If the original individual later dies, the soul transfers to the stasis clone, which leaves stasis and immediately begins to function as per the normal clone spell.
+If multiple stasis clones exist for the same original creature when it is slain, the soul goes into the most recently created stasis clone.
+   

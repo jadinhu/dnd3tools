@@ -1,0 +1,17 @@
+<b>Enrage Animal</b>(Spell Compendium, p. 82)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Druid 1,  Ranger 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One animal
+ <b>Duration:</b> Concentration + 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You feel inexplicably angry as you near the conclusion of the spell's casting. The feeling subsides slightly as you release the spell into your target.</b>
+	
+<b>Enrage animal</b> affects only creatures of the animal type and bestows a +4 morale bonus to Strength and Constitution, a +2 morale bonus on Will saves, and a � ;2 penalty to Armor Class. This effect is otherwise identical to a barbarian's rage (<b>PH</b> 25), except that the animal is not fatigued at the end of the rage.
+   

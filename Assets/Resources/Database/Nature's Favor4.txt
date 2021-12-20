@@ -1,0 +1,17 @@
+<b>Nature's Favor</b>(Spell Compendium, p. 146)
+
+Evocation
+ <b>Level:</b>  Druid 2,  Ranger 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Animal touched
+ <b>Duration:</b> 1 minute
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Rubbing the animal's side, you whisper the final bit of the spell's ritual. The animal glances at you before turning its attention to your foes, bristling as it does so.</b>
+	
+You grant the subject animal a +1 luck bonus on attack rolls and damage rolls for every three caster levels you possess (maximum +5).
+ <b>Also appears in</b>   Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers  Complete Adventurer  Complete Divine     

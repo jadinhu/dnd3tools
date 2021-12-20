@@ -1,0 +1,21 @@
+<b>Protection from Spirits</b>(Oriental Adventures)
+
+Abjuration
+ <b>Level:</b>  Shaman 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Area:</b> Emanates 5 ft. from touched creature
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> No (see text)
+
+ 	
+This spell creates a magical barrier around the subject at a distance of 5 feet.
+The barrier moves with the subject and has two major effects.
+First, the subject gets a +2 deflection bonus to AC and a +2 resistance bonus on saves against attacks made by spirits.
+Second, the barrier prevents spirits from entering the area.
+This protection ends if the warded creature makes an attack against or tries to force the barrier against a blocked spirit.
+Spell resistance can allow a spirit to overcome this protection and enter the circle.
+Focus: A gingko wand with paper prayer strips attached.
+   

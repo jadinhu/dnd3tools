@@ -1,0 +1,23 @@
+<b>Rot of Ages</b>(Dragon Magic)
+
+Conjuration/Necromancy (Creation)
+ <b>Level:</b>  Druid 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action; see text
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 2 rounds
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> No
+
+ 	
+A cloud of rotting plant and animal matter swirls up from the ground around your target, encompassing it in a whirlwind of decay.
+This spell encompasses your target in a cloud of rotting debris.
+The target is sickened for 2 rounds.
+Furthermore, all other creatures are treated as having concealment against the target.
+A successful Fortitude save negates the sickness, but not the concealment.
+Nonliving creatures are unaffected by the sickness effect.
+A living creature already under the effect of rot of ages that fails a save against a second casting of the spell is nauseated (rather than sickened) for as long as both effects last (and
+then sickened for the remainder of the second spell's duration).
+Special: A black dragon capable of casting 3rd-level sorcerer spells can cast this spell as a swift action.
+   

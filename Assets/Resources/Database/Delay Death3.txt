@@ -1,0 +1,21 @@
+<b>Delay Death</b>(Spell Compendium, p. 63)
+
+Necromancy
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>You gesture toward your ally and call upon the power of your beliefs. A soft, golden glow appears on your companion's chest, around his heart.</b>
+	
+The subject of this powerful spell is unable to die from hit point damage. While under the protection of this spell, the normal limit of � ;9 hit points before a character dies is extended without limit. A condition or spell that destroys enough of the subject's body so as to not allow <b>raise dead</b> to work, such as a <b>disintegrate</b> effect, still kills the creature, as does death brought about by ability score damage, level drain, or a death effect.
+	
+The spell does not prevent the subject from entering the dying state by dropping to � ;1 hit points. It merely prevents death as a result of hit point loss.
+	
+If the subject has fewer than � ;9 hit points when the spell's duration expires, it dies instantly.
+ <b>Also appears in</b>   Miniatures Handbook  Races of Destiny     

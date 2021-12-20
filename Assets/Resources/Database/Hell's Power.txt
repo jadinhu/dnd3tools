@@ -1,0 +1,15 @@
+<b>Hell's Power</b>(Book of Vile Darkness)
+
+Conjuration (Creation) [Evil]
+ <b>Level:</b>  Blackguard 3,  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, Devil
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+The caster summons evil energy from the Nine Hells and bathes himself in its power.
+The caster gains a +2 deflection bonus to Armor Class, as well as an upgrade of his existing damage reduction by /+1 (DR 10/+1 becomes DR 10/+2, for example).
+Material Component: The heart of an elf child.
+   

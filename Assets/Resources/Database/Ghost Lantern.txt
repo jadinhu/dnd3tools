@@ -1,0 +1,22 @@
+<b>Ghost Lantern</b>(Complete Mage)
+
+Evocation [Light]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched
+ <b>Duration:</b> 10 minutes/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The object begins to glow with a phosphorescent white light.
+Your companions' faces are illuminated, but they cast no shadows on the surrounding walls.
+Ghost lantern causes an object to glow like a torch, shedding bright illumination in a 20-foot radius (and shadowy illumination for an additional 20 feet) from the point you touch.
+Unlike normal light spells, this light is only visible to you and a number of specifically designated creatures equal to one per three caster levels (maximum five).
+These creatures must be within 10 feet of you when you cast the spell but can later move as far apart as they want.
+No others can see the ghost lantern; it has no effect on them, and they are affected by other ambient light conditions as normal.
+Effectively, this spell allows you and your chosen companions to see in the dark.
+Material Component: A bit of phosphorescent fungus.
+   

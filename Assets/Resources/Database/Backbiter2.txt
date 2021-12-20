@@ -1,0 +1,22 @@
+<b>Backbiter</b>(Oriental Adventures)
+
+Abjuration
+ <b>Level:</b>  Wu Jen 1 (Wood),    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One Large or larger wooden-hafted weapon
+ <b>Duration:</b> 1 round/level or until discharged
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+When you cast this spell, you place an enchantment on a Large or larger wooden-hafted weapon (such as a bo, naginata, nunchaku, three-section staff, or similar weapon).
+The next time that weapon is used to make a melee attack, its shaft twists around so that the weapon strikes the wielder instead.
+The weapon's wielder makes a normal attack roll upon himself and deals normal damage if he hits.
+He cannot choose to deal subdual damage or otherwise reduce the damage he deals, although any damage reduction he has still applies.
+Once the attacker damages himself with the affected weapon, the spell is discharged.
+Unattended magic weapons targeted by this spell receive a Will save; if successful, the spell has no effect.
+See Attack an Object in the Player's Handbook for information concerning object saving throws.
+Focus: A dagger.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

@@ -1,0 +1,17 @@
+<b>Sonic Snap</b>(Spell Compendium, p. 195)
+
+Evocation [Sonic]
+ <b>Level:</b>  Sorcerer 0,  Wizard 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature or object
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You bark the last word of the spell, and that word takes life, streaking toward your target and exploding in a shout.</b>
+	
+You create a brief but loud noise adjacent to the target. The subject takes 1 point of sonic damage and must succeed on a Will saving throw or be deafened for 1 round. This spell has no effect if cast into the area of a silence spell.
+   

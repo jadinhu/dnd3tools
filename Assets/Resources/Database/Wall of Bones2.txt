@@ -1,0 +1,28 @@
+<b>Wall of Bones</b>(Oriental Adventures)
+
+Conjuration (Creation)
+ <b>Level:</b>  Wu Jen 4,   Grave 4,  Maho 4,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Wall of bones whose area is up to one 10-ft. square/level (S)
+ <b>Duration:</b> 10 minutes
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell causes a wall of bones to erupt from the earth in whatever shape you desire, as long as it is solidly based on the ground.
+You cannot conjure the wall so that it occupies the same space as a creature or another object.
+The wall is not solid, having many small openings and gaps.
+Creatures behind the wall have three-quarters cover against attacks from the other side of the wall.
+Creatures of Small size or smaller can slip and wriggle through the wall at a rate of 10 feet per round.
+Medium-size creatures can move through it with the Escape Artist skill � ;a successful check (DC 20) allows the creature to move 10 feet.
+A creature of any size that moves through the wall in this fashion takes 1d8 points of damage for every 10 feet traveled because of the sharp spikes and edges within the wall.
+The wall is 6 inches thick per caster level.
+Each 5-foot square has 10 hit points per 6 inches of thickness.
+The wall takes only half damage from slashing and piercing weapons.
+If a creature tries to break through the wall with a single attack, the DC for the Strength check is 15 +2 per caster level.
+The wall is composed of bones of many different types of creatures, fused in bizarre angles.
+It cannot be animated by an animate dead spell, nor communicated with via speak with dead.
+Material Component: A withered peach branch taken from a cemetery.
+ <b>Also appears in</b>   Complete Arcane     

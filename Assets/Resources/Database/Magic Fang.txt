@@ -1,0 +1,18 @@
+<b>Magic Fang</b>(Player's Handbook v.3.5, p. 250)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,  Death Master 1,  Urban Druid 1,   Dragon 1,  Scalykind 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Magic fang gives one natural weapon of the subject a +1 enhancement bonus on attack and damage rolls.
+The spell can affect a slam attack, fist, bite, or other natural weapon.
+(The spell does not change an unarmed strike's damage from nonlethal damage to lethal damage).
+Magic fang can be made permanent with a permanency spell.
+   

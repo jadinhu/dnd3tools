@@ -1,0 +1,19 @@
+<b>Drug Resistance</b>(Book of Vile Darkness)
+
+Enchantment
+ <b>Level:</b>  Cleric 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The creature touched is immune to the possibility of addiction to drugs.
+He still experiences the negative and positive effects of drugs during the spell's duration.
+This spell does not free the target from the effects of an addiction already incurred.
+If the spell ends before the effects of a drug wear off, the normal chance for addiction applies.
+Material Component: Three drops of pure water.
+   

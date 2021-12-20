@@ -1,0 +1,23 @@
+<b>Blessing of the Snake Mother</b>(Ghostwalk)
+
+Transmutation [Evil]
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living humanoid touched
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell causes the target to assume some of the qualities of the yuan-ti tainted one template, which provides several benefits.
+First, the target gains the Alertness feat.
+Second, the target's Constitution score increases by 2.
+Third, the target becomes completely immune to snake venom and yuan-ti poison.
+The target assumes a more feral and snakelike appearance (slitted pupils, elongated teeth, and so on) and is considered a yuan-ti for the purposes of all spells and effects (such as being subject to a ranger's favored enemy bonus against yuan-ti, not being able to form a ghost if slain, and so on).
+This spell was created by the yuan-ti to temporarily bolster their ranks with followers in a short period of time.
+Most other clerics would never consider casting this spell.
+The spell is normally used on willing victims, since it grants the caster no control over the target.
+Material Component: A few drops of the mixture that yuan-ti use to create tainted ones, which the target of the spell must swallow.
+   

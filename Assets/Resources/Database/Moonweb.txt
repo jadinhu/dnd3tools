@@ -1,0 +1,20 @@
+<b>Moonweb</b>(Player's Guide to FaerÃ»n)
+
+Abjuration
+ <b>Level:</b>   Initiate of selÃ»ne 5,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Effect:</b> 10-ft.-high barrier of force in a 5-ft.-diameter circle or 10-ft.-long line
+ <b>Duration:</b> 10 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create an immobile barrier of force that glows as though with moonlight.
+You can form the barrier either as a circular shield 5 feet in diameter and 10 feet high around a willing creature, or as a flat, 10-foot-square plane placed either horizontally (across a doorway, for example) or vertically (covering a pit or trap door), as long as it is anchored along at least one edge.
+The barrier has an inside and an outside.
+From the inside, it is transparent and passable; any creature can move through it.
+From the outside, it is opaque and virtually impassable � ;no creature or attack can pass through from this direction.
+Creatures inside the moonweb have cover and total concealment against attacks that originate on the outside.
+   

@@ -1,0 +1,25 @@
+<b>Eyebite</b>(Player's Handbook v.3.5, p. 228)
+
+Necromancy [Evil]
+ <b>Level:</b>  Bard 6,  Sorcerer 6,  Wizard 6,  Sha'ir 6,  Death Master 6,  Dread Necromancer 6,   Orc 6,  Scalykind 6,  Suffering 7,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round per three levels; see text
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Each round, you may target a single living creature, striking it with waves of evil power. Depending on the target's HD, this attack has as many as three effects.
+	<table>		<tr>			<th>HD </th>			<th>Effect </th>		</tr>		<tr>			<td> 10 or more </td>			<td>Sickened </td>		</tr>		<tr>			<td> 5-9 </td>			<td> Panicked, sickened </td>		</tr>		<tr>			<td> 4 or less </td>			<td> Comatose, panicked, sickened </td>		</tr>	</table>	
+The effects are cumulative and concurrent.
+	
+<b>Sickened:</b> Sudden pain and fever sweeps over the subject's body. A sickened creature takes a -2 penalty on attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks. A creature affected by this spell remains sickened for 10 minutes per caster level. The effects cannot be negated by a remove disease or heal spell, but a remove curse is effective.
+	
+<b>Panicked:</b> The subject becomes panicked for 1d4 rounds. Even after the panic ends, the creature remains shaken for 10 minutes per caster level, and it automatically becomes panicked again if it comes within sight of you during that time. This is a fear effect.
+	
+<b>Comatose:</b> The subject falls into a catatonic coma for 10 minutes per caster level. During this time, it cannot be awakened by any means short of dispelling the effect. This is not a sleep effect, and thus elves are not immune to it.
+	
+The spell lasts for 1 round per three caster levels. You must spend a move action each round after the first to target a foe.
+   

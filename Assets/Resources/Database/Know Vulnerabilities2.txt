@@ -1,0 +1,19 @@
+<b>Know Vulnerabilities</b>(Spell Compendium, p. 129)
+
+Divination
+ <b>Level:</b>  Bard 2,  Cleric 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Your eyes turn red, then take on a golden hue. As you look at the creature, you see small runes dancing around its head. Each rune identifies a particular vulnerability or resistance � ;red for resistances, green for vulnerabilities.</b>
+	
+You learn any special qualities, vulnerabilities, and resistances the target creature has. Vulnerabilities include anything that causes the creature more than the normal amount of damage (such as a creature with the cold subtype having vulnerability to fire or a crystalline creature's susceptibility to the shatter spell). Resistances include any effects that reduce or negate damage the creature takes and immunities to particular attacks. The spell identifies resistances and vulnerabilities granted by spell effects.
+	
+For example, if cast upon a balor, you learn that it has damage reduction 15/cold iron and good; spell resistance 28; immunity to poison, fire, and electricity; resistance to acid 10 and cold 10; and that it does not have any particular vulnerabilities.
+ <b>Also appears in</b>   Magic of Faerun     

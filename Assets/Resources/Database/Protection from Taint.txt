@@ -1,0 +1,29 @@
+<b>Protection from Taint</b>(Oriental Adventures)
+
+Abjuration [Good]
+ <b>Level:</b>  Shugenja 1 (Earth),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> No (see text)
+
+ 	
+This spell wards a creature from attacks by Shadowlands creatures and creatures with the Shadowlands Taint, from mental control, and from summoned or conjured creatures.
+It creates a magical barrier around the subject at a distance of 1 foot.
+The barrier moves with the subject and has three major effects:
+First, the subject gets a +2 deflection bonus to AC and a +2 resistance bonus on saves.
+Both these bonuses apply against attacks made by creatures with the Shadowlands subtype and creatures with a Taint score.
+Second, the barrier blocks any attempt to possess the warded creature (as by a magic jar attack) or to exercise mental control over the creature (as by a vampire's supernatural domination ability, which works similar to dominate person).
+The protection does not prevent a vampire's domination itself, but it prevents the vampire from mentally commanding the protected creature.
+If the protection from Taint effect ends before the domination effect does, the vampire would then be able to mentally command the controlled creature.
+Likewise, the barrier keeps out a possessing life force but does not expel one if it is in place before the spell is cast.
+This second effect works regardless of alignment.
+Third, the spell prevents bodily contact by summoned or conjured creatures (see the Monster Manual).
+This causes the natural weapon attacks of such creatures to fail and the creatures to recoil if such attacks require touching the warded creature.
+Good elementals and outsiders are immune to this effect.
+The protection against contact by summoned or conjured creatures ends if the warded creature makes an attack against or tries to force the barrier against the blocked creature.
+Spell resistance can allow a creature to overcome this protection and touch the warded creature.
+   

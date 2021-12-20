@@ -1,0 +1,25 @@
+<b>Words of the Kami</b>(Oriental Adventures)
+
+Evocation [Sonic]
+ <b>Level:</b>  Shugenja 7 (Water),    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Creatures in a 30-ft.-radius spread centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+To utter the holy words of the kami is to bring forth magic of awesome power.
+Creatures with the Shadowlands subtype or with a Taint score suffer the following ill effects:
+The effects are cumulative.
+Deafened: The creature is deafened for 1d4 rounds.
+A deafened creature, in addition to the obvious effects, automatically fails Listen checks, suffers a -4 penalty on initiative, and has a 20% chance to miscast and lose any spell with a verbal (V) component that it tries to cast.
+Blinded: The creature is blinded for 2d4 rounds.
+In addition to the obvious effects, a blinded creature suffers a 50% miss chance in combat (all opponents have full concealment), loses any Dexterity bonus to AC, grants a +2 bonus on attackers' attack rolls (they are effectively invisible), moves at half speed, and suffers a <del>4 penalty on most Strength</del> and Dexterity-based skill checks.
+Paralyzed: The creature is paralyzed and helpless for 1d10 minutes, unable to move or act in any way.
+Killed: Living creatures die.
+Undead creatures are destroyed.
+Creatures free of Taint and without the Shadowlands subtype, including the spellcaster, are deafened for 1d4 rounds, regardless of their Hit Dice.
+   

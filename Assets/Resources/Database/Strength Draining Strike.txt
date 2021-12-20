@@ -1,0 +1,18 @@
+<b>Strength Draining Strike</b>(Tome of Battle: The Book of Nine Swords, p. 80)
+
+Shadow Hand (Strike)
+ <b>Level:</b>  Swordsage 3 (One Shadow Hand maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+ <b>Saving Throw:</b> Fortitude half
+
+ 	
+<b>Liquid, black energy covers your weapon. As you strike your opponent, this material flows into the wound, spreads along his veins, and leaves him weakened.</b>
+	
+As part of this maneuver, you make a single melee attack against an opponent. In addition to dealing normal melee damage with the attack, you deal 4 points of Strength damage. A successful Fortitude save (DC 13 + your Wis modifier) halves this Strength damage, but has no effect on the normal melee
+damage you deal with the strike.
+	
+This maneuver is a supernatural ability.
+   

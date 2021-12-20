@@ -1,0 +1,19 @@
+<b>Wrathful Castigation</b>(Spell Compendium, p. 243)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 8,  Wizard 8,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You brandish the whip, and your target begins to shake uncontrollably, then collapses on the ground, its spasms eventually fading as it dies.</b>
+	
+This spell causes wracking pain and violent convulsions, ending in death. The target creature must make a Will save or writhe in pain, helpless, before it dies 1 round later at the start of your turn. A creature that makes the Will save must also succeed on a second Will save or be dazed and take a -4 penalty on saving throws for the duration of the spell.
+	
+Focus: A whip.
+   

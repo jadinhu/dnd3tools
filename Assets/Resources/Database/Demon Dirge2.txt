@@ -1,0 +1,18 @@
+<b>Demon Dirge</b>(Spell Compendium, p. 63)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Living creature
+ <b>Duration:</b> 1d6 rounds; see text
+ <b>Saving Throw:</b> None or Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You cry out the ancient words and make the prescribed motions, and your foe lets out a howl of pain as his blood boils in his veins.
+	
+Demon dirge deals 2d6 points of damage each round for the duration of the spell to any creature that has both the chaotic and evil subtypes (such as a howler or a demon). No saving throw is allowed against this damage.
+	
+If the target creature also possesses the tanar'ri subtype (MM 316), the spell has a much more powerful effect. In addition to the damage, a tanar?ri is stunned for the duration of the spell unless it succeeds on a Fortitude save.</p <b>Also appears in</b>   Planar Handbook     

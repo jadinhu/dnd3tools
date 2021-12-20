@@ -1,0 +1,26 @@
+<b>Node Door</b>(Champions of Ruin)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Varies; see text
+ <b>Target:</b> You and touched objects or other touched willing creatures
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None and Will negates (object)
+ <b>Spell Resistance:</b> No and Yes (object)
+
+ 	
+You instantly transfer yourself from your current node to any other node of the same type that you have visited.
+You always arrive at the exact spot desired � ;whether by simply visualizing the area or by describing your destination (for example, &quot;the Shadow Weave node in the garden at the Temple of Old Night&quot;).
+After using this spell, you can't take any other actions until your next turn.
+If you arrive in a node that is already partially occupied by a newly added object, you arrive in the closest clear space in that node.
+If the node is completely filled or has been destroyed by any means, you bounce to the next closest node of the same type (determined randomly or by the DM).
+Each such &quot;bounce&quot; deals 2d6 points of damage to you and any who accompany you.
+You can bring along objects as long as their weight doesn't exceed your maximum load.
+You can also bring one additional willing Medium or smaller creature (carrying gear or objects up to its maximum load) or its equivalent per three caster levels; a Large creature counts as two Medium creatures, a Huge creature counts as two Large creatures, and so forth.
+All creatures to be transported must be in contact with one another, and at least one of those creatures must be in contact with you.
+As with all spells for which the range is personal and the target is you, you need not make a saving throw, nor is spell resistance applicable to you.
+Only objects held or in use (attended) by another person receive saving throws and spell resistance.
+Special: You must have the Node Spellcasting feat to cast this spell.
+ <b>Also appears in</b>   Underdark     

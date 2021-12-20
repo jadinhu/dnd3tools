@@ -1,0 +1,14 @@
+<b>Zephyr Dance</b>(Tome of Battle: The Book of Nine Swords, p. 57)
+
+Desert Wind (Counter)
+ <b>Level:</b>  Swordsage 3 (One Desert Wind maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous; see text
+
+ 	
+<b>You spin gracefully away from a foe?s attack, whirling like the desert zephyr racing across the sands. Your enemy?s blade barely touches your cloak as you nimbly dodge aside.</b>
+	
+You gain a +4 dodge bonus to AC against a single attack. You can choose to use this maneuver after an opponent resolves his attack but before he determines damage.</   

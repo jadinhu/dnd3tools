@@ -1,0 +1,23 @@
+<b>Necrotic Termination</b>(Libris Mortis: The Book of the Dead)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, AF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> Living creature with necrotic cyst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> No
+
+ 	
+You cause the cyst of a subject already harboring a necrotic cyst (see spell of the same name) to physically and spiritually enlarge itself at the expense of the subject's body and soul.
+If the subject succeeds on her saving throw, she takes 1d6 points of damage per level (maximum 25d6), and half the damage is considered vile damage (see necrotic bloat).
+The subject's cyst-derived saving throw penalty against effects from the school of necromancy applies.
+If the subject fails her saving throw, the cyst expands beyond control, killing the subject and digesting her soul.
+Raise dead, resurrection, true resurrection, wish, and miracle cannot return life to the subject once her soul is digested � ;
+she is gone forever.
+On the round following the subject's death, the cyst exits the flesh of the slain subject as a free-willed undead called a skulking cyst (see page 120).
+Focus: Caster must possess a mother cyst (see page 28).
+XP Cost: 1,000 XP.
+   

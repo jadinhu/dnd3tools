@@ -1,0 +1,26 @@
+<b>Divine Retaliation</b>(Player's Handbook II)
+
+Evocation [Force]
+ <b>Level:</b>  Cleric 3,  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Magic weapon of force
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A spectral weapon composed of pure force energy springs into existence next to you.
+Each time a foe strikes you, the weapon springs into action, chopping into your foe and dealing a grievous wound.
+This spell creates a divine weapon that mimics your deity's favored weapon.
+Any time you are struck for damage by a melee attack, this weapon strikes at your foe.
+It has a base attack bonus equal to your caster level + your Str modifier or Wis modifier (your choice).
+It deals damage as per your deity's favored weapon, and is of a size equal to your current size.
+The weapon gains a bonus on damage rolls equal to 1-1/2 times your Str modifier or Wis modifier (your choice).
+There is no limit to the number of attacks that this weapon can make.
+If a hydra bites at and hits you six times, this weapon in turn strikes at the hydra six times.
+The weapon has reach or range appropriate to its type.
+It shares a space with you.
+If you are Large or larger, it counts as occupying each square of the space you fill.
+   

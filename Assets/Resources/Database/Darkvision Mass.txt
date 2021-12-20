@@ -1,0 +1,16 @@
+<b>Darkvision, Mass</b>(Complete Arcane)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, 
+ <b>Range:</b> 10 ft.
+ <b>Target:</b> The caster and all allies in a 10-ft.-radius burst, centered on the caster
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+As darkvision (see page 216 of the Player's Handbook), except that all target creatures receive the spell's benefits.
+Unlike with darkvision, recipients of this spell cannot have the ability made permanent with a permanency spell.
+Material Component: A dried carrot or three small agates.
+ <b>Also appears in</b>   Tome and Blood: A Guidebook to Wizards and Sorcerers  Underdark  Spell Compendium     

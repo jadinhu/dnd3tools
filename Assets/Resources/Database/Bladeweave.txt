@@ -1,0 +1,19 @@
+<b>Bladeweave</b>(Complete Adventurer)
+
+Illusion [Pattern]
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,  Vigilante 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> See text
+
+ 	
+A bladeweave spell imbues your melee attacks with a fascinating pattern or rhythm that entrances your opponent.
+Any round that you attack with a melee weapon, you can make a single additional touch attack with that weapon at your normal attack bonus as a free action.
+This attack deals no damage.
+Instead, anyone successfully touched by the weapon must succeed on a Will save or be dazed for 1 round.
+Spell resistance applies to this effect.
+ <b>Also appears in</b>   Spell Compendium     

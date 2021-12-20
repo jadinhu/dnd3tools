@@ -1,0 +1,14 @@
+<b>Shadow Blink</b>(Tome of Battle: The Book of Nine Swords, p. 78)
+
+Shadow Hand [Teleportation]
+ <b>Level:</b>  Swordsage 7,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 50 ft.
+ <b>Target:</b> You
+
+ 	
+<b>In the blink of an eye, you disappear and emerge from a mote of shadow energy across the battlefield.</b>
+	
+This maneuver functions as the shadow jaunt maneuver, except that it can be initiated as a swift action.
+   

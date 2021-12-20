@@ -1,0 +1,18 @@
+<b>Sweet Water</b>(Defenders of the Faith: A Guidebook to Clerics and Paladins)
+
+Divination
+ <b>Level:</b>  Druid 2,  Cleric 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> A well shaft, 10 ft. diameter, up to 100 ft. deep.
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell locates a source of fresh water within 100 feet of the surface.
+If a water source is in range, it excavates a well shaft down to that water.
+Otherwise, the spell fails.
+Material Component: A shovel or spade.
+   

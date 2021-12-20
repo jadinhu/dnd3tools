@@ -1,0 +1,22 @@
+<b>Reality Blind</b>(Book of Vile Darkness)
+
+Illusion (Phantasm) [Evil, Mind-Affecting]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Concentration (see below)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell overwhelms the target with hallucinations, causing him to be blinded and stunned if he fails the save.
+The subject can attempt a new saving throw each round to end the spell.
+Even after the subject succeeds at the save or the caster stops concentrating, the subject is plagued with nightmares every night.
+The nightmares prevent the subject from benefiting from natural healing.
+These nightmares continue until the caster dies or the subject succeeds at a Will saving throw, attempted once per night.
+This nightmare effect is treated as a curse and thus cannot be dispelled.
+It is subject to remove curse, however.
+Material Component: A 2-inch-diameter multicolored disk of paper or ribbon.
+   

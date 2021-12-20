@@ -1,0 +1,12 @@
+<b>Kyristan's Malevolent Tentacles</b>(Shining South)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>
+ <b>Saving Throw:</b> None and Fortitude negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell functions similarly to Evard's black tentacles, except that the tentacles are formed of negative energy.
+Living creatures grappled by the tentacles gain one negative level each round unless they succeed on Fortitude saves.
+   

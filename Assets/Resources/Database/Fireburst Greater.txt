@@ -1,0 +1,10 @@
+<b>Fireburst, Greater</b>(Complete Arcane)
+
+Evocation [Fire]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,  Warmage 5,    
+<b>Components:</b>
+ <b>Effect:</b> Burst of fire extending 10 ft. from you
+
+ 	
+This spell functions like fireburst, except that it affects creatures within 10 feet of you and deals a maximum of 15d8 points of damage to each one.
+ <b>Also appears in</b>   Spell Compendium  Miniatures Handbook     

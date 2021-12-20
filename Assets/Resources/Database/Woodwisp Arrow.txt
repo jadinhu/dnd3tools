@@ -1,0 +1,18 @@
+<b>Woodwisp Arrow</b>(Champions of Ruin)
+
+Transmutation
+ <b>Level:</b>  Assassin 1,  Druid 1,  Justice of Weald and Woe 1,  Ranger 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> One masterwork arrow or bolt
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell is cast upon a masterwork arrow or bolt, enabling the missile to pass through wood as though it was air, negating any cover benefit the target might enjoy because of wooden doors, tables, or stockade walls, or negating the AC modifier of a wooden shield.
+The spell doesn't grant the spellcaster the ability to see through wooden obstructions, so unless a clairvoyance spell or similar magic is already in effect, the target is treated as having concealment instead of cover.
+The arrow or bolt must be fired during the same round the spell is cast, or the magic dissipates and is lost.
+The projectile is destroyed even if it misses its target.
+   

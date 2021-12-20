@@ -1,0 +1,19 @@
+<b>Spiritual Chariot</b>(Spell Compendium, p. 202)
+
+Conjuration (Creation) [Force]
+ <b>Level:</b>  Paladin 2,  Blackguard 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One special mount
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You cast this spell, and a large and ornate chariot made of transparent, faintly glowing azure energy forms behind your special mount.</b>
+	
+You conjure a chariot of force. When the chariot appears, your special mount is correctly harnessed to it. The chariot can hold one Medium creature or two small creatures plus the driver (usually the paladin).
+	
+Although the chariot seems large and sturdy, it and its occupants have no weight for the purpose of the mount's load, so the mount can travel at full speed. If the chariot is ever unhitched from the special mount, it disappears. The driver of the spiritual chariot gains a +4 sacred bonus on Handle Animal checks. The chariot is made of magical force and has immunity to most types of damage. It interacts with other spells just as a <b>wall of force</b> (PH 298) does. Those in the chariot have cover based on their size and the position of their attackers. In most situations, Medium creatures inside the chariot gain cover.
+ <b>Also appears in</b>   Complete Divine     

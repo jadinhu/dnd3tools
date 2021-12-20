@@ -1,0 +1,14 @@
+<b>General of Undeath</b>(Player's Guide to FaerÃ»n)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 8,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 day/level
+
+ 	
+This spell increases the number of Hit Dice of undead that you can control by an amount equal to five times your caster level.
+When the duration expires, you lose control of the extra undead as if you had voluntarily relinquished control of them.
+ <b>Also appears in</b>   Ghostwalk  Magic of Faerun     

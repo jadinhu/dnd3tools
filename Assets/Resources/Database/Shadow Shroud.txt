@@ -1,0 +1,16 @@
+<b>Shadow Shroud</b>(Drow of the Underdark)
+
+Evocation [Darkness]
+ <b>Level:</b>  Cleric 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+A thin membrane of darkness coats your body.
+This spell negates any penalties or other harmful effects imposed by your light blindness or light vulnerability.
+You also gain a +5 competence bonus on Hide checks made in areas of shadow or darkness.
+As with any darkness spell, the effect is suppressed if you enter the area of a light spell of 3rd level or higher.
+   

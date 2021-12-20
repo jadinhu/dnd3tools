@@ -1,0 +1,15 @@
+<b>Dismissal</b>(Player's Handbook v.3.5, p. 222)
+
+Abjuration
+ <b>Level:</b>  Cleric 4,  Knight of the Chalice 4,  Nar Demonbinder 4,  Wu Jen 4,  Sorcerer 5,  Wizard 5,  Sha'ir 5,   Balance 4,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One extraplanar creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell forces an extraplanar creature back to its proper plane if it fails a special Will save (DC = spell's save DC &#8211; creature's HD + your caster level). If the spell is successful, the creature is instantly whisked away, but there is a 20% chance of actually sending the subject to a plane other than its own.
+   

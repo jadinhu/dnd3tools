@@ -1,0 +1,17 @@
+<b>Prismatic Ray</b>(Spell Compendium, p. 162)
+
+Evocation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You feel within you, as the spell nears completion, various energies locked in a battle within your body. As nausea threatens to overcome you, you croak out the final syllables of arcane power and point your hand. A single beam of brilliantly colored light then shoots from your outstretched hand.</b>
+	
+You must succeed on a ranged touch attack with the ray to strike a target. On a successful attack, a creature with 6 Hit Dice or fewer is blinded for 2d4 rounds by the prismatic ray in addition to suffering a randomly determined effect:
+	<b><span class="caps">PRISMATIC</span> <span class="caps">RAY</span></b>	<table>		<tr>			<th>1d6 </th>			<th>Color of Beam </th>			<th>Effect </th>		</tr>		<tr>			<td> 1 </td>			<td> Red </td>			<td> 20 points fire damage (Reflex half) </td>		</tr>		<tr>			<td> 2 </td>			<td> Orange </td>			<td> 40 points acid damage (Reflex half) </td>		</tr>		<tr>			<td> 3 </td>			<td> Yellow </td>			<td> 80 points electricity damage (Reflex half) </td>		</tr>		<tr>			<td> 4 </td>			<td> Green </td>			<td> Poison (Kills; Fortitude partial, take 1d6 Con damage instead) </td>		</tr>		<tr>			<td> 5 </td>			<td> Blue </td>			<td> Turned to stone (Fortitude negates) </td>		</tr>		<tr>			<td> 6 </td>			<td> Indigo </td>			<td> Insane, as <b>insanity</b> spell (Will negates) </td>		</tr>		<tr>			<td> 7 </td>			<td> Violet </td>			<td> Sent to another plane (Will negates) </td>		</tr>		<tr>			<td> 8 </td>			<td> � ; </td>			<td> Two effects; roll twice more, ignoring any &quot;8&quot; results</td>		</tr>	</table> <b>Also appears in</b>   Complete Arcane     

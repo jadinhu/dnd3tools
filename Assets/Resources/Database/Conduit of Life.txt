@@ -1,0 +1,15 @@
+<b>Conduit of Life</b>(Complete Champion)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 2,  Paladin 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level or until discharged
+
+ 	
+A small kernel of positive energy grows within your heart, warming your whole body.
+The next time you use a class feature or racial ability to channel positive energy (such as turn undead or lay on hands), you also heal a number of points of damage to yourself equal to 2d10+1/caster level (maximum 10).
+If you are already subject to an ongoing healing effect (such as vigor, or if you receive a cure spell while conduit of life is still in effect, this spell instead heals a number of points of damage equal to 3d8+1/caster level and it is discharged.
+   

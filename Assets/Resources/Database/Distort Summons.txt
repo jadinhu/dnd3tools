@@ -1,0 +1,17 @@
+<b>Distort Summons</b>(Book of Vile Darkness)
+
+Transmutation [Evil]
+ <b>Level:</b>  Demonologist 3,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 50-ft.-radius spread
+ <b>Duration:</b> 1 hour/level
+
+ 	
+The caster creates an area in which only evil creatures can be magically summoned.
+No matter what a later caster attempts to summon, he actually summons an evil version (a fiendish beast rather than a celestial one, for example) or an evil equivalent (a devil rather than a formian).
+If the summoner was attempting to summon a good or neutral creature, the evil creature that appears does not obey the commands of the summoner or attack his enemies.
+Instead, it attacks the summoner, and the spell that summoned the evil creature cannot be dismissed.
+A distort summons spell can be dispelled normally, however.
+   

@@ -1,0 +1,16 @@
+<b>Abyssal Might</b>(Book of Vile Darkness)
+
+Conjuration (Summoning) [Evil]
+ <b>Level:</b>  Blackguard 3,  Demonologist 3,  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, M, Demon
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Caster
+ <b>Duration:</b> 10 minutes/level
+
+ 	
+The caster summons evil energy from the Abyss and imbues himself with its might.
+The caster gains a +2 enhancement bonus to Strength, Constitution, and Dexterity.
+The caster's existing spell resistance improves by +2.
+Material Component: The heart of a dwarf child.
+   

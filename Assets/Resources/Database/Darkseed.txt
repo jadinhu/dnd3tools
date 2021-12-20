@@ -1,0 +1,18 @@
+<b>Darkseed</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Transmutation
+ <b>Level:</b>  Druid 0,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft.+ 5 ft./2 levels)
+ <b>Target:</b> One normal plant or plant creature
+ <b>Duration:</b> 1 day
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+If the target fails its Reflex save, it takes 1 point of damage when the spell is cast and another every hour while it is in effect.
+Hardness is ignored for damage from darkseed.
+It would take weeks to kill a large tree with successive applications of this spell, but a small plant would die in a matter of hours.
+Darkseed does not affect plant creatures with Wisdom and Charisma scores.
+   

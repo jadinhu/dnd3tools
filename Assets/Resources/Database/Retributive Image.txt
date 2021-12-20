@@ -1,0 +1,19 @@
+<b>Retributive Image</b>(Complete Mage)
+
+Illusion (Pattern) [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> Visual image that can extend as far as four 10-ft. cubes + one 10-ft. cube/level (S)
+ <b>Duration:</b> Concentration + 3 rounds
+ <b>Saving Throw:</b> Will disbelief (if interacted with), then Will partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As though drawn straight from your imagination, the image you envision springs into existence.
+You create an image or scene, which can incorporate not only sight but sound, smell, and thermal effects.
+This effect functions in all respects like major image, except that the illusion is a pattern rather than a figment, and thus has a mind-affecting element to it.
+Anyone who successfully disbelieves the illusion endures a mental backlash that deals 1d6 points of damage +1 point of damage per caster level (maximum +15) and is dazed for 1 round.
+A successful Will save halves the damage and negates the dazed effect.
+   

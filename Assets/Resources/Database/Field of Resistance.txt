@@ -1,0 +1,22 @@
+<b>Field of Resistance</b>(Player's Handbook II)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft.-radius emanation centered on a point in space
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+The air in this spell's effect shimmers with arcane energy.
+A buzzing sound echoes in your mind as the flow of magic into the affected area chokes off and ends.
+This spell creates a zone that impedes the flow of magic.
+The energy of this zone clings to creatures and objects, granting them a shield against spells.
+All creatures in the spell's area gain spell resistance of 11 + caster level for as long as they remain in the area.
+If a creature already has spell resistance higher than this amount, this spell does not affect it.
+Unlike personal spell resistance, this spell resistance cannot be voluntarily lowered.
+A creature loses this spell resistance when it leaves the spell's area, and gains it again if it returns.
+   

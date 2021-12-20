@@ -1,0 +1,19 @@
+<b>Bewildering Substitution</b>(Complete Champion)
+
+Illusion (Phantasm) [Mind-Affecting]
+ <b>Level:</b>  Adept 2,  Cleric 2,  Shugenja 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You channel the mockery of the trickster deities to sow dissension among your opponents.
+By casting this spell, you cause the subject to believe that one ally and one enemy have traded places.
+The ally physically closest to the subject now seems to have the appearance, voice, clothing, and gear of its nearest enemy, and that enemy looks and sounds exactly like the subject's nearest ally.
+Both the ally and the enemy must be within the spell's range, and the effect ends immediately if either moves out of its range from you.
+The illusion affects only the subject.
+   

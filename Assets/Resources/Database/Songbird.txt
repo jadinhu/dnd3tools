@@ -1,0 +1,16 @@
+<b>Songbird</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Bard 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal
+ <b>Duration:</b> Performance +1 hour or until discharged (see text)
+
+ 	
+You acquire an even greater Charisma when you perform.
+Anyone who hears or views your performance becomes favorably inclined toward you.
+This spell grants you a +1 competence bonus on your next Charisma check to influence an NPC's attitude (for details, see <span class="caps">NPC</span> Attitudes, page 149 of the <span class="caps">DUNGEON</span> MASTER's Guide) or Charisma-based skill check against any one person who saw the performance.
+This effect lasts for the duration of the performance and up to 1 hour immediately following.
+You must begin the performance within 1 hour of casting the spell for it to have any effect.
+ <b>Also appears in</b>   Spell Compendium     

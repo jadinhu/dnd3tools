@@ -1,0 +1,21 @@
+<b>Freeze</b>(Spell Compendium, p. 99)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 round/2 levels
+ <b>Saving Throw:</b> Reflex partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Calling upon divine power, your hand turns cold and numbs as you complete the spell. A moment later, a thin blue ray swirled with white streaks from your outstretched hand, leave a light fog in the air where it passes.</b>
+	
+You must succeed on a ranged touch attack with the ray to strike a target. A target struck takes 2d6 points of cold damage. A creature struck must succeed on a Reflex save or be encased in a 5-inch-thick sheath of ice and be immobilized (and this helpless). A creature encased in ice takes 2d6 points of cold damage each round until freed. A target encased in ice is aware and breathes normally but cannot speak or move other tan to attempt to escape by making a Strength check (see below). It can still execute purely mental actions, such as using a spell-like ability. A spellcaster can cast a spell with no verbal or somatic component as long as the spell lacks a focus or material component, or the material component, focus, or divine focus is already in the spellcaster's hand.
+	
+The ice blocks line of effect. A winged creature cannot flap its wings and falls. A swimmer can't swim but because ice floats, the encase swimmer will rise to the surface and bob about.
+	
+A DC 22 Strength check breaks the ice, freeing the encased creature. Creatures other than the target can also attack the ice. The ice has hardness 0 and 15 hit points. When the duration of the spell expires, the ice melts and the encased creature is freed. Damage that would harm the creature must first deal enough damage to destroy the ice before the creature takes damage, and damage dealt to the ice is subtracted from damage that would be dealt to the creature.
+   

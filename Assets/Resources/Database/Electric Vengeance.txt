@@ -1,0 +1,17 @@
+<b>Electric Vengeance</b>(Player's Handbook II)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> 5 ft.
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+As the creature strikes you, an arc of lightning springs from your body and blasts the creature in return.
+You can cast this spell only when another creature has just dealt hit point damage to you with a melee attack.
+When you cast electric vengeance, a blast of lightning arcs from your body into the subject's; the arc deals 2d8 points of electricity damage +1 point per caster level (maximum +10).
+   

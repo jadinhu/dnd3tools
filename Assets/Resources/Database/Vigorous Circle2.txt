@@ -1,0 +1,15 @@
+<b>Vigorous Circle</b>(Spell Compendium, p. 229)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 6,  Druid 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 20 ft.
+ <b>Target:</b> One creature/2 levels, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 10 rounds + 1 round/level (max 40 rounds)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell functions like <b>mass lesser vigor</b>, except as noted here and that it grants fast healing 3.
+ <b>Also appears in</b>   Complete Divine     

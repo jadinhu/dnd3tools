@@ -1,0 +1,16 @@
+<b>Spirit Binding, Lesser</b>(Complete Arcane)
+
+Conjuration (Calling) [see text]
+ <b>Level:</b>  Wu Jen 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels); see text
+ <b>Target:</b> One spirit of up to 8 HD
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell functions as lesser planar binding (see page 262 of the Player's Handbook), except that it allows you to call and trap a single spirit creature of up to 8 Hit Dice.
+When you use a calling spell to call an air, chaotic, earth, evil, fire, good, lawful, or water creature, it becomes a spell of that type.
+   

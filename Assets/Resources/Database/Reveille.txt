@@ -1,0 +1,24 @@
+<b>Reveille</b>(Magic of Faerun)
+
+Necromancy [Language-Dependent, Sonic]
+ <b>Level:</b>  Bard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> One recently dead creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You cause a recently dead creature (within three days of its death) to reveal information about events that led up to its death.
+The corpse speaks tersely in its native language, using no more than a dozen words or so in a round.
+In the first round, it describes the last thing it saw.
+In the second, it describes its dying wish.
+In the third, it describes the wounding that killed it.
+In the fourth, it tells who killed it.
+In the fifth, it tells why it believes it was killed.
+In the sixth and all rounds following, it answers one question to the best of its ability (as speak with dead).
+The corpse has no more knowledge than it had when alive, nor does it retain any memory of events that occurred after its death.
+All restrictions placed on the use of speak with dead (differing alignments allow a saving throw, no repeat uses of this spell or speak with dead within seven days, intact body required, and undead creatures are immune) apply to this spell as well.
+ <b>Also appears in</b>   Spell Compendium     

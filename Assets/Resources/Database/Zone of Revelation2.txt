@@ -1,0 +1,22 @@
+<b>Zone of Revelation</b>(Spell Compendium, p. 244)
+
+Divination
+ <b>Level:</b>  Cleric 5,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> 5-ft.-radius/level emanation centered on a point in space
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>After making a dramatic gesture and uttering a few words of power, you close your eyes and open them again, revealing all that is hidden.</b>
+	
+All creatures and objects within a zone of revelation are made visible. This includes invisible creatures, as well as those on coexistent planes such as the Ethereal Plane and the Plane of Shadow (<span class="caps">DMG</span> 150). Natives of these planes do not lose any abilities but are simply made visible.
+	
+Zone of revelation suppresses but does not dispel invisibility, etherealness, or other spells. Once a formerly invisible object or creature leaves the area, it becomes invisible again. Ethereal creatures in the spell's area become nonethereal until they move beyond the spell's range.
+	
+Arcane Material Component: A handful of dust from the grave clothes of an
+undead creature.
+   

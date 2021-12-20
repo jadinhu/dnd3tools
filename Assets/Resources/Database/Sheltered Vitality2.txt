@@ -1,0 +1,17 @@
+<b>Sheltered Vitality</b>(Spell Compendium, p. 188)
+
+Abjuration
+ <b>Level:</b>  Cleric 4,  Druid 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Pressing your hand to the creature's chest, you utter a low chant, and a warm glow passes from your hand into the subject.</b>
+	
+The subject gains immunity to fatigue, exhaustion, and ability damage or ability drain (regardless of the source).
+ <b>Also appears in</b>   Libris Mortis: The Book of the Dead     

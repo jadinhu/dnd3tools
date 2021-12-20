@@ -1,0 +1,21 @@
+<b>Hand of Torm</b>(Magic of Faerun)
+
+Abjuration [see text]
+ <b>Level:</b>  Cleric 4 (Torm),  Paladin 4,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create an immobile zone of warding that is permeable to those of your religion but repels all others.
+The warded area has a shimmering visible border, above which is a ghostly image of a giant hand (the appearance of the hand depends upon your patron, so Torm's clerics have a shining metal gauntlet, while those of Bane have a black clawed metal gauntlet and those of Malar have a great beast's claw).
+Creatures that have the same patron as you, or are wearing a holy symbol of your patron, can enter and move within the warded area unhindered.
+Other creatures that try to enter or move within the area must make Fortitude saves or be stunned for 1 round.
+If a creature's only action is to try to move completely out of the area, the ward does not hinder it.
+Clerics and paladins of deities other than Torm name this spell after their own deity � ;hand of Ilmater, for example.
+This spell has the alignment components of your patron, so if your patron is Torm, this is a lawful and good spell.
+   

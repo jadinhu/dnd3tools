@@ -1,0 +1,20 @@
+<b>Great Thunderclap</b>(Magic of Faerun)
+
+Evocation [Sonic]
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 5-ft./level-radius spread
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a loud noise equivalent to a peal of thunder and its accompanying shock wave.
+The spell has three effects.
+First, all creatures in the area must make Will saves to avoid being stunned for 1 round.
+Second, the creatures must make Fortitude saves or be deafened for 1 minute.
+Third, they must make Reflex saves or fall prone.
+Focus: An iron bell.
+ <b>Also appears in</b>   Spell Compendium     

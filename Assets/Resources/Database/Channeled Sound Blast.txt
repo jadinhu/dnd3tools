@@ -1,0 +1,25 @@
+<b>Channeled Sound Blast</b>(Complete Mage, p. 99)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> See text
+ <b>Range:</b> See text
+ <b>Area:</b> Cone-shaped burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You channel energy into the shimmering waves of sound spell, causing them to tremble and quake with power.
+When you have poured enough energy into the spell, you send a thunderous blast into your foes.
+This spell creates a cone of sonic energy that blasts your enemies.
+The spell's strength depends on the amount of time you spend channeling energy into it.
+If you cast channeled sound burst as a swift action, it deals 1d4 points of sonic damage per two levels in a 15-foot cone.
+If you cast the spell as a standard action, it deals 1d6 points of sonic damage per level in a 30-foot cone.
+If you cast channeled sound burst as a full-round action, it deals 1d8 points of sonic damage per level in a 30-foot cone.
+If you spend 2 full rounds casting this spell, it deals 1d10 points of sonic damage per level in a 60-foot-radius spread and permanently deafens all creatures in the area that fail Fortitude saves.
+Regardless of how long you spend casting this spell, it can't deal more than 10 dice of damage.
+When you begin casting this spell, you decide when you are finished casting it after the appropriate time has passed.
+You do not need to declare ahead of time how long you want to spend casting the spell.
+   

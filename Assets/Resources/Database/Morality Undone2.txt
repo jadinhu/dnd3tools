@@ -1,0 +1,24 @@
+<b>Morality Undone</b>(Fiendish Codex I: Hordes of the Abyss)
+
+Enchantment [Evil, Mind-Affecting]
+ <b>Level:</b>  Bard 5,  Cleric 5,   Corruption 4,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One non-evil living creature
+ <b>Duration:</b> 10 minutes/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With a cruel utterance and a complex set of hand signs, you cause great evil to swell within the targeted creature, overwhelming and confusing its sense of morality like a magnet touching a compass.
+You temporarily turn one creature evil.
+The chaotic/neutral/lawful component of the subject's alignment remains unchanged.
+The subject retains whatever outlook, allegiances, and relationships it had before, as long as they do not conflict with its new alignment.
+Otherwise, it acts with its new selfish, bloodthirsty, and cruel outlook in all matters.
+For example, a wizard affected by this spell might not immediately turn on her fighter companion, particularly in the middle of a combat when they're fighting on the same side.
+But she might allow her friend to be hurt or killed if he is carrying a valuable item that she could recover later, or she might use spells to control or deceive him in order to get what she wants.
+She might even decide to betray or attack her friend at a later time if significant potential gain is involved.
+An atonement spell restores the subject's original alignment, but a remove curse spell has no effect.
+Arcane Material Component: A powdered or splintered holy symbol.
+ <b>Also appears in</b>   Book of Vile Darkness  Lords of Madness     

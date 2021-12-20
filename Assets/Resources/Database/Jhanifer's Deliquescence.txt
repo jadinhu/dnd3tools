@@ -1,0 +1,11 @@
+<b>Jhanifer's Deliquescence</b>(City of Splendors: Waterdeep)
+
+Transmutation [Cold, Water]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+
+ 	
+As transmute rock to mud, except it transforms ice to cold water (about 40Â° F).
+The water remains until a successful dispel magic spell or spell with the cold descriptor restores its substance � ;but not necessarily its form.
+The water will freeze again naturally depending on local weather conditions and the depth of the water, normally over the course of several hours or days.
+This spell was created by SylunÃ© in her guise as Jhanifer.</p   

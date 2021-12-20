@@ -1,0 +1,25 @@
+<b>Arcane Spellsurge</b>(Dragon Magic, p. 64)
+
+Universal
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,  Wu Jen 7 (all),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+Green and yellow sparks fly off your body as a light breeze picks up, lifting loose debris and swirling around with a faint howl. 
+	
+This spell speeds the flow of magic through you, hastening your spellcasting ability. Casting times for arcane spells are reduced as follows:
+Normal Casting Time New Casting Time
+1 standard action 1 swift action
+1 full round 1 standard action
+2-10 rounds 1 round less than normal
+	
+Arcane spellsurge has no effect on any spell with a casting time of greater than 1 minute or a casting time not listed on the table. You can't choose to ignore this effect; that is, you can't opt to cast a spell using its normal casting time. Thus, if all your spells normally have casting times of 1 standard action, they take 1 swift action instead, and because you can't take more than one swift action in a round, you won't be able to cast multiple spells per round while under the effect of arcane spellsurge. (If you have available spells with casting times of 1 full round, you are still able to cast more than one of those spells per round). However, a sorcerer or other spontaneous arcane caster could cast a metamagic spell (as a standard action) and a normal spell (as a swift action) in the same round.
+	
+This spell doesn't stack with any other effect that reduces a spell's casting time.
+	
+Special: If you are of the dragonblood subtype (see page 4), you can cast this spell as a swift action.
+   

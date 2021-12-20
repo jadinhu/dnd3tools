@@ -1,0 +1,21 @@
+<b>Mark of Judgment</b>(Player's Handbook II)
+
+Necromancy
+ <b>Level:</b>  Cleric 2,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature/3 levels, no two of which are more than 30 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You call upon your deity to mark your foes as enemies of the faith.
+Divine energy surges through the area, and for a brief moment a holy symbol of your deity shines from the forehead of each targeted creature.
+You and your allies see the mark of judgment on a creature and know to strike it in preference over other unmarked targets.
+Whenever a creature succeeds on a melee or ranged attack against any subject of a mark of judgment spell, that attacker heals 2 points of damage.
+The targets of this spell must have an alignment that opposes yours on at least one axis � ;evil if you are good, lawful if you are chaotic, and so on.
+For example, a lawful good cleric can place a mark of judgment upon a chaotic good, chaotic neutral, lawful evil, neutral evil, or chaotic evil opponent.
+A neutral caster can use this spell against any good, evil, lawful, or chaotic foe.
+   

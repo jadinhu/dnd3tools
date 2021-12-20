@@ -1,0 +1,22 @@
+<b>Castigate</b>(Oriental Adventures)
+
+Evocation [Sonic]
+ <b>Level:</b>  Shaman 3,  Sohei 3,   Fury 3,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> 20 ft.
+ <b>Area:</b> Creatures in a 20-ft. spread centered on you
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+By means of this spell, you deliver a blasting rebuke upon your foes.
+Creatures within the area are affected based on their alignment in relation to yours.
+Creatures whose alignment differs from yours in one component (lawful-neutral-chaotic or good-neutral-evil) take 2d6 points of damage.
+Those whose alignment differs from yours in both components (both lawful-neutral-chaotic and good-neutral-evil) take 5d6 points of damage.
+Thus, if you are lawful good, you deal 2d6 points of damage to those of lawful neutral, lawful evil, neutral good, or chaotic good alignment, and 5d6 points of damage to those of neutral, chaotic neutral, neutral evil, and chaotic evil alignment.
+A successful Fortitude save reduces damage in either case by half.
+Creatures of any alignment different from the caster's who fail their saving throws are deafened for 1d4 rounds.
+A deafened character, in addition to the obvious effects, automatically fails Listen checks, suffers a -4 penalty on initiative, and has a 20% chance to miscast and lose any spell with a verbal (V) component that he tries to cast.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine  Defenders of the Faith: A Guidebook to Clerics and Paladins     

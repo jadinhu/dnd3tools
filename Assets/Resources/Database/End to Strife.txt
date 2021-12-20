@@ -1,0 +1,20 @@
+<b>End to Strife</b>(Book of Exalted Deeds)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Apostle of Peace 9,  Cleric 9,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 80 ft.
+ <b>Area:</b> 80-ft.-radius emanation, centered on you
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell creates an invisible aura of divine power around the caster.
+All intelligent creatures within the spell's area suddenly become aware that any hostile actions they take will be met with dire consequences.
+Any creature in the spell's area that makes an attack takes 20d6 points of damage.
+The caster decides whether the spell deals lethal or nonlethal damage but cannot change her mind once the spell is cast.
+Creatures with multiple attacks take the damage after every attack they make.
+Targets outside the area of the spell may freely attack creatures in the area without taking damage from this spell.
+   

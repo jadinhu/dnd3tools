@@ -1,0 +1,15 @@
+<b>Assay Spell Resistance</b>(Spell Compendium, p. 17)
+
+Divination
+ <b>Level:</b>  Cleric 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level
+
+ 	
+<b>Finishing the spell, your eyes glow with a pale blue radiance, and you understand how to overcome your foe's resistance to your magic.</b>
+	
+This spell gives you a +10 bonus on caster level checks to overcome the spell resistance of a specific creature. Assay resistance is effective against only one specific creature per casting, and you must be able to see the creature when you cast the spell.
+   

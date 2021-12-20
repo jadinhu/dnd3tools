@@ -1,0 +1,23 @@
+<b>Exorcism</b>(Fiendish Codex I: Hordes of the Abyss)
+
+Abjuration
+ <b>Level:</b>  Cleric 1,  Paladin 1,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+ <b>Saving Throw:</b> Will negates; see text
+
+ 	
+You force your will against that of the possessing fiend, trying with all the strength of your faith to drive it from the body of the unfortunate creature before you.
+After casting this spell, you can spend a use of your turn or rebuke undead ability (as a standard action) in an attempt to drive a possessing fiend from its host.
+The host creature or object must be within range of your turn or rebuke attempt.
+However, you do not make a turning check when you cast the spell.
+The possessing fiend must instead succeed on a Will save or be driven from the host and shunted into the nearest available open space in its incorporeal form.
+(See the rules for possession on page 21).
+This use of turn or rebuke undead has no effect on undead within range of the ability.
+A fiend driven from its host cannot attempt to possess that
+same host for 24 hours.
+Material Component: A vial of holy or unholy water.
+   

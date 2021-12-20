@@ -1,0 +1,21 @@
+<b>Absorb Weapon</b>(Complete Adventurer)
+
+Transmutation
+ <b>Level:</b>  Assassin 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Effect:</b> One touched weapon not in another creature's possession
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> Will negates (object); see text
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+You can harmlessly absorb a weapon you are touching (even a poisoned one) into your arm, so long as it is not in another creature's possession.
+	
+The weapon must be a light weapon for you at the time you cast the spell. The absorbed weapon cannot be felt under the skin and doesn't restrict your range of motion in any way. An absorbed weapon cannot be detected with even a careful search, although a detect magic spell reveals the presence of a magical aura. The only evidence of its presence is a faint blotch on your skin shaped vaguely like the weapon.
+	
+When you touch the spot (an action equivalent to drawing a weapon), or when the spell duration expires, the weapon appears in your hand and the spell ends. If you attack with the weapon in the same round that you retrieve it from its hiding place, you can attempt a Bluff check to feint in combat as a free action, and you gain a +4 bonus on the Bluff check.
+	
+An intelligent magic weapon gets a saving throw against this spell, but other weapons do not.
+ <b>Also appears in</b>   Spell Compendium  Song and Silence: A Guidebook to Bards and Rogues     

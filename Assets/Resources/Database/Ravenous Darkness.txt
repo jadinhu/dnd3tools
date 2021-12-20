@@ -1,0 +1,24 @@
+<b>Ravenous Darkness</b>(Complete Champion)
+
+Necromancy [Darkness]
+ <b>Level:</b>  Cleric 7,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None or Fortitude negates; see text
+ <b>Spell Resistance:</b> No or yes; see text
+
+ 	
+Tendrils of shadow leap from the object you've touched, then swiftly form into an all-encompassing wave.
+The spreading night seems to blot out both light and life.
+The object touched sheds darkness as a deeper darkness spell (PH 217).
+In addition, every living creature within the area of the resulting darkness (a 60-foot radius) takes 1d6 points of negative energy damage per round.
+Any creature under the influence of an ongoing negative energy effect (such as negative levels or necromantic-based ability damage) instead takes 2d6 points of damage per round.
+This effect ends for a given creature if it moves out of the area of darkness but resumes should it reenter.
+A successful Fortitude save negates the damage, but the affected creaturemust repeat the save every round, whether it succeeds or fails.
+If a creature has spell resistance, the spell must overcome it to deal damage.
+Any undead creature within the darkness instead gains fast healing 1.
+Ravenous darkness counters and dispels any light spell of equal or lower level.
+   

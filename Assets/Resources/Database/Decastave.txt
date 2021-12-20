@@ -1,0 +1,22 @@
+<b>Decastave</b>(Unapproachable East)
+
+Conjuration (Creation) [Force]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 0 ft.
+ <b>Effect:</b> Quarterstaff of force
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You conjure into existence a quarterstaff of force, approximately 8 feet long and 2 inches in diameter.
+The decastave lasts only so long as you keep it in hand; if you give it to another character or drop it, it vanishes.
+(You can cast other spells with somatic components by holding the staff in one hand).
+You can use the decastave in combat to strike with a melee touch attack, dealing 1d6 points of damage per hit.
+Since the decastave is made of force, it affects incorporeal and ethereal creatures normally (provided you can see such creatures).
+The decastave possesses the thundering weapon ability and deals 1d8 points of bonus sonic damage on a critical hit.
+Subjects dealt a critical hit by the decastave must also succeed at a Fortitude save (DC 14) or be deafened permanently.
+Material Component: A slender wand of duskwood (this material is described in Chapter 6: Magic Items of Magic of FaerÃ»n).
+   

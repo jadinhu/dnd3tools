@@ -1,0 +1,9 @@
+<b>Revitalize Legacy, Lesser</b>(Weapons of Legacy)
+
+Transmutation
+ <b>Level:</b>  Bard 5,  Cleric 5,  Druid 5,  Shugenja 5,  Sorcerer 5,  Wizard 5,  Wu Jen 5,    
+<b>Components:</b>
+
+ 	
+This spell functions like least revitalize legacy, except that you regain one daily use of a chosen lesser ability.
+   

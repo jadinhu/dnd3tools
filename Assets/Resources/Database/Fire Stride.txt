@@ -1,0 +1,22 @@
+<b>Fire Stride</b>(Forgotten Realms Campaign Setting)
+
+Transmutation [Teleportation]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 minutes/level or until expended (see text)
+
+ 	
+You gain the ability to step into fires and move from fire to fire.
+The fires you enter and move between must be at least as big around as you are.
+Fire elementals and other fire creatures are not &quot;fires&quot; for purposes of fire stride, nor are sources of great heat such as pools of lava.
+Once in a fire, you can transport yourself to any other sufficiently large fire within long range (400 ft. + 40 ft./level), and you instantly know the locations of all suitable fires within range.
+Each transport counts as a full move action.
+With each casting of the spell, you can transport yourself one time per caster level.
+If a fire's location doesn't offer enough space for you (for example, a fire contained inside a furnace too small to hold you or a fire already occupied by a big cauldron), it is not a viable destination and you don't sense its location.
+If a fire rests on a surface that can't support you, it is still a viable destination and you suffer the appropriate consequences if you transport yourself to it.
+For example, if you transport yourself into a fire burning in a pit full of oil, you fall into the oil when you arrive there.
+The spell provides no protection against fire, so it is advisable to obtain such protection before using the spell.
+ <b>Also appears in</b>   Spell Compendium     

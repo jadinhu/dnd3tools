@@ -1,0 +1,19 @@
+<b>Align Fang</b>(Miniatures Handbook)
+
+Transmutation
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Align fang makes a creature's natural weapons good-, evil-, lawful-, or chaotic-aligned, as you choose.
+A natural weapon that is aligned can overcome the damage reduction of certain creatures, usually outsiders of the opposite alignment.
+This spell has no effect on a natural weapon that is already treated as being aligned, such as the claw or bite attack of most demons.
+You can't cast this spell on a manufactured weapon, such as a sword.
+When you cast this spell to make a natural weapon good-, evil-, lawful-, or chaotic-aligned, align weapon is a good, evil, lawful, or chaotic spell, respectively.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,21 @@
+<b>Hidden Ward</b>(Magic of Eberron, p. 96)
+
+Illusion (Glamer)
+ <b>Level:</b>  Bard 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Object touched
+ <b>Duration:</b> 24 hours; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell helps disguise the presence of any spells (including <b>glyph of warding</b>) that have been cast upon the target object. If <b>detect magic</b> or a similar effect is used to detect the presence of magical auras on the object, the caster must succeed on a caster level check (DC 10 + your caster level) to find any magical auras that are the result of active spells. (The DM should make this roll in secret to prevent subicion by the players.) A single successful check will reveal both the <b>hidden ward</b> and the spells it hides.
+	
+In addition, casting this spell on a magic trap (such as a <b>fire trap</b> spell cast on an object) increases the Search DC to find the trap by one-half you caster level (maximum +5). This spell cannot be used to conceal nonmagical traps, nor does it hide the magical properties of an item that aren't dependent on active spells (such as the magic aura of a <b>+1 longsword</b>).
+	
+<b>Special:</b> When cast by a character with any Mark of Warding dragonmark, or with the Favored in House feat (Kundarak), the duration increases to one day per level.
+	
+<b>Material Component:</b> Lead shavings and powdered diamond worth 100 gp.
+   

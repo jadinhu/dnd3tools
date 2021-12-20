@@ -1,0 +1,15 @@
+<b>Miasma</b>(Complete Divine)
+
+Evocation
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 3 rounds/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+By filling the subject's mouth and throat with unbreathable gas, you prevent him from doing much more than coughing and spitting. The subject cannot speak. Conversation is impossible, spells with verbal components cannot be cast, bardic music cannot be performed, and no noise other than coughing and spitting is possible. The subject can hold his breath for 2 rounds per point of Constitution but must make a Constitution check (DC 10 +1 per previous success) each round thereafter to continue doing so. Failure on any such check (or voluntary resumption of breathing) causes the subject to fall unconscious (0 hp). On the next round, the subject drops to � ;1 hit points and is dying; on the third round, he suffocates (see Suffocation, page 304 of the Dungeon Master's Guide).
+ <b>Also appears in</b>   Spell Compendium  Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers     

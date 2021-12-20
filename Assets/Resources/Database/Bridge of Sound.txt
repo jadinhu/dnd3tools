@@ -1,0 +1,24 @@
+<b>Bridge of Sound</b>(Savage Species)
+
+Conjuration (Creation) [Sonic]
+ <b>Level:</b>  Bard 2,  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One bridge of sound 5 ft. wide, 1 in. thick, and up to 10 ft./level long
+ <b>Duration:</b> Concentration plus 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a ribbonlike, weightless, unbreakable, invisible bridge of sound.
+The bridge must be anchored to solid objects at both ends, but otherwise can be at any angle.
+Like a wall of force, it must be continuous and unbroken when formed.
+It is typically used to cross a chasm or a hazardous space.
+Creatures can move on the bridge of sound without penalty, since it is no more slippery than a typical dungeon floor.
+It is only a physical barrier to solid objects and has no effect on spells, line of sight, gaze attacks, ethereal creatures, or incorporeal creatures and objects.
+The bridge of sound can support a maximum of 200 pounds per caster level.
+Creatures that cause the total weight on the bridge of sound to exceed this limit sink through the bridge as if it weren't there.
+A bridge of sound is temporarily negated within the area of a silence spell, causing anything on it to fall.
+If the silence effect ends or is dispelled before the bridge's duration expires, the bridge is once again whole.
+   

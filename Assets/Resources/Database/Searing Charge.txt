@@ -1,0 +1,17 @@
+<b>Searing Charge</b>(Tome of Battle: The Book of Nine Swords, p. 56)
+
+Desert Wind (Strike) [Fire]
+ <b>Level:</b>  Swordsage 4 (One Desert Wind maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+<b>You rush through the air toward your foe, fire streaming in your wake.</b>
+	
+As part of this maneuver, you must charge an opponent. You gain the ability to fly at your base land speed with perfect maneuverability while charging. Resolve your charge attack normally. On a successful hit, you deal an extra 5d6 points of fire damage to the target of your charge.
+	
+This maneuver is a supernatural ability.
+   

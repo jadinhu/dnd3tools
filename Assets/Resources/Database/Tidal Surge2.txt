@@ -1,0 +1,21 @@
+<b>Tidal Surge</b>(Spell Compendium, p. 220)
+
+Evocation [Water]
+ <b>Level:</b>  Druid 6,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature or all creatures in a 20-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>An explosion of water rushes out from the point you designate, bowling over your enemies.</b>
+	
+When you cast this spell, you create a huge wave of water that slams into one or more targets within range. If no large, natural source of water (a river, lake, or ocean) exists within the spell's range, you can affect only one target. If such a source of water exists within the range of the spell, the spell creates a burst centered on a location you designate. In either case, the water deals 1d6 points of damage per caster level (maximum 15d6) to the target or to creatures within the burst.
+	
+In addition, all affected creatures are subjected to a bull rush attack, forcing them to make opposed Strength checks against the wave of water. The water has a +5 bonus on the opposed Strength check, or a +10 bonus if the spell is cast near a source of water. You designate the direction the wave pushes when you cast the spell; creatures that lose the opposed Strength check are pushed back 5 feet, plus an additional 5 feet for every 5 points by which the wave beats their Strength checks, in the chosen direction. It is possible for a wave arising from a body of water to push characters into the water.
+	
+The wave puts out torches, campfires, exposed lanterns, and other open flames if they are carried by the target or located within the area and they are Large or smaller. If the wave hits a magical fire, those flames are targeted by a dispel magic effect as if you had cast the spell.
+ <b>Also appears in</b>   Complete Divine     

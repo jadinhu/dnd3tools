@@ -1,0 +1,27 @@
+<b>Prestidigitation</b>(Player's Handbook v.3.5, p. 264)
+
+Universal
+ <b>Level:</b>  Bard 0,  Sorcerer 0,  Wizard 0,  Wu Jen 0,  Sha'ir 0,  Death Master 0,  Jester 0,  Vigilante 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 10 ft.
+ <b>Target:</b> See text
+ <b>Duration:</b> 1 hour
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+Prestidigitations are minor tricks that novice spellcasters use for practice.
+Once cast, a prestidigitation spell enables you to perform simple magical effects for 1 hour.
+The effects are minor and have severe limitations.
+A prestidigitation can slowly lift 1 pound of material.
+It can color, clean, or soil items in a 1-foot cube each round.
+It can chill, warm, or flavor 1 pound of nonliving material.
+It cannot deal damage or affect the concentration of spellcasters.
+Prestidigitation can create small objects, but they look crude and artificial.
+The materials created by a prestidigitation spell are extremely fragile, and they cannot be used as tools, weapons, or spell components.
+Finally, a prestidigitation lacks the power to duplicate any other spell effects.
+Any actual change to an object (beyond just moving, cleaning, or soiling it) persists only 1 hour.
+Characters typically use prestidigitation spells to impress common folk, amuse children, and brighten dreary lives.
+Common tricks with prestidigitations include producing tinklings of ethereal music, brightening faded flowers, creating glowing balls that float over your hand, generating puffs of wind to flicker candles, spicing up aromas and flavors of bland food, and making little whirlwinds to sweep dust under rugs.
+   

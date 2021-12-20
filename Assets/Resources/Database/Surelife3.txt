@@ -1,0 +1,20 @@
+<b>Surelife</b>(Ghostwalk)
+
+Abjuration
+ <b>Level:</b>   Repose 8,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+This spell allows you to protect yourself against some condition, such as being immersed in boiling oil or being buried under an avalanche, that would ordinarily cause certain death.
+You can protect yourself against only a natural occurrence or condition, not against a spell or the action of a creature (such as the breath of a dragon or the swords of a group of bandits).
+You must specify the condition against which you wish to protect yourself, and the spell is effective against only that condition.
+Should you be subjected to that condition during the duration of the spell, you feel no discomfort and take no damage from the condition.
+However, the spell does not protect any items carried on your person.
+At the end of the spell's duration, the condition has full normal effects on you if you are still subjected to it.
+Material Components: An ointment of peach syrup and cinnabar.
+This spell first appeared in Oriental Adventures.
+ <b>Also appears in</b>   Sandstorm  Faiths &amp; Pantheons  Player's Guide to FaerÃ»n  Deities and Demigods  Oriental Adventures     

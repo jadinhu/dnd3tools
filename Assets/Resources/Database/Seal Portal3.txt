@@ -1,0 +1,21 @@
+<b>Seal Portal</b>(Spell Compendium, p. 181)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One interplanar gate or portal
+ <b>Duration:</b> Permanent (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You cast a silver bar in the direction of the portal and it vanishes, becoming a semi-translucent net of silver magic that briefly encases the portal before disappearing.</b>
+	
+You can permanently seal an interplanar gate or portal. The spell prevents any use of the portal, although seal portal can be dispelled by a dispel magic spell. A knock spell does not function on a sealed portal, but a chime of opening dispels seal portal if seal portal was cast by a spellcaster of lower than 15th level.
+	
+Once a portal is opened, seal portal does not remain in effect and must be cast again.
+	
+<b>Material Component:</b> A silver bar worth 50 gp.
+ <b>Also appears in</b>   Manual of the Planes  Planar Handbook     

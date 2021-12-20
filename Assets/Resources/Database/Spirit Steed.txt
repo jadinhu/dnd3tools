@@ -1,0 +1,17 @@
+<b>Spirit Steed</b>(Eberron Campaign Setting, p. 115)
+
+Necromancy
+ <b>Level:</b>   Deathless 4,  Revered Ancestor 4,   
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living animal touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You channel the spirit of an ancient elf warrior into your steed, which must be a living animal. For the duration of the spell, your mount gains:
+			A +30-foot enhancement bonus to its base land speed.		The benefit of the Run feat. If the mount already has the Run feat, it can run even faster: six times its speed (if wearing light or no armor and carrying no more than a light load) or five times its speed (if wearing medium or heavy armor or carrying a medium or heavy load).		The ability to hustle for the duration of the spell without taking any damage (lethal or nonlethal) or becoming fatigued. This ability doubles the distance the steed can cover in a period of overland movement.		
+When the duration of the spell expires, the mount becomes fatigued.
+   

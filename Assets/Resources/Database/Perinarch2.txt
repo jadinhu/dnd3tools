@@ -1,0 +1,28 @@
+<b>Perinarch</b>(Spell Compendium, p. 153)
+
+Transmutation
+ <b>Level:</b>  Druid 4,  Sorcerer 4,  Wizard 4,   Limbo 4,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Duration:</b> 1 round/level; see text
+ <b>Saving Throw:</b> None (object) and Reflex negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Limbo impinges on all sides � ;colors, sounds, and elements. You speak the words and feel the power of the plane buckle within your mind, then relax as you impress order upon the chaos.</b>
+	
+This spell grants temporary control over the terrain of Limbo. Normally, unless controlled, the Ever-Changing Chaos of Limbo (<span class="caps">DMG</span> 158) is just what the plane's name implies: a roiling soup of energy and elements. Natives learn to control it or to inhabit areas that have enjoyed some measure of control for a long period, but visitors to areas of &quot;raw&quot; limbo must make a DC 16 Wisdom check to gain control over the dangerous roil.
+	
+The perinarch spell gives you automatic control of a radius of raw Limbo (an area not already stabilized or within some other creature's control) in close range. Control allows you to reshape the raw limbo as you desire, adding or subtracting one of the four basic elements once per round as a standard action. A favorite among travelers from the Material Plane is a chunk of earth surrounded by a small atmosphere of air.
+	
+The effect of this spell overlaps with the control already (potentially) established with a Wisdom check. Your allies can give their control over to you concurrently with the spell being cast, if they so choose. Control cannot be wrested away from you while the spell is in effect (which is one of the best reasons to cast this spell, even if you have a high Wisdom). If you move more than 100 feet away from the area that you controlled, the order you imposed fades away.
+	
+You are unable to achieve any works of complexity within an area you control, but you can mix two or three elements in a crude fashion; a few examples are provided below. You can attempt to seize control of a new area that already contains foes; however, foes can make a Reflex save to get out of the area.
+	
+<b>Thick Barrier:</b> You can &quot;thicken&quot; empty air with dust and rock, creating a zone around yourself and your allies that outside creatures must hack or force a way through. Their speed drops to 5 feet, or 10 feet for Large or larger creatures.
+	
+<b>Fiery Barrier:</b> You can create a thick field of flame that deals 3d10 points of fire damage to any creature attempting to pass through it. The field also deals 3d10 points of fire damage for each round a creature lingers within it.
+	
+<b>Complete Barrier:</b> You can create a complete barrier of solid stone up to 1 foot thick encircling yourself and your allies, preventing access by any other than the most accomplished tunnelers. On the other hand, you can attempt to trap foes within their own bubble of solid stone.
+ <b>Also appears in</b>   Planar Handbook     

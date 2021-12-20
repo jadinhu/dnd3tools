@@ -1,0 +1,16 @@
+<b>Touch of Restoration</b>(Complete Champion)
+
+Conjuration (Healing)
+ <b>Level:</b>  Paladin 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute
+
+ 	
+When you pray for the power to restore that which your friend has lost, a beam of sun breaks through the clouds and bathes your hands in golden light.
+Casting touch of restoration lets you use your lay on hands ability to cure ability damage.
+While this spell is active, you can cure 1 point of ability damage per caster level by laying on hands, and you can split these points among different creatures if desired.
+For every point of ability damage you cure in this manner, you must subtract 1 from your effective level when determining how many hit points of damage you can heal with your standard lay on hands ability for the remainder of the day.
+   

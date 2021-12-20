@@ -1,0 +1,25 @@
+<b>Water to Acid</b>(Stormwrack)
+
+Transmutation [Water]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10.
+
+ 	
+ft./level)
+Area: Up to 1 cu. ft./level
+Duration: Instantaneous
+Saving Throw: None
+Spell Resistance: No
+You transform a volume of water into an equal volume of acid, which deals damage to creatures that come into contact with it.
+You cannot transform water inside a creature's body, but you can affect water surrounding it.
+Water containing more than a trace of dissolved or suspended substances can't be affected by this spell.
+You can fill a flask with acid produced in this way and throw it as a splash weapon that deals 1d6 points of acid damage on a direct hit and 1 point of acid damage from a splash (see page 128 of the Player's Handbook).
+Each round a creature is in contact with the acid, it takes 1d6 points of acid damage.
+Underwater, the acid created by this spell dissipates after 1 round/caster level.
+The acid dissolves metallic objects it contacts.
+It deals 1d6 points of damage per round and ignores the object's hardness.
+A magic item makes a Fortitude saving throw each round for half damage.
+Material Component: A few drops of vinegar.
+   

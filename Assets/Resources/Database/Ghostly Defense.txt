@@ -1,0 +1,18 @@
+<b>Ghostly Defense</b>(Tome of Battle: The Book of Nine Swords, p. 72)
+
+Setting Sun (Stance)
+ <b>Level:</b>  Swordsage 8 (Three Setting Sun maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You lurk within concealing mist, luring your opponent into attacking you, only to dodge out of the way and direct your enemy?s blow at an unwitting ally.</b>
+	
+You are a ghost in the mist, capable of turning a foe against her allies. By gauging your opponent?s fighting stance, timing your dodge correctly, and placing yourself in the right position, you can lead her into attacking one of her allies rather than you. When your foe strikes, you duck out of the way. As she follows through with her attack, she inadvertently attacks an ally. 
+	
+You gain this stance?s benefit when an opponent?s attack against you has a miss chance, such as from concealment. Whenever an opponent?s melee or ranged attack misses you because of this miss chance, you can choose to change the target of the attack from you to another eligible target (other than your attacker). For a melee attack, the new target must be within your opponent?s reach and adjacent to you. For a ranged attack, the new target must be adjacent to you, and your opponent must have line of effect to him. Use the result of the original attack to determine if it hits the new target. Your foe does not check again for a miss chance, as you guide the attack directly to the new target. This ability applies only once per attack. If you use ghostly defense to redirect an attack against a foe using this stance, he does not have the option to redirect the attack again.
+	
+You must be aware of an opponent?s attack to gain the t of this stance. You cannot use it against attacks that catch you flat-foot   

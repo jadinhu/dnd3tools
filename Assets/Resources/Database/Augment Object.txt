@@ -1,0 +1,17 @@
+<b>Augment Object</b>(Stronghold Builder's Guidebook)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Object of up to 200 cubic ft./level
+ <b>Duration:</b> 1 day/level
+ <b>Saving Throw:</b> None (Object)
+ <b>Spell Resistance:</b> Yes (Object)
+
+ 	
+This spell adds +20 to the break DC of the object and doubles its hardness and hit points.
+An augmented object also gains a saving throw against spells when unattended as if it were a magic item (save bonus equals 2 + half the caster level).
+Material Component: A pinch of chalk.
+   

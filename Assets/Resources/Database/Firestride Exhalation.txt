@@ -1,0 +1,25 @@
+<b>Firestride Exhalation</b>(Dragon Magic)
+
+Conjuration/Evocation (Teleportation) [Fire]
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,  Wu Jen 4 (fire),    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.; see text
+ <b>Area:</b> Cone-shaped burst; see text
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With a word and a gesture, you fill your lungs with swirling, burning energy.
+Then, with a mighty exhalation, you flood the space before you with a powerful cone of fire.
+As the last wisps of energy leave your lips, your body becomes part of the breath weapon, allowing you to flow through space and reform your body anywhere within the breath's area.
+You breathe forth a cone of fire that deals 8d6 points of fire damage.
+A successful Reflex save halves this damage, and spell resistance applies.
+When you cast this spell, you have the option of becoming part of the breath weapon and teleporting instantly to any unoccupied space within the breath weapons area.
+Your entire body need not fit within the breath's area, as long as your new space shares at least 1 square with the breath weapon's area.
+You bring along any gear worn or carried (up to your maximum load).
+You can't bring along other creatures except for your familiar.
+You must make this decision when casting the spell, before any other effects of the breath weapon are resolved (such as saves, spell resistance, and so forth).
+You aren't damaged by the spell's effect when you appear within its area.
+   

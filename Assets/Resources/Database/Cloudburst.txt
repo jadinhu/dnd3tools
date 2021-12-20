@@ -1,0 +1,21 @@
+<b>Cloudburst</b>(Complete Divine, p. 158)
+
+Evocation [Water]
+ <b>Level:</b>  Druid 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 100-ft.-radius emanation
+ <b>Duration:</b> 10 min./level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You cause clouds to gather and a heavy rain to fall.
+The rain reduces visibility ranges by half, resulting in a -4 penalty on Spot and Search checks.
+It automatically extinguishes unprotected flames, and has a 50% chance of extinguishing protected flames.
+Ranged weapon attacks and Listen checks suffer a -4 penalty.
+This spell does not function indoors, underground, underwater, or in desert climates.
+After the spell end, the water created evaporates over the next 10 minutes.
+The water created with this spell does not slake thirst or provide any nourishment to plants.
+ <b>Also appears in</b>   Magic of Faerun  Spell Compendium     

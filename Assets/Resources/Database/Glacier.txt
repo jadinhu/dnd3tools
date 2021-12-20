@@ -1,0 +1,23 @@
+<b>Glacier</b>(Frostburn)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Druid 8,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels); see text
+ <b>Effect:</b> One 20-ft. cube/2 levels
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+When you cast this spell, you bring into existence 20-foot cubes of animated glacial ice (one per two caster levels, to a maximum of ten glaciers at 20th level), which need not appear adjacent to one another, butmust be placed on a horizontal surface.
+Glaciers placed in the air or on nonhorizontal surfaces do not appear, but are deducted from the number of glaciers the caster may conjure.
+The glaciers remain stationary unless commanded, attacking any creatures within 5 feet with a +15 slam attack that deals 2d8+4 points of damage, plus 3d6 points of cold damage.
+As a standard action, you may command any number of glaciers to move at a speed of 10 feet.
+You cannot command any glacier to move more than 100 feet away from you, and if you move more than 100 feet from any glacier, that glacier remains stationary, attacking any creatures in its area (but it can be commanded again if you move with in 100 feet).
+A glacier has 20 hit points per caster level and a hardness of 0.
+Creatures can hit the glacier automatically.
+Fire, including a fireball spell and red dragon breath, can melt a glacier, and it deals full damage to the ice (instead of the normal half damage taken by objects).
+Suddenly melting a glacier creates a great cloud of steamy fog that lasts for 10 minutes.
+   

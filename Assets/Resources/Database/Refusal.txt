@@ -1,0 +1,24 @@
+<b>Refusal</b>(Complete Arcane)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Two 10-ft. squares/level (S)
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Will negates; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create a special ward that prevents unauthorized spellcasters or creatures with spell-like abilities from entering an area.
+Any creature that has spells prepared, spell slots available for casting without preparation, or innate spell-like abilities must succeed on a Will save or be halted by an invisible barrier that prevents passage.
+The DC of the Will save increases by a number equal to the spell level of the highest-level spell the creature has prepared or is capable of casting (so that a 10th-level sorcerer who hasn't yet exhausted his 5th-level spell slots for the day adds +5 to the save DC).
+You can choose to designate a password or special condition (such as character race, alignment, possession of a token, or any other observable or detectable characteristic) by which spellcasting characters and creatures can enter the refusal-warded area.
+Creatures that have no spellcasting capability or spell-like abilities (including spellcasters who have exhausted their spell slots, and creatures with spell trigger or spell completion magic items) can pass through the barrier with no difficulty.
+Spellcasters and creatures that have spell-like abilities and that are already within the area you protect when you create the ward are not compelled to leave or restricted in their movement within it (and spells and spell-like abilities can pass through the barrier in either direction with no difficulty).
+However, if such creatures leave the area, they must succeed on saving throws as described above to return.
+Creatures attempting to use any teleportation spell or effect to enter the warded area make the normal saving throw.
+They are shunted harmlessly to the nearest safe space outside the warded area if they fail.
+Material Component: A pinch of dust from a wizard's tomb.
+ <b>Also appears in</b>   Spell Compendium     

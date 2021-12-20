@@ -1,0 +1,18 @@
+<b>Azuth's Spell Shield</b>(Magic of Faerun)
+
+Abjuration
+ <b>Level:</b>  Cleric 7 (Azuth),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to one creature/level, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level (see text)
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Each targeted creature gains spell resistance equal to 12 + caster level.
+Divide the duration evenly among all the creatures you target.
+In order to affect a creature who has spell resistance with a spell, a spellcaster must roll the creature's spell resistance or higher on 1d20 + caster level.
+A creature with spell resistance may voluntarily lower it in order to accept a spell.
+   

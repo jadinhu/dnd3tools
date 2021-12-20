@@ -1,0 +1,23 @@
+<b>Speaking Stones</b>(Magic of Eberron, p. 102)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Two normal objects touched, weighing up to 1 lb. each
+ <b>Duration:</b> 24 hours or until discharged: see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell allows you to fashion a magical link between two stones (or any other mundane, nonmagical objects weighing up to 1 pound each). This link allows each stone to pass a single message to the other, no matter how great the distance between them after the spell is first cast.
+	
+Once the stones are transmuted with this spell, a creature holding one stone can send a message of no more than twenty-five words as a standard action. The message instantly sounds from the other stone, loud enough to be heard by anyone within 5 feet of it. The spell ends after each stone passess one message to its twin, or the spell's duration elapses, whichever occurs first.
+	
+Messages are not transmitted across planar boundaries. If the bearer of one <b>speaking stone</b> attempts to pass a message while the other stone is on another plane, the message rebounds and plays back on the original stone. This playback counts as that stone's single message transmission.
+	
+No object can have more than one <b>speaking stones</b> spells cast upon it. A second <b>speaking stones</b> cast upon the same object ends the first spell.
+	
+<b>Special:</b> A character with any mark of Scribing dragonmark, or with thw Favored in House feat (Sivis), can send a message of up to 100 words through any object upon which she has cast this spell.
+   

@@ -1,0 +1,21 @@
+<b>Silence</b>(Player's Handbook v.3.5, p. 279)
+
+Illusion (Glamer)
+ <b>Level:</b>  Court Herald 1,  Bard 2,  Cleric 2,  Vigilante 2,  Beguiler 2,  Death Master 2,   Spell 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> 20-ft.-radius emanation centered on a creature, object, or point in space
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> Will negates; see text or none (object)
+ <b>Spell Resistance:</b> Yes; see text or no (object)
+
+ 	
+Upon the casting of this spell, complete silence prevails in the affected area.
+All sound is stopped: Conversation is impossible, spells with verbal components cannot be cast, and no noise whatsoever issues from, enters, or passes through the area.
+The spell can be cast on a point in space, but the effect is stationary unless cast on a mobile object.
+The spell can be centered on a creature, and the effect then radiates from the creature and moves as it moves.
+An unwilling creature can attempt a Will save to negate the spell and can use spell resistance, if any.
+Items in a creature's possession or magic items that emit sound receive the benefits of saves and spell resistance, but unattended objects and points in space do not.
+This spell provides a defense against sonic or language-based attacks, such as command, a harpy's captivating song, a horn of blasting, and the like.
+   

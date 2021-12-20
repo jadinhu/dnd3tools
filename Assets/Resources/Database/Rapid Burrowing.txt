@@ -1,0 +1,16 @@
+<b>Rapid Burrowing</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Cleric 2,  Ranger 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell increases the touched creature's burrow speed by 20 feet.
+It has no effect on other modes of movement, nor does it allow the subject to burrow if it cannot already do so or the ability to burrow through stone if it cannot already do so.
+ <b>Also appears in</b>   Spell Compendium     

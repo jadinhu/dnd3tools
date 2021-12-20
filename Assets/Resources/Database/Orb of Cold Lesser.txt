@@ -1,0 +1,10 @@
+<b>Orb of Cold, Lesser</b>(Complete Arcane)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,  Warmage 1,    
+<b>Components:</b>
+ <b>Effect:</b> One orb of cold
+
+ 	
+This spell functions like lesser orb of acid, except that it deals cold damage.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,18 @@
+<b>Invoke Magic</b>(Lords of Madness)
+
+Evocation
+ <b>Level:</b>  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+You cause a flicker of magic to momentarily exist in a place where magic cannot normally function, such as within the area of an antimagic field, a dead magic area, or a null-magic plane.
+This allows you the ability to cast a single spell of 4th level or lower, which then ends the spell's effect.
+Casting invoke magic is a swift action, like casting a quickened spell.
+You can perform only one swift action each round.
+Normally, you cast invoke magic and then immediately follow it by casting another spell as a standard action.
+Material Component: A diamond worth at least 1,000 gp.
+   

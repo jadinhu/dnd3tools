@@ -1,0 +1,17 @@
+<b>Wolf Pack Tactics</b>(Tome of Battle: The Book of Nine Swords, p. 90)
+
+Tiger Claw (Stance)
+ <b>Level:</b>  Swordsage 8 (Two Tiger Claw maneuvers),  Warblade 8 (Two Tiger Claw maneuvers),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>With each stinging attack that connects against a foe, you slip around him, using the distraction provided by your attacks to prevent him from hindering your movement.</b>
+	
+You prowl the battlefield like a mighty hunter. You pick your spots to attack, striking foes when they are most vulnerable before moving on to attack elsewhere. Each attack allows you to move forward and press your advantage.
+	
+While you are in this stance, each successful strike allows you to slowly work your way around an opponent. Each time you make a successful melee attack, you can move 5 feet. This movement does not provoke attacks of opportunity from the creature you struck. You cannot use this stance to move more than your current speed in a single round.
+   

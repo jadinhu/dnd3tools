@@ -1,0 +1,22 @@
+<b>Investiture of the Malebranche</b>(Fiendish Codex II: Tyrants of the Nine Hells)
+
+Transmutation [Evil, Investiture]
+ <b>Level:</b>  Blackguard 4,  Cleric 6,  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+A fearsome roar splits the air when you conclude the arcane words that invest the target with hellish power drawn from a malebranche.
+You infuse a creature with the raw power of the mighty malebranche, causing it to grow twisted horns of blackened bone from of its brow.
+While under the effect of this spell, the subject deals extra damage whenever it successfully hits with a charge attack, depending on its size.
+In addition, the subject gains resistance to fire 10.
+This resistance stacks with the resistance granted by other evil investiture spells (but not with multiple castings of investiture of the malebranche).
+While this spell is in effect, magic weapons with the evil outsider bane special ability have full effect against the subject of the investiture.
+After the spell's duration expires (or if it is dispelled or ended through some other means), the subject is fatigued for 1 minute.
+Material Component: A fist-sized chunk of brimstone.
+   

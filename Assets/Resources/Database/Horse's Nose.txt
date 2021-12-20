@@ -1,0 +1,25 @@
+<b>Horse's Nose</b>(Oriental Adventures)
+
+Transmutation
+ <b>Level:</b>  Shugenja 2 (Water),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 hour/level (D)
+
+ 	
+You gain the Scent special ability (fully described in Chapter 3 of the Dungeon Master's Guide).
+You can detect approaching enemies, sniff out hidden foes, and track by sense of smell.
+You can detect opponents by sense of smell within 30 feet.
+If the opponent is upwind, the range is 60 feet; if it is downwind, the range is only 15 feet.
+Strong and overpowering scents increase the range (as noted in the <span class="caps">DMG</span>).
+You can note a creature's presence; determining the direction of the scent requires a move-equivalent action, and you can pinpoint the creature's location if you move to within 5 feet of it.
+You can make a Wisdom check to find or follow a track by scent.
+The typical DC for a fresh trail is 10.
+Modifiers to the DC are listed in the <span class="caps">DMG</span>.
+Water ruins the trail.
+You can identify familiar odors just like you identify familiar sights.
+However, an odor is not necessarily familiar to you if your only previous exposure to it was while you were not under the influence of horse's nose.
+You only recognize odors that you could detect normally (without the aid of this spell).
+   

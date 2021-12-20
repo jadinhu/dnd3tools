@@ -1,0 +1,15 @@
+<b>Understand Device</b>(Player's Guide to FaerÃ»n)
+
+Divination
+ <b>Level:</b>   Initiate of gond 3,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level
+
+ 	
+You gain an intuitive insight into the weaknesses and flaws of mechanical objects.
+You can make untrained Disable Device and Open Lock checks as if you had 1/2 rank in each skill.
+You gain an insight bonus equal to your caster level (maximum +15) on Disable Device and Open Lock checks.
+ <b>Also appears in</b>   Magic of Faerun     

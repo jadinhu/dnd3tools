@@ -1,0 +1,24 @@
+<b>Maelstrom</b>(Stormwrack)
+
+Conjuration (Creation) [Water]
+ <b>Level:</b>   Blackwater 8,  Ocean 8,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Effect:</b> Whirlpool 120 ft. wide and 60 ft. deep
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Reflex negates
+ <b>Spell Resistance:</b> No
+
+ 	
+This spell causes a deadly vortex to form in water.
+A body of water at least 120 feet wide and 60 feet deep must be present, or the spell is wasted.
+Waterborne creatures or objects within 50 feet of the vortex (below and on all sides) must make Reflex saves or be sucked in.
+These creatures take 3d8 points of damage upon being sucked in.
+Trained swimmers can attempt Swim checks instead if their skill modifier is higher than their Reflex save bonus.
+Waterborne vessels avoid being sucked in if their operators make Profession (sailor) checks against the same DC as the spell's saving throw.
+Once inside, creatures and objects take 3d8 points of battering damage each round.
+They remain trapped for 2d4 rounds.
+Subjects of Large or smaller size are ejected from the bottom of the vortex.
+Huge, Gargantuan, or Colossal subjects are ejected from the top.
+ <b>Also appears in</b>   Spell Compendium  Complete Divine  Forgotten Realms Campaign Setting     

@@ -1,0 +1,18 @@
+<b>Languor</b>(Masters of the Wild: A Guidebook to Barbarians, Druids, and Rangers)
+
+Transmutation
+ <b>Level:</b>  Druid 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Ray
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell causes creatures it hits to become weak and slow.
+A subject who fails a Will save is slowed as the spell and suffers a cumulative enhancement penalty to Strength equal to 1d6-1 per two caster levels (minimum additional penalty of 0, maximum of -10) each round.
+If the subject's Strength drops below 1, it is helpless.
+This spell does not counter haste nor it is countered by it, but a hasted creature can be brought to normal speed by languor, and a creature affected by languor can be brought to normal speed by haste.
+ <b>Also appears in</b>   Complete Divine  Spell Compendium     

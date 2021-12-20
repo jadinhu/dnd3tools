@@ -1,0 +1,19 @@
+<b>Joyful Noise</b>(Song and Silence: A Guidebook to Bards and Rogues)
+
+Abjuration
+ <b>Level:</b>  Bard 1,    
+<b>Components:</b>S, AF, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius emanation centered on you
+ <b>Duration:</b> Concentration (see text)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+By making a strumming, drumming, or whistling gesture, you negate any magical silence in the area.
+This zone of negation moves with you and lasts as long as you continue the performance.
+The silence is not dispelled but simply held in abeyance; it remains in effect outside the area of the joyful noise.
+Thus, this spell is usually used to move a group out of range of a silence effect.
+Focus: The caster's instrument.
+ <b>Also appears in</b>   Spell Compendium  Complete Adventurer     

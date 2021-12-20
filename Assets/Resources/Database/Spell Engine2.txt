@@ -1,0 +1,23 @@
+<b>Spell Engine</b>(Spell Compendium, p. 198)
+
+Abjuration [Force]
+ <b>Level:</b>  Wizard 8,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> 5-ft.-radius magical wheel
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes; see text
+
+ 	
+<b>You speak a word of abjuration and thrust aloft the bone disk and silver wheel, held together by a single tear. The disk and wheel begin to spin, then vanish, but you feel the power of the mystic engine created nearby.</b>
+	
+Upon casting this spell, you can swap out any or all of your prepared spells for other spells from your spellbook. Each prepared spell must be swapped for a spell of the same level. Empty spell slots from a spell cast earlier in the day (including the casting of this spell) cannot be refreshed.
+	
+Preparing spells within the light provided by a spell engine takes only half as long as normal.
+	
+Material Components: A disk of polished bone, one of your tears, and a silver wheel worth 500 gp.
+	
+XP Cost: 250 XP.
+ <b>Also appears in</b>   Magic of Faerun     

@@ -1,0 +1,16 @@
+<b>Crawling Darkness</b>(Magic of Faerun)
+
+Conjuration (Creation)
+ <b>Level:</b>  Cleric 5 (Shar),    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+You bring into being a shroud of dark, writhing tentacles around your body.
+The tentacles do not interfere with your movement or spellcasting, but they provide you one-half concealment (20% miss chance) and totally hide your features.
+You get a +4 competence bonus on all grapple checks, Climb checks, and Escape Artist checks.
+The crawling darkness automatically protects you with feather fall if you ever fall more than 3 feet and allows you to water walk at will.
+ <b>Also appears in</b>   Savage Species  Spell Compendium     

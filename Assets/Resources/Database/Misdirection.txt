@@ -1,0 +1,21 @@
+<b>Misdirection</b>(Player's Handbook v.3.5, p. 254)
+
+Illusion (Glamer)
+ <b>Level:</b>  Assassin 3, Bard 2,  Urban Druid 2,  Jester 2,  Death Master 2,  Sha'ir 2,  Wu Jen 2,  Thayan Slaver 2,  Beguiler 2,  Vigilante 2,  Wizard 2,  Sorcerer 2,  Court Herald 2,  Slayer of Domiel 3,  Ebonmar Infiltrator 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature or object, up to a 10-ft. cube in size
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None or Will negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+By means of this spell, you misdirect the information from divination spells that reveal auras (detect evil, detect magic, discern lies, and the like).
+On casting the spell, you choose another object within range.
+For the duration of the spell, the subject of misdirection is detected as if it were the other object.
+(Neither the subject nor the other object gets a saving throw against this effect).
+Detection spells provide information based on the second object rather than on the actual target of the detection unless the caster of the detection succeeds on a Will save.
+For instance, you could make yourself detect as a tree if one were within range at casting: not evil, not lying, not magical, neutral in alignment, and so forth.
+This spell does not affect other types of divination magic (augury, detect thoughts, clairaudience/clairvoyance, and the like).
+   

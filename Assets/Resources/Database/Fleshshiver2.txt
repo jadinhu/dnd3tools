@@ -1,0 +1,21 @@
+<b>Fleshshiver</b>(Spell Compendium, p. 95)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Breaking the bone in the grip of your fist, you hear the sickening but satisfying crunch of your foe's bones breaking beneath his squeezing flesh.
+	
+A creature with Hit Dice less than or equal to your caster level is automatically stunned for 1 round (no saving throw). A creature with Hit Dice greater than your caster level is allowed a saving throw to negate the stunning effect.
+	
+In the following round, the target must make a Fortitude save or take 1d6 points of damage per caster level (maximum 15d6) and be nauseated by the pain for 1d4+2 rounds.
+	
+Material Component: A bone, which is snapped during the casting of the spell.
+ <b>Also appears in</b>   Player's Guide to FaerÃ»n     

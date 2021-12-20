@@ -1,0 +1,17 @@
+<b>Phantom Threat</b>(Complete Warrior)
+
+Illusion (Phantasm) [Mind-Affecting]
+ <b>Level:</b>  Bard 1,  Hexblade 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You create the sensation in the subject's mind that he is threatened by more foes than he actually faces.
+Though the subject doesn't actually perceive any additional enemies (and thus doesn't waste any attacks on the phantasm), a creature affected by this spell is considered flanked, even if not threatened by other creatures.
+No amount of convincing by others can help the victim of this spell avoid its effect � ;only a successful saving throw against the spell when initially cast can help the target.
+ <b>Also appears in</b>   Spell Compendium     

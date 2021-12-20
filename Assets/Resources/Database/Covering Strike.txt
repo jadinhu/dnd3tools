@@ -1,0 +1,19 @@
+<b>Covering Strike</b>(Tome of Battle: The Book of Nine Swords, p. 91)
+
+White Raven (Boost)
+ <b>Level:</b>  Crusader 4 (One White Raven maneuver),  Warblade 4 (One White Raven maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 3 rounds
+
+ 	
+<b>You make a ferocious series of attacks at your enemies, forcing them on the defensive and buying your allies critical seconds needed to slip past them unharmed.</b>
+	
+By drawing on your combat experience and knowledge of how a warrior must carry herself in battle, you make an attack that disrupts your opponents and keeps them from taking advantage of your allies' lapses.
+	
+After you initiate this boost, you can make your attacks as normal. In addition to taking normal melee damage from your blows, a foe you strike after initiating this maneuver cannot make attacks of opportunity for 3 rounds. The target still threatens its normal area; it simply cannot make attacks of opportunity.
+	
+A creature can be affected by only one covering strike per encounter.
+   

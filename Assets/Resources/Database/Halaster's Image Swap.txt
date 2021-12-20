@@ -1,0 +1,22 @@
+<b>Halaster's Image Swap</b>(City of Splendors: Waterdeep)
+
+Conjuration (Teleportation)
+ <b>Level:</b>  Bard 4,  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> You and touched objects weighing up to 50
+
+ 	
+lb./level
+Duration: Instantaneous
+Saving Throw: None and Will negates (object)
+Spell Resistance: No and Yes (object)
+You instantly swap locations with a projected image.
+You always arrive exactly where your image previously stood, and you leave a projected image in your wake.
+To anyone incapable of discerning that the projected image is an illusion, the image swap occurs without visible clue.
+To anyone capable of discerning that the projected image is an illusion, the image swap is effectively identical to a dimension door.
+This spell has no effect if you do not have a projected image in effect.
+Unlike normal teleport spells, use of Halaster's image swap does not count as breaking one's line of sight with a projected image.
+Material Component: A small replica of you (a doll).
+   

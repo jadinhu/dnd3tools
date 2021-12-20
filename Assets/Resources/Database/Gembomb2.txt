@@ -1,0 +1,21 @@
+<b>Gembomb</b>(Spell Compendium, p. 101)
+
+Evocation [Force]
+ <b>Level:</b>   Gnome 2,  Trade 2,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Touch
+ <b>Target:</b> Gem touchted
+ <b>Duration:</b> 10 minutes / level or until used
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You place a small spark of energy in the heart of a valuable gem.</b>
+	
+You turn a gem into a bomb that you (and only you) can lob at enemies. You must hold the gem in your hand when casting the spell. 
+	
+You can toss the bomb with perfect accuracy anywhere within 60 feet. The gembomb explodes in a 5-foot radius burst dealing 1d8 points of force damage per two caster levels (maximum 5d8). Tossing a gembomb is a standard action. 
+	
+<b>Material Component:</b> A gem worth at least 1 gp.
+ <b>Also appears in</b>   Forgotten Realms Campaign Setting     

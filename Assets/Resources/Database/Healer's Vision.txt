@@ -1,0 +1,19 @@
+<b>Healer's Vision</b>(Complete Scoundrel)
+
+Divination
+ <b>Level:</b>  Assassin 1,  Cleric 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+Every thrumming vein, every strained muscle, and every pulsing organ of those nearby becomes visible to your eyes, showing you exactly where to place a healing hand&#8230; or a deadly strike.
+You gain a macabre change to your vision that seemingly peels away skin and sinew to reveal the flesh beneath.
+You gain a +5 insight bonus on Heal checks, and any cure spell you cast on a living creature heals 1 extra point of damage per level of the spell.
+You also gain a +2 bonus on attack rolls and damage rolls when making a precision-based attack (such as a sneak attack or a sudden strike) against a living creature, since you are able to pick out your target's most vital points.
+(This effect makes the spell popular among less benevolent casters).
+Healer's vision does not grant you the ability to make a precision-based attack if you don't already have that ability, nor does it allow you to make such attacks against creatures normally unaffected by them.
+This spell does not reveal the true forms of creatures affected by illusions or other magical disguises, so it grants no benefit to Heal checks or attacks against such creatures.
+   

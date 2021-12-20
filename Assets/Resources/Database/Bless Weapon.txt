@@ -1,0 +1,17 @@
+<b>Bless Weapon</b>(Player's Handbook v.3.5, p. 205)
+
+Transmutation
+ <b>Level:</b>  Paladin 1,  Slayer of Domiel 1,  Vassal of Bahamut 1,  Knight of the Weave 1,  Knight of the Chalice 1,   Glory 2,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+This transmutation makes a weapon strike true against evil foes. The weapon is treated as having a +1 enhancement bonus for the purpose of bypassing the damage reduction of evil creatures or striking evil incorporeal creatures (though the spell doesn't grant an actual enhancement bonus). The weapon also becomes good, which means it can bypass the damage reduction of certain creatures, particularly evil outsiders. (This effect overrides and suppresses any other alignment the weapon might have). Individual arrows or bolts can be transmuted, but affected projectile weapons (such as bows) don't confer the benefit to the projectiles they shoot.
+	
+In addition, all critical hit rolls against evil foes are automatically successful, so every threat is a critical hit. This last effect does not apply to any weapon that already has a magical effect related to critical hits, such as a keen weapon or a vorpal sword.
+   

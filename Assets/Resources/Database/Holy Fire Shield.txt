@@ -1,0 +1,12 @@
+<b>Holy Fire Shield</b>(Champions of Valor)
+
+Evocation [Fire or Cold, Good]
+ <b>Level:</b>   Sanctified 4,   
+<b>Components:</b>V, S, Sacrifice
+
+ 	
+This spell functions like fire shield, except half the damage from the spell is fire (or cold) and the remainder is divine energy, similar to a flame strike spell.
+If you create a warm shield, the flames are a beautiful golden-red.
+If you create a chill shield, the flames are a soothing blue-white.
+Sacrifice Component: 1d3 points of Strength damage.
+   

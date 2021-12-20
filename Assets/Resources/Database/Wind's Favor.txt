@@ -1,0 +1,17 @@
+<b>Wind's Favor</b>(Magic of Eberron, p. 104)
+
+Transmutation [Air]
+ <b>Level:</b>  Druid 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Area of wind 10 ft. wide by 10 ft. high by 100 ft. + 10 ft./level long
+ <b>Duration:</b> 1 hour/level (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You create a localized area of strong wind (approximately 30 mph). This effect has limited utility in battle (see Table 3 � ;24: Wind Effects, page 95 of the Dungeon Master's Guide), but is often used to propel sailing craft. By concentrating as a full-round action, you can change the direction of the wind by 45 degrees.
+	
+This spell is effectively identical to the spell-like ability that can be gained by a character with the lesser Mark of Storm (see page 66 of the <span class="caps">EBERRON</span> Campaign Setting), except the range and the affected area are different, as given above.
+   

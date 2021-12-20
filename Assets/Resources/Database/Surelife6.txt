@@ -1,0 +1,18 @@
+<b>Surelife</b>(Sandstorm)
+
+Abjuration
+ <b>Level:</b>   Repose 8,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 min./level
+
+ 	
+This spell protects you against some condition � ;such as being immersed in boiling oil or buried under an avalanche � ;that would ordinarily cause certain death.
+You can protect yourself only against a natural occurrence or nonmagical condition, not against a spell or the action of a creature (such as the breath of a dragon or the swords of a group of bandits).
+At the time of the casting, you must specify the condition against which you wish to protect yourself, and the spell is effective against only that condition.
+Should you be subjected to that condition during the duration of the spell, you feel no discomfort and take no damage from the condition, though the spell does not protect any items you carry.
+If you are still subject to the condition at the end of the spell's duration, you experience its full normal effects.
+Material Component: An ointment of peach syrup and cinnabar.
+ <b>Also appears in</b>   Ghostwalk  Faiths &amp; Pantheons  Player's Guide to FaerÃ»n  Deities and Demigods  Oriental Adventures     

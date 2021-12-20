@@ -1,0 +1,21 @@
+<b>Animate Siege Weapon</b>(Heroes of Battle)
+
+Transmutation
+ <b>Level:</b>  Cleric 7,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 round
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One siege weapon of up to Gargantuan size
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You imbue a siege weapon, such as a ballista or a battering ram, with mobility and the semblance of life.
+(See the Size column on Table 4-1, page 67, to determine which siege weapons can be affected by this spell).
+The siege weapon attacks whomever or whatever you initially designate, continuing to do so as long as the spell lasts.
+You can give it a new command as a free action as long as you are within range, and you can even command it to allow itself to be operated normally (in which case it gains none of the benefits of this spell).
+The siege weapon can operate itself as if it were crewed by a normal complement of operators.
+It automatically succeeds on any checks required to operate it.
+It uses your caster level as its attack bonus when acting as a siege weapon.
+   

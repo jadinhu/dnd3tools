@@ -1,0 +1,20 @@
+<b>Ashen Union</b>(Sandstorm)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half and Fortitude partial; see text
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You drain all the moisture from the body of a living creature, dealing it 1d6 points of dessication damage per two caster levels (maximum 10d6).
+A creature that makes a successful Fortitude save takes half damage.
+If the subject takes damage from the spell (whether its first save was successful or not) equal to more than half of its current hit points, it must make another Fortitude saving throw or die as its body expels all remaining fluid, leaving behind only a fragile husk that powders to ash at the least touch.
+A victim's equipment is unaffected.
+A creature that is affected but not slain by the spell is dehydrated (see page 15).
+Material Component: A piece of dried fruit and a pinch of dust.
+   

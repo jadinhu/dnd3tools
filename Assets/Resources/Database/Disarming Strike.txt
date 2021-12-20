@@ -1,0 +1,13 @@
+<b>Disarming Strike</b>(Tome of Battle: The Book of Nine Swords, p. 67)
+
+Iron Heart (Strike)
+ <b>Level:</b>  Warblade 2,    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Melee attack
+ <b>Target:</b> One creature
+
+ 	
+<b>You chop at your foe?s hand, causing a grievous injury and forcing him to drop his weapon.</b>
+	
+This maneuver allows you to combine a disarm attempt with a normal attack. You make a single melee attack as part of this strike. If this attack hits and deals damage, you can also attempt to disarm your opponent (PH 155). This disarm attempt does not provoke attacks of opportunity, nor is there any risk that your foe can disarm you.</p   

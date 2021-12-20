@@ -1,0 +1,19 @@
+<b>Read Magic</b>(Player's Handbook v.3.5, p. 269)
+
+Divination
+ <b>Level:</b>  Bard 0,  Urban Druid 0,  Death Master 0,  Sha'ir 0,  Wu Jen 0,  Blighter 0,  Beguiler 0,  Court Herald 0,  Healer 0,  Adept 0,  Cleric 0,  Druid 0,  Wizard 0,  Sorcerer 0,  Paladin 1,  Ranger 1,  Vigilante 1,  Knight of the Weave 1,  Hoardstealer 1,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 min./level
+
+ 	
+By means of read magic, you can decipher magical inscriptions on objects � ;books, scrolls, weapons, and the like � ;that would otherwise be unintelligible.
+This deciphering does not normally invoke the magic contained in the writing, although it may do so in the case of a cursed scroll.
+Furthermore, once the spell is cast and you have read the magical inscription, you are thereafter able to read that particular writing without recourse to the use of read magic.
+You can read at the rate of one page (250 words) per minute.
+The spell allows you to identify a glyph of warding with a DC 13 Spellcraft check, a greater glyph of warding with a DC 16 Spellcraft check, or any symbol spell with a Spellcraft check (DC 10 + spell level).
+Read magic can be made permanent with a permanency spell.
+Focus: A clear crystal or mineral prism.
+   

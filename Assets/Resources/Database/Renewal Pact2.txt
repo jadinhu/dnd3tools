@@ -1,0 +1,21 @@
+<b>Renewal Pact</b>(Spell Compendium, p. 173)
+
+Conjuration (Healing)
+ <b>Level:</b>  Cleric 7,   Pact 7,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Willing living creature touched
+ <b>Duration:</b> Permanent until triggered
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+<b>Calling upon your deity to aid your ally, you bind a protective spell to your friend, leaving a tattoolike mark of your deity's holy symbol on his skin.</b>
+	
+This spell remains dormant until the subject is subjected to one or more of the following adverse conditions: ability damage, blinded, confused, dazed, dazzled, deafened, diseased, exhausted, fatigued, feebleminded, insanity, nauseated, sickened, stunned, or poisoned. One round after the subject is affected by a condition that triggers the renewal pact, the subject receives a <b>panacea</b> spell (page 152) at a caster level equal to that of the caster of the <b>renewal pact</b>.
+	
+A creature can be subject to only one <b>renewal pact</b> at a time. Casting <b>renewal pact</b> on a subject who already has an untriggered <b>renewal pact</b> voids the earlier pact.
+	
+Material Component: A topaz worth at least 500 gp.
+ <b>Also appears in</b>   Complete Divine     

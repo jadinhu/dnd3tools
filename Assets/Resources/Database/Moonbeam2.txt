@@ -1,0 +1,23 @@
+<b>Moonbeam</b>(Spell Compendium, p. 144)
+
+Evocation
+ <b>Level:</b>   Moon 2,   
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 ft.
+ <b>Area:</b> Cone-shaped emanation
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> None or Will negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>As you complete this spell, a swath of pale moonlight springs from your hand.</b>
+	
+On your turn each round, you can change the direction the cone of light points.
+	
+Light from a moonbeam spell does not adversely affect creatures that are sensitive to light, but lycanthropes in humanoid form caught in the cone must make a Will save to avoid involuntarily assuming their animal forms. A lycanthrope in animal form can change out of it on the creature's next turn (spending a round in animal form). However, if it is still in the area of the spell, it must succeed on a Will save to do so. Once a lycanthrope successfully saves against moonbeam, it is not affected by any more of your moonbeam spells for 24 hours.
+	
+Moonbeam penetrates any darkness spell of equal or lower level, but does not counter or dispel it. Darkness spells of higher level block a moonbeam.
+	
+Arcane Material Component: A pinch of white powder.
+ <b>Also appears in</b>   Forgotten Realms Campaign Setting     

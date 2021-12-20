@@ -1,0 +1,21 @@
+<b>Crystalline Memories</b>(Complete Mage)
+
+Transmutation [Mind-Affecting]
+ <b>Level:</b>  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> 60 ft.
+ <b>Target:</b> One living creature with Intelligence 3 or higher
+ <b>Duration:</b> See text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+With a hideous cracking noise, a shard of crystal bursts through your subject's skull, flying into your waiting hand.
+After casting this spell, you must study the target for 3 consecutive rounds, concentrating each round on the effect.
+This is treated as concentrating on a spell (PH 176), and if you are interrupted, the spell is lost.
+Once the study is complete, the target's current surface thoughts (as detect thoughts) congeal into a solid shard of crystal.
+This crystal then erupts from the target's head (dealing 2d8 points of damage and 2 points of Intelligence damage) and flies to your hand.
+Once you have the crystal, you (and only you) can use a full-round action to look into it and view the memories it contains.
+The crystal remains for 24 hours or until the memories have been viewed once.
+   

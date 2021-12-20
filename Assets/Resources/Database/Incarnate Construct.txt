@@ -1,0 +1,20 @@
+<b>Incarnate Construct</b>(Savage Species)
+
+Transmutation
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 8 hours
+ <b>Range:</b> Touch
+ <b>Target:</b> One construct
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+This spell turns a humanoid-shaped construct into a living creature.
+The spell does not work on constructs that are only constructs temporarily (such as objects affected by an animate objects spell).
+The construct gains the incarnate construct template (see Chapter 10).
+The incarnated creature is independent of both you and the being who originally made it, though it is initially friendly toward both you and its maker.
+Material Component: The heart of a humanoid that has been dead less than 8 hours.
+XP Cost: 5,000 XP.
+   

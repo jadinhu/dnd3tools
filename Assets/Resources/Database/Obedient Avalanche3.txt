@@ -1,0 +1,27 @@
+<b>Obedient Avalanche</b>(Player's Guide to FaerÃ»n)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>   Cold 9,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> 20-ft.-radius avalanche of snow, centered anywhere within range; see text
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half or Reflex negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+You summon an avalanche of snow out of a rift in midair, burying your foes and sending them to a frosty death.
+The effect of an obedient avalanche on a creature depends on where it is in relation to the spell's point of origin, as follows.
+Within 20 feet of the Point of Origin: Each creature in this area takes 1d8 points of damage per two caster levels (maximum 10d8), plus an additional 1d6 points of cold damage per two caster levels.
+A creature that fails its save is also buried (as described on page 90 of the Dungeon Master's Guide).
+All squares within 20 feet of the point of origin are covered in heavy snow (see page 94 of the Dungeon Master's Guide),
+which persists as long as ordinary snow would.
+Between 20 feet and 40 feet of the Point of Origin: A creature in this area takes half as much damage from the impact of the avalanche as one nearer the point of origin takes (Reflex save negates).
+On a failed save, the snow has the additional effect of a bull rush, with a +13 bonus (+5 for an effective Strength of 20 and +8 for an effective size of Huge) on the requisite check.
+With a successful bull rush, it pushes creatures away from the point of origin of the spell.
+All squares in the ring 20 feet to 40 feet from the center point are covered in snow, which persists as long as ordinary snow would.
+Terrain and Structures: The avalanche uproots small trees and other vegetation automatically, and it leaves a trail of light rubble (as described on page 91 of the Dungeon Master's Guide) even after the snow has melted.
+A structure hit by an obedient avalanche takes 1d6x;10 points of damage.
+An obedient avalanche extinguishes all flames it touches.
+ <b>Also appears in</b>   Complete Divine  Frostburn  Spell Compendium     

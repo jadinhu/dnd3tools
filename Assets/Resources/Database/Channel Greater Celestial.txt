@@ -1,0 +1,13 @@
+<b>Channel Greater Celestial</b>(Book of Exalted Deeds)
+
+Transmutation [Good]
+ <b>Level:</b>   Sanctified 9,   
+<b>Components:</b>
+
+ 	
+As channel celestial, but the celestial you channel may have up to 24 HD.
+Abstinence Component: You must abstain from intoxicants and stimulants for one week before casting this spell.
+You must not be the subject of any other spell at the time you cast this spell.
+You must not be suffering from any ability damage, ability drain, or energy drain at the time you cast this spell, including the effects of any previously cast sanctified spell.
+Sacrifice: 1d6 points of Strength and Dexterity damage.
+   

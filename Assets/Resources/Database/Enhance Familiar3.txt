@@ -1,0 +1,17 @@
+<b>Enhance Familiar</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Universal
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Your familiar
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None (harmless)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You infuse your familiar with vigor.
+While the spell lasts, your familiar receives a +2 competence modifier on attack rolls, saves, and weapon damage.
+The familiar also receives a +2 dodge modifier to Armor Class.
+ <b>Also appears in</b>   Complete Arcane  Spell Compendium     

@@ -1,0 +1,23 @@
+<b>Gutsnake</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Effect:</b> One magical snakelike tentacle
+ <b>Duration:</b> 1 round/level (D)
+
+ 	
+You sprout a 15-foot-long tentacle from your stomach that can attack enemies.
+The tentacle has no eyes but ends in a pair of snapping reptilian jaws.
+The tentacle is equivalent to a giant constrictor snake except that it is completely obedient to you and moves as you command it.
+Attacks against the tentacle cause you no discomfort and do not disrupt your spellcasting.
+If &quot;killed&quot;, the tentacle disappears without causing harm to you.
+The tentacle does not interfere with spellcasting in any way.
+As a free action on your turn, you may have the tentacle attack (as a giant constrictor), and if it successfully hits, it can constrict.
+Each round the gutsnake is constricting a target, you may not move more than 5 feet away from the target, unless you are strong enough to drag it with you.
+This is the only way in which the tentacle restricts movement.
+While the snake is present, you may use its Balance and Climb skill modifiers instead of your own.
+Focus: A fang from any reptile.
+ <b>Also appears in</b>   Spell Compendium     

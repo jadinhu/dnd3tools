@@ -1,0 +1,9 @@
+<b>Repair Moderate Damage</b>(Dragon Compendium)
+
+Transmutation
+ <b>Level:</b>  Urban Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>
+
+ 	
+As <b>repair light damage,</b> except repair moderate damage repairs 2d8 points of damage +1 point per caster level (up to +10).
+ <b>Also appears in</b>   Eberron Campaign Setting  Complete Arcane  Tome and Blood: A Guidebook to Wizards and Sorcerers  Miniatures Handbook  Spell Compendium     

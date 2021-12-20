@@ -1,0 +1,17 @@
+<b>Involuntary Shapeshifting</b>(Races of Eberron, p. 188)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,   Transformation 4,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 round/2 levels (D)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+For the duration of the spell, you force the target creature to change shape on its turn every round if it has an extraordinary or supernatural ability that allows it to do so. For example, a 5th-level druid under the effect of the spell must wild shape until the duration expires (or until she runs out of uses per day), a changeling must use its minor change shape ability, a shifter must use its shifting ability, and a doppelganger or rakshasa must change shape. Changing shape in this way requires as much time as the target creature's ability normally requires, but it can perform additional actions as it chooses (so long as it has actions remaining in the round).
+	
+Each time that a creature affected by this spell changes shape, it experiences wracking pain, taking 1 point of damage per caster level (maximum 15 points). Target creatures who are able to adopt more than one alternative form can choose which form involuntary shapeshifting forces them to take. If the target of the spell does not have an alternative form available, or if the target's alternative form cannot be assumed (for instance, while a creature with a supernatural change shape ability is within an antimagic field), the spell has no effect.
+   

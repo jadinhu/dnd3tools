@@ -1,0 +1,18 @@
+<b>Liquid Pain</b>(Book of Vile Darkness)
+
+Necromancy
+ <b>Level:</b>  Sorcerer 4,  Wizard 4,   Pain 4,   
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 day
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Permanent
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Over the course of one day, the caster takes a subject already in great pain � ;wracked with disease, the victim of torture, or dying of a wound, for example � ;and captures its pain in liquid form.
+This physical manifestation of agony can be used to create magic items or enhance spells (see Pain as Power in Chapter 2).
+It can also be used as a potent drug.
+Focus: A jar, vial, or other container for the liquid pain.
+   

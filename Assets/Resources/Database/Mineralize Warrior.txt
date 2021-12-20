@@ -1,0 +1,25 @@
+<b>Mineralize Warrior</b>(Underdark)
+
+Transmutation [Earth]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,    
+<b>Components:</b>V, S, M, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 1 hour
+ <b>Range:</b> Touch
+ <b>Target:</b> One humanoid
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You infuse a willing humanoid with minerals and an elemental spirit of earth.
+The subject may have no more Hit Dice than you do, and it must be restrained in a coffinlike enclosure of stone for the duration of the casting.
+(Thus, you cannot be the subject of your own spell).
+Upon completion of the spell, the subject is shot through with minerals and gains the mineral warrior template (see Chapter 6).
+The minerals give its body the look of a petrified creature, though it retains its normal freedom of movement.
+The newly created mineral warrior is under compulsion to serve you for a year and a day, after which time it is free to go its own way.
+No matter how many times you use this spell or other spells that grant you control of creatures with the earth subtype, you can control only 2 Hit Dice worth of mineral warriors per caster level.
+If you try to control mineral warriors in excess of your limit, you gain control of the new creatures normally, but some of the ones from previous castings are released from their compulsion until your total controlled mineral warriors is equal to or below your limit.
+(You choose the specific creatures that are released).
+Material Component: Gemstones and other expensive minerals worth at least 500 gp per HD of the mineral warrior created.
+XP Cost: 250 XP per HD of the mineral warrior created.
+   

@@ -1,0 +1,21 @@
+<b>Blade of Blood</b>(Player's Handbook II)
+
+Necromancy
+ <b>Level:</b>  Assassin 1,  Blackguard 1,  Cleric 1,  Duskblade 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Touch
+ <b>Target:</b> Weapon touched
+ <b>Duration:</b> 1 round/level or until discharged
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Red blood erupts along the weapon's blade, bludgeon, or point.
+The blood drips to spatter in thick, viscous drops upon the ground.
+This spell infuses the weapon touched with baleful energy.
+The next time this weapon strikes a living creature, blade of blood discharges.
+The spell deals an extra 1d6 points of damage against the target of the attack.
+You can voluntarily take 5 hit points of damage to empower the weapon to deal an extra 2d6 points of damage (for a total of 3d6 points of extra damage).
+The weapon loses this property if its wielder drops it or otherwise loses contact with it.
+   

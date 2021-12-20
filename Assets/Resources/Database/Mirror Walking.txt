@@ -1,0 +1,26 @@
+<b>Mirror Walking</b>(Manual of the Planes)
+
+Transmutation
+ <b>Level:</b>  Cleric 5,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched, and see text
+ <b>Duration:</b> Special
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You or the one you touch may pass through any mirror or reflecting surface of sufficient size onto the Plane of Mirrors.
+The mirror must be large enough for the creature touched to fit through, as if it were a window or other opening.
+The spell lasts until the subject passes through a mirror again, either the same mirror or a related one.
+On the Plane of Mirrors, you will find other windows that represent similar mirrors tied together by some strong bond.
+Frequently they were all made by the same artisan, but mirrors with particularly strong-willed owners or mirrors made at a particular historic moment may also be tied together.
+When on the Plane of Mirrors, you can see through these other mirrors without being seen, allowing you to spy on others.
+You can reach through the mirror to grab items that are within easy reach, or even grapple with someone within arm's reach of the mirror.
+A grappled individual will be drawn onto the Plane of Mirrors and becomes a new subject of the mirror walk spell.
+For each subject, the mirror walk spell ends when a second mirror is passed through.
+Other mirrorwalkers aren't affected.
+Using the mirror walk spell is not without danger.
+When you travel to a Plane of Mirrors, you create a mirror-self that will try to slay you and escape through the mirror to take over your life.
+Focus: A mirror or other reflective surface of sufficient size to step through.
+   

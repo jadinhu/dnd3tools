@@ -1,0 +1,28 @@
+<b>Symphonic Nightmare</b>(Champions of Ruin)
+
+Enchantment (Compulsion) [Mind-Affecting]
+ <b>Level:</b>  Bard 6,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> 1 day/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A creature targeted by this spell loses the ability to dream during sleep or rest.
+Rather, in place of dreams, the target's slumbering mind is filled with the sounds of a discordant orchestra.
+After the victim's first attempt to sleep, he incurs a -2 penalty on all Wisdom-based skill checks.
+This penalty persists as long as the symphonic nightmare effect maintains its hold on him.
+This spell affects all creatures that sleep or enter sleeplike trances; creatures without the need to sleep are effectively immune.
+In addition, the creature's sleep is now haunted.
+It can no longer gain complete rest from sleeping or resting.
+The target does not regain hit points or heal ability damage naturally, nor is it able to prepare spells if doing so requires a full night's rest.
+The creature is, however, now immune to the dream and nightmare spells, as well as to other effects that cause nightmares (such as the night hag's dream haunting ability).
+The caster can lift the effect of this curse at will, but it is otherwise difficult to remove a symphonic nightmare before its duration expires.
+A remove curse cast at a higher caster level than the symphonic nightmare spell removes it, as does a successful break enchantment.
+Otherwise, a wish or miracle is required to lift the curse.
+Focus: A small statue of an opened skull within which is arranged a miniature orchestra.
+The quality of this component must be extraordinary, giving it a value of at least 1,000 gp.
+ <b>Also appears in</b>   Spell Compendium     

@@ -1,0 +1,25 @@
+<b>Blackwater Taint</b>(Stormwrack)
+
+Necromancy [Evil, Water]
+ <b>Level:</b>  Sorcerer 6,  Wizard 6,   Blackwater 6,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 20-ft. radius
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+In the dark, sunless abysses of the deep ocean, shadows gather, the cold beckons, and the corpses of many things in the oceans lie slowly rotting.
+These black waters are often poisoned with the energies of undeath.
+When this spell is cast, you call up the cold blackness of those stygian depths, infusing the waters in the spell's area with negative energy.
+Those in or entering the area must make a Fortitude save to resist its terrible power.
+Those who fail the save are chilled to the bone, taking 1d6 points of damage per two levels (to a maximum of 10d6) and gain a negative level.
+Those who make the save take half damage and avoid the negative level.
+All undead in the area are healed of 1d6 points of damage per two caster levels (maximum of 10d6).
+Furthermore, the spell's area is treated as though there were a desecrate spell active within it.
+This area of blackwater remains in place for the spell's duration, affecting creatures who enter the area in subsequent rounds.
+A creature can only be affected once by the spell, regardless of success or failure on the saving throw, so creatures who leave and reenter the area take no additional effect (although the desecrate effect remains throughout the spell's duration).
+Material Component: Bone or scale of a fish that dwells in the deep, sunless parts of the ocean.
+   

@@ -1,0 +1,19 @@
+<b>Undying Vigor of the Dragonlords</b>(Dragon Magic)
+
+Conjuration (Healing)
+ <b>Level:</b>  Sorcerer 5,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 full round
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Instantaneous
+
+ 	
+A golden ray of light erupts from the ground beneath you, bathing you in a column of healing illumination that dances with yellow flecks.
+This spell converts arcane spell energy into pure draconic life energy, guiding it to repair damage to your body.
+You immediately heal 5d6 points of damage.
+As part of the casting of this spell, you can sacrifice one sorcerer spell slot of up to 9th level; doing this increases the healing by 1d6 points per level of the sacrificed slot.
+For example, a 10th-level sorcerer who spent two 5th-level spell slots (one to cast the spell and another to enhance it) would heal 10d6 points of damage.
+This spell does not channel positive energy as divine healing spells do, so it functions the same for undead spellcasters as it does for living casters.
+Special: If you are of the dragonblood subtype (see page 4), this spell heals an extra 1 point of damage per die rolled.
+   

@@ -1,0 +1,17 @@
+<b>Crushing Weight of the Mountain</b>(Tome of Battle: The Book of Nine Swords, p. 82)
+
+Stone Dragon (Stance)
+ <b>Level:</b>  Crusader 3 (One Stone Dragon maneuver),  Swordsage 3 (One Stone Dragon maneuver),  Warblade 3 (One Stone Dragon maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> Stance
+
+ 	
+<b>You crush your opponent beneath you, squeezing the life out of him as you pin him to the ground.</b>
+	
+Engaging in close combat against you is, at best, a foolish prospect. Drawing on your understanding of the Stone Dragon discipline, you squeeze a foe within your grasp and force the life from him.
+	
+While you are in this stance, you gain the ability to constrict for 2d6 points of damage + 1-1/2 times your Str bonus (if any). You can constrict an opponent that you grapple by making a successful grapple check.
+   

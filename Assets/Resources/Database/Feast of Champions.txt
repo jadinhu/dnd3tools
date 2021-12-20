@@ -1,0 +1,21 @@
+<b>Feast of Champions</b>(Eberron Campaign Setting, p. 111)
+
+Conjuration (Creation)
+ <b>Level:</b>  Cleric 9,   Feast 9,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Feast for one creature/level
+ <b>Duration:</b> 1 hour plus 12 hours; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You bring forth a magnificent feast, including a grand table, chairs, service, and food and drink. 
+	
+The feast takes 1 hour to consume, and the beneficial effects do not set in until this hour is over. 
+	
+Every creature partaking of the feast is cured of all diseases, sickness, nausea, fatigue, and exhaustion. Any poison affecting a creature is neutralized, and creatures sharing the feast become immune to poison for 12 hours. The nectarlike beverage that is part of the feast cures 2d8 points of damage + 1 point per caster level (maximum +20) and grants 1d8 temporary hit points + 1 point per two caster levels (maximum +10). The food of the feast grants each creature that partakes a +1 morale bonus on attack rolls, skill checks, ability checks, and saving throws, and immunity to fear effects for 12 hours.
+	
+If the feast is interrupted for any reason, the spell is ruined and all effects are negated.
+   

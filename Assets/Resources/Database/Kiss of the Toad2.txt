@@ -1,0 +1,18 @@
+<b>Kiss of the Toad</b>(Oriental Adventures)
+
+Necromancy
+ <b>Level:</b>  Wu Jen 2,   Maho 2,   
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Living creature touched
+ <b>Duration:</b> Instantaneous (see text)
+ <b>Saving Throw:</b> Fortitude negates (see text)
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Your touch becomes poisonous, inflicting poison upon a creature you touch with a successful melee touch attack.
+The poison deals 1d6 points of temporary Constitution damage immediately and another 1d6 points of temporary Constitution damage 1 minute later.
+Each instance of damage can be negated by a Fortitude save (DC 10 + 1/2 caster's level + caster's Intelligence modifier).
+Focus: A tattoo of a toad on your skin.
+ <b>Also appears in</b>   Complete Arcane     

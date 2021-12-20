@@ -1,0 +1,21 @@
+<b>Whirling Blade</b>(Spell Compendium, p. 238)
+
+Transmutation
+ <b>Level:</b>  Bard 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 60 ft.
+ <b>Effect:</b> 60-ft. line
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>With weapon in hand, you finish the last of the arcane gestures and words that activate the power of the spell. As you cast the spell, you hurl a single slashing weapon at your foes. The blade, carried along both by your might and your magical prowess, slashes at your foes while whirling forward.</b>
+	
+You hurl a weapon held at the time of casting, and it magically attacks all enemies along a line to the extent of the spell's range. You make a normal melee attack, just as if you were attacking with the weapon in melee, against each foe in the weapon's path, but you can choose to substitute your Intelligence modifier or your Charisma modifier (as appropriate for your spellcasting class) for your Strength modifier on the weapon's attack rolls and damage rolls. Even if your base attack bonus would normally give you multiple attacks, a whirling blade gets only one attack (at your best attack bonus) against each target. The weapon deals damage just as if you had swung it in melee, including any bonuses you might have from ability scores or feats.
+	
+No matter how many targets your weapon hits or misses, it instantly and unerringly returns to your hand after attempting the last of its attacks.
+	
+Focus: A slashing melee weapon that you hurl.
+ <b>Also appears in</b>   Complete Arcane     

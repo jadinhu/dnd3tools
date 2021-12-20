@@ -1,0 +1,19 @@
+<b>Hand of the Faithful</b>(Spell Compendium, p. 109)
+
+Abjuration [see text]
+ <b>Level:</b>  Cleric 1,  Paladin 3,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 minute
+ <b>Range:</b> 10 ft.
+ <b>Area:</b> 10-ft.-radius emanation centered on a point in space
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You summon the protective field, and the shimmering border limns out along the floor, carrying with it the ephemeral image of blocking hands.</b>
+	
+You create an immobile zone of warding that is permeable to those of your religion but repels all others. Creatures that have the same deity as you, or are wearing the holy symbol of your deity, can enter and move within the warded area unhindered. Other creatures that try to enter or move within the area must make a Fortitude save each round or be stunned for 1 round. If the creature's only action is to try to move completely out of the area, the ward does not hinder it. Once a creature succeeds on its saving throw, it is no longer affected by that casting of hand of the faithful.
+	
+This spell has the alignment components of your deity, so if your deity is good and lawful, this is a lawful and good spell.
+   

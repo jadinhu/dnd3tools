@@ -1,0 +1,11 @@
+<b>Stars of SelÃ›ne</b>(Champions of Valor)
+
+Evocation [Cold, Force]
+ <b>Level:</b>  Cleric 4,    
+<b>Components:</b>
+ <b>Saving Throw:</b> None
+
+ 	
+This spell functions like stars of Mystra, except as noted above and as follows.
+Each star deals 1d8 points of force damage and 1d8 points of cold damage to the target.
+   

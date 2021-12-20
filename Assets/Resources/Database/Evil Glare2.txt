@@ -1,0 +1,19 @@
+<b>Evil Glare</b>(Spell Compendium, p. 85)
+
+Necromancy [Evil, Fear, Mind-Affecting]
+ <b>Level:</b>  Cleric 7,  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> 30 feet
+ <b>Target:</b> Living creatures
+ <b>Duration:</b> 1 round/level; see text
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You cast this spell and your eyes begin to tingle, brimming with dark energy. You shoot a glance at your rival, and she freezes in her tracks from your malignant glare.</b>
+	
+Immediately upon completion of the casting of this spell, you target a living creature within range with your glare; that creature becomes paralyzed with fear for 1d8 rounds. You must be able to see the creature, and it must be able to see you (though it need not meet your gaze).
+	
+Once per round after that for the duration of the spell, you can target another creature with your glare as a standard action. You can't target the same creature twice with a single casting of the spell, regardless of the outcome of its saves.
+ <b>Also appears in</b>   Planar Handbook     

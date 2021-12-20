@@ -1,0 +1,29 @@
+<b>Acid Orb, Lesser</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Evocation [Acid]
+ <b>Level:</b>  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Up to five creatures or objects, no two of which can be more than 15 ft. apart
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+An orb of acid about 2 inches across shoots from your palm at its target, dealing 1d8 points of acid damage.
+	
+You must succeed at a ranged touch attack to hit your target.
+	
+If you miss, there is no splash damage.
+	
+For every two levels of experience past 1st, you gain an additional orb that you shoot at the same time.
+	
+You have two at 3rd level, three at 5th level, four at 7th level, and the maximum of five orbs at 9th level or higher.
+	
+If you shoot multiple orbs, you can have them strike a single creature or several creatures.
+	
+A single orb can strike only one creature.
+	
+You must designate targets before you roll for SR or roll damage.
+   

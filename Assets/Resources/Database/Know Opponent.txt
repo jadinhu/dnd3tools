@@ -1,0 +1,21 @@
+<b>Know Opponent</b>(Spell Compendium, p. 129)
+
+Divination
+ <b>Level:</b>  Bard 3,  Cleric 3,    
+<b>Components:</b>S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>You feel your eyes glow with magical energy as you complete the spell. You see luminous words appear in the air above your spell's target. The words describe the creature's strengths or weaknesses, as you desire.</b>
+	
+You gauge the strengths and weaknesses of an opponent to gain combat advantages. Upon casting this spell, you learn a number of strengths or weaknesses of the target equal to one, plus one strength or weakness per two caster levels (maximum four). You can choose to learn strengths, weaknesses, or some combination thereof that you specify. If a creature has more strengths or weaknesses than you can learn with a single casting, you learn the most powerful ones first. Thus, if a monster can use finger of death at will and has resistance to sonic 5, you would learn about finger of death first.
+	
+Strengths can include attack forms and special abilities (including spell-like abilities or supernatural abilities). Weaknesses include vulnerability to an energy type.
+	
+For example, suppose a 7th-level cleric casts know opponent on a black-armored warrior, choosing to learn one strength and two weaknesses. The warrior fails his save, and the DM informs the cleric's player that the opponent has the ability to drain energy (a strength), is adversely affected by sunlight, and can be repelled by a holy symbol (both weaknesses). The cleric then concludes that he faces a vampire and breaks out the wooden stakes.
+   

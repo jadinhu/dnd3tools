@@ -1,0 +1,24 @@
+<b>Battletide</b>(Player's Guide to FaerÃ»n)
+
+Transmutation
+ <b>Level:</b>   Initiate of bane 5,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> You and up to one creature/level, no two of which can be more than 30 ft. apart
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You steal energy from others.
+Each target other than you takes a -2 penalty on saving throws, attack rolls, and weapon damage rolls.
+As long as at least one enemy is affected by the spell, you receive the following benefits.			You gain a +1 bonus on attack rolls and Reflex saves, and a +1 dodge bonus to AC.	
+Any condition that causes you to lose your Dexterity bonus to Armor Class (if any) also negates this dodge bonus.			All of your modes of movement increase by 30 feet, to a maximum of twice your normal speed with each form of movement.	
+This increase counts as an enhancement bonus.			When using a full attack action, you may make one extra attack with any weapon you are holding.	
+You make this attack using your full base attack bonus, plus any modifiers appropriate to the situation.
+This effect is not cumulative with similar effects, such as that provided by the haste spell or a weapon with the speed special ability.			If you do not make an extra attack, you may cast any 0-level or 1st-level spell you have prepared as a free action, as though you had applied the Quicken Spell feat to it.	
+For every two caster levels beyond 9th, you may apply this benefit to a spell one level higher (to 2nd-level spells at 11th level, 3rd-level spells at 13th level, 4th-level spells at 15th level, and 5th-level spells at 17th level).
+The benefit cannot be applied to spells higher than 5th level.
+If all the affected enemies are freed from the spell (by death, entering an antimagic field, receiving a successful dispel magic, or the like), the spell ends immediately.
+ <b>Also appears in</b>   Magic of Faerun  Lords of Darkness     

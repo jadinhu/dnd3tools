@@ -1,0 +1,18 @@
+<b>Ice Burst</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Evocation [Cold]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 30-ft.-radius burst
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Reflex half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+A hail of magical ice chunks erupts from a point in space.
+The chunks fly in all directions, hitting everything within the burst.
+The pelting ice deals 1d4 points of cold damage +1 point of blunt damage per caster level, to a maximum of 10d4+10.
+Material Component: A chunk of ice or a single pearl.
+   

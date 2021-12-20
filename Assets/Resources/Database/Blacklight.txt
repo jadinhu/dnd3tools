@@ -1,0 +1,23 @@
+<b>Blacklight</b>(Deities and Demigods)
+
+Evocation [Darkness]
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,   Darkness 3,   
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Area:</b> A 20-ft.-radius emanation centered on a creature, object, or point in space
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates or none (object)
+ <b>Spell Resistance:</b> Yes or no (object)
+
+ 	
+You create an area of total darkness.
+The darkness is impenetrable to normal vision and darkvision, but you can see normally within the blacklit area.
+Creatures outside the spell's area, even you, cannot see through it.
+You can cast the spell on a point in space, but the effect is stationary unless you cast it on a mobile object.
+You can cast the spell on a creature, and the effect then radiates from the creature and moves as it moves.
+Unattended objects and points in space do not get saving throws or benefit from spell resistance.
+Blacklight counters or dispels any light spell of equal or lower level, such as daylight.
+The 3rd-level cleric spell daylight counters or dispels blacklight.
+Material Component: A piece of coal and the dried eyeball of any creature.
+ <b>Also appears in</b>   Spell Compendium  Forgotten Realms Campaign Setting     

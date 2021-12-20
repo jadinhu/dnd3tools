@@ -1,0 +1,19 @@
+<b>Remove Fatigue</b>(Book of Exalted Deeds)
+
+Transmutation
+ <b>Level:</b>  Apostle of Peace 4,  Cleric 4,   Pleasure 4,   
+<b>Components:</b>S, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Up to one living creature touched per two levels
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+The creatures you touch gain the benefits of 8 hours of restful sleep.
+If a subject was fatigued, the fatigue and its penalties are removed.
+If a subject was exhausted, the exhaustion becomes fatigue, but the subject only needs to rest for 1 more hour to eliminate the fatigue.
+If a subject was already well rested, it does not need to rest or sleep during the next 24 hours.
+Arcane spellcasters must still rest their minds for 8 hours in order to prepare or ready their spells.
+ <b>Also appears in</b>   Oriental Adventures     

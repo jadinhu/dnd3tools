@@ -1,0 +1,15 @@
+<b>Ease of Breath</b>(Frostburn)
+
+Necromancy [Cold]
+ <b>Level:</b>  Cleric 1,  Druid 1,  Ranger 1,  Disciple of Thrym 1,    
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+You grant the target the ability to survive in thin air, conferring a +20 inherent bonus on Fortitude saves to resist altitude sickness as well as saving throws to resist becoming fatigued due to altitude or thin air.
+   

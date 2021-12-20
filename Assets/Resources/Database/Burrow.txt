@@ -1,0 +1,18 @@
+<b>Burrow</b>(Races of Faerun)
+
+Transmutation
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level (D)
+
+ 	
+Your hands sprout claws as hard as stone.
+You can use these claws to burrow through earth, sand, clay, and gravel (but not solid rock), excavating with enough speed to move through the earth at a speed of 10 feet, much like a badger.
+You can use the claws as weapons that deal 1d6 points of damage.
+If your normal unarmed damage is greater than 1d6, the damage does not change.
+You are considered armed while this spell is in effect.
+Arcane Material Component: A tuft of fur from a burrowing animal, and a tiny replica of a shovel.
+ <b>Also appears in</b>   Spell Compendium  Underdark     

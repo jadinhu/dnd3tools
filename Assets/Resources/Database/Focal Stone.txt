@@ -1,0 +1,17 @@
+<b>Focal Stone</b> (Web: FR Valamaradace)
+
+Transmutation
+<b>Level:</b> Anagakok 5, Beholder Mage 5, Chameleon 5, Deathwalker 5, Fleshcrafter 5, Shair 5, Sorcerer 5, Wizard 5, Soul Reaper 5, Sublime Chord 5, Suel Arcanamach 5
+<b>Components:</b> V, S, M
+<b>Casting Time:</b> 1 minute
+<b>Range:</b> Touch
+<b>Target:</b> One clear or translucent gemstone up to 1 inch in diameter (see text)
+<b>Duration:</b> Permanent until discharged
+<b>Saving Throw: </b>Will negates (object)
+<b>Spell Resistance:</b> Yes (object)
+
+You transform the target gem so it is capable of storing magic in the manner of an attuned gem (see the Attune Gem feat in Magic of Faerûn). On your next turn, you or another spellcaster can cast a spell into the gem, transforming it into an attuned gem (as if it had been crafted with the Attune Gem feat). The gem and spell must meet all the criteria of the Attune Gem feat and gem magic. The person casting the spell to be stored must spend XP as if a potion were being created with the Attune Gem feat.
+
+Unlike the Attune Gem feat, using this spell causes the gem to glow with a soft internal radiance (insufficient to light an area but enough to notice the gem in a shadowy or dark room). Also, the only way to release the stored spell is to shatter the gem (a standard action). A successful dispel magic against your caster level causes this spell and the stored spell to dissipate harmlessly.
+
+Material Component: A pinch of any sort of opal dust.

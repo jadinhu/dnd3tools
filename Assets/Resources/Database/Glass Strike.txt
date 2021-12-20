@@ -1,0 +1,25 @@
+<b>Glass Strike</b>(Spell Compendium, p. 106)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature or 4 cubic ft. of material
+ <b>Duration:</b> 1 hour/level
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>The spell erupts from the surface of the mirror you hold, striking your foe square in the chest and transforming it to glass.</b>
+	
+You transform the target into glass. You can cast either of these two versions:
+	
+<b>Glass Creature:</b> As <b>flesh to stone</b> (<b>PH</b> 232), but the subject becomes glass.
+	
+<b>Glass Object:</b> An object of up to 4 cubic feet in volume is affected. Part of a larger object (such as a floor or wall) can be transformed by this spell. Glass has hardness 1, and 1 hit point per inch of thickness.
+	
+Neither version of the spell affects magic items (magic items carried by a transformed creature remain intact). When the duration ends, the subject returns to its original materials. If the subject was broken or damaged while in glass form, its normal form has similar damage.
+	
+<b>Focus:</b> A piece of glass from a mirror.
+   

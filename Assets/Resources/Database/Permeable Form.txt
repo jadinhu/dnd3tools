@@ -1,0 +1,21 @@
+<b>Permeable Form</b>(Lords of Madness)
+
+Transmutation
+ <b>Level:</b>  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 immediate action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round
+
+ 	
+By altering the essential nature of the matter composing your body, you make yourself incorporeal for a brief time.
+While incorporeal, you can be harmed only by other incorporeal creatures, magic weapons, and spells, spell-like abilities, or supernatural abilities.
+Even when hit by spells or magic weapons, you have a 50% chance to ignore damage from a corporeal source (except for positive energy, negative energy, force effects, or attacks made with ghost touch weapons).
+You can enter or pass through solid objects as described under the incorporeal subtype on page 310 of the Monster Manual.
+Tsochar spellcasters sometimes use this spell to quickly exit an inhabited creature without causing damage to the victim.
+You cannot attack while in this state, but you can perform other actions as your incorporeal nature allows.
+Casting this spell is an immediate action.
+You can cast it even when it's not your turn.
+You can only take one swift, immediate, or quickened action per turn.
+   

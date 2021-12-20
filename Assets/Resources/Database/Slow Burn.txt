@@ -1,0 +1,25 @@
+<b>Slow Burn</b>(Spell Compendium, p. 192)
+
+Transmutation [Fire]
+ <b>Level:</b>  Druid 1,  Sorcerer 1,  Wizard 1,    
+<b>Components:</b>V, S, M, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Area:</b> 30-ft.-radius spread
+ <b>Duration:</b> 1 minute
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>The desire to live into old age grips you as you near completion of this spell. The feeling passes as you designate the area of the spell, where the flames there flicker for a moment as if a gust of wind had hit them.</b>
+	
+This spell lends fuel to existing fires within the spell's area, allowing them to burn off the intangible power of passion as much as from physical substance. Because these fires consume less of the physical fuel that sustain them, they burn for twice as long without losing any of their intensity, but their illumination radius is halved.
+	
+In addition, an affected fire is much harder to extinguish. It takes twice as long to put out a fire that is under the effect of this spell, and if a roll is required (such as the Reflex save required to extinguish flames if a creature is on fire), two successful rolls over 2 rounds are required to successfully put out the fire. If one such roll fails, the creature must begin trying to extinguish the flames again as if it had never succeeded on the first roll.
+	
+Magical fire used against a target in this spell's area, such as from a produce flame or fireball spell, does not burn as effectively, and fire damage from such sources is reduced by 1 point per die.
+	
+Slow burn counters or dispels the effect of <b>raging flame</b> (page 164).
+	
+Arcane Material Component: An oil-filled hourglass.
+   

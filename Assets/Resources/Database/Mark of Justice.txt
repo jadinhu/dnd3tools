@@ -1,0 +1,23 @@
+<b>Mark of Justice</b>(Player's Handbook v.3.5, p. 252)
+
+Necromancy
+ <b>Level:</b>  Paladin 4,  Knight of the Weave 4,  Cleric 5,   Mechanus 5,  Fate 5,  Retribution 5,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> Permanent; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+When moral persuasion fails to win a criminal over to right conduct, you can use mark of justice to encourage the miscreant to walk the straight and narrow path.
+You draw an indelible mark on the subject and state some behavior on the part of the subject that will activate the mark.
+When activated, the mark curses the subject.
+Typically, you designate some sort of criminal behavior that activates the mark, but you can pick any act you please.
+The effect of the mark is identical with the effect of bestow curse.
+Since this spell takes 10 minutes to cast and involves writing on the target, you can cast it only on a creature that is willing or restrained.
+Like the effect of bestow curse, a mark of justice cannot be dispelled, but it can be removed with a break enchantment, limited wish, miracle, remove curse, or wish spell.
+Remove curse works only if its caster level is equal to or higher than your mark of justice caster level.
+These restrictions apply regardless of whether the mark has activated.
+   

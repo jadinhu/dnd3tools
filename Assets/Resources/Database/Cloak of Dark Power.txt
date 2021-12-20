@@ -1,0 +1,18 @@
+<b>Cloak of Dark Power</b>(Forgotten Realms Campaign Setting)
+
+Abjuration
+ <b>Level:</b>   Drow 1,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+Cloak of dark power creates a dusky haze around the subject.
+The haze does not interfere with vision, but the subject and anything she wears or carries is protected from the effects of full sunlight, even under the open, daytime sky of the surface world.
+A drow subject suffers no blindness or bright light combat penalties while under the effects of a cloak of dark power.
+The subject also gains a +4 resistance bonus on saves against light or darkness spells or effects.
+   

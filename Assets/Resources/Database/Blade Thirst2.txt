@@ -1,0 +1,17 @@
+<b>Blade Thirst</b>(Spell Compendium, p. 31)
+
+Transmutation
+ <b>Level:</b>  Ranger 3,    
+<b>Components:</b>V, 
+ <b>Casting Time:</b> 1 Swift Action
+ <b>Range:</b> Touch
+ <b>Target:</b> 1 Slashing Weapon
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> None (object)
+ <b>Spell Resistance:</b> Yes (object)
+
+ 	
+<b>You touch a blade, and it catches fire. Unearthly blue flames crackle along its length while the weapon beneath remains cold and unharmed.</b>
+	
+You grant a slashing weapon a 3 enhancement bonus. The weapon sheds illumination as if it were a torch.
+ <b>Also appears in</b>   Magic of Faerun     

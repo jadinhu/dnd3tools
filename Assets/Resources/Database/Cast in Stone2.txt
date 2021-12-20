@@ -1,0 +1,21 @@
+<b>Cast in Stone</b>(Spell Compendium, p. 43)
+
+Transmutation
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> None and Fortitude negates; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>Your eyes become like gray stone orbs traced with golden veins. The change catches the foes fighting you by surprise, and they turn to stone.</b>
+	
+Any creature within 30 feet that meets your gaze is permanently turned into a mindless, inert statue (as flesh to stone), unless it succeeds on a Fortitude save. You can free the victim of your own cast in stone at any time by speaking a command word you establish during the casting.
+	
+Each creature within range of the gaze must attempt a saving throw against the gaze effect each round at the beginning of its turn. A creature can avert its eyes, which grants a 50% chance to avoid the gaze but in turn grants you concealment relative to it. A creature can close its eyes or turn away entirely; doing so prevents the gaze from affecting it but grants you total concealment from that creature.
+	
+In addition, you can actively attempt to use the gaze as a standard action each round. To do so, you choose a target within range, and that target must attempt a saving throw. A target that is averting or shutting its eyes gains the above benefits.
+   

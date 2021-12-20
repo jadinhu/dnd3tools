@@ -1,0 +1,19 @@
+<b>Stone Shatter</b>(Magic of Faerun)
+
+Evocation [Sonic]
+ <b>Level:</b>  Bard 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./level)
+ <b>Area:</b> One stone object or creature
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Will negates (object) or Fortitude half (see text)
+ <b>Spell Resistance:</b> Yes (object) or Yes
+
+ 	
+You aim a single note of perfect pitch toward a stone object or creature, causing it to shatter.
+The target object cannot weigh more than 2 pounds per caster level.
+Anyone within 5 feet of an exploding object suffers 1 point of damage per caster level (maximum 15 points).
+No saving throw applies to this effect.
+Targeted against a stone creature (of any weight), stone shatter deals 1d6 points of damage per caster level (maximum 15d6), with a Fortitude save for half damage.
+ <b>Also appears in</b>   Spell Compendium     

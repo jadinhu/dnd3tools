@@ -1,0 +1,9 @@
+<b>Otiluke's Greater Dispelling Screen</b>(Tome and Blood: A Guidebook to Wizards and Sorcerers)
+
+Abjuration
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,    
+<b>Components:</b>
+
+ 	
+As Otiluke's dispelling screen, except that the maximum bonus on the dispel check is +20 instead of +10.
+ <b>Also appears in</b>   Complete Arcane     

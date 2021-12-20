@@ -1,0 +1,19 @@
+<b>Weapon of the Deity</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Blackguard 4,  Cleric 4,  Paladin 4,    
+<b>Components:</b>V, DF, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Target:</b> Your weapon
+ <b>Duration:</b> 1 round/level
+
+ 	
+You must be using your deity's favored weapon to cast this spell.
+You may use the weapon as if you had proficiency with it even if you normally do not.
+The weapon gains a +1 enhancement bonus on attack and damage rolls, and an additional special ability (see the list below).
+A double weapon gains this enhancement bonus and special ability for only one of its two heads, as chosen by the caster.
+If your deity's weapon is &quot;unarmed strike&quot;, your hand is treated as if under the effects of a magic fang (or greater magic fang, as appropriate) spell, that hand is considered armed, the special ability functions normally, and you can touch creatures without invoking the special ability if you desire.
+When your caster level reaches 9th, the enhancement bonus of the weapon increases to +2.
+At 12th level, the bonus rises to +3, at 15th level it is +4, and at 18th level it is +5.768
+ <b>Also appears in</b>   Faiths of Eberron  Ghostwalk  Spell Compendium  Defenders of the Faith: A Guidebook to Clerics and Paladins  Complete Divine     

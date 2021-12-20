@@ -1,0 +1,19 @@
+<b>Ring of Blades</b>(Spell Compendium, p. 177)
+
+Conjuration (Creation)
+ <b>Level:</b>  Cleric 3,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 1 minute/level
+
+ 	
+<b>As you twirl the small dagger in your hand, it slowly fades from existence and is replaced by dozens of larger blades swirling about you in a horizontal ring.</b>
+	
+This spell conjures a horizontal ring of swirling metal blades around you. The ring extends 5 feet from you, into all squares adjacent to your space, and it moves with you as you move. Each round, at the beginning of your turn, and also when you cast the spell, the blades deal 1d6 points of damage +1 point per caster level (maximum +10) to all creatures in the affected area.
+	
+Spell resistance does not apply to the damage dealt, but a creature's damage reduction does apply. The blades are treated as magic, silvered, and slashing for the purpose of overcoming damage reduction.
+	
+Material Component: A small dagger.
+   

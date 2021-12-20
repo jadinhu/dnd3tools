@@ -1,0 +1,21 @@
+<b>Earthbind</b>(Draconomicon)
+
+Transmutation
+ <b>Level:</b>  Druid 2,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One creature
+ <b>Duration:</b> 1 minute/level (D)
+ <b>Saving Throw:</b> Fortitude partial
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You hamper the subject creature's ability to fly (whether through natural or magical means) for the duration of the spell.
+If the target fails its saving throw, its fly speed (if any) becomes 0 feet.
+An airborne creature subjected to this spell falls to the ground as if under the effect of a feather fall spell.
+Even if a new effect would grant the creature the ability to fly, that effect is suppressed for the duration of the earthbind spell.
+If the target makes a successful Fortitude save, its fly speed (including any new effect granted during the spell's duration) is reduced by 10 feet per caster level (maximum reduction 100 feet at 10th level).
+This reduction can't bring the creature's fly speed down to less than 10 feet.
+Earthbind has no effect on other forms of movement, or even on effects that might grant airborne movement without granting a fly speed (such as jumping or levitate or air walk spells).
+ <b>Also appears in</b>   Spell Compendium  Monster Manual V     

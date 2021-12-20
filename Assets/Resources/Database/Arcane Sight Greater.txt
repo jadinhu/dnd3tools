@@ -1,0 +1,11 @@
+<b>Arcane Sight, Greater</b>(Player's Handbook v.3.5, p. 201)
+
+Divination
+ <b>Level:</b>  Sorcerer 7,  Wizard 7,  Beguiler 7,  Sha'ir 7,  Death Master 7,    
+<b>Components:</b>
+
+ 	
+This spell functions like arcane sight, except that you automatically know which spells or magical effects are active upon any individual or object you see.
+Greater arcane sight doesn't let you identify magic items.
+Unlike arcane sight, this spell cannot be made permanent with a permanency spell.
+   

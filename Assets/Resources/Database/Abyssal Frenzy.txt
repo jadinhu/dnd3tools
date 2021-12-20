@@ -1,0 +1,22 @@
+<b>Abyssal Frenzy</b>(Fiendish Codex I: Hordes of the Abyss)
+
+Transmutation [Evil]
+ <b>Level:</b>  Cleric 8,   Fury 7,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One animal, humanoid, magical beast, or monstrous humanoid
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You speak a dark epithet while brandishing your holy symbol.
+Suddenly, the creature you targeted transforms into a demonic version of its true self.
+You cause the subject creature to deform.
+The transformation is shocking to behold � ;the creature's skin sprouts thick fur or jagged scales, horns grow from its head and body, its hands twist into talons, and so forth.
+This transformation bestows the following advantages and disadvantages on the subject for the duration of the spell:			Base land speed increases by 30 feet.		+3 enhancement bonus to natural armor.		The subject gains two claw attacks if it did not already have them.	
+If it did not previously have claws, the base damage for its new claw attacks depends on its size, as given on the following table.
+If it already had claw attacks, the base damage increases by one die type, as if the creature had become one size category larger.			Rend (Ex): If the subject hits a target with both claw attacks in a single round, it can rend the flesh, dealing damage equal to the twice its claw damage, modified by double its Strength modifier.		The subject gains darkvision out to 60 feet, or its existing darkvision extends by 60 feet.		+2 profane bonus to Strength and Constitution.		-2 penalty to Dexterity.	
+The subject cannot communicate, cast spells, use spell-like abilities, activate magic items, or use weapons other than its natural ones while under the effects of this spell.
+   

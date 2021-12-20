@@ -1,0 +1,19 @@
+<b>Cast In Stone</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 9,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> Personal
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> Will negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+Anyone meeting your gaze is permanently turned into a mindless, inert statue (as flesh to stone).
+You may free the victim of your own cast in stone at any time by speaking a command word you establish during the casting.
+Note: Each round, a gaze attack automatically works against one creature within range that is looking at (attacking or interacting with) the gazing creature.
+Creatures can avert their eyes, which grants them a 50% chance to avoid the gaze but in turn grants the gazer one-half concealment (20% miss chance) relative to them.
+Creatures can close their eyes or turn away entirely; doing so prevents the gaze from affecting them but grants the gazer total concealment (50% miss chance) relative to them.
+   

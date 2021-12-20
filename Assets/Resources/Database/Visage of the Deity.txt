@@ -1,0 +1,11 @@
+<b>Visage of the Deity</b>(Complete Divine)
+
+Transmutation [Evil, Good]
+ <b>Level:</b>  Cleric 6,    
+<b>Components:</b>
+
+ 	
+As lesser visage of the deity, but you take on all the qualities of a celestial or fiendish creature (see the Monster Manual for complete details):			You take on a shining, metallic appearance (for good clerics) or a more fearsome appearance (for evil clerics).		You gain the ability to smite evil (for good clerics) or good (for evil clerics) once a day.	
+Add your Charisma modifier to your attack roll and your character level to your damage roll against a foe of that alignment.			You gain darkvision to a range of 60 ft.		You gain acid, cold, and electricity resistance 20 (for good clerics) or cold and fire resistance 20 (for evil clerics).		You gain damage reduction 10/magic.		You gain spell resistance 20.	
+Your creature type does not change (you do not become an outsider).
+   

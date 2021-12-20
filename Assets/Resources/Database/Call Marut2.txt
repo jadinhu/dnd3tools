@@ -1,0 +1,22 @@
+<b>Call Marut</b>(Spell Compendium, p. 42)
+
+Conjuration (Calling) [Lawful]
+ <b>Level:</b>  Cleric 9,  Sorcerer 9,  Wizard 9,   Mechanus 9,   
+<b>Components:</b>V, S, DF, <abbr title="Experience">XP, 
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> One called marut
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+<b>You call across the boundaries of the multiverse, and the powers of Mechanus respond. The marut warps into place in an eyeblink with a whirling throb of thunder. &quot;Who denies death?&quot; it asks with the voice of an avalanche.</b>
+	
+By casting this spell, you receive the aid of a marut inevitable (<b>MM</b> 159). If you know an individual marut's name, you can request that individual by speaking the name during the spell (though you might get a different creature, 
+anyway).
+	
+You can ask the marut to perform one duty for you. The task must take no more than 1 hour to complete. The inevitable does not ask for any payment for the task.
+	
+<b>XP Cost:</b> 500 XP.
+ <b>Also appears in</b>   Planar Handbook     

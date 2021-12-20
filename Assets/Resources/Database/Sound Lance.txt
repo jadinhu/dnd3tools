@@ -1,0 +1,15 @@
+<b>Sound Lance</b>(Savage Species, p. 70)
+
+Evocation [Sonic]
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Target:</b> One creature or object
+ <b>Duration:</b> Instantaneous
+ <b>Saving Throw:</b> Fortitude half
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Sound lance</b> causes a projectile of intense sonic energy sound to leap unerringly from you to a target within range. The sound does 1d6 points of sonic damage per caster level, to a maximum of 10d6. The <b>sound lance</b> strikes unerringly, unless the target has total cover or total concealment. A <b>sound lance</b> cannot penetrate the area of a silence spell.
+ <b>Also appears in</b>   Spell Compendium     

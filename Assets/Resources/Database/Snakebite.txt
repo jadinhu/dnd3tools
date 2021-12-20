@@ -1,0 +1,21 @@
+<b>Snakebite</b>(Magic of Faerun)
+
+Transmutation
+ <b>Level:</b>  Druid 3,  Ranger 4,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 action
+ <b>Range:</b> Personal
+ <b>Area:</b> You
+ <b>Duration:</b> 1 round/level (D)
+ <b>Saving Throw:</b> See text
+ <b>Spell Resistance:</b> No
+
+ 	
+One of your arms turns into a venomous snake with a fanged, biting mouth.
+The bite does 1d3 points of damage and carries a toxic venom (1d6 Con/1d6 Con).
+Each instance of damage can be negated by a Fortitude save (DC 10 + one-half caster level + caster's Wisdom modifier).
+If the victim fails either save, he must also make a Will save (DC as normal for spell) or be paralyzed for 1d4 rounds.
+You can't hold a weapon with your transformed hand, but your other hand can be used to wield weapons or cast spells with somatic components.
+Attacking with the transformed hand and a weapon incurs the standard two-weapon fighting penalties (see Table 8-2: Two-Weapon Fighting Penalties, page 125 of the Player's Handbook).
+You can only be under the effect of one snakebite spell at any given time.
+ <b>Also appears in</b>   Spell Compendium     

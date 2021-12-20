@@ -1,0 +1,24 @@
+<b>Freezing Fog</b>(Complete Arcane)
+
+Conjuration (Creation) [Cold]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Fog spreads in 20-ft. radius, 20 ft. high
+ <b>Duration:</b> 1 min./level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+A bank of freezing mist billows out from the point you designate, obscuring all sight (including darkvision) beyond 5 feet.
+Creatures in the first 5 feet of the mist have concealment, while creatures farther inside have total concealment.
+Each round on your turn, the frigid mist deals 1d6 points of cold damage to each creature and object within it.
+The freezing fog is so thick that any creature attempting to move through it progresses at a maximum speed of 5 feet (regardless of its normal speed) and takes a -2 penalty on all melee attack rolls and damage rolls and a -6 penalty on ranged weapon attack rolls (but not ranged spell attack rolls).
+A creature or object that falls into the fog from above is slowed, so that each 10 feet of mist it passes through effectively reduces overall falling distance by 10 feet.
+Freezing fog also coats all solid surfaces in its area with a slick, icy rime, and on your turn each round, each creature in the area of the fog must make a successful Reflex save or fall.
+A creature that manages to stand must make a DC 10 Balance check in order to move, falling if it fails its save by 5 or more.
+Creatures in a freezing fog can't take a 5-foot step.
+A severe wind (31+ mph) disperses the cloud in 1 round.
+The spell does not function underwater.
+ <b>Also appears in</b>   Spell Compendium     

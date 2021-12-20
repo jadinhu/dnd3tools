@@ -1,0 +1,19 @@
+<b>Dancing Lights</b>(Player's Handbook v.3.5, p. 216)
+
+Evocation [Light]
+ <b>Level:</b>  Bard 0,  Sorcerer 0,  Wizard 0,  Beguiler 0,  Wu Jen 0 (Fire),  Sha'ir 0,  Jester 0,  Death Master 0,  Court Herald 0,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> Up to four lights, all within a 10-ft.-radius area
+ <b>Duration:</b> 1 minute (D)
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> No
+
+ 	
+Depending on the version selected, you create up to four lights that resemble lanterns or torches (and cast that amount of light), or up to four glowing spheres of light (which look like will-o'-wisps), or one faintly glowing, vaguely humanoid shape.
+The dancing lights must stay within a 10-foot-radius area in relation to each other but otherwise move as you desire (no concentration required): forward or back, up or down, straight or turning corners, or the like.
+The lights can move up to 100 feet per round.
+A light winks out if the distance between you and it exceeds the spell's range.
+Dancing lights can be made permanent with a permanency spell.
+   

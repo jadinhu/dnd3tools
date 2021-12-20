@@ -1,0 +1,22 @@
+<b>Slow Consumption</b>(Book of Vile Darkness)
+
+Necromancy [Evil]
+ <b>Level:</b>  Cleric 1,  Sorcerer 2,  Wizard 2,    
+<b>Components:</b>V, S, Location
+ <b>Casting Time:</b> 10 minutes
+ <b>Range:</b> Touch
+ <b>Target:</b> One living creature
+ <b>Duration:</b> Permanent (see below)
+ <b>Saving Throw:</b> Fortitude negates
+ <b>Spell Resistance:</b> Yes
+
+ 	
+The caster absorbs the life force and physical form from a living subject and uses it for himself.
+The victim must be rendered helpless to cast this spell upon her.
+For that day, the caster heals at twice the normal natural rate and does not need to eat.
+The subject, on the other hand, does not heal naturally that day and takes 1 point of Constitution damage.
+As long as the caster touches the subject once per day, he gains the benefits and the subject takes the Constitution damage.
+If the caster does not touch the subject within 24 hours of the last time he touched her, the spell ends.
+Villains often use this spell on prisoners, who are sometimes sustained by lesser restoration spells so they can serve for years as evil sustenance.
+Location Component: An area under the effect of a desecrate or unhallow spell.
+   

@@ -1,0 +1,23 @@
+<b>Crown of Clarity</b>(Player's Handbook II)
+
+Divination
+ <b>Level:</b>  Ranger 2,  Druid 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, AF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Touch
+ <b>Target:</b> Creature touched
+ <b>Duration:</b> 1 hour/level (D) or until discharged
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+A crown of magical energy appears upon your head.
+For a moment, your vision blurs and a slight buzz fills your ears.
+These distractions pass, leaving you with sharpened senses.
+You create an arcane crown that grants the wearer a +2 competence bonus on Listen and Spot checks.
+As an immediate action, the creature wearing a crown of clarity can discharge its magic to gain a +8 bonus on a single Spot or Listen check.
+The spell ends after the wearer uses the crown in this manner.
+The crown occupies space on the body as a headband, hat, or helm.
+If the crown is removed, the spell immediately ends.
+Focus: A pewter hoop 6 inches in diameter.
+   

@@ -1,0 +1,16 @@
+<b>Feigned Opening</b>(Tome of Battle: The Book of Nine Swords, p. 72)
+
+Setting Sun (Counter)
+ <b>Level:</b>  Swordsage 3 (One Setting Sun maneuver),    
+<b>Components:</b>
+ <b>Casting Time:</b> 1 swift action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+
+ 	
+<b>You show your opponent a seemingly fatal mistake in your defenses, but easily avoid the ensuing attack and simultaneously draw your foe into overextending. As she fights to regain her balance, you make a swift counterattack.</b>
+	
+You can use this maneuver when an opponent attempts an attack of opportunity against you. As you provoke the attack of opportunity, you position yourself in such a way as to force your opponent to throw herself off balance to strike you. Even if she succeeds in striking you, your foe might regret her attack as your allies leap in to finish her.
+	
+When your enemy makes an attack of opportunity against you, but before you know the result of the attack, you can initiate this maneuver. If her attack misses, she provokes an attack of opportunity from you. If her attack of opportunity hits you, she provokes an attack of opportunity from any of your allies who threaten her.
+   

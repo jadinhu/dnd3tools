@@ -1,0 +1,25 @@
+<b>Orb of Dancing Death</b>(Magic of Eberron, p. 99)
+
+Necromancy
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Effect:</b> Orb of negative energy
+ <b>Duration:</b> 1 round/3 levels
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+You call upon dark necromantic energy to drain the life force of your foes. You create a small orb of pulsing black energy (about 6 inches across) that flies toward a chosen creature, striking as a ranged touch attack. If it hits, the creature gains 1 negative level.
+	
+Each round as a move action, you can direct the orb of dancing death to attack another creature within range (including the previous target, if desired). If not directed, the orb returns to your side.
+	
+If a creature has at least as many negative levels as HD, it dies. Each negative level gives a creature a -1 penalty on attack rolls, saving throws, skill checks, ability checks, and effective level (for determining the power, duration, DC, and other details of spells or special abilities). Additionally, a spellcaster loses one spell or spell slot from his or her highest available level. Negative levels stack.
+	
+Assuming the subject survives, it regains lost levels after a number of hours equal to your caster level (maximum 15 hours). Usually, negative levels have a chance of permanently draining the victim's levels, but the negative levels from the orb of dancing death don't last long enough to do so.
+	
+An undead creature struck by the orb gains 5 temporary hit points for 1 hour.
+	
+<b>Material Component:</b> A piece of a zombie's skull.
+   

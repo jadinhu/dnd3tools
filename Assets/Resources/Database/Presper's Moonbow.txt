@@ -1,0 +1,19 @@
+<b>Presper's Moonbow</b>(Player's Guide to FaerÃ»n, p. 108)
+
+Evocation [Electricity]
+ <b>Level:</b>  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Medium (100 ft. + 10 ft./level)
+ <b>Effect:</b> 1d4 motes of electricity
+ <b>Duration:</b> Instantaneous or 1-4 rounds; see text
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+This spell conjures 1d4 glowing motes of electricity, which gather and spin around you in the manner of a faerie fire spell. You may immediately direct any number of the motes to fly off and attack targets within the spell's range. Multiple motes may be fired at the same target, or each may be sent against a separate target. You must succeed on a ranged touch attack with a mote to strike a target. Any creature struck by a mote takes electricity damage according to the following table.
+	<table>		<tr>			<th>Motes Created </th>			<th>Damage per Mote </th>		</tr>		<tr>			<td>1</td>			<td>4d6</td>		</tr>		<tr>			<td>2</td>			<td>3d6</td>		</tr>		<tr>			<td>3</td>			<td>2d6</td>		</tr>		<tr>			<td>4</td>			<td>2d4</td>		</tr>	</table>	
+If you do not immediately fire all the motes created by the spell, you may choose to fire as many of the remaining ones as you wish as a standard action during the next round. If a round passes in which you do not fire one of your motes, the spell ends and all remaining motes vanish.
+	
+<b>Material Components:</b> A small piece of moonstone.
+   

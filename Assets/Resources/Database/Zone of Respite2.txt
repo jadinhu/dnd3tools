@@ -1,0 +1,23 @@
+<b>Zone of Respite</b>(Spell Compendium, p. 244)
+
+Abjuration
+ <b>Level:</b>  Cleric 5,  Sorcerer 5,  Wizard 5,    
+<b>Components:</b>V, S, M, 
+ <b>Casting Time:</b> 1 Standard Action
+ <b>Range:</b> 20 ft
+ <b>Area:</b> 20-ft.-radius emanation centered on you
+ <b>Duration:</b> 1 minute/level
+ <b>Saving Throw:</b> None
+ <b>Spell Resistance:</b> Yes
+
+ 	
+<b>Smearing blood between your fingers, you inscribe a ward in the air and cast the power of that ward over a wide area.</b>
+	
+You create a region that is temporarily protected against interplanar intrusion. This includes spells and abilities that use other planes, including dimension door, teleport, plane shift, and travel through such planes as the Astral Plane, the Ethereal Plane, and the Plane of Shadow.
+	
+Summoning and calling spells do not function within a zone of respite, but summoned and called creatures outside a zone of respite can be sent inside it. 
+	
+Gate spells and other portals cannot be created within a zone of respite, but existing portals are unaffected by the spell. Creatures on coterminous or coexistent planes (<span class="caps">DMG</span> 150) must retreat to the edge of the zone of respite and cannot enter the corresponding area on the coterminous or coexistent plane. 
+	
+Material Component: A small amount of blood from a gorgon.
+   

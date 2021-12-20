@@ -1,0 +1,19 @@
+<b>Entangle</b>(Player's Handbook v.3.5, p. 227)
+
+Transmutation
+ <b>Level:</b>  Druid 1,  Ranger 1,  Nentyar Hunter 1,   Plant 1,   
+<b>Components:</b>V, S, DF, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Long (400 ft. + 40 ft./level)
+ <b>Area:</b> Plants in a 40-ft.-radius spread
+ <b>Duration:</b> 1 min./level (D)
+ <b>Saving Throw:</b> Reflex partial; see text
+ <b>Spell Resistance:</b> No
+
+ 	
+Grasses, weeds, bushes, and even trees wrap, twist, and entwine about creatures in the area or those that enter the area, holding them fast and causing them to become entangled.
+The creature can break free and move half its normal speed by using a full-round action to make a DC 20 Strength check or a DC 20 Escape Artist check.
+A creature that succeeds on a Reflex save is not entangled but can still move at only half speed through the area.
+Each round on your turn, the plants once again attempt to entangle all creatures that have avoided or escaped entanglement.
+Note: The DM may alter the effects of the spell somewhat, based on the nature of the entangling plants.
+   

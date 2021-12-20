@@ -1,0 +1,20 @@
+<b>Battlemagic Perception</b>(Heroes of Battle)
+
+Divination
+ <b>Level:</b>  Cleric 3,  Sorcerer 3,  Wizard 3,    
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Personal
+ <b>Target:</b> You
+ <b>Duration:</b> 10 min./level (D)
+
+ 	
+You gain a perception of the forces of magic and can sense when magic is being manipulated by a spellcaster.
+You gain a +5 competence bonus on Spellcraft checks made to identify a spell as it is being cast.
+If you have at least 5 ranks in Spellcraft, you are also able to sense the use of any spell or spell-like ability within 100 feet, so long as you have line of effect to the caster.
+With a Spellcraft check (DC 15 + spell level) you can even ascertain the spell being cast.
+This determination happens quickly enough that you can
+attempt to counter the spell as a free action.
+Counterspell attempts are otherwise handled normally, and you can counter the spell even if you do not have line of sight to the spellcaster.
+If you counter a spell in this manner, the battlemagic perception spell ends immediately.
+   

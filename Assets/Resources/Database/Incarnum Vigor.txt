@@ -1,0 +1,19 @@
+<b>Incarnum Vigor</b>(Magic of Incarnum)
+
+Transmutation [Incarnum]
+ <b>Level:</b>  Cleric 6,  Druid 7,   Incarnum 6,   
+<b>Components:</b>V, S, 
+ <b>Casting Time:</b> 1 standard action
+ <b>Range:</b> Close (25 ft. + 5 ft./2 levels)
+ <b>Target:</b> One living creature
+ <b>Duration:</b> 1 round/level
+ <b>Saving Throw:</b> Will negates (harmless)
+ <b>Spell Resistance:</b> Yes (harmless)
+
+ 	
+You infuse the target with incarnum laced with positive energy.
+He gains fast healing 1.
+In addition, any spell he casts that heals hit point damage heals an additional amount to each creature affected by that spell equal to your caster level or twice the healing spell's level, whichever is lower.
+For example, a cleric casting mass cure serious wounds would add either +14 (twice the level of the mass cure serious wounds spell) or the incarnum vigor's caster level, whichever is lower, to the healing provided to each target of the spell.
+Essentia: Every point of essentia you invest in this spell increases the fast healing granted by 1 point.
+   
