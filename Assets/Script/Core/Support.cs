@@ -2,7 +2,7 @@
 * Support.cs
 * Created by: Jadson Almeida [jadson.sistemas@gmail.com]
 * Created on: 23/02/19 (dd/mm/yy)
-* Revised on: 19/12/21 (dd/mm/yy)
+* Revised on: 21/12/21 (dd/mm/yy)
 */
 using System.Collections.Generic;
 using UnityEngine;
@@ -333,7 +333,9 @@ public class Support : MonoBehaviour
         panelSettings.SetActive(open);
     }
 
-    
+    /// <summary>
+    /// Local save the user's settings (sound) 
+    /// </summary>
     public void SaveSettings()
     {
         AudioHandler.Instance.SetAudioOn(toggleSettingsSound.isOn);
@@ -341,6 +343,10 @@ public class Support : MonoBehaviour
         ShowPanelSettings(false);
     }
 
+    /// <summary>
+    /// Shows panel profile to select a profile and hides the creation profile panel or otherwise
+    /// </summary>
+    /// <param name="open">shows panel profiles to select, if true</param>
     public void ShowPanelProfile(bool open)
     {
         panelProfile.SetActive(open);
@@ -348,16 +354,27 @@ public class Support : MonoBehaviour
         panelCreateProfile.SetActive(false);
     }
 
+    /// <summary>
+    /// Shows or hides <see cref="panelSelectProfile"/>
+    /// </summary>
+    /// <param name="open">shows if true</param>
     public void ShowPanelSelectProfile(bool open)
     {
         panelSelectProfile.SetActive(open);
     }
 
+    /// <summary>
+    /// Shows or hides <see cref="panelCreateProfile"/>
+    /// </summary>
+    /// <param name="open">shows if true</param>
     public void ShowPanelCreateProfile(bool open)
     {
         panelCreateProfile.SetActive(open);
     }
 
+    /// <summary>
+    /// Selects a profile in a <see cref="Dropdown"/>
+    /// </summary>
     public void SelectProfile()
     {
         Dropdown dropProfile = panelSelectProfile.GetComponentInChildren<Dropdown>();
@@ -369,6 +386,10 @@ public class Support : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Creates a new profile with <see cref="InputField"/> from <see cref="panelCreateProfile"/>. 
+    /// <seealso cref="ShowPanelCreateProfile(bool)"/>
+    /// </summary>
     public void CreateProfile()
     {
         string profileName = panelCreateProfile.GetComponentInChildren<InputField>().text;
@@ -381,11 +402,19 @@ public class Support : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Shows or hides <see cref="panelCloud"/>
+    /// </summary>
+    /// <param name="open">shows if true</param>
     public void ShowPanelCloud(bool open)
     {
         panelCloud.SetActive(open);
     }
 
+    /// <summary>
+    /// Shows or hides <see cref="panelLoadingCloud"/>
+    /// </summary>
+    /// <param name="open">shows if true</param>
     public void ShowPanelLoadingCloud(bool open)
     {
         panelLoadingCloud.SetActive(open);

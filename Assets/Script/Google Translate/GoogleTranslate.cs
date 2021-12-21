@@ -2,7 +2,7 @@
 * GoogleTranslate.cs
 * Created by: Jadson Almeida [jadson.sistemas@gmail.com]
 * Created on: 31/10/18 (dd/mm/yy)
-* Revised on: 10/11/18 (dd/mm/yy)
+* Revised on: 21/12/21 (dd/mm/yy)
 */
 using SimpleJSON;
 using System.Collections;
@@ -97,6 +97,10 @@ public class GoogleTranslate : MonoBehaviour
         }
     }
 
+    /// <summary>
+    /// Get all "en-" codes for supported languages (from <see cref="GetEnglishCodeTranslations(FinishGetEnglishCodes)"/>)
+    /// </summary>
+    /// <param name="finishGetEnglishCodes">delegate for receive "en-" codes</param>
     IEnumerator GetEnglishCodeProcess(FinishGetEnglishCodes finishGetEnglishCodes)
     {
         string url = "https://translate.yandex.net/api/v1.5/tr.json/getLangs?key=" + keyApi + "&ui=en";

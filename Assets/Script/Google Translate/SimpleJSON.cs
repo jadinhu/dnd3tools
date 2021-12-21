@@ -2,7 +2,7 @@
 * SimpleJSON.cs
 * Created by: Jadson Almeida [jadson.sistemas@gmail.com]
 * Created on: 31/10/18 (dd/mm/yy)
-* Revised on: 31/10/18 (dd/mm/yy)
+* Revised on: 21/12/21 (dd/mm/yy)
 */
 using System;
 using System.Collections;
@@ -10,6 +10,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+/// <summary>
+/// Handles the JSON files
+/// </summary>
 namespace SimpleJSON
 {
     public enum JSONNodeType
